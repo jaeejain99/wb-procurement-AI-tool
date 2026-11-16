@@ -1,0 +1,4407 @@
+Report No: ICR00089
+IMPLEMENTATION COMPLETION AND RESULTS REPORT
+ON A
+CREDIT
+IN THE AMOUNT OF US$80 MILLION IDA CREDIT,
+US$17 MILLION (GLOBAL FINANCING FACILITY IN SUPPORT OF EVERY WOMAN EVERY CHILD MULTI-DONOR TRUST
+FUND),
+US$5 MILLION (INTEGRATING DONOR-FINANCED HEALTH PROGRAMS MULTI-DONOR TRUST FUND), AND
+US$3 MILLION (TACKLING NON-COMMUNICABLE DISEASES CHALLENGES IN LOW- AND MIDDLE-INCOME COUNTRIES
+MULTI-DONOR TRUST FUND)
+TO THE
+SOCIALIST REPUBLIC OF VIET NAM
+FOR
+Investing and Innovating for Grassroots Health Service Delivery
+June 26, 2025
+Health, Nutrition & Population
+East Asia And Pacific
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+ICR DOCUMENT
+
+CURRENCY EQUIVALENTS
+(Exchange Rate Effective {December 31, 2024})
+Currency Unit = Vietnamese Dong
+VND 25,485 = US$1
+
+FISCAL YEAR
+January 1 - December 31
+
+Regional Vice President:
+
+Manuela V. Ferro
+
+Country Director:
+
+Mariam J. Sherman
+
+Regional Director:
+
+Alberto Rodriguez
+
+Practice Manager:
+
+Caryn Bredenkamp
+
+Task Team Leader (s):
+
+Anh Thuy Nguyen, Huong Lan Dao
+
+ICR Main Contributor:
+
+Lander Bosch
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+ICR DOCUMENT
+
+ABBREVIATIONS AND ACRONYMS
+AM
+BCA
+CHS
+COPD
+COVID-19
+CPF
+CPMU
+DH
+DHC
+GFF
+FM
+FY
+GoV
+GSD
+HMIS
+HRH
+ICR
+IDA
+IRI
+ISM
+ISR
+M&E
+MCH
+MDTF
+MICS
+MoH
+MTR
+NCD
+NPV
+ODA
+OOP
+PAD
+PDO
+PLR
+PPMU
+SORT
+ToC
+TTL
+WHO
+
+Aide Memoire
+Benefit-Cost Analysis
+Commune Health Station
+Chronic Obstructive Pulmonary Disease
+Coronavirus Disease 2019
+Country Partnership Framework
+Central Project Management Unit
+District Hospital
+District Health Center
+Global Financing Facility
+Financial Management
+Fiscal Year
+Government of Viet Nam
+Grassroots Health Service Delivery
+Health Management Information System
+Human Resources for Health
+Implementation Completion and Results Report
+International Development Association
+Intermediate Results Indicator
+Implementation Support Mission
+Implementation Status and Results Report
+Monitoring & Evaluation
+Maternal and Child Health
+Multi-Donor Trust Fund
+Multiple Indicator Cluster Survey
+Ministry of Health
+Mid-Term Review
+Non-communicable disease
+Net Present Value
+Overseas Development Assistance
+Out-of-pocket
+Project Appraisal Document
+Project Development Objective
+Performance and Learning Review
+Provincial Project Management Unit
+Systematic Operations Risk-Rating Tool
+Theory of Change
+Task Team Leader
+World Health Organization
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+ICR DOCUMENT
+
+TABLE OF CONTENTS
+
+DATA SHEET ................................................................................................................................................. i
+I.
+
+PROJECT CONTEXT AND DEVELOPMENT OBJECTIVES ..................................................................................1
+
+II.
+
+OUTCOME .................................................................................................................................................6
+
+III. KEY FACTORS AFFECTED IMPLEMENTATION AND OUTCOME ......................................................................... 13
+IV. BANK PERFORMANCE, COMPLIANCE ISSUES, AND RISK TO DEVELOPMENT OUTCOME .................................. 15
+V. LESSONS AND RECOMMENDATIONS ............................................................................................................. 20
+ANNEX 1. RESULTS FRAMEWORK AND KEY OUTPUTS ........................................................................................ 21
+ANNEX 2. BANK LENDING AND IMPLEMENTATION SUPPORT/SUPERVISION ....................................................... 27
+ANNEX 3. PROJECT COST BY COMPONENT ......................................................................................................... 29
+ANNEX 4. EFFICIENCY ANALYSIS ........................................................................................................................ 30
+ANNEX 5. BORROWER, CO-FINANCIER AND OTHER PARTNER/STAKEHOLDER COMMENTS ................................. 36
+ANNEX 6. SUPPORTING DOCUMENTS – Results Framework ............................................................................... 38
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+ICR DOCUMENT
+
+DATA SHEET
+@#&OPS~Doctype~OPS^dynamics@icrbasicdata#doctemplate
+BASIC DATA
+Product Information
+Operation ID
+P161283
+
+Operation Name
+Investing and Innovating for Grassroots Health Service
+Delivery
+
+Product
+
+Operation Short Name
+
+Investment Project Financing (IPF)
+
+Grassroots Health Service Delivery
+
+Operation Status
+
+Approval Fiscal Year
+
+Closed
+
+2019
+
+Original EA Category
+
+Current EA Category
+
+Partial Assessment (B) (Approval package - 19 Jun 2019)
+
+Partial Assessment (B) (Restructuring Data Sheet - 22 Feb
+2023)
+
+CLIENTS
+Borrower/Recipient
+
+Ministry of Finance
+
+Implementing Agency
+Bac Kan Department of Health, Bac Lieu Department of
+Health, Ha Giang Department of Health, Hau Giang
+Department of Health, Hoa Binh Department of Health,
+Long An Department of Health, Ministry of Health, Ninh
+Thuan Department of Health, Quang Binh Department of
+Health, Quang Ngai Department of Health, Quang Tri
+Provincial Project Management Unit for Civil Works, Son
+La Department of Health, Tra Vinh Department of
+Health, Yen Bai Department of Health
+
+DEVELOPMENT OBJECTIVE
+Original Development Objective (Approved as part of Approval Package on 19-Jun-2019)
+
+i
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+ICR DOCUMENT
+
+The Project Development Objective is to improve the quality and utilization of grassroots health services, with a focus
+on the commune level, in the Project Provinces.
+
+s
+s
+s
+s
+s
+
+@#&OPS~Doctype~OPS^dynamics@icrfinancing#doctemplate
+FINANCING
+Financing Source
+World Bank Financing
+IDA-64390
+World Bank Administered
+Financing
+TF-B0276
+TF-B0266
+Non-World Bank Financing
+National Government
+Local Govts. (Prov., District,
+City) of Borrowing Country
+Total
+
+Original Amount (US$)
+80,000,000.00
+80,000,000.00
+
+Revised Amount (US$)
+69,016,711.94
+69,016,711.94
+4,680,317.12
+
+Actual Disbursed (US$)
+69,016,711.94
+69,016,711.94
+4,680,317.12
+
+5,000,000.00
+3,000,000.00
+21,250,000.00
+700,000.00
+20,550,000.00
+
+2,849,353.95
+1,830,963.17
+21,250,000.00
+700,000.00
+20,550,000.00
+
+2,849,353.95
+1,830,963.17
+11,767,473.20
+427,678.20
+11,339,795.00
+
+109,250,000.00
+
+94,947,029.06
+
+85,464,502.26
+
+8,000,000.00
+
+RESTRUCTURING AND/OR ADDITIONAL FINANCING
+
+Date(s)
+
+Type
+
+Amount Disbursed
+(US$M)
+
+Key Revisions
+
+11-Feb-2022
+
+Portal
+
+14.68
+
+• Results
+
+30-Mar-2022
+
+Portal
+
+14.68
+
+• Loan Closing Date Extension
+
+22-Feb-2023
+
+Portal
+
+34.71
+
+• Results
+
+@#&OPS~Doctype~OPS^dynamics@icrkeydates#doctemplate
+KEY DATES
+Key Events
+
+Planned Date
+
+Actual Date
+
+20-Jul-2017
+
+06-Jul-2017
+
+Authorize Negotiations
+
+08-Mar-2019
+
+13-Mar-2019
+
+Approval
+
+19-Jun-2019
+
+19-Jun-2019
+
+Concept Review
+
+ii
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+ICR DOCUMENT
+
+Signing
+
+18-Feb-2020
+
+18-Feb-2020
+
+Effectiveness
+
+18-May-2020
+
+18-May-2020
+
+Restructuring Sequence.01
+
+Not Applicable
+
+11-Feb-2022
+
+Restructuring Sequence.02
+
+Not Applicable
+
+30-Mar-2022
+
+Restructuring Sequence.03
+
+Not Applicable
+
+22-Feb-2023
+
+Mid-Term Review No. 01
+
+16-Dec-2022
+
+24-Oct-2022
+
+Operation Closing/Cancellation
+
+31-Dec-2024
+
+31-Dec-2024
+
+ICR/NCO
+
+30-Jun-2025
+
+--
+
+@#&OPS~Doctype~OPS^dynamics@icrratings#doctemplate
+RATINGS SUMMARY
+Outcome
+Moderately Satisfactory
+
+Bank Performance
+
+M&E Quality
+
+Moderately Satisfactory
+
+Modest
+
+ISR RATINGS
+No.
+
+Date ISR Archived
+
+DO Rating
+
+IP Rating
+
+Actual Disbursements
+(US$M)
+
+01
+
+02-Oct-2019
+
+Satisfactory
+
+Satisfactory
+
+0.00
+
+02
+
+17-Apr-2020
+
+Satisfactory
+
+Moderately Satisfactory
+
+0.00
+
+03
+
+05-Oct-2020
+
+Satisfactory
+
+Satisfactory
+
+0.00
+
+04
+
+19-Apr-2021
+
+Satisfactory
+
+Moderately Satisfactory
+
+1.17
+
+05
+
+16-Nov-2021
+
+Moderately Satisfactory
+
+Moderately Satisfactory
+
+9.49
+
+06
+
+17-Jun-2022
+
+Moderately Satisfactory
+
+Moderately Satisfactory
+
+20.63
+
+07
+
+16-Dec-2022
+
+Moderately Satisfactory
+
+Moderately Satisfactory
+
+28.49
+
+08
+
+26-May-2023
+
+Moderately Satisfactory
+
+Moderately Satisfactory
+
+40.01
+
+09
+
+07-Dec-2023
+
+Moderately Satisfactory
+
+Moderately Satisfactory
+
+53.91
+
+10
+
+11-Jun-2024
+
+Moderately Satisfactory
+
+Satisfactory
+
+64.66
+
+11
+
+09-Dec-2024
+
+Moderately Satisfactory
+
+Satisfactory
+
+71.36
+
+iii
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+ICR DOCUMENT
+
+@#&OPS~Doctype~OPS^dynamics@icrsectortheme#doctemplate
+SECTORS AND THEMES
+Sectors
+Major Sector
+FY17 - Health
+
+Sector
+FY17 - Health Facilities and
+Construction
+
+Adaptation
+Co-benefits
+(%)
+
+%
+100
+
+Mitigation
+Co-benefits (%)
+8
+
+0
+
+Themes
+Major Theme
+FY17 - Environment and
+Natural Resource
+Management
+FY17 - Human
+Development and
+Gender
+
+Theme (Level 2)
+
+Theme (Level 3)
+
+FY17 - Climate change
+
+FY17 - Adaptation
+
+FY17 - Health Systems and Policies
+
+FY17 - Health Service
+Delivery
+FY17 - Health System
+Strengthening
+
+%
+8
+81
+100
+
+iv
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+ICR DOCUMENT
+
+ADM STAFF
+Role
+
+At Approval
+
+At ICR
+
+Practice Manager
+
+Enis Barış
+
+Caryn Bredenkamp
+
+Regional Director
+
+Olusoji O. Adeyi
+
+Alberto Rodriguez
+
+Global Director
+
+Timothy Grant Evans
+
+Juan Pablo Uribe
+
+Practice Group Vice President
+
+Annette Dixon
+
+Mamta Murthi
+
+Country Director
+
+Ousmane Dione
+
+Mariam J. Sherman
+
+Regional Vice President
+
+Victoria Kwakwa
+
+Manuela V. Ferro
+
+ADM Responsible Team Leader
+
+Caryn Bredenkamp
+
+Anh Thuy Nguyen
+
+Co-Team Leader(s)
+
+Anh Thuy Nguyen, Huong Lan Dao
+
+Huong Lan Dao
+
+ICR Main Contributor
+
+Lander Bosch
+
+I. PROJECT CONTEXT AND DEVELOPMENT OBJECTIVES
+A. CONTEXT AT APPRAISAL
+Context
+1.
+At the time of appraisal of the ‘Investing and Innovating for Grassroots Health Service Delivery’ (GSD)
+Project in February 2019, Viet Nam had seen decades of poverty reduction and strong economic growth. Poverty
+stood at 5.7 percent of the population at national poverty lines in 2019, down from 58.1 percent in 19921. This positive
+trend was also seen in the health sector, where rising life expectancy (74.1 years in 2019, up from 68.4 years three
+decades prior2) was accompanied by improvements in maternal and child health (MCH) outcomes. Nonetheless, with
+a Gini index of 35.7 in both 1992 and 2018, little progress had been made to structurally reduce socioeconomic
+inequities3. Positive nationwide averages masked geographic, gender, and socioeconomic disparities. In the health
+sector, infant mortality in rural areas was twice as high as in urban environments in 2019 (16.7 versus 8.2 per 1,000
+live births)4. The latest Multiple Indicator Cluster Survey (MICS, 2013-20145) at appraisal showed deep inequalities in
+service delivery and health outcomes for ethnic minorities. On average, 8.6 percent of children under five had an
+episode of diarrhea in the two weeks before the MICS. This was 18.5 percent among ethnic minority children.
+Similarly, 15.4 percent of children in the poorest quintile had diarrhea, compared to 5.2 percent in the richest quintile.
+While 1.5 percent of all children did not receive basic immunization, this was 8.2 percent among the poorest quintile
+and 7.4 percent among ethnic minority households.
+
+1
+
+World Bank, 2024. Poverty headcount ratio at national poverty lines (% of population) - Viet Nam. Available at:
+https://data.worldbank.org/indicator/SI.POV.NAHC?locations=VN
+2
+World Bank, 2024. Life expectancy at birth, total (years) - Viet Nam. Available at: https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=VN
+3
+
+World Bank, 2024. Gini index - Viet Nam. Available at: https://data.worldbank.org/indicator/SI.POV.GINI?locations=VN
+Viet Nam General Statistics Office (GSO) 2019. Statistical Yearbook of Viet Nam. Available at: https://www.gso.gov.vn/en/data-and-statistics/2020/09/statisticalyearbook-2019/
+5 GSO and UNICEF. 2015. Viet Nam Multiple Indicator Cluster Survey 2014, Final Report. Ha Noi, Viet Nam.
+4
+
+Page 1
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+ICR DOCUMENT
+
+2.
+New challenges arose that risked deepening disparities and reversing the nationwide positive trends.
+Climate change emerged an existential threat to the country, with Viet Nam being the 13th-most vulnerable country
+to climate risks in 20196. Viet Nam also was one of the most rapidly ageing countries. In 2019, 11.9 percent of the
+population was 60 or over, expected to skyrocket to 25 percent by 20507. These factors were only two contributors
+to the overall rising burden of non-communicable diseases (NCDs). NCD-related hospital admissions grew from 38
+percent to 66 percent between 1986 and 20158, and the share of deaths attributable to NCDs rose to 81 percent in
+2019, up from 73 percent at the start of the century9. These combined challenges created new demand and additional
+pressures on already stretched resources, against a backdrop of rising fiscal pressures, with debt standing at 58.3
+percent of GDP in 201510.
+3.
+The sustainability of health financing in Viet Nam was under pressure at the time of appraisal. Public
+spending on health in Viet Nam rose from US$554 million in 2000 to US$6.8 billion in 2018. Adjusted for inflation and
+population growth, this represents a four-fold increase. This public spending also increased as a share of total health
+expenditure over the same period, from 37 percent to 47 percent11. Out-of-pocket (OOP) expenditures made up 45
+percent of expenditures, high in comparison to regional and socioeconomic peers12. While health insurance coverage
+had grown to 87 percent in 2018 since its introduction in 199213, rising fees for service due to fiscal pressures proved
+a major sustainability risk for the health insurance fund and, in particular, the 13 percent uninsured patients. These
+financing challenges were amplified by an overreliance on hospital care, where the fee-for-service and staff income
+incentives stimulated over-servicing, while primary care was bypassed – despite this being the foundation of the
+grassroots health system in Viet Nam. This grassroots health system consists of District Hospitals (DHs), delivering
+primary and secondary care to approximately 100,000 individuals at the district level, and Commune Health Stations
+(CHSs), delivering primary care at 5,000-8,000 commune residents. CHSs also oversee village health workers, critical
+for community outreach.
+4.
+Against this backdrop, the GSD Project was devised to increase the quality and utilization of health services
+at the grassroots level. The Project, approved in June 2019 and effective in May 2020, consisted of a US$80 million
+International Development Association (IDA) credit, complemented by US$25 million in grant financing from the
+Global Financing Facility (GFF), the Integrating Donor-Financed Health Programs Multi-Donor Trust Fund (MDTF), and
+the Tackling Non-Communicable Diseases Challenges in Low- and Middle-income Countries MDTF, as well as US$20.55
+million on local Government counterpart financing, and US$0.7 million in national Government counterpart financing.
+Out of the US$25 million grant financing, US$17 million from GFF was used for partial buy down of principal and
+interest of the IDA transitional credit, and the MDTFs were envisaged to support specific Project activities. The GFF
+resources enabled the Government of Viet Nam (GoV) to lend while in transition from concessional IDA to IDA
+transitional credit, and GSD was the first type of IDA transitional credit project in any human development sector in
+Viet Nam.
+
+6
+
+Germanwatch, 2021. Global Climate Risk Index. Available at: https://www.germanwatch.org/en/cri
+
+7
+
+UNFPA Viet Nam, 2024. Ageing. Available at: https://Viet Nam.unfpa.org/en/topics/ageing4#:~:text=Viet%20Nam%20is%20one%20of,to%20an%20%E2%80%9Caged%E2%80%9D%20society.
+8
+Nguyen, P.T. et al., 2022. Trends in, projections of, and inequalities in non-communicable disease management indicators in Viet Nam 2010–2030 and progress
+toward universal health coverage: A Bayesian analysis at national and sub-national levels. eClinical Medicine 51:101550.
+9
+World Bank, 2024. Cause of death, by non-communicable diseases (% of total) - Viet Nam. Available at:
+https://data.worldbank.org/indicator/SH.DTH.NCOM.ZS?locations=vn
+10 International Monetary Fund (IMF), 2024. Debt, % of GDP. Available at:
+https://www.imf.org/external/datamapper/DEBT1@DEBT/VNM?zoom=VNM&highlight=VNM
+11
+JLN, 2021. Public Expenditure on Health in Viet Nam: A Narrative Summary. Joint Learning Network for Universal Health Coverage, Washington DC.
+12
+
+Ibid.
+
+13
+
+World Health Organization (WHO), 2024. Health financing. Available at: https://www.who.int/Viet Nam/health-topics/health-financing
+Page 2
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+ICR DOCUMENT
+
+5.
+The Project’s conceptualization started from the observation that grassroots care is not only cost-effective,
+but also best suited to deliver a range of existing and emerging diagnostic, preventive, and promotive care
+functions. Nonetheless, only 74.8 percent of communes had a CHS in 2016, with only 70.1 percent meeting the
+infrastructural, equipment, and competency commune health benchmarks, a figure as low as 50.0 percent in rural
+areas such as the remote Northern Midlands and Mountain Areas where grassroots care is more sought14. Grassroots
+health workers moreover lacked the skills and incentives to deliver essential preventative, diagnostic, and
+management NCD and MCH services 15 . GoV recognized these challenges and opportunities of grassroots health
+systems, with the five-year health sector plan for 2016–2020 focusing on strengthening the grassroots health system
+(Ministry of Health [MoH] Plan 139/KH-BYT of 2016), in addition to GoV’s Masterplan for Easing Hospital
+Overcrowding (Prime Ministerial Decision 92/QD-TTg of 2013). The GSD project aligned with these plans, as well as
+with Prime Ministerial Decision 2348/QD-TTg of 2016, which included plans for investment in health reforms and
+infrastructure, and identified overseas development assistance as a potential source of financing. In the year before
+GSD Project appraisal, a new 10-year Central Party Resolution on Health Care (Resolution No. 20 NQ/TW, October 25,
+2018) emphasized that priority should be given to strengthening of the grassroots health system, referring specifically
+to the role of the CHS in managing NCDs, through a new basic essential service package for health insurance
+reimbursement at the commune level.
+6.
+The GSD Project was also closely aligned with the World Bank Group Country Partnership Framework (CPF)
+for the Socialist Republic of Viet Nam for Fiscal Years (FYs) 2018-2022, in particular Objective 6 under Focus Area 2,
+“Improve access to quality public and private health services and reduce malnutrition”. The Project also had to
+comply with GoV lending and decentralization regulations, which mandated domestic on-lending by Provinces as
+independent project implementing agencies of lending projects within their administration. Each of the 13 Project
+Provinces’ Provincial People’s Committees were required to approve and sign a subsidiary loan agreement with the
+Ministry of Finance (MoF) as Borrower upon Project approval. Selection criteria for Project Provinces included the
+poverty rate, willingness and ability to borrow, based on debt status, tax revenue, and a provincial debt and borrowing
+threshold, among others. In total, the population of the 13 project provinces was 11,780,097, accounting for 12.6
+percent of the country’s population. These provinces were among the poorest provinces of the country, where the
+average poverty rate was 17.9 percent, more than double the national poverty rate of 7.9 percent.
+Theory of Change (Results Chain)
+7.
+The Project set out to improve the quality and utilization of commune-level health services through a
+threefold focus on (1) the availability of CHSs that meet national standards, (2) CHSs’ readiness to deliver essential
+health services, and (3) enabling this services delivery through an appropriate policy framework and guidelines as
+core outputs. This design translated to the Theory of Change (ToC) in the Project Appraisal Document (PAD) as below
+(figure 1). For the purpose of this Implementation Completion and Results Report (ICRR), the Project Development
+Objective (PDO) and critical assumptions have been added to the PAD-stage ToC. These critical assumptions center
+around the expectation that the Project outputs and outcomes would result in increased patient trust in and use of
+primary care services, and the adequate role of hospitals as referral facilities in support of CHSs, rather than as
+preferred destinations for primary care.
+Project Development Objectives (PDOs)
+8.
+The PDO in the PAD and Financing Agreement is to improve the quality and utilization of grassroots health
+services, with a focus on the commune level, in the Project Provinces16.
+Key Expected Outcomes and Outcome Indicators
+14
+
+GSO, 2018. Results of the Rural, Agricultural, and Fishery Census 2016. Statistical Publishing House, Hanoi.
+MOH, 2016. Viet Nam National Survey on the Risk Factors of NCDs (STEPS). General Department of Preventive Medicine, Hanoi.
+16
+Project Provinces are Ha Giang, Bac Kan, Son La, Yen Bai, Hoa Binh, Quang Binh, Quang Tri, Quang Ngai, Ninh Thuan, Long An, Tra Vinh, Bac Lieu and Hau Giang.
+15
+
+Page 3
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+9.
+
+ICR DOCUMENT
+
+The PDO-level indicators can be broken down by the two Project outcomes as follows:
+Improve
+Quality
+
+PDO Indicator
+Percentage of CHSs in the project provinces meeting national standards/benchmarks for structural
+quality
+Number of NCD cases screened or being managed at the CHS level in project provinces:
+• Number of hypertension cases being managed at CHS level
+• Number of diabetes cases being managed at CHS level
+• Number of eligible women screened for cervical cancer at CHS level
+Percentage of project provinces maintaining a full immunization rate above 90%
+Number of presumptive TB cases referred for GeneXpert testing in project provinces (Dropped
+following Project restructuring)
+Population utilization rate of CHS in the project provinces
+
+Improve
+Utilization
+
+x
+x
+x
+x
+x
+x
+x
+x
+
+Figure 1: PAD-Stage ToC
+(1) Health workers have the necessary complementary resources which, together with the facilities, equipment, and training provided by
+the project, will enable them to provide quality services; (2) Patients will regain trust in primary care facilities and alter their care-seeking
+behavior, despite having gotten used to seeking care at hospitals; (3) Higher-level facilities will appropriately fulfil their role as a referral
+facility (including downward referral of patients) and take on a clinical support function for the CHS.
+
+Components
+10.
+The focus in the ToC on availability, readiness, and enabling of grassroots commune level health services
+in the GSD Project translated to a straightforward three-component Project design, with total financing amount of
+US$109.25m which includes the US$17 million GFF buy-down.
+11.
+Component 1 – Upgrading of CHS Infrastructure (planned US$81.25 million; actual US$67.44 million,
+including counterpart financing)17. This component supported the construction, expansion, and renovation of CHSs
+17
+
+Financing source: US$65 million IDA credit for construction goods and works; US$16.25 million Provincial financing for non-construction works.
+Page 4
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+ICR DOCUMENT
+
+to meet MoH infrastructure quality standards, with limited funding for DHs and District Health Centers (DHCs).
+Resource allocation by Province was based on the number of rural and disadvantaged CHSs in Provinces.
+12.
+Component 2 – Improving the Readiness of CHSs to Manage Tracer Conditions (planned US$22 million;
+actual US$15.92 million), consisting of three sub-components:
+a. Sub-component 2.1 18 : Equipment for tracer conditions. This sub-component sought to provide or replace
+equipment required to manage the tracer conditions in CHSs and DHs/DHCs.
+b. Sub-component 2.219: Training for tracer conditions. This grant-financed sub-component sought to develop
+training curricula, training of trainers and teams, and on-the-job supervision for primary care HRH to
+strengthen their competencies to deliver integrated preventive and curative services and better manage
+tracer conditions, building on the approach used in the parallel Health Professionals Education and Training
+Project.
+c. Sub-component 2.320: Quality scorecards. This grant-financed sub-component sought to implement quality
+scorecards at the CHS and DH/DHC level, to be visualized on an online dashboard, and accompanied by staff
+training to interpret scores and identify and implement actions to improve scores. Implementation was
+supported in a subset of districts for each Project Province, with expansion to be borne by the Provinces.
+13.
+Component 3 - Creating an Enabling Policy Environment, Piloting Innovations, Evaluation, and Project
+Management (planned US$6 million; actual US$3.32 million) 21 . This component sought to: (1) support the
+development and evaluation of relevant policies and guidelines related to the management of the tracer conditions,
+health financing, and service delivery; (2) support the design, implementation, and evaluation of innovative pilots at
+the grassroots level aligned with the PDO and MoH priorities; and, (3) finance the incremental costs associated with
+project management at the central and provincial level, including MoH staff and/or consultants for the Central Project
+Management Unit (CPMU). At the provincial level, this was envisaged to include the staff and/or consultants hired to
+supplement the Provincial Project Management Units (PPMUs).
+B. SIGNIFICANT CHANGES DURING IMPLEMENTATION
+Revised Indicators and Outcome Targets
+14.
+The GSD Project underwent three restructurings:
+Restructuring
+
+Rationale
+
+Summary of Changes
+
+November 2021
+
+Correction of baselines
+and targets in results
+framework for all PDO and
+all but three intermediate
+Project indicators
+
+March 2022
+
+Extension of MDTF closing
+dates for components 2.2,
+2.3, and 3
+
+• In certain cases, revision of targets increased the Project’s ambition,
+e.g., for infrastructure targets and specific NCD screening (hypertension), as
+progress moved faster than initially planned
+• For others, such as cervical cancer screening and the corporate results
+indicators, targets were lowered due to the impact of the COVID-19
+pandemic and policy changes removing incentives for grassroots health
+service utilization
+•
+Matching the Integrating Donor-Financed Health Programs MDTF grant
+closing with the IDA financing agreement Project closing date
+•
+Enable one-year extension, until March 31, 2023, for the Tackling NonCommunicable Diseases Challenges in Low- and Middle-income Countries
+MDTF
+
+18
+
+Financing source: US$15 million IDA credit for goods and works; US$3 million Provincial financing.
+Financing source: US$3 million from the Integrating Donor-Financed Health Programs MDTF and the Tackling Non-Communicable Diseases Challenges in Low- and
+Middle-income Countries MDTF co-financing grants.
+20
+Financing source: US$1 million from the Integrating Donor-Financed Health Programs MDTF and the Tackling Non-Communicable Diseases Challenges in Low- and
+Middle-income Countries MDTF co-financing grants.
+21 Financing sources: US$4 million from the Integrating Donor-Financed Health Programs MDTF and the Tackling Non-Communicable Diseases Challenges in Low- and
+Middle-income Countries MDTF co-financing grants, US$700,000 central counterpart financing, and US$1.3 million Provincial counterpart financing.
+19
+
+Page 5
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+February 2023
+
+Change the results
+framework based on the
+assessment of adequacy
+of indicators and progress
+made towards meeting
+Project targets at MidTerm Review (MTR), in
+October-November 2022
+
+ICR DOCUMENT
+
+•
+At PDO level, annual targets for 2022, 2023, and 2024 were revised
+downward for NCD screenings at the CHS level, as well as for the subindicator on cervical cancer screening, due to COVID-19 service disruption
+•
+The Project no longer supported procurement of GeneXpert machines
+as the Government decided that it would procure these devices under its
+National TB Program, outside of the GSD Project. Hence, TB case testing
+PDO indicator and GeneXpert intermediate results indicators were removed
+•
+The corporate results indicators were moved to Intermediate level
+•
+For Component 2, cold chain-related indicators were dropped, as
+provided by other donors and Government resources during the pandemic
+•
+The indicator measuring beneficiary satisfaction with CHS services was
+dropped in the absence of nationwide data. A new indicator was introduced
+to track citizen engagement, measuring people consulted before Project
+interventions, while the target for quality scorecard use in CHSs was
+enhanced
+•
+For Component 3, the intermediate indicator measuring policy
+progress was deemed too subjective. This was dropped and replaced with
+an indicator measuring PPMU performance
+
+Rationale for Changes and Their Implication on the Original Theory of Change
+15.
+While the project restructurings changed the Results Framework, the ToC remained intact with no change to
+the PDO or project components. The main reasons for the changes were start-up delays, disruptions caused by COVID19 and policy changes. Meanwhile, activities related to vaccine cold chains and TB case detection, were entirely
+financed by GoV and dropped from this operation, although they still remained relevant to the GSD Project as a whole.
+16.
+In view of revisions made to the Results Framework, the ICR considered whether using a split rating
+methodology for assessing outcome would be appropriate. It was concluded that a split rating approach is not critical,
+as it would not affect the overall outcome rating. At the time of restructuring, the percentage of disbursed funds at
+restructuring was still low. Nonetheless, for completeness, Annex 6 of this ICR presents the achievements against both
+pre- and post-restructuring targets in the tables included in the Efficacy section to make the assessment more
+transparent.
+II. OUTCOME
+A. RELEVANCE OF PDO
+Assessment of Relevance of PDOs and Rating – Rated Substantial
+17.
+As there is no new CPF for Viet Nam from FY23 onwards, the FY18-22 CPF and its April 2019 Performance
+and Learning Review (PLR) were used to assess the relevance of the PDO at ICR stage, alongside the Project’s
+relevance to the Government program of health sector priorities. As above, the GSD Project directly contributed to
+CPF Objective 6, and was aligned with the Government’s ambition to strengthen the grassroots health system. As
+such, the GSD Project was highly relevant at inception. In January 2021, at the height of the COVID-19 pandemic, GoV
+changed Article 22 from the Law on Health Insurance of 2008 and its 2014 revision, removing any gatekeeping function
+of primary care facilities. This meant that patients were no longer required to obtain a referral from commune-level
+health services to retain full insurance coverage before visiting district-level facilities. The introduction of this
+flexibility to seek care in any health facility was a direct response to COVID-19 to make sure patients had access to
+healthcare at all times during this crisis. This relaxation of the gatekeeping function of CHSs, a core assumption
+underpinning the Project, impacted the overall utilization of CHSs – though it is not feasible to distinguish how much
+of this drop in grassroots health service utilization was driven by the COVID-19 pandemic or by the policy change.
+Meanwhile, GoV’s fundamental objective and commitment to strengthen grassroots level health services at the
+Page 6
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+ICR DOCUMENT
+
+commune level was not altered. By October 2024, the Party Secretary, the highest leadership in Viet Nam, issued
+Directive 25 on continuing strengthening, completing, and improving PHC. This Directive reconfirmed the
+Government’s PHC priority as originally planned in its own healthcare Masterplan. Therefore, the overall relevance of
+the PDO was maintained in principle during the entire duration of the project, although the specific implementation
+of the policy was amended through Article 22. The rating for relevance, which would otherwise be High, is thus
+reduced slightly to Substantial to reflect this change in the implementation modality.
+B. ACHIEVEMENT OF PDOs (EFFICACY)
+Assessment of Achievement of Each Objective/Outcome – Rated Substantial
+18.
+To assess the efficacy of the GSD Project, the PDO is unpacked into its composite objectives: to improve (1) the
+quality and (2) the utilization of grassroots health services, both with a focus on the commune level in Project Provinces.
+This efficacy analysis explores whether objectives were achieved, and whether this is attributable to the activities
+supported by the Project. Given the constraints in data availability in areas such as national data and specific surveys,
+where possible, additional data were collected and presented in this ICR. The detailed presentation of achievements
+against pre- and post-restructuring targets in the results framework is included in the tables in Annex 6.
+Objective 1: Improve the quality of grassroots health services with a focus on the commune level in Project Provinces Rated High
+19.
+One PDO-level indicator directly measures the quality objective through the ‘Percentage of CHSs in the project
+provinces meeting national standards/benchmarks for structural quality’, along the ‘availability’ stream of the ToC. The
+target for this PDO-level indicator was surpassed, meaning the Project was successful in delivering the envisaged
+infrastructural quality dimension of CHS facilities. While the Results Framework (Table A6.1) demonstrates that the Project
+primarily perceived quality through an infrastructure lens, the PDO statement does not specify this focus on ‘hard’ quality.
+Several Intermediate Results Indicators (IRIs) touch on broader, ‘soft’ dimensions of quality of care too, in particular the
+staff training and quality monitoring at CHS indicators, which are achieved and surpassed. A robust analysis of the diverse
+quality impacts of the Project is thus prudent. The ICR applies the World Health Organization (WHO) framework for quality
+of care, consisting of three dimensions22: (1) effectiveness, providing evidence-based healthcare services to patients; (2)
+safety, avoiding harm; and, (3) people-centeredness, providing care that responds to individual preferences, needs and
+values. Nonetheless, in the assessment of Efficacy of the quality objective, the primary focus remains on the achievement
+of structural quality in line with the initial focus of the Project as designed.
+20.
+Quality of care dimension 1 – Effectiveness is assessed in a dual manner, considering both infrastructure and
+human resources. First, the infrastructure component of the GSD Project and its associated PDO-level indicator allow to
+assess whether health services are physically available to those who need them. Only 40.6 percent of CHSs in Project
+Provinces met national structural benchmarks at Project effectiveness in May 2020. The GSD Project has seen unequivocal
+success by surpassing its target and achieving 75.60 percent of CHSs adhering to these standards at Project closure and
+meeting its construction and renovation targets – with the number of newly constructed CHSs (140) surpassing the target
+of 129, and the number of renovations being substantially achieved (323 achieved versus an anticipated total of 332). This
+is particularly relevant for the poorer and ethnic minority communities served by these CHSs in remote, rural Provinces.
+Second, the availability and performance of skilled HRH to deliver essential services in these CHSs is a major contributor
+to this effectiveness. To that end, relevant data can be drawn from the IRIs of the Results Framework, where both the
+training targets as well as the equipment procurement targets to offer essential services to manage tracer conditions have
+been met and surpassed. The quality scorecards implemented as part of Component 2 of the GSD Project then give an
+insight into whether this training and equipment has resulted in an improvement of the quality of services. The scorecards
+22
+
+WHO 2024. Quality of Care. Available at: https://www.who.int/health-topics/quality-of-care#tab=tab_1
+Page 7
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+ICR DOCUMENT
+
+for the CHSs supported by the Project highlight that the quality of health services delivered in those facilities increased
+significantly over the Project period. Sampling 395 CHSs across the 13 Project Provinces over a period of three years in
+four rounds, assessment scores across ten indicator groups23 show a stark improvement of quality scores (Figure 2), from
+an average of 130.2 to 170.424. Some areas, such as COPD, diabetes management and cervical cancer screening, require
+more attention to improve quality beyond the Project, including due to the need for other interventions outside of the
+Project scope such as financing and drugs policies. At closing, 68 percent of project communes had implemented
+scorecards, surpassing the original target of 25 percent. More importantly, four provinces decided to use their own
+budgets to expand scorecard implementation to all communes, and MoH is considering applying the tool in other
+provinces, leveraging the Project experience.
+21.
+Quality of care dimension 2 - Safety. To assess patient safety, a wide range of tools can be applied to assess
+whether harm is avoided for those seeking care in primary care settings, including patient records, claims data, staff
+observation, surveys, and checklists, and grievance mechanisms25. The quality scorecard results contain few indications
+whether these dimensions of safety of service delivery for patients are met in facilities supported by the Project. The
+progress over the course of the Project was encouraging overall. However, the quality scorecards also helped to identify
+areas for further quality improvement, especially on diabetes and COPD management, which showed slow progress
+between 2020 and 2024, mainly due to medicine shortages.
+FIGURE 2: AVERAGE PROJECT PROVINCE CHS QUALITY SCORECARD SCORES (ROUNDS 1 AND 4)26
+
+22.
+Quality of care dimension 3 - People-centeredness. At appraisal stage, the Project included a tailored IRI to
+assess whether patients were provided care that responded to their preferences, needs, and values: ‘Percentage of
+beneficiaries in project provinces reporting that they are satisfied with the quality of services at the CHS’. This related
+closely to a critical assumption of the ToC that patients would regain trust in primary care facilities and would alter their
+care-seeking behavior. Due to a lack of data and in light of the costs and expenditure constraints by GoV to conduct
+survey using Project and domestic resources, this indicator was removed in the Results Framework restructuring.
+Moreover, the task team expressed concerns about the validity and reliability of the patient satisfaction indicator if
+23
+
+Health management; Drug management; Health education and communication; Clean and green health facility; Hypertension; Diabetes; Chronic Obstructive
+Pulmonary Disease (COPD); and, Tuberculosis management; Cervical cancer screening; outbreak prevention and vaccination; MCH and nutrition
+24
+There is a set of indicators for each of the ten areas mentioned above to measure the quality of services provided. These indicators are specific, quantifiable, and
+measurable. For example, they include whether the patient medical record was fully and accurately filled, whether treatment guidelines were followed, and whether
+the health staff's knowledge was correct. Each indicator is assigned a certain number of points, with the total possible score being 200.
+25 O’Conner et al. 2021. A meta-review of methods of measuring and monitoring safety in primary care. International Journal for Quality in Health Care 33(3), 1-8.
+26
+MoH 2024. Evaluation of the Results of Applying the Quality Scorecard Tool Towards Improving Service Quality at Commune/Ward/Town Health Stations as
+Implemented by the Project For Investment in Developing and Expanding the Primary Healthcare Service Delivery System. MoH, Hanoi.
+Page 8
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+ICR DOCUMENT
+
+retained, based on experience from previous operations and other surveys conducted by national and international
+organizations. Another indicator was added with a count of target beneficiaries consulted before Project interventions,
+which was surpassed.
+23.
+The indicators on functioning cold chains in CHSs and GeneXpert machines at DHC/DHs were dropped in the
+second restructuring to reflect the 2021 GoV decision to use its own resources for these activities. Specifically, the
+Government procured 618 cold chains and delivered these to project communes in 13 provinces, meeting the need
+outlined in the original project design. The National TB Program (NTP) is responsible for supplying and managing
+GeneXpert machines across the entire country, including the 13 project provinces. This supply, obtained exclusively from
+a single manufacturer, is part of the NTP's comprehensive multi-year rollout strategy and plan beyond the project's scope
+and timeline. The strategy considers national TB prevalence, cartridge supply, machine calibration capacity, and the
+training of human resources based on available technical and financial resources, and program implementation is
+ongoing. The ICR team could not get the latest data on the number of GeneXperts delivered to date, yet these alternative
+arrangements ensure this part of the original project design was not compromised, and delivered upon through GoV and
+other Development Partner resources.
+24.
+Based on the positive results related to effectiveness, safety, and people-centeredness, the GSD Project has
+been successful in ensuring quality provision of health services to those who need it most at the commune level in
+Project Provinces. The infrastructure expansion and overall improvements of essential service delivery indicators that
+form part of the Quality Scorecard undeniably demonstrate the Project’s attributable impact on strengthening
+effectiveness and supply side readiness of grassroots-level care in Project Provinces. Therefore, based on the
+achievements of all indicators (surpassed or fully achieved) and additional data points obtained, this part of the PDO is
+assessed as High.
+Objective 2: Improve the utilization of grassroots health services with a focus on the commune level in Project Provinces
+– Rated Modest
+25.
+The second objective of the unpacked PDO, focusing on the GSD Project’s ambition to improve the utilization
+of grassroots health services at the commune level, is assessed through the Project’s PDO indicators and IRIs. The core
+data informing this assessment are captured in Table A6.2.
+26.
+The achievement of this objective of improving utilization of grassroots health services at the commune level
+in Project Provinces is mixed. The PDO indicator measuring general utilization is not achieved, driven by a variety of
+factors. The CHS utilization rate in Project Provinces stood at 0.56 at approval and dropped to 0.46 at the height of the
+COVID-19 pandemic in 2021. At closing, this had slightly increased to 0.48 but could not reach the original or revised
+baseline figure, nor the revised target of 0.67. The pandemic led to patients’ unwillingness to access essential PHC
+services at the community level in Viet Nam, while access restrictions hindered many individuals from seeking care. Even
+after COVID-19 restrictions were lifted, patients did not regain trust in the improved grassroots services or change their
+care-seeking behavior, as seen in countries around the globe27. This underlying assumption in the original GSD Project’s
+Results Framework was thus not realized due to the pandemic, further complicated by the 2021 change in the Law on
+Health Insurance that allowed patients to bypass Community Health Stations (CHSs) as discussed in the Relevance
+section. Additionally, a regulatory change reduced the subsidy for purchasing health insurance for the near-poor. Finally,
+the ICR field visits in Son La and Yen Bai revealed that DHCs often retained patients who could otherwise be monitored
+and managed at the commune level, for instance for hypertension. These factors reinforced the underutilization of CHSs,
+contrary to the Project objective and GoV’s own PHC strategy. Efforts made during Project implementation to improve
+the quality of services at CHSs and communication activities and campaigns at the community level were unable to stem
+the flow of patients bypassing CHS care. Despite this, and positively, the 2024 CHS utilization rate in Project Provinces
+27
+
+WHO 2022. Essential health services face continued disruption during COVID-19 pandemic. Available at: https://www.who.int/news/item/07-02-2022-essentialhealth-services-face-continued-disruption-during-covid-19-pandemic
+Page 9
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+ICR DOCUMENT
+
+(0.48) is significantly higher than the nationwide CHS utilization rate (0.29). This suggests that improvements in CHS
+service readiness in Project Provinces in the years after the pandemic likely contributed to retaining higher utilization
+rates, which is particularly important for the socioeconomically vulnerable and ethnic minorities residing in these priority
+Provinces.
+27.
+Despite these overall utilization issues, several critical targets of the restructured Results Framework aiming
+to enhance health service delivery at the CHS level were achieved. The second PDO indicator on the overall NCD cases
+screened and managed was achieved, as well as specific tracer conditions hypertension, diabetes, and cervical cancer.
+This was a primary focus of the Project design aimed at enabling CHSs to deliver on their new role in detecting and
+managing NCDs in line with GoV’s PHC strategy captured in the PAD. The immunization coverage indicator was also fully
+achieved in all 13 Project Provinces at closing.
+28.
+Corporate Results Indicators (CRI 5, 5a, 5b, 5c, and 5d in Table 2), including gender indicators, were partially
+achieved, with further progress to be made post-Project closure. It is important to note that not all CRIs reflect actual
+utilization. The indicators measuring the overall number of people (indicator 5) and women (5a) who have received
+essential health, nutrition, and population services, as well as the number of women and children who have received
+basic nutrition services (5c), are measured by the number of people holding health insurance cards28. Hence, these
+indicators capture service use eligibility and financial accessibility rather than actual use of services. Data on
+immunization (5b) and births attended by a skilled birth attendant (5d) are actuals. The immunization indicator shows a
+decline compared to the baseline reflects the decline of birth. For the skilled birth attendant indicator, actuals are not a
+good measure of progress, as the total number of births in Viet Nam fell below the baseline, with only 149,386 births in
+Project Provinces in 2024 compared to 178,250 in 2020. More importantly, the share of births attended by a skilled
+health worker rose from 88.8 percent to 95.9 percent in this period.
+29.
+Indirectly related to enhancing both utilization and quality of care at CHSs, partial progress was seen for the
+GSD Project’s grant-supported activities under Component 3 seeking to create an enabling environment and pilot
+innovations to better manage the tracer conditions and grassroots health financing, and tackle service delivery issues.
+Though the policy-related IRI indicator was dropped given its ambiguity during the 2023 restructuring, the GSD Project
+provided support to the review of the implementation of the National Benchmarks for Commune Health Station in Viet
+Nam 2011–2020, support to Health Management Information System (HMIS) data integration and interoperability with
+MoH human resource databases, development of standard designs for Center of Disease Control, assessments of village
+health networks, NCD management in Project Provinces, and TA for health insurance law revisions. Pilots on service
+provision were implemented in selected provinces, including a pilot on child nutrition intervention in six provinces with
+the highest child malnutrition rate; and an innovation of public-private partnership on NCD screening and management
+in nine provinces.
+30.
+In sum, while success was achieved for specific NCD screening and immunization targets, the improvements
+of other CHS services in Project Provinces were insufficient to counter a nationwide policy framework allowing easy
+access to higher levels of care. The lack of optimal referral system performance did not contribute to reversing the trend
+of decreasing utilization of CHS services during and post-COVID-19. The GSD Project is therefore assessed as having made
+an overall Modest contribution to the achievement of this second objective.
+Justification of Overall Efficacy Rating: Substantial
+31.
+The evidence collected demonstrates that the GSD Project made high progress towards meeting its quality
+objective, and modest progress towards its utilization objective. Based on ICR guidance, “if for half of the objectives
+the achievement is sufficient to warrant High or Substantial and half show enough achievement to warrant Modest, then
+28
+
+This insurance-based approach to the CRI is as per previous health projects in Viet Nam (e.g., the FY13 North East and Red River Delta Regions Health System
+Support Project [P122629]). This does not align with the standard measurement of CRIs, whereby these indicators are measured through the actual number of people
+receiving these services, and whereby 5b, 5c, and 5d would add up to the total number of service beneficiaries in the parent indicator 5.
+Page 10
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+ICR DOCUMENT
+
+there is the possibility to either round-up or round-down on the basis of the evidence”. As utilization challenges were
+observed nationwide during the COVID-19 Pandemic and were considerably worse in non-Project Provinces, the GSD
+Project likely served as a buffer in Project Provinces to falling utilization rates. Therefore, the Overall Efficacy Rating is
+set at Substantial. This is further supported by the significantly larger funding allocation to the first objective on quality
+where more than 80 percent of funding was both allocated at design and spent during implementation.
+C. EFFICIENCY
+Assessment of Efficiency and Rating – Rated Substantial
+32.
+The economic analysis in the PAD envisaged that improvements in quality and utilization of health services at
+the grassroots level would lead to a reduction in morbidity and premature mortality in Project Provinces, in particular
+among the most disadvantaged communities, while lowering the cost of care through service delivery at the less
+expensive and more easily accessible CHS level. While the PAD included information on the cost of NCD treatment for
+particular tracer conditions including diabetes and hypertension, no estimated Net Present Value (NPV) or Benefit-Cost
+Analysis (BCA) was included. Beyond accounting for cost savings at the CHS level for prevention and management of
+NCDs, accounting for associated productivity gains and the impact of improved MCH services central to the Project could
+add value to this economic analysis. The ICR therefore set out to examine allocative efficiency of the Project by calculating
+and comparing the NPV and BCA at Project closing, by comparing the NPV and benefit-cost ratio using targets of the
+revised Results Framework (intended NPV), and those that were actually achieved at Project closing (actual NPV). Details
+of this economic analysis are captured in Annex 4, Efficiency Analysis, which expands on the economic analysis at
+appraisal stage by accounting for cost efficiency and productivity gains through improved NCD and MCH service delivery
+at the CHS level through the GSD Project. Accounting for the assumptions and applying the formulae detailed in the
+annex, the actual NPV at Project closing is US$628,051,435, while the intended NPV was US$329,947,783. Similarly, the
+actual benefit-cost ratio of the Project at closing was 1.7, compared to an intended ratio of 1.2. This demonstrates the
+significant economic benefit of the Project through a strengthened PHC system in Project Provinces.
+33.
+In addition to this significant NPV and positive benefit-cost ratio, the implementation efficiency of the Project
+itself was also assessed. Annex 3 shows the envisaged cost by component at GSD Project appraisal stage, as well as the
+actual disbursement of the Project at closing. At Project closing, 87 percent of the IDA credit was disbursed (US$69.7
+million out of a projected US$80 million), alongside 61 percent of counterpart financing (US$12.94 million out of a
+projected US$21.25 million). Grant implementation stood at 59 percent disbursement (US$4.7 million out of US$8.0
+million). The remainder of IDA credit financing (US$10.4 million) was returned at closing, while part of the grant was
+closed and returned during the Project period, and the remainder returned at closing. It is important to note that, with
+the ODA policy prioritizing infrastructure investment, a health project was not a favorable option for GoV to borrow at
+IBRD interest rates. For a lower middle-income country transitioning from IDA to IBRD eligibility, such as Viet Nam, the
+GFF buy-down grant encouraged Viet Nam to invest in human development and the health sector in particular. The buydown from GFF was thus a critical enabler of the Project and offered considerable additional efficiencies for GoV.
+34.
+Regular mismatches between annual budget allocations and needs across 13 PPMUs were observed
+throughout Project implementation, hampering equipment procurement and construction in fast-moving provinces,
+with returns elsewhere in slow-moving ones. This was observed for nine out of 13 Project Provinces even in the last
+year of implementation and compounded by PPMU staff turnover, variable capacities and needs, and cross-cutting M&E
+concerns, described in detail in the ‘Key Factors during Implementation’ section below. This decentralized
+implementation of PPMUs, challenges with budget allocation arrangements in compliance with the Budget Law and
+associated Government decrees for ODA management, hampered implementation efficiency. Low disbursements and
+cancellations were also seen for the grant financing, despite continued need for M&E, training, policy, and pilot support
+expressed by the CPMU, PPMUs, and health facilities interviewed during the ICR mission. The discrepancy between the
+high need for resources for these ‘soft’ activities and the return of grant resources is attributable mainly to the highly
+limiting, outdated GoV cost norms and eligible expenditure categories for grants financing ‘soft’ activities linked to
+Page 11
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+ICR DOCUMENT
+
+lending projects like GSD. These effects were mitigated by in-country TTLs and team members continuing from Project
+preparation through closing – ensuring significant institutional memory and easing any friction in Government-World
+Bank collaboration.
+35.
+The economic benefits achieved and surpassed the intended targets of the GSD Projects at closing, which can
+therefore be assessed as having high allocative efficiency. Some implementation inefficiencies were observed in MDTF
+disbursement alongside adequate disbursement of the IDA credit, however, the project activities were completed on
+time. Therefore, on balance, the overall efficiency rating as Substantial.
+D. JUSTIFICATION OF OVERALL OUTCOME RATING – Rated Moderately Satisfactory
+36.
+Given the Substantial Relevance, Substantial Efficacy, and Substantial Efficiency, the overall outcome rating
+for the GSD Project is Moderately Satisfactory. The Project has been undeniably successful in strengthening the supply
+side of the PHC system at the commune level in the 13 Project Provinces in Viet Nam, although there are still remaining
+gaps observed in overall utilization targets of CHS-level care at Project closing. This requires a committed effort by GoV
+to ensure that all the achievements made under the Project are sustained.
+E. OTHER OUTCOMES AND IMPACTS
+Gender
+37.
+The GSD Project adopted a distinct gender lens, noting that grassroots health system tends to be used mainly
+by women of childbearing age and young children. Gender-related indicators were mostly achieved. The revised target
+of the indicator measuring the number of eligible women screened for cervical cancer at the CHS level indicator was
+surpassed. In addition, the number of women who are eligible to receive essential health, nutrition, and population
+services also surpassed the target value at closing. The causal factors underlying the lower number of women and children
+who were eligible to receive basic nutrition services remain undetermined, however. Some assumptions of drivers include
+the declining birth rates in Project Provinces, which may be compounded by emigration from these mostly rural Provinces.
+Additional data to substantiate these hypotheses could, however, not be obtained.
+Institutional Strengthening
+38.
+The Project presented an important opportunity for national and, in particular, subnational capacity building
+of health systems. Some elements of Component 2, in particular the quality scorecard development and implementation
+and the training of PHC HRH did result in improved service utilization at the facility level. The decentralized nature of the
+Project implementation arrangements, with 13 PPMUs, each with their own budget allocation, procurement capacity,
+and detailed facility design could enhance the ownership, accountability and responsibility of the provinces over the
+Project. Outsourcing of some project management activities that were beyond the capacity of the organic staff/provincial
+civil servants of PPMU such as infrastructure design, construction supervision, procurement preparation and evaluation
+generated more job opportunities and improved such expertise for both local public and private firms. However, due to
+discrepancies in the capacity of Project Provinces and PPMU staff turnover, the WB and CPMU had to spend more time
+and efforts for capacity building, supervision, and even hand-on support, over the course of project implementation.
+39.
+Progress has been made in the GSD Project's support for policies, regulations, and guidelines related to the
+management of tracer conditions as outlined in Component 3. This includes pilots, as mentioned in paragraph 29 and
+communication support. The project has facilitated the development of a comprehensive communication package, which
+includes posters, leaflets, booklets, and short videos focused on the prevention and control of NCDs, nutrition, maternal
+and child care, and health insurance. Some of these materials have been translated into the Muong and Raglai languages
+to cater to the ethnic minority populations in the area. All communication materials have been handed over to the
+Ministry of Health (MOH) for further use in other regions. The performance of the Provincial Project Management Units
+(PPMUs) was notable, with 11 out of 13 units performing satisfactorily at the project's closing. Additionally, the innovation
+piloting indicator showed promising results, with 67 districts implementing a pilot program.
+Page 12
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+ICR DOCUMENT
+
+Poverty Reduction and Shared Prosperity
+40.
+The GSD Project presented an important contribution in health service availability across Project Provinces
+which were selected with an explicit pro-poor lens. This selection was made with the aim of raising the lagging utilization
+rates of inpatient and outpatient services by the poor and near-poor in local health facilities. While Table A6.2
+demonstrates that utilization rates in target Provinces supported by the GSD Project remained below pre-pandemic levels,
+the continued higher health service utilization in Project Provinces compared to non-Project Provinces suggests a buffer
+effect for those vulnerable populations which rely to a greater extent on grassroots PHC services. This is particularly
+relevant for the disadvantaged ethnic minority populations that have historically seen worse health outcomes.
+III. KEY FACTORS AFFECTED IMPLEMENTATION AND OUTCOME
+A. KEY FACTORS DURING PREPARATION
+41.
+Governance Frameworks during Preparation. The two-year time lag between concept review (July 2017) and
+World Bank Board Approval of the GSD Project (June 2019), and an additional eight-month period till Project signing by
+GoV, driven by lengthy Project approval processes within GoV, caused delays between inception and implementation.
+This reflects the significant effort required in a fluid lending environment, whereby Viet Nam had just graduated from IDA
+to IBRD on July 1, 2017, to guide the Project through the preparation process and ensure its effectiveness. An additional
+driver was the institutional setup of lending in Viet Nam, whereby subnational Governments (Provinces) act as
+independent Implementing Agencies. A feasibility study for each Province as well as the overall Project had to be approved
+by the concerned oversight ministries. In the absence of the possibility to have an umbrella project whereby the Ministry
+of Health acts as central implementing entity, each of the 13 Project Provinces’ Provincial People’s Committees were
+required to approve and sign a separate subsidiary loan agreement with the Ministry of Finance (MoF) as Borrower upon
+Project approval, with the CPMU housed at MoH overseeing these individual PPMUs. By doing so, the intention was to
+improve the accountability and responsibility of the Provinces on the loan. The Project’s design was further impacted by
+the restrictive use of ODA resources focused on priority infrastructure development. GoV Decree 132/2018/ND-CP of 2018
+limited the use of ODA resources, including IDA lending, to infrastructure development for health, and, once more,
+entailed lengthy Government project approval processes. This caused preparation delays and restricted the inclusion of
+‘soft’ project components such as the training and capacity building as well as regulatory support under GSD Components
+2 and 3 to grant-financed sources only. This created a duality between infrastructure-oriented Component 1 and
+component 2.1, which used IDA resources and was owned by the GoV under its ODA regulations, and major parts of
+Components 2 and 3, which were primarily MDTF grant-financed. The use of these grant resources was, however, still
+required to follow outdated GoV cost norms. These norms have not been updated in the last decade, meaning that
+allowances for operational costs such as transportation, venue hire, and per diems were too low to ensure training and
+capacity building activities could be adequately organized. The task team had expected a change to these cost norms
+during implementation, however, this did not materialize.
+42.
+Construction design and project management setup. The decentralized setup of the project's implementation
+arrangements, in line with GoV lending regulations, meant that consultants were hired for the design of CHSs by 13
+individual PPMUs, each overseeing progress in their own province. This required the establishment of 13 separate
+consultancy contracts upon budget allocation and approval. This approach allowed provinces to design CHSs relevant to
+their specific geographical, environmental, and cultural situations, while still adhering to the standard functional design
+set by the MOH. The initial design of the CHS in each province was technically reviewed by the CPMU and WB to ensure
+compliance with guidelines and standards. Given on-lending limitations, this management setup was the only feasible
+option although it was not the most efficient.
+B. KEY FACTORS DURING IMPLEMENTATION
+Factors subject to the control government and implementing entities
+Page 13
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+ICR DOCUMENT
+
+43.
+Governance and regulations: As discussed in the relevance section above, the policy change enabling patients to
+skip the gatekeeping of the primary care level and use higher-level facilities contributed to the reduced CHS utilization.
+44.
+Coordination and organizational capacity: The Implementation Status and Results Reports (ISRs) and Aide
+Memoires (AMs) throughout Project implementation highlight structural delays in the development and approval of
+Provincial workplans and budget allocations, which were both over- and underestimated by the 13 PPMUs. These
+PPMUs also were found to have different implementation capacities, with high staff turnover in several PPMUs. This
+contributed to the varying Project implementation progress seen across Provinces, requiring more hands-on support from
+the task team and CPMU. Further delays were seen due to the administrative organizational restructuring shortly after
+Project effectiveness in 2020, whereby communes were merged, or financing sources reallocated, resulting in 10 out of
+13 Provinces seeking significant changes to the list of CHSs to be supported, to be approved by the provincial authorities.
+The implementation process was facilitated positively by the establishment of provincial steering committees chaired by
+the Vice Chairperson of the Provincial People's Committee, consisting of concerned provincial department
+representatives, including the Departments of Planning and Investment, Finance, and Civil Works.
+45.
+M&E: As per Section IV.A, weak subnational M&E frameworks were observed throughout Project
+implementation. The World Bank and CPMU pursued several mitigating actions during implementation to mediate
+associated challenges, including the provision of M&E training for PPMUs.
+46.
+Fiduciary: The PAD articulated the substantial FM risks due to the high level of decentralization and delayed
+budget allocations in poorer provinces, with World Bank pursuing several effective mitigation strategies. This included
+the need for designated accounts at the Provincial level with commercial banks satisfactory to the World Bank, as seen
+across the Viet Nam portfolio. While improvements were seen over time during implementation, project internal audit
+arrangements were set up as another mitigation measure. The need for enhanced FM scrutiny posed a significant burden
+to the task team, including for expenditure claims and results monitoring. Compounding these challenges, FM challenges
+in the health sector in 2022 indirectly affected Project implementation. While the GSD Project was not directly linked to
+or involved in these challenges, this resulted in some hesitancy of Project and PPMU staff at the subnational level to
+accelerate Project implementation, in particular procurement, while Provincial health staff was occupied with responding
+to requests from ongoing inspections.
+47.
+Adequacy of grant financing structures. The project was co-financed by three grants: two from the abovementioned MDTFs, as well as GFF. These grants provided complementary support to the project. The MDTFs funded core
+activities, while the GFF grant reduced interest rates of borrowing. Regrettably, due to stringent financial management
+rules which limited the eligible expenditure categories for the grants and constrained cost norms, over 40 percent of MDTF
+resources were unspent and were returned. The GFF buy-down grant was not tied to IDA disbursement rates, leading to
+its full use. The share of interest bought down through the buy-down option was therefore higher than originally expected,
+as the Project did not fully utilize the IDA credit.
+Factors subject to World Bank control
+48.
+Adequacy of supervision: Despite multiple challenges, the supervision of the GSD Project showcased significant
+resilience and adaptability. Although there were delays in the implementation of core Project activities, the collaboration
+between PPMUs and the CPMU was enhanced, and the timely delivery of training by the World Bank was encouraged.
+Proposed remedies during the MTR focused on accelerating reviews of Provincial plans and improving training efficiency.
+Although project restructurings mainly targeted changes to the Results Framework, a more comprehensive
+reconsideration of Project activities could have further strengthened health systems and service delivery quality. Rigid
+ODA management and anti-corruption measures in place in Viet Nam constrained the efforts to support subnational data
+collection, M&E capacity building, and additional support to trailing Project Provinces. The task team clarified during the
+ICR process that different approaches for better supporting and realigning the project activities were considered but not
+Page 14
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+ICR DOCUMENT
+
+pursued due to significant procedural constraints. Increased budget for M&E and capacity-building activities under project
+management could have further aligned with the Project’s equity goals, benefiting overall implementation progress.
+49.
+Implementation support from Australia’s Department for Foreign Affairs and Trade (DFAT) and GFF contributed
+significantly to the improved project performance and beyond the project original scopes. DFAT and GFF generously
+provided additional technical assistance in kind and in cash during implementation. Their focal points participated in the
+regular implementation support missions and contributed to finding solutions to various implementation challenges.
+DFAT’s Bank-Executed MDTF supported the development and monitoring of the scorecard and its implementation, and
+research to inform and reinforce the project focus on NCD management at the grassroots level and for vulnerable groups,
+including women and ethnic minorities. GFF provided additional resources to enhance the project supervision and to
+improve the capacity of the implementation agencies in 13 project provinces, especially M&E - one of the observed
+weaknesses at the grassroots level. Training materials for data use were developed and pilot courses for select commune
+and district health staff were conducted to enhance the staff capacities of understanding, verifying and using data for
+planning and policy making at their respective levels. Online courses based on these training materials were also
+developed and available on the learning platform of the Hanoi Medical University for wider access.
+Factors outside the control of government and implementing entities
+50.
+Public health crises: The outbreak of the COVID-19 pandemic caused severe disruption to health service delivery
+as well as delayed the start of Project implementation. Having become effective in May 2020, as the scale and magnitude
+of the pandemic became apparent and most of project staff who were also Government civil health servants were
+mobilized for pandemic response, the start of construction activities, training, policy, and Project management
+engagement was understandably delayed. Major health care demand and supply challenges were observed affecting the
+delivery of care to patients, which the World Bank team sought to address through Results Framework restructurings.
+51.
+Natural disasters: The PAD refers to climate resilience as a consideration in the construction and rehabilitation
+of grassroots health facility infrastructure in line with climate risks, yet unprecedented extreme events posed equally
+unprecedented challenges to infrastructure. This became particularly visible in the wake of Typhoon Yagi. This typhoon
+hit Viet Nam and other Southeast Asian countries severely in September 2024, causing extensive damage to several CHSs’
+infrastructure supported by the GSD Project, in particular in northern provinces home to a large share of ethnic minorities
+and vulnerable communities the Project sought to serve, as visited during the ICR mission. GoV opted not to use the
+balance of Project funds to support the restoration effort in the wake of the typhoon, instead preferring to employ
+domestic resources and, where possible, insurance coverage of facilities to cover the cost of damage incurred.
+IV. BANK PERFORMANCE, COMPLIANCE ISSUES, AND RISK TO DEVELOPMENT OUTCOME
+A. QUALITY OF MONITORING AND EVALUATION (M&E) – Rated Modest
+M&E Design
+52.
+The GSD Project’s ToC was appropriate and the choice for simple indicators measurable with minimal new data
+collection was suitable given the challenging Project implementation context. The GSD PAD noted in the Lessons Learned
+section the M&E challenges observed, including regarding data collection, in two operations completed in 2016, and called
+for action to ensure M&E systems and reporting arrangements were in place well before Project effectiveness. Data
+constraints limited the selection of indicators, especially those beyond existing HMISs, in the Results Framework. As such,
+the selection of readily available data and indicators that were part of standard reporting by MoH and facilities was wellconsidered, especially as cost norms and ODA funds use restrictions limited the inclusion of additional, project-specific
+indicators and surveys. The Project also faced challenges on the accuracy, completeness and timeliness of Government
+data, as across the Viet Nam portfolio – with the District Health Information System 2 (DHIS2) system not established until
+2021 and a learning curve on its use seen until Project closing, and the reliance on paper-based data sources prior.
+
+Page 15
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+ICR DOCUMENT
+
+Additional support for M&E strengthening was provided by GFF, yet given this capacity building is a lengthy process,
+challenges could not fully be addressed by Project effectiveness.
+M&E Implementation
+53.
+The WB team routinely updated progress toward project indicators and tried to manage reporting issues during
+implementation. The task team made efforts to regularly cross-validate the accuracy of the reported data, which was a
+critical effort as responsible PPMUs had vastly differing data collection, analysis, and monitoring capacities. The task team
+continued to adequately monitor and report on shortcomings in the scattered subnational M&E capacity in consecutive
+AMs and ISRs throughout Project implementation. A criterion to evaluate the M&E capacity (accuracy and timeliness) of
+the PPMUs was also added to assess the PMU’s performance during each Implementation Support Mission, with training
+on M&E provided to all PPMUs at the start of the Project and continued throughout the Project implementation. While
+the task team therefore made important efforts to ensure quality data were collected, reported, and analyzed to monitor
+Project progress, PPMUs continued to differ in their capacities in data collection, analysis, and monitoring so that the quality
+and accuracy of data reported by PPMUs remained variable.
+54.
+The Results Framework was revised twice to reflect the changes in the project implementation. These
+restructurings were timely and constituted an opportunity to comprehensively update Project activities and indicators to
+align the M&E mechanisms of the operation with the policy and sectoral environment changes over the Project lifetime. The
+Bank team consistently emphasized to the Government the importance of making more fundamental changes to the
+project development objective and results framework particularly in the context of significant reduction in utilization rate
+of CHS due to COVID-19 situation. These changes would have necessitated amendments to the project’s Financing
+Agreement and investment documents. However, the proposed revisions were not materialized by the CPMU and PMUs
+due to the complexity and time required to update 14 separate project documents (covering the Ministry of Health and 13
+provinces). On the Government’s side, this process would have involved a full cycle of review and approval at the Prime
+Minister and President level—an effort that would take enormous time to pursue and could distract the project from
+focusing of enhancing implementation progress. Therefore, M&E challenges could not be fully addressed to create more
+confidence in data collection, quality, and analysis capacities in project management units.
+M&E Utilization
+55.
+The project indicators were reviewed by the task team on every implementation support mission and were
+utilized for resolving implementation bottlenecks and steering the project towards its goals. Despite the shortcomings in
+the design and implementation of M&E, the Project’s M&E system was still adequate to assess whether the planned
+activities were carried out and whether the project was on track in line with Project targeted outcomes, provided a sound
+basis for the discussions between MoH and PPMUs on project implementation and changes to be made. The data utilized
+also constituted the best and only available data for the M&E of Project progress and were optimally employed to the
+benefit of the M&E in accordance with the results framework.
+Justification of Overall Rating of Quality of M&E
+56.
+The overall quality of M&E is rated Modest. The Project’s M&E framework was adequate to monitor Project
+progress. However, there were significant shortcomings in the design and implementation of the M&E system.
+B. ENVIRONMENTAL, SOCIAL, AND FIDUCIARY COMPLIANCE
+57.
+Environmental and Social: The GSD Project received a moderate Systematic Operations Risk-Rating Tool (SORT)
+risk rating for environmental and social aspects and was classified as Category B with triggers for OP 4.10 on Indigenous
+Peoples, as well as OP/BP 4.01 for safeguard policy on Environmental Assessment because of its potential
+environmental and social impacts. In the 4th ISR in April 2021, the Safeguards rating was reduced from Satisfactory to
+Moderately Satisfactory due to delays in the implementation of mitigation measures related to OP/BP4.01. These included
+Page 16
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+ICR DOCUMENT
+
+the delay in the hiring of an Environmental Expert in the CPMU and the late preparation of Provincial environmental and
+social management plans for several Provinces even after the commencement of CHS construction. Subsequent mitigative
+action by CPMU and PPMUs accelerated compliance with triggered Safeguards policies. As per the environment specialist’s
+guidance, no major event was reported during the implementation period, though site management challenges persisted
+during the monitoring periods. As such, the performance rating was retained as Moderately Satisfactory throughout the
+remainder of implementation. The development and satisfactory implementation of the Ethnic Minority Development
+Plan allowed to downgrade the stakeholder risk from Moderate to Low at the time of the 5th ISR, in November 2021, with
+due attention paid to raising awareness of ethnic minorities groups in the Project sites regarding Project benefits and
+relevant healthcare issues through accessible communication activities and to building capacity for health workers from
+ethnic minority groups. Constructed facilities also were found to be adequately accessible for people with disabilities.
+58.
+Fiduciary (FM and Procurement): The project had an adequate project FM system that provided, with reasonable
+assurance, accurate and timely information that the loan funds were used for the intended purposes. The Project
+accounting and financial reporting were in line with the regulations issued by GoV and the requirements specified in the
+Loan Agreement. No significant FM issues were noted throughout implementation and FM-related weaknesses raised
+during FM supervision were resolved on time. The project audit reports were all with unqualified audit opinions. In
+addition, the withdrawal procedure and funds flow arrangement were appropriate. Issues with budget allocation from
+MoF to the Project Provinces were observed, especially in the context of clear distinction between on-grant and on-lending
+resources, which delayed the resource allocation process. Although delays were observed for procurement in most PMUs,
+there were no major problems for procured packages by both regular review during ISMs and annual procurement postreviews in select PMUs.
+59.
+The fiduciary SORT risks rating at appraisal was substantial, due to prior World Bank experience with delayed
+procurement-related progress and possible integrity concerns, as well as the decentralization of the Project
+implementation and management. From the 4th ISR in April 2021, the progress rating for both FM and procurement was
+downgraded to moderately satisfactory, due to delays in the launch and execution of procurement contracts for the health
+facilities and consultancy services, while infrequent inefficiencies were observed in contract management practices
+warranting substantive review by FM specialists. The SORT rating for fiduciary risk was finally reduced from Substantial to
+Moderate in May 2023 at the time of the 8th ISR. The limited procurement capacity of subnational staff and PPMUs did
+warrant the continued close monitoring of contract implementation and eligible expenditures as per the FM assessments.
+On equipment procurement specifically, delays were observed due to the review of equipment during the COVID-19
+pandemic, where multiple devices were provided through alternative resources, and the need for rebidding of packages
+due to supply interruptions because of the pandemic and anti-corruption campaign.
+C. BANK PERFORMANCE
+Quality at Entry – Rated Satisfactory
+60.
+The GSD Project was highly relevant at entry. The team was able to design a project in line with GoV PHC priorities
+while placing equity and efficiency at its heart, also reflected in the choice of Project locations. As such, the team was very
+effective in ensuring a pro-poor design based on careful mapping of socioeconomically disadvantaged districts within each
+province which served as the starting point in the selection of Project Provinces and sites. This achievement of a strong
+equity-focused PHC Project is remarkable against a backdrop of the on-lending requirements with Provincial ownership of
+project design and implementation, the IBRD transition of Viet Nam and new ODA regulations. The grant resources
+obtained by the team were critical as an enabler of the Project, in particular (i) the GFF buy-down grant, allowing the IBRD
+interest rate of the loan to be bought down to a sufficiently concessional level for the loan to be acceptable to MoF, and
+(ii) the MDTFs to cover the ‘soft’ elements constrained by the ODA regulation, as mentioned previously. The task team’s
+success and strength of design were evidenced by the fact that the GSD Project was the first IPF to be approved following
+Viet Nam’s graduation from IDA, as only IPF project in Viet Nam in that year.
+
+Page 17
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+ICR DOCUMENT
+
+61.
+The task team achieved considerable in-depth engagement with Project Provinces during preparation. In a new
+lending environment, where every participating province essentially prepares its own project collated by the national
+MoH in an umbrella project, the task team had to work with each of the 13 individual project provinces on their ‘projects’.
+This required unprecedented tenacity and very local and intense engagement by Bank team
+62.
+Satisfactory considerations of poverty, gender, environmental and social safeguards, and social development
+aspects were observed at Project design stage. The explicit focus on vulnerable groups including mothers and children,
+and ethnic minorities as identified in Section II.A, alongside the explicit objective to reduce geographic disparities in access
+to and quality of grassroots-level care in line with the World Bank’s vision and mission were thoroughly considered and
+reflected in the GSD Project’s design.
+63.
+The Project also incorporated adequate lessons identified in the PAD from prior Vietnamese and health sectoral
+operations. The use of scorecards for quality monitoring, central to the GSD Project design, was a highly appropriate
+choice, while HMIS data were selected as primary data source for the Results Framework to address M&E limitations seen
+in previous projects. Operationally, the project also foresaw the potential challenges of multi-province projects, and
+therefore carried out unparalleled amounts of subnational stakeholder engagement during preparation.
+64.
+While the risk assessment at design stage was thus performed thoroughly, the implementation arrangements
+with 13 PPMUs remained challenging. As many PPMUs implemented a WB financed project for the first time, their
+capacity needed to be strengthened as early as possible. This was built into the project design through the mobilized grant
+funding. This was also critical as domestic on-lending regulations mandated institutional and implementation
+arrangements led by Provinces through independent PPMUs which needed substantial support. Each PPMU was therefore
+to have their own consultancy support, facility design, M&E, and fiduciary functions, and additional CPMU staff were hired
+to mitigate this risk and training of trainers foreseen to build capacity at the province level. In retrospect, as the Lessons
+Learned section in the PAD stipulates activities are to be designed to be independent of policy changes, possibly more
+efforts could have been made prior to the project start to work with GoV to ease the restrictive cost norms on the use of
+grant financing, which would have enabled the full use of acquired grant funding for capacity building.
+65.
+As per the Lessons Learned, the Bank team designed the Results Framework to use existing information from
+the HMIS, aware of existing M&E constraints. The choice for simple indicators was appropriate, as was the planned
+collection of data from HMIS. The team also included the implementation of feedback beneficiary surveys, which was an
+additional important source of information on the quality dimension. The Bank worked within existing limitations and
+designed an M&E system which the Bank was aware needed improvements during implementation.
+Quality of Supervision – Rated Moderately Satisfactory
+66.
+Adequacy of supervision inputs and processes: The task team is to be commended for its hands-on supervision
+inputs provided to each of the 13 Project Provinces throughout implementation. In every mission, the Bank task team
+either had field trips to the provinces or had a review meeting with each of the PPMUs online to thoroughly review the
+project progress and identify any bottlenecks in implementation for immediate actions. Each AM had an Annex with
+detailed progress and actions needed for each PPMU, which allowed the team to closely monitor the implementation and
+timely evaluate the performance by each PMU in every six months and recommend time-bound actions for improvement.
+The implementation arrangements, with 13 implementing agencies each requiring support and with separate project M&E
+and TA requirements, were a herculean task for the team. The acknowledgment of MoH and by the CPMU and the PPMUs
+interviewed by the ICR team of the Bank team’s responsiveness and proactivity is laudable and went a long way to
+overcome the considerable complexities of such decentralized project implementation arrangements.
+67.
+The team also proactively undertook restructurings of the Project, including the updates to the Results
+Framework and the extension of the closing dates of the supporting grants, which were timely in light of the fluid sectoral
+context. These restructurings resulted in a partial improvement of progress towards meeting the intended Project
+outcomes and objectives. For others, progress remained more limited. It is not clear why certain targets were revised
+Page 18
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+ICR DOCUMENT
+
+higher when existing, actual data demonstrated that progress was dipping below even the original baseline values. As per
+paragraph 54, the team highlighted the complexity involved in pursuing any further and more comprehensive restructuring
+due to the procedural limitations on the GoV side. While such comprehensive Project restructuring including the major
+changes such as PDO and scope of work and its underlying technical activities was discussed repeatedly between the task
+team and GoV, the process to achieve this would take up to one full year and would require approval up to the Prime
+Minister. Processes for such changes would be even more complicated and lengthy with the involvement of 13 provinces
+given each of them was the project owner of their provincial projects. As such, a more thorough restructuring was not
+realistically achievable within the lifetime of the GSD Project.
+68.
+The team also spent considerable time and effort to make the most of the available MDTF resources. The
+technical assistance and guidance provided to MoH and PPMUs using these resources went a long way to supporting the
+infrastructure-heavy nature of the Project with a focus on PHC quality, financing, and policy improvements. Critically, these
+resources were also used to strengthen M&E and fiduciary capacity at the national and subnational level. At MTR stage,
+recommendations zeroed in on suggestions for more coordination with subnational implementing agencies, shorter review
+times for project management, and improved budgeting, with more stable PPMUs, closer CPMU coordination with training
+need identification, and more capable subnational consultancy firms. These recommendations were very sensible; yet
+despite the team’s best efforts, it proved difficult to tackle the divergence in progress between fast-implementing and
+slower Project Provinces. Reprogramming of the balance of MDTF resources for additional support to those lagging
+Provinces could have made a difference in bolstering further subnational equity, which the task team already took to heart
+through its enhanced focus on hands-on collaboration and support to lagging Project Provinces. For slow-moving Project
+Provinces, especially in light of the health sector crisis, this could have been further enhanced through alternative Project
+procurement and implementation arrangements and deepening the learning from the experience of the fast-moving
+successful provinces. Similarly, activities that were unlikely to make meaningful progress before Project closing, such as
+the policy component, could have been considered for cancellation or restructuring, though also here, a more
+comprehensive restructuring was not possible in light of the lengthy administrative process and limited bandwidth of GoV
+counterparts in particular during the COVID-19 period.
+Justification of Overall Rating of Bank Performance – rated Moderately Satisfactory
+69.
+The task team prepared a satisfactory operation and reflected major lessons learned from prior engagements
+during preparation and tried to overcome the considerable challenges related to the complex implementation
+arrangements during supervision. These challenges were severely exacerbated by the COVID-19 pandemic and policy
+shifts. On balance, the overall Bank performance during preparation is assessed as Moderately Satisfactory. Performance
+during implementation is rated as Moderately Satisfactory due to the issues described above, most serious of which is the
+lost opportunity to make more effective revisions to the project design and the Results Framework in a timely manner (e.g.,
+in 2021 post-GoV policy change) to ensure better alignment with the prevailing policy context and available alarming data
+on utilization, among other indicators, recognizing the highly challenges context in which such revisions would need to take
+place and the constraints detailed in paragraph 54..
+D. RISK TO DEVELOPMENT OUTCOME
+70.
+The uneven implementation progress of the Project seen across Project Provinces, with bid document
+development and evaluation as well as civil works oversight externalized through the consultancy firms supporting
+PPMUs and staff turnover, pose some risk to the sustainability of the fragile capacity gains in the areas of procurement,
+M&E, and safeguards. The limited achievement of the Project’s ‘soft’ components, including important policy-oriented
+activities and objectives, poses challenges to ensuring the long-term contributions of the GSD Project beyond the
+construction of infrastructure and equipment provision. These infrastructure contributions themselves are constructed
+with long-term use in mind, though remain vulnerable to climate change and natural disasters. To foster sustainability,
+Project Provinces have prepared Project Sustainability Plans to be adopted by the Provincial People’s Committees, in an
+
+Page 19
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+ICR DOCUMENT
+
+important show of commitment to Project sustainability. As such, the combined technical, environmental, political,
+ownership and financial and fiduciary risks facing the Project at closing entail a Modest risk to its development outcome.
+V. LESSONS AND RECOMMENDATIONS
+71.
+The GSD Project delivers important lessons learned and recommendations that can inform future World Bankfinanced operations, especially those being implemented in devolved and decentralized health sector contexts with
+varying project management and implementation capacity at the subnational level, as well as those country contexts
+where restrictions around the use of loan or credit proceeds limit non-infrastructure-related activities.
+72.
+Enabling environment to facilitate decentralization: Decentralizing health sector management to empower
+subnational authorities as Project implementers could be well-suited to the context of Viet Nam, enhancing transparency
+and accountability in the use of provincial resources. To support the effective implementation of decentralization policies,
+it is essential to strengthen financial management mechanisms and improve ODA governance, ensuring that subnational
+entities are equipped with the authority and capacity to make timely and effective decisions. Future World Bank
+operations in Viet Nam should also consider focusing on a smaller number of provinces to enable more targeted support
+and streamlined implementation.
+73.
+When faced with significant policy and sectoral fluidity, ensure operational agility: During implementation, the
+introduction of the policy that allowed to bypass primary care, the occurrence of an unexpected shock in the form of the
+COVID-19 pandemic, and the slow disbursement of grant resources could have been an impetus to reset ambitions and
+set renewed, more modest, yet still impactful objectives through substantive PDO and Project restructuring.
+74.
+Improving M&E capacity: The GSD Project highlights the importance of strengthening M&E capacity at the
+provincial level. Effective monitoring and evaluation are crucial not only for tracking project progress but also for informing
+policy decisions and enhancing transparency. The support from the GFF in improving the M&E and use of data capacities
+for local health staff is highly valued, as it has substantially contributed to establishing more robust M&E frameworks.
+However, more time and efforts beyond the project life and further awareness enhancement and investment are needed
+to substantively address the observed M&E shortcomings. To ensure sustainable M&E practices in future projects, ongoing
+training and resource allocation are paramount.
+75.
+Harness the power of innovative financing structures to the benefit of clients: The GFF buy-down was a critical
+enabler of IDA transitional lending with full IBRD terms for health in Viet Nam. Such opportunities should be pursued for
+client countries that face lending or capacity constraints, or face fluid lending environments, such as Viet Nam during its
+IDA-IBRD transition.
+76.
+A key lesson learned for project sustainability is the pivotal role of the Balanced Scorecard (BSC) in
+implementing effective interventions. By enhancing service quality at Community Health Services (CHS), the BSC has
+demonstrated its value, leading provinces to independently expand its use with their own budgets. This highlights the
+importance of investing in frameworks like the BSC to ensure long-term success and continuous improvement in service
+delivery.
+
+Page 20
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+ICR DOCUMENT
+
+ANNEX 1. RESULTS FRAMEWORK AND KEY OUTPUTS
+@#&OPS~Doctype~OPS^dynamics@icrresultframework#doctemplate
+A. RESULTS FRAMEWORK
+PDO Indicators by Outcomes
+Improve the quality and utilization of grassroots health services, with a focus on the commune level
+Indicator Name
+Baseline
+Closing Period (Original)
+Percentage of CHS in the project
+provinces meeting national
+standards/benchmarks for structural
+quality (Percentage)
+Number of NCD cases screened or
+being managed at the CHS level in
+project provinces (Number)
+
+Result
+Month/Year
+40.60
+Dec/2019
+Comments on achieving targets
+
+Overachieved
+
+429,563.00
+Dec/2019
+Comments on achieving targets
+
+Overachieved
+
+168,544.00
+Dec/2019
+Number of hypertension cases
+being managed at CHS level
+Comments on achieving targets
+(Number)
+43,582.00
+Dec/2019
+Number of diabetes cases
+being managed at CHS level
+Comments on achieving targets
+(Number)
+217,437.00
+Dec/2019
+Number of eligible women
+screened for cervical cancer at Comments on achieving targets
+the CHS level (Number)
+Percentage of project provinces
+maintaining a full immunization rate
+above 90% (Percentage)
+Population utilization rate of CHS in
+the project provinces (Number)
+
+92.30
+Dec/2019
+Comments on achieving targets
+0.62
+Dec/2019
+Comments on achieving targets
+
+Result
+
+Month/Year
+
+Closing Period (Current)
+
+Actual Achieved at Completion
+
+Result
+87.70
+
+Month/Year
+Dec/2024
+
+Result
+87.70
+
+Month/Year
+Dec/2024
+
+964,014
+
+Dec/2024
+
+964,014
+
+Dec/2024
+
+419,391.00
+
+Dec/2024
+
+385,302
+
+Dec/2024
+
+76,063.00
+
+Dec/2024
+
+116,162
+
+Dec/2024
+
+307,328.00
+
+Dec/2024
+
+462,550
+
+Dec/2024
+
+100.00
+
+Dec/2024
+
+100
+
+Dec/2024
+
+0.67
+
+Dec/2024
+
+0.48
+
+Dec/2024
+
+Partially achieved.
+
+Overachieved the end target.
+
+Overachieved the end target
+
+Achieved the end target
+
+Partially achieved
+
+Page 21
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+ICR DOCUMENT
+
+Intermediate Indicators by Components
+Component 1: Upgrading of CHS Infrastructure
+Indicator Name
+
+Number of CHS built (new) or
+renovated with project support
+(Number)
+Number of new CHS built
+(Number)
+Number of CHS renovated
+(Number)
+
+Baseline
+Result
+
+Month/Year
+
+0.00
+
+Dec/2019
+
+Comments on achieving targets
+0.00
+
+Closing Period (Original)
+
+Closing Period (Current)
+
+Result
+
+Result
+
+Month/Year
+
+Result
+
+Month/Year
+
+461.00
+
+Dec/2024
+
+463
+
+Dec/2024
+
+129.00
+
+Dec/2024
+
+140
+
+Dec/2024
+
+332.00
+
+Dec/2024
+
+323
+
+Dec/2024
+
+Month/Year
+
+Overachieved the end target
+
+Dec/2019
+
+Comments on achieving targets
+0.00
+
+Over - achieved.
+
+Dec/2019
+
+Comments on achieving targets
+
+Actual Achieved at Completion
+
+Partially achieved
+
+Component 2: Improving the Readiness of CHS to Manage Tracer Conditions
+Indicator Name
+
+Number of CHS in the project
+provinces with the basic package of
+equipment needed to manage the
+tracer conditions (provided by the
+project) (Number)
+Number of health professionals at
+CHS level who have received inservice training (through the project)
+on the management of the tracer
+conditions. (Number)
+Number of CHS in the project
+provinces authorized by the
+provincial DOH and provincial VSS to
+manage at least one of the new NCD
+
+Baseline
+
+Closing Period (Original)
+
+Result
+
+Month/Year
+
+0.00
+
+Dec/2019
+
+Comments on achieving targets
+
+0.00
+
+Result
+
+Month/Year
+
+Result
+
+Month/Year
+
+1,100.00
+
+Dec/2024
+
+1,787
+
+Dec/2024
+
+7,000.00
+
+Dec/2024
+
+11,069
+
+Dec/2024
+
+1,699.00
+
+Dec/2024
+
+1,704
+
+Dec/2024
+
+Over - achieved
+
+Dec/2019
+
+Comments on achieving targets
+
+Month/Year
+
+Actual Achieved at Completion
+
+Over - achieved
+
+Dec/2019
+
+Comments on achieving targets
+
+1,764.00
+
+Result
+
+Closing Period (Current)
+
+Over - achieved
+
+Page 22
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+ICR DOCUMENT
+
+tracer conditions (hypertension or
+diabetes) in the project provinces
+(Number)
+Percentage of CHS using quality
+monitoring and management
+practices (in the form of a quality
+scorecard) (Percentage)
+Number of community people were
+publicly consulted before project
+interventions (Number)
+
+0.00
+
+Dec/2019
+
+Comments on achieving targets
+
+0.00
+
+Dec/2024
+
+68
+
+Dec/2024
+
+4,500.00
+
+Dec/2024
+
+6,746
+
+Dec/2024
+
+Over - achieved
+
+Dec/2019
+
+Comments on achieving targets
+
+25.00
+
+Over - achieved
+
+Component 3: Creating an Enabling Policy Environment, Piloting Innovations, Evaluation, and Project Management
+Indicator Name
+
+People who have received essential
+health, nutrition, and population
+(HNP) services (Number)
+
+Baseline
+
+Closing Period (Original)
+
+Result
+
+Month/Year
+
+10,696,722.00
+
+Dec/2019
+
+Comments on achieving targets
+
+People who have received
+5,214,436.00
+essential health, nutrition, and Comments on achieving targets
+population (HNP) services Female (RMS requirement)
+(Number)
+190,221.00
+
+Comments on achieving targets
+
+Number of women and
+children who have received
+basic nutrition services
+(Number)
+
+Comments on achieving targets
+
+Number of districts in project
+provinces piloting at least one
+innovation (Number)
+
+0.00
+
+Month/Year
+
+Result
+
+Month/Year
+
+Dec/2024
+
+11,468,117
+
+Dec/2024
+
+5,470,439
+
+Overachieved the end target
+
+159,284
+
+Dec/2024
+
+159,284
+
+Dec/2024
+
+Dec/2024
+
+6,603,071
+
+Dec/2024
+
+Nov/2024
+
+140,358
+
+Dec/2024
+
+The number was decreased due to lower birth rates
+6,725,838.00
+The numbers decreased due to the lower birth rate
+
+190,452.00
+
+The number was decreased due to lower birth rate but the percentage has been increased
+
+Dec/2019
+
+Comments on achieving targets
+
+Result
+11,076,722.00
+
+5,407,956.00
+
+Dec/2019
+
+160,452.00
+Dec/2019
+Number of deliveries attended
+by skilled health personnel
+Comments on achieving targets
+(Number)
+
+Month/Year
+
+Actual Achieved at Completion
+
+Overachieved the end target
+
+Dec/2019
+
+Number of children
+immunized (Number)
+
+6,493,338.00
+
+Result
+
+Closing Period (Current)
+
+26.00
+
+Dec/2024
+
+67
+
+Dec/2024
+
+Over - achieved
+
+Page 23
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+The number of Provincial Project
+Management Units, who perform
+satisfactorily, based on the
+evaluation score (Number)
+
+0.00
+
+Dec/2019
+
+Comments on achieving targets
+
+ICR DOCUMENT
+
+10.00
+
+Dec/2024
+
+11
+
+Dec/2024
+
+Over - achieved
+
+Page 24
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+ICR DOCUMENT
+
+B. KEY OUTPUTS
+Objective/Outcome 1: Improve the quality of grassroots health services, with a focus on the commune level
+PDO Indicators
+
+1. Percentage of CHS in the project provinces meeting national
+standards/benchmarks for structural quality
+
+Intermediate Results Indicators
+
+1. Number of CHS built (new) or renovated with project support
+1a.Number of new CHS built
+1b.Number of CHS renovated
+3. Number of CHS in the project provinces with the basic package of
+equipment needed to manage the tracer conditions (provided by the project)
+4. Number of health professionals at CHS level who have received in-service
+training (through the project) on the management of the tracer conditions
+5. Number of CHS in the project provinces authorized by the provincial DOH
+and provincial VSS to manage at least one of the new NCD tracer conditions
+(hypertension or diabetes) in the project provinces
+6. Percentage of CHS using quality monitoring and management practices (in
+the form of a quality scorecard)
+
+Key Outputs
+(linked to the achievement of the PDO Outcome)
+
+1. Number of civil packages completed
+2. Number of equipment purchased.
+3. Number of training courses organized.
+4. Number of CHS staff trained on BSC
+
+Page 25
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+ICR DOCUMENT
+
+Objective/Outcome 2: Improve utilization of grassroots health services
+PDO Indicators
+
+1.Population utilization rate of CHS in the project provinces
+2.Number of NCD cases screened or being managed at the CHS level in project
+provinces.
+2a.Number of hypertension cases being managed at CHS level
+2b.Number of diabetes cases being managed at CHS level
+2c.Number of eligible women screened for cervical cancer at the CHS level
+3. Percentage of project provinces maintaining a full immunization rate above
+90%
+
+Intermediate Results Indicators
+
+Key Outputs
+(linked to the achievement of the Component)
+
+1. People who have received essential health, nutrition, and population
+1a. People who have received essential health, nutrition, and population
+(HNP) services – Female
+1b. Number of children immunized
+1c. Number of women and children who have received basic nutrition services
+1d. Number of deliveries attended by skilled health personnel
+1. Number of people having health insurance card
+2. Number of women having health insurance card
+3. Number of children having health insurance card.
+4. Number of communication events on NCD management organized
+5. Number of people screened for NCD at commune level.
+
+Page 26
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+ANNEX 2. BANK LENDING AND IMPLEMENTATION SUPPORT/SUPERVISION
+
+A. TASK TEAM MEMBERS
+
+Name
+
+Role
+
+Anh Thuy Nguyen
+
+Team Leader
+
+Huong Lan Dao
+
+Team Leader
+
+Mai Thi Phuong Tran
+
+Financial Management Specialist
+
+Ba Liu Nguyen
+
+Procurement Specialist
+
+Sang Minh Le
+
+Environmental Specialist
+
+Thuy Cam Duong
+
+Environmental Specialist
+
+Giang Tam Nguyen
+
+Social Specialist
+
+Nga Thuy Thi Nguyen
+
+Procurement Team
+
+Dung Thi Thuy Dao
+
+Team Member
+
+Nga Thi Anh Hoang
+
+Team Member
+
+Nguyen Hoa Thi Quynh
+
+Team Member
+
+@#&OPS~Doctype~OPS^dynamics@icrannexstafftime#doctemplate
+
+B. STAFF TIME & COST
+Staff Time & Cost
+Stage of Project Cycle
+No. of Staff Weeks
+
+US$ (including travel and consultant costs)
+
+Preparation
+FY17
+
+49.315
+
+318,977.86
+
+FY18
+
+57.782
+
+429,198.73
+
+FY19
+
+29.746
+
+220,811.95
+
+FY20
+
+16.200
+
+35,433.84
+
+Page 27
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+FY21
+
+6.500
+
+13,387.40
+
+FY22
+
+6.650
+
+19,001.37
+
+FY23
+
+16.500
+
+53,536.18
+
+FY24
+
+3.400
+
+15,875.13
+
+FY25
+
+0.000
+
+525.86
+
+Total
+
+186.09
+
+1,106,748.32
+
+Supervision/ICR
+FY20
+
+20.348
+
+94,723.67
+
+FY21
+
+30.300
+
+137,342.91
+
+FY22
+
+46.850
+
+238,278.80
+
+FY23
+
+55.509
+
+422,415.96
+
+FY24
+
+44.050
+
+325,845.58
+
+FY25
+
+56.700
+
+352,267.58
+
+Total
+
+253.76
+
+1,570,874.50
+
+Page 28
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+ANNEX 3. PROJECT COST BY COMPONENT
+
+Component
+
+Amount at Approval (US$M)
+
+Actual at Project Closing (US$M)
+
+Component 1: Upgrading of CHS
+Infrastructure
+
+81.2
+
+67.44
+
+Component 2: Improving the
+Readiness of CHS to Manage Tracer
+Conditions
+
+22.0
+
+15.92
+
+Component 3: Creating an Enabling
+Policy Environment, Piloting
+Innovations, Evaluation, and Project
+Management
+
+6.0
+
+3.32
+
+Page 29
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+ANNEX 4. EFFICIENCY ANALYSIS
+A4.1 The economic analysis at appraisal stage in the GSD PAD focused on cost savings from disease prevention, early
+detection, and management of NCDs at CHS level, yet did not account for MCH services – critical to the Project – nor the
+productivity gains associated with these improved services through the Project. The economic analysis at ICR stage
+therefore seeks to provide a post-hoc insight in these critical areas and examines the allocative efficiency of the Project by
+comparing the NPV and benefit-cost ratio using patient targets in the restructured Results Framework (intended NPV) with
+the NPV and benefit-cost ratio using actual patients reached (actual NPV) at Project closing. Please note that both the
+intended number of beneficiaries as per the Results Framework targets (intended) and numbers of beneficiaries included
+as reached in the Results Framework at Project closing (actual) are assumed to have directly benefited from the
+interventions of the GSD Project. The economic analysis at ICR stage follows the rationale of the appraisal-stage economic
+analysis in its consideration that strengthening PHC will result in significant efficiencies in the health system. At PCH level
+in lower-middle income countries like Viet Nam, expanding essential MCH services alone has the potential to achieve a
+benefit-cost ratio of 11.329.
+A4.2 To calculate the negative cashflow, in first instance, the cost for facility construction, rehabilitation, and
+operation is calculated for the five active years of the GSD Project period, along with the necessary HRH training,
+equipment, and other quality improvement measures. To that end, the actual Project disbursements of the IDA credit and
+trust fund grants were used by year. Negative cashflow is also estimated for the five years following Project closure in the
+NPV assessment. The projected annual cost for CHS operation for years 6 to 10 is therefore used to project the future CHS
+maintenance and management cost upon Project closing. In 2015, mean annual CHS operation cost was estimated at 1,536
+million Vietnamese Dollars, equivalent to US$70,165 at the time30. With an average inflation rate of 2.7 percent between
+2015 and 202331, this cost is estimated at US$89,177 annually at Project closing. Therefore, this ICR uses an average annual
+CHS operational cost of US$89,177 per CHS in 2024 as its baseline, with a 2.7 percent average projected inflation for the
+2025-2029 period to calculate future CHS maintenance and management costs beyond the Project period. The total
+maintenance and management cost beyond Project period is then the annual CHS operational cost times the number of
+CHSs supported by the Project, standing at 424 at Project closing (versus a targeted 461) and held constant for the five
+subsequent years. A discount rate of 2% is applied, the average 5-year Government bond as of August 2024.
+A4.3 To calculate the positive cashflow, for the intended NPV, the annual targeted annual number of people who
+received essential health, nutrition, and population services as per the restructured Results Framework was used, while
+for actual NPV, the recorded annual number of people who received essential health, nutrition, and population services
+was used. As per the Results Framework, these latter data were provided by the PPMUs in Project Provinces based on their
+administrative records and included essential NCD and MCH services. Two major aspects are considered to contribute to
+the economic benefit of the GSD Project in the NPV calculation: (1) the cost saved by beneficiaries making use of grassroots
+health services at the CHS level instead of higher-level, more costly referral health services, and (2) the increase in
+productivity of beneficiaries of CHS services through their improved health resulting from the essential health services
+received. To compute the former, the costs saved by patients seeking care at the CHS level, the cost differential between
+an outpatient visit at the CHS level and an outpatient visit at the hospital level in Viet Nam was used. In 2014, a CHS
+29
+
+Stenberg et al. 2014. Advancing social and economic development by investing in women’s and children’s health: a new Global Investment Framework. Lancet 383,
+1333–54
+30 Ammaz et al. 2015. “More Health for Money” in Viet Nam: Does Operational Cost or Running Cost of Health Institutions Help Budgeting for More Services and
+Improve the Health of the population? Journal of Health Care Finance, Fall 2015
+31 World Bank 2024. Inflation, consumer prices (annual %) - Viet Nam. Available at: https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=VN
+Page 30
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+outpatient visit cost on average US$2.1132, while a hospital outpatient visit cost on average US$8.4133. The differential,
+US$6.30, is used as the financial gain of expanded CHS services for each patient that seeks grassroots care and avoids
+hospital care. This differential is assumed constant over the course of the Project and post-Project period. To compute the
+increase in productivity of beneficiaries of CHS services, the economic benefit in terms of productive years gained for the
+annual increase in CHS service beneficiaries aged 15-64 who have received essential health, nutrition, and population
+services in Project Provinces (using the average 68 share of Vietnamese in this age group of the total number of
+beneficiaries34) was computed. In the absence of data from low- and middle-income countries, US data demonstrate that
+strengthening supply side of primary care through an increase in primary care providers increased life expectancy by 51.5
+days on average, or 0.14 years. Given Viet Nam’s healthy life expectancy was 65.3 years, versus a total life expectancy at
+birth of 73.7 years in 201935 (meaning 88.6 percent of the average live is lived healthily), this translates to an expected
+increase in healthy years of 0.12 years per person benefiting from strengthened CHS services. The estimated benefit from
+this added healthy life expectancy is computed by multiplying these added years for CHS patients by the per-capita Gross
+National Income of Viet Nam, which has seen an average growth of 4.4 percent between 2019 and 202336, and this average
+is used to project the GNI for five years after Project closing. It should be noted that this economic analysis is deliberately
+conservative, as it does not account for the cost of avoided hospital visits due to successful preventive care at the CHS level,
+for which the productivity increase serves as a proxy, nor does it compute productivity gains for children and youth or the
+elderly population, from the prevention and early detection of diseases, and associated increased pandemic preparedness
+and response capacity.
+A4.4
+Accounting for these indicators and assumptions, the actual NPV at Project closing is US$628,051,435, while the
+intended NPV was US$329,947,783. Similarly, the actual benefit-cost ratio of the Project at closing was 1.7, with an
+intended ratio of 1.2. This demonstrates the significant economic benefit of the Project, surpassing its targets formulated
+in the restructured Results Framework in the wake of the COVID-19 pandemic.
+
+32
+
+Minh et al. 2015. Costing of commune health station visits for provider payment reform in Viet Nam. Global Public Health 10 Suppl 1: S95-103
+Vuong et al. 2014. Determining the impacts of hospital cost-sharing on the uninsured near-poor households in Viet Nam. International Journal for Equity in Health
+13:40
+34 World Bank 2024. Population ages 15-64 (% of total population) - Viet Nam. Available at: https://data.worldbank.org/indicator/SP.POP.1564.TO.ZS?locations=VN
+35 WHO 2020. Life expectancy and Healthy life expectancy. Available at: https://apps.who.int/gho/data/node.main.688
+36 World Bank 2024. GNI per capita, Atlas Method (current US$) - Viet Nam. Available at: https://data.worldbank.org/indicator/NY.GNP.PCAP.CD?locations=VN
+Page 31
+33
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+ICR DOCUMENT
+
+Table A4.1: Intended NPV and Benefit-Cost Ratio
+Under project period
+Year
+
+Y1 (2020)
+
+Y2 (2021)
+
+Beyond project period
+Y3 (2022)
+
+Y4 (2023)
+
+Y5 (2024)
+
+Y6
+
+Y7
+
+Y8
+
+Y9
+
+Y10
+Number
+of CHSs
+supported
+by Project
+
+CHS Management and Maintenance
+Cost (annual average, US$)
+
+$
+89,177
+
+Annual
+average
+inflation
+(rate)
+
+1.0270
+
+1,170,000
+
+12,910,000
+
+17,850,000
+
+24,100,000
+
+16,750,000
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+42,220,583
+
+43,360,539
+
+44,531,273
+
+45,733,618
+
+46,968,425
+
+12,910,000
+
+17,850,000
+
+24,100,000
+
+16,750,000
+
+42,220,583
+
+43,360,539
+
+44,531,273
+
+45,733,618
+
+46,968,425
+
+2.11
+
+2.11
+
+2.11
+
+2.11
+
+2.11
+
+2.11
+
+2.11
+
+2.11
+
+2.11
+
+2.11
+
+8.41
+
+8.41
+
+8.41
+
+8.41
+
+8.41
+
+8.41
+
+8.41
+
+8.41
+
+8.41
+
+8.41
+
+6.30
+
+6.30
+
+6.30
+
+6.30
+
+6.30
+
+6.30
+
+6.30
+
+6.30
+
+6.30
+
+6.30
+
+10696722
+
+10848722
+
+10924722
+
+11000722
+
+11076722
+
+76,000
+
+76,000
+
+76,000
+
+95,000
+
+95,000
+
+95,000
+
+95,000
+
+95,000
+
+461
+
+Cost Estimates
+Disbursement (in $), including
+management costs
+Maintenance and management costs
+beyond project period
+Discount rate
+Negative cash flow
+Present Value of Costs
+
+2%
+1,170,000
+257,855,822
+
+Benefit Estimates
+Cost of CHS outpatient visit (US$)
+Cost of Hospital outpatient visit (US$)
+Cost saving per patient of CHS use over
+hospital use (US$)
+Number of people receiving essential
+health, nutrition, and population
+services at CHSs in Project Provinces Intended
+Year-on-year increase in number of
+people receiving essential health,
+nutrition, and population services at
+CHSs in Project Provinces - Intended
+Year-on-year increase in number of
+people receiving essential health,
+nutrition, and population services at
+CHSs in Project Provinces - Intended,
+Projected
+Direct Financial Benefits (US$)
+Beneficiaries age 15-64 (population
+share)
+
+-
+
+152,000
+
+-
+
+957,600
+
+478,800
+
+478,800
+
+478,800
+
+598,500
+
+598,500
+
+598,500
+
+598,500
+
+598,500
+
+0.68
+
+0.68
+
+0.68
+
+0.68
+
+0.68
+
+0.68
+
+0.68
+
+0.68
+
+0.68
+
+0.68
+
+Page 32
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+Average gained productive life years per
+person from strengthened primary care
+system (applicable only to beneficiaries
+15-64)
+Total gained productive life years
+(applicable only to beneficiaries 15+)
+GNI per capita (current $US)
+
+ICR DOCUMENT
+
+0.12
+
+0.12
+
+0.12
+
+0.12
+
+0.12
+
+0.12
+
+0.12
+
+0.12
+
+0.12
+
+0.12
+
+-
+
+12,403
+
+6,202
+
+6,202
+
+6,202
+
+7,752
+
+7,752
+
+7,752
+
+7,752
+
+7,752
+
+3,450
+
+3,590
+
+4,020
+
+4,180
+
+4,363.92
+4,669
+
+4,996
+
+5,346
+
+5,720
+
+6,121
+
+Projected GNI per capita (current $US,
+average of 2018-2023 growth)
+Estimated economic benefit (in $US)
+from increased productivity
+Total positive cash flow (direct
+financial benefits + economic and
+social benefits)
+
+-
+
+44,527,488
+
+24,930,432
+
+25,922,688
+
+27,063,286
+
+36,197,145
+
+38,730,946
+
+41,442,112
+
+44,343,060
+
+47,447,074
+
+-
+
+45,485,088
+
+25,409,232
+
+26,401,488
+
+27,542,086
+
+36,795,645
+
+39,329,446
+
+42,040,612
+
+44,941,560
+
+48,045,574
+
+Discount rate
+
+2%
+
+(1,170,000)
+
+(12,910,000)
+
+(17,850,000)
+
+(24,100,000)
+
+(16,750,000)
+
+(42,220,583)
+
+(43,360,539)
+
+(44,531,273)
+
+(45,733,618)
+
+(46,968,425)
+
+296,811,721
+
+45,485,088
+
+25,409,232
+
+26,401,488
+
+27,542,086
+
+36,795,645
+
+39,329,446
+
+42,040,612
+
+44,941,560
+
+48,045,574
+
+295,641,721
+
+32,575,088
+
+7,559,232
+
+2,301,488
+
+10,792,086
+
+(5,424,938)
+
+(4,031,093)
+
+(2,490,662)
+
+(792,058)
+
+1,077,148
+
+Present Value of Economic Benefits
+
+296,811,721
+
+Key Findings
+Negative cash flow
+Positive cash flow
+Net cash flow
+Discount rate
+Net present Value of the Proposed
+Project
+Benefit-Cost Ratio (US$ gained for
+every dollar invested)
+
+2%
+329,947,783
+1.2
+
+Page 33
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+ICR DOCUMENT
+
+Table A4.2: Actual NPV and Benefit-Cost Ratio
+Under project period
+Y1 (2020)
+
+Year
+
+Y2 (2021)
+
+Y3 (2022)
+
+Beyond project period
+Y4 (2023)
+
+Y5 (2024)
+
+Y6
+
+Y7
+
+Y8
+
+Y9
+
+Y10
+Number
+of CHSs
+supported
+by Project
+
+Annual
+average
+inflation
+(rate)
+
+1.0270
+
+1,170,000
+
+12,910,000
+
+17,850,000
+
+24,100,000
+
+16,750,000
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+42,403,753
+
+43,548,654
+
+44,724,468
+
+45,932,028
+
+47,172,193
+
+12,910,000
+
+17,850,000
+
+24,100,000
+
+16,750,000
+
+42,403,753
+
+43,548,654
+
+44,724,468
+
+45,932,028
+
+47,172,193
+
+2.11
+
+2.11
+
+2.11
+
+2.11
+
+2.11
+
+2.11
+
+2.11
+
+2.11
+
+2.11
+
+$
+89,177
+
+CHS Management and Maintenance
+Cost (annual average, US$)
+Cost Estimates
+Disbursement (in $) including
+maintenance costs
+Maintenance and management costs
+beyond project period
+
+463
+
+2%
+
+Discount rate
+Negative cash flow
+
+1,170,000
+
+Present Value of Costs
+
+258,680,308
+
+Benefit Estimates
+Cost of CHS outpatient visit (US$)
+Cost of Hospital outpatient visit (US$)
+Cost saving per patient of CHS use over
+hospital use (US$)
+Number of people receiving essential
+health, nutrition, and population
+services at CHSs in Project Provinces Actual
+Year-on-year increase in number of
+people receiving essential health,
+nutrition, and population services at
+CHSs in Project Provinces - Actual
+Year-on-year increase in number of
+people receiving essential health,
+nutrition, and population services at
+
+2.11
+
+-
+
+8.41
+
+8.41
+
+8.41
+
+8.41
+
+8.41
+
+8.41
+
+8.41
+
+8.41
+
+8.41
+
+8.41
+
+6.30
+
+6.30
+
+6.30
+
+6.30
+
+6.30
+
+6.30
+
+6.30
+
+6.30
+
+6.30
+
+6.30
+
+10696722
+
+10669739
+
+10848722
+
+10920490
+
+11257653
+
+(26,983)
+
+178,983
+
+71,768
+
+337,163
+
+140,233
+
+140,233
+
+140,233
+
+140,233
+
+140,233
+
+Page 34
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+ICR DOCUMENT
+
+CHSs in Project Provinces - Actual,
+Projected
+
+Direct Financial Benefits (US$)
+Beneficiaries age 15-64 (population
+share)
+Average gained productive life years
+per person from strengthened primary
+care system (applicable only to
+beneficiaries 15-64)
+Total gained productive life years
+(applicable only to beneficiaries 15+)
+
+-
+
+GNI per capita (current $US)
+Projected GNI per capita (current $US,
+average of 2018-2023 growth)
+Estimated economic benefit (in $US)
+from increased productivity
+Total positive cash flow (direct
+financial benefits + economic and
+social benefits)
+
+1,127,593
+
+0.68
+
+452,138
+
+0.68
+
+2,124,127
+0.68
+
+883,466
+
+0.68
+
+883,466
+0.68
+
+883,466
+0.68
+
+883,466
+0.68
+
+883,466
+0.68
+
+0.68
+
+0.12
+
+0.12
+
+0.12
+
+0.12
+
+0.12
+
+0.12
+
+0.12
+
+0.12
+
+0.12
+
+0.12
+
+-
+
+(2,202)
+
+14,605
+
+5,856
+
+27,513
+
+11,443
+
+11,443
+
+11,443
+
+11,443
+
+11,443
+
+3,450
+
+3,590
+
+4,020
+
+4,180
+
+4,363.92
+4,669
+
+4,996
+
+5,346
+
+5,720
+
+6,121
+
+-
+
+(7,904,508)
+
+58,712,151
+
+24,479,204
+
+120,062,352
+
+53,431,845
+
+57,172,074
+
+61,174,119
+
+65,456,307
+
+70,038,249
+
+-
+
+(8,074,501)
+
+59,839,744
+
+24,931,342
+
+122,186,479
+
+54,315,311
+
+58,055,540
+
+62,057,585
+
+66,339,774
+
+70,921,715
+
+(1,170,000)
+
+(12,910,000)
+
+(17,850,000)
+
+(24,100,000)
+
+(16,750,000)
+
+(42,403,753)
+
+(43,548,654)
+
+(44,724,468)
+
+(45,932,028)
+
+(47,172,193)
+
+447,755,632
+
+(8,074,501)
+
+59,839,744
+
+24,931,342
+
+122,186,479
+
+54,315,311
+
+58,055,540
+
+62,057,585
+
+66,339,774
+
+70,921,715
+
+446,585,632
+
+(20,984,501)
+
+41,989,744
+
+831,342
+
+105,436,479
+
+11,911,558
+
+14,506,886
+
+17,333,118
+
+20,407,745
+
+23,749,522
+
+2%
+
+Discount rate
+Present Value of Economic Benefits
+
+(169,993)
+0.68
+
+447,755,632
+
+Key Findings
+Negative cash flow
+Positive cash flow
+Net cash flow
+Discount rate
+Net present Value of the Proposed
+Project
+Benefit-Cost Ratio (US$ gained for
+every dollar invested)
+
+2%
+628,051,435
+1.7
+
+Page 35
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+ANNEX 5. BORROWER, CO-FINANCIER AND OTHER PARTNER/STAKEHOLDER COMMENTS
+Comments received from the Ministry of Health
+Firstly, we extend our sincere gratitude to the World Bank for sharing the draft of the Implementation Completion and
+Results Report (ICR) for the GSD Project. We affirm that this project has been successful in numerous aspects, including the
+development of new models that positively impact healthcare services within the primary health system, transformation
+of the infrastructure landscape and address equipment shortages at the grassroots level, particularly for noncommunicable diseases. The project effectively utilized loan and counterpart funds, adhered to timelines despite various
+challenges over the five-year period, and complied strictly with both World Bank and government regulations, with no
+errors during implementation. The Ministry of Health and project provinces have clearly articulated the project's successes
+and lessons in the end-of-project evaluation report, completed in May 2025 for presentation to the Vietnamese
+Government and relevant ministries and agencies.
+After a thorough review of the draft ICR report, we have attached feedback to clarify certain contents and propose
+adjustments and additions to better reflect the practical context, implementation methods, and significant results and
+lessons from the project.
+The ICR was meticulously prepared with in-depth analyses, covering many critical aspects of the GSD Project. It accurately
+reflects the implementation process and results, while highlighting valuable lessons for future interventions. The GSD
+Project was executed in a unique context, facing more challenges than any previous health sector support project. While
+the report identifies these challenges, they should be highlighted alongside development indicators and intermediate
+results to provide a comprehensive picture. The project evaluation should consider the same context and challenges as
+other projects to acknowledge the achieved results and the stakeholders' efforts in implementation.
+We acknowledge that the "service utilization" indicator not meeting expectations might affect the project's effectiveness
+evaluation. However, relying solely on this indicator may not fully capture the project's impact. The goal of increasing
+service utilization at commune health stations is a long-term outcome, influenced by factors such as infrastructure,
+personnel capacity, quality management, disease trends, related policies, and crucially, the intervention time factor. Many
+components, such as upgrading commune health stations, were completed towards the project's end or were delayed by
+the COVID-19 pandemic, necessitating more time to assess effectiveness.
+Additionally, the report would benefit from including training—one of the major intervention areas that directly
+contributed to improving service quality and utilization. This should encompass the implementation methods, challenges,
+and results of training activities within the project's scope.
+We are also concerned about the evaluation of M&E and the World Bank team's performance during the implementation
+stage in the ICR report. While we agree with the assessment of early-stage M&E system weaknesses, we affirm that project
+staff made significant efforts to enhance data collection, validation, reporting, usage, and in the context where the common
+reporting information system of the entire health sector is currently facing many difficulties. M&E capacity improved
+considerably over the five years, evidenced by more complete, quality data and timely reports in the latter years.
+The Ministry of Health and project provinces' leadership highly appreciate the technical guidance and project management
+of the World Bank team. Unlike previous projects with a single focal point, the World Bank team managed 14 focal points,
+effectively supervising as if managing 14 projects. Although some activities could have been improved, we propose
+reconsidering the unsatisfactory rating (MU) of the World Bank team, as this assessment differs from the evaluation by the
+Ministry of Health and project provinces.
+This feedback from the Ministry of Health/Central Project Management Project aims to enhance the ICR of the World Bank.
+Thank you for considering these comments to further improve the report.
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+Note: The task team and ICR main contributor reviewed and incorporated select comments into the final report. A
+response was sent to the Ministry of Health, acknowledging the review, informing them of the comments that were
+included, and offering further explanation for others.
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+ICR DOCUMENT
+
+ANNEX 6. SUPPORTING DOCUMENTS – Results Framework
+Table A6.1: Evidence Base of Efficacy Analysis of Objective 1 - Improvement of Quality of Care
+
+Indicator
+
+Original
+Baseline
+(2019)
+
+Original
+Target
+(2019)
+
+Revised
+Baseline 1
+(2021)
+
+Actual
+Result (2024,
+or latest
+available)
+
+Percentage
+Achieved –
+Original37
+
+Percentage
+Achieved –
+Revised38
+
+67.0
+
+87.7
+
+81
+
+178
+
+Revised
+Target 1
+(2021)
+
+Revised
+Target 2
+(2023)
+
+PDO Level
+1. CHSs meeting national standards/ benchmarks for
+structural quality (PDO Indicator, %)
+
+78.00
+
+90.00
+
+40.6
+IRI Level
+
+2. Number of CHS built (new) or renovated with project
+support (Number)
+2a. Number of new CHS built (Number)
+2b. Number of CHS renovated (Number)
+3. Number of CHS in the project provinces with the basic
+package of equipment needed to manage the tracer
+conditions (provided by the project) (Number)
+4. Number of grassroots facilities in the project provinces
+with a functioning vaccine cold chain (fridges) (provided
+by the project) (Number)
+4a. Number of CHS in the project provinces with a
+functioning vaccine cold chain (fridges) (provided by the
+project) (Number)
+4b. Number of DHC/DH in the project provinces with a
+functioning vaccine cold chain (fridges) (provided by the
+project) (Number)
+5. Number of DHC/DH in the project provinces with a
+GeneXpert testing machine (provided by the project)
+(Number)
+
+37
+38
+
+0
+
+440
+
+0
+
+461
+
+463
+
+105
+
+100
+
+0
+
+135
+
+0
+
+129
+
+140
+
+104
+
+109
+
+0
+
+305
+
+0
+
+332
+
+323
+
+106
+
+97
+
+0
+
+1,100
+
+1,787
+
+162
+
+162
+
+0
+
+710
+
+Dropped
+
+37
+(Dec 2021)
+
+N/A
+
+N/A
+
+0
+
+600
+
+Dropped
+
+37
+(Dec 2021)
+
+N/A
+
+N/A
+
+0
+
+110
+
+Dropped
+
+0
+(Dec 2021)
+
+N/A
+
+N/A
+
+0
+
+35
+
+Dropped
+
+0
+(Dec 2021)
+
+N/A
+
+N/A
+
+Calculated as: % achieved = (actual result – original baseline) / (original target – original baseline)
+Calculated as: % achieved = (actual result – revised baseline) / (revised target – revised baseline)
+Page 38
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+6. Number of health professionals at CHS who have
+received in-service training (through the project) on the
+management of the tracer conditions. (Number)
+7. Number of CHS in the project provinces authorized by
+the provincial DOH and provincial VSS to manage at least
+one of the new NCD tracer conditions (hypertension or
+diabetes) in the project provinces (Number)
+Indicator
+8. Percentage of CHS using quality monitoring and
+management practices (in the form of a quality
+scorecard) (Percentage)
+9. Percentage of beneficiaries in project provinces
+reporting that they are satisfied with the quality of
+services at the CHS (Percentage)
+10. Number of community people were publicly
+consulted before project interventions (Number)
+
+ICR DOCUMENT
+
+0
+
+7,000
+
+0
+
+300
+
+1,764
+
+1,747
+
+Original
+Baseline
+(2019)
+
+Original
+Target
+(2019)
+
+Revised
+Baseline 1
+(2021)
+
+Revised
+Target 1
+(2021)
+
+0
+
+20
+
+42
+
+60
+
+Not yet
+part of RF
+
+Not yet
+part of RF
+
+40
+
+55
+
+11,069
+
+158
+
+158
+
+1,699
+
+1,704
+
+569
+
+85
+
+Revised
+Target 2
+(2023)
+
+Actual
+Result (2024,
+or latest
+available)
+
+Percentage
+Achieved Original
+
+Percentage
+Achieved –
+Final
+
+25
+
+68
+
+295
+
+272
+
+Dropped
+
+40
+(Dec 2021)
+
+N/A
+
+N/A
+
+4,500
+
+6,746
+
+150
+
+Page 39
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+ICR DOCUMENT
+
+Table A6.2: Evidence Base of Efficacy Analysis of Objective 2 – Improvement of Utilization of Care
+
+Indicator
+
+Original
+Baseline
+(2019)
+
+Original
+Target (2019)
+
+Revised
+Baseline 1
+(2021)
+
+Revised
+Target 1
+(2021)
+
+Revised
+Target 2
+(2023)
+
+Actual Result
+(2024, or
+latest
+available)
+
+Percentage
+Achieved Original
+
+Percentage
+Achieve –
+Final
+
+0.48
+
+-89
+
+-280
+
+964,014
+
+536
+
+143
+
+PDO Level
+1. Population utilization rate of CHS in the
+project provinces
+2. Number of NCD cases screened or being
+managed at the CHS level in project
+provinces (Number)
+2a. Number of hypertension cases being
+managed at CHS level (Number)
+2b. Number of diabetes cases being
+managed at CHS level (Number)
+2c. Number of eligible women screened for
+cervical cancer at the CHS level (Number)
+3. Percentage of project provinces
+maintaining a full immunization rate above
+90% (Percentage)
+4. Number of presumptive TB cases
+referred for GeneXpert testing in project
+provinces (Number)
+
+0.56
+
+0.65
+
+0.62
+
+0.67
+
+0
+
+180,000
+
+429,563
+
+846,556
+
+0
+
+100,000
+
+168,544
+
+419,391
+
+385,302
+
+385
+
+86
+
+0
+
+50,000
+
+43,582
+
+76,063
+
+116,162
+
+232
+
+223
+
+0
+
+30,000
+
+217,437
+
+351,101
+
+462,550
+
+1,542
+
+272
+
+100
+
+100
+
+92.3
+(11/13
+provinces)
+
+100
+
+100
+
+100%
+(13/13
+provinces)
+
+100%
+(13/13
+provinces)
+
+7,860
+
+10,000
+
+7,928
+
+Dropped
+
+6,988
+(Dec 2021)
+
+N/A
+
+N/A
+
+Revised
+Target 2
+(2023)
+
+Actual Result
+(2024, or
+latest
+available)
+
+Percentage
+Achieved Original
+
+Percentage
+Achieve –
+Final
+
+11,468,117
+
+163
+
+203
+
+802,782
+
+307,328
+
+IRI Level
+Indicator
+5. People who have received essential
+health, nutrition, and population (HNP)
+services (Number)
+PLEASE NOTE: 5a, 5b, 5c, and 5d are
+expected to add up to 5, yet not in this
+project – see text on Objective 2 below
+
+Original
+Baseline
+(2019)
+
+Original
+Target (2019)
+
+Revised
+Baseline 1
+(2021)
+
+Revised
+Target 1
+(2021)
+
+10,000,000
+
+10,900,000
+
+10,696,722
+
+11,076,722
+
+Page 40
+
+Official Use Only
+
+The World Bank
+Investing and Innovating for Grassroots Health Service Delivery (P161283)
+
+5a. People who have received essential
+health, nutrition, and population (HNP)
+services - Female (Number)
+5b. Number of children immunized
+(Number)
+5c. Number of women and children who
+have received basic nutrition services
+(Number)
+5d. Number of deliveries attended by
+skilled health personnel (Number)
+
+ICR DOCUMENT
+
+10,000,000
+
+10,900,000
+
+5,214,456
+
+5,407,956
+
+5,470,439
+
+-503
+
+132
+
+100,000
+
+120,000
+
+190,221
+
+210,221
+
+159,284
+
+296
+
+-155
+
+6,500,000
+
+7,000,000
+
+6,493,338
+
+6,725,838
+
+6,603,071
+
+20
+
+47
+
+126,000
+
+189,000
+
+160,452
+
+190,452
+
+140,358
+
+22
+
+-67
+
+Page 41
+
+Official Use Only
+
+

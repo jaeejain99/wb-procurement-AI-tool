@@ -1,0 +1,4637 @@
+                                                                                 Report No: ICR00070
+
+
+
+                    INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT AND/OR
+
+                                INTERNATIONAL DEVELOPMENT ASSOCIATION
+
+
+
+                            IMPLEMENTATION COMPLETION AND RESULTS REPORT
+
+                                           IDA Cr. 6317-NP
+
+                                                  ON A
+
+                                                 CREDIT
+
+
+
+                                   IN THE AMOUNT OF SDR 83.97 MILLION
+
+                                      (US$118.21 MILLION EQUIVALENT)
+
+
+
+                                                   TO
+
+                                                  NEPAL
+
+
+
+                                                  FOR THE
+
+                            Second Bridges Improvement and Maintenance Program
+
+                                           PROGRAM-FOR-RESULTS
+
+                                             December 24, 2024
+
+
+
+
+
+
+
+
+
+Transport Global Practice
+
+South Asia Region
+
+The World Bank
+
+Second Bridges Improvement and Maintenance Program (P161929)                             ICR DOCUMENT
+
+
+
+
+
+                                   CURRENCY EQUIVALENTS
+
+
+
+                             (Exchange Rate Effective July 15, 2024)
+
+
+
+                               Currency Unit =    Nepalese Rupee (NPR)
+
+
+
+                                  NPR 133.75 = US$1
+
+
+
+                                     US$1.33 = SDR 1
+
+
+
+                                          FISCAL YEAR
+
+                                        July 1 – June 30
+
+
+
+
+
+
+
+
+
+                 Regional Vice President:     Martin Raiser
+
+                       Country Director:      David N. Sislen
+
+                       Regional Director:     Pankaj Gupta
+
+                      Practice Manager:       Fei Deng
+
+                   Task Team Leader (s):      Hisham Mahmoud Fouad, Deepak MS Shrestha
+
+                   ICR Main Contributor:      Shubu Thapa
+
+      The World Bank
+
+      Second Bridges Improvement and Maintenance Program (P161929)                                  ICR DOCUMENT
+
+
+
+
+
+
+
+ABBREVIATIONS AND ACRONYMS
+
+
+
+
+
+ ACCESS           Accelerating Transport and Trade Connectivity in Eastern South Asia - Nepal Phase 1 Project
+
+ ADB              Asian Development Bank
+
+ ADM              Accountability and Decision Making
+
+ BB               Bridge Branch
+
+ BIMP             Bridges Improvement and Maintenance Program
+
+ BMS              Bridge Management System
+
+ BoQ              Bill of Quantity
+
+ BSMS             Bridge Site Monitoring System
+
+ CMS              Contract Monitoring System
+
+ CPF              Country Partnership Framework
+
+ DATC             Design and Advanced Technology Cell
+
+ DB               Design-Build
+
+ DLI              Disbursement-Linked Indicator
+
+ DoR              Department of Roads
+
+ DRO              Division Road Office
+
+ EA               Environmental Assessment
+
+ EIRR             Economic Internal Rate of Return
+
+ E&S              Environment and Safeguard
+
+ ESMF             Environmental and Social Management Framework
+
+ FMIS             Financial Management Information System
+
+ GBV              Gender-Based Violence
+
+ GESU             Geo-Environmental and Social Unit
+
+ GoN              Government of Nepal
+
+ GRM              Grievance Redress Mechanism
+
+ HDM-4            Highway Development and Management-4
+
+ ICR              Implementation Completion and Results Report
+
+ ICT              Information and Communication Technology
+
+ IDA              International Development Association
+
+ IFSA             Integrated Fiduciary Systems Assessment
+
+ IPF              Investment Project Financing
+
+ IRI              Intermediate Results Indicator
+
+ M&E              Monitoring and Evaluation
+
+ MoF              Ministry of Finance
+
+ MoPIT            Ministry of Physical Infrastructure and Transport
+
+ MTR              Mid-Term Review
+
+ NCR              Non-Conformance Report
+
+ NM               Narayanghat-Mugling
+
+ NPC              National Planning Commission
+
+ NPR              Nepalese Rupees
+
+ NPV              Net Present Value
+
+ NVC              National Vigilance Center
+
+ OCHS             Occupational Community Health and Safety
+
+     The World Bank
+
+     Second Bridges Improvement and Maintenance Program (P161929)            ICR DOCUMENT
+
+
+
+
+
+OHS              Occupational Health and Safety
+
+PAD              Program Appraisal Document
+
+PAP              Program Action Plan
+
+PDO              Program Development Objective
+
+PforR            Program-for-Results
+
+PPMO             Public Procurement Monitoring Office
+
+RA               Results Areas
+
+RF               Results Framework
+
+SBD              Standard Bidding Document
+
+SEA              Sexual Exploitation and Abuse
+
+SDC              Swiss Agency for Development and Cooperation
+
+SDR              Special Drawing Rights
+
+SH               Sexual Harassment
+
+SOP              Standard Operating Procedure
+
+SRCTIP           Strategic Road Connectivity and Trade Improvement Project
+
+SRN              Strategic Road Network
+
+ToC              Theory of Change
+
+            The World Bank
+
+            Second Bridges Improvement and Maintenance Program (P161929)                                                                             ICR DOCUMENT
+
+
+
+
+
+
+
+
+
+                                                       TABLE OF CONTENTS
+
+DATA SHEET ................................................................................................................................................. i
+
+I.       PROGRAM CONTEXT AND DEVELOPMENT OBJECTIVES .....................................................................................1
+
+II.      OUTCOME .......................................................................................................................................................5
+
+III.     KEY FACTORS AFFECTED IMPLEMENTATION AND OUTCOME .......................................................................... 12
+
+IV.      BANK PERFORMANCE, COMPLIANCE ISSUES, AND RISK TO DEVELOPMENT OUTCOME .................................... 14
+
+V.       LESSONS AND RECOMMENDATIONS .............................................................................................................. 18
+
+ANNEX 1. RESULTS FRAMEWORK, DISBURSEMENT LINKED INDICATORS, AND PROGRAM ACTION PLAN .................... 21
+
+ANNEX 2. BANK LENDING AND IMPLEMENTATION SUPPORT/SUPERVISION .............................................................. 32
+
+ANNEX 3. PROGRAM EXPENDITURE SUMMARY ........................................................................................................ 34
+
+ANNEX 4. BORROWER’S COMMENTS ........................................................................................................................ 35
+
+ANNEX 5. PROGRAM RESTRUCTURING DETAILS ........................................................................................................ 35
+
+ANNEX 6. IPF ACTIVITIES STATUS .............................................................................................................................. 38
+
+ANNEX 7. BIMP: KEY ACHIEVEMENTS AND LEARNINGS ............................................................................................. 39
+
+         The World Bank
+
+         Second Bridges Improvement and Maintenance Program (P161929)                                    ICR DOCUMENT
+
+
+
+
+
+
+
+
+
+DATA SHEET
+
+
+
+@#&OPS~Doctype~OPS^dynamics@icrpfrbasicdata#doctemplate
+
+BASIC DATA
+
+
+
+Product Information
+
+
+
+Operation ID                                                  Operation Name
+
+P161929                                                       Second Bridges Improvement and Maintenance Program
+
+
+
+Product                                                       Operation Short Name
+
+
+
+Program-for-Results Financing (PforR)                         BIMP II
+
+
+
+Operation Status                                              Approval Fiscal Year
+
+Closed                                                       2019
+
+
+
+IPF Component?
+
+Yes
+
+Original EA Category                                         Current EA Category
+
+                                                             Full Assessment (A) (Restructuring Data Sheet - 14 Mar
+
+Full Assessment (A) (Approval package - 26 Sep 2018)
+
+                                                             2024)
+
+
+
+CLIENTS
+
+
+
+
+
+Borrower/Recipient                                            Implementing Agency
+
+Nepal                                                         Ministry of Physical Infrastructure and Transport
+
+
+
+
+
+DEVELOPMENT OBJECTIVE
+
+
+
+Original Development Objective (Approved as part of Approval Package on 26-Sep-2018)
+
+To provide safe, resilient and cost effective bridges on Nepal's Strategic Road Network.
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@icrfinancing#doctemplate
+
+FINANCING
+
+
+
+
+
+
+
+
+
+                                                                                                                      i
+
+          The World Bank
+
+          Second Bridges Improvement and Maintenance Program (P161929)                              ICR DOCUMENT
+
+
+
+
+
+
+
+
+
+RESTRUCTURING AND/OR ADDITIONAL FINANCING
+
+
+
+                                         Amount Disbursed
+
+     Date(s)                  Type                                                Key Revisions
+
+                                         (US$M)
+
+                                                             •   Results
+
+                                                             •   Disbursement Estimates
+
+  16-May-2022        Portal                          51.69   •   Loan Closing Date Extension
+
+                                                             •   Loan Cancellations
+
+                                                             •   Reallocations
+
+                                                             •   Results
+
+  31-Aug-2023        Portal                          62.07
+
+                                                             •   Reallocations
+
+                                                             •   Results
+
+  14-Mar-2024        Portal                          68.01   •   Disbursement Estimates
+
+                                                             •   Reallocations
+
+
+
+@#&OPS~Doctype~OPS^dynamics@icrkeydates#doctemplate
+
+KEY DATES
+
+
+
+
+
+                       Key Events                                 Planned Date                    Actual Date
+
+
+
+Concept Review                                                    26-Jun-2017                     26-Jun-2017
+
+
+
+Decision Review                                                   30-Jan-2018                     30-Jan-2018
+
+
+
+Authorize Negotiations                                            03-May-2018                     26-Apr-2018
+
+
+
+Approval                                                          26-Sep-2018                     26-Sep-2018
+
+
+
+Signing                                                                                           14-Nov-2018
+
+
+
+Effectiveness                                                                                     03-Dec-2018
+
+
+
+ICR/NCO                                                           14-Jan-2025                         --
+
+
+
+Restructuring Sequence.01                                        Not Applicable                   16-May-2022
+
+
+
+Restructuring Sequence.02                                        Not Applicable                   31-Aug-2023
+
+
+
+Restructuring Sequence.03                                        Not Applicable                   14-Mar-2024
+
+
+
+Mid-Term Review No. 01                                            29-Nov-2021                     29-Nov-2021
+
+
+
+Operation Closing/Cancellation                                     15-Jul-2024                    15-Jul-2024
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@icrratings#doctemplate
+
+
+
+
+
+                                                                                                                ii
+
+       The World Bank
+
+       Second Bridges Improvement and Maintenance Program (P161929)                                    ICR DOCUMENT
+
+
+
+
+
+
+
+RATINGS SUMMARY
+
+
+
+
+
+              Outcome                             Bank Performance                         M&E Quality
+
+
+
+Moderately Satisfactory                Moderately Satisfactory               Modest
+
+
+
+
+
+ISR RATINGS
+
+
+
+                                                                                                Actual Disbursements
+
+ No.       Date ISR Archived                DO Rating                    IP Rating
+
+                                                                                                       (US$M)
+
+01        01-Mar-2019              Satisfactory                  Moderately Satisfactory                            0.00
+
+02        16-Oct-2019              Moderately Satisfactory       Moderately Satisfactory                            5.10
+
+03        17-Apr-2020              Moderately Satisfactory       Moderately Satisfactory                            5.10
+
+04        30-Oct-2020              Moderately Satisfactory       Moderately Satisfactory                        51.57
+
+05        14-May-2021              Moderately Satisfactory       Moderately Satisfactory                        51.69
+
+06        10-Nov-2021              Moderately Satisfactory       Moderately Satisfactory                        51.69
+
+07        21-Mar-2022              Moderately Satisfactory       Moderately Satisfactory                        51.69
+
+08        25-Sep-2022              Moderately Satisfactory       Moderately Satisfactory                        51.69
+
+09        13-Oct-2022              Moderately Satisfactory       Moderately Satisfactory                        51.69
+
+10        31-Mar-2023              Moderately Satisfactory       Moderately Satisfactory                        51.84
+
+11        27-Sep-2023              Moderately Satisfactory       Moderately Satisfactory                        62.07
+
+12        22-Mar-2024              Moderately Satisfactory       Moderately Satisfactory                        68.01
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@icrsectortheme#doctemplate
+
+SECTORS AND THEMES
+
+
+
+
+
+Sectors
+
+                                                                              Adaptation            Mitigation
+
+       Major Sector                          Sector                  %
+
+                                                                             Co-benefits (%)      Co-benefits (%)
+
+FY17 - Information and
+
+Communications                 FY17 - ICT Infrastructure                 2                  0                  21
+
+Technologies
+
+                               FY17 - Public Administration -
+
+FY17 - Transportation                                                    5                 40                   0
+
+                               Transportation
+
+
+
+
+
+
+
+                                                                                                                      iii
+
+      The World Bank
+
+      Second Bridges Improvement and Maintenance Program (P161929)                         ICR DOCUMENT
+
+
+
+
+
+
+
+                          FY17 - Rural and Inter-Urban Roads      91                  43         4
+
+
+
+                          FY17 - Urban Transport                   2                  50        50
+
+
+
+
+
+Themes
+
+     Major Theme                      Theme (Level 2)              Theme (Level 3)         %
+
+FY17 - Environment and                                         FY17 - Adaptation                42
+
+Natural Resource         FY17 - Climate change
+
+Management                                                     FY17 - Mitigation                 5
+
+FY17 - Human
+
+Development and          FY17 - Gender                                                           1
+
+Gender
+
+
+
+FY17 - Private Sector    FY17 - ICT                            FY17 - ICT Solutions              4
+
+Development              FY17 - Public Private Partnerships                                      2
+
+
+
+                         FY17 - Road Safety                                                     13
+
+                                                               FY17 - Rural
+
+                         FY17 - Rural Development              Infrastructure and               75
+
+FY17 - Urban and Rural                                         service delivery
+
+Development                                                    FY17 - Public Transport          82
+
+                         FY17 - Urban Development              FY17 - Urban
+
+                                                               Infrastructure and               75
+
+                                                               Service Delivery
+
+
+
+
+
+
+
+
+
+                                                                                                     iv
+
+           The World Bank
+
+           Second Bridges Improvement and Maintenance Program (P161929)                                     ICR DOCUMENT
+
+
+
+
+
+
+
+ ADM STAFF
+
+
+
+
+
+  Role                                    At Approval                            At ICR
+
+  Practice Manager                        Karla Gonzalez Carvajal                Fei Deng
+
+
+
+  Regional Director                       Franz R. Drees-Gross                   Pankaj Gupta
+
+
+
+  Global Director                         --                                     Nicolas Peltier-Thiberge
+
+
+
+  Practice Group Vice President           Makhtar Diop                           Guangzhe Chen
+
+  Country Director                        Qimiao Fan                             David N. Sislen
+
+  Regional Vice President                 Hartwig Schafer                        Martin Raiser
+
+
+
+  ADM Responsible Team Leader             Dominic Patella                        Hisham Mahmoud Fouad
+
+  Co-Team Leader(s)                       Oceane Keou                            Deepak Man Singh Shrestha
+
+
+
+  ICR Main Contributor                   Shubu Thapa
+
+
+
+
+
+I. PROGRAM CONTEXT AND DEVELOPMENT OBJECTIVES
+
+    A. CONTEXT AT APPRAISAL AND THEORY OF CHANGE
+
+
+
+Context
+
+1.      At appraisal in 2018, Nepal's economic growth had averaged 4.3% over the previous decade but remained
+
+vulnerable to shocks such as the 2015 earthquakes and the 2017 floods. Nepal's physical and economic integration
+
+relied heavily on the Strategic Road Network (SRN), which was crucial to ensure year-round connectivity between the
+
+provinces. Given Nepal's challenging topography, bridges were essential for connecting different sections of SRN roads,
+
+enabling access to social services and markets, and supporting poverty reduction efforts, particularly in rural areas. The
+
+2017 monsoon floods highlighted the vulnerability of many bridges, especially along the East-West Highway, indicating
+
+that Nepal's SRN system, without resilient bridges, would face severe connectivity disruptions under climate
+
+uncertainty. Furthermore, as climate change was expected to bring significant changes in weather patterns, increasing
+
+risks of extreme precipitation and landslides, strengthening the resilience of Nepal’s road and bridge network through
+
+resilient engineering designs was assessed to be vital. In addition, robust maintenance systems were regarded essential
+
+for resilience and cost-effectiveness of the assets built.
+
+
+
+2.     The SRN, comprising over 12,000 km of roads and 1,700 bridges, was assessed as incomplete and inadequate,
+
+with over 372 identified gaps totaling over 18,000 meters that required new bridge construction for improved all-
+
+weather connectivity. SRN roads and bridges lacked adequate safety features, resulting in 15.9 deaths per 100,000
+
+people annually as estimated by the World Health Organization in its Global Status Report on Road Safety, 2018.
+
+Improving the design and construction of bridges for inclusive and safe access was expected to enhance development
+
+outcomes from bridge investments in Nepal. The cost of building bridges along all identified gaps on the SRN was
+
+approximately US$216 million, equivalent to 1% of Nepal’s 2016 Gross Domestic Product. The aging bridges increasingly
+
+required maintenance and replacement. Additionally, a notable gender gap was evident in the transport sector, with
+
+women being underrepresented in engineering and management positions.
+
+
+
+                                                                                                                     Page 1
+
+                The World Bank
+
+                Second Bridges Improvement and Maintenance Program (P161929)                                  ICR DOCUMENT
+
+
+
+
+
+3.    The Department of Roads (DoR) under the Ministry of Physical Infrastructure and Transport (MoPIT) manages
+
+the development and maintenance of SRN roads and bridges. The Bridge Branch (BB) of the DoR manages bridge assets
+
+with support from regional Bridge Sectors. The DoR’s program of bridge investment accounted for approximately
+
+US$60–70 million of spending per year and included maintenance, rehabilitation, and replacement of 78,169 m of SRN
+
+bridges, in addition to the ongoing construction of 15,710 m of new SRN bridges, and over18,861 m of gaps that require
+
+new SRN bridges over the medium term.
+
+
+
+4.      Prior to the SRN bridge program, the bridge initiatives using project-style approaches only succeeded in
+
+building bridge assets but could not establish the institutional mechanisms required for planning and managing long-
+
+term maintenance. The overall budget for bridge activities was allocated without distinguishing between dedicated
+
+activities such as maintenance and new construction. These allocations were subject to ad hoc prioritization, often
+
+driven by political expediency, resulting in maintenance activities receiving scant attention compared to new
+
+construction. The lack of clear institutional mandates and opaque planning and funding mechanisms for bridge
+
+development led to a proliferation of bridges on non-priority routes, over-procurement, and under-completion. The
+
+Program-for-Results (PforR) instrument was deemed suitable to address these issues by enabling the use of systems
+
+and processes that the DoR would deploy for planning and managing SRN bridge infrastructure. Under the International
+
+Development Association (IDA) supported first Bridges Improvement and Maintenance Program (BIMP)1, bridge asset
+
+management systems were developed, and bridge activities received the necessary priority and funding.
+
+
+
+5.      Building on success of the BIMP, the Second Bridges Improvement and Maintenance Program (BIMP-II) was
+
+designed to support the Government of Nepal’s (GoN) effort to further enhance Nepal's transport sector, while
+
+utilizing and strengthening the government systems developed and tested under the BIMP. The PforR instrument was
+
+considered appropriate as it enabled the Program to focus on strengthening government systems and capacity building
+
+based on measurable results. BIMP-II incorporated learnings from BIMP and leveraged the Association’s extensive
+
+experience in Nepal’s transport sector to provide comprehensive support for institutional development and advanced
+
+project planning capabilities. The complementary Investment Project Financing (IPF) component aimed to bolster the
+
+capacity and institutional development of the DoR. The Program relied on the use of the Bridge Management System
+
+(BMS) mobilized under BIMP to help prioritize bridge interventions for maintenance and new construction based on a
+
+multi-criteria formula that considers need and criticality, thereby positively impacting asset life, travel time, and the
+
+number of beneficiaries. Data from the BMS also provided an overall description of the DoR’s SRN bridge assets for
+
+planning purposes. BIMP-II also considered areas of improvement identified in BIMP, such as improving the quality of
+
+physical works and consistent field-level supervision; strengthening the governance system around contract
+
+management through design-build (DB) approaches; and enhancing Environmental and Social (E&S) compliance,
+
+including labor risk management and Occupational Health and Safety (OHS) measures2.
+
+
+
+6.      The objectives of BIMP-II were closely aligned with the GoN’s comprehensive program of bridge investments
+
+that was designed to enhance the resilience and inclusiveness of bridge designs, while addressing both current and
+
+future needs. The Program’s focus areas included the maintenance, rehabilitation, and replacement of about 78,000
+
+meters of SRN bridges, alongside the ongoing construction of over 15,000 meters of new SRN bridges. In line with the
+
+government’s vision, the operation aimed to enhance the network's resilience to climate change with timely
+
+maintenance, and improve road safety features, while also addressing the gender gap in the transport sector. The
+
+Program focused on developing the DoR’s institutional capacity for adapting bridge design, construction, and
+
+maintenance to climate change and developing guidelines and updating the Bridge Policy and Strategy (2004) to include
+
+resilient features. Overall, the sectoral and institutional context of Nepal's bridge infrastructure underscored the critical
+
+
+
+1   BIMP: Approved in 2012 and closed in 2017 with a Satisfactory outcome rating
+
+2   BIMP: Key achievements and learnings are provided in Annex-7
+
+
+
+                                                                                                                       Page 2
+
+                                                                            The World Bank
+
+                                                                            Second Bridges Improvement and Maintenance Program (P161929)                                                                                                 ICR DOCUMENT
+
+
+
+
+
+need for continued investment and development to ensure reliable connectivity, support economic activities, and
+
+promote inclusive growth.
+
+
+
+7.     The Program was well aligned with the World Bank Group’s Nepal Country Partnership Framework (CPF) FY19-
+
+233. The key strategic priorities of the CPF were to: strengthen public institutions for effective economic management
+
+and service delivery by building the capacity of key transport sector institutions and improving infrastructure
+
+maintenance, safety, and quality; support private sector-led jobs and growth by enhancing transportation connectivity
+
+within Nepal and with India, facilitate economic activities and job creation; and promote inclusion and diversity by
+
+developing advanced bridge designs that enhance resilience and inclusion, particularly for non-motorized modes of
+
+transport, benefiting marginalized groups.
+
+
+
+Theory of Change (Results Chain)
+
+8.    The Theory of Change (ToC) for the Program has been developed for this Implementation Completion and Results
+
+Report (ICR) based on the Program description in the Program Appraisal Document (PAD).
+
+
+
+                                                                                                                                                            Figure 1. Theory of Change
+
+
+
+                                                                                           Res l s A ea                        A         es                                    O p s                          e   e a eO       o es           al O   o e
+
+
+
+
+
+                                                                                                                     Applica on of road safety measures
+
+                                                                                                                     on bridges
+
+                                                                                                                      isual signs, re ec ve markers,
+
+                                                                                                    es
+
+
+
+
+
+
+
+
+
+                                                                                                                     warning signals installed                    Road safety upgraded on Program bridges
+
+                                                                                                 Safe
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                    ,11 m D I‐2                              Re   e l el oo of oa
+
+     Recruitment of female engineers in DAT Training programs technical, S, iduciary etc
+
+
+
+
+
+
+
+
+
+                                                                                                                     Prepara on of guidelines on safety
+
+                                                                                                                                                                  Bridges upgraded with road safety visual    epa   e as es o
+
+                                                                                                                     works
+
+                                                                                                      B
+
+
+
+
+
+
+
+
+
+                                                                                                                     Road safety audit                            signs 100 bridges                            o a       es
+
+                                                                                                                     Road safety awareness programs
+
+                                               es N support for technical audit
+
+
+
+
+
+
+
+
+
+                                                                                                                    Prepara on of guidelines on resilient
+
+                                                                                                                   bridges                                                                                                                       Safe
+
+                            Prepara on of SDB contrac ng documents
+
+
+
+
+
+
+
+
+
+                                                                                                       es
+
+
+
+
+
+
+
+
+
+                                                                                                                      pda ng of Bridge Policy with focus                                                                                        es l e
+
+                                               S policies guidelines
+
+                              Implementa on of online GMR system
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                   2 number of advanced bridge designs       E a e oR s apa l es
+
+                                                                                                 Res l e
+
+                                 se of BSMS for uality monitoring
+
+
+
+
+
+
+
+
+
+                                                                                                                   on resilient approach                           prepared                                  fo e elop es l e
+
+                                                                                                                     rea on of Design and Advanced
+
+                                                                                                                                                                                                                                                  l s e
+
+                                                                                                                                                                   DAT established and e uipped                 e es s
+
+                                                                                                 B
+
+
+
+
+
+
+
+
+
+                                                                                                                   Technology ell DAT                                                                                                          a     os
+
+                                       Impact evalua on I
+
+
+
+
+
+
+
+
+
+                                                                                                                    Trainings on advance bridge designs                                                                                        e e e
+
+                                                                                                                   and new technologies
+
+                                                                                                                                                                                                                                                      es
+
+                                                                                                                                                                  Ma or maintenance implemented , m                                            e a e
+
+                                                                                                                      lements for maintenance                      D I‐1
+
+                                                                                                  Cos e e e
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                                                             Roa se os sa e
+
+                             Prepara on of
+
+
+
+
+
+
+
+
+
+                                                                                                                     re uirements embedded into bridge            New bridges constructed , 26 m D I‐
+
+                           e elop e A
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                  Backlog bridges completed ,660m D I‐         po e a    o e                     Nepal s
+
+                                                                                                        es
+
+
+
+
+
+
+
+
+
+                                                                                                                     works
+
+                                                                                                                     Introduc on of new technology on                                                           es    e SRN                     S ae
+
+                                                                                                                     maintenance new construc on                                                                                                  Roa
+
+                                                                                                    B
+
+
+
+
+
+
+
+
+
+                                                                                                                     bridges
+
+                                                                                                                     Trainings and best prac ces                                                                                                Ne o
+
+                                                                                                                                                                  Technical audit of 1 2 bridges completed
+
+     Capa
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                  SDB guidelines prepared approved D ‐  I6
+
+                                                                                                                                                                                                             S e    e e o e all
+
+                                                                                                                                                                   , 0 entries recorded in BSMS D ‐   I
+
+                                                                                                                                                                                                             o a a o al a    e      al
+
+                                                                                                                                                                  GRM response me reduced to 10 days
+
+                                                                                                                                                                        women engineers recruited trained
+
+                                                                                                                                                                                                              apa l es
+
+                                                                                            ritical Assumptions: i oN continues nancial support to its               S policy, guideline manual approved
+
+                                                                                            ridge program iii oR s capacity in place to manage overall               no of relevant trainings delivered
+
+                                                                                           Program      S procurement duciary etc. iii technical                  DoR s R sta survey completed
+
+                                                                                            nancial support to NP for third party veri cation to Is.              Baseline data for the I collected
+
+
+
+
+
+
+
+Program Development Objective (PDO)
+
+9.                                       The PDO is to provide safe, resilient, and cost‐effective bridges on Nepal’s Strategic Roads Network.
+
+
+
+
+
+3
+
+    Report No. 121029-NP
+
+
+
+                                                                                                                                                                                                                                                 Page 3
+
+              The World Bank
+
+              Second Bridges Improvement and Maintenance Program (P161929)                                        ICR DOCUMENT
+
+
+
+
+
+
+
+Key Expected Outcomes and Outcome Indicators
+
+10.       The key outcomes and PDO level indicators are shown in table 1.
+
+                                                 Table 1. Key Outcomes and Indicators
+
+              Outcome                                              Outcome indicators
+
+                                   PDO 1: Reduced likelihood of road departure crashes on Program bridges (number of
+
+                                   safety upgrades on Program bridges)
+
+ Provide safe, resilient and cost-
+
+                                   PDO 2: Enhanced DoR capabilities for developing resilient bridge designs (number of
+
+ effective bridges on Nepal’s
+
+                                   advance bridge designs prepared)
+
+ SRN
+
+                                   PDO 3: Estimated-road user cost savings achieved by Program interventions (Cost
+
+                                   saved from Program intervention)
+
+
+
+Program Results Areas and DLIs
+
+11. The Program comprised three Result Areas (RAs): (a) RA 1: Providing safe bridges, (b) RA 2: Providing resilient
+
+bridges, and (c) RA 3: Providing cost-effective bridges. It also included a key area to enhance the beneficiary feedback
+
+system. The seven Disbursement Linked Indicators (DLIs) used to trigger disbursement are shown in table 2.
+
+
+
+                                               Table 2. Disbursement Linked Indicators
+
+   Components/                                 Activities                                        Result Area
+
+        DLIs
+
+  DLI 1              Major bridge maintenance                                         RA 3: Cost-effective bridges
+
+  DLI 2              Road safety upgrades on bridges                                  RA 2: Safe bridges
+
+  DLI 3              New two-lane bridge construction, rehabilitation, and            RA 3: Cost-effective bridges
+
+                     replacement of bridge
+
+  DLI 4              New four-lane bridge construction                                RA 3: Cost-effective bridges
+
+  DLI 5              Completion of backlog bridges under construction                 RA 3: Cost-effective bridges
+
+  DLI 6              Improved fiduciary governance of design‐build contracting        Contributing to all three RAs
+
+  DLI 7              Bridge Site Monitoring System (BSMS) use on Program worksites    Contributing to all three RAs
+
+12. PforR Components/DLIs (at appraisal US$133 million IDA, and US$63.01 million counterpart funds; at completion
+
+US$112.17 million IDA, and US$53.74 million counterpart funds). These activities supported achievement of the PDO
+
+through the three RAs.
+
+
+
+13. IPF component. The IPF component (at appraisal US$14.15 million IDA, at completion US$1.06 million IDA)
+
+comprised the components/activities as shown in table 3:
+
+
+
+                                                            Table 3. IPF Activities
+
+    Components                                                       Activities
+
+  IPF 1              Preparations for future projects on the SRN
+
+  IPF 2              Technical auditing by National Vigilance Centre (NVC)
+
+  IPF 3              Advanced bridge designs for enhanced resilience and inclusion (RA 2: Resilient bridges)
+
+  IPF 4              Training (domestic and international) and capacity development
+
+  IPF 5              Supervision oversight consultancies
+
+  IPF 6              Mobilization, equipage, and development of the Design and Advanced Technology Cell (DATC)
+
+                     (RA 2: Resilient bridges)
+
+  IPF 7              Support for     S and DoR implementation of Nepal’s abor Act 201
+
+  IPF 8              Contingency funding for verification after Year 3
+
+  IPF 9              Program impact evaluation data collection
+
+
+
+                                                                                                                         Page 4
+
+               The World Bank
+
+               Second Bridges Improvement and Maintenance Program (P161929)                                              ICR DOCUMENT
+
+
+
+
+
+       B. SIGNIFICANT CHANGES DURING IMPLEMENTATION
+
+
+
+14. The operation was restructured in May 2022, August 2023, and March 2024, as summarized in table 4.
+
+Details of these restructurings are provided in Annex-5.
+
+Revised PDO indicator, DLIs, Results Framework (RF), and Program Action Plan (PAP)
+
+15. The target for PDO 2, which pertains to advanced bridge designs, was reduced from 10 to 2, while PDO 3
+
+was dropped due to an unclear methodology for measurement.
+
+
+
+                                                        Table 4. Summary of Restructurings
+
+     S. No.          First Restructuring:                  Second Restructuring:                        Third Restructuring:
+
+                           May 2022                              August 2023                                 March 2024
+
+         1. DLIs 3 and 5: Targets and funds         DLIs 1 and 5: Targets and funds      DLIs 1 and 5: Targets and funds allocation
+
+            allocation increased                    allocation increased                 increased
+
+         2. DLI 4: Dropped                          DLI 7: Verification protocol revised IPF 1, 2, 3, 4, 5, 6, 7, and 9: Funds reallocated
+
+         3. DLI 7: Verification protocol revised    IPF 1, 2, 3, 5, 7, and 9: Funds      PDO 2: Target reduced
+
+                                                    reallocated
+
+         4. IPF 4, 8 and 9: Funds reallocated       PDO 2: Target reduced                RF and PAP: Targets and actions adjusted
+
+         5. RF and PAP: Targets and actions         PDO 3: Indicator dropped             Financing Agreement: Amended to add GoN’s
+
+            adjusted                                                                     budget heads for DLI disbursement eligibility
+
+
+
+         6. Cancellation: Cancellation of           RF and PAP: Targets and actions                              —
+
+            US$15.06 million from the IPF           adjusted
+
+            component
+
+         7. Extension: Closing date extended                         —                                           —
+
+            by a year to July 15, 2024
+
+Rationale for Changes and their Implication for the Original Theory of Change
+
+16. The restructurings were primarily necessitated due to the slow progress of IPF activities and their inability
+
+to utilize the allocated funds, and well performing DLIs that exceeded the initially targets set. Adjustments were
+
+made to the PAP to account for implementation delays. The RF was modified to revise targets and update the
+
+Monitoring and Evaluation (M&E) framework, including correcting some indicator descriptions. The original
+
+Program scope and intended outcomes, however, remained unaffected, and the Program ’s ToC remained valid.
+
+
+
+II. OUTCOME
+
+       A. RELEVANCE
+
+
+
+Relevance of PDO - High
+
+17. The BIMP-II PDO remains aligned with the World Bank Group’s Nepal P for FY19 – 23, extended to FY24 by the
+
+Performance and Learning Review4. The PDO mainly contributed to Focus Area 1: Strengthened institutions for public
+
+sector management and service delivery; and Focus Area 2: Private sector led jobs and growth through (a) Increased
+
+transport connectivity; (b) improved maintenance, road safety, and quality of infrastructure; and (c) capacity building
+
+of key institutions in the transport sector. In addition, BIMP-II contributes to Focus Area 3: Inclusion and resilience,
+
+through the development of advanced bridge designs that provide for enhanced resilience and inclusion. BIMP-II’s
+
+contributions included enhancing the capacity of key institutions in the transport sector; improving service delivery; and
+
+
+
+4   Report No: 168048-NP. A new PF is under preparation.
+
+
+
+                                                                                                                                    Page 5
+
+           The World Bank
+
+           Second Bridges Improvement and Maintenance Program (P161929)                                    ICR DOCUMENT
+
+
+
+
+
+public investments at both national and sub-national levels; increasing transportation connectivity, which is crucial for
+
+economic activities and private sector growth; and building greater resilience against climate change, natural disasters,
+
+and other exogenous shocks by supporting the development of advanced bridge designs that enhance resilience and
+
+inclusion.
+
+
+
+18. BIMP-II is also aligned with the GoN’s Fifteenth Development Plan (FY2019/20 to FY2023/24), which aimed to
+
+construct bridges in national and provincial highways to minimize the impact and damage from natural calamities and
+
+climate adversities, and undertake the regular, occasional, and periodic maintenance of bridges, as well as the Sixteenth
+
+Development Plan (FY2024/25 to FY2028/29), which has a target of constructing 515 bridges.
+
+
+
+Relevance of DLIs - Substantial
+
+19. The DLIs were designed to enhance connectivity and institutional performance, aligning with the prioritized
+
+needs of the government. They ensured adequate fund flows for Program implementation based on achieved results.
+
+The DLIs were clearly defined, with specific verification protocols and timelines. The verification mechanisms, evaluation
+
+methodology, responsibility matrix, annual allocations, and the minimum and maximum DLI values required to trigger
+
+disbursements were detailed in the verification protocol. The DLIs were specific, strategic, and largely achievable.
+
+
+
+Alignment of DLIs with the PDO and Results Framework
+
+20. DLI 1 (Major Maintenance), DLI 3 (New Construction Bridges), and DLI 5 (Completion of Backlog Bridges). These
+
+DLIs collectively contributed to RA 3 to deliver cost-effective bridges, accounting for approximately 80% of the IDA
+
+allocation. The DLI targets were linked to the RF to assess achievement of the PDO. The maintenance activities were
+
+expected to extend the life of bridge assets, while the completion of the backlog bridges and construction of new bridges
+
+were expected to reduce road user costs.
+
+
+
+21. DLI 1 was to be achieved through various trainings and the deployment of innovative technology for major
+
+maintenance works to address vulnerabilities and aging assets. The bridges were to originate from the BMS prioritized
+
+list, based on critical data such as condition, detour time, and beneficiaries. The completion of works required
+
+compliance with the maintenance elements set out in the PAD. The original target and funds allocation were revised
+
+upward through two restructurings.
+
+
+
+22. DLIs 3, 4, and 5 incentivized bridging the gap in connectivity by constructing and completing new bridges thereby
+
+reducing travel distance, detour time, and vehicle fuel consumption, ultimately resulting in cost savings for road users
+
+and beneficiaries, which aligned to the PDO. The candidate bridges under DLI 3 were required to originate from the
+
+BMS priority list and to meet the GoN’s bridge design and safety requirements outlined in the PAD. DLI 5 was eligible
+
+for works with construction contracts signed before the Program's effectiveness and demonstrated compliance with
+
+the Program’s procurement, environmental, social, and technical standards. The targets and funds allocation for both
+
+DLIs 3 and 5 were increased through two restructurings, due to their meeting of original targets and utilizing allocated
+
+funds. DLI 4 was dropped through restructuring as the construction of four-lane bridges were included in the IDA-
+
+financed Strategic Road Connectivity and Trade Improvement Project (SRCTIP, P170409). The cancelled funds were
+
+distributed to DLIs 3 and 5.
+
+
+
+23. DLI 2 (Road Safety Upgrades on Bridges) focused on enhancing safety features on vulnerable bridges, thereby
+
+contributing to RA 1 of safe bridges, and accounted for about 15% of the IDA allocation. It was well aligned with the RF
+
+to assess the progress of the PDO achievement. The candidate bridges under this DLI were identified through road safety
+
+audits, and the implementation of works was governed by the bridge-related road safety elements outlined in the PAD.
+
+
+
+
+
+                                                                                                                     Page 6
+
+                The World Bank
+
+                Second Bridges Improvement and Maintenance Program (P161929)                                ICR DOCUMENT
+
+
+
+
+
+24. DLI 6 (DB Contracting Approach) and DLI 7 (Use of BSMS) were designed to foster institutional development,
+
+thereby contributing to the enhanced effectiveness of the Program’s results. They were strategically relevant to address
+
+the inherent institutional challenges impacting the PDO outcome, although they were not part of the indicators in the
+
+RF. The funds allocated to these DLIs provided adequate incentives for improving institutional performance and results.
+
+
+
+25. DLI 6 accounted for about 2% of the IDA allocation and supported the development of documents and guidelines
+
+under the DB contracting approach to integrate into the national regulation framework. The definition and completion
+
+measures were straightforward, the verification protocol was clearly stated, and the target was achievable. With the
+
+future approval of the guidelines through the public procurement regulation, fiduciary governance of DB contracting is
+
+expected to be strengthened. This will enhance the PDO outcome by improving contract management, ensuring timely
+
+completion of works and achieving better quality, as well as cost-effectiveness in civil works.
+
+
+
+26. DLI 7 accounted for about 3% of the IDA allocation and contributed to the enhanced use of BSMS. The extensive
+
+use of this tool is expected to address the inherent challenges of overall program management and quality monitoring
+
+and contribute to improving the quality of civil works, and thereby significantly supporting the sustainability of the PDO
+
+outcome. The definition and the verification protocol for this DLI were revised through two restructurings to refine the
+
+original versions.
+
+Overall Relevance Rating
+
+27. The overall relevance is rated Substantial. The PDO and the DLIs were relevant to the World Bank's strategy for
+
+the country and supported the government’s development priorities throughout the Program period. Four DLIs, which
+
+accounted for more than 90% of the IDA allocation, focused on indicators that provided evidence of continued progress
+
+toward achieving the PDO. The other two institutional DLIs, which accounted for around 5% of the allocation, triggered
+
+institutional development activities that are expected to enhance the effectiveness of the overall Program results. As
+
+noted earlier, DLI 4, which was no longer relevant to the Program, was cancelled through restructuring, and the funds
+
+were reallocated to support the well-performing DLIs 3 and 5.
+
+
+
+       B. ACHIEVEMENT OF PDOs (EFFICACY)
+
+
+
+    Assessment of Achievement of Each PDO Outcome
+
+    28. The operation supported the GoN’s bridge program in developing and maintaining bridge infrastructure in
+
+    the SRN in line with the Bridge Policy and Strategy (2004), focusing on : (a) road safety upgrades on existing bridges,
+
+    (b) construction of new bridges, (c) completing bridges under construction, (d) major bridge maintenance, and (e)
+
+    capacity development and institutional strengthening activities for the preparation and supervision of civil works. The
+
+    Program’s efficacy (that is, achievement of the PDO) is assessed by evaluating achievement of each of the three
+
+    Program RAs: improved safety, improved resilience, and cost effectiveness of bridges. These were to be achieved
+
+    through sound technical design, adoption of new technologies, and quality monitoring system, along with activities
+
+    aimed at enhancing institutional capacity. One of the key areas of the Program was the enhancement of the beneficiary
+
+    feedback monitoring mechanism. The IPF component and the PAP were complementary activities designed to support
+
+    the overall achievement of the PDO. The detailed status of the PAP and IPF activities are provided in Annexes-1 and 6,
+
+    respectively.
+
+
+
+    29. RA 1: Safe Bridges. (Inputs/IRI5: DLI 2). The Program initially aimed to upgrade safety features on approximately
+
+    18 bridges—covering a total length of 8,000 meters—to prevent road transport related crashes on the SRN. During
+
+    implementation, the government preferred to focus on a larger number of shorter span bridges mostly on the North-
+
+
+
+5   Intermediate Results Indicator
+
+
+
+                                                                                                                      Page 7
+
+                The World Bank
+
+                Second Bridges Improvement and Maintenance Program (P161929)                                          ICR DOCUMENT
+
+
+
+
+
+    South Highway and partly on the East-West Highway. Accordingly, more than 100 bridges were upgraded for a
+
+    combined total length of 8,118 meters. The upgraded bridges included reflective markers, warning signals, crash
+
+    barriers, and other road safety features essential for guiding motorized and non-motorized road users, especially
+
+    during inclement weather conditions. These upgrades supported the traffic management system, improved pedestrian
+
+    and community safety, and nighttime visibility at approaches to the bridges. No incidents were reported on the
+
+    upgraded bridges during the Program period.
+
+
+
+    30. The IPF component supported the delivery of various trainings and awareness programs on bridge safety for the
+
+    DoR staff. It also extended technical support for the development of guidelines for implementation of road safety works
+
+    on bridges, which are currently being reviewed by the MoPIT and are expected to be endorsed in due course.
+
+
+
+    31. T e o a ’s safety outcome is rated High, based on the above discussion, and overachievement of the
+
+    targets of the relevant indicators, as summarized in table 5.
+
+                                                               Table 5. RA 1: Safe Bridges
+
+     Indicator Name                            DLI             Baseline        Original Target    Final Revised      Achieved at
+
+                                                                                                      Target         Completion
+
+     PDO 1: Reduced likelihood         DLI-2               0                  18                 Not revised      >100 bridges
+
+     of road departure crashes                                                                                    upgraded
+
+     on Program bridges
+
+     IRI 1.1: Road safety              DLI-2               0                  8,000 m            Not revised      8,118 m
+
+     upgrades on Program
+
+     bridges
+
+    32. RA 2: Resilient Bridges. (Inputs/IRI: IPF activities). The Program supported the establishment of the DATC to
+
+    pioneer advanced technologies to enhance the resilience and inclusiveness of bridge designs. It facilitated the
+
+    engagement of international bridge engineering expertise and approaches, provided engineering inputs and trainings,
+
+    and promoted the sharing of best practices on climate resilience and mitigation measures. Initially, 10 bridge designs
+
+    were identified for development with advanced features. At completion, the DATC developed two bridge design
+
+    concepts for the Narayani Bridge and the Bijaypur Bridge, which incorporated advanced features for enhanced resilience
+
+    and inclusion under the guidance of an international bridge expert, based on geotechnical, hydrological, and E&S studies
+
+    and assessments. A series of trainings were provided to the DoR engineers, contractors, individual consultants, and staff
+
+    of the engineering institute. For the remaining bridges, the GoN decided to develop: three bridges through the IDA-
+
+    funded SRCTIP (P170409) and ACCESS (P177902)6, two bridges under projects funded by the Asian Development Bank
+
+    (ADB), two bridges using its own funds, and the 10th bridge was dropped.
+
+
+
+    33. The Program updated the Bridge Policy with an additional focus on a resilient systems approach. The draft of
+
+    the updated policy is awaiting approval from the Policy Department and is expected to be subsequently endorsed by
+
+    the MoPIT in due course. The Program also supported preparation of guidelines on the hydrology and hydraulics
+
+    standards, as well as river training works for bridge designs7.
+
+
+
+    34. The o a ’s resilient outcome is rated Modest, based on the above discussion and the extent of
+
+    achievement of the indicator targets, as summarized in table 6.
+
+
+
+
+
+
+
+
+
+6   Accelerating Transport and Trade onnectivity in astern South Asia-Nepal Phase 1 Project
+
+7   https://dor.gov.np/uploads/pu lication/pu lication_1642584636.pdf
+
+
+
+                                                                                                                               Page 8
+
+           The World Bank
+
+           Second Bridges Improvement and Maintenance Program (P161929)                                            ICR DOCUMENT
+
+
+
+
+
+                                                      Table 6. RA 2: Resilient Bridges
+
+                       Indicator Name                   Baseline       Original        Final Revised     Achieved at Completion
+
+                                                                        Target            Target
+
+      PDO 2: Enhanced DoR Capabilities for                 0               10                2           2 advanced bridge
+
+      developing resilient bridge designs                                                                designs prepared
+
+      IRI 2.1: DATC created                                0         One time           Not revised      DATC staffed/mobilized
+
+      IRI 2.2: Number of times that DoR engineers          0           10                2 (revised      2 times DoR engineers
+
+      mobilized skills in the designing of advanced                                      indicator       mobilized skills in the
+
+      bridges for improved resilience and                                               description)     designing of advanced
+
+      inclusion                                                                                          bridges
+
+      IRI 2.3: Female engineers recruited in the          6%            33%             Not revised                41%
+
+      DATC and given advanced skills training
+
+
+
+35. RA 3: Cost-effective bridges. (Inputs/supporting activities are: DLIs 1, 3, and 5). Regular maintenance of the
+
+bridges extends their useful life, thereby reducing the need for costly repairs and early replacement. The construction
+
+of new bridges and the completion of the backlog bridges are expected to improve connectivity, reduce travel distance,
+
+travel time, and transportation costs for motorized road users, pedestrians, cyclists, and communities. This approach
+
+enhanced resilience, extended the life of the assets, and prevented failures.
+
+
+
+36. The bridges selected for major maintenance and new construction under the Program were identified through
+
+the BMS and were expected to significantly impact asset life, travel time, and the number of beneficiaries. The
+
+achievement of the objective of providing cost-effective bridges was assessed through economic analysis conducted on
+
+major maintenance (DLI 1), construction of new two-lane bridges (DLI 3), backlog bridges (DLI 5), and safety upgrades
+
+(DLI 2). As the Highway Development and Management-4 (HDM-4) model to determine cost savings of road users—that
+
+was used at appraisal—did not have a clear methodology, it was dropped during the restructuring. The completion
+
+stage economic analysis is based on the approach and methodology followed during the processing stage, including the
+
+unit rates of vehicle operating cost and travel time estimated through the Road Economic Decision. The economic
+
+analysis demonstrated that these activities extended the life of the bridges by using modern technology and improved
+
+connectivity, benefited users of the SRN, and resulted in a higher economic net present value (NPV) of US$321 million.
+
+Table 7 summarizes the results of the economic analysis. The economic internal rates of return (EIRRs) of the DLI based
+
+bridges are between 29.1% to 56.9%. The overall EIRR of 48.6% is significantly higher than the social discount rate
+
+threshold of 12% used at Program preparation/appraisal. The NPV and EIRRs achieved during implementation are higher
+
+than assessed at appraisal, mainly due to increased traffic volume on the completion of Program interventions.
+
+                                               Table 7. Summary of Economic Analysis
+
+             Details                  DLI 1: Major       DLI 2: Road     DLI 3: New 2-                DLI 5:         Combined
+
+                                         bridge            safety          lane bridge            Completion of
+
+                                      maintenance         upgrades        construction           backlog bridges
+
+ Number of completed bridges         59                110              52                       90                 311
+
+ Length of completed bridges
+
+                                   5,839                8,118                4,426               8,660              27,043
+
+ (meters)
+
+ Completed cost (US$/meter)        2,838                2,148                8,769               4,363              4,090
+
+ Benefiting traffic - 2024
+
+                                   17,294               4,618                2,163               5,363              7,359
+
+ (Number of daily vehicles) *
+
+ EIRR (%)                          29.10                30.10                56.90               48.90              48.60
+
+ Benefit - cost ratio              2.60                 2.44                 6.52                6.83               5.67
+
+ * Note: Based on the average per bridge for traffic benefitting from the respective DLIs.
+
+
+
+
+
+
+
+                                                                                                                             Page 9
+
+                  The World Bank
+
+                  Second Bridges Improvement and Maintenance Program (P161929)                                      ICR DOCUMENT
+
+
+
+
+
+
+
+    37.       Table 8 summarizes the extent of achievement of each RF indicator target.
+
+                                                     Table 8. RA 3: Cost-Effective Bridges
+
+                      Indicator Name                DLIs     Baseline       Original       Final Revised   Achieved at Completion
+
+                                                                             Target            Target
+
+        PDO 3: Estimated Road user cost savings      —          0        > NPR 2,971         Dropped              Dropped
+
+        achieved by Program Interventions                                   million                        (See proxy used above)
+
+        IRI 3.1: Implementation of high priority    DLI 1       0           4,500 m           5,700 m             5,839 m
+
+        maintenance to extend asset lives
+
+        IRI 3.2: Completion of backlog bridges to   DLI 5       0          5,000 m           8,565 m              8,660 m
+
+        reduce road user costs
+
+        IRI 3.3: Construction of new bridges to     DLI 3       0          4,000 m           4,400 m              4,426 m
+
+        reduce road user costs
+
+
+
+    38.       T e     o a ’s cost-effective outcome is rated High, based on the above assessment.
+
+
+
+    39. As indicated in the ToC diagram, the institutional DLIs and IPF activities contributed to strengthening
+
+    organizational and technical capabilities and achieving effective results under the three Program RAs.
+
+
+
+    •      Improved fiduciary governance system of DB contract (DLI 6). The Program facilitated the preparation of standard
+
+           documents and guidelines for DB contracts, which have been endorsed by the MoPIT and are awaiting approval of
+
+           the Public Procurement Monitoring Office (PPMO). With an improved fiduciary governance system for DB
+
+           contracting, designs are expected to be finalized timely and construction expedited, leading to better quality work.
+
+           This is expected to contribute to the PDO outcome by enhancing the quality and efficiency of the contract
+
+           management.
+
+    •      Use of BSMS for monitoring sites (DLI 7). The increased use of BSMS on the Program sites ensured regular and well-
+
+           documented site supervision. This, in turn, enhanced overall Program management and the quality of bridge works,
+
+           thereby contributing to achievement of the PDO.
+
+
+
+    40.       The contributions of the IPF component and the PAP are summarized below:
+
+
+
+    •      Technical audit. The NVC carried out technical audits on 152 bridges under the Program and issued 283 non-
+
+           conformance reports (NCRs), of which 83 have been addressed by the DoR. The remaining NCRs are expected to be
+
+           addressed in the near future.
+
+    •      Advanced bridge designs. The IPF supported the development of design standards, guidelines, and engineering
+
+           designs. These were used by the DoR to design two advanced bridges and are expected to be applied in future
+
+           designs.
+
+    •      Establishment and mobilization of the DATC. The Program supported the creation of the DATC, which led to the
+
+           development of advanced bridge designs for enhanced resilience and inclusion. The Program equipped the DATC
+
+           with logistics support, facilities, trainings, software, advanced laptops, computers, smart boards and furniture.
+
+    •      Support to improving OHS in bridges works. The Program supported the development and approval of OHS Policy,
+
+           Manual8, Guidelines9, and updated DoR’s nvironmental and Social Management ramework (ESMF). During the
+
+           COVID-19 pandemic, the DoR introduced Standard Operating Procedures (SOPs) for construction sites with support
+
+           from international organizations.
+
+
+
+
+
+8       oR OHS Policy
+
+9       oR OHS guidelines
+
+
+
+                                                                                                                            Page 10
+
+          The World Bank
+
+          Second Bridges Improvement and Maintenance Program (P161929)                                     ICR DOCUMENT
+
+
+
+
+
+•   Trainings. The Program delivered 37 training events on technical, social, environmental and fiduciary aspects that
+
+    benefitted DoR officials, engineers, consultants, contractors and other stakeholders. In addition, DoR’s human
+
+    resource staff survey was conducted as part of the broader organizational development objective to assess its
+
+    organizational structure and devise a human resources strategy to enhance the Program’s human capital
+
+•   Impact evaluation. The baseline survey for 150 bridges was completed to assess the impact of the Program bridges,
+
+    which is expected to inform future prioritization, investment initiatives, and donor involvement strategies for the
+
+    bridge program. The World Bank is in discussion with the GoN to conduct the endline evaluation under the proposed
+
+    BIMP-III.
+
+
+
+41. PAP. The PAP helped the Program strengthen measures to address risks relating to the technical, fiduciary, and
+
+environmental/social systems. The key actions of the PAP included: (a) enhancing the DoR’s ability to design resilient
+
+bridges, supervising their construction, and grounding the overall Program in a sound planning/policy framework; (b)
+
+strengthening the DoR’s fiduciary control over bridge works c) helping the DoR leverage technology to monitor and
+
+report on contracts and financial transactions faster and more accurately; (d upgrading the DoR’s ability to plan and
+
+implement measures to mitigate key social and environmental risks; and (e) supporting the DoR to attract, retain, and
+
+develop technical staff.
+
+
+
+Rating of Overall Efficacy
+
+42. The overall efficacy is rated Substantial, based on the above discussions and the ratings of achievement of RAs
+
+1, 2, and 3 as High, Modest, and High, respectively.
+
+
+
+    C. JUSTIFICATION OF OVERALL OUTCOME RATING
+
+
+
+43. The overall outcome of the Program is rated Moderately Satisfactory, based on the sub-ratings of relevance
+
+and efficacy as Substantial, and the rating of achievement of RA 2 as Modest.
+
+
+
+    D. OTHER OUTCOMES AND IMPACTS
+
+
+
+Gender
+
+44. The Program recognized the significant under-representation of women in the Science, Technology, Engineering,
+
+and Mathematics professions in Nepal, particularly in the transport sector and provided advanced skills training to
+
+female engineers in the DoR to support their prospect for career growth. Against the target of at least 33% of the recruits
+
+in the DATC being female engineers, by the end of the Program the female representation in the DATC was 41%. These
+
+women were provided advanced technical training in several key areas, including bridge design, bridge structural
+
+engineering, geotechnical engineering, and hydrology. In addition, trainings on Gender Based Violence (GBV)/Sexual
+
+Exploitation and Abuse (SEA)/Sexual Harassment (SH) were conducted in five field clusters for 125 participants, including
+
+technical and administrative staff, field staff, and contractors, which emphasized integrating gender sensitivity and
+
+protective measures in infrastructure projects and highlighted the need to educate all employees on these issues.
+
+
+
+Poverty Reduction and Shared Prosperity
+
+45. The Program supported the development and maintenance of bridges along the SRN to improve year-round
+
+connectivity, which is crucial for economic integration and access to markets and services, especially in rural areas.
+
+Without resilient bridges, climate uncertainty could disrupt connectivity, impeding poverty reduction in Nepal’s rural
+
+areas from social, physical, and economic perspectives. Hence, bridges play an important role in eradicating poverty
+
+and boosting shared prosperity. In addition, the effort is expected to aid in poverty alleviation by benefiting pedestrians
+
+and cyclists through inclusive designs and road users by reducing transportation costs and improving access to public
+
+
+
+                                                                                                                   Page 11
+
+          The World Bank
+
+          Second Bridges Improvement and Maintenance Program (P161929)                                    ICR DOCUMENT
+
+
+
+
+
+services. The Program emphasized equitable access for indigenous peoples and vulnerable groups by ensuring their
+
+inclusion and participation in stakeholder consultations during planning and implementation. With enhanced
+
+connectivity, reduced costs, and improved access, the Program contributed to poverty reduction and shared prosperity.
+
+
+
+III. KEY FACTORS AFFECTED IMPLEMENTATION AND OUTCOME
+
+  A.       KEY FACTORS DURING PREPARATION
+
+
+
+46. The Program focused on addressing the key challenge of providing year-round connectivity in the SRN by
+
+emphasizing bridge maintenance, replacement, and new construction works. Efforts were made to strengthen the
+
+government’s capacity to enhance the overall effectiveness of the Program. The Program was aligned with the priorities
+
+of the World Bank Group Nepal CPF at appraisal. By addressing critical infrastructure needs, enhancing safety and
+
+resilience, and promoting gender equality, the Program aimed to contribute to Nepal's sustainable development goals.
+
+
+
+47. The Program built on lessons from BIMP. These included (a) using BSMS for rapid reporting and sharing of site
+
+conditions and quality issues to improve field supervision and quality control, (b) verification of results under the
+
+National Planning Commission (NPC) to assess Program performance, (c) utilizing BMS for improved asset management
+
+and prioritizing investments, (d) implementing the online GRM system to ensure effective beneficiary feedback, (e)
+
+capacity development to strengthen the DoR’s design capabilities, (f) integrating E&S compliance requirements in
+
+engineering designs and bid documents to enhance E&S management, and (g) conducting technical audits by the NVC
+
+to provide feedback on the quality of completed works and requiring corrective actions for non-compliant bridges. The
+
+Program also partnered with the Swiss Agency for Development and Cooperation (SDC), which had provided funding to
+
+BIMP to engage independent technical advisers to work with the NPC on verification.
+
+
+
+48. The RF design was generally robust, with suitable IRIs supporting assessment of the PDO outcomes. Most
+
+targets were measurable and outcome-focused, except for the PDO 3 indicators, which were removed during
+
+restructuring due to unclear methodology. There were some weaknesses in M&E design, which are detailed in the M&E
+
+section.
+
+
+
+49. The DLI verification protocol was well structured with detailed procedures, clear guidelines, and
+
+responsibilities outlined in the PAD. Specific protocols were defined for the different DLIs to evaluate their achievement
+
+and for data/result verification. An independent verification agent was in place to verify and certify achievement of the
+
+DLI targets.
+
+
+
+50. The IPF activities were designed to support capacity building and institutional development, drawing on key
+
+lessons from BIMP, which struggled with integrating international expertise in Program implementation. However,
+
+these could have been better planned in terms of commitment/ownership from the implementing agency and in terms
+
+of cost estimation during design—see changes to IPF activities in the section on Factors during Implementation.
+
+
+
+51. The World Bank carried out the mandatory risk assessments on the Program’s key areas to confirm that the
+
+government systems were appropriate for the World Bank financing under the PforR instrument. These included
+
+assessments of the technical, fiduciary, and E&S systems. Areas requiring strengthening were identified as part of these
+
+assessments and were included in the PAP. However, some actions in the PAP could not be completed during the
+
+Program period and many of the completion measures and timelines had to be amended through restructuring.
+
+
+
+
+
+
+
+
+
+                                                                                                                   Page 12
+
+          The World Bank
+
+          Second Bridges Improvement and Maintenance Program (P161929)                                      ICR DOCUMENT
+
+
+
+
+
+
+
+  B.       KEY FACTORS DURING IMPLEMENTATION
+
+
+
+  (a) Factors Subject to Control of Government and/or Implementing Agencies:
+
+
+
+52. Leadership and staffing. During the Program period, the Deputy Director General and the Project Coordinator in
+
+the BB, DoR, who managed the Program, were replaced six and five times, respectively. There was no designated
+
+Program Coordinator during the last quarter of the Program period. Inadequate staffing in the central and field offices
+
+was repeatedly highlighted by the World Bank team during the Program’s implementation support reviews.
+
+
+
+53. Poor inter-departmental coordination. The issue adversely affected pre-construction activities for the candidate
+
+bridges, such as tree clearance, public utility relocation, and compensation to affected persons. Approximately 910
+
+meters of the 11 pre-identified candidate bridge sites were dropped and the Program had to identify alternative bridges.
+
+
+
+54. Budget allocation. Insufficient budget allocation by the Ministry of Finance (MoF) during the last quarter of the
+
+Program led to delayed payments to contractors, significantly slowing down construction activities under DLI 1 and 2.
+
+This jeopardized the submission of the final tranche of dossiers for DLI verification to the NPC. The issue was ultimately
+
+resolved through the World Bank raising the matter with the MoF.
+
+
+
+55. Implementation of IPF activities. The Program encountered challenges in utilizing IPF funds, particularly for
+
+hiring consulting services for feasibility studies of future projects, introducing supervision consultancies to ensure the
+
+quality of works, and hiring international consultants. These resulted from the delays in the initiation of procurement
+
+and challenges in procuring consultants due to lack of qualified consultants and the inadequate participation from
+
+qualified bidders. In addition, the costs of activities estimated during preparation were higher than the costs required
+
+during implementation.
+
+
+
+56. Delayed disbursement. Although the World Bank approved disbursements when the targets of DLIs were
+
+achieved, the Program encountered a significant delay as the DoR did not submit withdrawal request of approximately
+
+US$39 million (36%) of the IDA credit. This issue persisted for more than a year, primarily due to the lack of clarity among
+
+various government agencies regarding the payment procedures for the PforR instrument.
+
+
+
+57. Delays in third-party verification. The Program faced challenges in timely verification of results achieved and
+
+certified by the NPC from four months to nearly a year, primarily due to frequent changes and a lack of orientation for
+
+the NPC officials responsible for issuing the verification certificates.
+
+
+
+58. BSMS use. The Program faced challenges in site engineers utilizing the BSMS tool for quality monitoring and
+
+supervision of construction works. Despite the DoR management’s effort to make the BSMS mandatory for field users,
+
+only 3,950 entries were recorded during the Program against the target of 5,000 entries.
+
+
+
+59. Web based GRM. Implementation of the online GRM was affected by the lack of a dedicated person to track and
+
+monitor grievances at the DoR level, and the scope of GRM response was reduced to only bridge-related complaints.
+
+
+
+60. Extension of the closing date. The Program’s mid-term review (MTR) noted that some of the Program activities
+
+were unlikely to be completed by the original closing date. Hence, the Program closing date was extended by one year.
+
+
+
+
+
+
+
+
+
+                                                                                                                    Page 13
+
+           The World Bank
+
+           Second Bridges Improvement and Maintenance Program (P161929)                                       ICR DOCUMENT
+
+
+
+
+
+  (b) Factors Subject to the Control of the World Bank
+
+
+
+61. The World Bank provided strong support for overall Program implementation, particularly in areas such as DLI
+
+verification methodology, capacity building activities, monitoring of work progress and quality assurance, financial
+
+management including internal and external auditing, monitoring of E&S aspects, and upgrading the BSMS. The World
+
+Bank implementation support focused on assessing (a) progress in achieving DLI targets and the Program RF indicators,
+
+(b) verification status of completed civil works, (c) the DLI matrix and verification protocols, (d) critical activities linked
+
+to the PAP, and (e) assessing training needs and planning relevant training programs under the IPF components. The
+
+task team conducted extensive discussions and consultations with the BB, DoR, MoPIT, and other related government
+
+agencies such as the NPC and the NVC to better understand their needs and challenges. For the key challenges
+
+highlighted above, the World Bank provided continuous support through coordination with the concerned government
+
+agencies. The World Bank also provided support to the DoR in preparing policy documents to enhance the fiduciary
+
+governance of DB contracting, including the Standard Bidding Document (SBD), Procurement Procedures, Financial and
+
+Payment Procedures, and Contract Management Procedures for DB contracts.
+
+
+
+  (c) Factors Outside the Control of Government and/or Implementing Agencies
+
+
+
+62. Impact of the COVID-19 pandemic. The pandemic affected most procurement, construction, and site visits for
+
+DLI verification, and also resulted in delays in implementing several IPF activities and field-related tasks. The Program
+
+developed a department-wide SOP for construction sites, which facilitated field activities based on the SOP protocols.
+
+The World Bank team continued virtual discussions on critical agreed actions, progress under the PAP, and DLI
+
+verification status. The World Bank released an advance of about 30% of IDA financing for the DLIs and related Program
+
+activities to alleviate budget constraints of the GoN due to the delays in the DLI verification process. An amount of
+
+US$15.06 million was cancelled from the IPF component to repurpose the funds for preparation of emergency response
+
+to the national COVID-19 recovery efforts.
+
+
+
+
+
+IV. BANK PERFORMANCE, COMPLIANCE ISSUES, AND RISK TO DEVELOPMENT OUTCOME
+
+    A. QUALITY OF MONITORING AND EVALUATION (M&E)
+
+
+
+M&E Design
+
+63. The Program had specific, relevant and measurable targets and clear outcome and intermediate indicators
+
+defined in the RF with appropriate M&E arrangements in place to assess the progress towards achieving the PDO;
+
+however, there were some weaknesses in the RF design, as discussed below. The RF included three PDO level indicators
+
+and seven intermediate indicators, including two IRIs to assess the effectiveness of the beneficiary feedback system.
+
+The DLIs were well aligned with the PDO with clear definitions, measurable targets, and defined protocols and
+
+methodology for monitoring and verification.
+
+
+
+64. The achievement of the PDO RA: Safe bridges was assessed through achievement of DLI 2, which was output
+
+focused. The assessment of achievement of this RA could have been strengthened by comparing incidents on Program
+
+bridges before and after the Program interventions. The PDO RA: Resilient bridges had a well-defined PDO linked
+
+indicator with a clear and measurable target, while the three associated IRIs were relevant and measurable, and
+
+included a gender indicator. The indicator focused on the capacity strengthening result for the Program through IPF
+
+support. However, the estimate of 10 bridges for advanced design was too ambitious and had to be reduced to two
+
+through two restructurings of the Program. In addition, DLIs 1 and 3 could have been suitable IRIs to assess contribution
+
+to this PDO RA. While achievement of the PDO RA: Cost-effective bridges was designed to be assessed using the HDM-
+
+
+
+                                                                                                                       Page 14
+
+             The World Bank
+
+             Second Bridges Improvement and Maintenance Program (P161929)                                  ICR DOCUMENT
+
+
+
+
+
+4 model, this PDO indicator had to be dropped through restructuring as the methodology was unclear; the outcome
+
+was instead assessed through the economic analysis at completion. The associated DLIs 1,3, and 5 were the IRIs to assess
+
+progress toward achieving the intended results for this RA. These indicators were output based, clear, relevant, and
+
+measurable. The Program also had a RA indicator to assess the beneficiary feedback system, which included two
+
+relevant IRIs.
+
+M&E Implementation
+
+65. The M&E was generally implemented as designed. The achievement of DLI targets was verified by an independent
+
+verification agency (NPC). The NVC also conducted technical audits and issued NCRs when necessary. However, the BB
+
+did not submit the trimester report detailing overall progress. The weaknesses noted in the PDO indicators were not
+
+fully addressed during implementation.
+
+      •    GRM. The online grievance system registered complaints from communities, contractors, and stakeholders. The
+
+           status of grievances registered was reported to the World Bank during implementation reviews.
+
+      •    BSMS. This online tool enabled rapid reporting and sharing of site conditions and quality issues, and enabled
+
+           the DoR leadership to track field visit frequency and supervisor observations.
+
+      •    Technical auditing and supervision. Technical audits under the IPF component provided feedback on work
+
+           quality and included spot checks and validation of site supervision.
+
+      •    Impact evaluation. A baseline survey was conducted for the Program’s Impact valuation and the final
+
+           assessment is expected to inform future prioritization, investment initiatives, and donor involvement strategies
+
+           for upcoming bridge programs in Nepal.
+
+      •    Anticipated beneficiaries. The Program collected and reported on the number of expected beneficiaries from
+
+           the inclusive design concepts of the Bijaypur and Narayani River bridges.
+
+      •    PAP. Activities carried out under the PAP provided data on the status of the follow-up actions to address risks
+
+           identified in the Program assessments.
+
+M&E Utilization
+
+66. The Program used data, information, and reports from the M&E system to analyze progress and identify areas
+
+requiring attention from the government and the World Bank through regular progress review meetings,
+
+implementation support reviews, and the MTR. These reviews recorded agreed actions and follow-up mechanisms to
+
+track progress towards the targets in the RF, including changes to the Program design, RF, and DLIs. These led to the
+
+three restructurings discussed earlier. In addition, learnings from the BIMP-II M&E are being utilized to guide the design
+
+of the M&E framework of the proposed BIMP-III.
+
+
+
+Justification of Overall Rating of Quality of M&E
+
+67.       The quality of M&E is rated Modest, based on the above discussion.
+
+
+
+      B. ENVIRONMENTAL, SOCIAL, AND FIDUCIARY COMPLIANCE
+
+
+
+Environmental and Social
+
+68. The E&S risk of the PforR was classified as high, while the IPF component was assessed as Category A under the
+
+World Bank safeguards policies. The operation had a satisfactory E&S implementation performance at closing. The
+
+Program managed its E&S risks through an Environmental and Social Systems Assessment (ESSA) and adopted a road
+
+sector wide ESMF. The ESMF was updated through the IPF component to address bridge-related risks and impacts, and
+
+include provisions for OHS, labor management, child labor prevention, and capacity-building. The DoR has updated the
+
+ESMF further to meet the requirements of multiple development partners, including the ADB. The ESMF is currently
+
+awaiting endorsement from the Secretary, MoPIT.
+
+
+
+                                                                                                                    Page 15
+
+            The World Bank
+
+            Second Bridges Improvement and Maintenance Program (P161929)                                ICR DOCUMENT
+
+
+
+
+
+69. The Program actions on E&S ensured the adoption of site screening and the completion of the site-specific Brief
+
+Environmental Study, the Initial Environmental Examination, and the Environmental Impact Assessment. A relocation
+
+plan was implemented to compensate 24 individuals who owned 26 structures that were affected by road construction.
+
+E&S oversight was managed by the Geo-Environmental and Social Unit (GESU), supported by specialized consultants on
+
+environment, social, gender, and OHS. A three-year business plan was completed to strengthen GESU's capacity, and
+
+adequate E&S staffing was maintained throughout Program implementation. E&S aspects were monitored regularly,
+
+and reports were issued. A digital system was established for grievance management, and all complaints received have
+
+been resolved. The Program also produced guidelines on OHS policies, SOPs for construction sites during the COVID-19
+
+pandemic, and a safety plan for construction workers in national parks and buffer areas against tiger attacks.
+
+
+
+70. Implementation challenges included significant delays in conducting and obtaining approvals for E&S studies and
+
+poor inter-departmental coordination affecting tree clearance and utility relocation. GRM reporting lagged during the
+
+latter stages due to the absence of a dedicated GRM desk officer. A key lesson is the need for dedicated funds for land
+
+acquisition, structure relocation, and tree removal, as well as a dedicated GRM desk with an officer for continuous
+
+oversight. Positive aspects of the operation included pre-construction readiness, prompt E&S screening, gate review
+
+processes by GESU, training and capacity building, inclusion of E&S compliance costs in the Bill of Quantities (BoQ) and
+
+supporting community programs. The World Bank’s           S team provided guidance to the client in implementing the
+
+various E&S instruments and reporting on E&S matters.
+
+
+
+Fiduciary
+
+71. The BIMP-II Integrated Fiduciary Systems Assessment (IFSA) ensured that the fiduciary systems in place were
+
+appropriate and were capable of supporting the Program's objectives while mitigating potential risks. The IFSA
+
+mitigation measures helped ensure better financial management, procurement processes, and internal controls. The
+
+DoR implemented financial reporting and accounting provisions, internal control procedures, and planning and
+
+budgeting mechanisms according to the country system. At the end of Program period, the auditing procedures and the
+
+audit follow up mechanism were made paperless through the Nepal Audit Management System. Financial reporting
+
+became timely through the Computerized Government Accounting System and is based on Nepal Public Sector
+
+Accounting Standards.
+
+
+
+72. The Program prepared various guidelines and SBD for procuring DB Contracts under the national market
+
+approach. The Program upgraded the web-based Contract Monitoring System (CMS), which was developed under BIMP.
+
+However, the planned activity to carry out the contractor market assessment and development of the recommended
+
+procurement strategy did not materialize. Procurement under the IPF component was hindered by the absence of a
+
+dedicated focal person for procurement, leading to delays in the execution of procurement activities according to the
+
+approved procurement plan and cancellation of a few activities due to the slow decision-making process.
+
+
+
+    C.   BANK PERFORMANCE
+
+
+
+Quality at Entry
+
+73. The Program's focus on SRN bridges was strategically relevant to Nepal's economic integration, climate
+
+resilience, road safety, and institutional strengthening, as well as for sustainable development and shared prosperity.
+
+BIMP-II built on the success of the predecessor BIMP and was designed as a hybrid operation with an IPF component to
+
+complement the PforR operation by strengthening institutional aspects, addressing gaps identified by the Program
+
+assessments, and supporting Program implementation through technical assistance to the DoR. However, as discussed
+
+under Key Factors during Preparation, the design of the IPF activities had some weaknesses.
+
+
+
+
+
+                                                                                                                 Page 16
+
+           The World Bank
+
+           Second Bridges Improvement and Maintenance Program (P161929)                                   ICR DOCUMENT
+
+
+
+
+
+74. The World Bank team conducted assessments of the technical aspects. These included the policy framework,
+
+program financing and the expenditure framework, economic aspects, and M&E), fiduciary systems, and environmental
+
+and social systems to identify risks and develop a PAP to strengthen the government systems. These contributed to the
+
+finalization of the RF and M&E arrangements. As noted in the M&E section, there were some weaknesses in the M&E
+
+design.
+
+
+
+Quality of Supervision
+
+75. The World Bank conducted 10 implementation support reviews during Program implementation, averaging two
+
+per year. The reviews typically included expertise in technical, environmental, social, and fiduciary management. The
+
+World Bank team made numerous site visits to determine compliance with dossier requirements, check construction
+
+quality and material test results, and verify compliance with E&S aspects. The fiduciary team helped reconcile the
+
+Program Expenditure Framework with disbursements, despite staff turnover in the DoR. The gender team provided
+
+additional support by developing training and awareness materials and conducting sessions on gender, GBV, and
+
+SEA/SH. Additional Bank support was provided to upgrade the BSMS and facilitate its implementation at sites. For high-
+
+level issues impeding implementation, such as budgeting, disbursement, human resources, and staff transfers, the
+
+World Bank team followed up with the MoF for their timely resolution. Key issues, potential risks, and mitigation action
+
+plans were candidly detailed in the Aide Memoires, Management Letters, and Implementation Status and Results
+
+Reports. The World Bank team held monthly progress review meetings with the implementing agency to discuss the
+
+status of agreed actions and followed up on pending issues. The status of the Program was discussed during the World
+
+Bank’s joint annual portfolio reviews with the MoF and the MoPIT, with a focus on key actions required to achieve the
+
+PDO. These were supplemented by bi-annual follow-up letters on agreed action points. The World Bank also engaged
+
+in discussions with GoN to identify the follow-on operation, BIMP-III, which is currently under preparation.
+
+
+
+76. Program implementation delays and issues with the DLI verification process were discussed during the MTR in
+
+November-December 2021, following which the World Bank worked with the GoN to restructure the Program in May
+
+2022. This mainly included reallocation of funds, a partial cancelation of IPF funds, and extension of the Program closing
+
+date. Subsequently, based on the close reviews of the overall activity progress, the Program was further restructured in
+
+August 2023 and March 2024, mainly to adjust various DLI targets and reallocate funds among the IPF components.
+
+However, the task team missed the opportunity to address weaknesses in the M&E design during the restructurings.
+
+Furthermore, the World Bank was unable to obtain the trimester report from the BB, which outlines the overall progress
+
+of the Program.
+
+
+
+Justification of Overall Rating of Bank Performance
+
+77. The Bank performance is rated Moderately Satisfactory, based on the discussions above on the World
+
+Ba ’s o      o s in ensuring quality at entry and quality of supervision.
+
+
+
+      D. RISK TO DEVELOPMENT OUTCOME
+
+
+
+78.     Below is a summary of the key risks to the sustainability of the Program outcomes assessed at completion:
+
+
+
+  (a) The bridge program remains a critical priority for Nepal, as the SRN is a nationally significant network that
+
+      cannot function without bridges. Bridge structures are fundamentally different from roads, involving unique
+
+      technical considerations. Many critical linkages of the SRN require a high density of bridges to provide year-round
+
+      access. BIMP and BIMP-II have facilitated a well-planned, prioritized, and rigorously monitored investment
+
+      approach in bridges. Following successful implementation of these series of Programs, the GoN has requested
+
+      the World Bank for continued support through BIMP-III. This support will be crucial to ensure that the SRN bridges
+
+
+
+                                                                                                                   Page 17
+
+           The World Bank
+
+           Second Bridges Improvement and Maintenance Program (P161929)                                      ICR DOCUMENT
+
+
+
+
+
+        receive sufficient resource allocation and efforts to strengthen institutional capacity in delivering resilient, safe,
+
+        and inclusive bridge infrastructure in Nepal.
+
+
+
+    (b) To sustain the bridge assets created and maintained under the Program, it is essential to institutionalize bridge
+
+        maintenance, road safety upgrades on bridges, and resilience measures in the GoN’s policies. Currently, the
+
+        bridge budget is dedicated to the overall bridges program and not to specific maintenance works. To ensure
+
+        regular routine maintenance, it will be critical to integrate bridge maintenance and road safety upgrades into the
+
+        GoN's Annual Road Maintenance Plan with an allocation of the required annual budget. In addition, approval of
+
+        the policies and guidelines updated under the Program will be essential to ensure sustainability of the developed
+
+        infrastructure.
+
+
+
+    (c) E&S aspects need to be considered during the early-design phases to aid in timely implementation of
+
+        mitigation measures and resettlement action plans. For example, on bridges of Narayanghat-Mugling (NM)
+
+        Road sections such as, Kali Khola, Tope Khola, and Namche, contractors excavated the road without considering
+
+        landslide risks, causing road closures and potential slope failures. In some cases, bridges were built but could not
+
+        be opened to traffic because approach roads were not constructed, and land compensation issues were
+
+        unresolved. Nepal's bridge program also faces substantial delays due to limited hydrological and geotechnical
+
+        investigations, necessitating changes during implementation and delaying schedules.
+
+
+
+    (d) The guidelines for the DB contracting approach, developed by the Program, have been endorsed by the MoPIT,
+
+        but are awaiting approval from the PPMO since February 2023. This delay has hindered implementation of the
+
+        upgraded SBD for future DB contracts. A recent audit report raised objections to the DB contracts used by the
+
+        DoR without PPMO approval and recommended adopting the standard document issued by the PPMO. It would,
+
+        therefore, be essential to have the PPM ’s early approval of the guidelines to avoid future audit objections.
+
+
+
+    (e) The DATC established through Program support, has created a platform within the government system to
+
+        pioneer advanced technologies and implement innovative bridge designs. Following the Program closure, the
+
+        DATC is operational only as and when there is a requirement for review or development of advance bridge
+
+        designs. To ensure its sustainability, the DATC needs to be institutionalized through the GoN’s continued
+
+        prioritization, commitment, and financial allocation to the DATC.
+
+
+
+V. LESSONS AND RECOMMENDATIONS
+
+
+
+79. Enhancing quality through coordination among key government agencies. The Program contributed to an
+
+improved quality assurance mechanism in the government’s bridge program by fostering collaboration among three key
+
+agencies on a single platform to deliver quality results: the implementing agency (DoR), the technical audit agency (NVC),
+
+and the final verifying agency (NPC). The NVC’s capacity for quality monitoring could be further strengthened by providing
+
+additional bridge-specific trainings to the technical auditors and expanding their scope to cover procurement, social,
+
+environmental, and health and safety aspects. Furthermore, establishing a monitoring mechanism within the NVC take
+
+timely actions on the pending NCRs will be crucial. The SD ’s technical and financial support during third-party verification
+
+and development of OHS policy, guidelines, and manuals and their validation on-site was found to be helpful in achieving
+
+the desired outcome. Continuation of such collaborative approach among the key agencies would yield sustainable
+
+results and strengthened governance system and enhanced quality of bridge works.
+
+
+
+80. Effectiveness of hybrid operations. The IPF component of BIMP-II proved challenging to implement due to its
+
+attempt to support a wide range of initiatives. The experience from BIMP-II indicates that the IPF component could be
+
+
+
+                                                                                                                      Page 18
+
+               The World Bank
+
+               Second Bridges Improvement and Maintenance Program (P161929)                                 ICR DOCUMENT
+
+
+
+
+
+better optimized if focused on developing institutional policies and guidelines, training, and capacity development;
+
+strengthening technical audit mechanisms; providing technical support for third-party verification; and assisting during
+
+operations of the IT system developed under the Program. Additionally, mobilizing international experts for the
+
+assessment and specific maintenance of high-technology bridges would be beneficial. For instance, the recent massive
+
+fire incident at the Karnali bridge (a cable-stayed bridge) in March 2024 underscores the need for the government to
+
+conduct a detailed assessment and undertake necessary major maintenance, which is yet to begin.
+
+
+
+81. Strengthening resilience measures. The severe impacts of climate change in Nepal, evidenced by the record-
+
+breaking rainfall in September 2024 that damaged 11 bridges in the SRN10, underscores the importance of mainstreaming
+
+and prioritizing resilience measures while updating the DoR’s hydrology and hydraulic analysis guidelines to account for
+
+anticipated changes in climate parameters. Similarly, as evidenced on the NM road section, it is crucial to adopt mitigation
+
+measures such as bioengineering and slope stabilization for protecting bridges from the high risks of slope failures.
+
+Building on the developed resilience guidelines, the proposed BIMP-III should integrate the resilience measures into
+
+bridge designs, construction, and maintenance, to ensure functionality under adverse conditions. These measures would
+
+include (a) incorporating resilience into the bridge design standards and manuals, (b) establishing standard protocols in
+
+the BMS for prioritizing bridge investment with resilience factors, and (c) applying the ESMF and other E&S manuals
+
+across the DoR.
+
+
+
+82. Promoting gender considerations in the DoR programs. The Program was successful in recruiting female
+
+engineers and providing them advanced skill trainings, thereby enhancing their employment prospects in the technical
+
+field. Building on this success, the proposed BIMP-III could encourage absorption of the trained female engineers within
+
+the DoR by offering career counseling and facilitating connections with potential employers in the sector, thereby helping
+
+female engineers secure jobs in the sector.
+
+
+
+83. Use of a single-window system to optimize the operation and maintenance of existing web-based IT tools. The
+
+IT systems developed under the Program, such as BMS, BSMS, GRM, and CMS, supported the government's efforts in
+
+prioritizing investment, optimizing resources, strengthening M&E mechanisms, and enhancing the overall quality
+
+supervision. However, the discrete application and timely updating of these tools are not receiving the required
+
+attention. The proposed BIMP-III could help the DoR establish a single-window policy for these systems, with dedicated
+
+operations and maintenance and M&E personnel at the central office to carry out timely updates and maintenance to
+
+ensure their functionality. Additional system-related assistance could be provided to troubleshoot any issues that arise
+
+during the operation of these tools to help mainstream these tools in the DoR.
+
+
+
+84. The site supervision by the implementing agency needs improvement, as evidenced by the number of NCRs
+
+raised by the NVC. This is due to the limited number of experienced key engineers in both the DoR and contractors’
+
+teams. The proposed BIMP-III could support hiring qualified supervision consultants and adopting standard site
+
+supervision templates and progress reporting documents. Additionally, increased efforts and mandatory measures to
+
+utilize the BSMS tool, potentially integrating it with the CMS, could be formalized as part of the DoR staff’s Terms of
+
+Reference with standard protocols for data management to enhance the overall supervision mechanism.
+
+
+
+85. Establishment of proper record-keeping at the DoR. Considering the challenges of frequent staff turnover
+
+resulting in implementation delays, the proposed BIMP-III can support the DoR in developing an IT-based system for
+
+digitizing and electronically archiving administrative and technical documents, including designs, bidding, and contract
+
+
+
+
+
+
+
+10
+
+     https://www.dhm.gov.np/pdf ; oR Roads_Bridges Status
+
+
+
+                                                                                                                    Page 19
+
+           The World Bank
+
+           Second Bridges Improvement and Maintenance Program (P161929)                                    ICR DOCUMENT
+
+
+
+
+
+documentation. Introducing a requirement under the DLI verification to fully document contract information of all
+
+new bridges in the CMS could reduce the risk of information loss during staff transitions .
+
+
+
+86. Establishing a procedure for budgeting and disbursements under the PforR instrument. The government must
+
+establish a clear payment procedure under the PforR programs, as the absence of such procedures hinders the
+
+disbursement process. It is essential to understand that payments made by the World Bank are contingent upon the
+
+results achieved specific to the DLIs, and such payments may exceed the actual expenses incurred. Timely submission of
+
+requests for the release of credit funds based on verified results is critical for the success of the proposed BIMP-III and
+
+other PforR programs.
+
+
+
+87. An extended programmatic support could be beneficial for building sector capacity and mainstreaming
+
+innovative approaches. The World Bank's extended engagement in Nepal's bridge programs offers valuable lessons for
+
+other countries with similar contexts. Initially, the focus of BIMP was on creating a robust institutional framework to
+
+manage the bridge infrastructure effectively by setting up systems and processes to the country’s standards and
+
+maintaining them regularly. Under BIMP-II, the Program evolved to address more complex challenges, such as enhancing
+
+the resilience of bridges to natural disasters and incorporating climate resilience measures into bridge maintenance. The
+
+World Bank's support was crucial in providing the technical expertise and financial resources needed to implement these
+
+changes. The World Bank's engagement over an extended period of 10 plus years has helped build the capacity of local
+
+institutions, enabling them to manage bridge infrastructure more effectively. This has not only improved the condition
+
+and safety of bridges but has also contributed to the overall economic development of Nepal by improving connectivity
+
+and facilitating the movement of people and goods.
+
+
+
+
+
+
+
+
+
+                                                                                                                   Page 20
+
+               The World Bank
+
+               Second Bridges Improvement and Maintenance Program (P161929)                                                                                              ICR DOCUMENT
+
+
+
+
+
+
+
+
+
+                               ANNEX 1. RESULTS FRAMEWORK, DISBURSEMENT LINKED INDICATORS, AND PROGRAM ACTION PLAN
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@icrpfrresultframework#doctemplate
+
+ A. RESULTS FRAMEWORK
+
+
+
+
+
+PDO Indicators by PDO Outcomes
+
+
+
+Safe Bridges
+
+           Indicator Name                           Baseline                     Closing Period (Original)             Closing Period (Current)           Actual Achieved at Completion
+
+                                          Result          Month/Year             Result          Month/Year          Result          Month/Year            Result         Month/Year
+
+Reduced likelihood of road departure       0.00            July/2018             18.00            July/2023          18.00             Jul/2024            100.00           Jul/2024
+
+crashes on Program Bridges             Comments on achieving targets        The Program exceeded the target by upgrading road safety visual signs on around 100 number of bridges.
+
+(Number)                                                                     Source: Borrower’s I R, August 202
+
+Resilient Bridges
+
+            Indicator Name                          Baseline                     Closing Period (Original)             Closing Period (Current)           Actual Achieved at Completion
+
+                                          Result          Month/Year             Result          Month/Year           Result          Month/Year             Result           Month/Year
+
+                                           0.00            July/2018             10.00             July/2023           2.00             Jul/2024                 2              Jul/2024
+
+Enhanced DOR capabilites for           Comments on achieving targets        The Program developed two (2) new bridge design concepts for Narayani and Bijaypur bridges under the DATC,
+
+developing resilient bridge designs                                         incorporating advanced features for enhanced resilience and inclusion. The original target was revised twice: (i)
+
+(Number)                                                                    second restructuring reduced to 4 number ii third restructuring reduced to 2 number Source: Borrower’s I R,
+
+                                                                            August 2024)
+
+
+
+
+
+Intermediate Results Indicators by Result Areas
+
+
+
+
+
+Safe Bridges
+
+           Indicator Name                           Baseline                     Closing Period (Original)             Closing Period (Current)           Actual Achieved at Completion
+
+                                           Result              Month/Year        Result           Month/Year           Result           Month/Year            Result          Month/Year
+
+
+
+
+
+
+
+                                                                                                                                                                                       Page 21
+
+            The World Bank
+
+            Second Bridges Improvement and Maintenance Program (P161929)                                                                                                ICR DOCUMENT
+
+
+
+
+
+
+
+                                            0.00                July/2018       8,000.00           Jul/2023           8,000.00           Jul/2024            8,118             Jul/2024
+
+Road Safety upgrades on Progam
+
+Bridges (Meter(m))                     Comments on achieving targets        The Program exceeded the target by upgrading road safety features on 8,118 meters bridges. (Source:
+
+                                                                            Borrower’s I R report, August 202
+
+Resilient Bridges
+
+           Indicator Name                           Baseline                     Closing Period (Original)             Closing Period (Current)          Actual Achieved at Completion
+
+                                           Result              Month/Year        Result           Month/Year           Result          Month/Year            Result          Month/Year
+
+                                            N/A                 July/2018         DATC             Jul/2020            DATC              Jul/2020      The DATC cell has       Jul/2024
+
+                                                                            staffed/mobilized                    staffed/mobilized                       been created,
+
+                                                                                                                                                          staffed and
+
+                                                                                                                                                      mobilized as per the
+
+Design and Advanced Technology Cell                                                                                                                    approved ToR and
+
+created (Text)                                                                                                                                          notified through
+
+                                                                                                                                                        DoR letter dated
+
+                                                                                                                                                         July 13, 2021.
+
+                                       Comments on achieving targets        The DATC was established/equipped with 18 numbers of members trained and mobilized. (Source: Fifth ISR AM;
+
+                                                                            and Borrower’s I R report, August, 202
+
+Resilient Bridges
+
+           Indicator Name                           Baseline                     Closing Period (Original)             Closing Period (Current)          Actual Achieved at Completion
+
+                                           Result              Month/Year        Result           Month/Year           Result          Month/Year            Result          Month/Year
+
+                                            0.00                July/2018        10.00             Jul/2023             2.00             Jul/2024               2              Jul/2024
+
+Number of times that DoR engineers
+
+mobilized skills in the designing of   Comments on achieving targets        The Program conducted two (2) number of workshops during the design of two advanced bridges under the
+
+advanced bridges for improved                                               DATC. The indicator definition was revised during the first restructuring as: Number of workshops completed by
+
+resilience and inclusion. (Number)                                          DoR on the design of advanced bridges for improved resilience and inclusion (ex. consultancies/ DATC training).
+
+                                                                             Source: Borrower’s I R report, August 202
+
+Resilient Bridges
+
+           Indicator Name                           Baseline                     Closing Period (Original)             Closing Period (Current)          Actual Achieved at Completion
+
+                                           Result              Month/Year        Result           Month/Year           Result          Month/Year            Result          Month/Year
+
+Female Engineers recruited in the       6.00            July/2018                >33.00            Jul/2023            33.00             Jul/2024            41.00             Jul/2024
+
+Design and Advanced Technology Cell Comments on achieving targets           The Program recruited >33% of female engineers in the DATC and provided them with the advance skills
+
+and given advanced skills training                                          trainings. Out of total 18 engineers recruited, 7 female engineers composed of 2 SDEs, 4 engineers, and 1
+
+(Percentage)                                                                consultant Source: ifth ISR AM and Borrower’s I R report, August 202
+
+
+
+
+
+                                                                                                                                                                                        Page 22
+
+              The World Bank
+
+              Second Bridges Improvement and Maintenance Program (P161929)                                                                                                ICR DOCUMENT
+
+
+
+
+
+
+
+
+
+Cost Effective Bridges
+
+           Indicator Name                        Baseline                     Closing Period (Original)               Closing Period (Current)            Actual Achieved at Completion
+
+                                        Result              Month/Year        Result           Month/Year             Result           Month/Year             Result           Month/Year
+
+                                         0.00                July/2018       4,500.00            Jul/2023            5,700.00            Jul/2024              5,839             Jul/2024
+
+Implementation of high priority
+
+maintenance to extend asset lives   Comments on achieving targets        The Program exceeded the target by implementation of major maintenance in 5,839 meters (59 number) of
+
+(Meter(m))                                                               bridges. The original target was revised twice: (i) second restructuring increased to 5,000 meters; and (ii) third
+
+                                                                         restructuring increased to , 00 meters Source: Borrower’s I R, August 202
+
+Cost Effective Bridges
+
+           Indicator Name                        Baseline                     Closing Period (Original)               Closing Period (Current)            Actual Achieved at Completion
+
+                                        Result              Month/Year        Result           Month/Year             Result           Month/Year             Result           Month/Year
+
+                                         0.00                July/2018       5,000.00            Jul/2023            8,565.00            Jul/2024              8,660             Jul/2024
+
+Completion of backlog bridges to    Comments on achieving targets        The Program exceeded the target by completion of 8,660 meters (90 numbers) backlog bridges. The original
+
+reduce road user costs (Meter(m))                                        target was revised thrice : (i) first restructuring increased to 6,500 meters (ii) second restructuring increased to
+
+                                                                         7,300 meters (iii) third restructuring increased to , 6 meters Source: Borrower’s I R, August 202
+
+Cost Effective Bridges
+
+           Indicator Name                        Baseline                     Closing Period (Original)               Closing Period (Current)            Actual Achieved at Completion
+
+                                        Result              Month/Year        Result           Month/Year             Result           Month/Year             Result           Month/Year
+
+                                         0.00                July/2018       6,000.00            Jul/2023            4,400.00            Jul/2024              4,426             Jul/2024
+
+Construction of New Bridges to
+
+reduce road user costs (Meter(m))   Comments on achieving targets        The Program exceeded the target by construction of 4,426 (52 number) new bridges. The original target was
+
+                                                                         increased to , 00 meters through first restructuring Source: Borrower’s I R Report, August 202
+
+Beneficiary Feedback
+
+           Indicator Name                        Baseline                     Closing Period (Original)               Closing Period (Current)            Actual Achieved at Completion
+
+                                        Result              Month/Year        Result           Month/Year             Result           Month/Year             Result           Month/Year
+
+Responsiveness to bridges related        31.20               July/2018        10.00              Jul/2023             10.00              Jul/2024              9.00              Jul/2024
+
+complaints through the D R’s        Comments on achieving targets        The Program reported resolving of total 24 number of bridge related grievances in an average of 9 days within
+
+Grievance Redress Mechanism                                              the Program period Source: Borrower’s I R report, August 202
+
+(Days)
+
+Beneficiary
+
+           Indicator Name                        Baseline                     Closing Period (Original)               Closing Period (Current)            Actual Achieved at Completion
+
+
+
+
+
+
+
+                                                                                                                                                                                        Page 23
+
+             The World Bank
+
+             Second Bridges Improvement and Maintenance Program (P161929)                                                                                                    ICR DOCUMENT
+
+
+
+
+
+
+
+                                             Result         Month/Year            Result          Month/Year            Result              Month/Year              Result       Month/Year
+
+                                              0.00           July/2018        5,000.00             Jul/2023            1,000.00              Jul/2024               >1000         Jul/2024
+
+                                         Comments on achieving targets    More than 1,000 people are expected to benefit from the inclusive design concept of the two advance bridges
+
+Anticipated beneficiaries of inclusive                                    namely, Narayani and Bijayapur bridges. Further, the expected beneficiaries are disaggregated as: (i) Bijayapur
+
+design concepts (Number)                                                  bridge: 22,850 male; 25,488 female; 1,969 vulnerable individuals (ii) Narayani Bridge:13,362 male and 13,986
+
+                                                                          female; 1,826 vulnerable individuals. This original target was revised twice: (i) second restructuring reduced to
+
+                                                                          2,000 number (ii) third restructuring reduced to 1,000 number. (Source: Environment and Social Screening
+
+                                                                          Report based on CBS 2021 data of Narayani and Bijayapur Bridges, June 2024)
+
+
+
+
+
+
+
+Disbursement Linked Indicators (DLI)
+
+
+
+
+
+ Period                                                                                                        Period Definition
+
+ Period 1                                                 July 15, 2019
+
+ Period 2                                                 July 15, 2020
+
+ Period 3                                                 July 15, 2021
+
+ Period 4                                                 July 15, 2022
+
+ Period 5                                                 July 15, 2023
+
+ Period 6                                                 July 15, 2024
+
+
+
+
+
+                              Baseline                       Period 1              Period 2             Period 3                 Period 4                Period 5             Period 6
+
+ 1:Major bridge maintenance (Meter(m) )                      Achievement Level:
+
+ Original/Revised Value       0.00                           0.00                  750.00               1,000.00                 1,500.00                1,750.00             700.00
+
+ Allocated Amount             0.00                           0.00                  2,181,288.00         2,908,384.00             4,362,576.00            5,089,672.00         2,035,868.80
+
+ Actual Value                                                0.00                  0.00                 0.00                     3,200.86                1,259.17             1,239.97
+
+ Actual Amount                                               0.00                  0.00                 0.00                     9,176,403.22            3,248,994.18         3,575,395.08
+
+ 2:Road safety upgrades on bridges (Meter(m) )               Achievement Level:
+
+ Original/Revised Value       0.00                           0.00                  1,333.00             2,000.00                 2,222.00                2,444.00             0.00
+
+ Allocated Amount             0.00                           0.00                  2,908,384.00         4,362,576.00             4,847,307.00            5,332,037.00         0.00
+
+ Actual Value                                                0.00                  0.00                 0.00                     3,636.78                670.51               3,692.71
+
+ Actual Amount                                               0.00                  0.00                 0.00                     7,809,137.91            1,164,689.15         7,678,044.39
+
+
+
+
+
+                                                                                                                                                                                         Page 24
+
+          The World Bank
+
+          Second Bridges Improvement and Maintenance Program (P161929)                                                                             ICR DOCUMENT
+
+
+
+
+
+
+
+3:New 2 lane bridge construction, rehab., and            Achievement Level:
+
+replacement of bridges (Meter(m) )
+
+Original/Revised Value       0.00                        0.00                 0.00            1,150.00           1,750.00         1,500.00          0.00
+
+Allocated Amount             0.00                        0.00                 0.00            10,145,412.99      15,438,672.00    13,233,147.00     0.00
+
+Actual Value                                             0.00                 0.00            0.00               0.00             1,715.00          2,685.00
+
+Actual Amount                                            0.00                 0.00            0.00               0.00             14,514,437.75     22,012,700.34
+
+4:Completion of backlog bridges under construction       Achievement Level:
+
+(Meter(m) )
+
+Original/Revised Value       0.00                        1,685.00             1,685.00        3,130.00           0.00             800.00            1,265.00
+
+Allocated Amount             0.00                        7,431,659.00         7,431,659.00    13,806,584.00      0.00             3,528,839.36      5,579,977.24
+
+Actual Value                                             1,169.05             3,328.51        502.44             1,500.00         0.00              2,065.00
+
+Actual Amount                                            5,103,206.50         14,420,695.68   2,176,809.32       6,498,716.70     0.00              8,398,960.90
+
+5:Improved fiduciary governance of design-build          Achievement Level:
+
+contracting (Text )
+
+Original/Revised Value       No guidelines or standard                                                                            Standard
+
+                             documents                                                                                            documents and
+
+                                                                                                                                  guidelines
+
+                                                                                                                                  submitted to
+
+                                                                                                                                  PPMO
+
+Allocated Amount            0.00                         0.00               0.00              0.00               0.00             2,000,000.00      0.00
+
+Actual Value                                             0.00               0.00              0.00               0.00             1.00              0.00
+
+Actual Amount                                            0.00               0.00              0.00               0.00             1,871,674.00      0.00
+
+6:BSMS (mobile monitoring system) use on Program         Achievement Level:
+
+worksites (Number )
+
+Original/Revised Value      0.00                         730.00               1,138.00        1358.000.00        1,199.00         576.00            0.00
+
+Allocated Amount            0.00                         547,500.00           853,500.00      1,018,500.00       899,250.00       432,000.00        0.00
+
+Actual Value                                             0.00                 0.00            0.00               613.00           203.00            3,134.00
+
+Actual Amount                                            0.00                 0.00            0.00               448,273.48       148,449.45        2,489,868.09
+
+
+
+
+
+A. PROGRAM ACTION PLAN
+
+
+
+
+
+Action                                                     Timing              Timing Value          Achieved?            Completion Measurement
+
+
+
+
+
+                                                                                                                                                              Page 25
+
+          The World Bank
+
+          Second Bridges Improvement and Maintenance Program (P161929)                                                                        ICR DOCUMENT
+
+
+
+
+
+
+
+                                                                                                                  Initial milestone: At least 5 complete
+
+All Program implementing units equipped with
+
+                                                                                                                  BSMS reports filed per DRO and Bridge
+
+mobile tablets and BSMS made operational in all                          Before Program
+
+                                                      Other                                          No           Sector office. Measure of sustainable
+
+Program implementing units including DROs, Bridge                          closure date
+
+                                                                                                                  use: At least 5,000 verified entries in
+
+Sector Offices, and Bridge Branch Headquarters.
+
+                                                                                                                  BSMS by end of the program.
+
+                                                      Initial Milestone completed. BSMS use is effective and useful with 5 reports per month per bridge
+
+                                          Comments
+
+                                                      are entered in BSMS. 3,950 verified entries in BSMS recorded.
+
+                                                                                                                  (a) Endorsement of DATC ToRs by
+
+The DOR to establish a DATC within Bridge Branch,                       Approximately 10-
+
+                                                                                                                  Secretary of MoPIT through official letter
+
+satisfactory to the Association, for insourcing a                        15 engineers or
+
+                                                                                                                  to all DOR units; (b) Recruitment of the
+
+fraction of bridge-related engineering tasks and      Other                 specialists              Yes
+
+                                                                                                                  DATC cohort completed; and (c) Cohorts
+
+developing the capacity of junior engineers, with a                      recruited within
+
+                                                                                                                  to target not less than one-third female
+
+particular focus on training and developing femal                        program period.
+
+                                                                                                                  participants.
+
+                                          Comments    Completed. 18 engineers (41% female) were trained and mobilized through DATC.
+
+The DOR to update Bridge Policy and Strategy with
+
+additional focus on resilient systems approach and                      Within end of the                           Official promulgation of updated Bridge
+
+                                                      Other                                          No
+
+the principles that will be applied to achieving                        Program period                              Policy and Strategy by MoPIT Secretary.
+
+resilience in subsidiary plans.
+
+                                                      Bridge policy is updated by DoR; it is now being finalized by the Departmental of policy and
+
+                                          Comments
+
+                                                      subsequently endorsed by MoPIT.
+
+                                                                           Revised CMS
+
+                                                                        software launched
+
+                                                                        within 55 months.                           Confirmation letter from Director General,
+
+The DOR to update CMS software and to relaunch
+
+                                                                           All contracts                            DOR regarding re-launch of the updated
+
+the updated MS The Program’s contracts and            Other                                          Yes
+
+                                                                          details through                           CMS. All Program contracts to be covered
+
+financial transactions will use the CMS.
+
+                                                                          the CMS within                            under the CMS.
+
+                                                                            end of the
+
+                                                                         program period.
+
+
+
+                                                                                                                                                          Page 26
+
+          The World Bank
+
+          Second Bridges Improvement and Maintenance Program (P161929)                                                                      ICR DOCUMENT
+
+
+
+
+
+
+
+                                                        CMS is updated with additional features. Some Programs contracts are covered under the CMS but
+
+                                          Comments
+
+                                                        not all.
+
+D R’s outstanding audit observations up to Y
+
+                                                                                                                 Approved Government of Nepal’s Audit
+
+2017/18 and each subsequent fiscal year are
+
+                                                                        Within end of the                        Management System (NAMS) to record
+
+recorded annually and addressed as part of              Other                                       Yes
+
+                                                                        Program period.                          audit observations to track action against
+
+continuously monitored plan to reduce audit
+
+                                                                                                                 addressing audit observation.
+
+observations.
+
+                                          Comments      Completed.
+
+Prepare and approve the business plan for GESU for                      Within 12 months
+
+                                                        Other                                       Yes          Business Plan approved by the DOR DG
+
+the next three years.                                                   of effective date
+
+                                          Comments      GESU three-year Business Plan has been approved by the Director General, DOR.
+
+Revise bidding documents with distinct reflection of
+
+costs for OCHS, environmental and social
+
+management mitigation cost in the BoQs, and             Due Date           29-Sep-2018              Yes          Revised bidding documents in practice
+
+inclusion of relevant provisions under the conditions
+
+of contract.
+
+                                          Comments      Bidding documents for D&B contract type and BoQ contract type have been revised.
+
+The D R’s SM updated in whole or with
+
+addendum) to include enhanced provisions relating                                                                Official approval of updated ESMF (in
+
+                                                                        Within end of the
+
+to OCHS, labor camp management, CE protocol,            Other                                       No           whole or with addendum) by the MoPIT
+
+                                                                        Program period
+
+provisions on the prevention of child labor,                                                                     Secretary and public disclosure thereafter.
+
+provisions on prevention of GBV and SEA.
+
+                                                        Final updated ESMF document forwarded to MoPIT on July 2024. Disclosure will be done after after
+
+                                          Comments
+
+                                                        its approval.
+
+                                                                                                               Confirmation from the DOR DG of: (a) Set
+
+                                                                        Within 12 months
+
+Effectiveness of GESU                                   Other                                    Yes           up of functional team in GESU for OCHS
+
+                                                                         of effective date
+
+                                                                                                               and labor standards; (b) Approved
+
+
+
+                                                                                                                                                         Page 27
+
+          The World Bank
+
+          Second Bridges Improvement and Maintenance Program (P161929)                                                                       ICR DOCUMENT
+
+
+
+
+
+
+
+                                                                                                                  organizational structure for GESU; (c) ToRs
+
+                                                                                                                  defined for specialists; and (d) Specialists
+
+                                                                                                                  in post and performing daily functions.
+
+                                                     Functional team has been set up and working from BB. GESU organizational structure is in cabinet
+
+                                          Comments
+
+                                                     for approval process. Environmental and social safeguard specialist are on-board.
+
+The DOR staff surveys to be completed using                           One surveys to be
+
+questionnaire satisfactory to the Association. The                    carried out within                        Public disclosure of results reports on the
+
+                                                     Other                                        Yes
+
+staff survey results report to be independently                          the Program                            DOR website.
+
+compiled and publicly disclosed.                                            period
+
+                                          Comments   Completed.
+
+                                                                                                                  Deployment of specific provisions for
+
+                                                                       Final guidelines                           worksites to be included in contracts, BoQ
+
+OCHS and labor management guidelines (bridge-                         endorsed by the                             items,social/ environmental
+
+specific elements) developed and deployed on         Other            MOPIT within end             Yes            documents;Deployment of specific
+
+Program contracts.                                                     of the Program                             provisions to ensure control over
+
+                                                                           period.                                subcontracted arrangements in the supply
+
+                                                                                                                  chain of goods works and services
+
+                                          Comments   Completed.
+
+The DOR OCHS and labor policy:Integrated OCHS and                                                                 MoPIT endorsement/confirmation
+
+labor standards developed to align with national                                                                  through letter of: (a) Final OCHS and labor
+
+legislation (incl Labor Act 2017) and matching                        Within end of the                           management policy; (b) Completion of
+
+                                                     Other                                          No
+
+updates to D R’s SM or addendum to SM to                              Program period                              stakeholder consultation on ESMF update;
+
+reflect DOR policy and OHCS and labor mgmt.                                                                       and (c) Public disclosure of final updated
+
+guideline                                                                                                         ESMF (or addendum developed).
+
+                                          Comments   (a) and (b) completed, (c) public disclosure after approval from MoPIT.
+
+OCHS management officers assigned to Program                                                                      (a) DOR engineers assigned as OCHS
+
+                                                     Due Date            29-Jul-2019               Yes
+
+sites.                                                                                                            management officers for all Program sites;
+
+
+
+                                                                                                                                                          Page 28
+
+         The World Bank
+
+         Second Bridges Improvement and Maintenance Program (P161929)                                                  ICR DOCUMENT
+
+
+
+
+
+
+
+                                                                                             (b) Consultants assigned to support
+
+                                                                                             officers with field monitoring and
+
+                                                                                             reporting; and (c) Assignment register
+
+                                                                                             developed, promulgated, and updated in
+
+                                                                                             each Trimester Report.
+
+                                            Comments   Completed
+
+                                                                                             Modules developed and delivered
+
+                                                                                             annually before beginning of each
+
+                                                                   Within 12 months
+
+                                                                                             construction season covering (a) Training
+
+OCHS capacity-building program (training,                          of effective date
+
+                                                       Other                           Yes   for DOR engineers and consultants; (b)
+
+awareness, and education)                                            and annually
+
+                                                                                             Contractors compliance training; and (c)
+
+                                                                      thereafter
+
+                                                                                             Demand-side awareness raising training
+
+                                                                                             initiative for workers
+
+                                            Comments   Completed
+
+                                                                                             Documentation in BSMS of (a) Regular and
+
+                                                                                             unannounced site visits by OCHS
+
+                                                                   Within 12 months
+
+                                                                                             management officers, support consultants
+
+                                                                   of effective date
+
+OCHS system monitoring                                 Other                           Yes   to worksites to ascertain actual
+
+                                                                     and annually
+
+                                                                                             performance at implementing OCHS
+
+                                                                      thereafter
+
+                                                                                             standards;(b) Consultations with
+
+                                                                                             communities near Program worksites
+
+                                            Comments   Completed
+
+                                                                                             a) Accidents and near misses documented
+
+                                                                   Within 12 months
+
+                                                                                             made public; (b) Worker grievances to be
+
+                                                                   of effective date
+
+OCHS system near miss and incident data collection.    Other                           Yes   directed to GRM system; (c)
+
+                                                                   and continuously
+
+                                                                                             Documentation in the BSMS and public
+
+                                                                      thereafter
+
+                                                                                             disclosure of incidents through DOR
+
+
+
+
+
+                                                                                                                                   Page 29
+
+         The World Bank
+
+         Second Bridges Improvement and Maintenance Program (P161929)                                                       ICR DOCUMENT
+
+
+
+
+
+
+
+                                                                                                  website; (d) Injured workers to be
+
+                                                                                                  engaged as trainers/speakers
+
+                                         Comments     Completed.
+
+                                                                      Reports provided
+
+                                                                                                  Independent assessments of in-practice
+
+                                                                       annually by end
+
+                                                                                                  function of OCHS and labor standards to
+
+                                                                      July of each fiscal
+
+OHCS independent system validation and corrective                                                 include field validation and community
+
+                                                      Other           year; Action plans    Yes
+
+actions.                                                                                          consultation.Executed by one or more
+
+                                                                       to be in place by
+
+                                                                                                  external bodies.Annual action plans
+
+                                                                        September of
+
+                                                                                                  developed/agreed with IDA.
+
+                                                                           each year
+
+                                         Comments     With support from SDC.
+
+                                                                                                  (a) Bridge development process endorsed
+
+                                                                      Within 9 months
+
+Bridge development process defined with specific                                                  by the MoPIT for initial use; and (b)
+
+                                                                      of effective date
+
+Gate Reviews and input stages from key technical,     Other                                 Yes   Documentation and signoffs for Gate
+
+                                                                      and continuously
+
+social, and environmental work streams.                                                           Reviews completed for each Bridge
+
+                                                                         thereafter.
+
+                                                                                                  Dossier.
+
+                                         Comments     Completed.
+
+                                                                                                  (a) Bridge development process endorsed
+
+                                                                      Within 9 months
+
+Bridge development process defined with specific                                                  by the MoPIT for initial use; and (b)
+
+                                                                      of effective date
+
+Gate Reviews and input stages from key technical,     Other                                 Yes   Documentation and signoffs for Gate
+
+                                                                      and continuously
+
+social, and environmental work streams.                                                           Reviews completed for each Bridge
+
+                                                                         thereafter.
+
+                                                                                                  Dossier.
+
+                                         Comments     Completed
+
+Update of model bid documents technical, fiduciary,                                               Model bid documents, satisfactory to the
+
+and environmental and social provisions used for      Due Date          29-Sep-2018         Yes   Association, adopted by Program for
+
+contracting Program works                                                                         works contracts.
+
+
+
+
+
+                                                                                                                                       Page 30
+
+The World Bank
+
+Second Bridges Improvement and Maintenance Program (P161929)   ICR DOCUMENT
+
+
+
+
+
+
+
+
+
+                           Comments   Completed
+
+
+
+
+
+
+
+
+
+                                                                       Page 31
+
+         The World Bank
+
+         Second Bridges Improvement and Maintenance Program (P161929)                                  ICR DOCUMENT
+
+
+
+
+
+
+
+ANNEX 2. BANK LENDING AND IMPLEMENTATION SUPPORT/SUPERVISION
+
+
+
+    A. TASK TEAM MEMBERS
+
+
+
+
+
+  Name                                                     Role
+
+  Hisham Mahmoud Fouad                                     Team Leader
+
+  Deepak Man Singh Shrestha                                Co-Team Leader
+
+  Shubu Thapa                                              Team Member
+
+  Rupa Shrestha                                            Team Member
+
+  Victor Boakye-Bonsu                                      Financial Management Specialist
+
+  Bishwa Raj Basaula                                       Financial Management Specialist
+
+  Neena Shrestha                                           Procurement Specialist
+
+  Ning Yang                                                Environmental Specialist
+
+  Janak Raj Pathak                                         Environmental Specialist
+
+  Gloria Malia Mahama                                      Social Specialist
+
+  Jaya Sharma                                              Social Specialist
+
+  Sarah Subba                                              Social Specialist
+
+  Ruifeng Yuan                                             Team Member
+
+  Vishnu Shrestha                                          Team Member
+
+  Bhaskar Maskey                                           Team Member
+
+  Pratima Shrestha                                         Team Member
+
+  Hari Prasad Bhattarai                                    Team Member
+
+  Dron Pun                                                 Team Member
+
+
+
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@icrannexstafftime#doctemplate
+
+    B. STAFF TIME & COST
+
+
+
+
+
+                                                                      Staff Time & Cost
+
+ Stage of Project Cycle
+
+                                      No. of Staff Weeks                   US$ (including travel and consultant costs)
+
+
+
+ Preparation
+
+
+
+
+
+
+
+                                                                                                                 Page 32
+
+        The World Bank
+
+        Second Bridges Improvement and Maintenance Program (P161929)   ICR DOCUMENT
+
+
+
+
+
+FY17                                                      16.459         99,108.95
+
+
+
+FY18                                                      42.136        262,882.00
+
+
+
+FY19                                                      45.621        200,665.35
+
+
+
+FY20                                                       0.150           3,015.14
+
+
+
+FY23                                                       0.175           1,132.53
+
+
+
+Total                                                      104.54       566,803.97
+
+
+
+Supervision/ICR
+
+FY19                                                       2.700         50,733.29
+
+
+
+FY20                                                      30.391        154,603.27
+
+
+
+FY21                                                      32.530        182,989.56
+
+
+
+FY22                                                      39.994        196,956.50
+
+
+
+FY23                                                      40.886        200,708.13
+
+
+
+FY24                                                      29.169        179,958.40
+
+
+
+FY25                                                      18.343         57,617.76
+
+
+
+Total                                                      194.01      1,023,566.91
+
+
+
+
+
+
+
+
+
+                                                                               Page 33
+
+        The World Bank
+
+        Second Bridges Improvement and Maintenance Program (P161929)                                 ICR DOCUMENT
+
+
+
+
+
+
+
+ANNEX 3. PROGRAM EXPENDITURE SUMMARY
+
+
+
+
+
+                                                                      Actual Expenditures (Disbursement)
+
+ Source of Program    Type of Co-   Estimates at
+
+                                                   Revised
+
+  Financing (US$)      Financing     Appraisal                        Percentage of   Percentage     Percentage
+
+                                                             Actual
+
+                                                                        Appraisal     of Revised      of Actual
+
+World Bank            --                    133    118.20 112.17               68%            69%            68%
+
+    PforR component                       118.84    116.37   111.11            61%            68%           67%
+
+      IPF component                        14.15      1.55     1.06             7%             1%            1%
+
+Borrower (PforR
+
+                      --                  63.01      53.74   53.74             32%            31%           32%
+
+component only)
+
+Total                                    196.01    171.94 165.91             100%           100%           100%
+
+
+
+
+
+
+
+
+
+                                                                                                             Page 34
+
+             The World Bank
+
+             Second Bridges Improvement and Maintenance Program (P161929)                                          ICR DOCUMENT
+
+
+
+
+
+
+
+ANNEX 4. BORROWER’S COMMENTS
+
+The Borrower provided their comments through email dated December 23, 2024, with the following remarks:
+
+I would like to appreciate the bank team for their effort in finalizing the ICR prepared by the Bank. It seems in a very good
+
+shape.
+
+However, we have discovered a few minor discrepancies and incorporated those comments in the respective sections
+
+which you can refer to very easily. We have also included a table of disbursement including Nepali counterpart fund
+
+allocation.
+
+
+
+ANNEX 5. PROGRAM RESTRUCTURING DETAILS
+
+
+
+     Items           First Restructuring:       Second Restructuring:          Third Restructuring:            Rational
+
+                          May 2022                    August 2023                  March 2024
+
+ DLI 1            n.a.                        Increased target from         Increased target from     BB procured works
+
+                                              4,500 m to 5,000 m;           5,000 m to 5,700 m;       packages potential for
+
+                                              amount from US$13.086         amount from               disbursement exceeding
+
+                                              mil to US$14.540 mil.         US$14.5419 mil to         the initial set target.
+
+                                                                            US$16.577 mil.
+
+ DLI 3            Increased target from       n.a.                          n.a.                      BB identified scope to
+
+                  4,000 m to 4,400 m                                                                  achieve a target higher than
+
+                                                                                                      initially anticipated at
+
+                                                                                                      project preparation.
+
+ DLI 4            Discontinued target         n.a.                          n.a.                      Bridges previously
+
+                  from 2,000 m to 0 m                                                                 identified under DLI 4 were
+
+                                                                                                      taken up by IDA-financed
+
+                                                                                                      SRCTIP: P170409.
+
+ DLI 5            Increased target from       Increased target from         Increased target from     Backlog bridges were
+
+                  5,000 m to 6,500 m          6,500 m to 7,300 m;           7,300 m to 8,565 m;       completed beyond the
+
+                                              amount from US$28.672         amount from US$32.2006    initial target and BB sought
+
+                                              mil to US$32.2 mil.           mil to US$37.780 mil.     financing for additional
+
+                                                                                                      bridges through savings
+
+                                                                                                      from the cancelled DLI 4.
+
+ DLI 7            Change in unit of           Change in DLI verification    n.a.                      Verification protocol
+
+                  disbursement from ‘Sites’   protocol as the number of                               simplified to enable the BB
+
+                  to ‘ ntries’                BSMS entries for a bridge                               to achieve the DLI targets.
+
+                  Consequently, revision in   worksite will count as the
+
+                  verification protocol as:   number of units for DLI
+
+                  Two complete and            achievement. Entries must
+
+                  substantive BSMS entries    date from the period
+
+                  for a single worksite per   between contract signing
+
+                  calendar month will         and beginning of defects
+
+                  constitute two units of     liability period for works.
+
+                  DLI achievement.
+
+ IPF 1            n.a.                        Decreased amount from         Decreased amount from     The actual cost was lesser
+
+                                              US$5 mil to US$3 mil.         US$ 3 mil to US$0.0604    than anticipated.
+
+                                                                            mil.
+
+
+
+
+
+
+
+
+
+                                                                                                                             Page 35
+
+         The World Bank
+
+         Second Bridges Improvement and Maintenance Program (P161929)                                             ICR DOCUMENT
+
+
+
+
+
+IPF 2          n.a.                        Decreased amount from        Increased annual            The actual cost was lesser
+
+                                           US$0.5 mil to US$0.25 mil.   allocation from US$0.25     than anticipated.
+
+                                                                        mil to US$0.412 mil.
+
+IPF 3          n.a.                        Reduced quantity of          Reduced number of           Significant delays in
+
+                                           advanced bridge design       advanced bridge design      initiation of this activity.
+
+                                           from 10 to 4; decreased      from 4 to 2; decreased
+
+                                           amount from US$3 mil to      allocation amount from
+
+                                           US$1.5 mil.                  US$1.5 mil to US$0.015
+
+                                                                        mil.
+
+IPF 4          Increased amount from       n.a.                         Decreased amount from       The planned training
+
+               US$0.6 mil to US$0.67                                    US$0.67 mil to US$0.20      activities were more than
+
+               mil.                                                     mil.                        the initial planned amount;
+
+                                                                                                    however, BB proposed to
+
+                                                                                                    allocate a portion of the
+
+                                                                                                    cancelled funds under IPF 8
+
+                                                                                                    to IPF 4.
+
+     5         n.a.                        Decreased amount from        Decreased amount from       Amount likely to be
+
+                                           US$2.5 mil to US$1.897       US$1.897 mil to US$0.263    underspent. BB preferred to
+
+                                           mil.                         mil.                        use its own engineers for
+
+                                                                                                    supervision; updating of the
+
+                                                                                                    BMS could not be
+
+                                                                                                    completed due to lack of
+
+                                                                                                    qualified bidders.
+
+IPF 6          n.a                         n.a.                         Decreased amount from       Funds unlikely to be fully
+
+                                                                        US$1 mil to US$0.214 mil.   utilized.
+
+IPF 7          n.a.                        Decreased yearly rate        Decreased amount from       Required funds lesser than
+
+                                           and reduced amount           US$0.5 mil to US$0.166      anticipated.
+
+                                           from US$1 mil to US$0.5      mil.
+
+                                           mil.
+
+IPF 8          US$0.3 million fund         n.a.                         n.a.                        SDC continued to support
+
+               reallocated to IPF 4 and                                                             the NPC for DLI verification,
+
+               IPF 9                                                                                requiring reallocation of
+
+                                                                                                    contingency funds.
+
+IPF 9          Increased amount from       Decreased amount from        Decreased amount from       Contract value and
+
+               US$0.25 to US$0.48          US$0.48 mil to US$0.35       US$0.35 mil to US$0.220     expenditure for Impact
+
+               million                     mil.                         mil.                        Evaluation work was lesser
+
+                                                                                                    than anticipated.
+
+Cancellation   Partial cancellation of     n.a.                         n.a.                        Due to adjustments in the
+
+               US$15.06 million IPF                                                                 DLIs and IPF costs, savings
+
+               funds                                                                                of US$15.06 million were
+
+                                                                                                    reallocated to government’s
+
+                                                                                                    COVID-19 recovery efforts.
+
+Extension      Program extended by         n.a.                         n.a.                        Additional time required to
+
+               one year till July 15,                                                               complete the targeted
+
+               2024                                                                                 program activities that were
+
+                                                                                                    disrupted due to the COVID-
+
+                                                                                                    19 pandemic restrictions.
+
+RF             (i) IRI 2.2: Indicator      (i) IRI 2.2: The number of   (i) IRI 2.2: The number     Due to the changes in the
+
+                   definition revised as       workshops decreased          of workshops            DLIs and IPF, the IRIs were
+
+                   ‘Number of                  from 10 to 4.                decreased from 4 to     changed.
+
+                                                                            2.
+
+
+
+                                                                                                                             Page 36
+
+        The World Bank
+
+        Second Bridges Improvement and Maintenance Program (P161929)                                              ICR DOCUMENT
+
+
+
+
+
+                   workshops               (ii) IRI 2.3: The frequency   (ii) IRI 3.1: The target
+
+                   completed by DoR on           changed from annual           increased from 5,000
+
+                   the design of                 to within Program             m to 5,700 m.
+
+                   advanced bridges for          closing date.           (iii) IRI 3.2: The target
+
+                   improved resilience     (iii) IRI 3.1: The target           increased from 7,300
+
+                   and inclusion’                increased from 4,500          m to 8,565 m.
+
+                                                 m to 5,000 m.           (iv) IRI 4.2: The target
+
+             (ii) IRI 3.2: The target
+
+                                           (iv) IRI 3.2: The target            decreased from
+
+                   increased from 5,000
+
+                                                 increased from 6,500          2,000 to 1,000
+
+                   m to 6,500 m.
+
+                                                 m to 7,300 m.                 people.
+
+             (iii) IRI 3.3: target
+
+                                           (v) IRI 4.2: The target
+
+                   reduced from 6,000
+
+                                                 decreased from 5,000
+
+                   m to 4,400 m                  people to 2,000
+
+             (iv) IRI 4.1: Definition of         people.
+
+                   indicator changed as
+
+                   ‘Responsiveness to
+
+                   bridges related
+
+                   complaints through
+
+                   the D R’s Grievance
+
+                   Redress Mechanism’
+
+PDO 2        n.a.                          Target reduced from 10        Target reduced from 4 to     Due to changes in the IPF 3
+
+                                           to 4 number of advanced       2 number of advanced         target.
+
+                                           bridge designs.               bridge designs
+
+PDO 3        n.a.                          Dropped.                      n.a.                         Due to unclear
+
+                                                                                                      methodology to measure
+
+                                                                                                      the PDO result.
+
+PAP          Revised deadlines for         Revised several technical,    n.a.                         To adjust the activities
+
+             several actions               fiduciary, and E&S                                         targets based on the
+
+                                           actions.                                                   implementation progress of
+
+                                                                                                      the PAP.
+
+Financing    n.a.                          n.a.                          Amendment to the             To accommodate additional
+
+Agreement                                                                Financing Agreement,         budget heads to allow
+
+                                                                         with 5 additional GoN’s      disbursements under the
+
+                                                                         budget heads eligible for    Program
+
+                                                                         disbursement under the
+
+                                                                         Program.
+
+
+
+
+
+
+
+
+
+                                                                                                                             Page 37
+
+             The World Bank
+
+             Second Bridges Improvement and Maintenance Program (P161929)                                           ICR DOCUMENT
+
+
+
+
+
+
+
+ANNEX 6. IPF ACTIVITIES STATUS
+
+
+
+Subcomponent                       Description                                                 Status
+
+     IPF 1          Preparations for future projects on the SRN   • Dropped due to delay in procurement.
+
+     IPF 2                  Technical auditing by NVC             • NVC conducted technical audits for construction of new
+
+                                                                    bridges, maintenance bridges, and road safety upgrades on
+
+                                                                    bridges.
+
+                                                                  • 2 province-level orientations on technical audit were carried
+
+                                                                    out at Butwal and Surkhet.
+
+                                                                  • 20 auditors were trained in technical auditing.
+
+     IPF 3            Advanced bridge designs for enhanced        • Two advanced bridge designs for the Narayani and Bijaypur
+
+                            resilience and inclusion                bridges were prepared with the mentorship of International
+
+                                                                    Individual Bridge Expert Consultant.
+
+                                                                  • Various studies, including geotechnical, hydrological, and E&S,
+
+                                                                    were completed on these two bridges during the preparation
+
+                                                                    of the designs.
+
+                                                                  • The DATC organized three different trainings/workshops for
+
+                                                                    the advanced bridge design (October 2023, Dec 2023, and May
+
+                                                                    2024). A total of 54 participants were trained in advanced
+
+                                                                    bridge design.
+
+     IPF 4          Training (domestic and international) and     • The DoR conducted the first annual staff sur.
+
+                              capacity development                • 1,051 participants were trained in 37 different events of
+
+                                                                    training and capacity development activities related to
+
+                                                                    technical, social, environmental, and fiduciary.
+
+     IPF 5             Supervision oversight consultancies        • Incomplete. Due to the delay in floating the procurement
+
+                                                                    notices and inadequate presence of consulting services in the
+
+                                                                    market to commence the required tasks. The procurement of
+
+                                                                    the International Bridge Expert and Local Bridge Expert was
+
+                                                                    completed and valuable inputs were provided on reviewing
+
+                                                                    the inclusive designs and preparing concept design of
+
+                                                                    advanced bridges.
+
+     IPF 6          Mobilization, equipage, and development       • The DATC committee was formed with 17 core team
+
+                                   of the DATC                      members, out of which 7 were female (41%).
+
+                                                                  • The DATC equipped with necessary software such as MIDAS,
+
+                                                                    sophisticated laptops, computers, smartboards, and furniture.
+
+                                                                  • Progressive functioning of the DATC resulted in capacity
+
+                                                                    building of public and private sectors in terms of growing
+
+                                                                    knowledge in advanced technology bridge designs.
+
+                                                                  • Three training programs were conducted by the DATC on
+
+                                                                    advanced bridges preparation.
+
+     IPF 7          Support for OHS and DoR implementation        • OHS policy, guidelines, and manuals were developed.
+
+                          of Nepal’s abor Act 201                 • OHS validation was completed.
+
+                                                                  • The ESMF was updated.
+
+     IPF 8           Contingency funding for verification past    • The SDC continued to support third-party verification to the
+
+                                     year 3                         NPC. Contingency funds were reallocated.
+
+     IPF 9          Program Impact Evaluation data collection     • The baseline survey was completed for Impact Evaluation of
+
+                                                                    150 bridges.
+
+
+
+
+
+
+
+                                                                                                                              Page 38
+
+            The World Bank
+
+            Second Bridges Improvement and Maintenance Program (P161929)                                              ICR DOCUMENT
+
+
+
+
+
+
+
+ ANNEX 7. BIMP: KEY ACHIEVEMENTS AND LEARNINGS
+
+ PDO: To provide safe, reliable and cost-effective bridges on Nepal’s Strategic Roads Network.
+
+ PDO-Level Indicators        Key Activities             Achievements             Key Lessons of BIMP          Lessons Integrated into
+
+                                                                                                                       BIMP-II
+
+                        DLI 1: Major              81.2%. Total number of    (i) Poor quality of bridge     (i) Use of BSMS on Program
+
+(i) PDO 1: Improved
+
+                        maintenance               bridges in good or fair   construction. Need for         site for enhanced field-level
+
+condition of bridges
+
+                        (Achieved: 16,139 m)      condition: 1,387 numbers, strengthened monitoring        monitoring and
+
+on SRN
+
+                        DLI 2: Minor                                        and supervision mechanism
+
+                                                  out of total existing 1,709                              supervision; IPF support for
+
+(ii) PDO 2: Increased   Maintenance               bridges.                  to ensure quality of           supervision oversight
+
+share of bridges on     (Achieved: 10,729 m)                                physical works.                consultancies; NVC for
+
+SRN meeting             DLI 3: New construction                             (ii) Regulatory and            technical auditing.
+
+minimum loading         (Achieved: 6,618 m)                                 documentation issues.          (ii) Development and
+
+requirements                                                                Need for regulations and       approval of SBD and
+
+                                                                            development of standard        guidelines.
+
+                        DLI 4: Strengthening    Reduced to 1%. Total        documents to ensure            (iii) Program activities to
+
+(iii) PDO 3: Strengthen
+
+                        performance             number of bridges in        effectiveness of the DB        generate from BMS
+
+performance
+
+                        management in the       unsafe condition: 17 (total contract approach.             prioritized list considering
+
+management in the
+
+                        bridge sector           existing 1,709 bridges).    (iii) Political and            data on condition, detour
+
+bridge sector
+
+                        (Achieved: 63 % of                                  environmental factors.         times, and beneficiary
+
+                        bridge works completed                              Bridge construction            population served.
+
+                        on planned scheduled)                               activities being affected by   (iv) Use of IPF support to
+
+                        DLI 5: Improved bridge                              political instability, which   hire international
+
+                        asset management                                    prevented the government       engineering inputs, provide
+
+                        (Achieved: BMS fully                                from defining clear and        trainings, and share
+
+                        operational in all                                  coherent priorities for road   international best practices
+
+                        divisions/regional                                  and bridge construction.       regarding climate resilience
+
+                        offices)                                            (iv) Implementation            and OHS.
+
+                        DLI 6: Increase                                     challenges. Integration of     (v) IPF support for
+
+                        effectiveness of the                                international bridge           establishment and
+
+                        institution responsible                             expertise is necessary to      mobilization of the DATC
+
+                        for bridge sector                                   deploy international bridge    that focuses on advancing
+
+                        management                                          engineering approaches to      capabilities.
+
+                        (Achieved: GRM                                      improve Program                (vi) IPF support to develop
+
+                        implemented in the DoR                              effectiveness.                 guidelines, policy, and
+
+                        and report disclosed)                               (v) Pioneering advance         manual on OHS.
+
+                                                                            technology. Long-term          (vii) Implementation of the
+
+                                                                            plan for sustainability of     GRM system and tracking
+
+                                                                            shift toward modern bridge     of the DoR’s response time
+
+                                                                            technology to take root.       on grievances received.
+
+                                                                            (vi) OHS. Poor OHS
+
+                                                                            practices/standards and
+
+                                                                            worksite practices,
+
+                                                                            resulting in fatal incidents
+
+                                                                            in construction sites.
+
+                                                                            (vii) Citizen engagement
+
+                                                                            (CE). Need for enhanced
+
+                                                                            CE, including design &
+
+                                                                            operationalization of GRM.
+
+
+
+
+
+
+
+                                                                                                                                 Page 39
+
+

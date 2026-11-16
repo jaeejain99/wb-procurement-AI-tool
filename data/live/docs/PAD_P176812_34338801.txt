@@ -1,0 +1,4367 @@
+                                            FOR OFFICIAL USE ONLY
+
+
+
+                                                                                              Report No: PAD00080
+
+
+
+
+
+                                INTERNATIONAL DEVELOPMENT ASSOCIATION
+
+
+
+
+
+                                       PROJECT APPRAISAL DOCUMENT
+
+
+
+                                                       ON
+
+
+
+                                A PROPOSED SCALE-UP WINDOW CREDIT
+
+                  IN THE AMOUNT OF JPY 62,774 MILLION (EQUIVALENT TO US$400 MILLION)
+
+
+
+                                                        A
+
+
+
+                       PROPOSED SCALE-UP WINDOW SHORTER MATURITY LOAN CREDIT
+
+                   IN THE AMOUNT OF SDR 113.9 MILLION (EQUIVALENT TO US$150 MILLION)
+
+
+
+                                                      AND A
+
+
+
+                                           PROPOSED CREDIT
+
+                   IN THE AMOUNT OF SDR 75.9 MILLION (EQUIVALENT TO US$100 MILLION)
+
+
+
+                                                     TO THE
+
+
+
+                                      PEOPLE’S REPUBLIC OF BANGLADESH
+
+
+
+                                                      FOR A
+
+
+
+                       BAY TERMINAL MARINE INFRASTRUCTURE DEVELOPMENT PROJECT
+
+                                              June 6, 2024
+
+
+
+    Transport Global Practice
+
+    South Asia Region
+
+
+
+
+
+
+
+This document has a restricted distribution and may be used by recipients only in the performance of their official
+
+duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+             CURRENCY EQUIVALENTS
+
+        Exchange Rate Effective April 30, 2024
+
+
+
+             Currency Unit = Bangladeshi Taka (BDT)
+
+
+
+              BDT 108.115 = US$1
+
+               JPY 156.915 = US$1
+
+
+
+                US$1.3179 = SDR1
+
+
+
+                     FISCAL YEAR
+
+                   July 1 − June 30
+
+
+
+
+
+
+
+
+
+Regional Vice President: Martin Raiser
+
+     Regional Director: Pankaj Gupta
+
+      Country Director: Abdoulaye Seck
+
+     Practice Manager: Fei Deng
+
+  Task Team Leader(s): Hua Tan, Cheick Omar Tidiane Diallo
+
+                      ABBREVIATIONS AND ACRONYMS
+
+
+
+AM      Accountability Mechanism
+
+BBIN    Bangladesh-Bhutan-India-Nepal
+
+CCDR    Country Climate and Development Report
+
+CD      Chart Datum
+
+CERC    Con�ngent Emergency Response Component
+
+COE     Center of Excellence
+
+CPA     Chitagong Port Authority
+
+CPF     Country Partnership Framework
+
+CPPI    Container Port Performance Index
+
+CRI     Corporate Results Indicator
+
+CT 1    Container Terminal 1
+
+CT 2    Container Terminal 2
+
+DA      Designated Account
+
+E&S     Environmental and Social
+
+EIA     Environmental Impact Assessment
+
+EIRR    Economic Internal Rate of Return
+
+ESF     Environmental and Social Framework
+
+ESCP    Environmental and Social Commitment Plan
+
+ESIA    Environmental and Social Impact Assessment
+
+ESMP    Environmental and Social Management Plan
+
+ESTP    Environmental and Social Training Plan
+
+FA      Financing Agreement
+
+FAPAD   Foreign Aided Project Audit Directorate
+
+FIRR    Financial Internal Rate of Return
+
+FM      Financial Management
+
+GBV     Gender-Based Violence
+
+GDP     Gross Domes�c Product
+
+GoB     Government of Bangladesh
+
+GRM     Grievance Redress Mechanism
+
+GRS     Grievance Redress Service
+
+IDA     Interna�onal Development Associa�on
+
+IFC     Interna�onal Finance Corpora�on
+
+ITO     Interna�onal Terminal Operator
+
+IUFR    Interim Unaudited Financial Report
+
+JICA    Japan Interna�onal Coopera�on Agency
+
+LMP     Labor Management Procedures
+
+LRP     Livelihood Restora�on Plan
+
+MoS     Ministry of Shipping
+
+MPT     Mul�-Purpose Terminal
+
+MTR    Midterm Review
+
+NDC    Na�onally Determined Contribu�on
+
+NPV    Net Present Value
+
+O&G    Oil and Gas
+
+PAP    Project-Aﬀected Person
+
+PARC   Project Audit Review Commitee
+
+PBC    Performance-Based Condi�on
+
+PCE    Private Capital Enabled
+
+PCT    Patenga Container Terminal
+
+PD     Project Director
+
+PDO    Project Development Objec�ve
+
+PIC    Project Implementa�on Commitee
+
+PIU    Project Implementa�on Unit
+
+POM    Project Opera�ons Manual
+
+PPP    Public-Private Partnership
+
+PPSD   Project Procurement Strategy for Development
+
+RAP    Resetlement Ac�on Plan
+
+RFP    Request for Proposal
+
+RMG    Ready-Made Garment
+
+SEA    Sexual Exploita�on and Abuse
+
+SEP    Stakeholder Engagement Plan
+
+SH     Sexual Harassment
+
+SPD    Standard Procurement Document
+
+SML    Shorter Maturity Loan
+
+SUW    Scale-Up Window
+
+TEU    Twenty-Foot Equivalent Unit
+
+ToR    Terms of Reference
+
+VTMS   Vessel Traﬃc Management System
+
+WACC   Weighted Average Cost of Capital
+
+The World Bank
+
+Bay Terminal Marine Infrastructure Development Project (P176812)
+
+
+
+
+
+
+
+                                                            TABLE OF CONTENTS
+
+
+
+DATASHEET ........................................................................................................................... i
+
+I.    STRATEGIC CONTEXT ..................................................................................................... 1
+
+      A. Country Context ...............................................................................................................................1
+
+      B. Sectoral and Institutional Context ...................................................................................................2
+
+      C. Relevance to Higher Level Objectives ..............................................................................................5
+
+II.   PROJECT DESCRIPTION .................................................................................................. 7
+
+      A. Project Development Objective .......................................................................................................7
+
+      B. Project Components ........................................................................................................................7
+
+      C. Project Beneficiaries ........................................................................................................................9
+
+      D. Results Chain....................................................................................................................................9
+
+      E. Rationale for Bank Involvement and Role of Partners ...................................................................10
+
+      F. Lessons Learned and Reflected in the Project Design....................................................................11
+
+III. IMPLEMENTATION ARRANGEMENTS ........................................................................... 12
+
+      A. Institutional and Implementation Arrangements ..........................................................................12
+
+      B. Results Monitoring and Evaluation Arrangements ........................................................................12
+
+      C. Sustainability ..................................................................................................................................12
+
+IV. PROJECT APPRAISAL SUMMARY .................................................................................. 13
+
+      A. Technical, Economic, and Financial Analysis .................................................................................13
+
+      B. Fiduciary .........................................................................................................................................16
+
+      C. Legal Operational Policies ..............................................................................................................18
+
+      D. Environmental and Social ..............................................................................................................18
+
+      E. Gender ............................................................................................................................................20
+
+      F. Citizen Engagement ........................................................................................................................21
+
+V.    GRIEVANCE REDRESS SERVICES .................................................................................... 21
+
+VI. KEY RISKS .................................................................................................................... 22
+
+VII. RESULTS FRAMEWORK AND MONITORING .................................................................. 24
+
+ANNEX 1: Implementation Arrangements and Support Plan ................................................ 29
+
+      The World Bank
+
+      Bay Terminal Marine Infrastructure Development Project (P176812)
+
+
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padbasicinformation#doctemplate
+
+DATASHEET
+
+
+
+
+
+BASIC INFORMATION
+
+
+
+
+
+Project
+
+                         Operation Name
+
+Beneficiary(ies)
+
+Bangladesh               Bay Terminal Marine Infrastructure Development Project
+
+                                                    Environmental and Social Risk
+
+Operation ID             Financing Instrument
+
+                                                    Classification
+
+                         Investment Project
+
+P176812                                             High
+
+                         Financing (IPF)
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padprocessing#doctemplate
+
+Financing & Implementation Modalities
+
+[ ] Multiphase Programmatic Approach (MPA)                    [✓] Contingent Emergency Response Component (CERC)
+
+[ ] Series of Projects (SOP)                                  [ ] Fragile State(s)
+
+[ ] Performance-Based Conditions (PBCs)                       [ ] Small State(s)
+
+[ ] Financial Intermediaries (FI)                             [ ] Fragile within a non-fragile Country
+
+[ ] Project-Based Guarantee                                   [ ] Conflict
+
+[ ] Deferred Drawdown                                         [ ] Responding to Natural or Man-made Disaster
+
+[ ] Alternative Procurement Arrangements (APA)                [ ] Hands-on Expanded Implementation Support (HEIS)
+
+
+
+
+
+Expected Approval Date                Expected Closing Date
+
+28-Jun-2024                           30-Jun-2031
+
+Bank/IFC Collaboration                Joint Level
+
+Yes                                   Complementary or Interdependent project requiring active coordination
+
+
+
+
+
+Proposed Development Objective(s)
+
+To enable the mobilization of private investment for the primary gateway port of Bangladesh and increase its operation
+
+efficiency.
+
+
+
+Components
+
+ Component Name                                                                                           Cost (US$)
+
+
+
+                                                                                                                       i
+
+        The World Bank
+
+        Bay Terminal Marine Infrastructure Development Project (P176812)
+
+
+
+
+
+ Support Port Marine Civil Infrastructure, Equipment, and Navigation System
+
+                                                                                     832,000,000.00
+
+ Development
+
+ Support Port Efficiency Improvements and Capacity Development                        15,000,000.00
+
+ Contingency Emergency Response                                                                0.00
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padborrower#doctemplate
+
+Organizations
+
+Borrower:                          People's Republic of Bangladesh
+
+Implementing Agency:               Chittagong Port Authority, Ministry of Shipping
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padfinancingsummary#doctemplate
+
+PROJECT FINANCING DATA (US$, Millions)
+
+
+
+
+
+Maximizing Finance for Development
+
+
+
+Is this an MFD-Enabling Project (MFD-EP)?                      Yes
+
+
+
+Is this project Private Capital Enabling (PCE)?                Yes
+
+
+
+SUMMARY
+
+
+
+  Total Operation Cost                                                                    2,477.00
+
+
+
+  Total Financing                                                                         2,285.00
+
+               of which IBRD/IDA                                                            650.00
+
+
+
+  Financing Gap                                                                             192.00
+
+
+
+DETAILS
+
+Private Sector Investors/Shareholders
+
+
+
+Equity                                          Amount         Debt                     Amount
+
+
+
+   Government Contribution                           655.00       Commercial Debt           1,016.50
+
+
+
+        Government Resources                            5.00          Unguaranteed          1,016.50
+
+
+
+        IDA                                          650.00
+
+
+
+   Non-Government Contribution                       613.50
+
+
+
+        Private sector Equity                        613.50
+
+
+
+Total                                              1,268.50                                 1,016.50
+
+
+
+                                                                                                     ii
+
+        The World Bank
+
+        Bay Terminal Marine Infrastructure Development Project (P176812)
+
+
+
+
+
+IDA Resources (US$, Millions)
+
+
+
+                                                                                           Guarantee
+
+                          Credit Amount      Grant Amount          SML Amount                              Total Amount
+
+                                                                                             Amount
+
+
+
+National
+
+Performance-Based                  100.00              0.00                 0.00                0.00             100.00
+
+Allocations (PBA)
+
+
+
+Scale-Up Window
+
+                                   400.00              0.00              150.00                 0.00             550.00
+
+(SUW)
+
+
+
+Total                              500.00              0.00              150.00                 0.00             650.00
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@paddisbursementprojection#doctemplate
+
+Expected Disbursements (US$, Millions)
+
+WB Fiscal
+
+Year              2024          2025        2026        2027           2028            2029       2030          2031
+
+
+
+Annual            0.00          2.00        2.00       100.00         175.00           200.00     145.00        26.00
+
+Cumulativ
+
+e                 0.00          2.00        4.00       104.00         279.00           479.00     624.00        650.00
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padclimatechange#doctemplate
+
+PRACTICE AREA(S)
+
+
+
+
+
+Practice Area (Lead)                                          Contributing Practice Areas
+
+Transport
+
+
+
+CLIMATE
+
+
+
+
+
+Climate Change and Disaster Screening
+
+Yes, it has been screened and the results are discussed in the Operation Document
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padrisk#doctemplate
+
+SYSTEMATIC OPERATIONS RISK- RATING TOOL (SORT)
+
+
+
+
+
+Risk Category                                                                 Rating
+
+
+
+                                                                                                                        iii
+
+      The World Bank
+
+      Bay Terminal Marine Infrastructure Development Project (P176812)
+
+
+
+
+
+1. Political and Governance                                                  Moderate
+
+2. Macroeconomic                                                             Moderate
+
+3. Sector Strategies and Policies                                            Substantial
+
+4. Technical Design of Project or Program                                    High
+
+5. Institutional Capacity for Implementation and Sustainability              Substantial
+
+6. Fiduciary                                                                 Substantial
+
+7. Environment and Social                                                    High
+
+8. Stakeholders                                                              Substantial
+
+9. Other                                                                     Substantial
+
+10. Overall                                                                  Substantial
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padcompliance#doctemplate
+
+POLICY COMPLIANCE
+
+
+
+
+
+Policy
+
+Does the project depart from the CPF in content or in other significant respects?
+
+[ ] Yes    [✓] No
+
+
+
+Does the project require any waivers of Bank policies?
+
+[ ] Yes [✓] No
+
+
+
+
+
+
+
+ENVIRONMENTAL AND SOCIAL
+
+
+
+
+
+Environmental and Social Standards Relevance Given its Context at the Time of Appraisal
+
+E & S Standards                                                                     Relevance
+
+ESS 1: Assessment and Management of Environmental and Social Risks and
+
+                                                                                    Relevant
+
+Impacts
+
+ESS 10: Stakeholder Engagement and Information Disclosure                           Relevant
+
+ESS 2: Labor and Working Conditions                                                 Relevant
+
+ESS 3: Resource Efficiency and Pollution Prevention and Management                  Relevant
+
+ESS 4: Community Health and Safety                                                  Relevant
+
+ESS 5: Land Acquisition, Restrictions on Land Use and Involuntary Resettlement      Relevant
+
+ESS 6: Biodiversity Conservation and Sustainable Management of Living Natural
+
+                                                                                    Relevant
+
+Resources
+
+                                                                                                iv
+
+       The World Bank
+
+       Bay Terminal Marine Infrastructure Development Project (P176812)
+
+
+
+
+
+ESS 7: Indigenous Peoples/Sub-Saharan African Historically Underserved
+
+                                                                                      Relevant
+
+Traditional Local Communities
+
+ESS 8: Cultural Heritage                                                              Relevant
+
+ESS 9: Financial Intermediaries                                                       Not Currently Relevant
+
+NOTE: For further information regarding the World Bank’s due diligence assessment of the Project’s potential
+
+environmental and social risks and impacts, please refer to the Project’s Appraisal Environmental and Social Review
+
+Summary (ESRS).
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padlegalcovenants#doctemplate
+
+LEGAL
+
+Legal Covenants
+
+Sections and Description
+
+(Section I.A.1 of Schedule 2 to the Financing Agreement [FA]) No later than three (3) months after the Effective Date,
+
+the Recipient, shall establish and thereafter maintain throughout the period of implementation of the Project, a Project
+
+Steering Committee with a mandate, composition and resources satisfactory to the Association to oversee the Project.
+
+Without limitation on the foregoing, the Project Steering Committee shall be chaired by the Secretary of Shipping, and
+
+shall meet twice a year or as frequently as necessary to: (a) review the overall progress of the Project and provide
+
+strategic and policy direction on all activities under the Project; and (b) facilitate the coordination of Project activities
+
+among the members of the PSC and address any obstacle facing the implementation of the Project.
+
+(Section I.A.2 of Schedule 2 to the FA) The Recipient shall cause the Project Implementing Entity to establish within
+
+three (3) months of the Effective Date and maintain throughout the period of implementation of the Project, the
+
+Project Implementation Committee (PIC), with the composition, mandate, functions, staffing and resources satisfactory
+
+to the Association. Without limitation on the foregoing, the PIC shall: (a) be chaired by the chairman of the Project
+
+Implementing Entity; and (b) be responsible for coordinating the Project Implementing Entity’s activities under the
+
+Project.
+
+(Section I.B.1 of Schedule 2 to the FA) To facilitate the carrying out of the Project, the Recipient shall make the proceeds
+
+of the Credit available to the Project Implementing Entity under a subsidiary agreement between the Recipient and the
+
+Project Implementing Entity, under terms and conditions approved by the Association, which shall include obligation of
+
+the Recipient to provide to the Project Implementing Entity the Financing specified in Article II, Section 2.01 of this
+
+Agreement (“Subsidiary Agreement”).
+
+(Section I.B.2 of Schedule 2 to the FA) The Recipient shall exercise its rights under the Subsidiary Agreement in such
+
+manner as to protect the interests of the Recipient and the Association and to accomplish the purposes of the Credit.
+
+Except as the Association shall otherwise agree, the Recipient shall not assign, amend, abrogate or waive the Subsidiary
+
+Agreement or any of its provisions.
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padconditions#doctemplate
+
+Conditions
+
+Type                              Citation                      Description                     Financing Source
+
+                                                                The Subsidiary Agreement
+
+Effectiveness                     Article 8.01.a                has been executed on            IBRD/IDA
+
+                                                                behalf of the Recipient and
+
+
+
+                                                                                                                           v
+
+     The World Bank
+
+     Bay Terminal Marine Infrastructure Development Project (P176812)
+
+
+
+
+
+                                                          CPA and all conditions
+
+                                                          precedent to its
+
+                                                          effectiveness or to the right
+
+                                                          of CPA to make
+
+                                                          withdrawals under it (other
+
+                                                          than the effectiveness of
+
+                                                          this Agreement) have been
+
+                                                          fulfilled.
+
+                                                          The Project Operations
+
+                                                          Manual, in a form and
+
+                                                          substance satisfactory to
+
+Effectiveness               Article 8.01.b                the Association has been         IBRD/IDA
+
+                                                          adopted and put into effect
+
+                                                          by the Project
+
+                                                          Implementing Entity.
+
+                                                          The Recipient shall have
+
+                                                          caused the Project
+
+                                                          Implementing Entity to
+
+                                                          have established a Project
+
+                                                          Implementation Unit
+
+                                                          (“PIU”), with a mandate,
+
+                                                          functions and resources
+
+Effectiveness               Article 8.01.c                                                 IBRD/IDA
+
+                                                          satisfactory to the
+
+                                                          Association, and with staff
+
+                                                          in adequate numbers and
+
+                                                          with qualifications,
+
+                                                          experience and terms of
+
+                                                          reference satisfactory to
+
+                                                          the Association.
+
+                                                          The Feasibility Study report,
+
+                                                          together with the updated
+
+                                                          procurement plan and the
+
+                                                          construction plan for the
+
+                                                          Bay Terminal based on this
+
+Effectiveness               Article 8.01.d                                                 IBRD/IDA
+
+                                                          Feasibility Study has been
+
+                                                          shared by the Project
+
+                                                          Implementing Entity and
+
+                                                          found acceptable by the
+
+                                                          Association.
+
+                                                          Notwithstanding the
+
+                                                          provisions of Section III.A of
+
+                            Section 3.B.1.b of Schedule
+
+Disbursement                                              Schedule 2 to the FA, no         IBRD/IDA
+
+                            2
+
+                                                          withdrawal shall be made
+
+                                                          for payments under
+
+
+
+                                                                                                      vi
+
+     The World Bank
+
+     Bay Terminal Marine Infrastructure Development Project (P176812)
+
+
+
+
+
+                                                          Category (1) from the Non-
+
+                                                          Concessional Credit and the
+
+                                                          Concessional Credit, unless
+
+                                                          and until the
+
+                                                          Recipient/Project
+
+                                                          Implementing Entity
+
+                                                          provides evidence that the
+
+                                                          RFP has been issued with
+
+                                                          draft concession
+
+                                                          agreement for selection of
+
+                                                          an ITO for the operation of
+
+                                                          at least one of the
+
+                                                          Container Terminals.
+
+                                                          Notwithstanding the
+
+                                                          provisions of Section III.A of
+
+                                                          Schedule 2 to the FA, no
+
+                                                          withdrawal shall be made
+
+                                                          for Emergency
+
+                                                          Expenditures under
+
+                                                          Category (3) from the Non-
+
+                                                          Concessional Credit and the
+
+                                                          Concessional Credit, unless
+
+                                                          and until, all of the
+
+                                                          following conditions have
+
+                                                          been met in respect of said
+
+                                                          expenditures: (i) (A) the
+
+                                                          Recipient has determined
+
+                                                          that an Eligible Crisis or
+
+                            Section 3.B.1.c of Schedule
+
+Disbursement                                              Emergency has occurred,          IBRD/IDA
+
+                            2
+
+                                                          and has furnished to the
+
+                                                          Association a request to
+
+                                                          withdraw the Financing
+
+                                                          amounts under Category
+
+                                                          (3); and (B) the Association
+
+                                                          has agreed with such
+
+                                                          determination, accepted
+
+                                                          said request and notified
+
+                                                          the Recipient thereof; and
+
+                                                          (ii) the Recipient has
+
+                                                          adopted the CERC Manual
+
+                                                          and Emergency Action
+
+                                                          Plan, in form and substance
+
+                                                          acceptable to the
+
+                                                          Association.
+
+
+
+                                                                                                      vii
+
+The World Bank
+
+Bay Terminal Marine Infrastructure Development Project (P176812)
+
+
+
+
+
+
+
+
+
+                                                                   viii
+
+         The World Bank
+
+         Bay Terminal Marine Infrastructure Development Project (P176812)
+
+
+
+
+
+
+
+    I.     STRATEGIC CONTEXT
+
+
+
+
+
+    A. Country Context
+
+
+
+1.      Bangladesh experienced rapid social and economic progress in recent decades, reaching lower middle-income
+
+status in 2015. Stable macroeconomic conditions drove 6.4 percent average annual real Gross Domestic Product (GDP)
+
+growth between 2010 and 2022. Over the same period, poverty and extreme poverty declined by 19.6 and 6.8 percentage
+
+points to 30 percent and 5 percent, respectively. 1 However, the pace of poverty reduction slowed, and urban inequality
+
+has widened.
+
+
+
+2.        Bangladesh navigated the COVID-19 pandemic shock with prudent macroeconomic policies, but now faces a
+
+persistent balance of payments deficit and rising inflationary pressure. Import suppression measures narrowed the trade
+
+deficit in the first half of FY24, moving the current account into surplus. However, a financial account deficit has widened,
+
+driven by a contraction in net trade credit and medium and long-term loans. Domestic policies exacerbated the impacts
+
+of external pressure, including the continued use of multiple exchange rates. As of April 2024, gross international reserves
+
+declined to US$ 19.9 billion (3.3 months of prospective imports). Authorities requested support to restore external
+
+balance, including an IMF program approved in January 2023. Inflation remained elevated at 9.8 percent in March 2024,
+
+driven in part by increased administered fuel and electricity prices and depreciation of the taka.
+
+
+
+3.      The fiscal deficit stood at 4.4 percent of GDP in FY23. Tax revenues remained among the lowest in the world at
+
+an estimated 7.3 percent of GDP in FY23. Expenditure growth accelerated with higher subsidy spending as a result of
+
+elevated commodity prices, while revenues declined with lower imports. Capital expenditure was led by infrastructure
+
+megaprojects, with rationalization of other projects in FY23 to slow the growth of the budget deficit.
+
+
+
+4.      Real GDP growth is expected to decelerate to 5.6 percent in FY24 before returning gradually to its long-term
+
+trend. Inflation is projected to remain elevated in the near term and gradually subside with monetary policy tightening
+
+and import price stabilization over the medium term. External sector pressure will ease gradually, supported by resilient
+
+export growth and ongoing import restrictions. The fiscal deficit is expected to remain within 5.0 percent of GDP, with a
+
+moderate increase in revenues. However, downside risks are rising. Import restrictions may result in disruptive gas and
+
+power shortages that dampen growth. The pace of monetary and exchange rate reforms may be insufficient, leading to
+
+persistent inflation and further depletion of FX reserves. Financial sector vulnerabilities may widen if enhanced asset
+
+measurement, supervision, and enforcement measures are delayed.
+
+
+
+5.       Structural reforms are needed to support a faster pace of growth over the medium term. Priorities to reach
+
+upper middle-income status by 2031 include building a competitive business environment, diversifying exports, increasing
+
+human capital, building efficient infrastructure, deepening the financial sector, and attracting private investment. These
+
+reforms will support international competitiveness as Bangladesh prepares for graduation from the Least Developed
+
+Country (LDC) status in 2026, which will gradually lead to reduced concessional financing and preferential market access
+
+for its exports.
+
+
+
+6.     Bangladesh is at low risk of overall and external debt distress in the January 2023 joint IMF-World Bank Debt
+
+Sustainability Assessment. Bangladesh is not currently subject to Debt Limits Conditionality under the Sustainable
+
+Development Finance Policy. In its most recent Staff Report, the IMF stressed the need for Bangladesh to accelerate its
+
+
+
+1Based on the international poverty line of US$ 3.65 and US$ 2.15 per day (using 2017 purchasing power parity) for poverty and extreme poverty,
+
+respectively.
+
+
+
+                                                                                                                                         Page 1
+
+           The World Bank
+
+           Bay Terminal Marine Infrastructure Development Project (P176812)
+
+
+
+
+
+ambitious reform agenda to achieve a more resilient, inclusive, and sustainable growth, requiring substantial investments
+
+in human capital and infrastructure.
+
+
+
+7.       Bangladesh faces a high level of vulnerability to the effects of climate change. The Global Climate Risk Index
+
+ranks it as the seventh most affected country in 2000-2019, 2 with high susceptibility to extreme weather events such as
+
+cyclones, floods, and storm surges. Recurring flooding in Bangladesh affects a greater population than any other natural
+
+hazard, impacting more than 1 million people annually. Once every three to five years, up to two-thirds of the country is
+
+inundated by floods. Addressing these climate risks will support sustainable economic development and prevent
+
+vulnerable populations from being left behind.
+
+
+
+ B. Sectoral and Institutional Context
+
+
+
+8.      The transport and logistics system of Bangladesh is characterized by high cost, high emissions, high dependency
+
+on roads, and weak multimodal connectivity. It is undermined by a weak policy environment, hampering the efficiency
+
+of customs and border management. Logistic costs are high in most sectors and account for up to 48 percent of sales. The
+
+transport system, which experiences extreme congestion and relies heavily on fossil fuels, contributes to 15 percent of
+
+the country’s greenhouse gas emissions and accounts for 65 percent of fossil fuel consumption according to the
+
+Bangladesh Country Climate and Development Report (CCDR, 2022). These challenges result in high trade costs,
+
+constraining Bangladesh from playing a more active role in regional integration as seen by its low levels of trade with its
+
+neighboring countries. Bangladesh can increase exports by 20 percent along with a corresponding increase in real wages
+
+by reducing logistics costs by 25 percent. 3
+
+
+
+9.       Bangladesh’s economic growth significantly depends on its maritime capacity and connectivity. The viability of
+
+the ready-made garments (RMG) sector, which accounts for over 80 percent of the country’s total exports and employs
+
+more than half of its manufacturing workforce, is underpinned by maritime access to its primary markets in Europe and
+
+North America. Substantial efforts to modernize port infrastructure and associated services are thus critical, not only to
+
+sustain the country’s export competitiveness but also to meet its growing need for manufacturing inputs and to satisfy
+
+the rising consumption levels of its population.
+
+
+
+10.      Bangladesh’s capacity for international trade depends on Chittagong 4 Port, which faces significant capacity
+
+constraints. Chittagong Port is Bangladesh’s principal seaport and gateway to global trade, handling over 90 percent of
+
+the country’s international trade volume and 98 percent of container traffic. Despite an initial design capacity of only 1.7
+
+million twenty-foot equivalent units (TEUs) annually, the port’s capacity has been continuously stretched, reaching 3.26
+
+million TEUs in 2022. This extreme demand-capacity imbalance has resulted in severe congestion (including high berth
+
+occupancy rates) and operational inefficiencies. As a result, vessels face prolonged anchorage wait times of two to seven
+
+days, unreliable berthing schedules, and average turnaround times of five days, in stark contrast to the two-day average
+
+of Indian ports.
+
+
+
+11.    The 2022 Container Port Performance Index (CPPI), which is based on the total port time of container ships,
+
+ranks Chittagong 307 out of 348 ports globally. Without expanding capacity, a significant percentage of exports will not
+
+be able to leave Bangladesh on time to meet delivery requirements, while similar delays in receiving essential
+
+manufacturing imports will disrupt production timelines. Trade and traffic trends suggest that the port’s capacity is
+
+
+
+2 German  watch (2021) Global Climate Risk Index 2021.
+
+3 Dappe, M. H., C. Kunda, M. Lebrand, and N. Weisskopt. 2020. “Moving Forward: Connectivity and Logistics to Sustain Bangladesh’s Success.”
+
+4 Chittagong is used interchangeably with Chattogram throughout the Project Appraisal Document as the city’s previous name (Chittagong) was
+
+
+
+changed to Chattogram in 2018; however, the port authority is still referred to as Chittagong Port Authority (CPA).
+
+
+
+                                                                                                                                        Page 2
+
+         The World Bank
+
+         Bay Terminal Marine Infrastructure Development Project (P176812)
+
+
+
+
+
+significantly inadequate to cater to future growth. Bangladesh’s international trade volume has grown at an annual rate
+
+of 9.5 percent over the past decade. From 2015/16 to 2021/22, container traffic growth slowed to 6.1 percent annually
+
+due to the COVID-19 pandemic, capacity constraints, and external shocks. Over the next 15 years, the annual container
+
+traffic growth is estimated at 6.4 percent.
+
+
+
+12.     The capacity constraints at Chittagong Port underpin the country’s poor maritime connectivity. As per the Liner
+
+Shipping Index of the United Nations Conference on Trade and Development, Bangladesh’s average 2022 score of 15.4
+
+compares poorly to regional peers, namely Viet Nam (79.8), Sri Lanka (71.4), India (62.6), and Pakistan (36.2), and is in the
+
+same league as countries with only a fraction of its annual trade volume. The low ranking on connectivity is partly
+
+attributable to physical constraints from the port’s location on the tidal reaches of the Karnaphuli River, such as low
+
+draught, tidal limitations, nighttime navigation restrictions, and restrictions on the overall length of vessels. The port can
+
+only receive small feeder vessels during limited hours of the day; nearly 80 percent of the total calls to the port are from
+
+feeder loops. The port’s inability to accommodate larger vessels on a 24/7 basis directly increases time and costs, making
+
+Bangladesh less competitive than countries like India and Sri Lanka that can ship directly to international markets.
+
+However, expanding Chittagong Port’s capacity to accommodate larger vessels at the existing location is not a viable
+
+option due to the significant investments required to overcome its varied natural limitations, such as a shallow bar at the
+
+entrance of the river and restrictive river channel geometry.
+
+
+
+13.      In view of the above, developing a deep-sea port at an alternative location in or near Chittagong is a clear and
+
+imperative strategy for Bangladesh to cater to its growing trade volumes in an efficient, cost-effective, safe, and resilient
+
+manner and will bolster regional integration. This strategic investment is crucial for Bangladesh’s economic future and
+
+its position in global trade, promising a significant contribution to national economic strength and global competitiveness.
+
+In addition, with Bangladesh giving access to India to use Chattogram Port for transit and cargo vessels, regional
+
+integration is further advanced. The introduction of a modern and competitive port in or near Chittagong will contribute
+
+to regional cooperation between Bangladesh, Bhutan, India, and Nepal (BBIN) and supports the provision of reliable and
+
+economical transit services for the landlocked northeast of India, Nepal, and Bhutan. Such an undertaking complements
+
+the regional infrastructure and policy improvements under the Accelerating Transport and Trade Connectivity in Eastern
+
+South Asia Program and the Bangladesh national logistics policy work, all of which support regional connectivity in the
+
+BBIN countries.
+
+
+
+14.      Beyond cargo handling capacity, the Bangladesh maritime sector is also facing other equally pressing
+
+challenges. To begin with, Bangladesh maritime ports have mostly adopted the traditional ‘tool port’ model, which limits
+
+operational flexibility and efficiency. Until late 2023, Chittagong Port was the only major port in South Asia that had not
+
+adopted a ‘landlord port’ model,5 which is crucial for attracting private investment and improving port operations. Second,
+
+limited hinterland connectivity continues to make imports and exports costly and unreliable. For example, as Bangladesh’s
+
+primary gateway port, Chittagong Port faces increasing challenges such as inadequate road networks, underdeveloped
+
+rail connections with a mode share of only 3 percent, and severe congestion, all contributing to increased logistics costs.
+
+Several World Bank-financed projects support the Government of Bangladesh (GoB) in improving the overall transport
+
+network performance. 6 Finally, the paucity of skilled labor and the limited talent pool to serve the expected exponential
+
+growth in port services impede Chittagong Port’s future growth. The current gap in staff training and professional
+
+development hinders operational efficiency, despite the significant workforce employed at the nation’s ports. Investing in
+
+
+
+5 Under the landlord model, the port authority acts as a regulatory body and as landlord, while port operations (especially cargo handling) are
+
+carried out by private companies, whereas under the tool port model, the port authority owns, develops, and maintains the port infrastructure as
+
+well as cargo-handling equipment.
+
+6 These projects are Bangladesh Regional Waterway Transport Project (P154511), Bangladesh Regional Connectivity Project 1 (P154580), Western
+
+
+
+Economic Corridor and Regional Enhancement Program (P169880), and Accelerating Connectivity in Eastern South Asia – Bangladesh Phase 1
+
+Project (P176549).
+
+
+
+                                                                                                                                          Page 3
+
+           The World Bank
+
+           Bay Terminal Marine Infrastructure Development Project (P176812)
+
+
+
+
+
+training programs is crucial for enhancing operational standards and equipping the existing workforce, as well as for
+
+developing new and larger talent pools to meet future demands and technological advancements and, ultimately, to
+
+improve the maritime sector’s growth and competitiveness.
+
+
+
+15.      The GoB’s strategic focus on maritime infrastructure aims to address these challenges through significant
+
+reforms and investments to enhance port capacity, including through private sector participation. The Government’s
+
+‘Vision 2041’ outlines comprehensive plans for the country’s seaports to adapt to changes in the international maritime
+
+sector and includes port capacity expansion, modernization, and increased private sector involvement. The Chittagong
+
+Port Authority (CPA) has initiated steps to update the port tariffs that were last set in 2008. In terms of capacity addition,
+
+the Government’s major initiatives comprise the development of a deep-sea port at Matarbari with a proposed capacity
+
+of 800,000 TEUs (with Japan International Cooperation Agency [JICA] financing), the Patenga Container Terminal (PCT) at
+
+Chittagong with a capacity of 500,000 TEUs, the new Laldia Container Terminal with a proposed capacity of 700,000 TEUs,
+
+and the Bay Terminal at Chittagong with a proposed capacity of 3.6 million TEUs. Even with these new developments, it is
+
+expected that the forecasted Bangladeshi container demand will exceed the planned container capacity by 2039/40.
+
+
+
+16.      The Bay Terminal, the GoB’s flagship initiative to expand capacity at the Port of Chittagong, represents a
+
+cornerstone in Bangladesh’s efforts to boost port capacity, operational efficiency, and climate resilience. Located in the
+
+Anandangar/Sandwip channel in the Bay of Bengal, west of the existing Chittagong riverport terminals and close to existing
+
+road and rail links to Dhaka, the Bay Terminal will accommodate larger vessels and improve cargo-handling efficiency. It
+
+comprises a Multi-Purpose Terminal (MPT) to be developed with the possible investment of an international terminal
+
+operator (ITO) and two container terminals to be developed by ITOs under the landlord model. The new terminal is a
+
+significant step toward modernizing the country’s maritime port infrastructure and improving its connectivity to
+
+international markets. It is estimated that the Bay Terminal will potentially have the potential to capture about 36 percent
+
+of Bangladesh’s container volumes from the start of operations.7 The introduction of the Bay Terminal as a modern facility
+
+to be operated by leading ITOs is projected to save the Bangladeshi economy over US$363 million annually by enhancing
+
+efficiency and reducing vessel turnaround times.
+
+
+
+17.     The Bay Terminal will be developed as a climate-resilient port to address climate vulnerability and the projected
+
+impacts of climate change on coastal infrastructure. This is in keeping with the Bangladesh Delta Plan 2100, which
+
+emphasizes the need for resilient port infrastructure to mitigate the adverse effects of climate change, ensure the
+
+continuity of operations, and facilitate response to disasters through, for example, the receipt and delivery of emergency
+
+aid. The expected adverse effects of climate change will be mitigated through proper engineering design and disaster
+
+management planning.
+
+
+
+18.      Aligned with the Bay Terminal Master Plan, the overall Bay Terminal is expected to be developed in two phases.
+
+The GoB requested World Bank financing to support a discrete but critical portion of Phase one that is to be financed
+
+by the public sector, i.e., (a) constructing the breakwater, (b) dredging the navigation channel and the port basin, and
+
+(c) installing navigation aids, and will also include institutional and capacity enhancement support (the Project). By
+
+committing instrumental first investments in public infrastructure, the World Bank will provide assurance to the private
+
+investors of proper project preparation and execution. Figure 1 illustrates the overall Bay Terminal development plan and
+
+the interrelationship between its various elements and expected two Phases.
+
+
+
+19.    Associated facilities to the IDA-financed Project in Phase one include (a) the development of connecting
+
+transportation infrastructure by the GoB, namely short road and rail connections to link the Bay Terminal to the transport
+
+network; (b) the development and operation of the MPT by a selected ITO, with the capacity to handle 6 million tons of
+
+
+
+7   Desktop review of Maritime Ports Sector (Jan 2024) by MTBS.
+
+
+
+                                                                                                                       Page 4
+
+        The World Bank
+
+        Bay Terminal Marine Infrastructure Development Project (P176812)
+
+
+
+
+
+non-containerized cargo; and (c) the development and operation of Container Terminal 1 (CT 1) with a container handling
+
+capacity of 1.82 million TEUs, based on a long-term concession to be awarded by CPA. Phase two, envisaged after the
+
+completion of Phase one and the IDA-financed Project, could see an ITO developing and operating Container Terminal 2
+
+(CT 2) with a container handling capacity of 1.82 million TEUs. Introducing ITOs at the Bay Terminal and shifting CPA’s role
+
+to a landlord model for container facilities are key reforms for Bangladesh, setting a precedent that is expected to extend
+
+to other ports.
+
+
+
+                                       Figure 1. Overall Bay Terminal Development Plan
+
+
+
+
+
+
+
+
+
+20.      This multisource funding strategy paves the way for the private investment envisioned in both phases of the
+
+overall development of the Bay Terminal. It also substantiates the economic and financial viability of these investments.
+
+The World Bank’s engagement in Phase one, together with the counterpart funding from the GoB, will bolster investor
+
+confidence and contribute to de-risking the overall Bay Terminal Development. Moreover, it ensures the overall project’s
+
+execution integrity and assures quality in the preparation of a robust design, feasibility study and risk management plans,
+
+proper execution of procurement and construction activities, and proper management of environmental and social (E&S)
+
+risks. This engagement marks a significant return of the World Bank to Bangladesh’s port sector since the last engagement
+
+in the Chittagong Port Project in 1982, which concluded in 1992 with a strong economic return, despite a delay.
+
+
+
+ C. Relevance to Higher Level Objectives
+
+
+
+21.      The Project aligns with the country’s development priorities and is consistent with the World Bank Country
+
+Partnership Framework (CPF) FY23–27 discussed by the World Bank Board of Executive Directors on April 27, 2023
+
+(Report No. 181003-BD). It supports Objective 6 of the CPF: “strengthened spatial and digital connectivity for inclusive
+
+growth” by investing in infrastructure, leveraging private sector financing, and strengthening sector governance and
+
+regulatory systems. The Project also aligns with the GoB’s Eighth Five Year Plan Core Theme 3: Building a sustainable
+
+development pathway resilient to disaster and climate change. Building resilience to climate change is also a vital step in
+
+the fight against poverty and for sustainable development. To that end, the infrastructure constructed under the Project
+
+will incorporate resilience to climate change and disaster risks. Further, the Project aligns with the International Finance
+
+Corporation (IFC)’s strategic priority to support value added manufacturing and export logistics, while creating markets
+
+and facilitating private sector participation in terminals and ports, logistics, and airports. The Project also aligns with the
+
+
+
+                                                                                                                        Page 5
+
+         The World Bank
+
+         Bay Terminal Marine Infrastructure Development Project (P176812)
+
+
+
+
+
+World Bank Group’s corporate objectives under Climate Change, Maximizing Financing for Development, Private Capital
+
+Mobilization, and a One World Bank Group Approach.
+
+
+
+22.     Climate change and adaptation. The Project is consistent with the GoB’s Nationally Determined Contribution
+
+(NDC) submitted to the United Nations Framework Convention on Climate Change, wherein Bangladesh committed to
+
+increasing the use of reduced emission-based transport systems on mitigation and management of disasters through
+
+climate resilience on adaptation. The Project contributes to the NDC through disaster management activities,
+
+incorporating climate resilience in project activities for disaster risk reduction, and institutional strengthening related to
+
+climate resilience and disaster management. It is further consistent with the National Adaptation Program of Action, the
+
+Bangladesh Climate Change Strategy and Action Plan, the National Adaptation Plan (2023–2050), and the Bangladesh
+
+CCDR, by considering adaptation of the port infrastructure to address various climate risks highlighted in these plans and
+
+reports, namely, sea level rise, cyclones, tornados, and storm surges.
+
+
+
+23.      Maximizing Finance for Development, Private Capital Facilitation, and the One World Bank Group Approach.
+
+IDA support to the GoB in implementing a large, complex seaport project and financing for the breakwater and access
+
+channel is a prerequisite for the accomplishment of the Bay Terminal Phase one, which includes in parallel, the MPT and
+
+the CT 1 to be financed with private capital. Without the Project’s outputs, the terminals cannot be developed, and private
+
+investment cannot be realized. The World Bank’s initial investment in the marine infrastructure will also strengthen the
+
+confidence of private investors that the necessary public infrastructure will be adequately developed. The expected capital
+
+cost for the MPT and CT 1 is US$800 8 million and US$830 9 million, respectively, and is recognized as private capital
+
+mobilization resulting from the private parallel co-financing. The prospective private capital to be mobilized is US$1,630
+
+million. In addition, the World Bank’s role in the Bay Terminal also enables private investment in CT 2 10 (US$830 million),
+
+expected to realize within three years of Project closure. The expected Private Capital Enabled (PCE) will be monitored in
+
+the Results Framework as a monetary PCE indicator. As described in paragraphs 15 and 21, respectively, this complements
+
+the GoB’s ‘Vision 2041’ and Objective 6 of the CPF. The World Bank’s involvement in the Bay Terminal development has
+
+supported the de-risking of the overall Bay Terminal and the sector for private investment. In addition, the World Bank’s
+
+support addresses E&S constraints through its Environmental and Social Framework (ESF), with Phase one benefiting from
+
+the ESF. Furthermore, the World Bank’s involvement also complements IFC’s proposed participation as co-developer in
+
+one of the container terminals. Together with IFC’s involvement, the World Bank brings an integrated One World Bank
+
+Group approach to the development and execution of this strategic infrastructure project.
+
+
+
+
+
+
+
+
+
+8 US$800 million for MPT to be financed with 70 percent debt (US$560 million) and 30 percent equity (US$240 million). All debt is assumed to be
+
+unguaranteed commercial debt and the total amount of US$800 million will be assumed for private capital mobilization. The private capital
+
+mobilization will be adjusted as more clarity is received on the respective financing sources, for example, from export credit agencies and
+
+International Financing Institutions.
+
+9 US$830 million for CT 1 to be financed with 55 percent debt (US$456.5 million) and 45 percent equity (US$373.5 million). All debt is assumed to
+
+
+
+be unguaranteed commercial debt and the total US$830 million will be assumed for private capital mobilization. Should the consortium of which
+
+IFC is part of be successful for the development and operation of the first container terminal, the private capital mobilized will be adjusted
+
+accordingly. The private capital mobilization will be adjusted as more clarity is received on the respective financing sources, for example, from
+
+export credit agencies and international financing institutions.
+
+10 The estimated costs for CT 2 are not included in the financing datasheet as it is part of Phase two.
+
+
+
+
+
+                                                                                                                                            Page 6
+
+         The World Bank
+
+         Bay Terminal Marine Infrastructure Development Project (P176812)
+
+
+
+
+
+
+
+ II.       PROJECT DESCRIPTION
+
+
+
+
+
+ A. Project Development Objective
+
+
+
+24.      The overarching objective of the overall Bay Terminal is to increase global trade competitiveness and reduce the
+
+cost of imports and exports in Bangladesh. The objective of the IDA financed Project, which supports a subset of the overall
+
+Bay Terminal is as follows:
+
+
+
+PDO Statement
+
+
+
+25.    The Project Development Objective (PDO) is to enable the mobilization of private investment for the primary
+
+gateway port of Bangladesh and increase its operation efficiency.
+
+
+
+PDO Level Indicators
+
+
+
+26.      Attainment of the PDO will be assessed through the following PDO-level results indicators.
+
+
+
+                                           Table 1. Project Outcomes and PDO-Level Indicators
+
+
+
+       PDO Outcome                                                   PDO-Level Indicator
+
+
+
+       Enabling of private capital mobilization                      •    Private investment for the development of at least one
+
+                                                                          container terminal (Amount in (US Dollars))
+
+       Increase in maritime port operation efficiency                •    Construction of a climate-resilient breakwater (Yes/No)
+
+                                                                     •    Panamax-sized11 vessel able to enter the Bay Terminal
+
+                                                                          of Chittagong Port (Yes/No)
+
+                                                                     •    Shippers satisfied with navigation safety, accessibility,
+
+                                                                          and efficiencies of the port entrance and basin
+
+                                                                          (Percentage)
+
+
+
+
+
+27.     The Project includes a Corporate Results Indicator 12 (CRI) as one of the intermediate indicators, see Section VII.
+
+Results Framework and Monitoring.
+
+
+
+ B. Project Components
+
+
+
+28.     Total costs for the Project including government counterpart funding are estimated at US$847 million (Table 2).
+
+US$650 million of financing from IDA will be complemented by US$5 million in GoB counterpart funding. A financing gap
+
+of US$192 million - to be filled by FY27—will either be covered by government funding, financing from other international
+
+financing institutions, or an additional financing resource from the World Bank.
+
+
+
+
+
+11 Medium-size cargo ships that can navigate the Panama Canal. Maximum dimensions for a Panamax vessel are (a) length of 294 m, (b) width of
+
+32.3 m, (c) draught of 12 m, and (d) height of 57.91 m above water. Typical deadweight tonnage is 50,000–80,000 tons and can carry up to 4,500
+
+TEU containers.
+
+12 People benefiting from improved access to sustainable transport infrastructure and services (Number of people).
+
+
+
+
+
+                                                                                                                                         Page 7
+
+           The World Bank
+
+           Bay Terminal Marine Infrastructure Development Project (P176812)
+
+
+
+
+
+29.      Component 1: Support Port Marine Civil Infrastructure, Equipment, and Navigation System Development (Total
+
+cost of US$832 million: IDA financing of US$640 million and a financing gap of US$192 million) will finance the following
+
+activities: (a) construction of a climate-resilient breakwater; (b) capital dredging of the port basin, entrance channel, and
+
+access channel; and (c) supply and installation of aids to navigation and necessary updates to vessel traffic management
+
+system (VTMS).
+
+
+
+30.     The investments outlined in Component 1 are a first step in catalyzing investment in the overall Bay Terminal.
+
+Subcomponent 1(a) supports the construction of a 6 km rubble mound breakwater on an existing sandbar 1.4 km offshore,
+
+topped with X-block-plus armor units. 13 The construction of the breakwater structure will stabilize the offshore sandbar
+
+through concrete piling and the installation of vertical drains. Scour protection measures will be undertaken to enhance
+
+the integrity of the breakwater base and its resistance to erosion and climate-exacerbated risks, ensuring the operational
+
+continuity of the port. Capital dredging supported by Subcomponent 1(b) will deepen the depth alongside the berth to
+
+15.5 m and the entrance channel to 15 m relative to chart datum (CD). The existing depth alongside the berth varies
+
+around 8–9 m CD, and the capital dredging depth in the basin is expected to be 6–7 m below the existing depth with an
+
+expected volume close to 30 million m3. The capital dredging will be 5,000 m long and 600 m wide, and the entrance
+
+channel is around 1.6 km long and 500 m wide. The seabed at the entrance channel is naturally deep as it extends into the
+
+anchorage area and will require less dredging. While maintenance dredging is not covered by IDA financing, initial support
+
+may be provided for sedimentation monitoring to gather essential data for developing a sustainable dredging strategy.
+
+Under Subcomponent 1(c), navigational aids will be installed along the access route to enhance vessel safety,
+
+complemented by necessary updates to the existing VTMS at the Bay Terminal, which may include disaster risk
+
+management and emergency response capabilities.
+
+
+
+31.     Component 2: Support Port Efficiency Improvements and Capacity Development (Total cost of US$15 million:
+
+IDA financing of US$10 million and GoB counterpart funding of US$5 million) aims to enhance the operational efficiency
+
+and training capabilities at the port. This component aims to prepare CPA’s workforce for modern port operations and
+
+management. Specifically, the proposed investments include (a) hiring of required consultancy services for the Project
+
+Implementation Unit (PIU); (b) support for training programs and the establishment of a Center of Excellence (COE) within
+
+the CPA; (c) technical and advisory support for improving hinterland connectivity and logistics services and for climate
+
+change; and (d) support for gender-focused activities and the monitoring and management of E&S risks.
+
+
+
+32.      Subcomponent 2(a) will support the strengthening of the PIU by hiring consultants for the engineering,
+
+procurement, E&S management, financial administration, governance, and harbor and marine functions during
+
+implementation. Subcomponent 2(b) will support the development of a training center to provide vocational and
+
+apprenticeship training. It will also provide technical assistance to support preparing a plan to establish a COE to train
+
+CPA’s workforce on port operations, management, public-private partnerships (PPPs), sustainability, and climate change.
+
+Subcomponent 2(b) will further include the rehabilitation of an existing facility, supply of equipment, and staffing.
+
+Technical assistance and advisory support are included under Subcomponent 2(c) to support the development of
+
+competitive hinterland connectivity and logistics, linking the Bay Terminal to the initiative to transform Dhaka, landlord
+
+port management, and aspects related to the greening of ports and E&S management, as well as surveys for baseline and
+
+end line impact evaluations. Subcomponent 2(d) will support gender-focused activities under the Project to provide
+
+training to women in areas such as entrepreneurship in logistics service and trade management and E&S management
+
+activities as described in the Environmental and Social Management Plan (ESMP).
+
+
+
+
+
+
+
+
+
+13   Armor units that provide high resilience to climate change, has low concrete consumption and CO2 footprint compared to other armor units.
+
+
+
+                                                                                                                                           Page 8
+
+        The World Bank
+
+        Bay Terminal Marine Infrastructure Development Project (P176812)
+
+
+
+
+
+33.      Component 3: Contingency Emergency Response (US$0 million) will provide support for an immediate response
+
+to an eligible crisis or emergency, as needed.
+
+
+
+                                          Table 2. IDA-Financed Project Activities and Costs
+
+                                                  Total Cost (US$,        IDA (US$,         GoB Counterpart           Financing Gap
+
+                   Activities
+
+                                                     millions)             millions)      Funding (US$, millions)     (US$, millions)
+
+Component 1(a): Breakwater                              654                  500                    —                      154
+
+Component 1(b): Capital dredging of basin               173                  135                    —                       38
+
+and navigation channel
+
+Component 1(c): Aids to navigation                        5                   5                      —                       —
+
+ Component 2: Efficiency and capacity                     15                 10                      5                       —
+
+ building
+
+ TOTAL                                                   847                650                      5                     192
+
+Note: The amounts in Table 2 and the amounts in the financing table located in the financing datasheet are different as the
+
+datasheet includes parallel co-financing from private investments for the MPT and CT 1, whereas Table 2 only shows the IDA
+
+financed components. The total financing in the datasheet includes US$847 million for Components 1 and 2 (including the financing
+
+gap), US$800 million as private parallel co-financing for MPT, and US$830 million as private parallel co-financing for CT 1 to result in
+
+a total operation cost of US$2,477 million in Phase one. The private parallel co-financing is separated into debt and equity in the
+
+financing datasheet.
+
+
+
+ C. Project Beneficiaries
+
+
+
+34.      The Project is expected to have physical, economic, social, and environmental benefits at the regional, national,
+
+and local levels. It will contribute to unlocking Bangladesh’s economic potential through improved maritime port capacity,
+
+efficiency, and connectivity. The port investment will reduce trade and intermediary costs for businesses and strengthen
+
+the competitiveness of the entire region. Opening container terminal development and operations to the private sector
+
+will bring in much needed capital investments for port modernization and help introduce efficiencies and innovation to
+
+port development and operations. Direct beneficiaries include shipping companies, importers and exporters, and freight
+
+forwarders. Indirect beneficiaries include employees in supporting businesses and their families, road haulers, rail
+
+operators, and port employees, together with tradable sectors of the economy and the region, and ultimately consumers
+
+and producers both inside and outside the subregion. It is estimated that about one million direct beneficiaries will benefit
+
+from improved access to sustainable transport services. The project will especially benefit the RMG sector by offering
+
+competitive transportation costs for Bangladesh’s RMG exports to key global markets.
+
+
+
+35.     Communities near the development will benefit from improved social and cultural spaces and from increased
+
+income generation. They will also benefit from job opportunities and skills development during the civil, operational, and
+
+maintenance works. These benefits will be inclusive for women and socially excluded communities through the adoption
+
+of universal, gender-sensitive designs for infrastructure and access to jobs.
+
+
+
+ D. Results Chain
+
+
+
+36.    Figure 2 indicates the Results Chain of the Project. A critical assumption is that Bangladesh will continue to
+
+experience reasonable economic growth for the foreseeable future. This is a strong determinant for the expected import
+
+and export trade volumes expected at the Bay Terminal.
+
+
+
+
+
+
+
+                                                                                                                                  Page 9
+
+       The World Bank
+
+       Bay Terminal Marine Infrastructure Development Project (P176812)
+
+
+
+
+
+                                           Figure 2. Results Chain for the Project
+
+
+
+
+
+
+
+
+
+ E. Rationale for Bank Involvement and Role of Partners
+
+
+
+37.    The World Bank Group has been promoting the removal of barriers to trade and regional integration and
+
+expanding the role of the private sector in the development of critical infrastructure and the delivery of services as key
+
+development priorities for the eastern South Asia region. The World Bank’s support of the Project complements four
+
+ongoing World Bank operations in improving overall transport network performance and regional connectivity (see
+
+paragraph 14). The World Bank’s overall transport program supports Bangladesh in becoming a major player in regional
+
+trade and in serving as a regional gateway to international trade. IFC’s support for private sector participation in the
+
+development of the Bay Terminal follows IFC’s role as the transaction advisor for the recently signed 22-year operating
+
+concession for PCT at Chittagong Port that was awarded to Red Sea Gateway Terminal International in December 2023.
+
+
+
+38.      The Bay Terminal project is strategically important for Bangladesh, both in terms of providing much needed
+
+capacity expansion at its main gateway port of Chittagong and for implementing important sectoral reforms to move CPA
+
+from a direct role in terminal operations to a landlord port management model under which container terminals will be
+
+developed and operated via long-term concession agreements with private sector-led ITOs. In this context, the World
+
+Bank’s participation sends an important signal to potential operators, financiers, and contractors by helping ensure (a)
+
+high-quality project preparation based on sound engineering design, a comprehensive feasibility study, and robust risk
+
+management plans; (b) the Project’s execution integrity, including proper execution of procurement and construction
+
+activities, and proper management of E&S risks; (c) the availability of necessary financing to ensure timely Project
+
+
+
+                                                                                                                  Page 10
+
+           The World Bank
+
+           Bay Terminal Marine Infrastructure Development Project (P176812)
+
+
+
+
+
+implementation; and (d) the provision of technical assistance/advisory support toward the CPA’s vision of private sector
+
+participation in ports.
+
+
+
+39.     The One World Bank Group approach to the development and execution of this critical infrastructure project
+
+brings integrated support to the GoB at both the project and sector levels. At the project level, World Bank financing of
+
+public infrastructure mitigates engineering, construction, E&S, and financing risks, while IFC’s participation creates
+
+replicable concession models that demonstrate bankability with proper risk allocation. At the sector level, the World
+
+Bank’s long-term engagement with the GoB on sector policy dialogue and long-term sector reform agenda, as along with
+
+IFC’s contribution in supporting international investors and financiers, creates investor confidence in long-term
+
+investment in Bangladesh.
+
+
+
+ F. Lessons Learned and Reflected in the Project Design
+
+
+
+38.     Transitioning to a landlord port model requires continuous support. In other parts of the world, such as Sub-
+
+Saharan Africa in the 2000s, where there had been a lag in the introduction of a landlord port management model, delays
+
+were ascribed to factors such as local labor unions, suspicion of the motives of external partners, opposition to the
+
+introduction of the private sector among public servants, and weak institutional frameworks with little regulatory
+
+capacity.14 The World Bank’s experience in Tanzania and Mauritius underscores that effecting change under such
+
+circumstances requires continuous support. 15 The World Bank will closely support the implementing agency and
+
+continuously monitor potential implementation problems for early intervention, as needed.
+
+
+
+39.     IFC’s experience in port sector projects has generated lessons that inform the project design. The main lessons
+
+relevant to the Project are:
+
+
+
+            (a)   Port projects are almost always exposed to market risk, and realistic port market projections that fully
+
+                  consider the project location, competing facilities, and how the industry operates are key to success,
+
+                  especially in the development of greenfield ports; and
+
+            (b)   Ensuring political buy-in for a PPP is key to ensuring that governments adhere to the concession agreements.
+
+
+
+40.     The World Bank’s close engagement in the ongoing feasibility study update responds to lesson (a) while the
+
+Project’s Support for Port Efficiency Improvements and Capacity Development component responds to lesson (b).
+
+
+
+41.     Given the complexity of the larger Bay Terminal development and the involvement of private ITOs, the CPA
+
+needs to be sufficiently staffed. It might need external assistance, such as advisors, throughout the preparation,
+
+procurement, negotiations, and award of large contracts and concessions, as well as during project implementation. The
+
+Project’s implementation arrangement will ensure that the PIU is adequately staffed with the necessary expertise.
+
+
+
+42.      The World Bank-financed Chittagong Port Project (P009426), which was approved in 1982 and closed in 1992,
+
+identified that streamlining the GoB decision-making process for procurement would have been more efficient and would
+
+have avoided the five-year delay in project implementation by delegating the authority for project implementation to a
+
+joint committee consisting of selected senior officials of the Ministry of Shipping (MoS) and the CPA. The project’s
+
+institutional arrangements reflect this lesson.
+
+
+
+
+
+
+
+14   World Bank. 2008. “Beyond the Bottlenecks: Ports in Sub-Saharan Africa.”
+
+15   World Bank. 2007. “A Decade of Action in Transport 1995–2005.” Independent Evaluation Group, Washington DC.
+
+
+
+                                                                                                                      Page 11
+
+        The World Bank
+
+        Bay Terminal Marine Infrastructure Development Project (P176812)
+
+
+
+
+
+
+
+ III.    IMPLEMENTATION ARRANGEMENTS
+
+
+
+
+
+ A. Institutional and Implementation Arrangements
+
+
+
+43.     The Project will be anchored at the MoS. A Project Steering Committee, chaired by the Secretary of Shipping and
+
+with members from the Economic Relations Division, the Ministry of Finance, the Planning Commission, and the CPA, will
+
+be established to provide high-level guidance and monitoring for the Project, especially at the policy level.
+
+
+
+44.      The CPA will be the implementing agency for the Project and will oversee all public sector-financed activities of
+
+Phase one, including but not limited to the construction of the breakwater, dredging of the access channel and the port
+
+basin, installation of the navigation aids, and road and rail connections to the respective networks.
+
+
+
+45.      The CPA will establish a PIU to implement the Project. The mandate, functions, composition, and resources for
+
+the PIU will be outlined in the Project Operations Manual (POM). The PIU will be headed by a Project Director (PD), who
+
+will report to the CPA Chairman. The PD may be supported by project management consultants for regular supervision,
+
+overall coordination, quality assurance, monitoring, and reporting of project activities. The POM will set forth the rules
+
+and procedures for implementing the Project, including implementation and institutional arrangements, as well as
+
+requirements and procedures for financial management (FM) and procurement.
+
+
+
+46.     A Project Implementation Committee, chaired by the CPA Chairperson and with members from the Planning
+
+Commission, Ministry of Finance, MoS, and CPA, among others, will provide oversight by supervising implementation,
+
+resolving implementation problems, and ensuring that the Project is on track to meet its objectives.
+
+
+
+47.      Private port operators. Long-term concession agreements will be signed between the CPA and the ITOs to finance,
+
+build, and operate CT 1 and CT 2. The CPA will also enter into an agreement with an ITO to finance, build, and operate the
+
+MPT.
+
+
+
+ B. Results Monitoring and Evaluation Arrangements
+
+
+
+48.     Monitoring of Project progress, outcomes, and result indicators will be the responsibility of the CPA. The progress
+
+and performance of the Project will be monitored and evaluated semiannually against the outcome and output indicators
+
+in the Results Framework. Relevant data on overall outcome metrics, such as safe and efficient entry and navigation for
+
+Panamax-sized vessels (comparing before and after CPPI data) and private investment in container terminals for the
+
+increased capacity for and efficient handling of containerized cargo, will be collected by the CPA utilizing its operational
+
+monitoring system. Such monitoring and evaluation shall also include a qualitative assessment of the Project’s
+
+performance on the quality of the constructed facilities, governance and transparency in procurement and contract
+
+management, and compliance with the commitments related to fiduciary, environmental, and social aspects, for example,
+
+through the Environmental and Social Management Framework and the Environmental and Social Commitment Plan
+
+(ESCP). The monitoring and evaluation strategy will ensure timely conduct of studies and assessments to establish baseline
+
+data and progress data, where applicable.
+
+
+
+ C. Sustainability
+
+
+
+49.    The proposed activities support the GoB’s long-term vision of a modern, efficient, and resilient port sector for
+
+Bangladesh’s economic growth, continued poverty reduction, and sustainable global competitiveness in international
+
+
+
+                                                                                                                    Page 12
+
+       The World Bank
+
+       Bay Terminal Marine Infrastructure Development Project (P176812)
+
+
+
+
+
+trade. The Project’s strong emphasis on commercial viability and bankability for the adoption of the landlord port model,
+
+expanded private sector participation in port services delivery, and strengthened port investment planning and capacity
+
+building will support the modernization of the Bangladesh port sector. The strengthened institutional framework, port
+
+sector policy changes, and adequate funding supported under the Project are expected to lead to the expansion and
+
+modernization of Bangladesh’s premier port of Chittagong that will be sustained beyond the implementation period of
+
+the Project and have spillover benefits for the wider ports sector.
+
+
+
+ IV.     PROJECT APPRAISAL SUMMARY
+
+
+
+
+
+ A. Technical, Economic, and Financial Analysis
+
+
+
+Technical
+
+
+
+50.      The design of the Bay Terminal Phase one is ongoing (marine port infrastructure, terminals, hinterland
+
+connectivity). A detailed feasibility study for the Bay Terminal was completed in 2017 and has been updated in line with
+
+the updated port layout, bathymetric information, hydrodynamic data, and traffic forecast. This process is supported by
+
+feedback from the World Bank and experts in marine engineering and port operations. The fundamentals of the feasibility
+
+study - the port layout and key issues raised by ITOs such as phasing of the two container terminals and tariff adjustments
+
+to ensure overall project viability - have been finalized and are acceptable. A key input of the technical assessment was
+
+the recently conducted navigation simulation, which confirmed the soundness and operational efficiency of the proposed
+
+port basin layout. The World Bank is satisfied with the marine layout design and overall development plan of the Bay
+
+Terminal.
+
+
+
+51.     The IDA-financed port marine infrastructure is strategically positioned behind a natural sandbank. The Bay
+
+Terminal location has been chosen based on the naturally sheltered area provided by the sandbank situated 1.4 km
+
+offshore of the port, creating a natural channel for the port basin. It is also close to the primary road and rail connections
+
+to Dhaka, the country’s main economic center. While deeper draught locations might be available more than 60 km to the
+
+south near Cox’s Bazaar, connectivity to these locations is underdeveloped and plans are already under way for the deep-
+
+sea Matarbari Port development near Cox’s Bazaar. A breakwater is proposed atop the sandbank to bolster its resilience
+
+against climate change-exacerbated risks such as cyclones, storm surges, erosion, and sea-level rise, thus enhancing the
+
+continuity of operations at the port. The breakwater design is currently being refined and is awaiting validation through a
+
+comprehensive series of numerical and physical modeling in a wave tank, which is scheduled for completion by December
+
+2024. This process will ensure a technically robust and optimized design. Engineering and resilience measures are being
+
+considered in the design to further strengthen and stabilize the sandbank, as well as to enhance the resilience of the
+
+breakwater structure. The capital dredging work is being designed to achieve a navigational depth of 15 m CD post
+
+dredging to provide safe and efficient access to the terminal for Panamax container vessels and 75,000 deadweight
+
+tonnage bulker vessels. This will leverage economies of scale by enabling access of larger vessels, which will significantly
+
+boost the efficiency of goods transportation to and from Bangladesh and affirm the Bay Terminal’s role as a key logistical
+
+node in regional and global trade networks. The proposed width of the capital dredging alongside the berths is 600 m, an
+
+increase from the initially proposed width of 300 m, to enable safe navigation and berthing by reducing strong tidal
+
+currents through the basin; which are expected to worsen due to morphological changes of the seabed and exacerbated
+
+by erosion, increased monsoon precipitation, sea level rise, and cyclones.
+
+
+
+52.     Private sector participation. The World Bank has been engaged with the ITOs through CPA-organized stakeholder
+
+meetings. An investment decision is expected to be reached for CT 1 within 6–12 months of IDA financing approval. The
+
+ITOs view the World Bank as an honest broker and a credible financier that takes on the substantial risk of public
+
+                                                                                                                      Page 13
+
+       The World Bank
+
+       Bay Terminal Marine Infrastructure Development Project (P176812)
+
+
+
+
+
+infrastructure construction and thus enhances the overall Bay Terminal Project’s bankability. The CPA and the prospective
+
+ITO have been discussing the following key concession arrangements to be included during the Request for Proposal (RFP)
+
+process: (a) berthing allocation to ensure that vessels can access the berth owned by ITOs, (b) the MPT to not handle
+
+containerized cargo for a defined period to avoid competition between the ITOs and the landlord (CPA), and (c)
+
+development of the Bay Terminal’s capacity in a phased manner. In addition, private sector engagement necessitates a
+
+revised tariff structure that adequately reflects the costs of capital investment necessary to improve port services.
+
+
+
+53.    The operation is aligned with the goals of the Paris Agreement on both mitigation and adaptation and has been
+
+assessed for climate co-benefits.
+
+
+
+54.      Assessment of climate mitigation risks. The Project activities are on the list of Universally Aligned transport
+
+activities, as outlined in the Joint Multilateral Development Bank Assessment Framework for Paris Alignment, and the
+
+necessary eligibility conditions are met. The port will not handle or transport coal or other fossil fuels, and there is no
+
+material risk of contributing to deforestation, and there will be no direct impact on mangrove areas. However, indirect
+
+impacts on nearby mangrove areas may occur from associated facilities during port operations, and necessary mitigation
+
+plans will be established as needed. Currently there is no planned oil and gas (O&G) terminal at the Bay Terminal. If it is
+
+considered in the future, additional investment would be needed in the breakwater and access channel to expand the
+
+port. The Project is financially and economically viable without the inclusion of revenues from an O&G terminal, and the
+
+breakwater and access channel financed by IDA will not create any specific favorable conditions for the transport of fossil
+
+fuels as compared to other cargo.
+
+
+
+55.     Assessment of climate risks and proposed adaptation measures by the Project. In the absence of adaptation
+
+measures incorporated by the Project, climate and disaster risks likely to affect the Project investments and their
+
+operations are substantial. The sandbank, which provides natural shelter to the port, could experience extreme erosion
+
+due to sea level rise and cyclones. The adaptation measures incorporated through the ongoing design and physical testing
+
+of the breakwater reduce the climate adaptation risk to an acceptable level of residual risk for the achievement of the
+
+PDO. These measures include stabilization of the sandbank, erosion protection, design against sea level rise and storm
+
+surge, enlarged volume of armor layer units of breakwater, and widening of the capital dredged basin to reduce current
+
+flows and related erosion. Risks will be further mitigated through the establishment of disaster risk management practices
+
+in operating procedures, consideration of climate related risks in maintenance practices, and enhancement of institutional
+
+capacity.
+
+
+
+Economic Analysis
+
+
+
+56.      The Project will deliver a broad spectrum of direct, indirect, and induced economic benefits to Bangladesh and
+
+the South Asia Region. At the micro level, the Project will (a) produce beneficial economies of scale by allowing larger
+
+vessels to berth directly at the new terminals rather than using small feeder vessels or lightering from large vessels to
+
+smaller vessels at the anchorage area for accessing the river port; (b) shorten the turnaround time by about 50 percent
+
+for bulk cargo and for containers by eliminating the necessity for waiting at the anchorage for availability of berths and
+
+right tidal timing and by enhanced stevedoring efficiency; and (c) reduce the carbon footprint of shipping by economies
+
+of scale, reduced lingering time, and improved energy efficiency. At the meso level, the Project and its associated facilities
+
+will (a) contribute to creating job opportunities around the new port during construction and operation and in
+
+Bangladesh’s leading export sector (especially the RMG industry that is currently employing approximately 4 million
+
+people from low-income groups, about 80 percent of whom are female) by reducing logistics cost and enhancing export
+
+competitiveness; (b) solidify Bangladesh’s integration into the global trade network by enabling direct shipping routes for
+
+large vessels to major destination ports in the European Union and East Asia, gaining more business opportunities, and
+
+generating an estimated value addition of 2 percent to the country’s supply chains (equivalent to US$1.2 billion in 2024);
+
+
+
+                                                                                                                      Page 14
+
+           The World Bank
+
+           Bay Terminal Marine Infrastructure Development Project (P176812)
+
+
+
+
+
+and (c) facilitate technological progress and improvements in the management of Bangladesh’s logistics service sector. At
+
+the macro level, the Project and its associated facilities will (a) unlock the potential for boosting the sustainable growth of
+
+Bangladesh’s exports and earn additional foreign exchange to reduce its trade deficits; (b) enlarge the tax base for the
+
+GoB to collect incremental fiscal revenues; and (c) strengthen regional connectivity to the landlocked regions of Bhutan,
+
+Nepal, and the northeastern states of India.
+
+
+
+57.      The business-as-usual scenario without the Project. The ‘without the Project’ scenario assumes that the
+
+capacities at the existing river terminals are maintained and expanded sporadically as at present, with existing shallow
+
+draught, to meet the increasing demand for cargo handling. The current trends in decreasing service quality and increasing
+
+congestion would continue because of the constraints on vessel sizes, lack of significant improvement in handling
+
+efficiency, and high berth occupancy.
+
+
+
+58.     The investment scenario with the Project. The ‘with the Project’ scenario assumes the development of a
+
+greenfield deep seaport in the Bay of Bengal as enabled by the IDA-financed components for marine infrastructure.
+
+
+
+59.      Results of the economic analysis. The economic analysis considers the economic costs that can be expected as
+
+additional costs for developing a deep-sea port, namely the Bay Terminal, 16 and the additional benefits achieved over the
+
+river terminals. Benefits such as reduction in ships’ queuing costs, reduction in ship times at berth, economies of vessel
+
+size resulting from both capital and recurring dredging, and savings in inventory opportunity costs are considered in the
+
+analysis. The economic internal rate of return (EIRR) and net present value (NPV, at a 9 percent discount rate) of the Bay
+
+Terminal are 19.46 percent and US$2,114 million, respectively. A range of sensitivities from risks such as economic
+
+downturn, political instability, increases in investment costs and operating costs, and higher-than-expected congestion or
+
+lower-than-expected efficiencies of the private sector, were considered and their impact has been assessed by lowering
+
+benefits by 20 percent and increasing costs by 20 percent. From the combined case where all benefits are reduced by 20
+
+percent and costs increased by 20 percent, the lowest EIRR is 14.27 percent and the lowest NPV is US$1,104 million. In
+
+addition, a scenario was considered where CT 2 (Phase 2) is not developed, after developing the full extent of the
+
+breakwater and other public infrastructure. The EIRR, NPV, and benefit cost ratio, assuming a 5-year construction period
+
+and a 30-year operation period are presented in Table 3. The results indicate that the project is economically viable, and
+
+the subsequent sensitivity and scenario analyses, which assessed the impact of variations in the key parameters, show the
+
+results to be robust.
+
+
+
+                                         Table 3. Results of the Economic Analysis of the Bay Terminal
+
+                                                                                                                 EIRR
+
+                                     Scenarios                                      NPV (US$, millions)                      Benefit Cost Ratio
+
+                                                                                                              (percent)
+
+ (a) Development of overall Bay Terminal as per planned timeline                       2,114                    19.46           5.60
+
+ (b) Cancellation of CT 2 development (Phase two)                                      1,097                    16.03           4.50
+
+ (c) 20 percent reduction in benefits and 20 percent increase in costs                 1,104                    14.27           3.79
+
+
+
+Financial Analysis
+
+
+
+60.    The Bay Terminal is financially viable and should secure private investments for the container terminals and the
+
+MPT. A financial analysis was undertaken to assess its financial viability with the assumption that tariffs should be revised.
+
+
+
+61.     The financial analysis includes revenues, capital costs, contingencies, maintenance, and operation expenses. The
+
+CPA will incur the capital costs of the marine infrastructure, namely the breakwater and capital dredging, and other public
+
+
+
+16   Marine infrastructure and dredging costs as well as more expensive terminal construction due to land reclamation and quay wall requirements.
+
+
+
+                                                                                                                                          Page 15
+
+       The World Bank
+
+       Bay Terminal Marine Infrastructure Development Project (P176812)
+
+
+
+
+
+investments such as land filling, utility connections, and hinterland connectivity. The capital costs for the terminals to be
+
+developed by private investors include the quay wall, land stabilization, superstructure of the terminals, and the potential
+
+contribution of up-front concession fees to the CPA. Included in the CPA’s recurring expenses are the maintenance
+
+dredging of the basin and access channels, together with other operating and maintenance expenses. The CPA’s revenues
+
+are earned from charges related to port dues, navigation fees, pilotage, tugs, royalties, lease income, and harbor tonnage
+
+dues.
+
+
+
+62.     The financial internal rate of return (FIRR) for the CPA is approximately 5.60 percent (after accounting for potential
+
+concession revenues) and is expected to exceed the CPA’s weighted average cost of capital (WACC). The FIRRs for the
+
+terminals compare well with other port investments globally and are expected to be higher than 12 percent, and the
+
+equity internal rates of return are expected to be above 15 percent. The return estimates exceed the assumed WACC and
+
+confirm that investments are financially viable.
+
+
+
+63.   The overall development is expected to achieve an FIRR of approximately 8.5 percent and exceed the overall
+
+WACC.
+
+
+
+                                             Table 4. Results of the Financial Analysis
+
+                                Description of Analysis                     FIRR (percent)   NPV (US$, millions)
+
+                CPA investments in public infrastructure                        5.60              280.93
+
+                Bay Terminal (Overall)                                          8.50              476.35
+
+
+
+
+
+ B. Fiduciary
+
+
+
+(i)     Financial Management
+
+
+
+64.      Financing from the IDA20 Scale-Up Window (SUW). The Project satisfies the SUW and SUW-Shorter Maturity
+
+Loan (SML) eligibility criteria. The Project includes a US$400 million IDA credit from the SUW and an SUW-SML in the
+
+amount of US$150 million. Bangladesh is eligible to receive SUW and SUW-SML financing resources in FY24. The SUW
+
+financing is consistent with the World Bank’s Sustainable Development Finance Policy or International Monetary Fund
+
+borrowing limitations. Bangladesh’s ‘low’ debt risk rating would not change with the SUW financing. The Project directly
+
+supports the IDA20 Special Themes on climate change and jobs and economic transformation. The Project is aligned with
+
+the SUW objective of financing for transformational operations with a strong development impact and high economic
+
+returns.
+
+
+
+65.     The FM assessment of the CPA, which will be responsible for all FM aspects under project management, noted
+
+that the recent audit reports of the CPA indicate weaknesses in FM reflected by recoverability of classified deposits,
+
+inadequate audit evidence for capital work in progress, weaknesses in fixed asset management and recording, and
+
+inadequate practices to identify nonperforming assets. Specific stepped-up actions, to improve capacity and internal
+
+controls, thereby mitigating risks to the Project’s FM, will be undertaken by the PIU and will be detailed in the POM.
+
+
+
+66.     FM risks include (a) delayed recruitment of qualified FM personnel; (b) delayed issuance of yearly financial
+
+authorization to spend project funds that affect implementation at the beginning of each fiscal year; (c) delayed
+
+preparation and submission of interim unaudited financial reports (IUFRs) to the World Bank; (d) delay in US dollar
+
+payments to vendors due to foreign exchange shortages in the country; (e) delays in resolving observations of the external
+
+auditor and implementation of the recommendations of the internal auditor; and (f) lack of efficient inventory and asset
+
+management.
+
+
+
+                                                                                                                      Page 16
+
+       The World Bank
+
+       Bay Terminal Marine Infrastructure Development Project (P176812)
+
+
+
+
+
+67.      Project FM risk mitigation measures include (a) having the FM specialist in place by the time the credit becomes
+
+effective; (b) providing training to the PIU, especially for FM staff on the FM aspects of the project, including quarterly
+
+reporting, preparation of Statements of Expenditure, submission of withdrawal applications, and uploading of
+
+clarifications on the World Bank’s FM policy; (c) mainstreaming the Special Account Management Portal (that is, iBAS++ -
+
+SAMP) administered by the Finance Division for processing all project transactions, accounting, financial reporting, and
+
+monitoring execution; (d) carrying out periodic internal audits to assess operational efficiency and to strengthen the
+
+internal control environment through the implementation of an agreed action plan; (e) strengthening inventory and asset
+
+management procedures; (f) using the World Bank Direct Payment and special commitment mechanism to make large US
+
+dollar payments; (g) arranging for periodic bipartite/tripartite meetings involving the project, the ministry, and the
+
+external auditors (Foreign Aided Project Audit Directorate [FAPAD]); and (h) establishing audit committees to follow up
+
+on the implementation of audit recommendations and to provide appropriate clarifications on external audit reports. The
+
+detailed FM arrangements and mitigation measures will be spelled out in the FM section of POM.
+
+
+
+68.     Based on risks and gaps identified and after the mitigation measures are implemented, the residual FM risk is
+
+rated Substantial.
+
+
+
+(ii)    Procurement
+
+
+
+69.      Procurement under the Project will be carried out in accordance with the World Bank Procurement Regulations
+
+for Investment Project Financing Borrowers, September 2023, and the provisions stipulated in the Legal Agreement, the
+
+Project Procurement Strategy for Development (PPSD), and the Procurement Plan, once finalized. The Project will also be
+
+subject to the World Bank’s Anticorruption Guidelines, dated October 15, 2006, and revised in January 2011 and July 2016.
+
+It will use the World Bank’s Systematic Tracking of Exchanges in Procurement to plan, record, and track procurement
+
+transactions. The timeline for bid evaluation and contract signing shall follow the Bangladesh Public Procurement Rules -
+
+Schedule III - Part A (Rule: 8(14)) – Procurement Processing and Approval Timetable.
+
+
+
+70.    Procurement arrangements. The Project will be implemented by the PIU established in the CPA, which follows
+
+the country Public Procurement Act (2006) and public procurement rules. Transparency mechanisms are in place, such as
+
+the open bidding procedure through electronic government procurement or publication in daily newspapers.
+
+Accountability rules are enforced through both internal and external audits of procurement activities. The CPA has
+
+experience in implementing similar projects funded by donors notably the Matarbari Port.
+
+
+
+71.      Project procurement risks and mitigation. The following Project procurement risks have been identified: (a)
+
+procurement delays and contract management challenges, as the CPA lacks experience in implementing World Bank-
+
+financed projects; (b) complexity of the Project contracts, including the need for coordination between the major contracts
+
+for breakwater structure, access channel dredging, and navigation equipment, and coordination between the marine side
+
+and the land side investments; (c) choosing the right contract types for the three major activities may be a challenge, as
+
+Performance-based Contracts (PBCs)—which have proven to be the most fit-for-purpose contract type for capital dredging
+
+and multiyear maintenance—will require development of customized World Bank procurement documents through a
+
+combination of Output and Performance-Based Road Contracts and other civil work Standard Procurement Documents
+
+(SPDs); (d) possible delays in finalizing the Environmental and Social Impact Assessment (ESIA) and detailed designs; and
+
+(e) significant procurement delays in evaluation and contract signing. In addition, substantial contract management and
+
+construction management risks are inherent in a large complex public works project such as expected in the Phase one of
+
+Bay Terminal.
+
+
+
+72.   To address the procurement, contract management, and construction management risks, several mitigation
+
+measures are proposed. These include ensuring that the CPA staff of the PIU have the required procurement experience
+
+
+
+                                                                                                                   Page 17
+
+          The World Bank
+
+          Bay Terminal Marine Infrastructure Development Project (P176812)
+
+
+
+
+
+and/or are engaging a national/international procurement consultant with experience of World Bank Procurement
+
+Regulations. In addition, the design and construction supervision consultants hired by the CPA should have the capacity
+
+to manage the procurement and contract management of both marine-side and land-side projects. The World Bank will
+
+organize need-based procurement and contract management trainings for the CPA staff on a regular basis, including on
+
+the preparation/updating of PPSD. Further, the supervisory role of the MoS and the coordination role of the steering
+
+committee will be leveraged to mitigate procurement delays and contract management issues. Finally, the CPA will engage
+
+with the design and supervision consultant early on to prepare a customized procurement document with PBC for the
+
+dredging part and start the approval process as early as possible and also initiate procurement processes in parallel with
+
+project preparation. Joint World Bank and CPA teams will review procurement and contract management performance
+
+on a regular basis.
+
+
+
+73.     Based on the risks and gaps identified, as well as the implementation of the mitigation measures discussed above,
+
+the residual procurement risk is rated Substantial.
+
+
+
+ C. Legal Operational Policies
+
+
+
+     @#&OPS~Doctype~OPS^dynamics@padlegalpolicy#doctemplate
+
+     Legal Operational Policies                                                                          Triggered?
+
+     Projects on International Waterways OP 7.50                                                         No
+
+     Projects in Disputed Area OP 7.60                                                                   No
+
+
+
+
+
+
+
+ D. Environmental and Social 17
+
+
+
+74.     Overview. Phase one (Project and associated facilities 18) of Bay Terminal development, as described in paragraph
+
+18, has significant potential E&S risks due to its location, complexity, scale, and associated facilities and is therefore
+
+assessed to be a high-risk operation from E&S perspective. Given that Phase two is expected to happen after Phase one is
+
+completed, it is not considered as ‘Associated Facilities’ to the Project, and further assessment will be carried out for Phase
+
+two investments meeting the requirements of the GoB and the financing institutions.
+
+
+
+
+
+
+
+17 The draft ESIA was disclosed on the CPA website and the World Bank website on January 24, 2024 (CPA:
+
+https://cpa.portal.gov.bd/sites/default/files/files/cpa.portal.gov.bd/page/4c5fdbe6_6bbd_4f8a_a692_75283f8f9d88/2024-05-21-07-15-
+
+3051259acfeae8c0dc94d02fdcc4c391.pdf; World Bank: https://documents.worldbank.org/en/publication/documents-
+
+reports/documentdetail/099020124125054028/bosib1075a3e360861955615c62217f38dc). The draft Environmental and Social Commitment Plan
+
+(ESCP) was disclosed on the CPA and World Bank website on May 24, 2024 (CPA: https://cpa.portal.gov.bd/site/page/077ac644-dfe3-4260-9e0e-
+
+88a925e8bf21/; World Bank: https://documents.worldbank.org/en/publication/documents-
+
+reports/documentdetail/099052424084037858/p1768121fb73960451920c1cedea23fa521). The Stakeholder Engagement Plan (SEP) was disclosed
+
+on the CPA website on May 22, 2024, and on the World Bank website on May 24, 2024 (CPA: https://cpa.portal.gov.bd/site/page/077ac644-dfe3-
+
+4260-9e0e-88a925e8bf21/; World Bank: https://documents.worldbank.org/en/publication/documents-
+
+reports/documentdetail/099052424105020996/p17681212ff8d0000181b8137051028a2fb).
+
+18 According to the World Bank ESF, CT 1, MPT, and the road and rail connections, including land reclamation as part of land development, will be
+
+
+
+considered the ‘Associated Facilities’ of the Project, and ESF would apply to these activities, subject to the control or influence of CPA. The ESCP,
+
+Project Agreement, and Financing Agreement mention that the CPA will ensure the activities that fall under the Associated Facilities are carried out
+
+in accordance with the applicable requirements of the ESCP and the Environmental and Social Standards, as well as that it will follow the project
+
+ESIA and ESMPs, Labor Management Procedures (LMP), Resettlement Action Plan (RAP), and SEP.
+
+
+
+                                                                                                                                            Page 18
+
+        The World Bank
+
+        Bay Terminal Marine Infrastructure Development Project (P176812)
+
+
+
+
+
+75.      The key E&S risks and impacts of the Phase one activities are as follows: (a) potential loss and disturbance of
+
+mudflats, sandy beaches, cricks-canals, and marine environment due to land reclamation and dredging and their possible
+
+impacts on biodiversity and critical habitat species and migratory tidal shorebirds, whose winter foraging areas at the
+
+Patenga Beach International Bird Area will be partially lost due to the port development; (b) potential shoreline changes,
+
+possible sedimentation, and erosion from changes in land use and dredging; (c) economic displacement associated with
+
+land acquisition affecting 12 cattle and fish farms and potential indirect impacts on the livelihoods of approximately 87
+
+fish traders which operate four months a year at a seasonal wholesale market located at the northern border of the
+
+Project’s direct footprint and potential impact on the livelihoods of fishermen who fish near the west of the terminal in
+
+the bay and dock their boats in the canals inside the project footprint; (d) health and safety risk to workers and
+
+communities given the scale of the works involved; (e) cumulative impacts of port operations in the general area of
+
+influence on sensitive Valued Environmental and Social Components; (f) increased complexities of engagement with
+
+affected communities and wider range of stakeholders and interested parties; and (g) operational risks during
+
+implementation from wastewater, bilge, and ballast water discharges which can decrease water quality, marine
+
+biodiversity, and result in introduction of invasive species. The Ganges River Dolphins, a freshwater species, found in the
+
+Karnaphuli River are not expected to be negatively affected by the Project since they cannot cross the estuary to the
+
+Project site which is a marine environment. A small ethnic community, located outside the Bay Terminal boundary, is not
+
+expected to face adverse impacts on their land or livelihoods. The sexual exploita�on and abuse/sexual harassment
+
+(SEA/SH) risk is rated as Moderate due to the loca�on, limited labor inﬂux, and capacity of the CPA to monitor SEA/SH.
+
+
+
+76.      Environmental and social risk management approaches. The Environmental Impact Assessment (EIA) prepared
+
+as part of the previous feasibility study in 2017 has been updated by the CPA and an international consulting firm to reflect
+
+changes in the ongoing feasibility study update, which will be finalized during September - November of 2024. The EIA has
+
+been updated as an ESIA based on the World Bank’s ESF requirements and following the national legislation and
+
+regulations. The updated ESIA covers the Project and associated facilities in Phase one based on the draft feasibility study
+
+update, the approved Master Plan of the terminals, and the ongoing design of the breakwater and dredging works. As part
+
+of the ESIA updating, a critical habitat assessment and a rapid cumulative impact assessment were carried out. This
+
+updated ESIA along with the ESMPs were disclosed by the World Bank and the CPA on January 24, 2024. The ESMPs consist
+
+of a series of standard plans and measures 19 designed to apply good international industry practices to manage E&S risks
+
+and impacts. An Occupational Health and Safety Plan that includes measures and responsibilities for both construction
+
+and operational phases will be required from the contractors. The ESMPs also include measures to manage biodiversity
+
+risks and impacts based on mitigation hierarchy, including identification and designation of a bird sanctuary north of the
+
+project site. In addition, the ESMPs include an E&S monitoring plan with frequency and responsible parties, covering
+
+monitoring of dolphins, turtles, and migratory birds to determine whether further actions would be needed to mitigate
+
+unforeseen impacts and appropriately protect these species based on an adaptive management approach. The ESIA will
+
+be further updated during the early stages of implementation based on the final feasibility study and detailed design and
+
+to make mitigation measures site-specific. The associated facilities are required to have sub-project specific ESMPs as
+
+required by GoB and future lenders. The CPA will include this requirement in the joint development agreement or
+
+concession agreement with the ITOs. It is important to acknowledge that Bangladesh has established well-managed
+
+environmental regulations and updated the Environmental Conservation Rules in 2023. In addition to meeting the ESF
+
+
+
+
+
+
+
+
+
+19 Occupational Health and Safety Plan, Wastewater Management Plan, Solid Waste Management Plan, Spill Prevention and Control Plan, Dredging
+
+
+
+and Dredge Disposal Management Plan, Noise Management Plan, Water Quality Management Plan, Biodiversity Management Plan, Traffic and
+
+Road Safety Plan, Water and Energy Consumption/Management Plan, Community Health and Safety Plan, Emergency Preparedness and Response
+
+Plan, Breakwater Management Plan, Ballast Water Management Plan, and so on.
+
+
+
+                                                                                                                                    Page 19
+
+         The World Bank
+
+         Bay Terminal Marine Infrastructure Development Project (P176812)
+
+
+
+
+
+requirements, the CPA will comply with all Bangladeshi environmental regulations while implementing the Bay Terminal
+
+development.
+
+
+
+77.       A Stakeholder Engagement Plan (SEP) has been prepared together with an ESCP for the Project and associated
+
+facilities, detailing the requirements to ensure compliance with the World Bank Group E&S policies. A Resettlement Action
+
+Plan (RAP), including a Livelihood Restoration Plan (LRP), is under preparation and will be disclosed 30 days after the
+
+Project’s effectiveness. The RAP and LRP will address in detail the compensation schemes, livelihood restoration measures,
+
+and so forth for those people who will be physically and economically displaced by the Bay Terminal. The SEP reflects that
+
+in addition to the extensive consultation process undertaken as an integral part of the ESIA updating, the CPA has
+
+continued to engage with stakeholders to ensure their participation in the project preparation process. Consultation
+
+meetings were organized at convenient locations, with separate sessions for female participants. Groups of people
+
+potentially affected by the Bay Terminal were consulted regarding the project, potential impacts, and mitigation
+
+measures, especially for the RAP preparation, focusing on the impacts of physical and economic displacement. Several
+
+focus group meetings were held, where feedback was collected and incorporated into mitigation measures. In addition, a
+
+Labor Management Procedures (LMP) and a Gender and SEA/SH Action Plan will be prepared and disclosed post project
+
+approval but before hiring of workers. Relevant aspects of the ESCP, E&S instruments, LMP, and the code of conduct will
+
+be incorporated into the E&S health and safety specifications of the procurement documents of the Project, and contracts
+
+with contractors and supervision consultants and will be monitored closely.
+
+
+
+78.     Institutional arrangements for E&S risk management. Although the CPA has experience working with
+
+international financiers, it does not have experience with the World Bank’s ESF. CPA has assigned two officials as the Social
+
+Focal Point and Environmental Focal Points for the Project preparation who are experienced in land acquisition,
+
+resettlement, and environmental issues, especially through the implementation of the ongoing Matarbari Port
+
+Development Project financed by JICA. In addition, the CPA has four professional staff in the hydrography unit. The staff
+
+from the CPA have been participating in ESF courses offered by the E&S Learning Center established at the Bangladesh
+
+University of Engineering and Technology under the World Bank ESF Capacity Building Program. The CPA hired an
+
+international consulting firm to update the ESIA, including ESMPs, and prepare the SEP and RAP. To strengthen
+
+implementation capacity, the CPA will establish an Environmental and Social Cell within the PIU with qualified staff and
+
+resources. It will also hire an Environmental and Social Supervision and Monitoring Consultant to oversee the
+
+implementation of various ESMPs, prepare corrective action plans, and report on the different components of the project.
+
+Furthermore, the Project has been identified to receive additional E&S support from the World Bank under the E&S Hands-
+
+on Expanded Implementation Support. An Environmental and Social Training Plan (ESTP) will be prepared for the Project’s
+
+workers, contractors, and community organizations and will include a schedule, budget, goals, and indicators. The first-
+
+year ESTP will be submitted to the World Bank within 30 days of the effective date.
+
+
+
+ E. Gender
+
+
+
+79.      The number of women-owned enterprises in Bangladesh that are engaged in cross-border trade is considered
+
+minimal. 20 Women are less involved in cross-border trade due to (a) limited access to information on trade regulations
+
+and bureaucratic requirements; (b) a higher likelihood of facing corruption and harassment because of limited gender
+
+sensitivity among border agencies or inadequate women-friendly environments and services; and (c) the smaller average
+
+
+
+
+
+20One study found that none of the 100 surveyed female-owned or female-operated firms in Bangladesh’s textile and apparel industry or
+
+processed agro-food industry were directly involved in cross-border trade. Source: Nora, Luiza A., Hiska Noemi Reyes, Ferdous Jahan, Talajeh Livani,
+
+and Anna Tara Lonnberg. 2021. Women’s Participation, Constraints, and Opportunities for Trade in Bangladesh. Washington, DC: World Bank
+
+Group.
+
+
+
+                                                                                                                                           Page 20
+
+            The World Bank
+
+            Bay Terminal Marine Infrastructure Development Project (P176812)
+
+
+
+
+
+size of women-owned firms. 21 Furthermore, women have limited opportunities for maritime employment in Bangladesh
+
+as well; women were allowed to be admitted to the Maritime Academy only in 2012, and the sector remains male-
+
+dominated. The Project will implement activities to increase knowledge and skills among women on port operations,
+
+sensitize the CPA and maritime authorities to opportunities to support women’s employment in the sector, and enable
+
+women-owned entrepreneurs to enter the export value chain. Through the establishment of the COE under Component
+
+2, the Project will provide trainings on port operations and trade procedures to (a) women working in the CPA to advance
+
+their careers; (b) women interested in port operations employment (as engineers, pilots, and E&S experts); and (c)
+
+women-owned enterprises exploring trade opportunities. The COE trainings will not only expand access for women but
+
+also increase their competitiveness and build networks within the sector to either enter or advance in maritime and trade-
+
+related jobs. The Project will also set up dedicated information desks with a female official at the CPA to support women
+
+entrepreneurs meet bureaucratic procedures and sensitize the CPA staff on the specific needs of women-owned
+
+enterprises. In addition, it will support enterprise development programs targeting women traders and entrepreneurs.
+
+Cumulatively, these actions will increase knowledge and information on port operations among women and enhance their
+
+economic empowerment through employment or entrepreneurship.
+
+
+
+ F. Citizen Engagement
+
+
+
+80.     The Project will adopt a robust citizen engagement approach, including (a) comprehensive consultations with
+
+project beneficiaries and project-affected parties during the Project, with a particular focus on local communities and
+
+vulnerable and marginalized groups; (b) a project-level gender-responsive and culturally appropriate grievance redress
+
+mechanism (GRM) with grievance redress committees to promptly address project-related grievances; (c) participatory
+
+planning to engage with local communities to determine the improved social and cultural spaces and with women to
+
+ensure gender-sensitive designs for infrastructure and improve women’s access to jobs and the creation of women-led
+
+businesses; and (d) satisfaction surveys of shipping lines carried out at least three times as outlined in the Results
+
+Framework, which includes two beneficiary indicators related to the functioning of the GRM and the satisfaction of port
+
+users.
+
+
+
+ V.           GRIEVANCE REDRESS SERVICES
+
+
+
+
+
+ 81.     Grievance redress. Communities and individuals who believe that they are adversely affected by a project
+
+ supported by the World Bank may submit complaints to existing project-level grievance mechanisms or the Bank’s
+
+ Grievance Redress Service (GRS). The GRS ensures that complaints received are promptly reviewed in order to address
+
+ project-related concerns. Project-affected communities and individuals may submit their complaint to the Bank’s
+
+ independent Accountability Mechanism (AM). The AM houses the Inspection Panel, which determines whether harm
+
+ occurred, or could occur, as a result of Bank non-compliance with its policies and procedures, and the Dispute
+
+ Resolution Service, which provides communities and borrowers with the opportunity to address complaints through
+
+ dispute resolution. Complaints may be submitted to the AM at any time after concerns have been brought directly to
+
+ the attention of Bank Management and after Management has been given an opportunity to respond. For information
+
+ on how to submit complaints to the Bank’s Grievance Redress Service (GRS), visit http://www.worldbank.org/GRS. For
+
+ information on how to submit complaints to the Bank’s Accountability Mechanism, visit
+
+ https://accountability.worldbank.org.
+
+
+
+
+
+
+
+
+
+21   Solotaroff, J., et al. 2019. Voices to Choices. Washington, DC: World Bank.
+
+
+
+                                                                                                                  Page 21
+
+       The World Bank
+
+       Bay Terminal Marine Infrastructure Development Project (P176812)
+
+
+
+
+
+
+
+ VI.     KEY RISKS
+
+
+
+82.    The overall risk to the achievement of the Project objectives is Substantial. Project-related risks are discussed
+
+below.
+
+
+
+83.      Sector Strategies and Policies risk is rated Substantial. There is a risk of backsliding on the adoption of the
+
+landlord port model and concessioning of the development and operations of CT 1 to the ITO or the failure to meet grantor
+
+obligations under the concession agreements (for example, berth allocation rights and timely tariff adjustments). This risk
+
+is mitigated by (a) the CPA’s recent award of a long-term operations and maintenance concession for the PCT to an ITO,
+
+(b) the progress made by the CPA in negotiating an agreement with a select ITO for CT 1 under a government-to-
+
+government framework, and (c) the disbursement condition in the financing agreement for issuance of the RFP for the CT
+
+1 concession.
+
+
+
+84.      Technical Design risk is rated High. This is Bangladesh’s first large-scale maritime port project with unique
+
+technical design risks. The boundary conditions of the planned Bay Terminal come with several technical challenges, which
+
+are quite special and severe in view of the specific geographical location of the site. These conditions contribute to high
+
+tidal ranges and related strong tidal currents in the Bay of Bengal, in addition to potential cyclones and tsunamis. As such,
+
+proper master planning and design are required to ensure that the development of the Bay Terminal is technically sound,
+
+economically viable, and socially and environmentally acceptable.
+
+
+
+85.      The World Bank’s technical experts are supporting the CPA in reviewing inputs to project documentation to ensure
+
+that the designs follow international design standards for safety and efficiency. Inputs are sought from private investors
+
+to better inform the proposed design solutions. To mitigate the risks of poor construction quality and works not following
+
+plans and specifications, the design firms currently hired for the marine and landside infrastructure design will extend
+
+their services to supervise the works. The works contracts will be carefully structured to minimize interface risks between
+
+the breakwater contractor, the dredging contractor, and the contractors for complementary investments. Climate-
+
+resilient design solutions will be incorporated in the technical design in collaboration with the Global Center on
+
+Adaptation.
+
+
+
+86.       Institutional Capacity for Implementation and Sustainability risk is rated Substantial. An understaffed PIU and
+
+slow decision-making in hiring the required consultants could delay the implementation of the Project. These risks will be
+
+mitigated by ensuring that (a) PIU staff are in place and the POM is prepared and adopted before credit effectiveness; (b)
+
+project management consultancy services or a civil works supervision engineer are in place before the commencement of
+
+works; and (c) a capacity building program is implemented for landlord port management. The Global Infrastructure
+
+Facility is being engaged for potential support to strengthen the CPA team in the RFP process for reaching an agreement
+
+with the ITOs on the terms and conditions of the concessions.
+
+
+
+87.     Fiduciary risk is rated Substantial. FM risk and procurement risk are both rated Substantial. The principal risks
+
+and the corresponding mitigation measures are highlighted in paragraphs 67 and 72.
+
+
+
+88.   Environment and Social risk is rated High. The E&S risks and impacts of the Project and the corresponding risk
+
+management measures are highlighted in paragraphs 74–78.
+
+
+
+89.      Stakeholders risk is rated Substantial. The Project involves a broad range of stakeholders at the international
+
+level (ITOs) and at the national level (CPA, the MoS, Bangladesh PPP Authority, different contractors, and project-affected
+
+persons [PAPs]). Financing sources are different for each investment and require good coordination to ensure timely
+
+completion of the Bay Terminal. Periodic meetings of stakeholders will be organized either by the Chairperson of CPA or
+
+                                                                                                                     Page 22
+
+       The World Bank
+
+       Bay Terminal Marine Infrastructure Development Project (P176812)
+
+
+
+
+
+the MoS during each step of implementation to provide updates on the execution of the Project and to agree on key
+
+actions, including the sequencing for each investment. Frequent site meetings will be organized by the PIU. A consultation
+
+and communication process will also be in place to address issues related to landlord port implementation, such as tariffs
+
+or improvements to the customs clearing process. PAPs, other interested parties, and vulnerable and marginalized groups
+
+are being consulted diligently through various channels to ensure the inclusion of all stakeholders. Project information is
+
+being shared with all relevant stakeholders and their inputs will be reflected in the project design.
+
+
+
+90.     Other risks - counterpart funding risk is rated Substantial. Counterpart funding risks relate to the entire Bay
+
+Terminal to mitigate the risk of the IDA-financed Project becoming a stranded asset. The overall Bay Terminal requires
+
+financing of other critical public investments by the CPA as well as private investments, and there is a risk that funding for
+
+these complementary investments is not available on time. As a mitigation measure, a robust agreement framework, due
+
+diligence, and regular monitoring during implementation will be conducted.
+
+
+
+
+
+
+
+
+
+                                                                                                                      Page 23
+
+        The World Bank
+
+        Bay Terminal Marine Infrastructure Development Project(P176812)
+
+
+
+
+
+
+
+                                                          VII.      RESULTS FRAMEWORK AND MONITORING
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padannexresultframework#doctemplate
+
+PDO Indicators by PDO Outcomes
+
+
+
+   Baseline                                                                                      Closing Period
+
+                                                                             Enabling of private capital mobilization
+
+   Private investment for the development of at least one container terminal (Amount(USD))
+
+   Jun/2024                                                                                      Jun/2031
+
+   0                                                                                             830000000
+
+                                                                        Increase in maritime port operational efficiency
+
+   Panamax sized vessel able to enter the Bay Terminal of Chittagong Port (Yes/No)
+
+   Jun/2024                                                                                      Jun/2031
+
+   No                                                                                            Yes
+
+   Construction of a climate resilient breakwater (Yes/No)
+
+   Jun/2024                                                                                      Jun/2031
+
+   No                                                                                            Yes
+
+   Shippers satisfied with navigation safety, accessibility, and efficiencies of the port entrance and basin (Percentage)
+
+   Jun/2031                                                                                      Jun/2031
+
+   0                                                                                             80
+
+
+
+
+
+Intermediate Indicators by Components
+
+
+
+   Baseline                                                                                 Closing Period
+
+                                              Support Port Marine Civil Infrastructure, Equipment, and Navigation System Development
+
+   People benefiting from improved access to sustainable transport infrastructure and services (Number of people) CRI
+
+   May/2024                                                                                 Jun/2031
+
+   0                                                                                        1,000,000
+
+     People benefiting from improved access to sustainable transport infrastructure and services – Youth (Number of people) CRI
+
+   May/2024                                                                                 Jun/2031
+
+   0                                                                                        200000
+
+     People benefiting from improved access to sustainable transport infrastructure and services – Female (Number of people) CRI
+
+
+
+
+
+
+
+                                                                                                                                       Page 24
+
+     The World Bank
+
+     Bay Terminal Marine Infrastructure Development Project(P176812)
+
+
+
+
+
+May/2024                                                                                  Jun/2031
+
+0                                                                                         500000
+
+Access channel dredged for design vessel with at least 4500 TEU capacity to access Bay Terminal (Kilometers)
+
+Jun/2024                                                                                  Jun/2031
+
+0                                                                                         6.6
+
+Navigational aid system installed and operational along the length of the access channel (Yes/No)
+
+May/2024                                                                                  Jun/2031
+
+No                                                                                        Yes
+
+Private capital enabled for Phase two of the Bay Terminal (Amount(USD))
+
+Jun/2024                                                                                  Jun/2031
+
+0                                                                                         830000000
+
+                                                         Support Port Efficiency Improvements and Capacity Development
+
+Female trainees demonstrating knowledge or skills on port operations (Percentage)
+
+Jun/2024                                                                                  Jun/2031
+
+0                                                                                         70
+
+People trained at the Centre of Excellence (Number)
+
+May/2024                                                                                  Jun/2031
+
+0                                                                                         500
+
+Grievances received that are processed within the stipulated service standards (Percentage)
+
+May/2024                                                                                  Jun/2031
+
+0                                                                                         80
+
+                                                                         Contingency Emergency Response
+
+
+
+
+
+
+
+
+
+                                                                                                                         Page 25
+
+        The World Bank
+
+        Bay Terminal Marine Infrastructure Development Project (P176812)
+
+
+
+
+
+
+
+Monitoring & Evaluation Plan: PDO Indicators by PDO Outcomes
+
+Enabling of private capital mobilization
+
+Private investment for the development of at least one container terminal (Amount (USD))
+
+                           This indicator measures the private capital mobilized for investment in CT 1 at the new Bay Terminal. As the timing for
+
+Description                the second container terminal will be market driven and after Project closure, this indicator will only measure private
+
+                           investment for the first container terminal.
+
+Frequency                  Biannually
+
+Data source                Evidence of financial close being reached for the first container terminal
+
+Methodology for Data
+
+                           Final costing as presented in the private sector proposal will be reviewed.
+
+Collection
+
+Responsibility for Data
+
+                           CPA
+
+Collection
+
+Increase in maritime port operational efficiency
+
+Construction of a climate resilient breakwater (Yes/No)
+
+                           This indicator measures whether the proposed breakwater for Bay Terminal is designed with climate change
+
+Description                considerations in providing a resilient structure and ensuring continuity in operations for the port for more than 90
+
+                           percent of the time.
+
+Frequency                  Quarterly
+
+Data source                Project progress reports
+
+Methodology for Data
+
+                           Review of project progress reports to track construction progress of the breakwater
+
+Collection
+
+Responsibility for Data
+
+                           CPA
+
+Collection
+
+Panamax sized vessels able to enter the Bay Terminal of Chittagong Port (Yes/No)
+
+                           This indicator measures the increase in size of vessels able to access Bay Terminal as a result of dredging the access
+
+                           channel and basin. Vessels with capacity of 1,702 TEU and call size of 2,336 TEU currently access the existing port during
+
+Description
+
+                           specific tidal windows. The aim for Bay Terminal is to increase the allowable draught to 12 m, which will allow vessels up
+
+                           to 4,500 TEU capacity to access the port.
+
+Frequency                  At the start and at the end of the Project
+
+Data source                CPA records containing vessel traffic and cargo information or bathymetric survey at Project closure
+
+                           CPA records will be reviewed to determine the maximum call size of vessels calling at Bay Terminal. The methodology will
+
+Methodology for Data
+
+                           follow the standard definition already applied by the CPA. Alternatively, a bathymetric survey on the depth could be
+
+Collection
+
+                           done 6 months before the closure of the Project.
+
+Responsibility for Data
+
+                           CPA
+
+Collection
+
+Shippers satisfied with navigation safety, accessibility, and efficiencies of the port entrance and basin
+
+                           Indicator to measure the variation in level of satisfaction of the port users after completion of construction works.
+
+                           Baseline and end line surveys will be carried out to establish the satisfaction of users with the existing port performance
+
+Description
+
+                           and the proposed Bay Terminal performance. A midline survey will be carried out to establish satisfaction with ongoing
+
+                           progress of works and with proposed final concept.
+
+Frequency                  Baseline, midline, and end line
+
+Data source                User Satisfaction Survey Report
+
+Methodology for Data
+
+                           A baseline, midline, and end line survey for user satisfaction will be conducted.
+
+Collection
+
+Responsibility for Data
+
+                           CPA through use of an independent consultant
+
+Collection
+
+
+
+
+
+
+
+
+
+                                                                                                                                             Page 26
+
+        The World Bank
+
+        Bay Terminal Marine Infrastructure Development Project (P176812)
+
+
+
+
+
+
+
+Monitoring & Evaluation Plan: Intermediate Results Indicators by Components
+
+Support Port Marine Civil Infrastructure, Equipment, and Navigation System Development
+
+People benefiting from improved access to sustainable transport infrastructure and services (Number of people) CRI
+
+                          This indicator will assess the number of people benefiting from improved access to sustainable transport services
+
+Description
+
+                          through Bay Terminal.
+
+Frequency                 At the start and at the end of the Project
+
+Data source                World Bank analysis reports
+
+Methodology for Data
+
+                           An impact evaluation will be done by the World Bank.
+
+Collection
+
+Responsibility for Data
+
+                           World Bank
+
+Collection
+
+People benefiting from improved access to sustainable transport infrastructure and services – Youth (Number of people) CRI
+
+                           This indicator will assess the number of youth benefiting from improved access to sustainable transport services through
+
+Description
+
+                           Bay Terminal.
+
+Frequency                  At the start and at the end of the Project
+
+Data source                World Bank analysis reports
+
+Methodology for Data
+
+                           An impact evaluation will be done by the World Bank.
+
+Collection
+
+Responsibility for Data
+
+                            World Bank
+
+Collection
+
+People benefiting from improved access to sustainable transport infrastructure and services – Female (Number of people) CRI
+
+                           This indicator will assess the number of people benefiting from improved access to sustainable transport services
+
+Description
+
+                           through Bay Terminal.
+
+Frequency                  At the start and at the end of the Project
+
+Data source                World Bank analysis reports
+
+Methodology for Data
+
+                           An impact evaluation will be done by the World Bank.
+
+Collection
+
+Responsibility for Data
+
+                           World Bank
+
+Collection
+
+Access channel dredged for design vessel with at least 4,500 TEU capacity to access Bay Terminal (Kilometers)
+
+                           This indicator measures the length of access channel dredged to enable larger vessels, such as Panamax vessels with
+
+Description
+
+                           4,500 TEU capacity, to access the Bay Terminal.
+
+Frequency                  Quarterly
+
+Data source                Project Progress Report
+
+Methodology for Data
+
+                           Review of Project Progress Report for capital dredging of entrance channel and basin
+
+Collection
+
+Responsibility for Data
+
+                           CPA
+
+Collection
+
+Navigational aid system installed and operational along the length of the access channel (Yes/No)
+
+                           This indicator will measure whether the installation of navigational aids is completed and operationalized for the
+
+Description
+
+                           navigation aids to Bay Terminal.
+
+Frequency                  Quarterly
+
+Data source                Project Progress Report
+
+Methodology for Data
+
+                           Review of Project Progress Report
+
+Collection
+
+Responsibility for Data
+
+                           CPA
+
+Collection
+
+Private capital enabled for Phase two of the Bay Terminal (Amount(USD))
+
+Description                This indicator will measure the potential investment in Phase two of the Bay Terminal, namely CT 2.
+
+
+
+
+
+                                                                                                                                           Page 27
+
+        The World Bank
+
+        Bay Terminal Marine Infrastructure Development Project (P176812)
+
+
+
+
+
+Frequency                 Biannually
+
+Data source               The proposal submitted by the ITO for CT 2 in response to the RFP
+
+Methodology for Data
+
+                          Review of the proposal submitted by the ITO
+
+Collection
+
+Responsibility for Data
+
+                          CPA
+
+Collection
+
+Support port efficiency improvements and capacity development
+
+Female trainees demonstrating knowledge or skills on port operations (Percentage)
+
+                          The indicator measures the share of female trainees demonstrating increased knowledge or skills in port operations. The
+
+Description               measurement will only consider women trainees and will also measure the share of women as a percentage of the total
+
+                          number of trainees, with ≥30 percent of female participants desired.
+
+Frequency                 Annually
+
+Data source               Training records from the CPA
+
+Methodology for Data      A pre- and post-training test will be conducted with the threshold ≥70 percent score on post-training test to capture
+
+Collection                increase in knowledge level.
+
+Responsibility for Data   CPA
+
+Collection
+
+People trained at the Centre of Excellence (Number)
+
+                          This indicator measures the number of people to be trained under the COE before the end of the Project. It will also
+
+Description
+
+                          measure the share of women trained under the COE.
+
+Frequency                 Annually
+
+Data source               Record keeping by the COE
+
+Methodology for Data
+
+                          Review of records
+
+Collection
+
+Responsibility for Data
+
+                          CPA
+
+Collection
+
+Grievances received that are processed within the stipulated service standards (Percentage)
+
+                          Indicator to establish and measure the functionality of the GRM in the CPA under the Project. Standards for different
+
+Description
+
+                          types of grievances to be set up as a part of the GRM processing protocols.
+
+Frequency                 Quarterly
+
+Data source               GRM database
+
+Methodology for Data
+
+                          Review of the GRM reports
+
+Collection
+
+Responsibility for Data
+
+                          CPA
+
+Collection
+
+
+
+
+
+
+
+
+
+                                                                                                                                         Page 28
+
+        The World Bank
+
+        Bay Terminal Marine Infrastructure Development Project (P176812)
+
+
+
+
+
+
+
+                               ANNEX 1: Implementation Arrangements and Support Plan
+
+
+
+1.       Organization structure of the PIU. The PIU will be headed by a project director who will directly report to the
+
+chairman of CPA and will comprise of two deputy project directors: one in charge of the implementation of the breakwater
+
+and procurement activities and the other in charge of access channel and port basin dredging activities. The PIU will also
+
+include (a) one hydrographer who will support the implementation of dredging activities and supply and installation of
+
+aids to navigation; (b) one assistant engineer who will support the implementation of the breakwater; (c) one monitoring
+
+and evaluation officer; (d) one account officer; (e) one programming and appraisal officer; (f) one sub-assistant engineer;
+
+(g) one social expert; and (h) one environmental specialist. The social and environmental experts along with the E&S
+
+consultant will ensure satisfactory implementation of project activities in line with World Bank E&S requirements. The
+
+CPA engineering and hydrography team, headed by the Member Engineering and Member Hydrography will review
+
+technical designs and provide technical inputs for the recruitment of contractors for public works.
+
+
+
+2.       The ESMP will be an integral part of the bid and contract documents for each civil works contract, and the bids
+
+will include a detailed E&S mitigation budget as part of the costs. The contractors will prepare site-specific ESMPs and
+
+subplans identified in the ESCP and will be responsible for the implementation of, and compliance with, the ESMPs; the
+
+contractors will hire environmental specialist(s) and Health and Safety Officer(s)/Specialist(s) for this purpose. The
+
+supervision consultant/independent engineer will ensure implementation and monitoring of the ESMP by (a) reviewing
+
+site-specific ESMPs and developing good practices to assist contractors in their implementation; (b) ensuring that
+
+contractors comply with ESMP requirements and that construction activities are environmentally sound and sustainable;
+
+and (c) preparing and submitting regular environmental progress reports, including details of noncompliance and
+
+rectification by contractors, as well as the results of monitoring activities.
+
+
+
+3.       Resettlement/compensation. The PD will be responsible for the implementation of the RAP and interagency
+
+coordination, including grievance redress. He/she will be assisted by a social development/resettlement specialist. A land
+
+acquisition officer and additional representatives, if deemed necessary, will acquire the land. An RAP Coordination
+
+Committee, which will include the PD and the land acquisition officer, will assist in RAP implementation, and ensure that
+
+all agencies involved are fully informed on the RAP. The social development/resettlement specialist will (a) review and
+
+verify internal monitoring reports; (b) identify and select impact indicators; (c) conduct an impact assessment through
+
+formal and informal surveys with PAPs; (d) consult with the PAPs and the CPA in preparing review reports; and (e) assess
+
+resettlement efficiency, effectiveness, impact, and sustainability. Monitoring will focus on the status of project-affected
+
+vulnerable groups. Indicators are expected to include (a) the socioeconomic conditions of PAPs; (b) reactions from PAPs
+
+on entitlements and compensation; (c) changes in housing and business restoration; (d) grievance procedures, including
+
+recording, processing time, and redress; (e) progress of community development schemes; (f) disbursement of
+
+compensation; and (g) satisfaction of PAPs in the post-resettlement period. An independent agency (a nongovernmental
+
+organization, an academic institute, or a consultant) will conduct periodic monitoring and evaluation and third-party
+
+validation of RAP activities.
+
+
+
+4.      An SEA/SH GRM will be established locally at the project site as a corresponding body to the overall project GRM
+
+using the existing framework to allow for prompt, safe, and ethical handling of and response to GBV/SEA/SH cases in a
+
+survivor-centric approach. A GBV focal point at the project level will be identified within the Grievance Redress Committee,
+
+who will respond to all GBV/SEA/SH cases incurred by the project. The focal point will link with and refer cases to existing
+
+local GBV services.
+
+
+
+
+
+
+
+
+
+                                                                                                                      Page 29
+
+         The World Bank
+
+         Bay Terminal Marine Infrastructure Development Project (P176812)
+
+
+
+
+
+Procurement
+
+
+
+8.       PPSD. A PPSD is being developed for the project. Extensive market analysis is being conducted with a focus on
+
+large-value and complex procurements, such as the construction of the breakwater (works) and capital dredging (works),
+
+as well as supply and installation of navigation aids (goods). Based on the findings of the market analysis, packages and
+
+lots will be finalized for civil works and goods based on a ‘fit-for-purpose’ strategy. The PPSD shall explore different
+
+contracting options, such as (a) traditional owner’s design and admeasurement; (b) design and build; and (c) PBC,
+
+particularly for dredging. The PPSD may recommend either combining the three activities in one package or having three
+
+separate packages. The Procurement Plan will be updated, setting out the selection methods for the procurement of
+
+goods, works, and non-consulting and consulting services financed under the Project. It will be updated at least annually
+
+or as required to reflect project implementation needs and improvements in institutional capacity. Table 1.1 shows the
+
+preliminary Procurement Plan which will later be revised based on the PPSD.
+
+
+
+                 Table 1.1. Preliminary Procurement Plan for Major Activities Planned during the First 18 Months
+
+                                              Estimated                      Procurement
+
+                                                                 Bank                          Selection
+
+ No.                 Activity                Amount (US$,                   Approach/Co                       Evaluation Method
+
+                                                               Oversight                        Method
+
+                                               millions)                      mpetition
+
+  1     Breakwater Structure and Capital       827.0          Prior         CW-PQ             RFB           Most Advantageous
+
+        Dredginga                                                                                           Proposal (Rated
+
+                                                                                                            Criteria)
+
+  2     Navigation aids and VTMS                   5.0        Prior         G (IS)            RFB           Most Advantageous Bid
+
+                                                                                                            (Rated Criteria)
+
+  3     TA for COE function and                     0.5         Prior       CS                QCBS          Most Advantageous Bid
+
+        operation, (identification of
+
+        equipment, development of
+
+        resource plans and programs)
+
+Note: CS = Consultancy Service; CW-PQ = Civil Works – Pre-Qualification; G (IS) = Goods (International Selection); QCBS = Quality-
+
+and Cost-Based Selection; RFB = Request for Bids.
+
+a. Package No. 1 will likely be separated into Construction of Breakwater and Capital and Maintenance Dredging, based on the
+
+market survey under way and on the finalization of the PPSD.
+
+
+
+9.    Rated criteria shall be used for all international competitive procurements to ensure that Environmental, Social,
+
+Economic and Climate Change (Paris Alignment) aspects are considered in the procurement processes.
+
+
+
+10.     Works contracts for the construction of the climate-resilient breakwater and for capital dredging. Given the high
+
+technical risk and the complexity of constructing the breakwater, the PPSD may inform the procurement strategy to follow
+
+unconventional approaches for these contracts, including slicing and packaging. The procurement of the contract(s) for
+
+the breakwater and for capital dredging will follow an international competitive approach as the estimated value and
+
+perceived technical risks are high. The World Bank’s SPDs shall be used for all procurements when approaching the
+
+international market. The capital dredging contract may also include a three-year performance-based maintenance
+
+dredging period that will be used to collect data on dredging needs before floating longer-term maintenance dredging
+
+contracts.
+
+
+
+11.    Procurement staffing. The number, qualifications, and experience of PIU procurement staff will be established
+
+based on the findings of the PPSD.
+
+
+
+
+
+
+
+
+
+                                                                                                                                Page 30
+
+        The World Bank
+
+        Bay Terminal Marine Infrastructure Development Project (P176812)
+
+
+
+
+
+12.     Prior reviews and post reviews. Prior and post review thresholds will be established by the PPSD, based on risk
+
+and the value of the procurement activities.
+
+
+
+Financial Management
+
+
+
+18.     Planning and budgeting. An FM specialist and an accounts officer will carry out day-to-day FM functions. The
+
+relevant expenditures under the proposed Project will be segregated as specified in the Government’s Development
+
+Project Proposal. Budget preparation and execution will take place electronically using the GoB’s integrated budgetary
+
+and accounting system (iBAS++), and the budget must be released through the system in a timely manner for the PIU to
+
+execute project activities according to the budget allocation. The counterpart funding contribution will flow to the Project
+
+as parallel co-financing. The Project will use separate fund codes (Budget and Accounting Classification System) for each
+
+source of financing, and expenditure to be financed under each source will be earmarked in the planning document to
+
+avoid double-dipping while approving the payments for contractor’s invoices during implementation. The detailed
+
+procedures will be included in the FM section of the Project Operations Manual.
+
+
+
+19.      Eligibility of financing. IDA financing of US$650 million will flow to the Project at 100 percent in the beginning;
+
+however, the financing gap funding, when materialized, will flow to the Project as joint co-financing at the ratio applicable
+
+at the time of its commitment. The incurred costs will be adjusted at the agreed ratio in the amended financing agreement.
+
+All incremental operating costs will be funded on parallel basis by the counterpart. World Bank financing will also not
+
+cover expenditures related to vehicles, while taxes will be allowable up to 15 percent of the total IDA credit. All value
+
+added taxes and customs duties will be financed by the counterpart. In view of two sources of financing, disbursements
+
+would first commence under IDA 7604-BD.
+
+
+
+20.     Funds flow and disbursement. The preferred method of disbursement will be the special commitment and direct
+
+payment options. A Designated Account (DA), in the form of Convertible Taka Special Account, may be opened with a
+
+national commercial bank to receive IDA funds for project implementation, if required after signing. IDA funds will flow
+
+based on withdrawal applications submitted by the Government to the World Bank. The PIU will be responsible for
+
+submitting disbursement applications to the World Bank, which will be based on Statements of Expenditure. Since there
+
+are three sources of financing, disbursement would first commence under IDA 7604-BD, then under IDA 7605-BD and then
+
+under IDA 7606-BD.
+
+
+
+21.     Financial reporting. The PIU will prepare an IUFR on a quarterly basis in the format agreed with the World Bank
+
+and submit it to the World Bank for its review and clearance within 45 days from the end of each quarter. The project will
+
+use and mainstream Special Account Management Portal (that is, iBAS++ - SAMP) administered by the Finance Division
+
+for processing all Project transactions, accounting, financial reporting, and monitoring of execution.
+
+
+
+22.     External audit. The FAPAD will express an opinion on the project financial statements in accordance with
+
+International Standards of Auditing and submit the report within six months of the end of each financial year. In addition,
+
+the auditor is required to provide a management letter containing the auditor’s observations on internal controls and
+
+compliance with the financial covenants as laid out in the Financing Agreement. There is no pending audit report for any
+
+of the projects funded by IDA under the MoS, nor for the CPA.
+
+
+
+23.      Internal audit. The Project will engage a private auditor to conduct at least two rounds of internal audit over the
+
+life of the Project to evaluate the Project’s internal control functions and operational effectiveness. It will prepare an
+
+action plan based on the recommendations of the internal auditor and monitor its implementation. The terms of reference
+
+
+
+
+
+
+
+
+
+                                                                                                                       Page 31
+
+        The World Bank
+
+        Bay Terminal Marine Infrastructure Development Project (P176812)
+
+
+
+
+
+(ToR) for the internal audit function will be shared with the World Bank for concurrence before the engagement of the
+
+auditor.
+
+
+
+24.     Audit committee. A Project Audit Review Committee (PARC) will be constituted to ensure that the issues raised
+
+by the internal audit and the external audit are reviewed and to ensure the preparation of appropriate clarifications and
+
+robust follow-up of the audit recommendations. The PARC will also ensure the timely uploading of clarifications to the
+
+external audit on the Audit Management and Monitoring System (AMMS 2.0). A ToR for the PARC will be prepared by the
+
+project and concurred by the World Bank.
+
+
+
+25.     Implementation support. The World Bank will support the PIU on a regular basis, specifically by providing
+
+feedback on IUFRs, during supervision missions and field visits, and training. Field visits will be more frequent in the initial
+
+stages. Once the finance staff are in place, the World Bank will conduct the required training sessions.
+
+
+
+Implementation Support Plan
+
+
+
+26.     The World Bank will provide project implementation support based on the risks identified and the mitigation
+
+measures proposed in the risk section. World Bank hands-on support will be needed for technical, E&S, and fiduciary
+
+aspects of the Project. Experienced marine engineers and port operation experts will review the technical aspects and will
+
+provide inputs to the technical design as well as the bid documents for key investments and will conduct field visits during
+
+construction to ensure the quality of implementation. Procurement training will be conducted, and hands-on support will
+
+be provided especially for high-value contracts, notably the breakwater and the access channel. Technical assistance will
+
+be designed to identify the needs (such as for training, equipment, and new skills) of the CPA for the proper management
+
+of the Bay Terminal Project during construction and operation.
+
+
+
+27.     The World Bank will undertake regular semiannual implementation support missions to assess project
+
+performance and areas of concern. These missions will, among others, be based on the reports of the implementation
+
+agencies. The World Bank missions will include specialists in key functional areas, namely technical, fiduciary, E&S, and
+
+project management (Table 1.2).
+
+
+
+28.     A midterm review (MTR) will be conducted 36 months from credit effectiveness. The MTR would assess overall
+
+implementation performance and progress toward achievement of the PDO and make recommendations for any changes
+
+required to the Project.
+
+
+
+                                 Table 1.2. Resource Requirements for Implementation Support
+
+        Time                           Focus                                Skilled Needed               Resource Estimate
+
+First 12 months     Reviewing technical studies for both        Transport sector specialists          8 staff weeks (SW)
+
+                    marine and land sides and concession        Commercial experts                    4 SW
+
+                    documents                                   Port experts                          8 SW
+
+                    Preparing bidding documents and bidding     Procurement specialist                8 SW
+
+                    strategy                                    Port experts
+
+                    Updating E&S                                E&S experts                           8 SW
+
+                    Review project implementation manuals       Transport specialist                  4 SW
+
+                                                                Financial management specialist       4 SW
+
+                                                                Procurement specialist                4 SW
+
+                    Prepare technical assistance activities     Transport sector specialists          3 SW
+
+
+
+
+
+
+
+
+
+                                                                                                                          Page 32
+
+      The World Bank
+
+      Bay Terminal Marine Infrastructure Development Project (P176812)
+
+
+
+
+
+      Time                        Focus                            Skilled Needed      Resource Estimate
+
+12–96 months    Tendering and evaluation of bidding    Procurement specialist       6 SW/year
+
+                documents and award of contracts       Transport Specialist         2 SW/year
+
+                                                       Technical expert (ports)     2 SW/year
+
+                Civil works of key investments         Transport specialist         8 SW/year
+
+                                                       Procurement specialist       2 SW/year
+
+                                                       E&S experts                  4 SW/year
+
+                                                       Technical experts (ports)    4 SW/year
+
+                Implementation of training             Transport specialist         8 SW/year
+
+                Technical assistance                   Institutional Specialist     8 SW/year
+
+
+
+
+
+
+
+
+
+                                                                                                      Page 33
+
+

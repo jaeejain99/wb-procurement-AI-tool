@@ -1,0 +1,4479 @@
+                                                        Report No: ICR00091
+
+   IMPLEMENTATION COMPLETION AND RESULTS REPORT
+
+                 (Credit No. 63030)
+
+                         ON A
+
+
+
+
+
+       CREDIT IN THE AMOUNT OF SDR14.2 MILLION
+
+              (US$20 MILLION EQUIVALENT)
+
+
+
+                      TO THE
+
+                 REPUBLIC OF GHANA
+
+
+
+                         FOR
+
+GHANA ENERGY SECTOR TRANSFORMATION INITIATIVE PROJECT
+
+                   January 31, 2025
+
+
+
+
+
+
+
+
+
+                 Energy & Extractives
+
+               Western And Central Africa
+
+The World Bank
+
+Ghana Energy Sector Transformation Initiative Project (P163984)                                ICR DOCUMENT
+
+
+
+
+
+                                        CURRENCY EQUIVALENTS
+
+
+
+                          (Exchange Rate Effective {December 31, 2024})
+
+
+
+                                                                  New Ghanaian Cedi
+
+                                             Currency Unit =
+
+                                                                  (GHC)
+
+                                                GHC 16.30 = US$1
+
+
+
+                                                 US$ 1.30 = SDR1
+
+
+
+                                              FISCAL YEAR
+
+                                        January 1 - December 31
+
+
+
+
+
+
+
+
+
+             Regional Vice President:       Ousmane Diagana
+
+                    Country Director:       Robert R. Taliercio
+
+                   Regional Director:       Franz R. Drees-Gross
+
+                   Practice Manager:        Ashish Khanna
+
+               Task Team Leader (s):        Dhruva Sahai, Maame Tabuah Ankoh
+
+               ICR Main Contributor:        Donghui Park, Enrique Crousillat, Kwadwo O. Kusi
+
+      The World Bank
+
+      Ghana Energy Sector Transformation Initiative Project (P163984)                 ICR DOCUMENT
+
+
+
+
+
+
+
+ABBREVIATIONS AND ACRONYMS
+
+    ACCPAC          Accounting Software for Client-Centric Applications
+
+    AMI             Advance Metering Infrastructure
+
+    COMAH           Control of Major Accident Hazards
+
+    CPESDP          Coordinated Program of Economic and Social Development Policies
+
+    CPF             Country Partnership Framework
+
+    CPS             Country Partnership Strategy
+
+    CRM             Cylinder Recirculation Model
+
+    CWM             Cash Waterfall Mechanism
+
+    DA              Designated Account
+
+    DPF             Development Policy Financing
+
+    DPO             Development Policy Operation
+
+    DSA             Daily Subsistence Allowance
+
+    E&S             Environmental and Social
+
+    EC              Electoral Commission
+
+    ECF             Extended Credit Facility
+
+    ECG             Electricity Company of Ghana
+
+    EIRR            Economic Internal Rate of Return
+
+    EPPs            Emergency Power Producers
+
+    ERP             Enterprise Resource Planning
+
+    ESMF            Environmental and Social Management Framework
+
+    ESMP            Environmental and Social Management Plan
+
+    ESRP            Energy Sector Recovery Programme
+
+    ESRP            Energy Sector Reform Program
+
+    FA              Financing Agreement
+
+    FIRR            Financial Internal Rate of Return
+
+    FM              Financial Management
+
+    GDP             Gross Domestic Product
+
+    GEDAP           Ghana Energy Development and Access Project
+
+    GESTIP          Ghana Energy Sector Transformation and Initiative Project
+
+    GIFMIS          Ghana Integrated Financial Management Information System
+
+    GIS             Geographic Information System
+
+    GNGC            Ghana National Gas Company
+
+    GNPC            Ghana National Petroleum Corporation
+
+    GoG             Government of Ghana
+
+    GRIDCo          Ghana Grid Company
+
+    GRM             Grievance Redress Mechanism
+
+    GRMC            Grievance Redress Mechanism Committee
+
+    GSA             Gas Sales Agreement
+
+    HFO             Heavy Fuel Oil
+
+    IDA             International Development Association
+
+  The World Bank
+
+  Ghana Energy Sector Transformation Initiative Project (P163984)                           ICR DOCUMENT
+
+
+
+
+
+IFR             Interim Financial Report
+
+IMF             International Monetary Fund
+
+IPPs            Independent Power Producers
+
+IRIs            Intermediate Results Indicators
+
+ISO             International Organization for Standardization
+
+ISR             Implementation Support Report
+
+LCO             Light Crude Oil
+
+LNG             Liquefied Natural Gas
+
+LPG             Liquefied Petroleum Gas
+
+KNUST-TCC       Kwame Nkrumah University of Science and Technology - Technology Consultancy Centre
+
+M&E             Monitoring and Evaluation
+
+MMscf/d         Million Standard Cubic Feet per Day
+
+MoEn            Ministry of Energy
+
+MoGCSP          Ministry of Gender, Children, and Social Protection
+
+MoME            Ministry of Monitoring and Evaluation
+
+MTR             Midterm Review
+
+MYTO            Multi-Year Tariff Order
+
+NEDCo           Northern Electricity Distribution Company
+
+N-Gas           N-Gas Limited
+
+NNPC            Nigerian National Petroleum Corporation
+
+NPA             National Petroleum Authority
+
+NPV             Net Present Value
+
+OMS             Outage Management System
+
+PAD             Project Appraisal Document
+
+PCR             Project Completion Report
+
+PDOs            Project Development Objectives
+
+PIP             Performance Improvement Plan
+
+PIU             Project Implementation Unit
+
+PLS-CADD        Power Line Systems - Computer Aided Design and Drafting
+
+PPPs            Public-Private Partnerships
+
+PURC            Public Utilities Regulatory Commission
+
+SCADA           Supervisory Control and Data Acquisition
+
+SDR             Special Drawing Rights
+
+SOEs            State-Owned Electricity Enterprises
+
+TA              Technical Assistance
+
+TEN             Tweneboa Enyenra Ntomme
+
+TOR             Terms of Reference
+
+VoLL            Value of Lost Load
+
+VRA             Volta River Authority
+
+WAGP            West African Gas Pipeline
+
+             The World Bank
+
+             Ghana Energy Sector Transformation Initiative Project (P163984)                                                                       ICR DOCUMENT
+
+
+
+
+
+
+
+
+
+                                                       TABLE OF CONTENTS
+
+
+
+DATA SHEET ................................................................................................................................................. i
+
+      I.      PROJECT CONTEXT AND DEVELOPMENT OBJECTIVES ..................................................................................1
+
+      II.     OUTCOME ...............................................................................................................................................11
+
+      III.    KEY FACTORS AFFECTED IMPLEMENTATION AND OUTCOME .....................................................................17
+
+      IV.     BANK PERFORMANCE, COMPLIANCE ISSUES, AND RISK TO DEVELOPMENT OUTCOME ..............................21
+
+      V.      LESSONS AND RECOMMENDATIONS.........................................................................................................27
+
+      ANNEX 1. RESULTS FRAMEWORK AND KEY OUTPUTS ........................................................................................29
+
+      ANNEX 2. BANK LENDING AND IMPLEMENTATION SUPPORT/SUPERVISION .......................................................34
+
+      ANNEX 3. PROJECT COST BY COMPONENT .........................................................................................................36
+
+      ANNEX 4. EFFICIENCY ANALYSIS ........................................................................................................................37
+
+      ANNEX 5. BORROWER, CO-FINANCIER AND OTHER PARTNER/STAKEHOLDER COMMENTS .................................38
+
+      ANNEX 6. SUPPORTING DOCUMENTS (IF ANY) ...................................................................................................39
+
+GESTIP Project Completion Report by PIU .................................................................................................. 41
+
+             The World Bank
+
+             Ghana Energy Sector Transformation Initiative Project (P163984)                                 ICR DOCUMENT
+
+
+
+
+
+
+
+
+
+    DATA SHEET
+
+
+
+    @#&OPS~Doctype~OPS^dynamics@icrbasicdata#doctemplate
+
+    BASIC DATA
+
+
+
+    Product Information
+
+
+
+    Operation ID                                                 Operation Name
+
+    P163984                                                      Ghana Energy Sector Transformation Initiative Project
+
+
+
+    Product                                                      Operation Short Name
+
+    Investment Project Financing (IPF)                           GESTIP
+
+
+
+    Operation Status                                             Approval Fiscal Year
+
+    Closed                                                       2019
+
+
+
+    Original EA Category                                         Current EA Category
+
+                                                                 Partial Assessment (B) (Restructuring Data Sheet - 26 Jul
+
+    Not Required (C) (Approval package - 14 Mar 2022)
+
+                                                                 2022)
+
+
+
+    CLIENTS
+
+
+
+
+
+    Borrower/Recipient                                           Implementing Agency
+
+    The Republic of Ghana                                        Ministry of Energy
+
+
+
+
+
+    DEVELOPMENT OBJECTIVE
+
+
+
+    Original Development Objective (Approved as part of Approval Package on 13-Mar-2022)
+
+    The Project development objectives is to: strengthen the capacity of the energy sector to implement sector reforms, and
+
+    improve energy sector planning and coordination in Ghana
+
+
+
+s
+
+s
+
+s
+
+
+
+
+
+
+
+
+
+    @#&OPS~Doctype~OPS^dynamics@icrfinancing#doctemplate
+
+    FINANCING
+
+
+
+    Financing Source               Original Amount (US$)         Revised Amount (US$)        Actual Disbursed (US$)
+
+    World Bank Financing                       20,000,000.00               20,000,000.00                   19,158,353.43
+
+
+
+                                                                                                                             i
+
+          The World Bank
+
+          Ghana Energy Sector Transformation Initiative Project (P163984)                               ICR DOCUMENT
+
+
+
+
+
+IDA-63030                                    20,000,000.00                  20,000,000.00               19,158,353.43
+
+Total                                        20,000,000.00                  20,000,000.00               19,158,353.43
+
+
+
+RESTRUCTURING AND/OR ADDITIONAL FINANCING
+
+
+
+                                            Amount Disbursed
+
+     Date(s)                   Type                                                   Key Revisions
+
+                                            (US$M)
+
+                                                                 •   Components
+
+                                                                 •   Results
+
+                                                                 •   Risks
+
+                                                                 •   Safeguard Policies Triggered
+
+   26-Jul-2022        Portal                              8.03
+
+                                                                 •   Legal Covenants
+
+                                                                 •   Disbursement Estimates
+
+                                                                 •   Loan Closing Date Extension
+
+                                                                 •   Implementation Schedule
+
+
+
+@#&OPS~Doctype~OPS^dynamics@icrkeydates#doctemplate
+
+KEY DATES
+
+
+
+
+
+                          Key Events                                  Planned Date                    Actual Date
+
+
+
+Concept Review                                                         31-Jul-2017                    26-Jul-2017
+
+
+
+Authorize Negotiations                                                14-May-2018                     24-May-2018
+
+
+
+Approval                                                               13-Jul-2018                    13-Jul-2018
+
+
+
+Signing                                                                30-Jul-2018                    12-Dec-2018
+
+
+
+Effectiveness                                                         29-Oct-2018                     08-Feb-2019
+
+
+
+ICR/NCO                                                               29-Nov-2024                           --
+
+
+
+Restructuring Sequence.01                                            Not Applicable                   26-Jul-2022
+
+
+
+Mid-Term Review No. 01                                                01-Sep-2020                     14-Aug-2020
+
+
+
+Operation Closing/Cancellation                                        31-Dec-2023                     31-Dec-2023
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@icrratings#doctemplate
+
+RATINGS SUMMARY
+
+
+
+
+
+                Outcome                          Bank Performance                             M&E Quality
+
+
+
+
+
+
+
+                                                                                                                    ii
+
+        The World Bank
+
+        Ghana Energy Sector Transformation Initiative Project (P163984)                                        ICR DOCUMENT
+
+
+
+
+
+
+
+
+
+ISR RATINGS
+
+
+
+                                                                                                        Actual Disbursements
+
+ No.        Date ISR Archived                 DO Rating                         IP Rating
+
+                                                                                                               (US$M)
+
+01        01-Nov-2018                Satisfactory                      Satisfactory                                        0.00
+
+02        18-Apr-2019                Satisfactory                      Satisfactory                                        0.00
+
+03        23-Oct-2019                Moderately Satisfactory           Moderately Satisfactory                             2.00
+
+04        19-Apr-2020                Moderately Satisfactory           Moderately Satisfactory                             2.00
+
+                                                                       Moderately
+
+05        14-Oct-2020                Moderately Satisfactory                                                               2.00
+
+                                                                       Unsatisfactory
+
+                                                                       Moderately
+
+06        26-Apr-2021                Moderately Satisfactory                                                               2.47
+
+                                                                       Unsatisfactory
+
+                                                                       Moderately
+
+07        19-Nov-2021                Moderately Satisfactory                                                               6.66
+
+                                                                       Unsatisfactory
+
+08        29-Jun-2022                Moderately Satisfactory           Moderately Satisfactory                             7.80
+
+09        21-Dec-2022                Moderately Satisfactory           Moderately Satisfactory                        12.92
+
+10        21-Jun-2023                Moderately Satisfactory           Moderately Satisfactory                        15.12
+
+11        25-Jul-2024                Satisfactory                      Moderately Satisfactory                        19.16
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@icrsectortheme#doctemplate
+
+SECTORS AND THEMES
+
+
+
+
+
+Sectors
+
+                                                                                       Adaptation
+
+                                                                                                           Mitigation
+
+       Major Sector                           Sector                        %         Co-benefits
+
+                                                                                                         Co-benefits (%)
+
+                                                                                      (%)
+
+                                Energy Transmission and Distribution            13                  0                17
+
+
+
+                                Oil and Gas                                     28                  0                  0
+
+
+
+Energy and Extractives          Other Energy and Extractives                    39                  0                15
+
+                                Public Administration - Energy and
+
+                                                                                12                  0                10
+
+                                Extractives
+
+                                Renewable Energy Hydro                           8                  0                  0
+
+
+
+
+
+Themes
+
+
+
+                                                                                                                             iii
+
+      The World Bank
+
+      Ghana Energy Sector Transformation Initiative Project (P163984)                     ICR DOCUMENT
+
+
+
+
+
+
+
+     Major Theme                     Theme (Level 2)                    Theme (Level 3)   %
+
+
+
+                           Climate change                          Mitigation                   9
+
+
+
+Environment and                                                    Access to Energy            25
+
+Natural Resource
+
+                           Energy                                  Energy Efficiency           25
+
+Management
+
+                                                                   Energy Policies &
+
+                                                                                               88
+
+                                                                   Reform
+
+Private Sector
+
+                           Jobs                                    Job Creation                33
+
+Development
+
+
+
+
+
+
+
+
+
+                                                                                                    iv
+
+       The World Bank
+
+       Ghana Energy Sector Transformation Initiative Project (P163984)                                     ICR DOCUMENT
+
+
+
+
+
+
+
+ADM STAFF
+
+
+
+
+
+Role                                   At Approval                             At ICR
+
+
+
+Practice Manager                       Wendy E. Hughes                         Ashish Khanna
+
+
+
+Regional Director                                                              Franz R. Drees-Gross
+
+
+
+Global Director                        Riccardo Puliti                         Demetrios Papathanasiou
+
+Practice Group Vice President                                                  Guangzhe Chen
+
+
+
+Country Director                       Henry G. R. Kerali                      Robert R. Taliercio
+
+Regional Vice President                Makhtar Diop                            Ousmane Diagana
+
+ADM Responsible Team Leader            Shinya Nishimura                        Dhruva Sahai
+
+
+
+Co-Team Leader(s)                      Paivi Koljonen                          Maame Tabuah Ankoh
+
+
+
+ICR Main Contributor                   Donghui Park, Enrique Crousillat, Kwadwo O. Kusi
+
+
+
+
+
+I. PROJECT CONTEXT AND DEVELOPMENT OBJECTIVES
+
+
+
+
+
+  A. CONTEXT AT APPRAISAL
+
+
+
+
+
+  Context
+
+
+
+       1. Ghana's economy has historically relied heavily on the energy sector, encompassing gas, oil, and power.
+
+          Between 2007 and 2017, the country experienced robust economic growth and significant poverty reduction,
+
+          achieving lower-middle-income status following the commencement of commercial oil production in 2011.
+
+          However, from 2014 to 2016, declining international commodity prices—particularly for oil and gold—
+
+          combined with challenges in the power sector, slowed economic growth and led to fiscal imbalances and
+
+          rising inflation. In response, Ghana implemented a fiscal consolidation program in 2015, supported by the
+
+          International Monetary Fund (IMF) and the World Bank, which successfully reduced the fiscal deficit by 2017.
+
+          Despite these efforts, the country's economic outlook remained vulnerable to both external and domestic
+
+          risks, including the need to manage external financing costs, reduce dependency on commodities, and
+
+          address substantial debt and inefficiencies within State-Owned Electricity Enterprises (SOEs).
+
+
+
+       2. Despite significant reforms in the power sector, such as vertical unbundling and increased private sector
+
+          participation through Independent Power Producers (IPPs), persistent challenges continued to drive
+
+          financial instability and fiscal deficits. Key issues included gas supply shortages that elevated fuel costs for
+
+          thermal plants, non-competitive power procurement for Emergency Power Producers (EPPs) and IPPs
+
+          following the 2014 power crisis, and the acquisition of excessive IPP capacity through take-or-pay contracts
+
+          executed without proper least-cost planning, resulting in substantial financial strain. Additionally, operational
+
+
+
+
+
+                                                                                                                   Page 1
+
+The World Bank
+
+Ghana Energy Sector Transformation Initiative Project (P163984)                                  ICR DOCUMENT
+
+
+
+
+
+    inefficiencies like high distribution losses and low revenue collection within distribution utilities further
+
+    exacerbated the sector's financial challenges. These liquidity constraints affected the entire energy value
+
+    chain, leading to payment delays to essential suppliers and contractors. The Volta River Authority (VRA),
+
+    facing operational funding gaps, resorted to short-term financing, accumulating significant debt and limiting
+
+    its capacity to invest in more efficient generation options, thereby maintaining high electricity production
+
+    costs.
+
+
+
+3. The sector's planning, coordination, and regulatory frameworks lacked coherence, and weak institutional
+
+   capacities across various agencies led to fragmented efforts insufficient to address the underlying structural
+
+   cash deficits. In December 2015, the Government of Ghana (GoG) implemented a 45% tariff increase aimed
+
+   at mitigating financial challenges; however, anticipated improvements did not materialize. The combination
+
+   of consumer demand elasticity and inadequate supply quality led to lower-than-expected electricity demand
+
+   in 2016, as consumers curtailed usage in response to higher prices. A significant tariff disparity between
+
+   commercial and residential users prompted many industrial consumers to seek cheaper alternatives, such as
+
+   diesel-powered self-generation. In March 2018, the Public Utilities Regulatory Commission (PURC) reduced
+
+   tariffs by 17% for residential consumers and 30% for commercial consumers, which further decreased sector
+
+   revenues without stimulating demand growth. The absence of a comprehensive Multi-Year Tariff Order
+
+   (MYTO) that adequately reflected macroeconomic changes, generation costs, and demand dynamics, along
+
+   with insufficient investments in distribution and transmission infrastructure, compounded financial shortfalls
+
+   and hindered improvements in supply quality and reliability. Without effective policy and regulatory
+
+   oversight, the sector struggled to achieve financial stability and resolve its structural deficits.
+
+
+
+4. Uncertainties surrounding gas supply, demand, and pricing further complicated the challenges within
+
+   Ghana's power sector. Domestic gas production fell short of expectations due to underproduction from the
+
+   Jubilee and the Tweneboa Enyenra Ntomme (TEN) oil fields, leading to inconsistent gas availability for
+
+   electricity generation. Although the Sankofa integrated oil and gas project (P152670) commenced in 2017 to
+
+   enhance production, it failed to completely bridge the supply gap. The West African Gas Pipeline (WAGP) also
+
+   experienced supply interruptions attributed to non-payment issues by Ghana. Infrastructure constraints in
+
+   gas transportation led to regional imbalances, with excess supply in the western regions and shortages in the
+
+   eastern regions where most power plants were located. In 2017, there was a lack of clarity regarding the
+
+   required volumes of natural gas to balance supply and demand and its availability at competitive prices for
+
+   thermal energy production. Furthermore, in the absence of an established gas tariff policy, the PURC was in
+
+   the process of developing guidelines to assist the Ghana National Petroleum Corporation (GNPC) in setting
+
+   appropriate tariffs.
+
+
+
+5. To address these multifaceted challenges, the government launched a comprehensive sector turnaround
+
+   program aimed at restoring financial viability, improving planning and investment decisions, enhancing
+
+   regulatory frameworks, and expanding electricity access. Concurrently, efforts were made to define clear
+
+   operational mandates for key power and gas sector entities, focusing on improved coordination, role
+
+   rationalization, regulatory strengthening, and capacity building. Supporting these initiatives, the Ghana
+
+   Energy Sector Transformation and Initiative Project (GESTIP) was developed as a Technical Assistance (TA)
+
+   project. GESTIP aligned with the World Bank’s Country Partnership Strategy (CPS) for Ghana (FY2013-
+
+
+
+
+
+
+
+                                                                                                         Page 2
+
+            The World Bank
+
+            Ghana Energy Sector Transformation Initiative Project (P163984)                                      ICR DOCUMENT
+
+
+
+
+
+                FY2016) 1, specifically supporting the pillars of improved economic institutions and enhanced competitiveness
+
+                by strengthening power sector capacity for reforms and improving energy sector planning and coordination.
+
+                It also complemented the government's Coordinated Program of Economic and Social Development Policies
+
+                (CPESDP) 2 by aiming to improve the financial viability and coordination of the energy sector, thereby
+
+                contributing to macroeconomic stability and increased private sector competitiveness. The Project
+
+                supplemented ongoing and recently completed World Bank initiatives, such as the Ghana Energy
+
+                Development and Access Project (GEDAP, P074191), and was linked to the Second Macroeconomic Stability
+
+                for Competitiveness and Growth (P157343) Development Policy Operation (DPO). The sector reform agenda
+
+                outlined under GESTIP was intended to receive continued support through future DPO series with a strong
+
+                emphasis on the energy sector.
+
+
+
+       Theory of Change (Results Chain)
+
+
+
+           6. The Project Development Objectives (PDOs) aligned with Ghana’s long-term goals as outlined in the
+
+              government’s CPESDP and the CPS for FY2013-FY2016. The Project activities were specifically designed to
+
+              support critical financial, planning, coordination, and strategic outcomes in the energy sector, which were
+
+              essential for achieving the PDOs. Although the Project Appraisal Document (PAD) and restructuring paper did
+
+              not explicitly outline a theory of change, the results chain can be inferred and is illustrated in Figure 1. During
+
+              the 2022 restructuring, several activities were canceled, and new ones were introduced to support the
+
+              Ghana’s Energy Sector Recovery Programme (ESRP) 3, consistent with the PDOs and the underlying theory of
+
+              change. The success of the Project relies on key assumptions: sustained political support for improving the
+
+              energy sectors, macroeconomic and monetary policies focused on sustainability and equitable benefits, and
+
+              the effectiveness of monitoring and evaluation mechanisms to ensure transparency and accountability.
+
+
+
+
+
+
+
+
+
+1   https://documents1.worldbank.org/curated/en/606871468249312142/pdf/763690CAS0Ghan000PUBLIC00Box379829B.pdf
+
+2   https://s3-us-west-2.amazonaws.com/new-ndpc-static1/CACHES/PUBLICATIONS/2018/04/11/Coordinate+Programme-
+
+Final+(November+11,+2017)+cover.pdf
+
+3   https://mofep.gov.gh/sites/default/files/reports/economic/Energy-Sector-Recovery-Programme-Document.pdf
+
+
+
+                                                                                                                        Page 3
+
+The World Bank
+
+Ghana Energy Sector Transformation Initiative Project (P163984)     ICR DOCUMENT
+
+
+
+
+
+                                       Figure 1: Theory of Change
+
+
+
+
+
+
+
+
+
+                                                                         Page 4
+
+   The World Bank
+
+   Ghana Energy Sector Transformation Initiative Project (P163984)                                  ICR DOCUMENT
+
+
+
+
+
+Project Development Objectives (PDOs)
+
+
+
+   7. As stated in the Financing Agreement (FA), the objectives of the Project are to strengthen the capacity of the
+
+      energy sector to implement sector reforms and improve energy sector planning and coordination in Ghana.
+
+
+
+Key Expected Outcomes and Outcome Indicators
+
+
+
+   8. The Project aimed to bolster Ghana's energy sector through two primary PDOs.
+
+
+
+   PDO 1: Strengthen the capacity of the energy sector to implement sector reforms, focusing on building a robust
+
+   framework for sector reforms through various activities; the PDO-level indicators for these activities were:
+
+
+
+   1.1    Allocating power sector revenues to sector entities via Cash Waterfall Mechanism (CWM), ensuring a
+
+          structured approach to financial management.
+
+   1.2    Implementing the e-billing/e-payment system by NEDCo (Northern Electricity Distribution Company),
+
+          aimed at streamlining billing processes and enhancing transparency.
+
+   1.3    Adopting and communicating an electrification strategy and investment plan for remote areas, targeting
+
+          universal electricity access.
+
+   1.4    Establishing a clean cooking strategy to promote access to safe and sustainable cooking methods and
+
+          communicated to stakeholders.
+
+
+
+   PDO 2: Improve energy sector planning and coordination in Ghana sought to refine the sector's strategic
+
+   oversight through various activities and initiatives; the PDO-level indicators for these activities were:
+
+
+
+   2.1    Endorsement of a least-cost power expansion plan by the sector coordination body, facilitating cost-
+
+          effective energy development.
+
+   2.2    Adoption and communication of a strategy for competitive tendering of gas/Liquefied Natural Gas (LNG)
+
+          volumes to balance gas supply and demand for power plants, ensuring efficient and equitable resource
+
+          distribution.
+
+
+
+   9. These indicators represent the core targets established by the Project to achieve meaningful progress in
+
+      strengthening and coordinating Ghana's energy sector, thereby contributing to its long-term sustainability
+
+      and efficiency. Beyond the foundational PDO indicators, the Project also employed a set of eleven
+
+      Intermediate Results Indicators (IRIs) across the four designed project components. These IRIs enabled more
+
+      detailed monitoring of progress and measurement of the impacts of each project component.
+
+
+
+Components
+
+
+
+   The project components and resource allocations are as follows:
+
+
+
+   10. Component 1: Management of Energy Sector Financial Flows. This component, with a budget of US$5.3
+
+       million equivalent, focused on enhancing the financial viability of the energy sector. Activities included
+
+       improving revenue management at the sector level, enhancing revenue collection at utility level, and
+
+
+
+
+
+
+
+                                                                                                            Page 5
+
+The World Bank
+
+Ghana Energy Sector Transformation Initiative Project (P163984)                                   ICR DOCUMENT
+
+
+
+
+
+      strengthening organizational structures while bolstering operational and financial management functions.
+
+      Key activities included:
+
+
+
+1.1      CWM: Finalizing the structuring and implementation arrangements of the CWM to ensure transparent
+
+         revenue distribution among energy sector entities, with capacity building for stakeholders.
+
+1.2      Electronic Billing and Collection: Designing and implementing e-billing/e-payment mechanisms for NEDCo
+
+         to improve revenue collection and utility performance.
+
+1.3      VRA Restructuring: Assisting in the design and implementation of a new structure for VRA to enhance
+
+         operational efficiency and governance.
+
+
+
+11. Component 2: Sector Planning and Coordination. With a budget of US$3.5 million equivalent, this
+
+    component aimed to enhance planning and coordination across the energy sector. Activities included
+
+    designing institutional arrangements, conducting technical studies, and providing capacity building. Key
+
+    activities included:
+
+
+
+2.1      Electricity Sector Assessment: Clarifying the roles and mandates of regulatory institutions and enhancing
+
+         the coordinated planning and management capacities of power sector agencies.
+
+2.2      Gas Sector Assessment: Reviewing regulatory frameworks, institutional setup, and commercial
+
+         arrangements to support the sustainable development of the gas sector for the gas-to-power value chain,
+
+         with capacity building for stakeholders.
+
+2.3      Regional Power Trading: Identifying policy and regulatory reforms to strengthen regional power trading
+
+         mechanisms, with capacity building for stakeholders.
+
+2.4      Ghana Grid Company (GRIDCo) Grid Resilience Study: Identifying reforms and investments to enhance
+
+         grid resilience and facilitate regional and renewable energy integration, with capacity building for
+
+         stakeholders.
+
+
+
+12. Component 3: Energy Access. This component, with a budget of US$2.0 million equivalent, focused on
+
+    expanding energy access through grid extension, off-grid electrification, clean cooking initiatives, and
+
+    upgrades to NEDCo's operational systems in support of grid extension efforts. Key activities included:
+
+
+
+3.1      Investment Plan for Electrification: Developing a comprehensive investment plan for achieving universal
+
+         electrification by 2030, encompassing both grid and off-grid solutions.
+
+3.2      Safe Clean Cooking Strategy: Developing strategies to increase access to clean cooking solutions.
+
+3.3      NEDCo’s Operational Systems Upgrade: Enhancing operational systems and efficiency, including updating
+
+         distribution plans, standards, and construction specifications; implementing a Geographic Information
+
+         System (GIS) for Techiman; and funding equipment and staff training.
+
+
+
+13. Component 4: Natural Gas. With a budget of US$3.2 million equivalent, this component aimed to develop
+
+    strategies for balancing natural gas demand and supply, reviewing the WAGP treaties, and supporting
+
+    capacity building initiatives. Key activities included:
+
+
+
+4.1      Gas Demand-Supply Strategy: Developing plans for gas aggregation and allocation of natural gas flow,
+
+         including pricing models, pipeline capacity nomination, and allocation to power plants.
+
+
+
+
+
+                                                                                                          Page 6
+
+   The World Bank
+
+   Ghana Energy Sector Transformation Initiative Project (P163984)                                      ICR DOCUMENT
+
+
+
+
+
+   4.2     WAGP Treaty Review: Evaluating operational and commercial aspects of the WAGP to optimize its
+
+           utilization.
+
+   4.3     Capacity Building: Enhancing the capacity of gas sector agencies, such as GNPC and Ghana National Gas
+
+           Company (GNGC), to reintegrate natural gas into the power sector, alongside vocational training
+
+           initiatives to boost employment in oil and gas.
+
+
+
+   14. Component 5: Project Management. This component, with a budget of US$2.0 million equivalent, supported
+
+       project implementation through the Project Implementation Unit (PIU), covering fiduciary, monitoring,
+
+       reporting, and coordination responsibilities, including consultants’ engagement and operating costs.
+
+
+
+   15. Table 1 below presents the breakdown of the total US$20.0 million International Development Association
+
+       (IDA) credit across the four components of the Project, showing both the original and revised allocations
+
+       following restructuring.
+
+
+
+                                            Table 1: Project Cost and Financing
+
+
+
+                                                                                                Revised IDA
+
+                                                   PROJECT COST           IDA FINANCING
+
+ PROJECT COMPONENTS                                                                             Financing
+
+                                                   (US$ million)          (US$ million)
+
+                                                                                                (US$ million)
+
+ 1. Management of Energy Sector Financial
+
+                                                   5.30                   5.30                  10.40
+
+ Flows
+
+ 2. Sector Planning and Coordination               3.50                   3.50                  0.95
+
+
+
+ 3. Energy Access                                  2.00                   2.00                  4.97
+
+
+
+ 4. Natural Gas                                    3.20                   3.20                  1.32
+
+ 5. Project Management                             2.00                   2.00                  2.36
+
+ Follow-Up Activities and Contingencies            4.00                   4.00                  0.00
+
+ TOTAL PROJECT COST                                20.0                   20.0                  20.0
+
+
+
+
+
+B. SIGNIFICANT CHANGES DURING IMPLEMENTATION (IF APPLICABLE)
+
+
+
+
+
+Revised PDOs and Outcome Targets
+
+
+
+   16. At the GoG's request on May 20, 2022, the Project was restructured, leading to an amendment to the FA
+
+       that was finalized and signed on June 27, 2022. Although the PDOs remained unchanged, the restructuring
+
+       involved revisions to the Results Framework to reflect changes in activities supported by the Project and
+
+       adjustments to the target end dates. The closing date was extended from December 31, 2022, to December
+
+       31, 2023, providing additional time for project completion and the achievement of results.
+
+
+
+Revised PDO Indicators
+
+
+
+   17. While most PDO indicators and targets remained unchanged, two were removed as their objectives were
+
+       achieved independently of the Project. Due to delays in the Project’s effectiveness, PDO indicator 1.2, related
+
+
+
+                                                                                                                Page 7
+
+   The World Bank
+
+   Ghana Energy Sector Transformation Initiative Project (P163984)                                          ICR DOCUMENT
+
+
+
+
+
+       to NEDCo's e-billing/e-payment system, was excluded after project Component 1 shifted focus from funding
+
+       NEDCo’s system design to developing an e-billing action plan, as NEDCo had already begun upgrades before
+
+       the Project’s implementation. Similarly, PDO indicator 2.1, concerning the least-cost power expansion plan,
+
+       was removed because the plan was prepared and endorsed before the Project began. Despite these removals,
+
+       the intended outcomes were met, with NEDCo independently financing its system upgrades, and the power
+
+       expansion plan being documented on the Ministry of Energy (MoEn) and Energy Commission’s (EC) websites.
+
+       GESTIP supported these efforts by funding consulting for NEDCo’s e-billing action plan and providing the
+
+       Power Planning Technical Committee with software and capacity building for future updates. Additionally,
+
+       the IRIs were adjusted: a new IRI was added to project Component 1 to enhance GRIDCo’s network
+
+       management communication capacity; IRIs related to electricity and gas sector assessments in Component 2
+
+       were replaced by a new IRI for Performance Improvement Plan (PIP) guidelines for the EC and PURC; and an
+
+       IRI related to GRIDCo's grid resilience study was removed from Component 3. These adjustments ensured
+
+       that the IRIs align with the restructured project activities, as detailed in the restructured Results Framework
+
+       presented in Annex 1.
+
+
+
+Revised Components
+
+
+
+   18. The core structure of the project components remained unchanged, but many activities were modified or
+
+       canceled during restructuring, with new ones added to support the government's ESRP. While some
+
+       activities were agreed upon during appraisal, further detailing of the Project was anticipated after the
+
+       government outlined the comprehensive ESRP plan, ensuring that the Bank's support was aligned with the
+
+       changing sector priorities, and ensuring that the project remained relevant and effective. Activities under
+
+       Components 1-4 were adjusted to meet the needs of the government and energy sector entities, with revised
+
+       or new activities aligning with each component's objectives. The VRA restructuring under Component 1 was
+
+       removed due to changes in government policy. Capacity-building activities, previously spread across
+
+       components, were centralized under Component 5, now renamed 'Project Management & ESRP
+
+       Implementation Support,' reflecting new activities and dedicated funding for ESRP-related capacity building
+
+       and training. The Project's cost allocation was updated accordingly, with the original US$4.0 million for follow-
+
+       up activities and contingencies reallocated to new activities and additional operational costs. Table 2 presents
+
+       an updated overview of project components and activities, including details on their modification status.
+
+       Annex 6 provides information on the sub-activities supporting these components and activities, as well as
+
+       their completion and disbursement status.
+
+
+
+                           Table 2: Amended Project Components and Activities in the FA
+
+
+
+     ACTIVITY DESCRIPTION                                                                               MODIFICATION
+
+ COMPONENT 1: MANAGEMENT OF ENERGY SECTOR FINANCIAL FLOWS - US$10.40 MILLION
+
+ COMPONENT 1.1: CASH WATERFALL MECHANISM
+
+    (i) CWM: Finalizing the structuring and implementation arrangements of the CWM to ensure
+
+    transparent revenue distribution among stakeholders.
+
+    (ii) Annual Audit and Legacy Debt Review: Conducting an annual review of legacy debt to validate
+
+                                                                                                          Modified
+
+    the debt/payable matrix, provide guidance on managing liabilities, and structure transactions for
+
+    settling intra-sector payables.
+
+    (iii) Technical Audit of Power Plants: Performing a technical audit to confirm the performance of
+
+
+
+
+
+                                                                                                                     Page 8
+
+            The World Bank
+
+            Ghana Energy Sector Transformation Initiative Project (P163984)                                              ICR DOCUMENT
+
+
+
+
+
+             the plants and verify the bills received for payments.
+
+             (iii) Streetlighting Assessment: Developing tools to periodically estimate the energy consumption
+
+             costs attributable to streetlighting.
+
+          COMPONENT 1.2: ELECTRONIC BILLING AND COLLECTION
+
+             NEDCo E-billing Action Plan: Assessing electronic billing and payment strategies to optimize
+
+             revenue and prepayments, focusing on developing a targeted plan to improve metering and                      Added
+
+             billing operations.
+
+             Electricity Company of Ghana (ECG) AMI Implementation: Evaluating technology for Advanced
+
+             Metering Infrastructure (AMI) to protect revenues, recommending sustainable strategies, and                  Added
+
+             preparing bid specifications.
+
+          COMPONENT 1.3: IMPROVEMENT OF OPERATIONAL FUNCTIONS
+
+             (i) GRIDCo's SCADA System Upgrade: Upgrading the Supervisory Control and Data Acquisition
+
+             (SCADA) network to enhance capabilities for improved monitoring and control. 4
+
+             (ii) OMS and ERP Implementation: Facilitating the completion of supply and installation for both
+
+                                                                                                                          Added
+
+             the Outage Management System (OMS) and Enterprise Resource Planning (ERP) System for ECG. 5
+
+             (iii) PIP Development: Developing a PIP to enhance the capacities of regulators in the electricity
+
+             supply sector.
+
+          COMPONENT 2: SECTOR PLANNING AND COORDINATION - US$0.95 MILLION
+
+          COMPONENT 2-1: ELECTRICITY SECTOR ASSESSMENT AND SUPPORT FOR IMPLEMENTING RECOMMENDATIONS
+
+             VoLL Assessment: Estimating the Value of Lost Load (VoLL) for electricity in Ghana to help PURC
+
+                                                                                                                          Added
+
+             assess socio-economic impacts of power interruptions and inform decision-making.
+
+          COMPONENT 2.2: GAS SECTOR ASSESSMENT AND SUPPORT FOR IMPLEMENTING RECOMMENDATIONS
+
+             Petroleum Products Price Build-Up Review: Analyzing the price structure for petroleum products
+
+             in Ghana to establish optimal margins for marketers and dealers, and to guide financial model                Added
+
+             development.
+
+             CRM M&E Framework Development: Developing a monitoring and evaluation framework for the
+
+             Cylinder Recirculation Model (CRM) to measure the impact of the liquefied petroleum gas                      Added
+
+             promotion policy effectively.
+
+             Liquefied Petroleum Gas (LPG) Behavioral Change and Public Awareness Strategy: Developing
+
+             strategies to support the National Petroleum Authority (NPA) in overcoming barriers to CRM                   Added
+
+             implementation.
+
+             COMAH Regulations Development: Crafting Control of Major Accident Hazards (COMAH)
+
+                                                                                                                          Added
+
+             regulations for the electricity and natural gas sectors to prevent and mitigate major accidents.
+
+          COMPONENT 3: ENERGY ACCESS - US$4.97 MILLION
+
+          COMPONENT 3.1: INVESTMENT PLAN FOR ELECTRIFICATION
+
+             Infrastructure Feasibility and Investment Planning: Conducting studies for grid extension, off-grid Initially Planned and
+
+             electrification, geospatial mapping, and fiber optic broadband, including relevant training.               Retained
+
+          COMPONENT 3.2: SAFE CLEAN COOKING STRATEGY
+
+             National Clean Cooking Strategy: Developing a strategy to enhance access to safe, clean cooking     Initially Planned and
+
+             by establishing regulatory and incentive structures.                                                       Retained
+
+             National LPG Promotion Program Manual Preparation: Developing a manual for implementing the
+
+                                                                                                                          Added
+
+             national liquefied petroleum gas promotion program.
+
+
+
+
+
+4   This activity, which began under GEDAP (P074191), has been transferred to and completed under GESTIP.
+
+5   These activities, initially launched under GEDAP (P074191), were transferred to and completed under GESTIP.
+
+
+
+                                                                                                                                 Page 9
+
+            The World Bank
+
+            Ghana Energy Sector Transformation Initiative Project (P163984)                                           ICR DOCUMENT
+
+
+
+
+
+             Stove Testing Laboratory Needs Assessment: Conducting a needs assessment for the Kwame
+
+             Nkrumah University of Science and Technology - Technology Consultancy Centre (KNUST-TCC)                Added
+
+             cook stove testing laboratory to equip it for regulating the cook stoves and fuels market.
+
+          COMPONENT 3.3: NEDCO’S OPERATIONAL SYSTEMS UPGRADE
+
+             NEDCo System Master Plan: Conducting studies to upgrade NEDCo's sub-transmission,
+
+             distribution, and operational systems, developing plans to enhance operational efficiency, and    Initially Planned
+
+             providing relevant equipment and training to NEDCo staff.
+
+             NEDCo Network Protection Study: Conducting an assessment of NEDCo's network protection and
+
+             coordination to identify requirements for cost-effective power system development, ensure               Added
+
+             safety for equipment and personnel, and improve power supply reliability.
+
+             NEDCo Energy and Demand Forecast Study: Reviewing current methodologies for energy and
+
+             peak demand forecasting and developing a software model to conduct forecasts using available            Added
+
+             data and systems.
+
+          COMPONENT 4: NATURAL GAS - US$1.32 MILLION
+
+             (i) Gas Demand-Supply Strategy: Developing plans for gas aggregation and allocation of natural
+
+             gas flow, including pricing models, pipeline capacity nomination, and allocation to power plants.
+
+             (ii) WAGP Treaty Review: Evaluating operational and commercial aspects of the WAGP to
+
+                                                                                                                   Modified
+
+             optimize its utilization.
+
+             (iii) Tema Gas Distribution Franchise: Conducting a study to establish a natural gas distribution
+
+             franchise in Tema.
+
+          COMPONENT 5: PROJECT MANAGEMENT & ESRP IMPLEMENTATION SUPPORT - US$2.36 MILLION
+
+          COMPONENT 5.1: PROJECT MANAGEMENT
+
+             (i) Project Management Capacity Building: Enhancing MoEn's capabilities in fiduciary
+
+             management, monitoring, reporting, and coordination.
+
+             (ii) Communications Strategy Development: Developing and implementing a communications
+
+             strategy for the energy sector.
+
+             (iii) Training and Consultation Workshops: Organizing training and consultation sessions, along       Modified
+
+             with coordination workshops.
+
+             (iv) Operating Costs Financing: Funding PIU's operating expenses.
+
+             (v) Office Infrastructure Procurement: Acquiring and setting up a prefabricated office to provide
+
+             adequate space for the project. 6
+
+          COMPONENT 5.2: ESRP IMPLEMENTATION SUPPORT
+
+             Building and Support: Providing training to energy sector staff and procuring software and small
+
+                                                                                                                     Added
+
+             equipment for business operations to support project implementation.
+
+
+
+        Other Changes
+
+
+
+            19. Change in Disbursement Estimates and Implementation Schedule: Disbursement estimates, and the
+
+                implementation schedule were revised to reflect the extended closing date.
+
+
+
+
+
+
+
+
+
+6
+
+    This activity was initially launched under GEDAP (P074191), and was completed under GESTIP.
+
+
+
+                                                                                                                             Page 10
+
+            The World Bank
+
+            Ghana Energy Sector Transformation Initiative Project (P163984)                                           ICR DOCUMENT
+
+
+
+
+
+            20. Change in Environmental and Social Risk Rating: The transfer of four activities 7 from GEDAP, including ERP,
+
+                OMS 8, SCADA 9, and the prefabricated PIU office 10, prompted a reassessment of environmental and social
+
+                risks. This resulted in a shift in the risk rating from Low to Moderate and an elevation of the environmental
+
+                assessment categorization to Category B.
+
+
+
+            21. Change to Legal Covenants: A new legal covenant was introduced to ensure compliance with safeguard
+
+                instruments and project implementation requirements.
+
+
+
+        Rationale for Changes and Their Implication on the Original Theory of Change
+
+
+
+            22. The restructuring of the Project was driven by evolving priorities and beneficiary needs, aligning with the
+
+                overarching goals of the ESRP, whose specific action plans were not fully defined at the time of the Project’s
+
+                appraisal. As these plans took shape, sector entities requested adjustments to project activities within the
+
+                components to better align with the ESRP’s objectives. Initially, GESTIP was designed with flexibility to
+
+                respond to the government’s evolving reform strategies, particularly those outlined in the ESRP.
+
+                Consequently, not all project funding was fully earmarked at the outset, with the expectation that new
+
+                activities aligned with the Project’s PDOs and the ESRP's reform agenda would be introduced over time based
+
+                on beneficiary needs. This materialized, and by February 2022, the GESTIP Steering Committee had approved
+
+                a full list of project activities, utilizing the entire project allocation. Restructuring was needed due to new
+
+                activities requiring a change in safeguards risk rating, the removal of initial activities already completed or
+
+                altered by government policy changes, and updates to the Results Framework. Additionally, delays caused by
+
+                the COVID-19 pandemic, as well as prolonged consultant selection and output review processes, led to slower
+
+                disbursements, necessitating an extension of the Project’s closing date. By the time of restructuring, six
+
+                months before the original closing date in December 2022, only US$7.80 million, or 40.1% of the allocated
+
+                funds, had been disbursed.
+
+
+
+
+
+
+
+    II. OUTCOME
+
+
+
+
+
+        A. RELEVANCE OF PDO
+
+
+
+
+
+        Assessment of Relevance of PDOs and Rating
+
+
+
+
+
+
+
+
+
+7   Although contracts for these four activities were amended to align with GEDAP's closing date, the original scope was not fully
+
+realized, resulting in a funding gap of US$2.62 million. The government sought World Bank assistance through GESTIP to
+
+complete these activities.
+
+8 Activities involving OMS and ERP have raised a Moderate risk rating due to concerns related to e-waste management, deployment
+
+of management information systems, procurement processes, occupational safety, sexual exploitation, and data leakage.
+
+9 The upgrade of GRIDCo’s SCADA system incurred Moderate risk, primarily due to e-waste management and procurement of goods
+
+
+
+and services.
+
+10 The prefabricated office works, involving limited civil works, have triggered Moderate environmental and social risks.
+
+
+
+
+
+
+
+                                                                                                                             Page 11
+
+            The World Bank
+
+            Ghana Energy Sector Transformation Initiative Project (P163984)                                        ICR DOCUMENT
+
+
+
+
+
+            23. The PDOs were well-aligned with the World Bank’s CPS for Ghana FY2013-FY2016, supporting its first two
+
+                pillars: (i) improving economic institutions and (ii) enhancing competitiveness and job creation.
+
+                Specifically, the PDOs aimed to strengthen the power sector's capacity for implementing sector reforms and
+
+                improving energy sector planning and coordination, which were intended to enhance overall sector
+
+                performance. This alignment remained relevant throughout the Project’s implementation, as its activities
+
+                continued to support the Country Partnership Framework (CPF) for FY22-FY26 11 . The current CPF
+
+                underscores the financial and operational challenges within the energy sector and the importance of its
+
+                fiscal impact. The PDOs and project activities align with the CPF’s objectives 1.3, 2.3 and 3.1, which
+
+                emphasize enhanced operational efficiency in the energy sector, improved delivery of basic services in
+
+                underserved urban areas, and strengthened macroeconomic and fiscal management, respectively.
+
+
+
+            24. Despite the challenges, the Project maintained High relevance to the PDOs through adaptable and
+
+                responsive strategies. The preparation and implementation were particularly demanding, involving the
+
+                design and selection of a large number of technically complex activities that needed to address the
+
+                requirements of various sector institutions while ensuring the Project’s contribution to the country’s high-
+
+                level objectives. As sector policies and institutional priorities shifted, the Project remained highly responsive,
+
+                adapting by canceling and adding activities as necessary. All changes were formalized in the 2022
+
+                restructuring, ensuring the continued relevance of the PDOs. Therefore, the relevance of the PDOs is rated
+
+                as High throughout the implementation process.
+
+
+
+
+
+        B. ACHIEVEMENT OF PDOs (EFFICACY)
+
+
+
+
+
+       Assessment of Achievement of Each Objective/Outcome
+
+
+
+            25. The Project restructuring of 2022 led to revisions in the Results Framework, including the replacement or
+
+                exclusion of some indicators and adjustments to target dates. These changes were made to address
+
+                evolving priorities and needs of beneficiaries. Importantly, the restructuring did not alter the quantitative
+
+                targets or shift towards less ambitious objectives. Rather, it adapted to a more clearly defined ESRP, thereby
+
+                strengthening the Project’s alignment with and contribution to ongoing government reform efforts, while
+
+                remaining consistent with the PDOs.
+
+
+
+            26. At Project completion, all end-targets for the PDO indicators were achieved, as were nine of ten IRIs.
+
+                Additionally, four of the five IRIs with quantitative end-targets were surpassed. It is noted that while two
+
+                PDO indicators were dropped during the restructuring—the implementation of an e-billing/e-payment
+
+                system by NEDCo and the sector coordination body’s endorsement of a least-cost power expansion plan—
+
+                these activities were successfully completed through the government’s own initiatives thus demonstrating
+
+                its commitment to the Project objectives. These actions ensured that all originally planned PDO indicators
+
+                were fully realized. The Project is assessed on its own merits, excluding the dropped PDO indicators as shown
+
+                in Table 3. The removal of these two indicators did not impact the Project assessment—since all revised
+
+
+
+
+
+11   https://documents1.worldbank.org/curated/en/823041645721495743/pdf/Ghana-Country-Partnership-Framework-for-the-Period-
+
+of-FY22-FY26.pdf
+
+
+
+                                                                                                                          Page 12
+
+             The World Bank
+
+             Ghana Energy Sector Transformation Initiative Project (P163984)                                              ICR DOCUMENT
+
+
+
+
+
+                 PDO indicators were met—nor did it affect the government's objective to strengthen power sector capacity
+
+                 and improve planning and coordination, as the associated activities were completed.
+
+
+
+            27. Assessing the achievement of PDOs in a TA project involves verifying that project activities are causally
+
+                linked to the PDOs and confirming the utilization of outputs. The activities were well-crafted to align with
+
+                the PDOs and achieve the intended outcomes. The restructuring process confirmed that these activities
+
+                were tailored to support the government’s high-priority reform and address beneficiaries' pressing needs.
+
+                Given the government’s strong commitment to the ESRP and the beneficiaries' ownership, the Project’s
+
+                outputs are expected to be effectively utilized. Outputs such as CWM, SCADA, ERP, and OMS are already
+
+                being used by several beneficiaries. Key findings from technical studies, such as the Legacy Debt Review and
+
+                the Gas Demand-Supply Study, guided the government in developing a sector-wide debt-clearing plan and
+
+                revising the Gas Sales Agreement (GSA) with N-Gas Limited 12 (N-Gas). These actions have advanced sector
+
+                reforms, improved planning, and enhanced coordination.
+
+
+
+                                                         Table 3: Achievement of PDOs
+
+
+
+                                        RESULTS INDICATOR                          BASELINE END TARGET ACHIEVEMENT
+
+           PDO-SUBOBJECTIVE 1: STRENGTHEN THE CAPACITY OF THE ENERGY SECTOR TO IMPLEMENT SECTOR REFORMS
+
+           PDO INDICATORS
+
+               Power sector revenue allocated to sector entities through the CWM      0%       100%        100%
+
+               Electrification strategy and investment plan for remote areas is
+
+                                                                                      No        Yes         Yes
+
+               adopted and communicated to stakeholders
+
+               Clean cooking strategy is adopted and communicated to
+
+                                                                                      No        Yes         Yes
+
+               stakeholders
+
+           PDO-SUBOBJECTIVE 2: IMPROVE ENERGY SECTOR PLANNING AND COORDINATION
+
+           PDO INDICATORS
+
+               Strategy for competitive tendering of gas/LNG volumes for balancing
+
+               gas supply and demand for power plants is adopted and                  No        Yes         Yes
+
+               communicated to stakeholders
+
+           INTERMEDIATE RESULTS INDICATORS BY PROJECT COMPONENT
+
+           COMPONENT 1: MANAGEMENT OF ENERGY SECTOR FINANCIAL FLOWS
+
+               No. of sector staff trained (male and female)                           0         50         137
+
+               of which female                                                         0         10         37
+
+               Citizen engagement: Number of citizen engagement meetings held          0          2          3
+
+               Percentage of participants in citizen engagement meetings who
+
+                                                                                      0%        50%        92.3%
+
+               consider their views have been taken into account
+
+               Increased communication capacity of GRIDCO’s Network
+
+                                                                                      80        200         200
+
+               Management System
+
+           COMPONENT 2: SECTOR PLANNING AND COORDINATION
+
+               Performance Improvement Plan (PIP) Guidelines for Energy               No        Yes         Yes
+
+
+
+
+
+12
+
+     N-Gas Limited is a private company that delivers Nigerian gas to Ghana. It is a joint venture of Chevron, Shell, and the Nigerian
+
+National Petroleum Corporation (NNPC).
+
+
+
+
+
+
+
+                                                                                                                                 Page 13
+
+     The World Bank
+
+     Ghana Energy Sector Transformation Initiative Project (P163984)                                     ICR DOCUMENT
+
+
+
+
+
+      Commission and PURC prepared
+
+   COMPONENT 3: ENERGY ACCESS
+
+      NEDCo's distribution system plan updated                               No            Yes            Yes
+
+      Update of NEDCo's distribution specifications and construction
+
+                                                                             No            Yes            Yes
+
+      standards complete
+
+      Gender. The strategic assessment of electrification options outlines
+
+      the impacts of different electrification strategies on women and       No            Yes             No
+
+      women’s entrepreneurship\income generation
+
+   COMPONENT 4: NATURAL GAS
+
+      Gas supply and demand study completed                                  No            Yes            Yes
+
+
+
+
+
+Justification of Overall Efficacy Rating
+
+
+
+    28. The Project’s overall efficacy is rated as Substantial. This rating is justified by the significant achievement
+
+        of PDO targets, the government’s strong commitment to sector reform, demonstrated ownership by
+
+        beneficiaries, and the effective utilization of key outputs.
+
+
+
+
+
+ C. EFFICIENCY
+
+
+
+
+
+Assessment of Efficiency and Rating
+
+
+
+   29. Given that the Project comprised a set of TA activities rather than infrastructure investments generating
+
+       cash flows, it did not lend itself to traditional economic and financial analyses, such as calculating the Net
+
+       Present Value (NPV) or financial and economic rates of return for a particular investment. Most TA
+
+       activities focused on conducting assessments, developing strategies, and implementing management tools
+
+       to provide essential technical, policy, legal, and regulatory guidance aimed at improving sector planning,
+
+       financial management, operational efficiency, and regulatory compliance. However, several TA outputs have
+
+       already yielded—or have the potential to yield—significant economic and financial benefits for the sector,
+
+       as evidenced by the following cases:
+
+
+
+   (i) The activities associated with the CWM supported its implementation to ensure the systematic and equitable
+
+         and transparent allocation of electricity sales revenue among stakeholders. Since August 2023, ECG has made
+
+         over 94% of its payments up to February 2024, though recent months have shown a gradual decrease. PURC
+
+         has validated these transactions monthly, significantly boosting liquidity and payment predictability and
+
+         transparency across the sector value chain;
+
+   (ii) The ESRP activities supported by the Project yielded substantial savings by relocating the 450 MW
+
+         Karpowership barge from Tema to Takoradi in 2020 to use domestic natural gas instead of heavy fuel oil
+
+         (HFO), saving over US$100 million per year, and by completing the Takoradi-Tema Interconnection Project,
+
+         which enabled the flow of natural gas—replacing HFO and light crude oil (LCO)—to seven thermal plants in
+
+         the eastern part of the country, reducing fuel costs by an additional US$90 million in 2020 alone;
+
+   (iii) The Gas Demand-Supply Study, which assessed natural gas needs for gas-fired power plants, led VRA to revise
+
+         its daily take-or-pay obligation in the GSA with N-Gas from 90 million standard cubic feet per day (MMscf/d)
+
+
+
+
+
+
+
+                                                                                                                Page 14
+
+            The World Bank
+
+            Ghana Energy Sector Transformation Initiative Project (P163984)                                             ICR DOCUMENT
+
+
+
+
+
+                to 60 MMscf/d, significantly easing financial pressure on the sector and reducing payment obligations by
+
+                approximately US$3.1 billion between 2020 and 2023; and
+
+           (iv) The Annual Audit and Legacy Debt Review assisted the government in validating contested debts, managing
+
+                liabilities, and structuring transactions to settle intra-sector payables. It identified sector-wide legacy debt
+
+                totaling US$1,624 million as of the end of 2022, prompting the government to adopt a payment plan to clear
+
+                these arrears, thereby strengthening the sector's financial discipline and viability.
+
+
+
+           30. Beyond these specific cases, GESTIP's influence extended to shaping subsequent World Bank and IMF
+
+               lending operations, all aimed at the financial recovery of Ghana’s energy sector. These include the IMF’s
+
+               US$3 billion Extended Credit Facility (ECF), with an initial US$600 million approved in May 2023; the World
+
+               Bank’s US$900 million First Resilient Recovery Development Policy Financing (DPF) series, with the first
+
+               US$300 million tranche 13 approved in January 2024; and the US$260 million Ghana Energy Sector Recovery
+
+               Program (P173258, ESRP) PforR approved in June 2024. Key findings from the Project informed the design
+
+               and components of these operations, while the ESRP (P173258) financial model managed by the Project
+
+               provided essential baselines and impact measures. This demonstrates the effectiveness of the TA provided
+
+               and underscores its strategic importance in driving sector-wide reforms and supporting recovery efforts.
+
+
+
+           31. The Project’s design and implementation prioritized resource efficiency by leveraging the existing PIU,
+
+               which had a proven track record from the previous GEDAP operation. By reappointing experienced staff
+
+               familiar with managing IDA-financed projects, the Project minimized the time and resources needed to
+
+               establish a fully operational team, ensuring smooth and streamlined project operations.
+
+
+
+           32. The Project’s efficiency is rated as Substantial. This rating reflects the significant potential for economic and
+
+               financial benefits that could derive from the broad range of TA activities, the Project’s influence on
+
+               subsequent lending operations, and the efficient use of resources. It highlights the Project’s success in
+
+               maximizing the impact of its TA activities and its substantial contribution to the long-term recovery and
+
+               stability of the energy sector.
+
+
+
+
+
+
+
+
+
+          D. JUSTIFICATION OF OVERALL OUTCOME RATING
+
+
+
+          33. The Project’s overall outcome is rated Satisfactory. 14 This rating reflects its continued high relevance,
+
+              substantial achievement of the PDOs and targets, strong government commitment to reform and
+
+              beneficiaries’ ownership, potential economic and financial benefits directly stemming from the Project’s
+
+              activities, contributions to subsequent lending operations, and efficient use of resources.
+
+
+
+
+
+
+
+
+
+13   Ghana First Resilient Recovery Development Policy Financing (P180718)
+
+14ISR Seq No: 11, which was cleared in July 2024 after the Project closing date, has not been archived in the ICR Rating section, as it
+
+was submitted post-closure. This ISR upgraded the progress toward achievement of the PDO from Moderately Satisfactory in the
+
+previous ISR to Satisfactory, reflecting disbursements and implementation progress following the restructuring. Overall
+
+Implementation Progress (IP) remained Moderately Satisfactory, as in the previous ISR Seq No: 10.
+
+
+
+                                                                                                                               Page 15
+
+         The World Bank
+
+         Ghana Energy Sector Transformation Initiative Project (P163984)                                   ICR DOCUMENT
+
+
+
+
+
+     E. OTHER OUTCOMES AND IMPACTS (IF ANY)
+
+
+
+
+
+Gender
+
+
+
+   34. The Project made progress in advancing gender inclusivity within Ghana's energy sector. Of the 137 staff trained
+
+       across the MoEn and sector agencies, 37 were women, comprising 27 percent of the total—well above the
+
+       Project's target of 10 female participants. Women participated in various training programs focused on energy
+
+       planning, project management, financial reporting, communication, and organizational strategy, as well as
+
+       leadership training tailored to women’s roles in the energy industry. This initiative has the potential to reduce
+
+       gender disparities in this traditionally male-dominated sector and promote greater female representation in
+
+       leadership positions.
+
+
+
+Institutional Strengthening
+
+
+
+   35. The Project significantly enhanced the institutional capacity of Ghana's energy sector. Through comprehensive
+
+       assessments, the development of strategic frameworks, and the implementation of advanced management tools,
+
+       the Project provided essential guidance to sector institutions across technical, financial, policy, legal, and
+
+       regulatory dimensions. By deploying management systems like SCADA, OMS, and ERP, the Project also improved
+
+       operational efficiency and decision-making capabilities within these institutions. Additionally, the training of 137
+
+       staff members significantly bolstered technical and managerial capacities across various agencies. These efforts
+
+       have strengthened the sector’s capacity to manage reforms, enhance strategic planning, and improve
+
+       coordination. The institutional enhancements achieved through the Project are expected to support long-term
+
+       sustainability and resilience, equipping sector institutions to meet current needs and address future challenges
+
+       and opportunities.
+
+
+
+Mobilizing Private Sector Financing
+
+
+
+   36. The Project played a crucial role in improving the investment climate for Ghana's energy sector by establishing
+
+       clear regulatory frameworks and a predictable payment structure. The successful implementation of the CWM
+
+       ensured systematic revenue distribution across the sector's value chain, including payments to private investors—
+
+       particularly IPPs, who hold priority agreements in the predefined payment order. Although the sector's overall
+
+       landscape remains a work in progress, the Project has set the stage for further private sector engagement by
+
+       supporting the ESRP, which aims to enhance the sector's financial viability and performance. The ongoing impact
+
+       of these efforts is expected to contribute to a more stable and attractive investment environment as reforms
+
+       progress.
+
+
+
+Poverty Reduction and Shared Prosperity
+
+
+
+   37. GESTIP's contributions to poverty reduction and shared prosperity are indirect, primarily through improving
+
+       the efficiency and reliability of the energy sector. These enhancements are expected to foster economic growth
+
+       and improve livelihoods across communities.
+
+
+
+
+
+
+
+
+
+                                                                                                                  Page 16
+
+       The World Bank
+
+       Ghana Energy Sector Transformation Initiative Project (P163984)                                     ICR DOCUMENT
+
+
+
+
+
+
+
+
+
+III. KEY FACTORS AFFECTED IMPLEMENTATION AND OUTCOME
+
+
+
+   A. KEY FACTORS DURING PREPARATION
+
+
+
+       38. Flexibility was a central consideration in GESTIP’s design, given the dynamic and evolving nature of sector-
+
+           wide reforms. The Project incorporated mechanisms such as unallocated funds for contingency planning
+
+           and restructuring options to accommodate unforeseen changes and shifting priorities. Legal agreements
+
+           were structured to allow for necessary adjustments, ensuring that the Project remained responsive to
+
+           Ghana’s evolving energy sector challenges. These provisions facilitated timely realignments, ensuring that
+
+           interventions remained aligned with the government’s reform agenda and continued to contribute to the
+
+           achievement of the PDO throughout implementation.
+
+
+
+       39. Capacity-building initiatives were integrated into the Project’s design to ensure that tools developed by
+
+           consultants were fully adopted and utilized in the daily operations of sector agencies. Additionally, the
+
+           Project included components that delivered immediate and visible benefits, fostering beneficiary ownership
+
+           and reinforcing support for broader energy sector reforms. This strategic combination of early wins and
+
+           targeted capacity-building was critical in maintaining momentum and ensuring alignment with the sector’s
+
+           urgent priorities.
+
+
+
+       40. Given the complexity and broad fiduciary requirements of GESTIP, a dedicated PIU staffed with
+
+           experienced external consultants, well-versed in World Bank procedures, was established to manage core
+
+           responsibilities. The PIU ensured effective coordination and oversight of procurement processes and
+
+           financial management, while integrating cross-sectoral expertise, including social and gender specialists,
+
+           under the strategic guidance of the MoEn. This capacity proved particularly crucial during the restructuring
+
+           phase, when the PIU effectively handled shifting priorities by canceling activities and managing new
+
+           procurement processes. By expertly managing these complex procurement tasks, the PIU played a key role
+
+           in maintaining the Project’s momentum and ensuring alignment with evolving sector needs. To ensure long-
+
+           term sustainability, a capacity transfer from the PIU to MoEn was planned, with Procurement and Financial
+
+           Management (FM) specialists in the PIU training MoEn staff to gradually transition to Ghana’s country
+
+           systems.
+
+
+
+       41. The Steering Committee was another key component of the Project’s governance structure, ensuring
+
+           leadership and institutional ownership across energy sector entities. Chaired by a Deputy Minister of
+
+           Energy and comprising high-level representatives from key sector agencies, the committee provided
+
+           strategic guidance, coordinated activities, and oversaw the Project’s multi-sectoral components. Its
+
+           responsibilities included aligning project activities with national energy reforms and institutional priorities
+
+           while fostering collective decision-making. Although the committee was scheduled to meet at least twice a
+
+           year, infrequent meetings initially slowed decision-making and delayed issue resolution. Following the World
+
+           Bank’s recommendation, the committee increased its meeting frequency, resulting in better coordination
+
+           and faster decision-making. This proactive engagement, especially during restructuring, was critical for
+
+           realigning project activities, making timely decisions, ensuring effective cross-agency coordination, and
+
+           keeping the Project aligned with sector priorities.
+
+
+
+                                                                                                                  Page 17
+
+  The World Bank
+
+  Ghana Energy Sector Transformation Initiative Project (P163984)                                      ICR DOCUMENT
+
+
+
+
+
+
+
+
+
+B. KEY FACTORS DURING IMPLEMENTATION
+
+
+
+   42. The project encountered several critical factors that influenced its implementation. These factors are
+
+       categorized into those under the control of the government and/or implementing entities, those under the
+
+       control of the World Bank, and external factors.
+
+
+
+   Factors subject to the control of the government and/or implementing entities include:
+
+
+
+   43. During the implementation phase, several functions—particularly fiduciary and procurement tasks—initially
+
+       managed by the PIU were earmarked for gradual transition to MoEn staff to support the Project’s
+
+       sustainability objectives. Capacity-building initiatives aimed to strengthen MoEn staff’s expertise in
+
+       procurement, financial management, and key operational areas, with the goal of embedding these functions
+
+       into MoEn’s daily operations. Despite these training efforts, the envisioned transfer of responsibilities was only
+
+       partially achieved by Project closure. MoEn staff, already managing full-time workloads, encountered
+
+       challenges in assuming additional Project duties, limiting their capacity to fully adopt these roles. This
+
+       constrained progress toward using Ghana’s country systems for Project management and financial oversight
+
+       as initially planned. Consequently, the PIU retained responsibility for core functions, highlighting the
+
+       importance of a more incremental capacity-building approach for effective transition in future projects.
+
+
+
+   44. While the centralized implementation approach under the PIU, reporting to MoEn, was designed for
+
+       efficiency, gaps in communication with working-level staff within beneficiary institutions led to delays in
+
+       implementation. Despite the presence of focal points and regular bi-weekly calls, delays persisted, particularly
+
+       in the review of Terms of Reference (TOR) and consultant outputs. These delays were largely due to the
+
+       absence of formalized mechanisms to ensure timely and consistent engagement with working-level staff. The
+
+       heavy workload of focal points, coupled with competing institutional responsibilities, further contributed to
+
+       bottlenecks, slowing the review process. While the Steering Committee provided strategic guidance, its
+
+       composition of high-level representatives limited direct interaction with working-level staff responsible for
+
+       day-to-day activities. Similarly, although the Technical Committee helped resolve certain operational
+
+       challenges, its role was insufficient to fully address these communication gaps. As a result, communication
+
+       with working-level staff was often ad-hoc, typically initiated only when issues arose, leading to inefficiencies
+
+       and delayed responses. Addressing these communication challenges was recognized as critical for overcoming
+
+       implementation bottlenecks and ensuring the timely completion of project activities.
+
+
+
+   Factors subject to the control of the World Bank include:
+
+
+
+   45. The World Bank demonstrated significant adaptability during the implementation of GESTIP, ensuring the
+
+       Project could respond to the evolving priorities of the government while maintaining alignment with the
+
+       PDOs. This adaptability was particularly critical during the restructuring phase, when the Bank facilitated
+
+       necessary adjustments to project activities and the reallocation of resources. By supporting these changes, the
+
+       Bank helped ensure that the Project remained responsive to the shifting needs of Ghana’s energy sector while
+
+       continuing to advance long-term reform objectives. The proactive approach taken by the Bank during
+
+
+
+                                                                                                             Page 18
+
+The World Bank
+
+Ghana Energy Sector Transformation Initiative Project (P163984)                                         ICR DOCUMENT
+
+
+
+
+
+    restructuring played a key role in sustaining the relevance of the Project, allowing it to maintain momentum
+
+    despite evolving challenges in the sector.
+
+
+
+46. Another critical contribution from the Bank was recommending the inclusion of local partnership
+
+    requirements in the TOR for consultants. Recognizing that local consultants or consulting firms bring essential
+
+    knowledge of the country’s context, the Bank sought to strengthen stakeholder engagement and improve the
+
+    practical application of the Project’s outputs. By incorporating local expertise into consultancy teams, the Bank
+
+    enhanced communication between consultants and beneficiary institutions, ensuring that project activities
+
+    were better aligned with the specific needs and realities of the energy sector. This approach also promoted
+
+    capacity-building within local institutions, as local experts transferred their skills and knowledge to beneficiary
+
+    institutions, fostering long-term sustainability in the sector. The involvement of local partners not only
+
+    facilitated better communication and stakeholder alignment but also helped build the capacity of local
+
+    institutions to manage and sustain sector reforms beyond the Project’s completion.
+
+
+
+External Factors include:
+
+
+
+47. The COVID-19 pandemic significantly impacted project execution, with movement restrictions leading to
+
+    delays in procurement, particularly in proposal evaluations, some of which were delayed for up to a year.
+
+    Prior to the pandemic, evaluations were conducted through in-person meetings, which allowed for more direct
+
+    and efficient discussions. However, when COVID-19 restrictions necessitated a shift to online evaluations, the
+
+    process progressed more slowly than expected due to the challenges of remote work. To expedite the
+
+    evaluation process, the PIU eventually transitioned back to in-person meetings, while adhering to COVID-19
+
+    safety protocols.
+
+
+
+48. The following timeline, presented in the box below, outlines the evolution of the ESRP during GESTIP
+
+    implementation, highlighting the sector's challenges and the variable interim outcomes, which are external
+
+    to GESTIP's PDO and IRI achievements. While not directly linked to GESTIP, the Project was designed to
+
+    support the recovery program and played a key role in advancing sector progress. Recognizing both the
+
+    achievements and gaps in the program is essential to understanding the sector’s recovery. These are
+
+    summarized in the attached box, illustrating the evolution of outcomes. The timeline offers a comprehensive
+
+    view of these dynamics, emphasizing both the persistent ESRP challenges and GESTIP’s strategic contributions
+
+    to the sector’s ongoing recovery.
+
+
+
+                     Box 1: Evolution of the ESRP: Key Challenges and GESTIP’s Contributions
+
+
+
+
+
+ COMPREHENSIVE TIMELINE OF THE ENERGY SECTOR RECOVERY PROGRAMME (ESRP) REFORM PROCESS AND KEY
+
+ CHALLENGES
+
+   YEAR       EVENT/DEVELOPMENT                                        KEY CHALLENGES
+
+                                         - Financial Sustainability: The sector faced severe financial challenges,
+
+                                            with the energy sector struggling to meet its fiscal needs.
+
+                                         - High Generation Costs: High electricity generation costs were driven by
+
+  2019     Approval of ESRP (2019-2023)
+
+                                            non-competitive procurement, particularly expensive emergency power
+
+                                            contracts and excess thermal generation capacity.
+
+                                         - Initial Sector Arrears: The sector was struggling with substantial arrears
+
+
+
+
+
+                                                                                                               Page 19
+
+The World Bank
+
+Ghana Energy Sector Transformation Initiative Project (P163984)                                             ICR DOCUMENT
+
+
+
+
+
+                                                to IPPs, fuel suppliers, and utilities.
+
+                                             - CWM Implementation: The CWM was introduced in April 2020 to
+
+                                                prioritize payments to key stakeholders. However, it faced non-
+
+                                                compliance and delays in payments to IPPs, fuel suppliers, and other
+
+                                                utilities, undermining its effectiveness in addressing sector liquidity
+
+             Implementation of CWM (April       issues.
+
+    2020
+
+                        2020)                - Distribution Losses: High technical and commercial losses (~27% for
+
+                                                ECG) and low collection rates (~85%) continued to hinder the sector’s
+
+                                                financial health.
+
+                                             - Debt and Fiscal Challenges: The sector’s fiscal deficit continued to grow
+
+                                                due to high operational costs and low revenue collection.
+
+                                             - Non-Compliance with CWM: Continued issues with non-compliance led
+
+                                                to delays in payments, exacerbating liquidity and sector stability issues.
+
+                                             - Persistent Fiscal Deficits: Fiscal transfers continued, and the sector
+
+                                                struggled to achieve financial sustainability despite initial reforms.
+
+               ESRP continued but faced      - Inefficient Power Dispatch: Inefficient scheduling and dispatch of
+
+    2021
+
+                governance challenges           generation continued to increase costs, which were not passed through
+
+                                                in tariffs, leading to operational inefficiencies.
+
+                                             - Weak Governance: Slow progress on governance reforms and weak
+
+                                                institutional coordination continued to undermine sector
+
+                                                transformation efforts.
+
+                                             - 90% Tariff Increase: A 90% increase in tariffs was implemented between
+
+                                                2022-24, but they remained below cost-recovery levels, exacerbating
+
+                                                the financial shortfall.
+
+                                             - High-Cost Thermal Generation: The sector continued to depend heavily
+
+             Tariff Adjustments and Sector
+
+    2022                                        on high-cost thermal generation (60% of the energy mix), which limited
+
+                     Financial Strain
+
+                                                the ability to reduce generation costs.
+
+                                             - Non-Competitive Procurement: New generation capacity continued to
+
+                                                be procured through negotiated agreements, further increasing costs
+
+                                                and undermining efforts to reduce the sector’s financial deficit.
+
+                                             - Improvement in CWM: The CWM guidelines were revised in August
+
+                                                2023 with GESTIP support, thereby improving its implementation. ECG
+
+                                                improved payments into the CWM. According to the CWM monthly
+
+                                                validation reports published by PURC, payments into the CWM from
+
+                                                ECG remained steady through September 2024. A quarterly audit of
+
+                                                CWM funds flows starting in Q3 2023 was introduced under the IDA-
+
+                                                financed Resilient Recovery Development Policy Financing series to
+
+                                                introduce transparency and independent validation consistent with
+
+                                                CWM guidelines.
+
+                                             - Distribution Losses and Low Collection Rates: Despite improvements in
+
+    2023     Revision of CWM (August 2023)
+
+                                                CWM compliance, high technical losses (~27%) and low collection rates
+
+                                                (85%) continued to place financial strain on utilities.
+
+                                             - Increased Financial Transfers: The fiscal burden remained high due to
+
+                                                continued fiscal transfers to cover sector shortfalls. The need for these
+
+                                                transfers highlighted the persistent challenges in achieving financial
+
+                                                sustainability.
+
+                                             - Continued High-Cost Generation: The sector’s reliance on high-cost
+
+                                                thermal generation and inefficient procurement practices persisted,
+
+                                                contributing to an unsustainable cost structure.
+
+                                             - Financial Shortfall: The energy sector shortfall was measured with the
+
+
+
+                                                                                                                    Page 20
+
+       The World Bank
+
+       Ghana Energy Sector Transformation Initiative Project (P163984)                                              ICR DOCUMENT
+
+
+
+
+
+                                                          support of GESTIP, estimated at over US$ 2 billion annually between
+
+                                                          2023-2027 under a business-as-usual scenario.
+
+                                                       - Debt Sustainability: The financial health of the sector continued to be
+
+                                                          strained, with ECG’s cost recovery ratios ranging from 48% to 61% in
+
+                                                          2023.
+
+                                                       - ESRP Extension: The ESRP was extended to 2025 by the Government of
+
+                                                          Ghana due to delays in achieving its objectives and the need for
+
+                                                          continued reforms.
+
+                                                       - Foundations for Subsequent Investments: GESTIP laid the foundation
+
+                                                          for key sector investments aimed at tackling ongoing sector issues.
+
+                                                          These include the IMF’s US$3 billion ECF, the World Bank’s US$900
+
+                                                          million Resilient Recovery DPF series (first US$300 million tranche
+
+                                                          approved in January 2024), and the US$260 million ESRP PforR
+
+                     GESTIP's Strategic Influence on      (approved in June 2024).
+
+         2023-2024
+
+                       Subsequent Investments          - Impact on Design and Operations: Key findings from GESTIP informed
+
+                                                          the design and components of these operations, with the ESRP financial
+
+                                                          model providing essential baselines and impact measures., while the
+
+                                                          annual Energy Sector Validation Audits managed by the Government
+
+                                                          formed the basis for recommending a payment plan to clear intra-
+
+                                                          sectoral payables for energy purchases.
+
+                                                       - Projected Reduction in Deficit: If key ESRP actions are fully
+
+                                                          implemented, the sector’s financial shortfall is expected to be reduced
+
+                                                          to US$ 4.9 billion by 2027 (World Bank estimates), though the sector’s
+
+                                                          financial health remains fragile.
+
+                                                       - Further Reforms Needed: Continued structural reforms, such as
+
+                                                          improving dispatch efficiency, reducing distribution losses, integrating
+
+                                                          renewable energy, and ensuring competitive procurement of energy
+
+                     Ongoing ESRP Implementation
+
+         2024-2025                                        supply in a sustainable and least cost manner are essential for
+
+                     and Projected Deficit Reduction
+
+                                                          achieving long-term sustainability.
+
+                                                       - Governance and Compliance: Strengthened governance, full adherence
+
+                                                          to the CWM, and better coordination across sector institutions are
+
+                                                          critical to ensuring the success of the ongoing reforms.
+
+                                                       - Private Sector Investment: The introduction of competitive
+
+                                                          procurement for both thermal and renewable generation capacity
+
+                                                          remains key to reducing the sector’s reliance on public funds.
+
+
+
+
+
+
+
+
+
+IV. BANK PERFORMANCE, COMPLIANCE ISSUES, AND RISK TO DEVELOPMENT OUTCOME
+
+
+
+
+
+   A. QUALITY OF MONITORING AND EVALUATION (M&E)
+
+
+
+
+
+   M&E Design
+
+
+
+       49. The M&E design is rated Substantial. At Project appraisal, the Results Framework was concise, comprising
+
+           five PDO indicators and eleven intermediate indicators, all of which clearly captured the Project’s objectives
+
+           and anticipated outcomes. Following the restructuring in June 2022, the M&E framework was updated to
+
+           reflect newly added activities, with the PDO indicators revised from five to four, and the intermediate
+
+
+
+                                                                                                                            Page 21
+
+   The World Bank
+
+   Ghana Energy Sector Transformation Initiative Project (P163984)                                    ICR DOCUMENT
+
+
+
+
+
+       indicators adjusted from eleven to ten. The framework was well-structured, with realistic and measurable
+
+       targets. The arrangements for its implementation, as outlined in the PAD, were sound and appropriate for
+
+       ensuring effective monitoring. Responsibility for M&E was assigned to the PIU, which was required to prepare
+
+       quarterly progress reports for both the World Bank and the Steering Committee. These reports were
+
+       developed based on a results monitoring plan agreed upon at the outset of the Project. The PIU consolidated
+
+       inputs from multiple stakeholders, including ECG, NEDCo, GRIDCo, GNPC, GNGC, EC, NPA, and PURC. These
+
+       progress reports provided status updates on the results indicators, action plans, and any corrective actions
+
+       required, including clear deadlines and designated responsible personnel. This system ensured that the World
+
+       Bank remained informed of Project progress, with the evaluation of results indicators regularly incorporated
+
+       into supervision missions.
+
+
+
+M&E Implementation
+
+
+
+   50. M&E Implementation is rated Substantial. The Results Monitoring Framework, established before Project
+
+       effectiveness, provided a solid foundation for tracking the Project’s progress. The GESTIP PIU took the lead in
+
+       monitoring the Project, working through focal teams assigned to each task and maintaining regular
+
+       engagement via bi-weekly phone calls with team leaders to assess progress. A Technical Committee,
+
+       comprising representatives from key beneficiary institutions such as GRIDCo, ECG, NEDCo, PURC, and EC, met
+
+       quarterly to discuss progress and address implementation challenges. A Midterm Review (MTR) was
+
+       conducted on August 10, 2020, to assess overall progress, the relevance of the PDO, the project design, and
+
+       compliance with fiduciary and safeguard requirements. The MTR concluded that a restructuring was
+
+       necessary to incorporate newly added activities from GEDAP, revise the Results Framework, update the
+
+       environmental and social categorization, and extend the closing date to ensure the PDO's achievement.
+
+       During the restructuring phase, the monitoring approach was intensified, with quarterly progress reports
+
+       replaced by monthly progress checks, ensuring more frequent oversight and responsiveness to emerging
+
+       issues. Findings from these checks were shared with the World Bank during online meetings and reported to
+
+       the Steering Committee, ensuring timely adjustments to the Project.
+
+
+
+M&E Utilization
+
+
+
+   51. M&E Utilization is rated Substantial. Throughout the Project’s lifecycle, M&E data were consistently reported
+
+       in Implementation Support Reports (ISRs), Aide-Memoires, and Progress Reports. These data were pivotal in
+
+       informing decision-making and guiding adjustments to the Project, ensuring alignment with the PDO. M&E
+
+       findings were particularly important for tracking performance, identifying delays, and facilitating timely
+
+       interventions. When issues were identified—such as delays in implementation—M&E data enabled the team
+
+       to adjust Project ratings and hold discussions with World Bank management and stakeholders on strategies
+
+       for improving progress. In the latter years of implementation, M&E data continued to play a key role in driving
+
+       restructuring decision-making, although challenges persisted. These challenges included changes in priorities
+
+       among beneficiary institutions, staff turnover, and disruptions caused by the COVID-19 pandemic, which
+
+       delayed field data collection and site visits. Despite these difficulties, the utilization of M&E remained
+
+       effective in ensuring that Project adjustments were data-driven and responsive to emerging issues.
+
+
+
+
+
+
+
+
+
+                                                                                                             Page 22
+
+    The World Bank
+
+    Ghana Energy Sector Transformation Initiative Project (P163984)                                     ICR DOCUMENT
+
+
+
+
+
+
+
+Justification of Overall Rating of Quality of M&E
+
+
+
+    52. The overall quality of M&E is rated Substantial, reflecting Substantial ratings for M&E design,
+
+        implementation, and utilization. The M&E system was well-structured, providing a simple yet effective
+
+        framework for tracking progress toward the PDOs. The design ensured that indicators were clear, measurable,
+
+        and aligned with the Project’s objectives. M&E data were regularly collected, analyzed, and discussed with
+
+        key stakeholders, allowing for timely adjustments and ensuring that the Project remained on track to achieve
+
+        its development objectives. The robust utilization of M&E data, particularly in decision-making and course
+
+        corrections, contributed significantly to the successful management of the Project.
+
+
+
+
+
+B. ENVIRONMENTAL, SOCIAL, AND FIDUCIARY COMPLIANCE
+
+
+
+Environmental and Social Safeguards
+
+
+
+53. Environmental and social safeguards compliance was managed effectively throughout the Project. At appraisal,
+
+    the Project presented no expected compliance issues under the World Bank Safeguard Policy OP 4.01 on
+
+    Environmental Assessment and was initially categorized as Environmental Category C, with no adverse
+
+    environmental impacts anticipated. The Project’s environmental and social risk was rated as Low in October 2018.
+
+    Following the restructuring in June 2022—which added ERP, OMS, SCADA activities from GEDAP, along with
+
+    prefabricated PIU office activities—the risk rating was updated to Moderate and remained at that level through
+
+    closure. The restructuring led to a reclassification of the Project to Category B, requiring a partial environmental
+
+    assessment and triggering the OP 4.01 safeguard. The Project complied with this policy, maintaining Moderately
+
+    Satisfactory safeguard compliance for the last three ISR sequences.
+
+
+
+54. The PIU prepared Environmental and Social Management Plans (ESMPs) to address new activities and updated
+
+    the Grievance Redress Mechanism (GRM). By April 2023, the GRM became operational with two communication
+
+    lines and a Grievance Redress Mechanism Committee (GRMC) established to review any complaints. While no
+
+    grievances were recorded, the PIU ensured the GRM was fully functional and accessible. The PIU maintained
+
+    sufficient capacity to implement safeguards requirements, focusing on environmental and social (E&S)
+
+    management, gender, social inclusion, and citizen engagement activities. However, limited commitment to E&S
+
+    aspects from certain beneficiary agencies occasionally led to delays, as E&S specialists within these agencies often
+
+    prioritized their core responsibilities over Project-related tasks, resulting in delays in meeting timelines. The
+
+    Project emphasized the importance of involving stakeholders and regulators from the design phase to provide
+
+    clarity and expedite licensing and permit processes.
+
+
+
+Financial Management (FM)
+
+
+
+55. The Project maintained satisfactory FM practices, consistently meeting audit and reporting requirements. FM
+
+    performance received ratings of ‘Satisfactory’ and ‘Moderately Satisfactory’ throughout implementation. The PIU
+
+    submitted quarterly Financial Management Reports via Client Connection and produced annual Financial
+
+    Statements, fulfilling audit submission requirements each year. In the latter stages of implementation, FM ratings
+
+
+
+
+
+                                                                                                               Page 23
+
+            The World Bank
+
+            Ghana Energy Sector Transformation Initiative Project (P163984)                                   ICR DOCUMENT
+
+
+
+
+
+            were downgraded to ‘Moderately Satisfactory’ due to workspace limitations that necessitated storing project
+
+            documents at a secondary site at the MoEn, among other factors. Key areas for improvement included
+
+            transitioning to government accounting standards, ensuring proper expenditure approvals, and increasing
+
+            internal audit engagement. The World Bank recommended full adoption of GoG Daily Subsistence Allowance
+
+            (DSA) rates and integrating regular internal audits to strengthen oversight. Despite an increase in disbursement,
+
+            these challenges prevented the FM rating from returning to ‘Satisfactory’ in the final ISR. Unresolved issues
+
+            included the full transition from Accounting Software for Client-Centric Applications (ACCPAC) to the Ghana
+
+            Integrated Financial Management Information System (GIFMIS), the integration of dedicated internal accounting
+
+            staff within the Project’s financial management system to enhance continuity and build internal capacity, and
+
+            continued reliance on external consultants for Interim Financial Reports (IFRs) and Statements of Expenditure.
+
+            These concerns contributed to maintaining a ‘Moderately Satisfactory’ FM rating at closure.
+
+
+
+        Procurement
+
+
+
+        56. Procurement performance was rated ‘Satisfactory’ throughout most of the Project’s implementation. However,
+
+            it was temporarily downgraded to ‘Moderately Satisfactory’ between ISR Sequences 08 15 and 09 16 , before
+
+            returning to ‘Satisfactory’ at project closure. This downgrade was largely attributed to procurement delays,
+
+            especially in the early stages. The preparation and approval of ToRs extended timelines, as defining the scope and
+
+            securing approvals from the PIU, MoEn, and other beneficiary institutions required considerable time.
+
+            Additionally, evaluation periods took longer than expected, sometimes exceeding a year, due to the COVID-19
+
+            pandemic and remote work requirements. This led to a shift to in-person meetings, adhering to health protocols,
+
+            to expedite evaluations after initial remote delays. Despite these setbacks, all procurement activities were
+
+            completed by the Project’s closing date of December 31, 2023.
+
+
+
+
+
+        C. BANK PERFORMANCE
+
+
+
+
+
+        Quality at Entry
+
+
+
+       57. Quality at Entry is rated Satisfactory. The Project’s design was grounded in a thorough assessment of the energy
+
+           sector’s challenges, resulting in a demand-driven proposal that effectively addressed the technical assistance
+
+           needs of key energy sector entities in support of the ESRP. The Project focused on high-priority sector objectives—
+
+           strengthening the sector’s capacity to implement reforms and enhancing energy sector coordination. The theory
+
+           of change underlying the Project design was well-structured, aligning clearly with these goals and providing a
+
+           coherent pathway toward the intended outcomes.
+
+
+
+       58. Preparation was comprehensive, covering implementation considerations such as safeguards, procurement,
+
+           and fiduciary arrangements. Drawing on the Bank’s experience with the GEDAP project, the design replicated its
+
+           successful structure, leveraging the capacity of an existing PIU to establish a solid foundation for project
+
+           management. Procurement and M&E arrangements were similarly well-prepared, ensuring effective oversight
+
+           mechanisms were in place from the outset.
+
+
+
+15   Report No.: ISR52237
+
+16   Report No.: ISR54582
+
+
+
+                                                                                                                     Page 24
+
+    The World Bank
+
+    Ghana Energy Sector Transformation Initiative Project (P163984)                                    ICR DOCUMENT
+
+
+
+
+
+
+
+59. The Project’s design also incorporated flexibility to address the evolving needs of diverse beneficiaries within a
+
+    dynamic sector context. To enable this adaptability, 20 percent of the loan amount was left unallocated to
+
+    accommodate unforeseen needs and contingencies. Substantial risks related to sector policy and fiduciary aspects
+
+    were anticipated, with specific mitigation measures integrated, including a firm implementation and coordination
+
+    plan, a flexible approach for necessary adjustments, and strengthened procurement capacity within the PIU and
+
+    MoEn. Consequently, the overall risk was rated Moderate. The unanticipated COVID-19 pandemic impact, which
+
+    contributed to delays, was an external factor beyond the Project’s control.
+
+
+
+
+
+Quality of Supervision
+
+
+
+60. Quality of Supervision is rated Satisfactory. The Bank team provided proactive and consistent supervision
+
+    throughout Project implementation, conducting field missions at appropriate intervals despite the constraints
+
+    imposed by the COVID-19 pandemic. The team closely collaborated with the PIU, prioritizing the Project’s
+
+    development objectives and the evolving needs of beneficiary institutions. Regular weekly meetings and progress
+
+    tracking through updated matrix sheets provided effective oversight, enabling timely identification and resolution
+
+    of implementation challenges.
+
+
+
+61. Project reporting was objective and consistent, with a total of eleven ISRs and eight Aide-Mémoires
+
+    documenting the Project’s progress, risks, and achievements. These reports were consistent in identifying key
+
+    issues and monitoring progress against the Results Framework, with performance ratings that were transparent
+
+    and well-justified. While the Aide-Mémoires provided detailed insights into Project status and challenges, the ISRs
+
+    were succinct, limiting the depth of reporting in some cases. Additionally, the final Aide-Mémoire was issued in
+
+    February 2023, 10 months prior to Project closure, leaving some post-restructuring outcomes, including impacts
+
+    from the loan extension unreported. However, the final ISR, issued in July 2024 after Project closure, upgraded
+
+    the PDO progress rating to Satisfactory, capturing achievements realized during the final stages of implementation
+
+    post-restructuring.
+
+
+
+62. The Bank team’s adaptability to the Project’s evolving needs substantially enhanced Project impact. Flexibility
+
+    and guidance during the restructuring process enabled strategic adjustments, ensuring alignment with Project
+
+    objectives and sustaining momentum amid changing circumstances. The presence of Bank staff in-country was
+
+    instrumental in supporting the PIU and beneficiary institutions, facilitating responsive supervision and effective
+
+    communication. Supervision of safeguards and fiduciary aspects was also Satisfactory, both in terms of resource
+
+    allocation and supervision quality.
+
+
+
+
+
+Justification of Overall Rating of Bank Performance
+
+
+
+63. Given the ratings for Quality at Entry and Quality of Supervision, the Bank’s overall performance is rated
+
+    Satisfactory.
+
+
+
+D. RISK TO DEVELOPMENT OUTCOME
+
+
+
+
+
+
+
+                                                                                                              Page 25
+
+         The World Bank
+
+         Ghana Energy Sector Transformation Initiative Project (P163984)                                     ICR DOCUMENT
+
+
+
+
+
+      64. Through a set of targeted activities, the Project aimed to achieve its PDOs, which were: (i) strengthening the
+
+          energy sector's capacity to implement reforms, with a focus on enhancing financial and operational
+
+          management to improve the sector’s overall financial viability and efficiency, and (ii) improving energy sector
+
+          planning and coordination, through strategic oversight, integrated planning, and the establishment of
+
+          coordinated frameworks for the power and gas sectors. While the Project made substantial progress in these
+
+          areas, several risks could undermine the long-term sustainability of these outcomes.
+
+
+
+      65. The financial viability of the energy sector remains a key challenge. While the Project improved sector
+
+          financials through the CWM and reduced operational inefficiencies, persistent risks—such as reliance on tariff
+
+          adjustments, inflationary pressures, and foreign exchange fluctuations—continue to pose threats. The ability of
+
+          the government and regulators to adjust tariffs in line with macroeconomic shifts and the sector’s cost structure
+
+          is crucial for long-term financial health and successful reform implementation. Delays or resistance to these
+
+          tariff adjustments, particularly amid rising inflation, as well as persistent operational inefficiencies in the
+
+          distribution companies, could undermine the financial gains achieved. Ongoing World Bank DPO (P180718),
+
+          PforR (P173258) 17 , and IMF ECF operations, which mandate quarterly tariff adjustments and support ESRP
+
+          actions, will continue to reinforce reforms and enhance the sector’s financial sustainability.
+
+
+
+      66. Changes in political leadership and shifting priorities can pose risks, especially with Ghana’s recent general
+
+          elections held in December 2024, which elected the President and members of Parliament. Ghana’s energy
+
+          sector reforms have largely been driven by strong government commitment, with political will being crucial for
+
+          sustaining progress in areas such as tariff adjustments and sector restructuring. Any change in government
+
+          could lead to shifts in reform priorities or delays in implementation, potentially hindering the full achievement
+
+          of the Project’s outcomes. However, since the ESRP is embedded within broader fiscal and economic recovery
+
+          plans and supported by financing from international development partners like the World Bank and IMF, the
+
+          continuity of reforms is expected to extend beyond any single political cycle.
+
+
+
+      67. The sustainability of the Project’s outcomes relies on the ongoing application and integration of analytics,
+
+          systems, and strategic frameworks developed during implementation. All of these were aimed at improving
+
+          operations, informing decision-making, and building capacity within sector agencies. Continued commitment
+
+          from the beneficiary agencies to effectively leverage these outputs is essential for sustaining progress. Any lapse
+
+          in this commitment could undermine the Project’s lasting impact. Encouragingly, strong beneficiary
+
+          ownership—reinforced during restructuring—has ensured that key mechanisms and systems, such as CWM,
+
+          SCADA, ERP, and OMS, are now integrated into the daily operations of these agencies, with several analytical
+
+          outputs already driving policy, regulatory, and commercial decisions.
+
+
+
+      68. The risk to the Project’s development outcome is assessed as Modest. The long-term sustainability of the
+
+          outcomes depends on the government’s ability to prioritize and sustain reforms, and the beneficiary agencies’
+
+          continued use of the tools developed during implementation. Strong ownership by the agencies and the
+
+          government’s commitment to reforms mitigate some risks, while ongoing World Bank and IMF operations, such
+
+
+
+
+
+17The PforR (P173258) aims to enhance distribution companies' operational efficiency and sector financial stability by
+
+targeting three key areas: reducing power system costs, improving operational performance, and strengthening financial
+
+management.
+
+
+
+                                                                                                                    Page 26
+
+       The World Bank
+
+       Ghana Energy Sector Transformation Initiative Project (P163984)                                      ICR DOCUMENT
+
+
+
+
+
+         as DPO (P180718), PforR (P173258), and ECF, provide continued support for tariff adjustments and sector
+
+         financial sustainability. Given these factors, the risk to the development outcome remains Modest.
+
+
+
+
+
+
+
+V. LESSONS AND RECOMMENDATIONS
+
+
+
+  69. Sector reform-focused TA projects, despite limited budgets, are inherently complex due to their nature and the
+
+      broad spectrum of stakeholders and activities involved. It is imperative to have a robust and visible champion to
+
+      ensure successful implementation. Clear commitment, ownership, and high-level support are crucial to securing
+
+      endorsement and maintaining adherence, ensuring that all activities align with the country’s sector reform
+
+      objectives. Such a role cannot be optimally fulfilled by a capable yet typically 'external' PIU or any other external
+
+      stakeholder.
+
+
+
+  70. Such TA operations often involve the execution of a wide range of activities that require the participation of
+
+      multiple stakeholders. Securing the collaboration of these entities is vital to ensure that outputs address the
+
+      concerns and perspectives of beneficiaries while remaining aligned with the sector’s objectives. Considerations
+
+      include, among others, the use of a Steering Committee to oversee the implementation of all activities. This can
+
+      be instrumental in achieving outcomes satisfactory to all parties, provided it includes high-level representatives
+
+      from all stakeholders and maintains frequent communication, including physical meetings when necessary.
+
+
+
+  71. Inclusive stakeholder engagement from the start is crucial for project success. Project proponents should involve
+
+      all relevant stakeholders from the activity’s design phase—providing these institutions with a clear understanding
+
+      of the proposal—through to negotiations and implementation, including the timely review of critical deliverables.
+
+      Beneficiaries should be made aware from the outset of what is expected of them, and focal persons for each
+
+      beneficiary should be designated before the activity begins. Centralized implementation without consistent
+
+      communication and early stakeholder participation could potentially underutilize local capacity, weaken
+
+      ownership, and delay contributions.
+
+
+
+  72. The effectiveness of TA operations largely depends on the actual adoption and implementation of its
+
+      recommendations; without this, the benefits may be limited to merely shelving a set of reports. Beyond securing
+
+      beneficiary ownership, the GESTIP experience suggests the following to ensure effective use of the project’s
+
+      outputs: (i) incorporate training sessions on the use of the tools provided as part of the consultant’s assignment,
+
+      and (ii) include specific components within the supported activities that are likely to yield immediate and visible
+
+      benefits to the sector, as early results can be crucial in gaining project support and strengthening local ownership.
+
+      Additionally, strong leadership and committed champions are vital to sustaining structural reforms over time; in
+
+      the absence of such leadership, reform sustainability can be undermined.
+
+
+
+  73. Flexibility in the design and implementation of a TA project is crucial for adapting to changing needs and
+
+      maximizing its potential benefits. Since TA operations that support sector-wide reforms are often carried out in
+
+      dynamic, unpredictable environments, incorporating flexibility into the project design is essential. Legal
+
+      agreements that allow for restructuring should be established, and dynamic management tools that can be
+
+      continuously updated, such as Environmental and Social Management Frameworks (ESMFs) and Operational
+
+      Manuals should be used. Flexibility should be complemented by a project management approach that is
+
+
+
+                                                                                                                  Page 27
+
+     The World Bank
+
+     Ghana Energy Sector Transformation Initiative Project (P163984)                                        ICR DOCUMENT
+
+
+
+
+
+    responsive to the client’s evolving needs and preferences during implementation. The GESTIP experience
+
+    highlighted the importance of this approach, facilitating a restructuring that not only confirmed the relevance of
+
+    the project’s objectives but also ensured their achievement in responding to the government's ongoing reform
+
+    objectives and strategies.
+
+
+
+74. Given the large number of activities involved in a sector-wide TA project, the procurement process often
+
+    becomes a highly demanding effort relative to the project’s scale, frequently causing delays. Project preparation
+
+    should prioritize designing procurement arrangements that enhance efficiency. In addition to confirming the
+
+    borrower’s capacity for implementation, the preparation process should assess the country’s existing
+
+    procurement framework, aiming to identify and eliminate cumbersome or redundant bureaucratic processes,
+
+    while ensuring compliance with fiduciary requirements. These measures should be incorporated into the project’s
+
+    procurement plan.
+
+
+
+75. TA operations aimed at supporting sector reform inherently depend on local resources and knowledge. Unlike
+
+    construction or technology-driven investment projects, which finance infrastructure including ICT and often
+
+    remain somewhat detached from local political and policy environments, sector reform-focused TA operations
+
+    require deep integration with local contexts. This integration provides access to essential knowledge and the
+
+    ability to navigate the complexities of the implementation environment. The GESTIP experience underscores the
+
+    importance of local involvement in two key areas: (i) in-country collaborators—active participation by local
+
+    partners significantly improved the consultants’ understanding of specific challenges in Ghana and facilitated
+
+    better communication with beneficiaries; and (ii) access to data—tasks involving substantial data collection were
+
+    more effectively executed by firms with local partnerships. Overall, local expertise proved critical in navigating
+
+    local contexts, enhancing the effectiveness of project implementation.
+
+
+
+76. The collection of high-quality and sufficient data is essential to the success of various analytical efforts and
+
+    requires careful planning and adequate resources. Data gathering can be costly and time-consuming and should
+
+    be addressed from the early stages of a study—prior to engaging consultants—and factored into the consultant’s
+
+    budget. In environmental, technical, and commercial assessments, access to comprehensive and reliable baseline
+
+    data is crucial for ensuring sound outputs and recommendations. It is recommended that TA projects addressing
+
+    a range of sector-related activities be supported by a centralized data repository to facilitate access to high-quality
+
+    data and ensure its availability for future use in a cost-effective and timely manner.
+
+
+
+77. Addressing governance deficiencies falls beyond the remit of TA projects like GESTIP: While the GESTIP TA
+
+    provided the analytical tools for the client to monitor sector performance under a proposed trajectory of
+
+    regulatory reform and financial recovery, compliance with sector policies and regulations are within the remit of
+
+    other World Bank instruments designed for the same e.g. Development Policy Financing. The analytical
+
+    underpinning designed under GESTIP provided the framework for the design and delivery of the IDA-financed
+
+    Resilient Recovery Development Policy Financing series, the IDA-funded Energy Sector Recovery Program, and the
+
+    IMF Extended Credit Facility.
+
+
+
+
+
+
+
+
+
+                                                                                                                  Page 28
+
+             The World Bank
+
+             Ghana Energy Sector Transformation Initiative Project (P163984)                                                                        ICR DOCUMENT
+
+
+
+
+
+                                                           ANNEX 1. RESULTS FRAMEWORK AND KEY OUTPUTS
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@icrresultframework#doctemplate
+
+ A. RESULTS FRAMEWORK
+
+
+
+
+
+PDO Indicators by Outcomes
+
+
+
+Strenghten the capacity of the energy sector to implement sector reforms
+
+          Indicator Name                           Baseline                Closing Period (Original)     Closing Period (Current)     Actual Achieved at Completion
+
+                                          Result           Month/Year      Result           Month/Year   Result          Month/Year      Result         Month/Year
+
+Power sector revenue allocated to          0.00            May/2018        100.00            Mar/2022    100.00           Mar/2022       100.00          Dec/2023
+
+sector entities through the Cash
+
+Waterfall Mechanism. (Percentage)
+
+Electrification strategy and                No             May/2018         Yes              Mar/2022     Yes             Sep/2023        Yes            Dec/2023
+
+investment plan for remote areas is
+
+adopted and communicated to
+
+stakeholders (Yes/No)
+
+Clean Cooking strategy is adopted           No             May/2018         Yes              Mar/2022     Yes             Mar/2023        Yes            Dec/2023
+
+and communicated to stakeholders
+
+(Yes/No)
+
+Improve energy sector planning and coordination in Ghana
+
+             Indicator Name                       Baseline                 Closing Period (Original)     Closing Period (Current)     Actual Achieved at Completion
+
+                                           Result         Month/Year       Result           Month/Year   Result          Month/Year      Result         Month/Year
+
+Strategy for competitive tendering of       No             Oct/2017         Yes              Mar/2022     Yes             Mar/2022        Yes            Dec/2023
+
+gas/LNG volumes for balancing gas
+
+supply and demand for power plants
+
+is adopted and communicated to
+
+stakeholders (Yes/No)
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                Page 29
+
+              The World Bank
+
+              Ghana Energy Sector Transformation Initiative Project (P163984)                                                                      ICR DOCUMENT
+
+
+
+
+
+
+
+Intermediate Indicators by Components
+
+
+
+
+
+Component 1: Management of energy sector financial flows
+
+           Indicator Name                         Baseline                Closing Period (Original)     Closing Period (Current)     Actual Achieved at Completion
+
+                                         Result              Month/Year   Result           Month/Year   Result          Month/Year      Result         Month/Year
+
+No. of sector staff trained (male and     0.00                Oct/2017    50.00             Mar/2022    50.00            Mar/2023       137.00          Dec/2023
+
+female). (Number)
+
+       of which female. (Number)          0.00                Oct/2017    10.00             Mar/2022    10.00            Mar/2023       37.00           Dec/2023
+
+Citizen engagement: Number of             0.00                Oct/2017     5.00             Mar/2022     2.00            Nov/2023        3.00           Dec/2023
+
+citizen engagement meetings held
+
+(Number)
+
+       Percentage of participants in      0.00                            50.00                         50.00                           92.30           Dec/2023
+
+       citizen engagement meetings
+
+       who consider their views have
+
+       been taken into account.
+
+       (Percentage)
+
+Component 2: Sector Planning and coordination
+
+Communication capacity of GRIDCO’s       80.00                Jun/2022    200.00            Dec/2023    200.00           Dec/2023       200.00          Dec/2023
+
+Network Management System
+
+(Number)
+
+Performance Improvement Plan (PIP)         No                 Jun/2022     Yes              Jun/2023     Yes             Jun/2023        Yes            Dec/2023
+
+Guidelines for Energy Commission
+
+and PURC prepared (Yes/No)
+
+Component 3: Energy access
+
+NEDCo's distribution system plan           No                 Oct/2017     Yes              Mar/2022     Yes             Jun/2023        Yes            Dec/2023
+
+updated. (Yes/No)
+
+NEDCo's distribution specifications        No                 Oct/2017     Yes              Mar/2022     Yes             Aug/2023        Yes            Dec/2023
+
+and construction standards
+
+approved. (Yes/No)
+
+Gender. The strategic assessment of        No                 Oct/2017     Yes              Mar/2022     Yes             Aug/2023         No            Dec/2023
+
+electrification options outlines the
+
+impacts of different electrification
+
+
+
+
+
+
+
+                                                                                                                                                               Page 30
+
+            The World Bank
+
+            Ghana Energy Sector Transformation Initiative Project (P163984)                                     ICR DOCUMENT
+
+
+
+
+
+strategies on women and women’s
+
+entrepreneurship\income
+
+generation. (Yes/No)
+
+Component 4: Natural gas
+
+Gas supply and demand study           No           Oct/2017         Yes       Mar/2022   Yes   Mar/2022   Yes      Dec/2023
+
+completed (Yes/No)
+
+
+
+
+
+
+
+
+
+                                                                                                                         Page 31
+
+          The World Bank
+
+          Ghana Energy Sector Transformation Initiative Project (P163984)                                                                 ICR DOCUMENT
+
+
+
+
+
+B. KEY OUTPUTS
+
+
+
+
+
+Objective/Outcome 1: STRENGTHEN THE CAPACITY OF THE ENERGY SECTOR TO IMPLEMENT SECTOR REFORMS
+
+                                                                      1. Power sector revenue allocated to sector entities through the CWM.
+
+                                                                      2. Electrification strategy and investment plan for remote areas is
+
+Outcome Indicators
+
+                                                                      adopted and communicated to stakeholders.
+
+                                                                      3. Clean cooking strategy is adopted and communicated to stakeholders.
+
+                                                                      1. CWM implemented for transparent and equitable revenue
+
+                                                                      distribution among sector entities, improving financial stability and
+
+                                                                      accountability within the power sector.
+
+                                                                      2. Ghana Last-Mile Electrification Strategy developed and adopted,
+
+                                                                      effectively communicated to stakeholders. This strategy offers a
+
+Key Outputs by Component
+
+                                                                      foundation for future projects and policy initiatives, enhancing the
+
+(linked to the achievement of the Objective/Outcome 1)
+
+                                                                      sector's ability to plan and implement reforms effectively.
+
+                                                                      3. National Clean Cooking Strategy formulated and adopted,
+
+                                                                      communicated to stakeholders. This strategy establishes a clear
+
+                                                                      framework for sustainable energy practices, guiding future
+
+                                                                      investments and supporting policy development for sector reforms.
+
+
+
+Objective/Outcome 2: IMPROVE ENERGY SECTOR PLANNING AND COORDINATION
+
+
+
+                                                                      1. Strategy for competitive tendering of gas/LNG volumes for
+
+Outcome Indicators                                                    balancing gas supply and demand for power plants is adopted and
+
+                                                                      communicated to stakeholders
+
+                                                                      1. Legal and commercial arrangements, as well as demand and supply
+
+                                                                      balance for gas, were assessed, leading to significant cost savings and
+
+Key Outputs by Component
+
+                                                                      improved contract terms for gas supply. This facilitated reduced gas
+
+(linked to the achievement of the Objective/Outcome 2)
+
+                                                                      obligations and enhanced the planning and coordination of the gas
+
+                                                                      sector.
+
+INTERMEDIATE RESULTS INDICATORS BY PROJECT COMPONENT
+
+
+
+                                                                                                                                                 Page 32
+
+          The World Bank
+
+          Ghana Energy Sector Transformation Initiative Project (P163984)                                                                 ICR DOCUMENT
+
+
+
+
+
+
+
+                                                                      1. No. of sector staff trained (male and female)
+
+                                                                      2. No. of sector staff trained (of which female)
+
+                                                                      3. Citizen engagement: Number of citizen engagement meetings held
+
+Intermediate Results Indicators for Project Component 1
+
+                                                                      4. Percentage of participants in citizen engagement meetings who
+
+                                                                      consider their views have been taken into account
+
+
+
+
+
+                                                                      1. Increased communication capacity of GRIDCO’s Network
+
+                                                                      Management System
+
+Intermediate Results Indicators for Project Component 2
+
+                                                                      2. PIP guidelines for EC and PURC prepared
+
+
+
+
+
+                                                                      1. NEDCo's distribution system plan updated
+
+                                                                      2. Update of NEDCo's distribution specifications and construction
+
+                                                                      standards complete
+
+Intermediate Results Indicators for Project Component 3
+
+                                                                      3. Gender. The strategic assessment of electrification options outlines
+
+                                                                      the impacts of different electrification strategies on women and
+
+                                                                      women’s entrepreneurship\income generation
+
+Intermediate Results Indicators for Project Component 4               1. Gas supply and demand study completed
+
+
+
+
+
+
+
+
+
+                                                                                                                                                 Page 33
+
+         The World Bank
+
+         Ghana Energy Sector Transformation Initiative Project (P163984)                       ICR DOCUMENT
+
+
+
+
+
+
+
+ANNEX 2. BANK LENDING AND IMPLEMENTATION SUPPORT/SUPERVISION
+
+
+
+    A. TASK TEAM MEMBERS
+
+
+
+
+
+  Name                                                       Role
+
+  Dhruva Sahai                                               Team Leader
+
+  Maame Tabuah Ankoh                                         Team Leader
+
+  Esinam Julia Nduom                                         Financial Management Specialist
+
+  Buniyaminu Abdul Kadiri                                    Procurement Specialist
+
+  Patrick Kwadwo Ansah                                       Procurement Specialist
+
+  Muhammad Abbass Rahimi                                     Procurement Specialist
+
+  Charles John Aryee Ashong                                  Procurement Specialist
+
+  Kobina Otu Okyne                                           Environmental Specialist
+
+  Justice Odoiquaye Odoi                                     Environmental Specialist
+
+  Nneka Okereke                                              Social Specialist
+
+  Adams Kwaw                                                 Social Specialist
+
+  Sarah Antwi Boasiako                                       Social Specialist
+
+  Nightingale Rukuba-Ngaiza                                  Counsel
+
+  Lydia Sam                                                  Procurement Team
+
+  Haoua Diallo                                               Team Member
+
+  Ayishetu Terewina                                          Team Member
+
+  Landrine Fomete Songmene                                   Team Member
+
+  Rhonda Lenai Jordan Antoine                                Team Member
+
+  Serdar Jepbarov                                            Team Member
+
+  Maiada Mahmoud Abdel Fattah Kassem                         Team Member
+
+
+
+
+
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@icrannexstafftime#doctemplate
+
+    B. STAFF TIME & COST
+
+
+
+
+
+ Stage of Project Cycle                                                 Staff Time & Cost
+
+
+
+
+
+                                                                                                      Page 34
+
+        The World Bank
+
+        Ghana Energy Sector Transformation Initiative Project (P163984)                               ICR DOCUMENT
+
+
+
+
+
+
+
+                                        No. of Staff Weeks                US$ (including travel and consultant costs)
+
+
+
+Preparation
+
+FY18                                                           49.470                                   320,150.99
+
+
+
+FY19                                                             3.812                                    27,794.94
+
+
+
+FY20                                                             0.000                                           .00
+
+
+
+Total                                                             53.28                                 347,945.93
+
+
+
+Supervision/ICR
+
+FY19                                                           25.751                                   213,979.17
+
+
+
+FY20                                                           33.724                                   522,550.61
+
+
+
+FY21                                                           25.177                                   401,973.74
+
+
+
+FY22                                                           29.386                                   188,588.09
+
+
+
+FY23                                                           18.831                                   124,453.22
+
+
+
+FY24                                                           13.217                                     60,011.70
+
+
+
+FY25                                                             1.090                                     1,346.81
+
+
+
+Total                                                           147.18                                1,512,903.34
+
+
+
+
+
+
+
+
+
+                                                                                                                Page 35
+
+          The World Bank
+
+          Ghana Energy Sector Transformation Initiative Project (P163984)                                   ICR DOCUMENT
+
+
+
+
+
+
+
+ANNEX 3. PROJECT COST BY COMPONENT 18
+
+
+
+
+
+
+
+
+
+                                             Amount at Approval          Actual at Project      Percentage of Approval
+
+ Components
+
+                                                        (US$M)            Closing (US$M)                     (US$M) 19
+
+ Component 1: Management
+
+ of energy sector financial                                   5.30                    8.37                        158%
+
+ flows
+
+ Component 2: Sector
+
+                                                              3.50                    0.75                          21%
+
+ Planning and coordination
+
+ Component 3: Energy access                                   2.00                    4.62                        231%
+
+ Component 4: Natural gas                                     3.20                    1.28                          40%
+
+ Component 5: Project
+
+ management & ESRP                                            2.00                    4.06                        203%
+
+ Implementation Support
+
+ Follow up activities and
+
+                                                              4.00                       0                             0
+
+ Contingencies
+
+ Total                                                      20.00                    19.07                          95%
+
+
+
+
+
+
+
+
+
+18 Actual figures at Project Closing (US$M) are drawn from the IFR dated April 30, 2024, and the specific cost breakdown
+
+per activity can be found in Annex 6. The IFR from April 2024 indicates a final disbursement of $19.07 million, while the
+
+Bank's ICR Financing section reports a final disbursement of $19.16 million. This discrepancy arises from fluctuations in
+
+the daily conversion rates between Special Drawing Rights (SDR) and USD due to market conditions.
+
+19 Due to restructuring, some components saw higher disbursements than initially allocated. For example, 27% of the
+
+
+
+total funds was originally allocated to Component 1, but after restructuring, 52% was allocated reflecting changing sector
+
+priorities. The actual disbursement for this component was 42%.
+
+
+
+                                                                                                                     Page 36
+
+          The World Bank
+
+          Ghana Energy Sector Transformation Initiative Project (P163984)                                      ICR DOCUMENT
+
+
+
+
+
+
+
+ANNEX 4. EFFICIENCY ANALYSIS
+
+
+
+The project comprises a set of technical assistance activities; it does not finance investments that would generate cash
+
+flows. Therefore, it does not lend itself to a traditional economic and financial analysis that calculates Net Present Value
+
+(NPV) or the Economic and Financial Internal Rate of Return (EIRR and FIRR) of a particular investment.
+
+
+
+
+
+
+
+
+
+                                                                                                                         Page 37
+
+        The World Bank
+
+        Ghana Energy Sector Transformation Initiative Project (P163984)                                     ICR DOCUMENT
+
+
+
+
+
+
+
+ANNEX 5. BORROWER, CO-FINANCIER AND OTHER PARTNER/STAKEHOLDER COMMENTS
+
+
+
+  1. The PIU has prepared a thorough Project Completion Report (PCR), which was submitted to the Bank in February
+
+     2024. This report addresses the project’s background, development objectives, implementation issues, and
+
+     performance, as well as its compliance with environmental and social safeguards, financial management, and
+
+     procurement. The report’s quantitative conclusions coincide with those of the ICR.
+
+
+
+  2. The report captures the borrower’s views and conclusions on the project. It summarizes the challenges
+
+     encountered during the implementation phase, identifies key benefits provided to various beneficiaries, and
+
+     presents the borrower’s view of the lessons learned. The most salient challenges included:
+
+      Factors of delay: (i) late provision of inputs from utilities or government agencies other than the beneficiary
+
+         institutions; (ii) lengthy review of deliverables by different parties; (iii) COVID-19 travel restrictions slowed
+
+         down consultancy activities; (iv) unavailability of the software required for the beneficiaries’ review of
+
+         consultant’s deliverables; (v) changes in project design; and (vi) overly ambitious timetables;
+
+      Steering Committee meetings were not always attended by the heads of the beneficiary institutions, thus
+
+         compromising their full involvement and ownership; and
+
+      Due to currency exchange losses between SDR and US Dollars, some beneficiaries had to cover the resulting
+
+         funding gap (e.g., in upgrading GRIDCo’s SCADA system).
+
+
+
+
+
+  3. The PIU’s PCR identifies 30 key benefits provided to eight energy sector beneficiaries that resulted from the
+
+     project’s activities. Some important benefits are:
+
+      Planning and strategic studies or tools that helped energy sector institutions to forecast energy and peak
+
+         demand, as well as natural gas demand and supply, identify investment needs and seek appropriate funding,
+
+         estimate the economic VoLL to achieve more efficient operation and allocate appropriate rewards and
+
+         penalties, and support Ghana’s Last-Mile Electrification Program and National Clean Cooking Strategy;
+
+      Distribution design guidelines and construction standards for NEDCo to ensure high quality of service, as well
+
+         as a manual for network protection and coordination;
+
+      Mapping geographic data of NEDCo for more effective customer service;
+
+      Update of GRIDCo’s SCADA system to incorporate advancements in technology and accommodate the overall
+
+         growth of the power system;
+
+      Enhancing the capacity of NPA to undertake its regulatory functions, including a nationwide baseline study for
+
+         the National LPG Promotion Program, a comprehensive Monitoring and Evaluation (M&E) framework, and
+
+         financial models to determine margins in the price build-up of LPG;
+
+      Support to the ESRP through qualified staff, funding of annual audits of legacy debt, and technical audits of
+
+         power plants; and
+
+      Improvement of office equipment in several energy sector institutions.
+
+
+
+  4. The lessons learned presented in the PCR highlight the importance of an active role of senior management during
+
+     the design and implementation of a TA project, effective coordination among all parties, the essential role played
+
+     by a local representative of the consultant’s team, the need for efficient data collection, and the necessity of
+
+     training beneficiaries to ensure that the project’s benefits are realized. These lessons are taken into account in the
+
+     formulation of Section E of this ICR.
+
+
+
+
+
+
+
+
+
+                                                                                                                      Page 38
+
+         The World Bank
+
+         Ghana Energy Sector Transformation Initiative Project (P163984)                                      ICR DOCUMENT
+
+
+
+
+
+
+
+ANNEX 6. SUPPORTING DOCUMENTS (IF ANY)
+
+
+
+       ACTIVITY DESCRIPTION                                                                          DISBURSED (USD)
+
+   COMPONENT 1: MANAGEMENT OF ENERGY SECTOR FINANCIAL FLOWS - US$10.40 MILLION
+
+   COMPONENT 1.1: CASH WATERFALL MECHANISM
+
+      Preparation of Procedures and Operational Documents for the Implementation of CWM                 22,000.00
+
+      CWM Independent Accountant                                                                        236,080.53
+
+      CWM Financial Analyst                                                                             103,141.16
+
+      Training: Stakeholder Workshops for Regulators and Parliamentary Select Committees on Energy
+
+                                                                                                        134,747.90
+
+      and Finance
+
+      Technical Coordinator (Full-Time)                                                                 276,131.78
+
+      Policy Advisor (Part-Time)                                                                        104,722.68
+
+      Technical Audit of Power Plants                                                                   152,319.84
+
+      Goods for ESRP PIU: 4WD Station Wagon                                                             69,503.79
+
+      ESRP PIU Task Force Operations: Meeting Venues, Logistics, Per Diem, etc.                         114,210.32
+
+      Street Lighting Tariff Analysis                                                                   375,283.68
+
+      Annual Audit and Review of Legacy Debt                                                            571,577.06
+
+   COMPONENT 1.2: ELECTRONIC BILLING AND COLLECTION
+
+      Support for NEDCo's Definition of an E-Billing Action Plan                                        33,729.72
+
+      Validation of ECG's Revenue/Collection Account                                                    90,877.50
+
+      Validation of NEDCo’s Revenue/Collection Account                                                  59,854.85
+
+   COMPONENT 1.3: IMPROVEMENT OF OPERATIONAL FUCTIONS
+
+      Upgrade of GRIDCo's SCADA Network Management                                                     3,358,269.61
+
+      Supervision of the Upgrade of GRIDCo's SCADA Network Management                                    80,139.09
+
+      Completion of the Supply and Installation of OMS                                                  600,000.00
+
+      Completion of ERP System                                                                         1,766,122.94
+
+      Supervision of the Completion of the ERP System                                                   182,628.75
+
+      Preparation of PIPs for EC and PURC                                                                35,485.00
+
+    COMPONENT 1 TOTAL                                                                                 8,366,826.20
+
+   COMPONENT 2: SECTOR PLANNING AND COORDINATION - US$0.95 MILLION
+
+   COMPONENT 2-1: ELECTRICITY SECTOR ASSESSMENT AND SUPPORT FOR IMPLEMENTING RECOMMENDATIONS
+
+      Estimation of the VoLL of Electricity Supply in Ghana                          58,114.32
+
+   COMPONENT 2.2: GAS SECTOR ASSESSMENT AND SUPPORT FOR IMPLEMENTING RECOMMENDATIONS
+
+      Review of the Ghana Petroleum Products Price Build-Up                         241,582.66
+
+      Operating Cost: Advertising                                                    5,234.77
+
+      ESMF                                                                           49,858.99
+
+       Development of a M&E Framework and Baseline Studies for CRM                                      115,545.68
+
+       Development of LPG Behavioral Change and Public Awareness Programs                               110,926.16
+
+       Development of COMAH Regulations                                                                 168,934.03
+
+    COMPONENT 2 TOTAL                                                                                   750,196.61
+
+    COMPONENT 3: ENERGY ACCESS - US$4.97 MILLION
+
+    COMPONENT 3.1: INVESTMENT PLAN FOR ELECTRIFICATION
+
+       Feasibility and Investment Planning Study for Ghana’s Last-Mile Electrification                  258,010.28
+
+
+
+                                                                                                                       Page 39
+
+              The World Bank
+
+              Ghana Energy Sector Transformation Initiative Project (P163984)                                                ICR DOCUMENT
+
+
+
+
+
+            Satellite and Field Survey Analysis and Upgrade of Existing Geospatial Software: GIS Database for
+
+                                                                                                                209,659.85
+
+            Ghana's Last-Mile Electrification
+
+            Operating Cost: Commission on Transfers                                                                318.69
+
+            Purchase of PLEXOS 20 Modeling Software                                                             425,851.00
+
+            Purchase of GIS Software and Training                                                                50,965.17
+
+        COMPONENT 3.2: SAFE CLEAN COOKING STRATEGY
+
+            Consumer and Market Assessment Study and Development of a National Clean Cooking Strategy
+
+                                                                                                                193,040.44
+
+            for Ghana
+
+            Preparation of Operational Manual for the National LPG Promotion Program                             69,797.02
+
+            Needs Assessment for the Upgrade and International Organization for Standardization (ISO)
+
+                                                                                                                 27,885.95
+
+            Accreditation of the Stove Testing Laboratory at KNUST-TCC
+
+        COMPONENT 3.3: NEDCo’S OPERATIONAL SYSTEMS UPGRADE
+
+            NEDCo's Distribution Master Plan Studies                                                            452,615.19
+
+            Update of NEDCo’s Distribution and Construction Standards Studies                                   425,264.28
+
+            E-GIS for Techiman and Parts of the Sunyani Operational Areas                                      1,577,056.91
+
+            Consultancy Services for NEDCo's Distribution Network Protection and Coordination Studies           275,773.19
+
+            Workshop and Training                                                                                33,620.12
+
+            Purchase of Power Line Systems - Computer Aided Design and Drafting (PLS-CADD) Software for
+
+                                                                                                                 71,996.00
+
+            NEDCo
+
+            NEDCo's Energy and Demand Forecast Study                                                            257,246.62
+
+            Fiber Optic Broadband Infrastructure Development Project                                            291,357.02
+
+            Fewer Reversals of Canceled Transactions                                                              (582.20)
+
+        COMPONENT 3 TOTAL                                                                                      4,619,875.53
+
+        COMPONENT 4: NATURAL GAS - US$1.32 MILLION
+
+            Strategy for Balancing Natural Gas Demand and Supply                                                193,323.52
+
+            Technical and Legal Support for the Implementation of the Aggregator Role                            98,919.80
+
+            Development of Natural Gas Distribution Franchise in Tema                                           985,377.00
+
+            Operating Cost: Advertising                                                                           2,253.60
+
+        COMPONENT 4 TOTAL                                                                                      1,279,873.92
+
+        COMPONENT 5: PROJECT MANAGEMENT & ESRP IMPLEMENTATION SUPPORT - US$2.36 MILLION
+
+        COMPONENT 5.1: PROJECT MANAGEMENT
+
+            PIU Staff Costs (for 8 staff members)                                                              1,104,572.46
+
+            Goods: Office Vehicle                                                                                69,504.15
+
+            Goods: Office Equipment and Accessories                                                             183,605.53
+
+            Operating Costs                                                                                     734,722.54
+
+            Construction of a 2-Storey Prefabricated Office Building                                            309,727.86
+
+        COMPONENT 5.2: ESRP IMPLEMENTATION SUPPORT
+
+            Training: Workshop for Beneficiary Institutions                                                    1,663,641.63
+
+            Fewer Reversals of Canceled Transactions                                                             (8,730.41)
+
+        COMPONENT 5 TOTAL                                                                                      4,057,043.76
+
+        TOTAL PROGRAM DISBURSEMENT                                                                            19,073,816.02
+
+
+
+
+
+
+
+20   PLEXOS is software tool used for power market simulation, energy modeling, and analysis, including gas in its capabilities.
+
+
+
+                                                                                                                                    Page 40
+
+          The World Bank
+
+          Ghana Energy Sector Transformation Initiative Project (P163984)          ICR DOCUMENT
+
+
+
+
+
+
+
+
+
+                                         GESTIP Project Completion Report by PIU
+
+
+
+Please click the icon to view the PIU's ICR.
+
+
+
+
+
+
+
+
+
+                                                                                          Page 41
+
+

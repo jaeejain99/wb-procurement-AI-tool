@@ -1,0 +1,2245 @@
+                                            FOR OFFICIAL USE ONLY
+                                                                                               Report No: PAD00120
+
+
+                                INTERNATIONAL DEVELOPMENT ASSOCIATION
+
+
+                                       PROJECT APPRAISAL DOCUMENT
+
+
+                                                       ON A
+                                               PROPOSED CREDIT
+                                     IN THE AMOUNT OF US$50 MILLION
+
+
+                            AND A CREDIT IN THE AMOUNT OF JPY 11,236,300,000
+           (US$76 MILLION EQUIVALENT) (IDA SCALE-UP WINDOW SHORTER MATURITY LOAN)
+
+
+                                                     TO THE
+                                             REPUBLIC OF RWANDA
+
+
+                                                      FOR A
+
+
+                   KIGALI LOGISTICS PLATFORM CONNECTIVITY DEVELOPMENT PROJECT
+
+
+                                                   MARCH 8, 2024
+
+
+
+ Transport Global Practice
+ Eastern and Southern Africa Region
+
+This document has a restricted distribution and may be used by recipients only in the performance of their official
+duties. Its contents may not otherwise be disclosed without World Bank authorization.
+                      CURRENCY EQUIVALENTS
+
+
+            (Exchange Rate Effective {January 31, 2024})
+
+
+                                             Rwandan Franc
+                           Currency Unit =
+                                             (RWF)
+                                    US$1 = JPY 148
+                                    US$1 = RWF 1,270
+
+
+                             FISCAL YEAR
+                      January 1 - December 31
+
+
+
+
+Regional Vice President: Victoria Kwakwa
+     Regional Director: Wendy E. Hughes
+      Country Director: Keith E. Hansen
+     Practice Manager: Almud Weitz
+    Task Team Leaders: Aguiratou Savadogo-Tinto, Alejandro Espinosa-Wang
+                  ABBREVIATIONS AND ACRONYMS
+
+
+AM         Accountability Mechanism
+AWPB       Annual And Work Plan and Budget
+CCDR       Country Climate and Development Report
+CERC       Contingent Emergency Response Component
+CO2        Carbone Dioxide
+CPF        Country Partnership Framework
+DBM        Design, Build and Maintain
+DFIL       Disbursement And Financial Information Letter
+DG         Director General
+DP World   Dubai Port World
+DRC        Democratic Republic of the Congo
+E&S        Environment and Social
+EAC        East African Community
+EIRR       Economic Internal Rate of Return
+EOI        Expression of Interest
+ESCP       Environmental and Social Commitment Plan
+ESMF       Environmental and Social Management Framework
+ESS        Environment and Social Standards
+FRDP       Feeder Roads Development Project
+GBVPRAP    Gender-Based Violence Prevention and Response Action Plan
+GDP        Gross Domestic Product
+GGRCS      Green Growth and Climate Resilience Strategy
+GHG        Green House Gas
+GoR        Government Of Rwanda
+GRM        Grievance Redress Mechanism
+GRS        Grievance Redress System
+HDM        Highway Development and Management Model
+HEIS       Hands-On Expanded Implementation Support
+IA         Implementing Agency
+IC         Identified As Consultant
+ICB        International Competitive Bidding
+IDA        International Development Association
+IFMIS      Integrated Financial Management Information System
+IFRs       Interim Financial Reports
+                                        i
+IPF         Investment Project Financing
+iRAP        International Road Assessment Program
+JICA        Japan International Cooperation Agency
+KLP         Kigali Logistic Platform
+KMs         Kilometers
+KPIs        Key Performance Indicators
+LMP         Labor Management Plan
+LVTP        Lake Victoria Transport Program
+LED         Light Emitting Diode
+MT          Million Tons
+MINECOFIN   Ministry of Finance and Economic Planning
+MINICOM     Ministry of Trade and Industry
+MININFRA    Ministry of Infrastructure
+NBIA        New Bugesera International Airport
+NDC         Nationally Determined Contributions
+NPV         Net Present Value
+MTR         Midterm Review
+M&E         Monitoring and Evaluation
+OAG         Office of the Auditor General
+OPBRC       Output and Performance Based Road Contracting
+ORAT        Operational Readiness and Airport Transfer
+PCE         Private Capital Enabling
+PDO         Project Development Objective
+PIM         Project Implementation Manual
+PPSD        Project Procurement Strategy for Development
+PRAMS       Procurement Risk Assessment and Management System
+PS          Permanent Secretary
+QCBS        Quality and Cost Based Selection
+RDB         Rwanda Development Board
+RECOR       Rwanda Emergency Connectivity Restoration Project
+REMA        Rwanda Environment Management Authority
+RPF         Resettlement Policy Framework
+RFA         Rwanda Forest Authority
+RMF         Road Maintenance Fund
+RNP         Rwanda National Police
+ROW         Right of Way
+                                            ii
+RAP    Resettlement Action Plan
+RPPA   Rwanda Public Procurement Authority
+RSB    Rwanda Standard Board
+RTDA   Rwanda Transport Development Agency
+RURA   Rwanda Utilities Regulatory Authority
+RWB    Rwanda Water Board
+SEZ    Special Economic Zones
+SME    Small and Medium-sized Enterprises
+SPIU   Single Project Implementation Unit
+WBG    World Bank Group
+
+
+
+
+                                   iii
+                                                                                   Table of Contents
+
+DATASHEET ....................................................................................................................................................................................... v
+
+I.         STRATEGIC CONTEXT............................................................................................................................................................. 1
+
+A.         Country Context.................................................................................................................................................................... 1
+
+B.         Sector Background ................................................................................................................................................................ 2
+
+C.         Relevance to Higher Level Objectives.................................................................................................................................... 5
+
+II.        PROJECT DESCRIPTION .......................................................................................................................................................... 6
+
+A.         Project Development Objective ............................................................................................................................................ 6
+
+B.         Project Components ............................................................................................................................................................. 7
+
+C.         Project Beneficiaries ........................................................................................................................................................... 10
+
+D.         Results Chain ...................................................................................................................................................................... 11
+
+E.         Rationale for Bank Involvement and Role of Partners ......................................................................................................... 11
+
+F.         Lessons Learned and Reflected in the Project Design .......................................................................................................... 12
+
+III.       IMPLEMENTATION ARRANGEMENTS .................................................................................................................................. 12
+
+A.         Institutional and Implementation Arrangements ................................................................................................................ 12
+
+B.         Results Monitoring and Evaluation Arrangements .............................................................................................................. 13
+
+C.         Sustainability ...................................................................................................................................................................... 13
+
+IV.        PROJECT APPRAISAL SUMMARY ......................................................................................................................................... 13
+
+A.         Technical, Economic and Financial Analysis ........................................................................................................................ 13
+
+B.         Fiduciary ............................................................................................................................................................................. 17
+
+C.         Legal Operational Policies ................................................................................................................................................... 19
+
+D.         Environment and Social ...................................................................................................................................................... 19
+
+V.         GRIEVANCE REDRESS MECHANISM (GRM) .......................................................................................................................... 23
+
+VI.        KEY RISKS ............................................................................................................................................................................ 23
+
+VII.       RESULTS FRAMEWORK AND MONITORING ......................................................................................................................... 25
+
+Annex 1: Implementation Arrangements and Support Plan ............................................................................................................ 33
+
+
+
+
+                                                                                                iv
+@#&OPS~Doctype~OPS^dynamics@padbasicinformation#doctemplate
+DATASHEET
+
+
+BASIC INFORMATION
+
+
+Project
+                         Operation Name
+Beneficiary(ies)
+Rwanda                   Kigali Logistics Platform Connectivity Development Project
+                                                         Environmental     and     Social   Risk
+Operation ID             Financing Instrument
+                                                         Classification
+                         Investment            Project
+P180228                                                  High
+                         Financing (IPF)
+
+
+@#&OPS~Doctype~OPS^dynamics@padprocessing#doctemplate
+Financing & Implementation Modalities
+
+[ ] Multiphase Programmatic Approach (MPA)                          [✓] Contingent Emergency Response Component (CERC)
+[ ] Series of Projects (SOP)                                        [ ] Fragile State(s)
+[ ] Performance-Based Conditions (PBCs)                             [ ] Small State(s)
+[ ] Financial Intermediaries (FI)                                   [ ] Fragile within a non-fragile Country
+[ ] Project-Based Guarantee                                         [ ] Conflict
+[ ] Deferred Drawdown                                               [ ] Responding to Natural or Man-made Disaster
+[ ] Alternative Procurement Arrangements (APA)                      [ ] Hands-on Expanded Implementation Support (HEIS)
+
+
+Expected Approval Date                     Expected Closing Date
+28-Mar-2024                                30-Sep-2030
+Bank/IFC Collaboration
+No
+
+
+Proposed Development Objective(s)
+The objectives of the Project are to improve resilient and safe connectivity from the KLP (Masaka) to the regional logistics
+corridors and support local and regional economic activities around the corridors.
+
+Components
+ Component Name                                                                                                    Cost (US$)
+ Component 1:Improving physical infrastructure                                                                 105,440,000.00
+ Component 2: Trade facilitation and Logistics improvement                                                      26,510,000.00
+
+                                                                v
+ Component 3: Implementation support, monitoring, and capacity building                            7,000,000.00
+ Component 4: Contingency Emergency Response (CERC)                                                        0.00
+ Physical Contingencies                                                                            1,000,000.00
+
+
+@#&OPS~Doctype~OPS^dynamics@padborrower#doctemplate
+Organizations
+Borrower:                        Republic of Rwanda
+                                 Ministry of Infrastructure (MININFRA), Ministry of Trade and Industry (MINICOM),
+Implementing Agency:
+                                 Rwanda Transport Development Agency (RTDA)
+
+
+@#&OPS~Doctype~OPS^dynamics@padfinancingsummary#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                    No
+
+Is this project Private Capital Enabling (PCE)?              Yes
+
+SUMMARY
+
+  Total Operation Cost                                                                                  139.95
+
+  Total Financing                                                                                       139.95
+             of which IBRD/IDA                                                                          126.00
+
+  Financing Gap                                                                                            0.00
+
+DETAILS
+
+ World Bank Group Financing
+   International Development Association (IDA)                                                           126.00
+      IDA Credit                                                                                          50.00
+      IDA Shorter Maturity Loan (SML)                                                                     76.00
+
+ Non-World Bank Group Financing
+   Counterpart Funding                                                                                    13.95
+      Borrower/Recipient                                                                                  13.95
+
+
+IDA Resources (US$, Millions)
+
+
+
+                                                        vi
+                                                                                            Guarantee
+                           Credit Amount     Grant Amount           SML Amount                            Total Amount
+                                                                                              Amount
+
+Scale-Up Window
+                                      0.00              0.00                76.00                0.00            76.00
+(SUW)
+
+National
+Performance-Based                    50.00              0.00                 0.00                0.00            50.00
+Allocations (PBA)
+
+Total                                50.00              0.00                76.00                0.00           126.00
+
+
+
+@#&OPS~Doctype~OPS^dynamics@paddisbursementprojection#doctemplate
+Expected Disbursements (US$, Millions)
+WB      Fiscal
+Year                2024            2025        2026               2027             2028         2029          2030
+
+Annual              5.00            20.00       30.00             35.00             20.00        10.00         6.00
+Cumulative          5.00            25.00       55.00             90.00          110.00          120.00       126.00
+
+
+@#&OPS~Doctype~OPS^dynamics@padclimatechange#doctemplate
+PRACTICE AREA(S)
+
+
+Practice Area (Lead)                                           Contributing Practice Areas
+Transport                                                      Finance, Competitiveness and Innovation
+
+CLIMATE
+
+
+Climate Change and Disaster Screening
+Yes, it has been screened and the results are discussed in the Operation Document
+
+
+@#&OPS~Doctype~OPS^dynamics@padrisk#doctemplate
+SYSTEMATIC OPERATIONS RISK- RATING TOOL (SORT)
+
+
+Risk Category                                                                Rating
+1. Political and Governance                                                  ⚫ Moderate
+2. Macroeconomic                                                             ⚫ Moderate
+3. Sector Strategies and Policies                                            ⚫ Moderate
+4. Technical Design of Project or Program                                    ⚫ Moderate
+
+                                                         vii
+5. Institutional Capacity for Implementation and Sustainability             ⚫ Substantial
+6. Fiduciary                                                                ⚫ Moderate
+7. Environment and Social                                                   ⚫ High
+8. Stakeholders                                                             ⚫ Moderate
+9. Overall                                                                  ⚫ Substantial
+
+
+@#&OPS~Doctype~OPS^dynamics@padcompliance#doctemplate
+POLICY COMPLIANCE
+
+
+Policy
+Does the project depart from the CPF in content or in other significant respects?
+[ ] Yes      [✓] No
+
+Does the project require any waivers of Bank policies?
+[ ] Yes [✓] No
+
+
+
+ENVIRONMENTAL AND SOCIAL
+
+
+Environmental and Social Standards Relevance Given its Context at the Time of Appraisal
+E & S Standards                                                                     Relevance
+ESS 1: Assessment and Management of Environmental and Social Risks and
+                                                                                    Relevant
+Impacts
+ESS 10: Stakeholder Engagement and Information Disclosure                           Relevant
+ESS 2: Labor and Working Conditions                                                 Relevant
+ESS 3: Resource Efficiency and Pollution Prevention and Management                  Relevant
+ESS 4: Community Health and Safety                                                  Relevant
+ESS 5: Land Acquisition, Restrictions on Land Use and Involuntary Resettlement      Relevant
+ESS 6: Biodiversity Conservation and Sustainable Management of Living Natural
+                                                                                    Relevant
+Resources
+ESS 7: Indigenous Peoples/Sub-Saharan African Historically Underserved
+                                                                                    Not Currently Relevant
+Traditional Local Communities
+ESS 8: Cultural Heritage                                                            Relevant
+ESS 9: Financial Intermediaries                                                     Not Currently Relevant
+NOTE: For further information regarding the World Bank’s due diligence assessment of the Project’s potential
+environmental and social risks and impacts, please refer to the Project’s Appraisal Environmental and Social Review
+Summary (ESRS).
+
+                                                          viii
+@#&OPS~Doctype~OPS^dynamics@padlegalcovenants#doctemplate
+LEGAL
+Legal Covenants
+Sections and Description
+No later than sixty (60) days after the Effective Date, the Recipient shall establish and thereafter maintain throughout the
+Project implementation period the Project implementation unit within the Ministry of Industry and Trade (MINICOM
+SPIU) with resources and composed of key staff (including SPIU coordinator, financial management specialist,
+procurement specialist, e-commerce specialist, a trade specialist, a civil engineer, an environment specialist, a social
+specialist, a gender specialist and a community development officer); all with qualifications, experience and under terms
+of reference acceptable to the Association as may be further detailed in the Project Implementation Manual.
+No later than thirty-six (36) months after Effective Date, the Recipient shall in conjunction with the Association, carry out
+a mid-term review of the Project (the "Mid-term Review), covering the project achieved in the implementation of the
+Project.
+
+
+@#&OPS~Doctype~OPS^dynamics@padconditions#doctemplate
+Conditions
+Type                           Citation                          Description                   Financing Source
+                                                                 The Recipient has prepared
+                                                                 and adopted the Project
+                                                                 Implementation Manual in
+Effectiveness                  Article IV, 4.01                                                IBRD/IDA
+                                                                 the form and substance
+                                                                 satisfactory    to     the
+                                                                 Association
+
+
+
+
+                                                            ix
+    I.     STRATEGIC CONTEXT
+           A. Country Context
+
+1.       Rwanda’s topography, lack of natural resources, limited domestic market, and rural-centric population are
+prevalent of the country’s physical and economic landscape. Bordered by four countries - Democratic Republic of the
+Congo (DRC) in the west, Uganda in the north, Tanzania in the east, and Burundi in the south - the geographic challenges
+of a landlocked country with numerous high-altitude mountains constrain the country’s options for spatial development.
+Rwanda’s high population density of 13.2 million inhabitants, with a median age of 19, occupy an area of 26,338 km2 (503
+inhabitants/km2).1 Consequentially, job creation has favored services that embody higher-than-average education and
+skill requirements. Indeed, services account for 30 percent of total employment (triple the share in the early 2000s), half
+of Gross Domestic Product (GDP), and a rising share of foreign exchange earnings.2
+2.       Despite the geographic challenges, population’s youthful demographics, and modest internal market, Rwanda
+has achieved impressive socio-economic progress in recent decades. Growth in GDP per capita averaged five percent per
+year since the early 2000s, second only to Ethiopia in Africa. High levels of public investment (averaging 15 percent of GDP
+in recent years) improved access to water, sanitation, electricity, and housing. Poverty fell from 77 to 55 percent and from
+59 to 38 percent from 2001 to 2017, according to international and national poverty lines, respectively. After approaching
+10 percent growth in 2019, restrictions associated with COVID-19 caused GDP to contract by 3.4 percent in 2020, causing
+the first recession since 1994. High vaccination rates of almost 70 percent (2nd highest in Sub-Saharan Africa [SSA]) and a
+resilient economy allowed growth to rebound by over 10 percent in 2021, after lifting mobility restrictions. Global
+conditions in 2022 caused GDP growth to slow to 6 percent, but an expansion of 6.7 percent and 7 percent is estimated
+for 2023 and 2024, respectively. 3
+3.       Rwanda’s Vision 2050 provides the strategic foundation for high economic growth to reach upper middle-
+income status by 2035 and high-income status by 2050. These ambitious goals imply growth rates exceeding 12 percent
+per year, requiring new avenues for growth through innovation, integration, agglomeration, and competition.4 With its
+challenging geography, small market size, and central location, Rwandan future competitiveness is intrinsically linked to
+its connection with its neighbors and beyond. As the East African Community (EAC) becomes increasingly integrated,
+activities in trade, transport, and tourism are foreseen by the country’s National Strategy for Transformation 2017-2024
+as leading Rwanda’s development framework. One of the Government of Rwanda’s (GoR) core development objectives is
+to develop multimodal transport hubs that link Rwanda and its neighbors to regional and international markets based on
+efficiently integrating upgraded road, rail, and air transport networks.5
+4.       Rwanda is highly vulnerable to the impacts of natural hazards and climate change and is already experiencing
+the impacts with the rising occurrence of floods, droughts, soil erosion, and landslides. In 2021, Rwanda ranked 154 out
+of 185 countries in the Notre Dame Vulnerability Index indicating high exposure, sensitivity, and low ability to adapt to
+the negative impacts of climate change.6 Rwanda faces high risks from river and urban floods, landslides, and wildfires;
+medium risk from water scarcity, volcano eruption, and earthquakes; and low risk from extreme heat.7 Consequently, the
+frequency and severity of disastrous weather events have risen since the early 2000s and caused substantial losses. The
+rise in heavy rainfall events, particularly in the northern and western provinces, are leading to frequent riverine flooding,
+flash floods, and landslides, damaging infrastructure, harming the environment, and even causing loss of life.8. In May
+2023, Rwanda faced flooding and a series of landslides that cost more than 130 lives and damaged 20 national roads, 21
+
+
+
+
+1 National Institute of Statistics for Rwanda, Government of Rwanda, Fifth Population and Housing Census, 2022
+2 The World Bank, Fostering Rwanda’s Competitiveness & Resilience in the Post COVID-19 era, 2022.
+3 The World Bank, Rwanda Economic Update, Edition 19, September 2022.
+4 The World Bank, Future Drivers of Growth in Rwanda , 2019.
+5 The World Bank, Fostering Rwanda’s Competitiveness & Resilience in the Post COVID -19 era, 2022.
+6 University of Notre Dame, Notre Dame Global Adaptation Initiative, 2021.
+7 ThinkHazard, consulted on 21st January 2024.
+8 The World Bank Group, Climate Change Knowledge Portal, 2021.
+
+                                                                                                                           1
+district roads, and 47 bridges, disconnecting districts, and impeding country supply through land transportation. The
+eastern and southern regions of the country have experienced frequent dry episodes, alternating with rainfall excesses.
+5.       Climate change is likely to further increase the risks from extreme events. Climate projections indicate continued
+regional variability in precipitation levels. Annual mean temperature is projected to increase and there is a strong
+likelihood of longer heatwaves with as much as 85 days per year9. Climate-related shocks, including the recent prolonged
+droughts, risk slowing progress in poverty reduction. About 40 percent of the population in the western, southern, and
+northern provinces are exposed to landslides and flooding risks, with the eastern province exposed mostly to drought
+hazards. The estimated annual economic costs of these climate risks will reach one percent of GDP by 2030.10
+6.       Rwanda significantly improved gender equality over the years but challenges remain. Achievements consist of
+constitutional and legal reforms, policies to encourage sector-based gender inclusion, as well as national planning
+strategies for the empowerment of women and girls. In 2021, female adult literacy was 73 percent compared to 79 percent
+for males. In addition, the 2023 Women, Business, and the Law report scored Rwanda 83.8 out of 100, higher than the
+72.6 average score for SSA. However, laws that enable quality work after having children, ensure non-discrimination for
+access to credit, and that provide for pension credit during maternal leave are still lacking.11 Analyses have shown that
+women face “de facto” constraints in pursuing entrepreneurial activities associated with inadequate business skills, limited
+access to start-up capital, and pressures to engage in childcare, cooking and other domestic activities that fully occupy
+their time. Consequently, women own less than a third of active small and medium-sized enterprises (SMEs) nationwide
+and only 17 percent in rural areas.12
+          B. Sector Background
+7.      As a landlocked, service-oriented country, Rwanda considers physical connectivity with neighbors and
+international markets a necessary condition to meet its development goals. Guided by the Government of Rwanda’s
+(GoR) 10-year logistics strategy13 and bolstered by opportunities offered by new regional trade agreements, the GoR
+joined with private partners to develop transport and distribution channels aimed at strengthening strategic trade links
+to bolster Rwanda’s ability to provide competitive goods and services to the region. Considerable public investment was
+deployed alongside regulatory reform, leading to improved times for border clearance, greater procedural transparency
+and predictability, and improved supply chain reliability.
+8.       Like in many SSA countries, ninety percent of people and freight travel across Rwanda by road. Accordingly,
+Rwanda desires maximal road connectivity with high-standard national, district, and feeder road networks that meet
+regional and national sealed bitumen standards. The road network is well established, comprising nearly 38,000 km that
+includes a high “classified” road density of 62 km per 100 km2.14 Rwanda has also achieved notable success in maintaining
+the national roads system based on regular rehabilitation. Indeed, following rehabilitation of the Kagitumba-Kayonza-
+Rusumo road (208 km) in 2019 connecting Kigali to the Uganda and Tanzania borders, the World Bank, under the Lake
+Victoria Transport Project (LVTP, P160488) and the Japan International Cooperation Agency (JICA) finance the upgrading
+of the Ngoma-Nyanza corridor (119 km) to the vital international Central Corridor.
+9.       Road traffic fatalities and injuries are an increasing burden on Rwanda’s health system and the overall economy
+despite ongoing efforts on road safety. With an estimated 29.7 deaths per 100,000 people per year, Rwanda is classified
+by the World Health Organization (WHO) among countries in the red zone. Moreover, WHO estimates that only 593 of
+the 3,535 deaths from road traffic accidents in 2018 were reported.15 The leading causes of accidents include reckless
+driving, wrong maneuvers, driving over the prescribed speed limits, violation of the vehicle’s right of way, overtaking
+
+9 Netherlands Commission for Environmental Sustainability, Climate Change Profile: Rwanda, 2015.
+10 Stockholm  Environment Institute, The Economics of Climate Change in Rwanda, 2010.
+11 The World Bank, Women, Business, and the Law, 2023.
+12 Alliance for Financial Inclusion (AFI), Increasing Women’s Financial Inclusion and Closing Women’s SME Credit Gap in Rwanda Through Enabling
+
+   Financial Policy Regulation, 2023.
+13 Ministry of Trade and Industry, Government of Rwanda, Strategy for Logistics and Distribution Services, 2012-2022, April 24, 2012.,
+14 According to a recent study done by MININFRA Public Transport Accessibility, there over 45 thousand km of roads. The National Feeder Roads
+
+   Master Plan, currently under preparation, will provide a more detailed estimations of the total length of the network.
+15 World Health Organization, Global Status Report on Road Safety, 2018.
+
+                                                                                                                                             2
+maneuvers, and drunk driving. Rwanda’s 2021 Transport Policy and Strategy recommended a lead road safety agency to
+bolster the current fragmented institutional set-up but that has been hindered by budget constraints. With a range of
+agencies involved, consolidating data to inform decision-making is difficult. 16
+10.     The current lack of integrated, multi-modal connectivity constrains deeper formation of regional value chains
+and hinders Rwanda’s competitiveness as a regional logistics hub. Without greater air cargo capacity or connectivity with
+the growing regional railway network, Rwanda’s production and trade relies on the all-road Northern and Central
+Corridors to the Mombasa and Dar es Salaam Sea ports, respectively, for access to international markets. The Central
+Corridor connects the Port of Dar es Salaam by road, rail, and inland waterways to Burundi, Rwanda, Uganda, Eastern part
+of the DRC, and all central and northern-western Tanzania. The corridor forms part of the backbone of the regional
+transportation system in East and Central Africa carrying imports and exports of five countries with a population of more
+than 120 million people, but lengthy turnaround times and cost volatility associated with trade facilitation are critical
+constraints to efficient business operators.17
+11.      Currently air transport is served by one international airport and six aerodromes spread across the country, but
+a new international airport is under construction in Bugesera. Dense settlement and challenging topography around the
+Kigali International Airport prevent its further expansion, constraining Rwanda’s efforts to become a transport hub for the
+region. Accordingly, the GoR initiated construction of a new airport in Bugesera District, 40 km south-east from Kigali, and
+entered a strategic partnership with Qatar Airways for its construction and operation. Upon completion, planned in 2026,
+the airport will eventually have an annual capacity of 8.2 million passengers and 150,000 tons of cargo.18 The GoR’s
+planned Operational Readiness and Airport Transfer for March 2027 covering the new Bugesera International Airport
+(NBIA) expects the KLPConnect project roads to be completed and operational to support NBIA’s multi-modal operations.
+12.      The GoR also plans to build railway lines to reduce the current transit times along the Central and Northern
+corridors, estimated at 419 and 7.5 days,20 respectively. In the case of the critically important Central Corridor, feasibility
+studies to connect Rwanda with Tanzania and Burundi were completed. The proposed railway line from Isaka to Kigali will
+have a link to Burundi that would run from Keza to Musongati via Gitega. The Kigali-Isaka railway (about 500 km) will
+connect Kigali to the Central Railway in Tanzania at the dry port in Isaka, potentially cutting the Kigali-Dar es Salaam transit
+time by more than half as compared to the all-road system.
+13.      The GoR’s 2012-2022 Logistics and Distribution Services Strategy also foresaw a range of production and
+distribution channels, that together play a key role to ease doing business in Rwanda and across the region. Most
+notably, the Kigali Logistics Platform (KLP) was built from 2016-2019 as a US$35 million multimodal freight and cargo
+logistics hub to service the region’s trade. The facility was awarded in 2016 as a 35-year Build-Operate-Transfer contract
+to Dubai Port World (DP World) in which GoR has provided the land to the investor and basic infrastructure to the site,
+including road and utilities (water and electricity). KLP is a hinterland facility, currently operating on 19 hectares located
+17 km from Kigali that feature an inland container terminal with warehousing capacity, a container yard, break-bulk/bulk
+handling, and storage facilities, and an expanding range of accompanying services such as customs inspections, banking,
+tax payment, and maintenance. KLP became fully operational only in 2021-2022 due to the impact of the global pandemic.
+14.      The establishment of the KLP as a concession with a world-class operator represents a key step in Rwanda’s
+roadmap to be a logistics hub for the East Africa Community. With a throughput that has reached around 100,000 metric
+tons (MT) per year, 30 percent of which originates at or is destined for international markets, KLP is poised to play a
+significant role in the regional economy.21 KLP provides, through DP World, bonded and non-bonded warehousing cold
+
+16 MININFRA is responsible for road safety policy; RTDA, the Rwanda Utilities Regulatory Authority (RURA) and local governments are MININFRA’s
+   implementing agencies; and the Rwanda National Police (RNP) enforces road safety laws.
+17 The Central Corridor accounts for 80 percent of the country’s overseas trade but takes over 90 hours to reach the port, far e xceeding the 60-hour
+
+   target, but still half the time along the Northern Corridor. Moreover, though dwelling times at Mombasa port are significantly lower, the additional
+   clearance requirements through Uganda and Rwanda border posts, time and cost of transport make it overall less competitive compared to Dar
+   es Salaam. Fostering Rwanda’s Competitiveness & Resilience in the Post COVID-19 era, The World Bank, 2022.
+18 Aviation, Travel and Logistics Agency, MININFRA, Government of Rwanda.
+19 Central Corridor Transport Observatory, Annual Report of the Performance of Central Corridor Transit Transport, May 2023.
+20 Northern Corridor Transport Observatory, Annual Northern Corridor Transport Observatory Report 2022, May 2023.
+21 Statics according to Ministry of Trade and Industry (MINICOM), GoR, 2024
+
+                                                                                                                                                     3
+storage inland container depot and cargo handling services. DP World is also becoming vertically integrated in the logistics
+sector as it enters long haul trucking, packaging, and a range of other logistics services. KLP’s growing role in facilitating
+the growth of Rwanda’s logistics sector provides considerable economic spillovers to the local economy. In addition to the
+over 450 people employed directly to work at KLP, the platform hosts many service-oriented local firms that engage in
+clearing, forwarding, banking, third party logistics, and even some cases of fourth party logistics.22
+15.      Expectation of rising demand for logistics and in preparation for planned rail services near the platform, KLP
+will soon expand to over twice its size. The Phase 2 expansion will bring the entire KLP to 42.5 hectares and is currently
+envisaged to take place during 2026-2027. It will include: (i) a commodity processing center to clean, dry, store, and
+package commodities such as maize and beans in collaboration with the Ministry of Agriculture and East African Exchange;
+(ii) a goods manufacturing, processing, storage, and distribution area for pharmaceutical products; and (iii) space for
+Rwanda’s logistics providers to develop and expand their business. In support of KLP’s expansion, GoR is strengthening
+the physical connectivity of KLP to key road corridors, especially the Central Corridor to facilitate the movement of goods
+and services to and from the new Bugesera Industrial Park and the NBIA.
+16.     Currently, KLP is connected to the Central Corridor, but the traffic flow to and from the facility has grown to the
+point that the conditions at peak hours are fully saturated and totally congested. Rwanda has promoted Special
+Economic Zones (SEZs) and industrial parks across the country to fosters foreign and domestic investors. While SEZs and
+industrial parks have been an enabler of productivity and sustainable growth, since 2010,23 the significant growth of
+concentrated economic activity24 has added to the already severe traffic congestion in the KLP area.25 To avoid the
+congestion, the trucks come to KLP park at Rugende (approximately 8 km to KLP) during the day to avoid the congestion
+and proceed only during night hours. To the west and the south of KLP, traffic transiting to and from Eastern DRC and
+Burundi transit through the City of Kigali, contributing to urban congestion and causing severe risk of traffic accidents
+(Map 1). At the same time, with the NBIA and the emergence of additional industrial zones the Bugesera area is expected
+to soon become a leading commercial and industrial center of the country. Better connectivity between KLP and the NBIA
+is urgently needed as the airport will be completed in 2026.
+17.      The anticipated emergence of the Bugesera area as a commercial center offers the opportunity to close the
+gender gap in the international trade and logistics sector and increase female ownership of SMEs. Because of women’s
+concentration in subsistence agriculture, women do not seem to benefit from the country’s trade expansion as much as men.26
+Accordingly, women-owned firms remain underrepresented in the SMEs and represent only 32.7 percent of registered
+enterprises, of which 62.2 percent are either micro or small.27 One of the barriers for women in Rwanda to form SMEs is
+a lack of credit for women-owned enterprises, with 38 percent of female-owned SMEs credit constrained compared to 26
+percent of men’s. In addition, many of the women entrepreneurs operate in the informal sector and do not have a business
+plan, which prevents them from expanding their business and access to credit.28
+18.     Moreover, there is underrepresentation of female employment in Rwanda’s transport sector. Based on data
+from the International Labor Organization, of the people employed in transport storage and communication, only 7.4
+percent are women. Barriers that women face to participate in the public transport sector in Rwanda include gender
+stereotypes, limited opportunities to put skills to work, few women enrolling into Science, Technology, Engineering, and
+Mathematics subjects, inadequate gender perspective in social enterprises providing training in the sector, and sexual
+harassment in the workplace.29
+
+
+
+22 A storage and re-packaging operation to provide sugar in smaller 1–2-kilogram packages was established with Illovo, Africa’s largest sugar producer.
+23 International Growth Center Analyzing the Impact of the Kigali Special Economic Zone on Firm Behavior, 2017.
+24 From 2013 to 2016, the Kigali Special Economic Zone (KSEZ) contributed to approximately 4.5 to 10 percent of the total national goods exports.
+25 The reported daily passenger car units (PCU/day) are 12,633 and the number of trucks per day is 1,605 while the same numbers were respectively
+
+   8,154 and 625 in 2016. The increase is due to: (i) increased truck traffic to KLP, (ii) increase truck traffic to Rwamagana Industrial Park, and (iii) high
+   pace of residential developments in the town of Kabuga (Gasabo District) and the areas of Muyumbu and Nyagasambu (Rwamagana District).
+26 UNCTAD, who is Benefiting from Trade Liberalization in Rwanda? A Gender Perspective, 2014.
+27 AFI., Op. cit.
+28 Op. cit.
+29 Urban Pathways, Improving Training Outcomes and Employability of Women in the Public Transport Industry: Kigali case study , 2023.
+
+                                                                                                                                                            4
+           C.    Relevance to Higher Level Objectives
+
+19.      The project is linked to the World Bank Group (WBG) vision “To create a world free of poverty on a livab le
+planet.” The 2019 Systematic Country Diagnostic (SCD) highlighted the importance of an improved transport
+infrastructure and mobility services for Rwanda’s progress toward poverty reduction and shared prosperity in a
+sustainable manner. The project is aligned with the Country Partnership Framework (CPF) for Rwanda (2021-2026) (Report
+No. 148876-RW), discussed by the Board of Directors on July 9, 2020, specifically Objective 3. It concerns WBG support
+for GoR’s efforts to develop multimodal transport, expand access to infrastructure and the support the digital economy
+by improving connectivity domestically and regionally. This will reduce the cost of doing business and facilitate trade and
+thereby help address key constraints that hinder private sector development. The project will also contribute to the WBG
+Gender Strategy 2024 – 2030, to “accelerate gender equality for a sustainable, resilient, and inclusive future” as it will
+ensure open access of gender to sustainable infrastructures. The project will complement current and planned World
+Bank-financed and donor-financed interventions in the country, particularly, the LVTP, the Feeder Roads Development
+Project (FRDP, P126498), and the proposed Rwanda Emergency Connectivity Restoration Project (RECOR, P504023). 30
+20.      The project is highly relevant to the strategic objective of Rwanda’s own policies and frameworks to reduce
+transport constraints and promote growth and economic development. With access to domestic and international
+markets representing a key policy priority for the GoR, the economic transformation pillar of the 2017-2024 National
+Strategy for Transformation-1 includes a strategic plan for the transport sector, underscoring the pivotal role of
+infrastructure development. The Transport Sector Strategic Plan seeks an expanded and modernized transport
+infrastructure with four priority objectives: (i) improved riding quality and level of service across the road network, (ii)
+improved public transport services to reduce urban traffic congestion, (iii) promotion of an integrated multimodal
+transport system, and (iv) support for an efficient and sustainable air transport system.
+21.      The project is consistent with the Rwanda’s Nationally Determined Contribution (NDC),31 its Revised Green
+Growth and Climate Resilience Strategy (GGCRS),32 and its Country Climate and Development Report (CCDR).33 Rwanda’s
+NDC identified adaptation interventions by sector, including the deployment of improved transport infrastructure and
+services, with the reduction of length of roads vulnerable to flood and landslides and the installation of solar lighting and
+light-emitting diode (LED) systems for street lighting and public spaces along main roads; the development of climate
+resilient post-harvest and value addition facilities; and the promotion of afforestation /reforestation activities. The revised
+GGCRS sets out the country’s vision for 2050 and defines a program of action for low carbon, climate resilient energy and
+transport networks, which includes the deployment of resource-efficient infrastructure to drive green trade growth,
+powered by low-carbon and climate-resilient energy and transport systems. Rwanda’s CCDR identified as key priority areas
+investing in affordable post-harvest and storage solutions, reforestation and terracing on slopes to prevent soil erosion.
+The project will contribute to adaptation and mitigation objectives through integrating climate information in transport
+and market infrastructure planning, adopting climate informed design and constructions standards for the rehabilitation
+and upgrading of markets, roads, bridges, and ancillary infrastructure, and providing regular maintenance of
+infrastructures. The project also promotes planting trees to combat land degradation, erosion, and landslides.
+
+
+
+
+30 LVTP is paving the road section of Kibugabuga-Shinga-Gasoro (66.55 km.) (part of the central corridor) that is connecting to the KLP roads in
+   Bugesera district. FRDP is contributing by rehabilitating feeder roads that are connected to main roads and serving as channels for access to
+   markets and transfer agriculture products. RECOR is being developed in response to floodings which occurred on May 3, 4, 2023 by rehabilitating
+   and repairing damaged roads and bridges while making sure they are resilient.
+31 Republic of Rwanda, Updated Nationally Determined Contribution, May 2022.
+32 Republic of Rwanda, Revised Green Growth and Climate Resilience: National Strategy for Climate Change and Low Carbon Developme nt, 2022.
+33 World Bank Group, Country Climate Development Report: Rwanda , September 2022.
+
+                                                                                                                                                5
+ II. PROJECT DESCRIPTION
+              A. Project Development Objective
+
+22.     The Project Development Objective (PDO) is to improve resilient and safe connectivity from the Kigali Logistics
+Platform (KLP) at Masaka to the regional logistics corridors and support local and regional economic activity around the
+corridors.
+23.     The project will provide key physical links in the national transport system and support a new KLP-Bugesera
+regional logistics corridor to enable increased trade by all levels of market participants. Specifically, the project will
+expand the region’s logistics lines by linking the KLP located at Masaka/Kigali with the Ngoma-Nyanza Road (itself
+connected at Ngoma to the regional Central Corridor) using high standard paved roads and contributing 16 percent (70
+km) to the GoR’s sector objective of upgrading 440 km of unpaved national roads to paved status.
+
+                                            Map 1 – Spatial Depiction of KLP Connect Project34
+
+
+
+
+24.       Upgrading KLP/Bugesera Connector Roads will be a key step in connecting the landlocked countries of the EAC
+with seaports and airports distribution of goods to and from external markets. It complements the ongoing LVTP and
+FRDP and promotes climate-friendly activities. The project will contribute to (i) safer and cost-effective transit of goods
+from the Port of Dar es Salaam to Rwanda, Burundi, and Eastern DRC,35 (ii) significantly reduced truck congestion in Kigali,
+(iii) better connected existing and new commercial zones and parks with logistics platforms,36 and (iv) deepened multi-
+
+
+34 Map cleared by Map Unit on March 5, 2024. Map number 47616.
+35 The road sections are currently in a very deteriorated state and remain an obstacle to achieving a smooth and safe movement of goods and people
+   along the logistics corridor.
+36 The planned Bugesera industrial park, on National Road (NR) 5 between Ramiro and Kibugabuga will support Bugesera’s agricultu ral and tourism
+
+   potential.
+                                                                                                                                                6
+modal logistics integration by improving road connectivity between the KLP and the future Bugesera Airport and linking
+with the future railway.
+25.     In addition, the implementation of KLPConnect will enable truck traffic to utilize the Ngoma-Nyanza corridor
+and connect to KLP without passing through either Kayonza (part of NR4) or Kicukiro (part of NR5). This will: (i) mitigate
+transport delays for trucks, (ii) alleviate congestion for city-bound traffic, and (iii) reduce the risk of traffic accidents. Once
+completed, the project roads will accommodate traffic heading to KLP from the eastern, southern, and western parts of
+the country, including the generated traffic from NBIA to KLP, thereby significantly enhancing road connectivity to both
+KLP and NBIA. Consequently, this will critically alleviate congestion within the City of Kigali and improve road safety overall.
+26.      The project will also support inclusive participation of local production that will grow along the logistical
+corridor. In addition to strengthening the GoR’s capacity to manage and oversee the development of regionally based
+trade, logistics, and distribution systems the project will support SME and local community participation in economic
+activities around the project roads. Complementary investment in socio-economic infrastructure along these roads will
+help ensure that local communities including women, youth, and SMEs benefit from new employment and livelihood
+opportunities. This includes support for one or two of the planned industrial parks in the Bugesera, Kicukiro and
+Rwamagana districts, as well as funds to support markets and selling points in selected villages. During implementation,
+the project will identify specific interventions that address the needs of SMEs along the roads and enhance participation
+of women and young people to allow them to benefit from the project.
+27.      The following PDO level indicators are selected to measure progress towards achieving the PDO:
+              •    Travel time from KLP to Ngoma-Nyanza highway (number of hours). (Hours) (hours)
+              •    Percentage of people with enhanced access to reliable transport infrastructure and services all year
+                   round37 in the project area (disaggregated by gender)
+              •    Number of health centers, schools, and markets with improved access in the project area
+              •    Number of (newly)38 registered businesses established in the project area (disaggregated by gender).
+              •    Reinforced/upgraded critical structures (bridges, culverts, embankments) raised along the road sections
+                   to respond to increased vulnerability due to climate change effects (number).
+
+         B. Project Components
+28.     Component 1: Improving physical infrastructure (US$105.44 million, comprising US$91.49 million IDA and
+US$13.95 million GoR funding). The component will finance the design, upgrading, and performance-based maintenance
+of the KLP/Bugesera connector roads and the environmental and social risk management activities.
+29.      Subcomponent 1.1: Upgrading of the KLP/Bugesera connector roads (US$91.44 million, comprising US$77.49
+million IDA and US$13.95 million GoR funding). The upgrading of the KLP/Bugesera connector roads (69.45 km) will
+comprise: (a) design, preparation of bidding documents, upgrading to paved standard, and three-year output and
+performance-based maintenance of four road sections, namely, (i) Masaka-Kabukuba (16.88 km), (ii) Kabukuba-Nyamata
+(13.72 km), (iii) Gahembe-Kindama (19.21 km); and (iv) Kabukuba – Riziyeri (19.64 km). The client will take over the
+maintenance following IDA financing closure from IDA for maintenance based on a scale-up effort from the country
+providing matching counterpart financing;39 (US$87.57 million, comprising US$74.21 million IDA and US$13.36 million GoR
+funding), and (b) consultant services for supervision and monitoring of civil works (US$3.87 million, comprising US$3.28
+million IDA and US$0.59 million GoR funding). For any planned upgrading or provision of utilities (e.g., water, electricity,
+fiber optic cable), the project will provide appropriate space (land) within the right of way (RoW). The provisioned RoW
+will allow the supply of such utilities and expand the road in case of need without damaging the existing road or requesting
+
+
+37 Roads accessible year-round refers to the project roads designed and upgraded with mitigation and adaption measures to make them resilient to
+climate change. Such actions have been described in paragraph 56 to 61. Bridges, culverts, road crossing structures have been planned to respond
+to the effect of climate change with increase of water flow.
+38 Newly refers to all businesses created after the project starts and considered as an inductive effect of the project.
+39 The assumption is that the six years of the project implementation will be split in three years for implementing the upgrading the 69.45 km, and
+
+   three years for maintenance. At the closing of the project, the maintenance will be taken over by the client.
+                                                                                                                                                 7
+compensation.40 The upgrading of the roads includes approaches for green and resilient construction, including erosion
+prevention works, water drainage through adequate channels, reduction of water speed, and protection of road
+embankments. Safer speed and vulnerable road users’ safety will be ensured through safety conscious road design and
+results of road safety audit at various stages.
+30.      Subcomponent 1.2: Environmental and social risk management (US$14.00 million from IDA funds). This
+subcomponent will finance: (a) resettlement of the project-affected persons (PAPs) along the road sections and the
+planned roadside infrastructure (US$8.00 million); (b) community and stakeholders' engagement including establishing
+and operating the grievance redress committees, including electronic grievance redress mechanism (e-GRM) (US$0.5
+million); (c) roadside investments and capacity building for livelihood restoration of communities living along the roads
+(US$3.00 million); (d) comprehensive road safety measures (speed management and vulnerable road users safety,
+campaigns and trainings for school children and road users supported by enforcement, surveys, personal protection
+equipment) together with a road safety capacity review including preparation of transport safety policy and strategy,
+road safety audits, Key Performance Indicator (KPI) assessments, and a comprehensive road safety agenda to reduce
+fatalities and injuries, as initiated under the LVTP and FRDP road projects (US$2.00 million); and (e) environmental
+protection activities (US$0.5 million) including: (i) roadside planting and management of 7,000 trees adaptable to the area
+along the 69.45 km road within 10 meters distance of upgraded road sections, and (ii) buffer zone establishment and
+management for Lake Kidogo and marshlands (Rugende, Akagera).
+31.     Component 2: Trade facilitation and logistics improvement (US$26.51 million, financed by IDA). Activities under
+this component will be carried out by the Ministry of Trade and Industry (MINICOM).
+32.      Subcomponent 2.1: Basic infrastructure for women, youth, and SMEs along the corridor (US$17.31 million from
+IDA funds). The subcomponent will finance activities to help residents of the local communities of the three districts along
+the road - Bugesera, Kicukirro, and Rwamagana - and SMEs operating in the project area to economically benefit from the
+upgraded road sections. Such activities will comprise: (a) a community-driven demand analysis and prioritization,
+selection, design, construction/upgrading, and related supervision of works for upgrading/construction of the socio-
+economic infrastructure, including an analysis of gender differences in mobility to identify the location of markets that
+can address women’s priorities in terms of safety and time use (US$1.50 million), (b) design, construction, and supervision
+of development of basic infrastructure and facilities of at least one SME/industrial park that will be selected (US$9.81
+million) among those in the vicinity of the project area based on potential impacts,41 (c) design, upgrading/constructing of
+two roadside markets, selected based on technical studies and local consultations (US$4.00 million), (d) design,
+upgrading/constructing of four selling points in the selected villages/sectors along the roads (Musenyi, Mareba, Nyamata,
+Rilima, etc.) to be confirmed based on technical studies and local consultations (US$1.00 million), and (e) design and
+setting up an SME-oriented warehouse and e-commerce hub (with precise design to be discussed with logistics providers
+and potential beneficiaries) (US$1.00 million).42
+33.     The project would provide Private Capital Enabling (PCE) with the infrastructure to be built under
+subcomponent 2.1. Once the SME/industrial park, roadside market selling points, and the warehouse and e-commerce
+hub are built or upgraded, it is expected that businesses will make initial investments estimated by MINICOM to be around
+US$40 million to take advantage of this new infrastructure.43
+
+
+40 Street lighting will be part of the road works in case of needs. In addition, once the construction under the project is completed, the roads will be
+   integrated into an ongoing comprehensive utility development project in the area to complement the existing utility infrastructures to enhance
+   the overall economic conditions alongside and around the road corridor.
+41 Interventions related to the development or expansion of industrial parks will consider the International Framework for Eco-Industrial Parks
+
+   developed by the World Bank and other partners. The framework encourages parks to be designed such that industrial activities are integrated
+   with environmental sustainability to minimize resource consumption, reduce pollution, and promote circular economy principals. Two examples
+   of projects that included eco-industrial park policies are the Bangladesh Private Investment and Digital Entrepreneurship Project (P170688) and
+   the Jiangxi Eco-industrial Parks Project (P158079).
+42 The center is envisioned to offer IT services, digital marketing services, warehousing, fulfillment and transportation services, and training (including
+
+   efforts to integrate the Customs Declaration System of Iposita and RRA Single Window System).
+43 The project will undertake business baseline and updated surveys to obtain and monitor, at regular intervals, gender disaggregated and location
+
+   specific information on investment, trade, and provision of services.
+                                                                                                                                                         8
+34.      Subcomponent 2.2: Improved quality and standards of goods and services (US$5.2 million from IDA funds). The
+activities comprise: (a) upgrading national testing, calibration, and verification laboratories to ensure safety of goods in
+warehouses/transit, accurate measurement in road construction and maintenance by providing accreditation services,
+mapping and validation, calibration of warehouses, cold rooms, deep freezers, and truck coolers, warehouses weighing
+scales and weighbridges, and axle load control weighbridges, calibration of force, coordinates, temperature and
+dimensional equipment of construction site quality control laboratories (US$4.2 million); (b) assisting SMEs, especially
+those located along the corridor, to meet international quality standards for their products and services (US$0.80 million);
+and (c) strengthening Rwanda Standards Board’s (RSB) outreach services and provision of mobile laboratories and testing
+kits at border posts, airports, and logistics platforms (US$0.20 million)
+35.      Subcomponent 2.3: Institutional support and strengthening MINICOM, RSB, and the Rwanda Development
+Board (RDB) capacity building (US$4 million from IDA funds). Rwanda’s aspirations to be a regional trade center and EAC
+logistics hub require MINICOM to upgrade its capacity to lead strategy development, provide system oversight, and carry
+out project management, particularly in the areas of private sector partnerships and public agency coordination. The
+subcomponent will support MINICOM, RSB, RDB, producers and traders with an emphasis on women through: (a) updating
+the 2012-2022 Logistics and Distribution Services Strategy to help Rwanda realize its vision and updating phase II Kigali
+Logistics Platform feasibility study, including ways the KLP expansion can help expanded regional trade through multi-
+modal connectivity, and accommodation for the nation’s growing logistics providers (US$1.50 million); (b) capacity
+building of MINICOM44 and RDB staff to (i) develop, solicit, negotiate, and manage public-private partnerships for the
+sector, (ii) carry out risk-based system oversight and calibration to maintain performance standards, (iii) provide real time
+regulatory, logistical, and process-oriented information and capacity building for traders and SMEs with emphasis on
+building capacity of women to participate in the trade and small business sectors (such as training in business advisory
+services, personal initiative and access to finance), and (iv) undertake project management45, procurement, financial
+management and environmental and social risks management (US$2.00 million); and (c) carry out an assessment of
+barriers for women entrepreneurship (US$0.50 million). MINICOM’s Single Project Implementation Unit (SPIU) operational
+costs and salaries will also be supported. MINICOM SPIU’s staffing is composed of the SPIU Coordinator, Financial
+Management Specialist, Procurement Specialist, E-Commerce Specialist, Trade Specialist, Civil Engineer, Environment
+Specialist, Social Specialist, and Gender Specialist. SPIU Coordinator, Financial Management Specialist, M&E Specialist,
+Procurement Specialist, E-Commerce Specialist, Trade Specialist, Civil Engineer, environment specialist, social specialist,
+gender specialist, and (US$1.00 million).
+36.     Component 3: Implementation support, monitoring, and capacity building (US$7 million, financed by IDA). The
+component will finance the following activities to support implementation of the project and enhance the capacity of line
+ministries and engineering interns employed in the RTDA.
+37.      Subcomponent 3.1: Project management and operating costs (US$3 million from IDA funds). This subcomponent
+will finance project management through supporting project implementation units in undertaking, among others,
+procurement, financial management, environmental and social risks management, and establishment and operation of
+grievance mechanism.
+38.      Subcomponent 3.2: Monitoring and evaluation (US$0.5 million from IDA funds). This subcomponent will finance
+the monitoring and evaluation, including undertaking any assessments, survey, and other studies required under the
+project. The subcomponent will undertake an assessment early in the project life to identity, clarify, and quantify specific
+activities subject to private capital investment. It will also undertake as early as possible an SME baseline survey, to avail
+baseline data for the project implementation and results measurement. The baseline survey will provide SME investment
+information, SME access to finance status, and the potential provision of new services (including logistics providers). The
+studies will provide priority actions to attract private sector in the project zone.
+
+
+
+44   Capacity building for MINICOM concerns the SPIU, RSB, and the participating directorates of the ministry to the project.
+45project management costs include cost to support MINICOM SPIU (and other Ministry staff involved in the project) to implement the KLPConnect
+(Operational costs and salary for 10 SPIU staff working on the project).:
+
+                                                                                                                                            9
+39.      Subcomponent 3.3: Institutional support and capacity building for Road Transport Development Agency (RTDA),
+MININFRA, and Ministry of Finance and Economic Planning (MINECOFIN) (US$3.50 million from IDA funds). This subcomponent
+will finance: (a) capacity building of staff from the SPIU RTDA and recently graduated intern engineers (of which half being
+women), staff of MININFRA and MINECOFIN involved in project implementation, (b) studies for development of future
+operations, (c) carrying out feasibility study for a center for excellence in material testing under RTDA, and (d) the transport
+sector coordination activities at MININFRA.
+40.     Component 4: Contingent Emergency Response (CERC) (US$0 million). This zero-dollar component can be
+activated to provide support for an immediate response to an eligible crisis or emergency as needed. A CERC Manual and
+an Emergency Action Plan will have to be prepared separately and approved by the World Bank, which will constitute a
+disbursement condition for the CERC. If this component is activated, the project will be restructured to reallocate funds,
+and to revise the PDO, indicators, and implementation arrangements as needed.
+                              Table 1: Summary of Project Estimated Costs and Financing (US$ million)
+
+
+ Project Component                                                                      Total        IDA        Counterpart
+
+
+ Component 1: Improving Physical Infrastructure                                        105.44       91.49          13.95
+   1.1: Upgrading of the KLP/Bugesera Connector Roads                                  91.44        77.49          13.95
+
+   1.2: Environmental, Social Risk Management                                          14.00        14.00           0.00
+
+ Component 2: Trade Facilitation and Logistics Improvement                             26.51        26.51           0.00
+   2.1: Basic Infrastructure for Women, Youth and SMEs along the Corridor              17.31        17.31           0.00
+
+   2.2: Improved Quality and Standards of Goods and Services                            5.20         5.20           0.00
+
+   2.3: Institutional Support and Strengthening MINICOM, RSB, and RDB capacity          4.00         4.00           0.00
+   building
+ Component 3: Implementation Support, Monitoring, and Capacity Building                 7.00         7.00           0.00
+   3.1: Project Management and Operating Costs                                          3.00         3.00           0.00
+
+   3.2: Monitoring and Evaluation                                                       0.50         0.50           0.00
+
+   3.3: Institutional support and capacity building for RTDA, MININFRA, and             3.50         3.50           0.00
+   MINECOFIN
+ Component 4 Contingent Emergency Response Component (CERC)                             0.00         0.00           0.00
+
+ Contingencies                                                                          1.00         1.00           0.00
+
+ Total                                                                                 139.95       126.00         13.95
+
+41.     Partnership and collaboration. There is proactive coordination with other development partners in Rwanda. The
+project will help build synergies with the existing road upgrading project from Ngoma to Nyanza which is co-financed by
+JICA and the World Bank. The Asian Infrastructure Investment Bank has also expressed interest in supporting the project
+which will be further discussed during project implementation.
+         C. Project Beneficiaries
+42.     The project covers three districts – Kicukiro in Kigali City and Rwamagana and Bugesera in the Eastern Province
+– which share similarities in terms of the trade and transport patterns as well as socio-economic profile. The
+beneficiaries mainly include farmers, owners of various agriculture schemes, local communities, and SMEs along the road
+corridors in the project area. The project is expected to create job opportunities during the construction period, some of
+which will continue during maintenance. Upgrading of the road sections under the project will trigger increased movement
+                                                                                                                              10
+of goods and passengers between the Kigali Logistics Platform and the Bugesera Industrial zone increasing production and
+benefiting logistics providers in Rwanda. The project is expected to reach 1.5 million beneficiaries (about 60% of districts
+population) including youth and nearly 50 percent women. Other project beneficiaries will include the public institutions
+and their staff not involved in trade facilitation, road construction such as MINECOFIN, MINICOM, MININFRA, RTDA, RSB,
+and RDB.
+43.     Improving access to markets and socio-economic services and facilitating freight and passenger movement
+across the project area and to neighboring countries are the primary benefits of the project. The project will help create
+short-term as well as long-term employment opportunities and attract new complementary developments and
+investments. Given that the project is also expected to contribute to the share of all-weather roads in the area and in
+view of the proximity to Burundi, the population from targeted districts will access new markets.
+                                                 Figure 1: Theory of Change
+
+
+
+
+          D. Results Chain
+44.     The Theory of Change shows the intervention logic and results chain that will lead to realization of the PDO
+(Figure 1). The anticipated outcomes of project activities are: (i) reduced travel time traveling from KLP to the Ngoma-
+Nyanaza highway, (ii) improved multi-modal connectivity, (iii) improved road safety, (iv) enhanced climate resilience of
+road infrastructure, (v) improved livelihood conditions of people in the project area, (vii) faster movement of goods and
+services being handled through the KLP, and (viii) increased number of registered businesses, disaggregated by gender.
+         E.   Rationale for Bank Involvement and Role of Partners
+
+
+
+
+                                                                                                                         11
+45.     The project complements ongoing World Bank-financed projects and other donor-funded interventions in the
+country. The project provides an alternative46 and direct connection between the Ngoma-Nyanza Corridor and KLP without
+passing through Kigali City and ensures continuity of the traffic between KLP and the three borders of Rusumo with
+Tanzania, Nemba with Burundi, and Rusizi and Goma with DRC. The road sections under the project will also provide a
+direct connection from the KLP facility to the New Bugesera International Airport under construction, facilitating the
+movement of people and goods for both import and export to and from the neighboring countries.
+46.     Rwanda has generally been successful at strategically deploying public investment to attract and enable
+partnerships with private sector capital and the trade and logistics sector . World-class private investment, attracted by
+the commercial returns of emerging logistics platforms has been deployed at KLP and Bugesera airport with the public
+sector facilitating the partnership through regulation, land availability, and basic infrastructure (roads, water, electricity).
+The connector road that requires upgrading under the project is deemed an integral part of the public sector’s contribution
+to the emerging logistics corridor given the level of traffic along with the climate adaptation, environmental protection,
+and social development objectives that also need to be served.
+              F. Lessons Learned and Reflected in the Project Design
+47.     IDA-financed resettlement costs. The lack of adequate counterpart funding to cover resettlement costs has
+caused delays in the implementation of two ongoing projects, the LVTP and the FRDP. The recipient has faced persistent
+challenges in mobilizing counterpart funding due to the GoR’s constrained fiscal resources considering the current
+financial demands and external factors affecting Rwanda (the COVID-19 pandemic, floodings and landslides, pan-African
+food insecurity). KLPConnect will allocate IDA funds to cover compensation payments to project-affected persons (PAPs)
+and other related costs for implementation of the Resettlement Action Plans (RAP) to avoid delays in making land available
+for roadworks.
+48.      Design, Build and Maintain (DBM) roads, following the Output- and Performance-Based Road Contracting
+(OPBRC) approach. The lessons learned from the two IDA-funded projects, LVTP and FRDP, demonstrate that the OPBRC
+approach offers significant time savings by avoiding the recruitment of design consultants and preparation of the detailed
+designs prior to the construction of civil works. These time savings are also attributed to early contractor involvement,
+allowing construction engineering considerations to be integrated into the design offered by the contractor. Beyond time
+efficiency, this approach is expected to result in fewer claims and disputes, as risks associated with output and
+performance-based lump-sum contracts are shifted to the contractor. Furthermore, an improved quality of work is
+anticipated, as the contractor who designed and constructed the road will be responsible for its multi-year maintenance.
+49.     The contractor's design will undergo review and approval by the employer through the monitoring and
+supervision consultant. A key lesson is that future projects should provide explicit and detailed technical specifications at
+the time of bidding so that all bidders bid on a level playing field with minimum chance of drastic changes in the final
+detailed designs presented by the selected contractor. The maintenance phase is the final stage of the OPBRC approach,
+offering an inherent incentive to the contractor to deliver a higher quality initial construction to minimize the future
+maintenance expenditure. This is achieved by establishing lifecycle responsibility and accountability for the facility's
+performance on the part of the contractor.
+ III. IMPLEMENTATION ARRANGEMENTS
+
+              A. Institutional and Implementation Arrangements
+
+50.      The project’s institutional arrangements consist of a Steering Committee (SC), two PIUs under their respective
+parent ministries, and execution agencies inside the line ministries. The organizational chart is provided in Annex 1. -The
+direct involved institutions are MININFRA, MINICOM, RTDA, and the Road Maintenance Fund. MININFRA (through RTDA)
+will have an overall responsibility for project coordination and implementation, and MINICOM and MININFRA will be
+responsible for implementation responsibility for the respective project components. MINECOFIN will offer guidance and
+
+
+46   Trucks currently use National Road 5 Kigali-Kibugabuga (60 km) but will gain time and lower cost by using the Kigali-Riziyeri-Ramiro (36 km).
+                                                                                                                                                     12
+leadership on the utilization of the project’s counterpart funds. Other entities involved are the Rwanda Standard Board,
+the Rwanda Environment Management Authority (REMA), RDB, and the beneficiaries’ districts.
+51.     The SC, chaired by MININFRA and MINICOM, will oversee project implementation. The SC comprises the
+Permanent Secretaries (PS) of MININFRA and MINICOM, MINECOFIN, the Director General (DG) of RTDA, and will convene
+bi-annually. The SC will make directional decisions on various project implementation aspects. Under the coordination of
+the MININFRA, the overall project coordination will be led by the SPIU within RTDA. RTDA SPIU will serve as the direct
+interlocutor with the World Bank for compiled reports on project progress during the implementation and will report
+quarterly on project progress.
+52.      The project will have two implementing agencies (IAs): the SPIUs of RTDA and MINICOM. Thus, two special
+accounts will be set up, one for each IA. Each SPIU will handle technical matters, procurement, financial management, and
+environment and social issues for their respective activities and components. The capacity of the SPIUs and the ministries’
+technical departments to implement project activities will be reinforced by additional staff to be recruited as needed.
+MINICOM SPIU will be established no later than 60 days after effectiveness. RTDA and MINICOM will each designate a
+team for project implementation, with designated staff and their expertise to be communicated in writing to the World
+Bank. Both teams will be maintained during project implementation phase to ensure consistency, continuity, and
+efficiency in project management. The institutional role of each stakeholder is described in Annex 1.
+         B. Results Monitoring and Evaluation Arrangements
+53.      Achievement of project objectives, as measured by the corresponding key performance indicators, will be
+monitored, and reported upon regularly. The monitoring and evaluation (M&E) system will capture information to assess
+project results against the targets set as part of the Results Framework. The baseline information has been drawn from
+the feasibility study undertaken during project preparation and will be followed up with beneficiary surveys and other
+assessments at the midterm review (MTR) and at closing to evaluate qualitative and quantitative aspects of project results.
+Progress of the key performance indicators will be measured through the implementation support missions and some
+specific surveys. Specific details for project management and reporting will be laid out in the Project Implementation
+Manual (PIM) that will serve as the overall guiding document for the SPIUs. The PIM will be prepared and adopted by the
+recipient by effectiveness. The recipient will carry out an MTR three years into implementation. The target indicators will
+be provided before the start of the activity impacting them.
+         C. Sustainability
+54.     KLPConnect is expected to address sustainability of the infrastructure investments and trade facilitation
+measures through enhanced ownership of the participating administration. The road upgrading will be implemented
+through a DBM arrangement to ensure that maintenance of the investment is guaranteed for the initial three years after
+completion of the upgrading works. After closing, the GoR will take over maintenance through the Road Maintenance
+Fund (RMF). The RMF will ensure sustainability of long-term maintenance, and enforcement of axle load control by RTDA
+along the corridor will help preserve the road asset. The GoR has managed to keep the national paved road assets at an
+acceptable riding standard since creation of RTDA in 2010 using the RMF as core financing source for maintenance. Annual
+assessment of the riding quality is conducted with the use of roughness meters and bump integrators, and reports are
+shared with the development partners via annual Transport Sector Working Group sessions.
+
+ IV. PROJECT APPRAISAL SUMMARY
+
+         A. Technical, Economic and Financial Analysis
+
+ Technical Analysis
+ 55.     The road sections connecting KLP to the Nyanza–Ngoma corridor are at present narrow gravel roads (6 meter
+ wide with no shoulders) in poor condition, with high vehicle operation costs for road users. Travel times are long,
+ especially during heavy rains, causing severe congestion on alternative routes through Kigali. The upgrading of these
+ road sections will involve widening the carriageway to 7 meters with 1.5-meter shoulders and pavement consisting of
+                                                                                                                        13
+ improved subgrade, 150-300 mm of gravel sub-base, 150-200 mm of granular base course, and 100 mm of asphalt
+ concrete surfacing. The chosen design was based on the 20-year projected traffic loading after construction and
+ optimizing lifecycle costs over an analysis period of 22 years including the 2-year construction period. Such upgrading
+ would provide all-year access to the Nyanza–Ngoma highway and the East African Central Corridor, reduce transport
+ costs and travel times, and decongest traffic in Kigali and alternate routes to the Central Corridor, DRC, and Burundi.
+ Economic Analysis
+ 56.     The project is expected to generate considerable economic benefits. The project leverages the ongoing
+ impact of the LVTP to unleash the economic potential of connecting KLP to the Central and Regional Transport
+ Corridors and the region’s logistics centers. The principal benefits will be felt by road users and by direct and indirect
+ participants in the country’s commercial sector by increasing the role of private sector and deepening regional
+ integration, which are key success factors to the achievement of the GoR’s Vision 2050 development objectives. The
+ benefits will include: (i) decreased travel times along the road corridors, (ii) reduced vehicle operating costs, and (iii)
+ reduced environmental and maintenance costs in the long run. Economic benefits are also expected from the
+ expanded use of the logistics platform.
+ 57.     The project is also expected to provide social and environmental benefits. Social benefits will come from the
+ improved socio-economic infrastructure in the project area ensuring that the gains from the project are equitably
+ distributed across income groups and gender dimensions. Expected environmental benefits include improving the road
+ sections with climate resilient infrastructure and reducing net CO2 emissions per vehicle with better vehicle conditions
+ and smoother traffic flows. Trading activities and commercial businesses are expected to prosper.
+ 58.     The initial economic analysis of the benefits of the project was conducted in a feasibility study undertaken
+ in 2021.47 The World Bank’s Highway Development and Management (HDM)-4 model was used to conduct the
+ economic analysis using a planning discount rate of 12 percent.48 HDM-4 simulates the life cycle conditions and costs
+ and provides economic decision criteria for multiple road design and maintenance alternatives. The quantified net
+ benefits computed for the economic analysis of the project roads comprise savings in vehicle operating costs, travel
+ time costs, road maintenance costs, economic costs of road crashes (accidents), and reduction in environmental effects
+ in terms of CO2 and other GHG emissions. Two alternative routes for connecting the KLP to the Central Corridor through
+ the Nyanza – Ngoma highway were evaluated, comprising the following: (a) Route 1: Masaka–Kabukuba–Riziyeri (36.52
+ km); and (b) Route 2: Masaka–Kabukuba–Nyamata–Gahembe–Kindama (49.81 km). The section from Masaka to
+ Kabukuba is common to both routes.
+ 59.      The feasibility study estimated that both routes have positive Net Present Value (NPV) and are economically
+ viable. Route 2’s higher ratio of NPV/Capital Cost supports a prioritization within the government plan to upgrade both
+ routes. Hence the project comprises upgrading of two distinct unpaved road sections, namely, Masaka–Kabukuba–
+ Riziyeri; and Kabukuba–Nyamata plus Gahembe–Kindama after excluding the two existing paved road sub-sections of
+ the National Highway NR5 that were part of the two routes evaluated in the feasibility study.
+ 60.      The main costs associated with the road sections under consideration are the investment costs and the
+ routine and periodic maintenance costs over the 22-year analysis period for each section “with” and “without”
+ project. The “without-project” alternative assumes that the road sections will continue as gravel roads in their present
+ state with minimum maintenance during the evaluation period comprising routine maintenance, spot gravelling,
+ annual grading of the surface, and re-gravelling the surface to 150 millimeters (mm) whenever the surface reduces to
+ less than 50 mm, but not more often than once in eight years. The “with-project” alternative is the upgrading of the
+ road sections to paved standards with an asphalt concrete surface of 100 mm. A standard conversion factor (SCF) of
+ 0.88 is used to convert financial costs of construction, vehicle operation, and maintenance to economic costs, taking
+ into account distortions in market prices due to taxes, subsidies, and scarcity of skilled labor and foreign exchange.
+
+
+
+47   Egis Consultants and Eco Design Ltd.: Feasibility for Upgrading of the KLP Connector Project, Volume 1, Main Report, Version 2, July 2021.
+48   The HDM-4 model was used to evaluate the specific investments under the project in upgrading only the selected road sections using the basic
+     data from the 2021 feasibility study updated with some modifications in traffic growth rates and maintenance policies.
+                                                                                                                                              14
+ 61.     The quantifiable benefits include the reduction in vehicle operating costs, savings in travel time costs for
+ passengers and freight, and the reduction in annual maintenance costs. The cost reduction is automatically computed
+ by the HDM-4 model to calculate the overall net benefits discounted at the specified discount rate. Reduction (or
+ increase as sometimes the case may be) in road crashes is also normally considered when accountable in monetary
+ terms, but because of the lack of precise data on crashes in Rwanda, this has not been included in the analysis.
+ Economic Evaluation and Sensitivity Analysis
+ 62.      Based on the above, the HDM-4 model was run for all the selected road sections simulating the traffic over
+ a period of 22 years from 2024 to 2045 where the construction period is taken as two years. The discount rate used
+ is 12 percent per year, and a sensitivity analysis of the results was carried out with 20 percent increase in capital costs;
+ 20 percent decrease in traffic growth rates; and the combined risk of a 20 percent increase in capital costs and
+ simultaneous decrease of 20 percent in traffic growth rates. The results are summarized in Table 2 below.
+                                            Table 2. Summary of Results of the Economic Evaluation
+                                                Parameter                      NPV @ 12%             EIRR (%)      B/C Ratio
+                            Base Case (upgrading to an AC road)                      20.90             17.7             1.5
+                            20 percent increase in construction costs                12.54             15.0             1.2
+                            20 precent increase in traffic growth rates              12.99             15.8             1.3
+                            20 percent increase in construction costs plus           4.64              13.2             1.1
+                            20 percent decrease in traffic growth rates
+
+ 63.       The results demonstrate that the project is economically viable. The NPV is greater than zero at 12 percent
+ discount rate (US$20.90 million), the Economic Internal Rate of Return (EIRR) is 17.7 percent, and the Benefit/Cost
+ ratio is 1.5. The project remains viable even when the construction costs increase by 20 percent, or the traffic growth
+ rates decrease by 20 percent. When both risks are combined, the NPV is still positive (US$4.64 million), the EIRR is 13.2
+ percent, and the Benefit/Cost ratio is 1.1. In addition, it should be noted that because of the lack of precise data, the
+ analysis did not consider the traffic that would likely be diverted to the improved road corridors from other congested
+ road sections into and out of Kigali. The benefits of diverted traffic would increase the NPV estimates, emphasizing a
+ robust finding that the project is economic viable.
+ Green House Gases (GHG)
+ 64.      The HDM-4 model also calculates the quantities of the GHGs emitted during the analysis period under the
+ with- and without-project options. The results summarized in Table 3 below, indicate that despite the addition of
+ generated traffic (40 percent of the current traffic) due to developmental impact of the improved roads in Bugesera
+ District, there is a net reduction in almost all the GHG emissions, except Hydrocarbon, Carbon Monoxide, and Lead
+ (Table 4). The overall net reduction of CO2 emissions over the design life of the project roads is estimated as 11,689.9
+ tons. When valued at the recommended shadow price of US$43.7 or US$87.4 per ton (low and high estimates,
+ respectively)49, increasing at the rate of 2.25 percent per year, and using the 12 percent discount rate, the overall net
+ benefit of the total reduction due to the project amounts to US$0.14 million (low estimate) and US$0.28 million (high
+ estimate).
+                                            Table 3. Economic Indicators with cost of GHG Emissions
+                                                 Hydro-       Carbon      Nitrous                             Carbon          Sulphur
+                                                                                        Particulates                                    Lead
+        Road Section                             carbon      monoxide      oxide                              dioxide         dioxide
+        Masaka - Kabukuba -Riziyeri
+             Without Project                     746.57       1,426.62    1,698.32           82.48        122,981.89          327.06    3.59
+             With Project                        785.51       1,717.93    1,520.86           71.55        113,722.68          286.39    4.11
+
+
+
+49   The World Bank, Guidance Note on Shadow Price of Carbon in Economic Analysis, November 12, 2017.
+                                                                                                                                               15
+   Kabukuba - Nyamata -Kindama
+        Without Project                 480.36    1,175.48   933.54      38.06       87,107.64     159.21      5.72
+        With Project                    554.05    1,490.83   897.14      34.62       84,727.95     146.53      6.04
+   Project Grand Total
+        Without Project                1,226.93   2,602.10   2,631.86    120.54     210,089.53     486.27      9.31
+        With Project                   1,339.56   3,208.76   2,418.00    106.17     198,450.63     432.92     10.15
+
+   Net Emissions with Project          (112.63)   (606.66)   213.86      14.37       11,638.90     53.35      (0.84)
+
+   Present Value (Low Shadow Price)                                                 US$ 139,256
+
+   Present Value (High Shadow Price)                                                US$ 278,512
+
+Other Benefits of the Project
+65.     Non-tangible benefits were not included in the HDM-4 analysis as their relationship to transport
+investments is not documented. Some of these benefits are presented below. The upgrading and improvement of the
+project roads along with the complementary investments in the socio-economic infrastructure will enhance the local
+economies of the project area, particularly Bugesera District. Additional benefits are expected to be derived, including:
+    •   Employment Opportunities: Earnings from construction works will contribute towards poverty reduction in the
+        affected areas through increased disposable incomes realized from employment of skilled and unskilled local
+        labor. The cadre of jobs likely to be created includes technicians, artisans/skilled labor; drivers; watchmen;
+        laborers; and office assistants.
+    •   Local Purchases: Spending by the road contractor(s) as well as road users on purchase of supplies (consumables
+        and road construction materials, e.g., gravel etc.) and land for site offices and accommodation is expected to
+        inject money into the local economies. Gravel is expected to be sourced locally for the road construction hence
+        injecting millions of francs into the local economy during the construction period.
+    •   Increased Land and Property Values: The improved road has the potential of enhancing values of land and
+        property in the areas adjoining the road. The benefits will include value addition to commercial and economic
+        activities, potential for institutional development and attraction for residential housing development.
+    •   Improved Access to Essential Services: The community will be able to access essential services including,
+        amongst others, health, security, education, markets, government services, and other social amenities
+        whereby the project roads will provide essential links to these services.
+    •   Improved Security and Living Standards: Completion of the roads projects will ease the security patrols, hence
+        lowering crime rates in the area. The improved access as already highlighted will open the areas for
+        investments and in the process, improve the living standards of people within the project area.
+    •   Higher Farmgate Prices for Agricultural Produce. Bugesera District is rich in agriculture. Since the transport
+        industry in Rwanda is reasonably competitive, the reduction in transport costs is likely to lead to the passing
+        on of some of the savings to the local farmers through higher farmgate prices.
+66.      The project is aligned with the goals of the Paris Agreement on both adaptation and mitigation. The project
+is consistent with the country’s NDC, revised GGCRS, and CCDR, as documented in the section on Relevance to Higher
+Level Objectives. Rwanda does not have a published National Adaptation Plan nor a Long-term Strategy (LTS). The full
+description of climate risks is provided in the section on Country Context.
+67.      Assessment and reduction of adaptation risks. The project adequately reduces the physical climate risks to
+the project outcomes. The project’s climate resilience and adaptation design considerations limit the vul nerability of
+the infrastructure to a low level of residual risk. The project invests in the design, upgrading, and performance-based
+maintenance of four road sections in the KLP/Bugesera connector road to climate resilient standards. Examples of
+climate resilience measures include the deployment of appropriate drainage infrastructure and erosion and landslide
+                                                                                                                       16
+ prevention measures like the protection of road embankments, specialized pavement surface materials, and tree
+ planting along the road corridor. The project also invests in trade facilitation and logistics improvements such as the
+ deployment of basic infrastructure and facilities for at least one SME/industrial park, the upgrading/construction of
+ markets and selling points in selected villages or along roads, and the construction of an SME-oriented warehouse and
+ e-commerce hub. These trade facilitation and logistics facilities will be built to climate resilient standards. Component
+ 2 also invests in the update of the Logistics and Distribution Services Strategy for Rwanda considering climate resilience
+ aspects like transboundary climate risks (e.g: shared river basins and wildfires) and compounding cascading impacts
+ on trade and transport linkages. The project is therefore assessed to be low risk and aligned from an adaptation
+ perspective.
+ 68.     Assessment and reduction of mitigation risks. The operation is not at a material risk of having a negative
+ impact on the country’s low-GHG-emissions development pathways. The activities financed by the project are either
+ universally aligned (UA) or present low mitigation risk. The project invests in the design, upgrading, and performance-
+ based maintenance of four road sections in the KLP/Bugesera connector road without capacity expansion and there is
+ no risk of contributing to deforestation. Rwanda has very low motorization rates with 14 vehicles per 1,000
+ inhabitants.50 The project also invests in basic infrastructure and facilities like markets and roadside selling points, an
+ SME/industrial park and SME-oriented warehouse which will be grid connected and include energy efficient equipment
+ and solar powered or LED lighting. Component 2 also invests in the update of the Logistics and Distribution Services
+ Strategy for Rwanda, including the potential for the uptake of electric mobility domestically and implications for
+ regional integration, and multimodal transportation. The project is therefore assessed to be aligned from a mitigation
+ perspective.
+ Road Safety Screening and Measures
+ 69.      RTDA conducts road safety audits and is engaged in the development of a road safety manual and carrying
+ out capacity building on road safety and inspection audits. The project will continue to support RTDA and the
+ MININFRA to implement road safety interventions including: (a) traffic safety sensitization campaigns for schools,
+ health centers, and markets along the project roads, and (b) community engagement sessions for road safety at district
+ level for a sustained awareness communication in the community, including providing them with small equipment and
+ capacity building. The project will also support MININFRA in setting up a road safety strategy. Those activities will draw
+ lessons from the ongoing projects (LVTP and FRDP), mainly the road safety audit recently conducted for LVTP, to build
+ a comprehensive road safety agenda to reduce fatalities and injuries.
+            B. Fiduciary
+ Financial Management
+ 70.      A financial management (FM) assessment was carried out for the project in accordance with the World Bank
+ Policy and Directives for Investment Project Financing (IPF). The assessment was carried out on the two key
+ implementing entities, RTDA and MINICOM to determine whether the implementing entities have acceptable FM
+ arrangements, which will ensure that: (a) funds are used for the intended purposes in an effective, efficient, and
+ economical way; (b) financial reports will be prepared in a reliable, accurate, and timely manner; and (c) project assets
+ will be appropriately safeguarded.
+ 71.     The project benefits from the country’s public financial management reforms, the project’s oversight and
+ accountability arrangements and experience obtained from implementing World Bank-funded projects. The public
+ financial management system is anchored in solid legal frameworks and public financial management strategies.
+ Progress has been made in budget planning, expenditure efficiency, enhancement of the internal audit function,
+ external audit coverage, and financial reporting. The Public Expenditure and Financial Accountability 2022 confirmed
+ these strengths. The project has acceptable project oversight and accountability structure which involves a national
+ SC, management oversight, internal oversight bodies (internal audit and audit committee), external oversight bodies
+
+
+50Ayetor G.K, Mbonigaba I., Ampofo J., Sunni, Investigating the state of road vehicle emissions in Africa: A case study of Ghana and Rwanda . The
+Transportation Research Interdisciplinary Perspectives; Elsevier. September 2021.
+                                                                                                                                                    17
+(Office of the Auditor General), and Parliament that approves the government’s budget.
+72.      Based on the assessment conducted, the FM risk of the project is rated moderate. RTDA and MINICOM have
+adequate experience in managing World Bank-financed operations and have mostly complied with key FM
+deliverables. The following key risks are identified: (i) inadequate preparation of Annual and Work Plan and Budget
+(AWPB) which could lead to irregularities in spending and accountability of resources; (ii) overstretching of existing
+finance personnel at the RTDA SPIU which results from managing various projects; and (iii) delay in submission of
+quality financial reports and taking timely action on audit report findings. These risks will be mitigated through placing
+and maintaining adequate staff at the two SPIUs throughout the project life, provision of capacity building and training
+on World Bank-financed operations and using internal audit functions to assist in the timely action on audit report
+findings. A PIM will clarify roles and responsibilities as well as the timelines for preparation of AWPB, reporting and
+auditing requirements. An action plan was prepared to help mitigate the identified risks and will be monitored
+throughout implementation.
+73.     The FM arrangement of the project will be the following: AWPB will be prepared for each of the
+components/categories detailing IDA and GoR resources which will be submitted to the World Bank for approval. The
+SPIUs at the implementing entities will be adequately staffed and will receive training on managing World Bank-
+financed projects. Each entity will have its own designated account and will implement its part of the project; submit
+quarterly financial reports and annual audit reports to the World Bank. The internal audit units of each entity will audit
+the project and make their reports available to the World Bank as required. Each entity will have the responsibility to
+take timely action on the audit report findings and notify the same to the World Bank. Detailed FM arrangements will
+be captured as part of the PIM.
+Procurement
+74.     The project procurement will be carried out in accordance with the World Bank Procurement Regulations
+for IPF Borrowers, dated September 2023, hereinafter referred to as ‘Procurement Regulations’. The project will be
+subject to the World Bank’s Guidelines on Preventing and Combating Fraud and Corruption in Projects Financed by
+IBRD Loans and IDA Credits and Grants (Anticorruption Guidelines), dated October 15, 2006, and revised in January
+2011 and as of July 1, 2016, and beneficiary disclosure requirements. The project will use Systematic Tracking of
+Exchanges in Procurement (STEP), a planning and tracking system that will provide data on procurement activities,
+establish benchmarks, monitor delays, and measure procurement performance.
+75.    As per the requirement of the Procurement Regulations, a Project Procurement Strategy for Development
+(PPSD) will set out the selection methods to be followed by the GoR during project implementation in the
+procurement of goods, works, non-consulting and consulting services financed by the World Bank. The underlying
+Procurement Plan will be updated at least annually or as required to reflect the actual project implementation needs
+and improvements in institutional capacity.
+76.     Rated criteria will be used for all international competitive procurements, with exception of procurement
+of pharmaceuticals, vaccines, off-the-shelf goods and educational materials, commodities and other exceptions
+cleared by the World Bank’s Chief Procurement Officer on a fit-for-purpose basis, where use of rated criteria is not
+mandatory. The rated criteria are also a tool for taking sustainable procurement (environmental, social, economic and
+climate change) into consideration in the procurement processes.
+77.     Based on risks and gaps identified, the procurement risk rating of the project is moderate. The concept-stage
+Procurement Risk Assessment and Management System (PRAMS) with the Moderate procurement performance was
+validated, with the key risk identified as: (a) corruption, collusion, and conflicts of interest, (b) contract price increase
+due to inflation, currency instability, and interest rates, (c) unexpected extreme weather, intense rainfall, and
+landslides, (d) access and registration issues by bidders to e-procurement system, and (e) limited skills for contract
+management under OPBRC.
+78.     Agreed mitigation measure are: (i) improvement of the complaint management system, strengthening
+internal and external audits, and disclosure of information and procurement data to the public; (ii) making sure
+provision for price adjustment is included in contract documents; (iii) appropriate design and work plan by DBM
+                                                                                                                            18
+ contractors and adequate design review and monitoring consultancy is put in place; (iv) RTDA initiating a discussion
+ with Rwanda Public Procurement Authority (RPPA) e-GP unit to solve the access to e-GP issue; and (v) conducting
+ intensive training on management of the OPBRC.
+ 79.     RTDA’s SPIU includes three procurement staff and MINICOM’s SPIU has three procurement staff positions,
+ with one currently vacant. Currently RTDA SPIU has three experienced procurement staffs. The existing procurement
+ staff has the required competence to manage procurement under the project. However, the workload will require
+ technical assistance on procurement that will be recruited under the project. MINICOM SPIU currently has no
+ procurement staff, but MINICOM has two procurement staff who can provide support to MINICOM-SPIU, while a
+ recruitment of a dedicated procurement specialist staff is processed.
+        C. Legal Operational Policies
+ @#&OPS~Doctype~OPS^dynamics@padlegalpolicy#doctemplate
+ Legal Operational Policies                                                             Triggered?
+ Projects on International Waterways OP 7.50                                            No
+ Projects in Disputed Area OP 7.60                                                      No
+
+
+         D. Environment and Social
+Environment
+80.     The environmental risk rating of the project is high. Project activities include upgrading 69.45 km of existing
+gravel road to an asphalt road and construction of small-scale basic infrastructure investments along the road, such as
+markets, selling points, harvest storages, MSMEs/industrial parks, warehouses, etc. These activities generating adverse
+impacts on the nearby biophysical environment, as well as the existing limited capacity of the implementing agencies
+(RTDA and MINICOM) in the environmental and social standards and health and safety risk management.
+81.      The 69.45 km road alignment, with a RoWs that ranges between 10.4 meters in rural areas and 18.4 meters in
+urban areas, runs parallel to biophysical and socio-economic environmental features. Some features include sensitive
+receptors like schools, settlements, and business areas as well as certain critical habitats, including Lake Kidogo, and the
+Akagera and Rugende marshlands. Sections of these two marshlands are currently dominated by anthropogenic activities
+and changed to farmlands, mainly producing sugarcane, beans, and rice. Significant vegetation along the project road is
+lacking as it has been progressively replaced with small vegetation and eucalyptus due to human occupation. These
+terrestrial and aquatic habitats are likely to be affected by the project activities financed under components 1 and 2.
+82.       The project area is located outside existing protected areas. Considering the project baseline information and
+the type and scale of the KLPConnect project core and ancillary facility activities, the main environmental risks identified
+at this stage are related to construction works associated with the upgrading of KLP/Bugesera Connector Road
+(subcomponent 1.1) as well as roadside small-scale basic infrastructure financed under subcomponents 1.2, 2., and 2.2.
+These impacts include clearance of vegetation, occupational health and safety risks and road traffic accidents,
+encroachment of sensitive habitats, soil erosion and sedimentation of surface water bodies, soil and water pollution due
+to spills and leaks of oils, fuels, chemicals, temporary air quality nuisance due to air emission of CO2 and (Azotic Monoxide)
+NOx from combustion of diesel from vehicles, hot and batch mix plant, diesel generator sets, noise pollution from vehicles,
+machinery, concrete mixing; and solid and liquid wastes.
+83.      Due to the nature of the project and the anticipated environmental and social risks and impacts, eight of the
+ten Environmental and Social Standards (ESSs) apply to the project, i.e., all but ESS 7 and ESS 9. To manage those risks
+and impacts, the recipient has prepared an Environment and Social Impact Assessment, Environmental and Social
+Management Framework (ESMF), Resettlement Framework (RF), Resettlement Plan (RP), Stakeholders Engagement Plan
+(SEP), Labor Management Plan (LMP), and a Gender-Based Violence Prevention and Response Action Plan (GBVPRAP), in
+line with the ESSs. These instruments have been captured in the Environmental and Social Commitment Plan (ESCP), which
+describes the supplemental instruments to be updated, adopted, and actions to be performed during project
+                                                                                                                           19
+implementation. The final versions of ESCP, SEP, ESIA, LMP, and ESMF have been disclosed both on the RTDA as well as
+the World Bank’s external websites. The RP, RF, and the GBVPRAP advanced versions have been disclosed in country RTDA
+website) and they are currently under World Bank review. Below is the table indicated the date of disclosure.
+                                               Table 4: Dates of ESF documents disclosure
+                    Instruments               Disclosure In-country      Disclosure on World Bank website
+                                                     th
+                        ESMF                      16 Oct 2023                        02/23/2024
+                         ESIA                     16th Oct 2023                      02/23/2024
+                          SEP                        th                              02/13/2024
+                                                  16 Oct 2023
+                                                     th
+                         ESCP                     16 Oct 2024                        02/13/2024
+                                                     th
+                         LMP                      16 Oct 2023            To be disclosed by March 15, 2024
+                            51                       th
+                         RP                       16 Oct 2023                    Under finalization
+                          RF                      16th Oct 2023                  Under finalization
+                      GBVPRAP                      01/22/2024                    Under finalization
+84.     To avoid and/or minimize the anticipated environmental impacts, the mitigation and management measures
+are stipulated in the project’s Environment and Social Framework (ESF) instruments. In addition, specific interventions
+such as roadside tree planting, the development of bridge construction, and a buffer zone establishment are in place. The
+roadside tree planting will focus on locally adaptable and high carbon sequestration capacity species as a provision of
+green roads and compensation of affected trees. Likewise, the establishment and management of buffer zones will be in
+selected lakes, mainly along lake Kidogo. A method of statement for the construction of bridges on sensitive rivers and
+marshlands, such as the Akagera river, will be developed and implemented. Management strategy and implementation
+plans related to water resource management and protection of any existing aquatic ecosystems along the project corridor
+from any point and nonpoint sources of pollution will be prepared and implemented before the commencement of civil
+works during the project implementation period.
+Social
+85.     The social risk rating of the project is high. Overall, the project is expected to promote positive social benefits for
+the wider population and transformation of transport through road construction and rehabilitation. The identified key
+potential social risks and impacts include loss of land holdings, assets, and livelihoods on the land, including informal
+businesses, resulting in physical and economic displacement; conflicts resulting from resettlement, relocation of assets,
+risks of vulnerable/disadvantaged population or social categories who by virtue of gender, or groups who may be
+potentially excluded from their associated benefits; road construction activities related to health and safety risks to
+communities and workers; risks associated with labor management and local demand for employment; and labor influx
+related risks, including spread of communicable diseases and potential Gender Based Violence, Sexual Exploitation and
+Abuse (SEA), and Sexual Harassment (SH) from interactions of local communities/population with contractor’s laborers.
+86.     Labor and Working Conditions (ESS2). Given the scale of road construction works and the large number of
+workers within urbanized settings, occupational health and safety risks are likely. Labor-related risks, such as non-
+compliance to labor requirements by contractors and other employees, including adherence to working hours, pay and
+legally mandated benefits, equal and fair recruitment, and employment, are also probable. An LMP has been prepared
+which outlines the framework that the project will apply to manage labor-related risks associated with the project during
+implementation. The LMP has also been disclosed in-country (RTDA website) on February 26, 2024.
+87.      Community Health and Safety (ESS4). The project will improve health and safety by the construction and
+rehabilitation of the road. Construction works/activities may pose safety concerns for the local communities; however,
+these construction impacts would be readily mitigated.
+88.    Land Acquisition, Restrictions on Land Use, and Involuntary Resettlement (ESS5). A RP for the component 1,
+prepared by the GoR, assessed the number of households living within the RoW as 2,857, out of which 509 will be fully
+
+51The   RP, RF, and GBVPRAP have been disclosed in country at advanced version. They are under review by RSA.
+
+                                                                                                                            20
+relocated. The RP and options for their rehabilitation were discussed with the affected communities through consultations
+in the three districts, key informant interviews with the local authorities, and focused group discussions held alongside
+the road corridor. The final draft RP was cleared by the World Bank and disclosed in country on February 9, 2024. The
+financing needed to support resettlement is estimated to be US$8 million and will be funded by IDA through
+subcomponent 1.2 of the project.
+89.     Stakeholder Engagement and Information Disclosure (ESS10). This plan will address specific risks identified by
+stakeholders, including the risks to vulnerable persons, and will be updated as and when necessary. The objective is to
+establish a systematic approach for stakeholder engagement, maintain a constructive relationship with them, consider
+stakeholders’ views, promote, and provide means for effective and inclusive engagement with project -affected parties
+throughout the project life cycle, and ensure that appropriate project information is disclosed to stakeholders in a timely,
+understandable, accessible, and appropriate manner. The project will set up a project-specific grievance redress and
+feedback mechanism for people to report concerns or complaints if they feel unfairly treated or affected by sub-projects.
+Gender
+90.       Despite Rwanda’s significant achievements on gender equality, women represent only 7.4 percent of
+employment in transport sector. The low participation in the sector workforce is due to women’s lack of specific technical
+skills related to the core functions of the transport sector, poor working conditions such as lack of flexible working hours,
+absence of family friendly policies, and lack of career prospects for women. Also, women seem to benefit less from the
+trade expansion than men. A United Nations Conference on Trade and Development (UNCTAD) analysis looked at the
+effects of exports on women's employment in Rwanda and called for measures to help women enter export-oriented
+sectors (e.g., commercial agriculture crops) and upgraded supply chains through capacity development and access to
+resources. Gender disparities in entrepreneurship exist as well, as women open fewer formal businesses than men,
+particularly in rural areas. 52
+91.      The project will seek to address gender gaps in the transport and logistics sector related to women’s
+engagement in entrepreneurship and trade activities as well as employment in the sector . Under Component 2, the
+project will strive to address the gender gaps related to women’s engagement in entrepreneurship and trade. The project
+will provide women trading along the roads with capacity building to manage their trade more efficiently. It will open
+opportunities for the youth in the project area through construction and rehabilitation of basic and economic
+infrastructures (markets and selling points).
+92.      Special attention will be given to address the constraints that women usually face in connection with various
+phases of the skill development process. To facilitate access to training, consideration will be given to the training’s
+location, timing, and safety aspects of the journey. In addition, an analysis of the barriers for female entrepreneurship will
+be conducted to identify activities to boost their business and revenue potential.53 Under components 2 and 3, the project
+will address gender inequalities by enhancing women’s representation through employment opportunities and women
+skills development in core functions of the trade and transport industry.54.
+93.     The project will align with the World Bank’s Good Practice Note on addressin g SEA and SH in investment
+projects involving major civil works. The project will also establish a robust grievance redress mechanism and ensure
+adherence to the stakeholder engagement plan.
+Climate and Disaster Risk Screening
+94.      The project locations are exposed to rising flood and drought risks, with expected high impacts on road
+infrastructure, water availability and food security. The project location has experienced climate and geophysical hazards
+in the past and is expected to experience these in the future will high intensity, frequency, or duration. Floods increase
+soil erosion and silting of drainage infrastructure leading to water submerging roads. Accordingly, the exposure is rated
+as high since projections indicate an increase in mean and extreme temperatures and precipitation variability with high
+
+52 UNCTAD, Op. cit.
+53 The analysis will focus on procedures and regulations that impact on women’s opportunities and will help design training activities.
+54 The project promotes women’s employment in transport by providing female university graduates interns working in the industry.
+
+
+                                                                                                                                          21
+risk of flooding and droughts in future decades. Despite the high exposure risk to natural climate risk and natural hazards,
+the potential impacts on the project’s physical infrastructure and assets are expected to be moderate. The moderate
+impact rating is based on the deployment of resilience and adaptation measures, including integration climate
+information, such as: (i) vulnerable area mapping, in the planning and design of activities, (ii) adopting climate informed
+design and the provision of regular maintenance, and (iii) the planting of trees to combat land degradation, erosion, and
+the occurrence of landslides. The remaining risks will be modulated by the project’s soft com ponents and development
+context leading to a low risk of outcome/service delivery.
+95.      The roads have been designed and will be constructed with mitigation and adaptation measures to make them
+resilient to climate change. The design has addressed the geometric condition of the road to make more resilient to water
+crossing and its damages. The design of roads has considered, among others, the speed, the traffic stream and volume,
+pedestrians use, safety parameters for roads users, available space (land use), and the climatic impacts. In consideration
+to the climatic impacts on the road, the design envisages to: (i) raise the height of the road above the natural level, (ii)
+construct drainage canal along the roads, (iii) construct bridges to over pass the rivers, and (iv) sealing of the roads to
+protect the surface against infiltration that can lead to road under soil wash up; given the fact that the existing roads were
+unpaved and were subject to damage due to water flow. For safety reason and to protect the roads against water
+(sustainability reason), the road surface will be raised by about 50 cm from the initial level to avoid water crossing over
+the road. The same surface will be sealed. When earmarked, the share of the investment of this activity that is preventing
+and mitigating climate change, is estimated at about 30 % of the road cost meaning around US$17.00 million. The selection
+of side slopes is dependent upon safety considerations, height of fill or cut, and type of material. The slopes will ensure
+stability of the embankment to provide an opportunity for out-of-control vehicles to recover safely. For backslope on the
+other hand, the determining factor aside from safety is the desire to limit acquisition of land to accommodate the road
+corridor. Further geological investigations provide critical information on which safe design of side slopes especially in cuts
+are based. During the road construction, the embarkment and slopes will be flattened but bringing material with
+consistency that avoid side slope flattening in areas with expansive soils.
+96.      Construction of climate resilient bridges, culverts, and drainage channel will mitigate the increased level of
+water flow because of climate change and make the roads resilient during its life cycle. Data has been collected to
+inform the condition survey of existing hydraulic structures, their topographical locations, and water flow rates. Two main
+rivers traversed the road: (i) Akagera river crossing the road Masaka-Kabukuba; and (ii) Rugende stream crossing the road
+Masaka-Kabukuba. The feasibility study shows that there are many culverts along the roads that have insufficient hydraulic
+capacity to carry the water flow and they need upgrading. Along the KLP Connector roads, about 140 culverts out of 153
+will be rehabilitated (US$16.5 million). Also, about 234 cross drainage structures (US$8.50 million) will be constructed as
+a solution to improve the road resilience to climate. Four bridges are planned along the KLP connector roads to replace
+existing bridges that are bailey steel bridges and found to be hydraulically insufficient and structurally inadequate. The
+amount allocated to the bridges is US$10 million. The design of the roads was planned to construct ditches to collect water
+from the road and convey to outlet points. Additionally, the channel drains water from subbase layer of the road and
+avoid the runoff of the soil if it is over wet of rainwater.
+                         Table 5: List of culverts to be upgraded along the KLP connector roads.
+                                                                     Number of                      Construction cost
+                                                Number of                               Culverts
+ Road section                Length(km)                             culverts to be                  of culverts to be
+                                                 culverts                               to keep
+                                                                    rehabilitated                    upgraded (US$)
+ Masaka-Kabukuba                16.88               44                    37                7           4,500,000
+
+ Kabukuba-Nyamata               13.72               22                    21                1           2,500,000
+
+ Gahembe-Kindama                19.21               49                    47                2           5,500,000
+ Kabukuba – Riziyeri            19.64               38                    35                3           4,000,000
+ Total                          69.45               153                  140               13           16,500,000
+
+                                                                                                                            22
+Citizen Engagement
+The project will adopt a robust citizen engagement approach throughout its cycle, taking advantage of Rwanda’s well-
+established Grievance Redress Mechanism (GRM). Rwanda achieved substantial progress based on a strong leadership
+where leaders and citizens have a shared vision of the development projects. Citizen engagement considerations are part
+of the project implementation strategy, building on ongoing projects (LVTP, FRDP) practices. The project will implement a
+thorough consultation and communication strategy with the project stakeholders including citizens along the roads to
+develop an inclusive approach in considering the local communities’ concerns. RTDA organized public and stakeholders’
+consultation in the districts from February 28, 2023, to July 7, 2023, to collect their views and concerns on the project and
+hear their proposals to remedy any adverse impact to their socioeconomic activities and their livelihoods. The stakeholder
+engagement plans, based on inclusive consultations, include a project-specific GRM that outlines opportunities and
+avenues by which project stakeholders can seek timely redress on project-related grievances and complaints. The
+project will track locals’ satisfaction regarding improvements made through the roads upgrading, and the community -
+level infrastructure investments financed under the project. The related beneficiary feedback will be monitored during
+project implementation through an indicator in the Results Framework.
+
+ V. GRIEVANCE REDRESS MECHANISM (GRM)
+97.      Communities and individuals who believe that they are adversely affected by a project supported by the World
+Bank may submit complaints to existing project-level grievance mechanisms or the Bank’s Grievance Redress Service
+(GRS). The GRS ensures that complaints received are promptly reviewed to address project-related concerns. Project
+affected communities and individuals may submit their complaint to the Bank’s independent Accountability Mechanism
+(AM). The AM houses the Inspection Panel, which determines whether harm occurred, or could occur, because of Bank
+non-compliance with its policies and procedures, and the Dispute Resolution Service, which provides communities and
+borrowers with the opportunity to address complaints through dispute resolution. Complaints may be submitted to the
+AM at any time after concerns have been brought directly to the attention of Bank Management and after Management
+has been given an opportunity to respond. For information on how to submit complaints to the GRS visit
+http://www.worldbank.org/GRS. For information on how to submit complaints to the Bank’s Accountability Mechanism,
+visit https://accountability.worldbank.org.
+
+ VI. KEY RISKS
+98.     The overall project risk rating is substantial, driven by institutional capacity for implementation and
+sustainability risk rated substantial and environmental and social (E&S) risk rated high.
+99.      This high E&S risk category is due to the location, type, sensitivity, and scale of project interventions as well as
+the client’s capacity. Upgrading and improving an existing 69.45 km road, as well as roadside small-scale investments will
+contribute to the nature and magnitude of potential E&S risks and impacts. The high E&S risk for the project has also been
+justified by the capacity of the IAs to implement environment and social standards for ongoing projects (mostly level of
+staffing and lack of funding for compensation). For IA capacity for ongoing projects and KLPConnect, RTDA has confirmed
+that recruitment of all missing environment and social staff has been completed and dedicated staff have been assigned
+to the KLPConnect. Despite this measure, a detailed assessment of the IAs’ capacity found response to be slow which
+signaled potential risk related to the implementation of environment and social mitigation measures. Accordingly, the
+project will ensure through its activities, adequate institutional capacity for the IAs’ and other relevant institutions that
+will be directly or indirectly engaged in the implementation of the project.
+100. The institutional capacity for implementation and sustainability risk is rated substantial. RTDA has capacity for
+road works but will need to work closely with MINICOM for a better understanding in integration of trade and logistics
+dimension of the project. Conversely, MINICOM will need to work closely with a range of departments within and across
+leading ministries to implement its far-reaching set of activities. At the same time, each of the two associated SPIUs have
+been understaffed for current projects under implementation, impacting on project performance. Accordingly, RTDA has
+recently hired staff and will be maintaining a core cadre of staff (including E&S specialists, road safety specialists, a
+community development officer, procurement specialists, financial management specialists, M&E specialists, and an
+
+                                                                                                                          23
+accountant). For works execution, the project will launch a competitive process to recruit qualified enterprises.
+Simultaneously, MINICOM and its SPIU, along with responsible staff from other ministries, will be undergoing considerable
+capacity building in areas of technical relevance and project management. As a result, the residual institutional capacity
+risk after implementation of mitigation measures will be moderate.
+
+
+
+
+                                                                                                                       24
+        The World Bank
+        Kigali Logistics Platform Connectivity Development Project (P180228)
+
+
+
+                                                              VII. RESULTS FRAMEWORK AND MONITORING
+
+VII.a: Result Framework
+ @#&OPS~Doctype~OPS^dynamics@padannexresultframework#doctemplate
+ PDO Indicators by PDO Outcomes
+
+    Baseline                                                   Period 1                                                     Closing Period
+                                              Improved resilient and safe connectivity from the KLP (Masaka) to regional logistics corridors
+    Travel time from KLP to Ngoma-Nyanza highway (number of hours). (Hours)
+    Mar/2024                                                                                                                Jun/2030
+    1.5                                                                                                                     1.0
+    Number of health centers, schools, and markets with improved access in the project area. (Number)
+    Jan/2024                                                                                                                Jan/2030
+    0                                                                                                                       TBD
+    Percentage of people with enhanced access to reliable transport infrastructure and services all year round in the project area (disaggregated by gender) (Percentage)
+    Jan/2024                                                                                                                Jan/2030
+    0                                                                                                                       80
+    Reinforced/upgraded critical structures (bridges, culverts, embankments) raised along the road sections to respond to increased vulnerability due to climate change effects
+    (number). (Number)
+    Jan/2024                                                   Nov/2026                                                     Sep/2030
+    0                                                          1                                                            4
+    Number of newly registered businesses established in the project area (disaggregated by gender) (Number)
+    Mar/2024                                                                                                                Mar/2030
+    0                                                                                                                       TBD
+                                                           Support local and regional economic activities around the corridors
+    Number of registered businesses established in the project area. (Disaggregated by gender) (Number)
+    Jan/2024                                                                                                                Mar/2030
+    TBD                                                                                                                     TBD
+
+
+ Intermediate Indicators by Components
+
+
+
+
+                                                                                                                                  Page 25
+    The World Bank
+    Kigali Logistics Platform Connectivity Development Project (P180228)
+
+
+
+Baseline                                                                           Closing Period
+                                                               Component 1:Improving physical infrastructure
+Roads rehablitated (Kilometers) CRI
+Mar/2024                                                                                    Mar/2030
+0                                                                                           69.45
+Roads in good and fair condition as a share of total classified roads (Percentage)
+Jan/2024                                                                                    Jan/2030
+96                                                                                          97
+Road safety measures introduced on the road corridor from Masaka to Bugesera (Yes/No)
+Jan/2024                                                                                    Jan/2030
+No                                                                                          Yes
+Road safety and post-crash response sensitization conducted for schools, health centers, and markets along the 69.45 km of roads from Masaka to Bugesera (two routes) (number
+of people) (Number)
+Jan/2024                                                                                    Jan/2030
+0                                                                                           20
+Survey reports on citizen engagement available (Yes/No)
+Jan/2024                                                                                    Jan/2030
+No                                                                                          Yes
+Protected community facilities against erosion/storm water/flooding (Number)
+Mar/2024                                                                                    Mar/2030
+0                                                                                           TBD
+                                                               Component 2: Trade facilitation and Logistics improvement
+Number of permanent jobs created in the e-commerce hub and the SMEs parks that are equipped of basic infrastructures construction and markets and selling points (Number)
+Jan/2024                                                                                    Jun/2030
+0                                                                                           TBD
+Temporary jobs created by the project (roads, markets, selling points, etc.) (Number)
+Jan/2024                                                                                    Jun/2030
+0                                                                                           TBD
+Market centers and selling points connected by paved roads (Number)
+Jan/2024                                                                                    Jan/2030
+0                                                                                           13
+Share of targeted local traders with improved trade and business competency (Percentage) (Percentage)
+
+
+
+
+                                                                                                                                Page 26
+    The World Bank
+    Kigali Logistics Platform Connectivity Development Project (P180228)
+
+
+
+Jan/2024                                                                                    Jun/2030
+0                                                                                           100
+Private capital enabled (industrial park, roadside markets, selling points, and e-commerce warehouse) (Amount(USD))
+Jun/2024                                                                                    Jun/2030
+0                                                                                           20000000
+Number of staff of MINICOM who benefited from capacity building trainings. (Number)
+Jan/2024                                                                                    Jun/2030
+0                                                                                           30
+Number of Kilometers for Asphalt roads constructed in the SME Park. (Number)
+Jan/2024                                                                                    Jun/2030
+0                                                                                           6 KM
+Number of KVA supplied to the SME Park. (Number)
+Jan/2024                                                                                    Jun/2030
+0                                                                                           6,546 kVA
+Number of markets and selling points upgraded. (Number)
+Jan/2024                                                                                    Jun/2030
+0                                                                                           6
+Number of businesses/people trained/coached in e-commerce. (Number)
+Jan/2024                                                                                    Jun/2030
+0                                                                                           TBD
+                                                     Component 3: Implementation support, monitoring, and capacity building
+Number of staff of RTDA who benefited from capacity building trainings (Number)
+Jan/2024                                                                                    Jan/2030
+0                                                                                           30
+Females employed in permanent jobs and internship on basic infrastructures, economic infrastructures, and roads construction, SMEs industrial parks (Percentage)
+Jan/2024                                                                                    Jan/2030
+0                                                                                           30
+Community satisfaction on socio-economic infrastructure and roads works (Percentage)
+Mar/2024                                                                                    Jun/2030
+0                                                                                           80
+                                                               Component 4: Contingency Emergency Response (CERC)
+                                                                                 Physical Contingencies
+
+
+
+
+                                                                                                                                  Page 27
+The World Bank
+Kigali Logistics Platform Connectivity Development Project (P180228)
+
+
+
+
+                                                                       Page 28
+                                          VII.b: Monitoring & Evaluation Plan for Each Indicator
+
+Indicator                                 Definition/description        Frequency           Data source        Data collection   Responsibility
+                                                                                                               method            for data
+                                                                                                                                 collection
+PDO outcome 1. Improved resilient and
+safe connectivity from the KLP (Masaka)
+to regional logistics corridors.
+
+
+Indicator 1. Reduced travel time between The time traveled from start At the start and The data will be Collection of data RTDA
+KLP and the Nyanza-Ngoma Highway to the end of the project after completion collected by the M&E will be done by
+junction at Ngoma.                         road measured in hours.      of works       Consultant to conduct using the Moving
+                                                                                       baseline survey and Observer
+                                                                                       monitoring         and method assisted
+                                                                                       evaluation of the by GPS.
+                                                                                       project.       His/her
+                                                                                       reports    will     be
+                                                                                       approved by RTDA.
+Indicator 2. Percentage of people with The indicator measures the At the start and Monitoring                 Review of the RTDA
+enhanced access to reliable transport proportion of the number of after completion Consultant progress Project reports
+infrastructure and services all year round people expected to have of works            reports approved by
+in the project area (disaggregated in direct access to an improved                     RTDA.
+gender)                                    climate-resilient road along
+                                           the upgraded roads sections
+
+
+
+Indicator 3. Number of health centers, Number of health centers, At the start and           Monitoring          Review of the RTDA
+schools, and markets with improved schools, and market centers after completion             Consultant progress Project reports
+access in the project area             with improved access in the of works                 reports approved by
+                                       project area.                                        RTDA.
+Indicator 4. Reinforced/upgraded critical Critical structures located on At the start and   Monitoring          Review of the RTDA
+structures        (bridges,       culverts, the roads with enhance after completion         Consultant progress Project reports
+embankments) raised along the road adaptability to climate of works                         reports approved by
+sections to respond to increased change effects (floodings,                                 RTDA
+vulnerability due to climate change effects increase water flow)
+(number).
+
+
+PDO outcome 2.
+Support local and regional economic
+activities around the corridors.
+
+
+Indicator 1.                              Number of registered          At the start and    The data will be Baseline survey     MINICOM
+                                          businesses established in     after completion    collected by the
+                                                                                                               and Review of the
+                                          the project area.             of the basic and    M&E Consultant to
+                                                                                                               Project reports
+                                                                        economic            conduct   baseline
+
+                                                                                                                             Page 29
+Indicator                                    Definition/description      Frequency        Data source            Data collection   Responsibility
+                                                                                                                 method            for data
+                                                                                                                                   collection
+Number of registered businesses              (Disaggregated by gender)   infrastructure   survey           and
+established in the project area.             (Number)                    construction     monitoring       and
+(Disaggregated by gender) (Number)                                                        evaluation of the
+                                                                                          project.     His/her
+                                                                                          reports    will   be
+                                                                                          approved          by
+                                                                                          MINICOM.
+
+
+Component 1: Improving physical
+infrastructure to connect KLP to regional
+logistics corridors
+IR Indicator 1: Roads rehabilitated with The total length of road At the start and        Monitoring          Review of the RTDA
+climate-resilient and resilience to sections paved under the after completion             Consultant progress Project reports
+flooding measures (Kilometers)           project integrating climate of works             reports approved by
+                                         mitigation and adaptation                        RTDA.
+                                         measures (in kilometers)
+IR Indicator 2. Roads in good and fair Percentage of the total At the start and           Monitoring          Review of the RTDA
+condition as a share of total classified classified road network in after completion      Consultant progress Project reports
+roads                                    the project area that is in of works             reports approved by
+                                         good and fair condition                          RTDA.
+                                         depending on the road
+                                         surface and the level of
+                                         roughness.
+                                             (In number).
+IR Indicator 3. Road safety measures To confirm whether the Annual                        Monitoring          Review of the RTDA
+introduced on the road corridor from road safety measures have                            Consultant progress Project reports
+Masaka to Bugesera.                  been introduced under the                            reports approved by
+                                     project on the road corridor                         RTDA.
+                                     from Masaka to Bugesera.
+                                     (Yes/No)
+IR Indicator 4. Road safety and post-crash   Number of people who Annual                  Monitoring          Review of the RTDA
+response sensitization conducted for         participated     in      the                 Consultant progress Project reports
+schools, health centers, and markets         sensitization      meetings                  reports approved by
+along the 69.45 km of road from Masaka       organized on road safety and                 RTDA.
+to Bugesera (two routes) (number of          post-crash response in
+people)                                      schools, health centers and
+                                             market centers under the
+                                             project.
+IR Indicator 5. Protected community Number the communities’ At the start and Project                    progress Review of the RTDA
+facilities   against     erosion/storm facilities that are protected after completion reports                    project reports
+water/flooding (number).               due to the anti-erosion and of works
+                                       storm water control activities
+
+
+                                                                                                                               Page 30
+Indicator                                 Definition/description          Frequency          Data source          Data collection     Responsibility
+                                                                                                                  method              for data
+                                                                                                                                      collection
+
+
+IR Indicator 6. Survey reports available on To confirm whether the                           Monitoring          Review of the RTDA
+citizen engagement available                reports    on       citizen                      Consultant progress Project reports
+                                            engagement for the project                       reports approved by
+                                            implementation          are                      RTDA.
+                                            available.
+Component 2: Trade facilitation and
+logistics improvement
+IR Indicator 1. Number of permanent       Number of permanent jobs At the start and          The data will be Review of the MINICOM
+jobs created in the e-commerce hub and    created in the e-commerce after completion         collected by the Project reports
+the SMEs parks that are equipped of       hub and the SMEs parks of works                    M&E Consultant to
+basic infrastructures construction and    that are equipped of basic                         conduct     baseline
+markets and selling points.               infrastructures                                    survey           and
+                                          construction and markets                           monitoring       and
+                                          and selling points.                                evaluation of the
+                                                                                             project.     His/her
+                                                                                             reports    will   be
+                                                                                             approved          by
+                                                                                             MINICOM.
+IR Indicator 2. Temporary jobs created by Number of temporary jobs        At the start, at   Monitoring          Review of the MINICOM
+the project (roads, markets, selling created by the project               the    midterm     Consultant progress Project reports
+points, etc.)                             activities such as roads,       and        after   reports approved by
+                                          markets, selling points         completion of      MINICOM.
+                                          construction works in the       works
+                                          project area.
+IR Indicator 3. Market centers and selling Number of markets centers At the start and Monitoring           Review of the MINICOM
+points connected by paved roads            and     selling     points after completion Consultant progress Project reports
+                                           connected by paved roads of works           reports approved by
+                                                                                       MINICOM.
+IR Indicator 4. Share of targeted local Percentage of targeted Annual                        Monitoring          Review of the MINICOM
+traders with improved trade and traders with improved                                        Consultant progress Project reports
+business competency                     trade    and  business                               reports approved by
+                                        competency.                                          MINICOM.
+IR Indicator 5. Private capital enabled Private capital enabling to       At the start, at   Monitoring          Review of the MINICOM
+(industrial parks, roadside markets, be provided along with               mid-term and       Consultant progress Project reports
+selling points and e-commerce)          infrastructure to be built        after completion   reports approved by
+                                        (Industrial parks, roadside       of works           MINICOM.
+                                        markets, selling points and
+                                        e-commerce)
+IR Indicator 6. Number of staff of Number of staff of Annual                                 Monitoring          MINICOM              MINICOM
+MINICOM who benefited from capacity MINICOM who benefited                                    Consultant progress progress report
+building trainings.                 from capacity building                                   reports approved by
+
+
+                                                                                                                                   Page 31
+Indicator                                  Definition/description    Frequency          Data source       Data collection   Responsibility
+                                                                                                          method            for data
+                                                                                                                            collection
+                                           trainings.                                   MINICOM.
+IR Indicator 7. Number of Kilometers for Number of Kilometers for At the start and Monitoring          Review of the MINICOM
+Asphalt roads constructed in the SME Asphalt roads constructed after completion Consultant progress Project reports
+Park                                     in the SME Park          of works         reports approved by
+                                                                                   MINICOM.
+IR Indicator 8. Number of KVA supplied to Number    of    Kilo-volt- At the start and   Monitoring          Review of the MINICOM
+the SME Park                              amperes supplied to the after completion      Consultant progress Project reports
+                                          SME Park in the project of works              reports approved by
+                                          area.                                         MINICOM.
+IR Indicator 9. Number of markets and Number of markets and At the start and Monitoring               Review of the MINICOM
+selling points upgraded.              selling points upgraded in after completion Consultant progress Project reports
+                                      the project area.          of works         reports approved by
+                                                                                  MINICOM.
+IR    Indicator   10.    Number      of Number               of Annual                  Monitoring          Review of the MINICOM
+businesses/people trained/coached in e- businesses/people                               Consultant progress Project reports
+commerce                                trained/coached in e-                           reports approved by
+                                        commerce in the project                         MINICOM.
+                                        area
+Component 3: Implementation support,
+project monitoring, and capacity
+building.
+IR Indicator 1: Number of staff of RTDA Number of staff members Annual                  Monitoring          Review of the RTDA
+who benefited from capacity building from RTDA who participated                         Consultant progress Project reports
+trainings                               in the capacity building                        reports approved by
+                                        trainings organized under                       RTDA.
+                                        the project
+IR Indicator 2. Females employed in        Percentage of females Annual                 Monitoring          Review of the RTDA
+permanent jobs and internship on basic     employed in permanent                        Consultant progress Project reports
+infrastructures,              economic     jobs and internship on basic                 reports approved by
+infrastructures, and roads construction,   infrastructures, economic                    RTDA.
+SMEs industrial parks                      infrastructures, and roads
+                                           construction,         SMEs
+                                           industrial parks in the
+                                           project area.
+IR Indicator 3. Community satisfaction on Percentage of communities After            Monitoring          Survey        and RTDA
+socio-economic infrastructure and roads reported satisfied on socio- completion   of Consultant progress Review of the
+works                                     economic      infrastructure works         reports approved by Project reports
+                                          and roads works in the                     RTDA.
+                                          project area.
+
+
+
+
+                                                                                                                        Page 32
+                          Annex 1: Implementation Arrangements and Support Plan
+A. Institutional and Implementation Arrangements
+1.       The Ministry of Finance and Economic Planning (MINECOFIN) is the representative of the
+government on the issues related to the Financing Agreement. It will offer guidance and leadership on
+the utilization of the project’s counterpart funds. Other entities involved are MININFRA, MINICOM,
+RTDA, and the Road Maintenance Fund. The Rwanda Environment Management Authority (REMA) and
+the district’s authorities are also part of the project. The project implementation will be organized as
+described in the below organizational chart:
+
+
+
+
+2.      Steering Committee. A Steering Committee (SC) comprised of the Permanent Secretaries (PS) of
+MININFRA and MINICOM, a representative of MINECOFIN, and the Director General (DG) of RTDA will
+oversee the project implementation. They will convene bi-annually. The SC will make directional
+decisions on various project implementation aspects.
+3.      Overall Coordination. Under the coordination of the MININFRA, the project coordination will be
+led by the SPIU within RTDA, which will serve as the direct interlocutor with the World Bank and will
+report on project progress throughout implementation.
+
+
+                                                                                                     Page 33
+4.      Implementation agencies and responsibilities arrangements. The project will have two
+implementing agencies: the Single Project Implementation Units (SPIUs) of RTDA (MININFRA) and
+MINICOM. Thus, two special accounts will be created, one for each IA. Each SPIU will handle technical
+matters, procurement, financial management, and environment and social issues for their respective
+components, subcomponents, and related activities. The teams from both SPIUs will meet monthly to
+discuss project progress. The capacity of the SPIUs and the ministries’ technical departments to
+implement the project activities will be reinforced by additional staff to be recruited as needed.
+5.       Team composition to implement the project. For successful project implementation, it was
+agreed to designate a team in each IA (RTDA and MINICOM) for the project implementation. RTDA and
+MINICOM have submitted the list of the designated staff (per specialties) who will be implementing the
+project.
+6.      Role of the Ministry of Finance and Economic Planning (MINECOFIN). MINECOFIN is the
+legitimate representative of the government on the issues related to the Financing Agreement. It will
+offer guidance and leadership on the utilization of the project’s counterpart funds.
+7.       Role of the Ministry of Infrastructure (MININFRA). MININFRA is responsible for overall transport
+policy and strategic planning, the creation of a transport enabling environment, and setting of transport
+rules, regulations, standards, and strategic planning. The Directorate of Transport will be leading the
+implementation of activities related to policy and strategy.
+8.       Role of the Ministry of Trade and Industry (MINICOM). MINICOM, in KLP/Bugesera connectors
+project, the MINICOM will be engaged as part of key patrons of project investments and reforms for the
+improved economic growth and regional development dynamics around the project area. The
+Directorate of Trade will be leading the implementation of activities related to policy and strategy.
+9.      Role of the Rwanda Transport Development Agency (RTDA). RTDA assists MININFRA with the
+management and administration of the transport sector, and the planning, prioritizing, approval,
+delivery, management, and maintenance of infrastructure, including support to districts as the managing
+and implementing agencies. RTDA will draw on expertise from the Rwanda National Police (RNP) for the
+Road Safety, Rwanda Energy Group Limited (REG) for road lighting and electrical utilities relocation, and
+Water and Sanitation Corporation (WASAC Ltd) for water utilities relocation.
+10.      Role of the Road Maintenance Fund (RMF). The RMF is responsible for road maintenance
+including rehabilitation. It is funded from the public budget. Maintenance of national roads, district roads
+class I and class II are under the financing of the RMF.
+11.      Role of the Rwanda Environment Management Authority (REMA). The mission of REMA is to
+supervise and monitor environmental management and ensure that issues relating to environment
+receive attention in all national development plans. REMA will play the leading role of monitoring the
+activities of the project according to the Organic Law establishing REMA and its functions.
+12.     Role of Rwanda Standard Board (RSB). The role is to provide quality and affordable
+standardization, metrology, quality testing and certification services for sustainable socio-economic
+development. RSB will benefit from equipment to reinforce its capacity to contribute to the promotion
+of trade and competitiveness of products. Standardization, conformity assessment and metrology
+services are key in supporting various businesses in the production of safe and quality products.
+
+
+
+
+                                                                                                         Page 34
+13.     Role of Rwanda Development Board (RDB). The RDB role is to accelerate Rwanda’s economic
+development by enabling private sector growth. RDB was established in 2008 primarily to create a One
+Stop Shop for business and investments. Currently, RDB’s key services are: One Stop Center services
+(business and investment registration, visa facilitation, EIA, tax incentives management, etc.),
+Investment Promotion, Investment Deals Negotiation, Export and SEZ Development, Tourism and
+Conservation, and Private Sector Skills Development. RDB’s vision is to transform Rwanda into a dynamic
+global hub for business, investment, and innovation.
+14.       Role of District authorities. The district authorities in the project area are the coordinating body
+for any resettlement activities at the district level. They oversee, coordinate, and facilitate the
+implementation process of resettlement activities across local governments under its jurisdiction. The
+district-level departments (infrastructure, water, and energy officers in case of this RAP) in collaboration
+with grassroots administrative officials (Sectors and Cells’ executive secretaries) provide a review and
+monitoring role and provide political and administrative support for the implementation of the
+Resettlement Action.
+B. Results Monitoring and Evaluation Arrangements
+15.      The project objectives and corresponding indicators are designed to measure the results of the
+entire interventions. The M&E system will capture information to assess project results against the
+targets set as part of the Results Framework. The baseline information has been withdrawn from the
+Feasibility Study undertaken during preparation and will be followed up with beneficiary surveys and
+other assessments at the midterm review (MTR) and at project closing to evaluate qualitative and
+quantitative aspects of project results. The progress of project indicators will be measured through the
+implementation support missions and some specific surveys. Specific details for project management
+and reporting will be laid out in the PIM that will serve as the overall guiding document for SPIU. The
+recipient will carry out a Mid-Term Review, three years into implementation.
+C. Sustainability
+16.      KLPConnect is expected to address sustainability of the infrastructure investments and trade
+facilitation measures, through enhanced ownership of the participating administration. The road
+upgrading will be implemented through a Design Build and Maintain (DBM) arrangement to ensure that
+maintenance of the investment is guaranteed for the initial three years after completion of the upgrading
+works. This system will facilitate the undertaking of maintenance along the roads after completion of the
+works. In Rwanda, the existing RMF will ensure sustainability of long-term maintenance, and
+enforcement of axle load control by along the corridor will help preserve the road asset. The GoR has
+managed to keep the national paved road asset at an acceptable riding standard since creation of RTDA
+in 2010 using the RNP as core financing source for maintenance. Annual assessment of the riding quality
+is conducted with the use of Roughness meters and Bump integrators and reports are shared with the
+Development Partners via Transport Sector Working Group sessions annually.
+D. Financial management
+17.      Planning and budgeting. Both RTDA and MINICOM will follow the GoR’s planning and budgeting
+procedures. The project budgets will also be presented to the National Steering Committee for approval
+and included in the overall country budgets approved by the Parliament. The approved budgets will be
+monitored on a monthly and quarterly basis by the preparation and analysis of budget execution reports
+including: (a) budget for the period and for the year, (b) actual expenditure for the period and to date,
+(c) future expenditure commitments, and (d) balance of period budget remaining (actual expenditure
+
+                                                                                                           Page 35
+and commitments together compared to period budget). The consolidated annual workplan and budget
+that clearly show planned activities under each component and implementing entity will be submitted
+to the World Bank for no-objection.
+18.     Accounting and staffing. Both implementing entities use the Integrated Financial Management
+System (IFMIS) to record their transactions. There is a well-established SPIU for RTDA, but MINICOM SPIU
+must set up. The current staffing level of these units in terms of finance staff is as follows: (i) RTDA – six
+(Financial Manager, FMS, and Four Accountants), and (ii) MINICOM –two (one FMS and one Accountant).
+However, gaps in financial management of other projects have been noted as the SPIU’s are managing
+multiple projects. Therefore, to manage this project RTDA will assign an Accountant for the project. There
+will be a comprehensive start-up workshop where all implementing entities will be sensitised on the
+project’ s financial management requirements to build on capacity on managing World Bank-financed
+operations. Regular training will thereafter be provided for continuous improvement during project
+implementation.
+19.      Internal control and internal audit. All implementing entities are governed by the legal
+frameworks and manuals prescribed above. The project involves financing from both IDA and GoR and
+has multiple components and subcomponents which will involve specific arrangements such as CERC.
+Therefore, the recipient will develop and adopt a PIM that will reflect the FM arrangements under this
+project, covering all the implementing agencies and arrangements under each of the components. The
+PIM will reflect detailed internal control arrangements, including the extent of segregation of functions
+in payment processing and internal check mechanisms, in addition to payment approval and
+authorization arrangements. To enhance the project’s internal control arrangements, the internal audit
+units in all the implementing agencies will review project activities, in accordance with the Annual risk
+assessment and Internal Audit plan and submit reports to the project management team and to the
+World Bank during implementation support missions.
+20.     Financial reporting. The project implementing agencies will each prepare and submit quarterly
+interim financial reports (IFRs) to the World Bank within 45 days after the end of the quarter end. The
+interim financial reports will be used to monitor project financial progress, including the rate of budget
+execution and level of disbursements. Similarly, the respective agencies will prepare annual project
+financial statements, which will be submitted to external auditor within 45 days after the end of the fiscal
+year and audited financial statements to the World Bank within six months after the end of the fiscal
+year. Financial reports for each implementing entities holding designated accounts will at a minimum
+include sources and uses of funds (revenues and expenditures statement), financial position statement,
+cash flow statement, budget execution report; Designated Account activity statement for each
+designated account; notes on accounting policies and appendices. Experience from other projects
+implemented by the entities noted quality gaps. Training will be provided to avoid such risks in KLP.
+21.      External audit. The activities managed by the implementing agencies will be subject to external
+audit by the Office of the Auditor General (OAG) who has been auditing other World Bank funded
+projects implemented by the Government of Rwanda. Should the OAG seek to outsource the audit, the
+firm will need to be acceptable to IDA. The audit reports and management letters will be submitted to
+the World Bank within six months after the end of the financial year. The audit reports will be publicly
+disclosed in accordance with the World Bank Access to Information Policy. Upon receipt of the audit
+reports, each of the implementing agencies will prepare an action plan to address the audit findings. In
+other projects managed by RTDA, concerns were raised on value for money and for MINICOM a qualified
+opinion on financial statement due to unexplained differences noted on the financial statements. Both
+
+                                                                                                           Page 36
+implementers will closely monitor activities to avoid such irregularities. Follow-up on audit
+recommendation implementation will be conducted as part of regular World Bank implementation
+support missions and quarterly review of audited IFRs.
+22.     Funds flow arrangements. The project will maintain two segregated Designated Accounts for
+RTDA and MINICOM; these will be maintained at the National Bank of Rwanda and will be denominated
+in US dollars. The entities will maintain a Project Account at the National Bank of Rwanda denominated
+in Rwanda francs that will receive funds from the GoR for counterpart contribution and any transfer that
+may be needed from the DA. Disbursements will follow the Report based disbursement method whereby
+advances will be made based on two quarter forecasts to be prepared by the implementing entities. The
+project may also use direct payments, advances to the Designated Account, reimbursement and special
+commitments depending on the case. Upon effectiveness, the project will submit to the World Bank a
+request for withdrawal of funds based on the initial six-month expenditure forecast. Based on the
+request, the World Bank will transfer the proceeds of the loan to the two Designated Accounts.
+Subsequent replenishment of the Designated Accounts will be based on the submission of application of
+withdrawal accompanied by quarterly IFRs. The detailed modalities will be presented in the PIM and the
+Disbursement and Financial Information Letter (DFIL). The project has a CERC component and the most
+effective funds flow mechanism for CERC activities would be assessed and determined should this
+component be activated.
+FM Risk and Action Plan
+23.     The FM risk of the project is rated Moderate. The key risks identified are: (i) inadequate
+preparation of Annual and Work Plan and Budget (AWPB) could lead to irregularities in spending and
+accountability of resources; (ii) overstretching of existing finance personnel in the SPIUs which results
+from managing various projects; and (iii) delay in submission of quality financial reports and taking timely
+action on audit report findings.
+24.      Mitigating measures have been incorporated in the project design, including placing adequate
+staff at the two SPIUs under the implementing entities; provision of capacity building and training on
+World Bank-financed operations and using internal audit functions to assist in the timely action on audit
+report findings. The PIM will clarify the roles and responsibilities as well as the timelines for preparation
+of AWPB, reporting and auditing requirements. Action plan has been prepared which will help mitigate
+the identified risks and this will be monitored throughout project implementation.
+ No.   Action                                                    Timeline                  Responsibility
+ 1     Prepare annual work plan and budget with clarity on       Annually, March 31        All implementing
+       components, categories, and financiers                                              entities
+ 2     Prepare FM section of the PIM to detail out internal      Effectiveness             All implementing
+       control processes and roles and responsibilities of       condition                 entities
+       entities
+ 3     Assign dedicated an accountant for RTDA                   Part       of       the   All implementing
+                                                                 Effectiveness             entities
+                                                                 condition
+ 4     Enroll the project into IFMIS for proper recording of     After effectiveness       All implementing
+       transactions                                                                        entities
+ 5     Internal audit to be conducted based on the risk          As per the annual audit   All implementing
+       assessment of the project by the IA unit and share with   plan                      entities
+       the Bank the reports during supervision missions
+
+
+                                                                                                              Page 37
+ 6     Provide  a    plan   for   implementation  of          Within a month after       All implementing
+       recommendations of internal and external audit         the receipt of the audit   entities
+       findings                                               report
+25.      The risk assessment and on-site semiannual FM implementation support missions will be
+carried out. During these visits, follow-up will be made on internal and external audit reports and action
+taken thereon; transaction reviews and overall assessment of the adequacy of the FM systems will be
+carried out. Desk review of quarterly IFRs and annual audit reports will be conducted. Capacity building
+initiatives will be carried out at effectiveness and regularly thereon.
+E. Procurement
+26.     Procurement for the project will be carried out in accordance with the ‘World Bank
+Procurement Regulations for IPF Borrowers’, dated September 2023, hereafter referred to as
+‘Procurement Regulations’. The project will be subject to the World Bank’s Guidelines on Preventing and
+Combating Fraud and Corruption in Projects Financed by IBRD Loans and IDA Credits and Grants
+(Anticorruption Guidelines), dated October 15, 2006, and revised in January 2011 and as of July 1, 2016,
+and beneficiary disclosure requirements. The project will use Systematic Tracking of Exchanges in
+Procurement (STEP).
+27.      Project Procurement Strategy for Development (PPSD), which looked at the market,
+procurement risks, procurement options and sets out the selection methods to be followed by the GoR
+for major activities during project implementation in the procurement of goods, works, and non-
+consulting and consulting services financed by the project, has been prepared by the recipient and
+reviewed by the Bank. The Procurement Plan is part of PPSD and includes procurement plans of the
+project, at least for the first 18 months and will be updated annually or as required to reflect the actual
+project implementation needs and improvements in institutional capacity.
+28.    STEP: The project will use STEP, a planning and tracking system, which will provide data on
+procurement activities, establish benchmarks, monitor delays, and measure procurement performance.
+29.     E-Procurement system: Implementing agencies of the project, RTDA and MINICOM, will be using
+the Rwanda e-Procurement system (UMUCYO) for “post” procurement activities, in parallel with the
+World Bank STEP system. However, when the post review procurements are within international
+competitive threshold, the implementing agencies will advertise the procurement notices / request for
+expression of interest on UNDB and World Bank external site, in addition to UMUCYO.
+30.      Beneficial Ownership: Beneficial Ownership Disclosure is required for all new procurement
+advertised or invited on or after July 1, 2022, subject to open or limited international competition under
+all IPF projects, that are governed by the Procurement Regulations, and hence will apply to the project
+accordingly.
+31.      Procurement risk assessment. A procurement capacity and risk assessment has been carried out
+by the World Bank for both implementing agencies, to review the organizational structures and
+functions, experience, staff skills and capacity, procurement cycle management, quality, and adequacy
+of supporting and control systems and record keeping. Based on the assessment the following risks are
+identified: (a) Corruption, collusion, and Conflicts of interest, (b) Contract price increase due to inflation,
+currency instability, and interest rates, (c) Unexpected extreme weather, intense rainfall, and land slide,
+(d) Access and registration issues by bidders to UMUCYO e-procurement system, and (e) Limited skills
+for contract management under OPBRC. The current PIU structure of RTDA-SPIU and MINICOM-SPIU are
+adequate, save for one additional procurement staff need to be hired for MINICOM-SPIU.
+
+                                                                                                            Page 38
+32.      The agreed mitigation measures for the identified risks are: (i) Improve the complaint
+management system, strengthen internal and external audits, and disclosure of information and
+procurement data to the public, (ii) Make sure provision for price adjustment is included in the contract
+document, (iii) Appropriate design and work plan by DB contractor and adequate design review and
+monitoring consultancy is put in place, (iv) RTDA will initiate discussion with RPPA E-GP unit to solve the
+access issue, and (v) Conduct intensive training on management of the OPBRC.
+33.       Project Procurement Risk Rate: Based on procurement assessment of the implementing
+agencies, market practice and nature of procurement activities of the project, the project’s procurement
+risk is rated Moderate.
+34.      Currently RTDA-SPIU has five experienced procurement staff. The number and competence of
+existing procurement staffs is adequate to manage additional procurements of the project. MINICOM-
+SPIU has two procurement staffs and one additional procurement specialist dedicated to the project will
+be hired.
+35.      The procurement profile of KLPConnect Project is mainly rehabilitation work of the roads
+connecting the KLP with the Nyanza-Ngoma (itself connected at Ngoma to the regional Central Corridor
+that is being paved with LVTP financing), the Rwanda Industrial Zone, the new Bugesera International
+Airport located some 25 km south of Kigali to enable the KLP better play its role. Other procurement
+activities are associated consultancy services and minor procurements of Goods and Non-Consultancy
+services. In general, the market soundness revealed that there are adequate number of suppliers,
+contractors and consultants participating in tenders, from Rwanda, the region, and international
+markets.
+36.     There is adequate procurement oversight mechanism in place within both RTDA and
+MINICOM. The internal audit unit at RTDA and MINICOM and Office of Auditor General (OAG) have an
+oversight role. The OAG conducts procurement auditing regularly on annual basis.
+37.     The assessment revealed that in general, the track record of procurement performance of the
+implementing agencies, RTDA-SPIU and MINICOM-SPIU are satisfactory. With hiring one additional
+procurement staff under MINICOM-SPIU, the existing procurement staffs of RTDA-SPIU and MINICOM-
+SPIU are adequate both in number and competence.
+38.     Preliminary procurement plan with list of procurable items with corresponding cost estimates,
+review types and selection methods will be output from the PPSD. The latest version of the World
+Bank’s standard procurement documents will be used for all procurements when approaching
+international market.
+39.     Use of recipient’s procurement procedures. The IAs will follow the World Bank Procurement
+Regulations as required by the Financing Agreement. When approaching the national market, recipient’s
+own procedures will be used as appropriate and as provided by the World Bank Procurement
+Regulations. When approaching the national market, RTDA and MINICOM will use the national standard
+procurement documents subject to review and acceptance by the World Bank by incorporating
+additional requirements provided in the World Bank (WB) Standard Procurement Document (SPD) for
+small works, and to make sure provision for application of the World Bank Anti-Corruption Guidelines
+and the World Bank’s right to audit and all ESF, climate, SEA/SH and ESHS requirements are included.
+40.     Procurement of Works, Goods and Non-Consultancy Services: For procurement of works,
+goods, and non-consultancy service contracts, IAs own procurement procedures and SBDs as agreed on
+and deemed satisfactory to the World Bank will be used, when approaching the national market.
+                                                                                                        Page 39
+Procurement while approaching the international market will be done using the latest version of the
+World Bank’s Standard Procurement Documents, and rated criteria will apply, except for procurement
+of Commodities, Vaccines, and Pharmaceuticals. Small value works, goods and non-consultancy service
+will be undertaken through request for quotation procedures. The request for quotation will indicate the
+specifications of works, goods, and non-consultancy service as well as the delivery/completion time and
+the contract award will be based on comparing price quotations from several qualified
+contractors/suppliers, with a minimum of three, to ensure competition. Direct contracting will be used
+where the PPSD informs so, is to the benefit of the project, and is in accordance with Procurement
+Regulations.
+41.     Procurement of consultancy services. Procurement methods to be used are as specified in the
+PPSD. Project staff required for the implementation will be hired following the World Bank Procurement
+Regulations for positions identified as consultant (IC) and following Project implementation Support
+Personnel, paragraph 7.32 of Procurement Regulations, for positions not identified as consultants (IC).
+Paragraph 7.32 of the Procurement Regulations applies to the project. All positions, whether identified
+as IC where Procurement Regulations are used, or project staff hired using agencies’ own procedure will
+be included in the procurement plan. The items to be identified as operating cost in the PPSD will be
+procured using the GoR’s procurement and administrative procedures subject to review and acceptable
+by the World Bank including selection of project implementation, non-professional, support personnel
+not identified as consultant (IC).
+42.     Record keeping. All records pertaining to award of tenders, including bid notification, register
+pertaining to sale and receipt of bids, bid opening minutes, bid evaluation reports and all correspondence
+pertaining to bid evaluation, communication sent to/with the World Bank in the process, bid securities,
+and approval of invitation/evaluation of bids will be retained by respective agencies and in electronic or
+hard copy and uploaded in STEP.
+43.      Disclosure of procurement information. The following documents will be disclosed on the
+agencies’ websites: (a) a Procurement Plan and updates; (b) an invitation for bids for goods and works
+for all contracts; (c) Request for Expression of Interest for selection/hiring of consulting services; (d)
+contract awards of goods, works, and non-consulting and consulting services; (e) a monthly financial and
+physical progress report of all contracts; and (f) an action taken report on the complaints received on a
+quarterly basis.
+44.      When using International Competitive Bidding (ICB), the following details will also be
+published in the United Nations Development Business and the World Bank’s external website : (a) an
+invitation for bids for procurement of goods and works following open international market approaches,
+(b) Request for Expression of Interest for selection of consulting services following open international
+market approaches, and (c) contract award details of all procurement of goods and works and selection
+of consultants using open international market approaches.
+45.     Fiduciary oversight by the World Bank. The World Bank will prior review contracts according to
+prior review thresholds set forth in the PPSD/Procurement Plan. All contracts not covered under prior
+review by the World Bank will be subject to post review during implementation support missions and/or
+special post review missions, including missions by consultants hired by the World Bank or third-party
+independent auditor delegated by the World Bank. To avoid doubts, the World Bank may conduct, at
+any time, independent procurement reviews of all the contracts financed under the loan. All
+procurement post reviews are carried out online in STEP. For this reason, uploading of procurement
+documents of post review contracts will be done in a timely manner and always kept up to date.
+
+                                                                                                       Page 40
+46.      Contract Management. Increased contract management support through TA or reinforcing the
+contract management team using the project support component is necessary. Depending on interest
+by the government, the World Bank could examine request for use of Hands-On Expanded
+Implementation Support (HEIS) for high value high risk contracts. In addition, the implementing agency
+will develop key performance indicators (KPIs) for such contracts to be identified in the PPSD, and the
+KPIs will be monitored during actual execution of contracts. The World Bank will provide additional due
+diligence and independent review of the contract performance of such identified procurements. A fully
+staffed SPIUs will be responsible for the overall project.
+
+
+
+
+                                                                                                    Page 41
+

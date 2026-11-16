@@ -1,0 +1,4809 @@
+                                            FOR OFFICIAL USE ONLY
+
+                                                                                               Report No: PAD00194
+
+
+
+                  INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT AND
+
+                            INTERNATIONAL DEVELOPMENT ASSOCIATION
+
+
+
+                                       PROJECT APPRAISAL DOCUMENT
+
+                                                   ON A
+
+                                             PROPOSED CREDIT
+
+                                   IN THE AMOUNT OF EUR 144.5 MILLION
+
+                                      (US$160.0 MILLION EQUIVALENT)
+
+
+
+                                                      AND A
+
+
+
+                                        PROPOSED GRANT
+
+                               IN THE AMOUNT OF SDR 29.9 MILLION
+
+                                  (US$40.0 MILLION EQUIVALENT)
+
+                      FROM THE WINDOW FOR HOST COMMUNITIES AND REFUGEES
+
+
+
+                                                      AND A
+
+
+
+                                         PROPOSED GRANT
+
+                                IN THE AMOUNT OF US$15.0 MILLION
+
+                     FROM THE GLOBAL FINANCING FACILITY FOR WOMEN, CHILDREN
+
+                           AND ADOLESCENTS MULTI-DONOR TRUST FUND
+
+
+
+                                                     TO THE
+
+
+
+                                              REPUBLIC OF KENYA
+
+
+
+                                                     FOR THE
+
+
+
+                   BUILDING RESILIENT AND RESPONSIVE HEALTH SYSTEMS PROJECT
+
+                                         FEBRUARY 21, 2024
+
+ Health, Nutrition & Population Global Practice
+
+ Eastern and Southern Africa Region
+
+
+
+This document has a restricted distribution and may be used by recipients only in the performance of their official
+
+duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+                         CURRENCY EQUIVALENTS
+
+
+
+               (Exchange Rate Effective December 31, 2023)
+
+
+
+                                                  KENYA SHILLING
+
+                              Currency Unit =
+
+                                                  (KES)
+
+                                 KES 157.00 = US$1
+
+                                  EURO 0.90= US$1
+
+                                      SDR 0.75 US$1
+
+
+
+                                FISCAL YEAR
+
+                               July 1 - June 30
+
+
+
+
+
+
+
+
+
+Regional Vice President: Victoria Kwakwa
+
+     Regional Director: Daniel Dulitzky
+
+      Country Director: Keith E. Hansen
+
+     Practice Manager: Francisca Ayodeji Akala
+
+     Task Team Leader: Jane Chuma
+
+                  ABBREVIATIONS AND ACRONYMS
+
+
+
+AM         Accountability Mechanism
+
+ANC        Antenatal Care
+
+AWPB       Annual Work Plan and Budget
+
+AWP        Annual Work Plan
+
+BREHS      Building Resilient and Responsive Health Systems
+
+CBK        Central Bank of Kenya
+
+CHERP      COVID-19 Health Emergency Response Project
+
+CHU        Community Health Unit
+
+CO2e       Carbon dioxide equivalent
+
+COVID-19   Coronavirus Disease 2019
+
+CPF        Country Partnership Framework
+
+CRA        County Revenue Allocation
+
+CRF        County Revenue Fund
+
+DA         Designated Account
+
+DP         Development Partner
+
+DPHK       Development Partners Health Kenya
+
+DRS        Department of Refugees Services
+
+EDGE       Excellence in Design for Building Efficiencies
+
+ERP        Enterprise Resource Planning
+
+E&S        Environmental and Social
+
+ESCP       Environmental and Social Commitment Plan
+
+ESIA       Environmental and Social Impact Assessment
+
+ESMF       Environmental and Social Management Framework
+
+ESMP       Environmental and Social Management Plan
+
+ESRS       Environmental and Social Review Summary
+
+ESS        Environmental and Social Standards
+
+ESSD       Environmental and Social Due Diligence
+
+FM         Financial Management
+
+GDP        Gross Domestic Product
+
+GFF        Global Financing Facility
+
+GISEDP     Garissa Integrated Socioeconomic Development Plan
+
+GRM        Grievance Redress Mechanism
+
+GRS        Grievance Redress Service
+
+HFMC       Health Facility Management Committee
+
+HIV/AIDS   Human Immunodeficiency Virus / Acquired Immunodeficiency Syndrome
+
+HMIS       Health Management Information System
+
+HPT        Health Products and Technologies
+
+IBRD       International Bank for Reconstruction and Development
+
+IDA        International Development Association
+
+IEC        International Electrotechnical Commission
+
+IFMIS      Integrated Financial Management Information System
+
+IPC        Integrated Food Security Phase Classification
+
+IPF        Investment Project Financing
+
+KEMSA      Kenya Medical Supplies Authority
+
+KISEDP     Kalobeyei Integrated Socio-Economic Development Plan 2
+
+KHIS       Kenya Health Information System
+
+KHSSP      Kenya Health Sector Strategic Plan
+
+KISEDP     Kalobeyei Integrated Socio-Economic Development Plan
+
+LMP        Labor Management Plan
+
+M&E        Monitoring and Evaluation
+
+MoH        Ministry of Health
+
+MPDSR      Maternal and Perinatal Death Surveillance and Response
+
+MWMP       Medical and Waste Management Plan
+
+NCCF       National Climate Change Framework Policy
+
+NCCRS      National Climate Change Response Strategy
+
+NCD        Non-Communicable Disease
+
+NDC        Nationally Determined Contribution
+
+NHIF       National Health Insurance Fund
+
+NT         National Treasury
+
+OAG        Office of the Auditor General
+
+O&M        Operations and Maintenance
+
+OP         Operational Policy
+
+ORS        Oral Rehydration Salts
+
+PA         Project Account
+
+PAD        Project Appraisal Document
+
+PFM        Public Financial Management
+
+PHC        Primary Health Care
+
+PDO        Project Development Objective
+
+PMT        Project Management Team
+
+PNC        Postnatal Care
+
+POM        Project Operations Manual
+
+PP         Procurement Plan
+
+PPH        Postpartum Hemorrhage
+
+PPSD       Project Procurement Strategy for Development
+
+PS         Principal Secretary
+
+QoC        Quality of Care
+
+RMNCAH     Reproductive, Maternal, Newborn, Child, and Adolescent Health
+
+SEA / SH   Sexual Exploitation and Abuse / Sexual Harassment
+
+SEP        Stakeholder Engagement Plan
+
+SDPHS      State Department for Public Health and Professional Standards
+
+SHA        Social Health Authority
+
+SHIF       Social Health Insurance Fund
+
+SPA        Special Purpose Account
+
+STEP       Systematic Tracking of Exchanges in Procurement
+
+STEPS      STEPwise Approach to NCD Risk Factor Surveillance
+
+THS-UCP    Transforming Health Systems for Universal Care Project
+
+UHC     Universal Health Coverage
+
+UN      United Nations
+
+UNHCR   United Nations High Commissioner for Refugees
+
+VGPF    Vulnerable Groups Planning Framework
+
+WBG     World Bank Group
+
+WHO     World Health Organization
+
+WHR     Window for Host Communities and Refugees
+
+The World Bank
+
+Building Resilient and Responsive Health Systems (P179698)
+
+
+
+
+
+
+
+                                                            TABLE OF CONTENTS
+
+
+
+DATASHEET .......................................................................................................................... 1
+
+I.    STRATEGIC CONTEXT ..................................................................................................... 9
+
+      A. Country Context ...............................................................................................................................9
+
+      B. Sectoral and Institutional Context* .................................................................................................9
+
+      C. Relevance to Higher Level Objectives ............................................................................................11
+
+II.   PROJECT DESCRIPTION ................................................................................................ 12
+
+      A. Project Development Objective (PDO) ..........................................................................................12
+
+      B. Project Components ......................................................................................................................13
+
+      C. Project Beneficiaries ......................................................................................................................15
+
+      D. Results Chain..................................................................................................................................16
+
+      E. Rationale for Bank Involvement and Role of Partners ...................................................................16
+
+      F. Lessons Learned and Reflected in the Project Design....................................................................17
+
+III. IMPLEMENTATION ARRANGEMENTS ........................................................................... 17
+
+      A. Institutional and Implementation Arrangements ..........................................................................18
+
+      B. Results Monitoring and Evaluation Arrangements ........................................................................18
+
+      C. Sustainability ..................................................................................................................................18
+
+IV. PROJECT APPRAISAL SUMMARY .................................................................................. 19
+
+      A. Technical, Economic and Financial Analysis (if applicable)............................................................19
+
+      B. Fiduciary .........................................................................................................................................20
+
+      C. Legal Operational Policies ..............................................................................................................22
+
+      D. Environmental and Social ..............................................................................................................23
+
+V.    GRIEVANCE REDRESS SERVICES .................................................................................... 24
+
+VI. KEY RISKS .................................................................................................................... 24
+
+VII. RESULTS FRAMEWORK AND MONITORING .................................................................. 26
+
+ANNEX 1: Implementation Arrangements and Support Plan ................................................ 36
+
+ANNEX 2: Climate Change ................................................................................................... 40
+
+      The World Bank
+
+      Building Resilient and Responsive Health Systems (P179698)
+
+
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padbasicinformation#doctemplate
+
+DATASHEET
+
+
+
+
+
+BASIC INFORMATION
+
+
+
+
+
+Project
+
+                         Operation Name
+
+Beneficiary(ies)
+
+Kenya                    Building Resilient and Responsive Health Systems
+
+                                                      Environmental and Social Risk
+
+Operation ID             Financing Instrument
+
+                                                      Classification
+
+                         Investment Project
+
+P179698                                               Moderate
+
+                         Financing (IPF)
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padprocessing#doctemplate
+
+Financing & Implementation Modalities
+
+[ ] Multiphase Programmatic Approach (MPA)                       [ ] Contingent Emergency Response Component (CERC)
+
+[ ] Series of Projects (SOP)                                     [ ] Fragile State(s)
+
+[ ] Performance-Based Conditions (PBCs)                          [ ] Small State(s)
+
+[ ] Financial Intermediaries (FI)                                [✓] Fragile within a non-fragile Country
+
+[ ] Project-Based Guarantee                                      [ ] Conflict
+
+[ ] Deferred Drawdown                                            [ ] Responding to Natural or Man-made Disaster
+
+[ ] Alternative Procurement Arrangements (APA)                   [ ] Hands-on Expanded Implementation Support (HEIS)
+
+
+
+
+
+Expected Approval Date                 Expected Closing Date
+
+13-Mar-2024                            30-Jun-2029
+
+Bank/IFC Collaboration
+
+No
+
+
+
+
+
+Proposed Development Objective(s)
+
+To improve utilization and quality of primary healthcare services and strengthen institutional capacity for service
+
+delivery.
+
+
+
+
+
+
+
+
+
+                                                                                                              Page 1 of 43
+
+      The World Bank
+
+      Building Resilient and Responsive Health Systems (P179698)
+
+
+
+
+
+Components
+
+ Component Name                                                                 Cost (US$)
+
+ Strengthening institutional capacity for health service delivery towards
+
+                                                                             55,000,000.00
+
+ achieving UHC
+
+ Improving utilization of quality health services at primary care level     150,000,000.00
+
+ Project management and evaluation                                           10,000,000.00
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padborrower#doctemplate
+
+Organizations
+
+Borrower:                        Republic of Kenya
+
+Implementing Agency:             Ministry of Health
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padfinancingsummary#doctemplate
+
+PROJECT FINANCING DATA (US$, Millions)
+
+
+
+
+
+Maximizing Finance for Development
+
+
+
+Is this an MFD-Enabling Project (MFD-EP)?                     No
+
+
+
+Is this project Private Capital Enabling (PCE)?               No
+
+
+
+SUMMARY
+
+
+
+  Total Operation Cost                                                             215.00
+
+
+
+  Total Financing                                                                  215.00
+
+             of which IBRD/IDA                                                     200.00
+
+
+
+  Financing Gap                                                                      0.00
+
+
+
+DETAILS
+
+
+
+ World Bank Group Financing
+
+   International Development Association (IDA)                                     200.00
+
+
+
+      IDA Credit                                                                   160.00
+
+
+
+      IDA Grant                                                                     40.00
+
+
+
+ Non-World Bank Group Financing
+
+   Trust Funds                                                                      15.00
+
+
+
+
+
+                                                                                Page 2 of 43
+
+        The World Bank
+
+        Building Resilient and Responsive Health Systems (P179698)
+
+
+
+
+
+        Global Financing Facility                                                                            15.00
+
+
+
+
+
+IDA Resources (US$, Millions)
+
+
+
+                                                                                         Guarantee
+
+                             Credit Amount      Grant Amount         SML Amount                        Total Amount
+
+                                                                                           Amount
+
+
+
+Window for Host
+
+Communities and                       0.00             40.00                 0.00               0.00           40.00
+
+Refugees (WHR)
+
+
+
+National
+
+Performance-Based                   160.00              0.00                 0.00               0.00         160.00
+
+Allocations (PBA)
+
+
+
+Total                               160.00             40.00                 0.00               0.00         200.00
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@paddisbursementprojection#doctemplate
+
+Expected Disbursements (US$, Millions)
+
+WB Fiscal
+
+Year                      2024           2025            2026               2027             2028          2029
+
+
+
+Annual                    5.00          40.00            55.00              55.00            55.00         5.00
+
+Cumulative                5.00          45.00           100.00             155.00            210.00       215.00
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padclimatechange#doctemplate
+
+PRACTICE AREA(S)
+
+
+
+
+
+Practice Area (Lead)                                           Contributing Practice Areas
+
+Health, Nutrition & Population
+
+
+
+CLIMATE
+
+
+
+
+
+Climate Change and Disaster Screening
+
+Yes, it has been screened and the results are discussed in the Operation Document
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padrisk#doctemplate
+
+
+
+
+
+                                                                                                         Page 3 of 43
+
+      The World Bank
+
+      Building Resilient and Responsive Health Systems (P179698)
+
+
+
+
+
+SYSTEMATIC OPERATIONS RISK- RATING TOOL (SORT)
+
+
+
+
+
+Risk Category                                                               Rating
+
+1. Political and Governance                                                  Moderate
+
+2. Macroeconomic                                                             Substantial
+
+3. Sector Strategies and Policies                                            Moderate
+
+4. Technical Design of Project or Program                                    Moderate
+
+5. Institutional Capacity for Implementation and Sustainability              Moderate
+
+6. Fiduciary                                                                 Substantial
+
+7. Environment and Social                                                    Moderate
+
+8. Stakeholders                                                              Moderate
+
+9. Other                                                                     Substantial
+
+10. Overall                                                                  Moderate
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padcompliance#doctemplate
+
+POLICY COMPLIANCE
+
+
+
+
+
+Policy
+
+Does the project depart from the CPF in content or in other significant respects?
+
+[ ] Yes    [✓] No
+
+
+
+Does the project require any waivers of Bank policies?
+
+[ ] Yes [✓] No
+
+
+
+
+
+
+
+ENVIRONMENTAL AND SOCIAL
+
+
+
+
+
+Environmental and Social Standards Relevance Given its Context at the Time of Appraisal
+
+E & S Standards                                                                      Relevance
+
+ESS 1: Assessment and Management of Environmental and Social Risks and
+
+                                                                                     Relevant
+
+Impacts
+
+ESS 10: Stakeholder Engagement and Information Disclosure                            Relevant
+
+ESS 2: Labor and Working Conditions                                                  Relevant
+
+ESS 3: Resource Efficiency and Pollution Prevention and Management                   Relevant
+
+
+
+
+
+                                                                                                 Page 4 of 43
+
+      The World Bank
+
+      Building Resilient and Responsive Health Systems (P179698)
+
+
+
+
+
+ESS 4: Community Health and Safety                                                   Relevant
+
+ESS 5: Land Acquisition, Restrictions on Land Use and Involuntary Resettlement       Not Currently Relevant
+
+ESS 6: Biodiversity Conservation and Sustainable Management of Living Natural
+
+                                                                                     Relevant
+
+Resources
+
+ESS 7: Indigenous Peoples/Sub-Saharan African Historically Underserved
+
+                                                                                     Relevant
+
+Traditional Local Communities
+
+ESS 8: Cultural Heritage                                                             Not Currently Relevant
+
+ESS 9: Financial Intermediaries                                                      Not Currently Relevant
+
+NOTE: For further information regarding the World Bank’s due diligence assessment of the Project’s potential
+
+environmental and social risks and impacts, please refer to the Project’s Appraisal Environmental and Social Review
+
+Summary (ESRS).
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padlegalcovenants#doctemplate
+
+LEGAL
+
+Legal Covenants
+
+Sections and Description
+
+Section I.A.2 of Schedule 2. Not later than three (3) months after the Effective Date, the Recipient shall establish and
+
+thereafter maintain throughout the implementation of the Project, a Project steering committee - to be chaired by the
+
+Principal Secretary for SDPHS and comprising, amongst others, of Principal Secretary for The National Treasury,
+
+Principal Secretary for Immigration and Citizen Services, CEO of Council of County Governors, and the Solicitor-General -
+
+with mandate, powers and resources satisfactory to the Association (“Project Steering Committee’ or “PSC”), as
+
+detailed in the Project Operations Manual. The PSC shall be responsible for providing general advisory in the
+
+implementation of the Project.
+
+Section I.E.2 of Schedule 2. The Recipient shall prepare and furnish to the Association not later than September 30 of
+
+each Fiscal Year during the implementation of the Project (beginning in calendar year 2024), a consolidated work plan
+
+and budget containing inter alia: (i) all activities proposed to be implemented under the Project during the following
+
+Fiscal Year; (ii) a proposed financing plan for expenditures required for such activities, setting forth the proposed
+
+amounts and sources of financing therefor and disbursement schedule; and (iii) the training plan for such period.
+
+Section I.E.5 of Schedule 2. Without limitation on the provisions of this Section, the Recipient shall prepare and furnish
+
+to the Association the first proposed annual work plan required under the Project not later than one month after the
+
+Effective Date.
+
+Section II.2 of Schedule 2. Not later than thirty (30) months after the Effective Date, the Recipient shall, in conjunction
+
+with the Association, carry out a mid-term review of the Project (the “Mid-term Review”), covering the progress
+
+achieved in the implementation of the Project. To this end, the Recipient shall prepare - under terms of reference
+
+satisfactory to the Association - and furnish to the Association not less than three (3) months prior to the beginning of
+
+the Mid-term Review, a report integrating the results of the Project’s monitoring and evaluation activities, on the
+
+progress achieved in the carrying out of the Project during the period preceding the date of such report, and setting out
+
+the measures recommended to ensure the efficient carrying out of the Project and the achievement of the objective of
+
+the Project during the period following such date. Following the Mid-term Review, the Recipient shall act promptly and
+
+diligently in order to take, or cause to be taken, measures recommended to ensure the efficient completion of the
+
+
+
+
+
+                                                                                                              Page 5 of 43
+
+       The World Bank
+
+       Building Resilient and Responsive Health Systems (P179698)
+
+
+
+
+
+Project and the achievement of the objective as well as any corrective action deemed necessary by the Association to
+
+remedy any shortcoming noted in the carrying out of the Project in furtherance of the objective of the Project.
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padconditions#doctemplate
+
+Conditions
+
+Type                          Citation                      Description                    Financing Source
+
+                                                            The Association is satisfied
+
+                                                            that the Recipient has an
+
+Effectiveness                 Article V. 5.01(a)                                           IBRD/IDA
+
+                                                            adequate refugee
+
+                                                            protection framework.
+
+                                                            The Recipient and the
+
+                                                            Project Implementing
+
+                                                            Entity have executed a
+
+Effectiveness                 Article V. 5.01(b)            Subsidiary Agreement in        IBRD/IDA
+
+                                                            accordance with Section I.B
+
+                                                            of Schedule 2 to this
+
+                                                            Agreement.
+
+                                                            The Co-financing
+
+                                                            Agreement has been
+
+                                                            executed and delivered and
+
+                                                            all conditions precedent to
+
+                                                            its effectiveness or to the
+
+Effectiveness                 Article V. 5.01(b)            right of the Recipient to      IBRD/IDA
+
+                                                            make withdrawals under it
+
+                                                            (other than the
+
+                                                            effectiveness of this
+
+                                                            Agreement) have been
+
+                                                            fulfilled.
+
+                                                            The Recipient has prepared
+
+                                                            and adopted the Project
+
+                                                            Operations Manual
+
+                                                            (“POM”) in form and
+
+                                                            substance satisfactory to
+
+Effectiveness                 Article V. 5.01(c)                                           IBRD/IDA
+
+                                                            the Association, in
+
+                                                            accordance with the
+
+                                                            provisions of Section
+
+                                                            I.C.1(b)ii of Schedule 2 to
+
+                                                            this Agreement.
+
+                                                            The Recipient has
+
+                                                            established a dedicated
+
+Effectiveness                 Article V. 5.01(d)            Project Management Team        IBRD/IDA
+
+                                                            (“PMT”), with adequate
+
+                                                            resources and facilitation,
+
+
+
+                                                                                                          Page 6 of 43
+
+     The World Bank
+
+     Building Resilient and Responsive Health Systems (P179698)
+
+
+
+
+
+                                                          key staff holding such
+
+                                                          qualifications and under
+
+                                                          terms of reference
+
+                                                          acceptable to the
+
+                                                          Association, such staff to
+
+                                                          include a project manager,
+
+                                                          Project components
+
+                                                          coordinators, assistant
+
+                                                          coordinators, a monitoring
+
+                                                          and evaluation specialist, at
+
+                                                          least one dedicated
+
+                                                          specialist for each of social
+
+                                                          risks and environmental
+
+                                                          risks management and any
+
+                                                          other technical and
+
+                                                          fiduciary specialists as may
+
+                                                          have been agreed with the
+
+                                                          Association and as further
+
+                                                          detailed in the POM.
+
+                                                          The Recipient has
+
+                                                          prepared, consulted upon,
+
+                                                          adopted and publicly
+
+                                                          disclosed the
+
+                                                          Environmental Social and
+
+                                                          Management Framework,
+
+Effectiveness               Article V. 5.01(e)            the Vulnerable Groups           IBRD/IDA
+
+                                                          Planning Framework, the
+
+                                                          Medical Waste
+
+                                                          Management Plan, the
+
+                                                          Stakeholder Engagement
+
+                                                          Plan and the Labor
+
+                                                          Management Procedures.
+
+                                                          The Recipient has assessed
+
+                                                          the security risks of the
+
+Effectiveness               Article V. 5.01(f)            Project and included            IBRD/IDA
+
+                                                          measures to mitigate such
+
+                                                          security risks in the POM.
+
+                                                          KEMSA has assigned an
+
+                                                          environmental and social
+
+                                                          risks management (E&S)
+
+Effectiveness               Article V. 5.01(g)            focal person to maintain        IBRD/IDA
+
+                                                          coordination and support
+
+                                                          E&S implementation of the
+
+                                                          Project.
+
+
+
+                                                                                                     Page 7 of 43
+
+     The World Bank
+
+     Building Resilient and Responsive Health Systems (P179698)
+
+
+
+
+
+                                                          This Agreement shall not
+
+                                                          become effective until
+
+                                                          evidence satisfactory to the
+
+                                                          Bank has been furnished to
+
+                                                          the Bank that the Financing
+
+                                                          Agreement has been
+
+Effectiveness               Article IV. 4.01                                             Trust Funds
+
+                                                          executed and delivered and
+
+                                                          all conditions precedent to
+
+                                                          its effectiveness (other
+
+                                                          than effectiveness of this
+
+                                                          Agreement) have been
+
+                                                          fulfilled.
+
+
+
+
+
+
+
+
+
+                                                                                                       Page 8 of 43
+
+          The World Bank
+
+          Building Resilient and Responsive Health Systems (P179698)
+
+
+
+
+
+    I. STRATEGIC CONTEXT
+
+
+
+
+
+    A. Country Context
+
+1.      The Kenya economy has continued to recover from the impacts of the COVID-19 pandemic, but the growth has
+
+slowed down in the last year. Real gross domestic product (GDP) increased by 4.8 percent in 2022, a decrease from 7.5
+
+percent annual growth in 2021, largely due to the weather shocks experienced in the last two years, domestic
+
+macroeconomic policies, and challenging global conditions. 1 The economy is expected to grow by 5.0 percent in 2023 and
+
+5.2 percent on average in 2024-2025, higher than the pre-pandemic average of 5.0 percent in 2010-2019. While growth
+
+prospects remain optimistic, the economy remains vulnerable to shocks such as drought, rising inflation and food
+
+insecurity.
+
+
+
+2.      Kenya is highly vulnerable to climate change, particularly extreme floods, and droughts, which has affected
+
+food security for millions of people particularly in the arid and semi-arid north and north-east of the country. 2 Floods
+
+are the most significant and frequent climate-related hazard in Kenya making up 40.0 percent of all-natural hazards from
+
+1980-2020. 3 Flooding is particularly impactful to communities around Kenya’s lakes and waterways. For example, a 2021
+
+United Nations (UN) report 4 projected climate change induced flooding may cause the expansion of Lake Turkana,
+
+displacing communities while impinging on agriculture and livelihoods. Simultaneously, drought is likely to adversely affect
+
+the country’s agriculture sector, which is predominantly dependent on seasonal rains and is expected to negatively impact
+
+the economy and food security, reversing the gains in health and nutrition outcomes. Since 2015, Kenya has experienced
+
+a steady increase in the prevalence of severe food insecurity from 15.0 percent to 26.1 percent. 5 Between July and
+
+September 2022, an estimated 3.5 million people (24.0 percent of the Kenya population in arid-and semi-arid counties)
+
+experienced acute food insecurity.6
+
+
+
+3.       For more than three decades, Kenya has been home to a significant population of refugees and asylum seekers.
+
+There are 691,868 refugees and asylum seekers in the country, including in cities such as Nairobi, Mombasa, Nakuru, and
+
+Eldoret, but the majority live in two designated refugee camps 7 – with 320,572 in Dadaab Camp in Garissa County and
+
+271,995 in Kakuma Camp and Kalobeyei Settlement in Turkana County. 8 The two camps are under the management of
+
+the Government of Kenya’s Department of Refugee Services (DRS), with support from the United Nations High
+
+Commissioner for Refugees (UNHCR) and humanitarian partners who provide operational support and humanitarian
+
+assistance, including primary and secondary health and nutrition services. The Government has demonstrated its
+
+commitment to the Global Compact on Refugees by enacting the Refugees Act of 2021, which grants refugees more rights
+
+and protections, and by supporting the Shirika Plan, 9 which seeks to create integrated settlements where refugees can
+
+live, access social services, and work alongside Kenyans.
+
+
+
+    B. Sectoral and Institutional Context*
+
+
+
+
+
+1 Kenya Economic Update, June 2023
+
+2 World Bank, Climate Change Knowledge Portal
+
+3 World Bank Climate Change Knowledge Portal - Kenya.https://climateknowledgeportal.worldbank.org/country/kenya/vulnerability
+
+4 United Nations Environment Program: “Climate change could spark floods in world’s largest desert lake: new study”, 2021.
+
+5 World Bank data. Prevalence of food insecurity in the population – KenyaError! Hyperlink reference not valid.
+
+6 Kenya: IPC Acute Food Insecurity and Acute Malnutrition Analysis (July - December 2022)
+
+7 For a detailed map see: https://data2.unhcr.org/en/country/ken
+
+8 UNHCR Statistics package. Kenya registered refugees and asylum seekers (31 July 2023)
+
+9 The Shirika Plan is a Government of Kenya socioeconomic development plan outlining the transition from refugee encampment to integrated
+
+
+
+settlements.
+
+
+
+                                                                                                                                Page 9 of 43
+
+         The World Bank
+
+         Building Resilient and Responsive Health Systems (P179698)
+
+
+
+
+
+4.       The health status of Kenyans has improved in the last five years, but significant geographic and socioeconomic
+
+inequities remain, affecting women and children. The life expectancy of Kenyans has improved from 63 years in 2013 to
+
+67 years in 2020 but fell to 61 years in 2021 owing to the COVID-19 pandemic. 10 Under-five and infant mortalities dropped
+
+from 52 and 39 deaths per 1,000 live births in 2014 to 41 and 32 in 2022, respectively, partly due to improved coverage
+
+of primary healthcare services and significant progress in malaria and HIV/AIDS response.11 Despite the number of women
+
+delivering under the care of a skilled health worker increasing significantly, challenges remain around neonatal mortality,
+
+which is high at 21 deaths per 1,000 live births in 2022: a marginal decline from 22 per 1,000 live births in 2014. Similarly
+
+maternal mortality remains high at 342 maternal deaths per 100,000 live births, 12 suggesting challenges related to quality
+
+of care (QoC). Teenage pregnancy declined only slightly from 18.0 percent in 2014 to 15.0 percent in 2022. While the
+
+country has recorded improvements in childhood nutrition, 18.0 percent of children aged below 5 years are stunted, a
+
+decline from 26.0 percent in 2014. Despite improvements in coverage and utilization of health care services, especially for
+
+maternal and child health, geographic and socioeconomic inequities remain. Although 89.3 percent of pregnant women
+
+deliver under the care of a skilled health worker, five counties reported skilled delivery below 66.0 percent (Turkana-53.0
+
+percent; Mandera-55.0 percent; Wajir-57.0 percent; Samburu-57.0 percent; Tana River-59.0 percent). Wider gaps are
+
+reported for utilization of antenatal care (ANC), with only 32.1 percent of women in Garissa County attending at least 4
+
+ANC visits, compared to 82.2 percent in Nyeri County. Only 53.9 percent of women from the lowest wealth quintile
+
+attended at least 4 ANC visits compared to 82.0 percent of women from the highest wealth quintile.
+
+
+
+5.       In Garissa and Turkana counties, refugees and their host communities face barriers to healthcare services,
+
+mostly affecting women and children. Garissa and Turkana counties record the lowest percentages of women receiving
+
+at least 4 ANC visits (31.2 percent) in 2022 and deliveries by a skilled provider (52.6 percent) respectively. 13 In the refugee
+
+camps, most health services are provided by UNHCR and non-governmental organizations in collaboration with the
+
+Government. The overcrowded conditions, clean water supply shortages and hygiene challenges present heightened risks
+
+of communicable disease outbreaks such as cholera. Other recent outbreaks in the refugee camps include polio, dengue
+
+fever, and chikungunya. Refugees and host communities have also been affected by prolonged drought in the region and
+
+the food security of refugees has been further affected by cuts in the general food assistance. From 2020 to July 2022,
+
+there has been a steady and significant increase in malnutrition cases across all refugee camps, with children under 5 years
+
+being particularly affected by malnutrition and micronutrient deficiencies. 14
+
+
+
+6.      The devolution of health service delivery in 2013 has presented mixed results. Decentralization of responsibility
+
+for public sector health service delivery to the 47 county Governments has been accompanied by a 34.0 percent increase
+
+in the number of facilities, a 46.0 percent improvement in public health worker density between 2014 and 2020, and many
+
+counties have equipped their health facilities to respond to the evolving health needs. County Governments are also
+
+exploring approaches to strengthen primary care service delivery through governance and financial management reforms,
+
+such as the Facility Improvement Fund. However, county Governments have faced significant challenges in management
+
+of human resources for health, ensuring availability of Health Products and Technologies (HPTs), improving quality of care,
+
+
+
+
+
+
+
+
+
+10 World Bank Estimates: https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=KE
+
+11 Kenya Demographic Health Survey, 2022. Key Indicators Report
+
+12 Ministry of Health Kenya (2020) Kenya Progress Report on Health and Health-Related SDGs.
+
+13 Kenya Demographic Health Survey, 2022
+
+14 UNHCR & WFP, Joint Assessment Mission Kenya-Refugee Operations (2022)
+
+
+
+
+
+                                                                                                                  Page 10 of 43
+
+         The World Bank
+
+         Building Resilient and Responsive Health Systems (P179698)
+
+
+
+
+
+and facilitating effective governance of health facilities to deliver comprehensive networked primary care. 15,16, 17, 18
+
+Stockouts of essential medicines persist and access to essential diagnostics remains low with only 17.0 percent of facilities
+
+assessed as having a full set of basic diagnostic items. 19
+
+
+
+7.       The Government initiated various reforms aimed at strengthening capacity of the National Health Insurance
+
+Fund (NHIF) and the Kenya Medical Supplies Authority (KEMSA). Both institutions play a critical role in Kenya’s universal
+
+health coverage (UHC) agenda. NHIF reforms include changes to governance arrangements, re-engineering business
+
+processes, modernization, and realignment of the information and communications technology, modification of provider
+
+payment mechanisms and payment systems among others. To fast-track progress towards UHC, the Government
+
+introduced four laws in October 2023 (Social Health Insurance Act, Primary Health Care Act, Facility Improvement
+
+Financing Act, and the Digital Health Act). Under the new health financing arrangement, all Kenyan citizens and residents
+
+will be required to be members of the Social Health Insurance Fund (SHIF). Primary health care will be purchased through
+
+the primary care fund and financed through tax allocation by the national Government. Additionally, management of
+
+chronic illnesses and health emergencies will be through the emergency, chronic and critical illness fund, which will be
+
+drawn upon once a member has exhausted their SHIF benefits. The Government is in the process of developing the
+
+regulations and implementation arrangements to operationalize these Acts. Key issues in KEMSA relate to: (a) inadequate
+
+funding to stock commodities leading to long turnaround times; (b) suboptimal use of information systems in procurement
+
+processes; (c) weak business processes; (d) weak governance; (e) weak human resource realignment; (f) outdated
+
+Enterprise Resource Planning (ERP) system; and (g) weak credit control systems among others. Significant progress has
+
+been made in implementing reforms to address these challenges, however major gaps remain. The World Bank continues
+
+to provide technical support, but operational support is required for KEMSA to function efficiently.
+
+
+
+ C. Relevance to Higher Level Objectives
+
+8.       The project is fully aligned with the World Bank’s mission and the Regional priorities by contributing to
+
+increasing the number of people receiving essential health services in Kenya. The project is strongly aligned with the
+
+World Bank Group’s (WBG) FY23-28 Country Partnership Framework (CPF) for Kenya, discussed by the Board of
+
+Executive Directors on November 22, 2022 (Report No. 172255) and Government health sector priorities. Objective 2 of
+
+the CPF aims to “improve public expenditure transparency and efficiency”, a focus of the project. The CPF also aims for
+
+“greater equity in service delivery outcomes”, which will be achieved partly through reducing disparities in health
+
+outcomes (objective 4). The project is also aligned to objective 6, “increase household resilience to, and national
+
+preparedness for shocks”, highlighted in the CPF through the need to increase access to social health insurance, improving
+
+access to quality health care services and expanding UHC reforms. In addition, the project will directly contribute to the
+
+priorities identified in the Kenya Health Policy 2014-2030, the Kenya Health Sector Strategic Plan (KHSSP, 2018-2023), the
+
+Kenya UHC Policy (2020-2030), and the Kenya Health Financing Strategy (2020-2030).
+
+
+
+
+
+
+
+15 Waithaka, D., Kagwanja, N., Nzinga, J. et al. Prolonged health worker strikes in Kenya- perspectives and experiences of frontline health managers
+
+and local communities in Kilifi County. Int J Equity Health 19, 23 (2020).
+
+16 Nyawira, L., Tsofa, B., Musiega, A. et al. Management of human resources for health: implications for health systems efficiency in Kenya. BMC
+
+
+
+Health Serv Res 22, 1046 (2022).
+
+17 McCollum R, Limato R, Otiso L, et al. Health system governance following devolution: comparing experiences of decentralisation in Kenya and
+
+
+
+IndonesiaBMJ Global Health 2018;3:e000939
+
+18 Kairu, A., Orangi, S., Mbuthia, B. et al. Examining health facility financing in Kenya in the context of devolution. BMC Health Serv Res 21, 1086
+
+
+
+(2021).
+
+19 Ministry of Health Kenya Harmonized Health Facility Assessment 2018-19. The diagnostic tests were: HIV, malaria, and syphilis rapid test; urine
+
+
+
+test for pregnancy; blood glucose; urine dipstick for glucose and protein; and hemoglobin levels
+
+
+
+                                                                                                                                     Page 11 of 43
+
+        The World Bank
+
+        Building Resilient and Responsive Health Systems (P179698)
+
+
+
+
+
+9.      The project is consistent with Kenya’s Nationally Determined Contribution (NDC, updated 2020) 20 21, the
+
+National Climate Change Framework Policy (NCCF, 2016) and National Climate Change Response Strategy (NCCRS,
+
+2010). The project is anticipated to have a considerable contribution to improving climate adaptation and resilience in the
+
+country and is not anticipated to contribute to greenhouse gases emissions. Kenya’s climate policies emphasize key actions
+
+which the project supports including: integration of climate change adaptation into county level development planning;
+
+improving resilience of vulnerable populations to climate-related shocks; addressing vector-borne disease transmission
+
+(malaria, dengue), water-borne disease outbreaks, food insecurity and malnutrition; reducing direct injuries and mortality;
+
+and minimizing damage to infrastructure. Further, the Kenya Health Policy (2014) and KHSSP 22 acknowledge the role of
+
+climate change in increasing the burden of disease in the country. 23
+
+
+
+10.      The World Bank, following consultation with UNHCR, confirms that the protection framework for refugees 24
+
+continues to be adequate in Kenya for accessing financing from the IDA20 Window for Host Communities and Refugees
+
+(WHR). Kenya’s treatment of refugees is governed by the Refugees Act of 2021 and is largely in line with the international
+
+and regional refugee protection standards and Kenya’s commitments under the Global Compact on Refugees. The Act
+
+recognizes the rights of refugees to participate in economic and social development and supports refugee inclusion in
+
+national and county development planning. In 2023, the second phase of the Kalobeyei Integrated Socio-Economic
+
+Development Plan 2 (KISEDP) and the Garissa Integrated Socioeconomic Development Plan (GISEDP) were launched, which
+
+highlight the key role being played at the County level to support local solutions that benefit refugees and host
+
+communities, including in the health sector. In its IDA20 WHR Strategy Note, the Government identified as a priority
+
+supporting social services needs in health and addressing the health priorities outlined in the KISEDP and GISEDP. The
+
+Refugee Regulations, to operationalize the Refugees Act of 2021 are in the final stages of development and are due for
+
+publication. The regulations will provide clarity in the Act’s operationalization, which will strengthen the protection
+
+framework. In September 2023, Kenya gazetted Legal Notice No. 143 of 2023, recognizing refugee identification
+
+documents for the purposes of acquiring services provided by the Government, including health. The Shirika Plan, which
+
+is currently under development, is a multi-sectoral plan that delineates development solutions that benefit both refugees
+
+and host communities through an integrated service delivery approach, building on the KISEDP and GISEDP. The Ministry
+
+of Health (MoH) is involved in the Plan’s drafting and this operation will ensure close alignment of refugee health policy
+
+priorities and county level implementation.
+
+
+
+ II. PROJECT DESCRIPTION
+
+
+
+ A. Project Development Objective (PDO)
+
+
+
+      PDO Statement
+
+ 11.     To improve utilization and quality of primary healthcare services and strengthen institutional capacity for
+
+ service delivery.
+
+
+
+
+
+
+
+
+
+20 Government of Kenya. (April, 2010) National Climate Change Response Strategy.
+
+21 Government of Kenya (2016). National Climate Change Framework Policy. Accessed.
+
+22 Government of Kenya (2018) Kenya Health Sector Strategic Plan.
+
+23 Ministry of Health (July, 2014) Kenya Heath Policy 2014-2030.
+
+24 Based on UNHCR’s Kenya Refugee Protection Assessment Update No. 5 from January to June 2023.
+
+
+
+
+
+                                                                                                              Page 12 of 43
+
+       The World Bank
+
+       Building Resilient and Responsive Health Systems (P179698)
+
+
+
+
+
+      PDO Level Indicators
+
+12.     The PDO level indicators are: (a) Percentage of women receiving postnatal care within 48 hours, including in
+
+refugee hosting counties; (b) Percentage of children immunized with three doses of Pentavalent vaccine; (c) Percentage
+
+of pregnant women attending 4 or more ANC visits, including in refugee hosting counties; (d) Proportion of Children Under
+
+5 with diarrhea treated with Zinc/ORS Co-Pack; (e) Order fill rate for priority health products and technologies (HPTs); (f)
+
+order turnaround time.
+
+
+
+ B. Project Components
+
+13.     The project will comprise three Components focusing on both the national and county level, with clear linkages
+
+between the two levels of Government.
+
+
+
+14.      COMPONENT 1: STRENGTHENING INSTITUTIONAL CAPACITY FOR HEALTH SERVICE DELIVERY TOWARDS
+
+ACHIEVING UHC (US$55 million): Component 1 will focus on (a) strengthening the institutional capacity of KEMSA and
+
+availability of HPTs; (b) supporting health financing reforms; and (c) improving availability and use of quality data for
+
+decision making.
+
+
+
+15.      Sub-component 1.1: Institutional and operational reforms to enhance efficiency and transparency of KEMSA
+
+(US$30 million): This sub-component will support: (a) building up buffer stocks in KEMSA to ensure timely availability of
+
+HPTs at primary care level, thus increasing the order-fill rate, reducing the order turn-around time, and promoting
+
+efficiency. Funds will be earmarked for the procurement and distribution of HPTs for primary care services (levels 1-3) in
+
+all 47 counties during the life of the project. Counties will draw down HPTs from an agreed list, based on their resource
+
+allocation as described in sub-component 2.1. To ensure transparency and accountability in the procurement process, an
+
+HPT governance committee incorporating key stakeholders will be established. Climate sensitive planning for HPTs
+
+distribution will be included; (b) automation of the procurement processes, through rolling out a new ERP system with
+
+extended supply chain modules to ensure end-to-end visibility; and (c) strengthening governance and accountability,
+
+including development and implementation of an accountability dashboard that provides visibility of the procurement
+
+process and distribution of HPTs to various stakeholders. The project will use seasonal data to inform pharmaceutical
+
+planning for climate sensitive conditions (e.g., malaria, cholera, anti-diarrheal medicines, etc.). The Directorate of HPTs,
+
+MoH will work closely with KEMSA to ensure maximum efficiency in implementation of this sub-component.
+
+
+
+16.     Sub-component 1.2: Health financing and quality of care reforms (US$15 million): This sub-component will
+
+support the recently introduced Government UHC reforms, including but not limited to the transition from the NHIF to
+
+the Social Health Authority (SHA). Areas of support include development of regulations and implementation roadmaps,
+
+design and rationalization of a benefit package, developing a framework for review of the benefit package including
+
+strengthening capacity for the health technology assessment, design of business processes and claims processing,
+
+stakeholder engagement among others. Additionally, the project will support the MoH to establish/strengthen regulatory
+
+bodies and operationalize quality of care reforms for improved strategic purchasing.
+
+
+
+17.      Sub-component 1.3: Improve availability and use of quality data for decision making (US$10 million): This sub-
+
+component will support the Government to improve generation and use of strategic information for decision making,
+
+specifically through conducting relevant cross-sectional surveys including, but not limited to, the WHO STEPwise approach
+
+to non-communicable diseases (NCD) risk factor surveillance (STEPS) survey, and the Household Health Expenditure and
+
+Utilization Survey. Climate sensitive planning for surveys will be used and questions on climate and health impacts will be
+
+included in the survey to generate relevant data to inform decision making. Support will also be provided towards
+
+dissemination of findings to the lowest level.
+
+
+
+                                                                                                               Page 13 of 43
+
+       The World Bank
+
+       Building Resilient and Responsive Health Systems (P179698)
+
+
+
+
+
+
+
+18.     COMPONENT 2: IMPROVING UTILIZATION OF QUALITY HEALTH SERVICES AT PRIMARY CARE LEVEL (US$150
+
+million consisting of a US$95 million IDA credit, a US$40 million IDA grant, and a US$15 million Global Financing Facility
+
+(GFF) grant): This Component will support delivery of quality services at the primary care level (levels 1-3: community,
+
+dispensary, health center) in all 47 counties, ensuring availability of selected HPTs. Additional support will include
+
+implementation of: (a) key primary care level interventions in all 47 counties; (b) a package of evidence-based, high impact
+
+interventions for selected counties lagging on key Reproductive, Maternal, Newborn, Child, and Adolescent health
+
+(RMNCAH) indicators; and (c) key interventions aimed at improving access to and quality of health services in refugee
+
+camps and host communities of Garissa and Turkana counties. Details on Component 2 operationalization will be
+
+described in the Project Operations Manual (POM).
+
+
+
+19.     Sub-component 2.1: Improving availability of essential HPTs and delivery of key quality services at the primary
+
+care level (US$90 million): This Sub-component will support (a) procurement and distribution of selected HPTs to primary
+
+care facilities; and (b) implementation of key quality of care related interventions delivered at the primary care level.
+
+
+
+20.      Counties will receive an annual allocation that is based on the Government’s Equitable Share ratio. The
+
+allocation will consist of two parts: (a) drawing rights for selected HPTs; and (b) funds to support implementation of key
+
+interventions in their annual work plans (AWPs). All counties will be required to meet the agreed upon eligibility criteria.
+
+
+
+       •   Availability of essential HPTs at the primary care level. Counties will be issued with drawing rights earmarked
+
+           for levels 1-3. A reliable and steady supply of HPTs will be established through providing KEMSA with resources
+
+           to purchase essential HPTs for the primary care level, as well as other supply chain reforms described under
+
+           Sub-component 1.1. Support will focus on selected HPTs which have been identified jointly with county
+
+           Governments. HPTs to support NCD screening and treatment will also be included to address the changing
+
+           burden of disease in Kenya.
+
+       •   Implementation of selected interventions in county AWPs. Funds will be disbursed to each county to
+
+           implement key interventions, from a positive list of activities, agreed upon with county Governments and
+
+           prioritized into four thematic areas: (a) strengthening community health services; (b) supporting levels 2 and 3
+
+           facility operations and maintenance and functionality of Health Facility Management Committees (HFMC); (c)
+
+           supporting drivers of quality improvement described in the positive list; and (d) strengthening intercounty
+
+           coordination and learning. Each year, counties will select and implement interventions from the positive list
+
+           as part of their AWPs. This approach gives flexibility to counties to choose relevant activities to implement
+
+           based on their specific needs.
+
+
+
+21.     Sub-component 2.2: Improving delivery of quality health services in selected counties (US$20 million, consisting
+
+of a US$5 million IDA credit and a US$15 million GFF grant): This Sub-component will provide additional targeted support
+
+to 10 under-performing counties lagging on key RMNCAH indicators. All level 2 and 3 health facilities , and selected level
+
+4 health facilities, will receive support to implement high impact and evidenced based RMNCAH interventions within the
+
+following 5 priority areas: (a) emergency obstetric care with emphasis on management of post-partum hemorrhage (b)
+
+essential newborn care; (c) nutrition services to address stunting among children and anemia in pregnant women; (d)
+
+enhance coverage and quality of ANC and PNC, including post-partum family planning; and (e) institutionalization of
+
+measures to improve quality of clinical practice by frontline providers. Specifically, the Sub-component will support: (a)
+
+dissemination of standards, guidelines, standard operating procedures, and job aides; (b) strengthening capacity of
+
+frontline healthcare workers; (c) procurement of relevant essential medicines and commodities; (d) support for relevant
+
+
+
+
+
+                                                                                                               Page 14 of 43
+
+        The World Bank
+
+        Building Resilient and Responsive Health Systems (P179698)
+
+
+
+
+
+quality of care committees (e.g., the Maternal and Perinatal Death Surveillance and Response (MPDSR) committees); (e)
+
+support for quality monitoring activities; and (f) demand generation activities.
+
+
+
+22.      Sub-component 2.3: Improving access to and utilization of quality health services in refugee camps and host
+
+communities in Garissa and Turkana Counties (US$40 million): The Sub-component aims to address the barriers to
+
+accessing and utilizing quality services in refugee camps and their host communities in Garissa and Turkana counties. More
+
+specifically, the Sub-component will support: (a) strengthening community health services; (b) improving availability of
+
+essential HPTs for services at levels 1-4 (level 4 is the sub-county hospital); (c) improving the availability of energy efficient
+
+diagnostic and medical equipment; (d) training of community enrolled health nurses through the Kenya Medical Training
+
+College; (e) recruitment of health workers; (f) strengthening referral systems; (g) climate resilient and energy efficient
+
+renovation of health facilities; and (h) support towards management of the transition process of health facilities and health
+
+workers to County Governments. Analytical work and capacity support will be provided to the refugee hosting counties
+
+and DRS to support county planning and coordination with humanitarian stakeholders in the management of the transition
+
+of health services. Both counties will develop AWPs, under the County Integrated Development Plans focusing on the
+
+identified areas of support. This will build on counties’ refugee and host communities plans that include health priorities,
+
+the KISEDP and GISEDP.
+
+
+
+23.      COMPONENT 3: PROJECT MANAGEMENT AND EVALUATION (US$10 million): This Component will support
+
+project management activities at national and county level. Key areas of support will include (a) providing operational
+
+costs and logistical services for day-to-day management of the project; (b) project monitoring and evaluation activities;
+
+(c) environmental and social risk management; (d) stakeholder engagement; (e) fiduciary management; (f) contracting of
+
+staff on a need basis; (g) technical assistance and county peer-to-peer learning among others; and (h) development of a
+
+climate emergency plan at the national level, which will inform county level actions to reduce the risk of climate change
+
+on health service delivery activities. Counties will be encouraged to include relevant climate mitigation actions in their
+
+AWPs.
+
+
+
+ C. Project Beneficiaries
+
+
+
+24.     The project will benefit all Kenyans; however, the main beneficiaries are women and children from the poorest
+
+population who tend to utilize primary care services more, including refugees and host communities in Garissa and
+
+Turkana. The project will provide support to all 47 counties to address key priority areas that impact on primary health
+
+care (PHC) and focus on addressing inequities in counties that have poor RMNCAH service coverage and outcomes.
+
+Strengthened health services will support the needs of about 1.8 million host community members in Garissa and Turkana
+
+(100 percent) and more than 590,000 refugees in these counties (100 percent).
+
+
+
+
+
+
+
+
+
+                                                                                                                    Page 15 of 43
+
+           The World Bank
+
+           Building Resilient and Responsive Health Systems (P179698)
+
+
+
+
+
+ D. Results Chain
+
+CHALLENGES                   ACTIVITIES                             OUTPUTS                         SHORT-TERM            PROJECT                  LONG-TERM
+
+                                                                                                    OUTCOMES              OUTCOMES                 OUTCOMES
+
+                             Component 1
+
+Suboptimal availability      Finance key health surveys             Improved availability of        Improved
+
+and use of data for                                                 quality data                    evidence -based
+
+decision making                                                                                     decision making
+
+
+
+                                                                                                               A2
+
+
+
+
+
+
+
+
+
+                             Upgrade of ERP system at               Improved functionality of
+
+Suboptimal funding,          KEMSA                                  the ERP system modules          Improved (i)          Improved
+
+inefficiency, and lack of                                                                           transparency,         utilization and
+
+transparency at KEMSA        Build up buffer HPTs stock in          Increased number of orders      efficiency of         quality of primary
+
+                             KEMSA                                  received within required        KEMSA and (ii)        healthcare               Reduced
+
+                                                                    lead time                       availability of       services and             mortality and
+
+                                                                                                    essential HPTs        strengthened             morbidity, and
+
+                             Component 2                                                            at the lowest         institutional            greater human
+
+Frequent stockouts of        Procure and distribute HPTs,           Increased number of HPTs        levels                capacity for             capital
+
+essential commodities        including HPTs for NCDs                procured and distributed to                           service delivery,        attainment
+
+at PHC level                                                        health facilities                     A1              including for
+
+                                                                                                                          refugees and host
+
+                                                                                                                          communities
+
+
+
+
+
+
+
+
+
+Low quality of maternal      Implement priority interventions
+
+and child health             at PHC facilities in all 47 counties   Improved operations of          Improved
+
+services at PHC level                                               health facilities, systems,     delivery of
+
+                                                                    and community health            quality PHC
+
+Inequitable geographic                                              services                        services,
+
+health outcomes                                                                                     including in
+
+particularly for             Support processes to strengthen                                        refugees
+
+RMNCAH                       clinical quality of care related to    Improved processes for          hosting areas
+
+                             RMNCAH services in selected            quality clinical practices
+
+Shortages of skilled         counties
+
+human resources for
+
+health (HRH)                 Implement priority interventions       Improved availability and
+
+                             in Garissa and Turkana, including      functionality of health
+
+Parallel health services     refugee hosting areas (including       facilities, community health
+
+for refugees with            support to HRH, renovations of         units, including for refugees
+
+limited county               health facilities)                     and host communities
+
+engagement
+
+
+
+
+
+Assumptions: A1- Beneficiaries have access to system performance information; A2- Policy makers utilize information to improve project implementation.
+
+
+
+25.      The above diagram presents the results chain. The project aims to "improve utilization and quality of primary
+
+healthcare services and strengthen institutional capacity for service delivery”. This will be achieved by addressing key
+
+health challenges including inefficiencies at KEMSA leading to frequent stockouts of essential commodities at PHC level,
+
+inequitable geographic health outcomes, shortages of HRH, parallel health services for refugees with limited county
+
+engagement, and suboptimal availability and use of data. By investing in high impact activities the project will contribute
+
+towards improving delivery of quality PHC services and evidence-based decision making. The project is anticipated to
+
+contribute to increasing utilization of PHC services, quality of PHC services, and strengthening institutional capacity.
+
+Specific PDO level indicators are detailed under paragraph 12.
+
+
+
+ E. Rationale for Bank Involvement and Role of Partners
+
+26.    The World Bank has a solid track record in supporting Kenya’s health sector. Over the years, the World Bank
+
+has supported several projects, including two regional operations: the East Africa Public Health Laboratory Networking
+
+
+
+                                                                                                                                                 Page 16 of 43
+
+       The World Bank
+
+       Building Resilient and Responsive Health Systems (P179698)
+
+
+
+
+
+Project (P171915) and the African Medicine Regulatory Harmonization Project (P155163) to strengthen core public health
+
+functions following a harmonized regional approach. The recently completed Transforming Health Systems for Universal
+
+Care Project (THS-UCP, P152394) supported the Government to improve access to RMNCAH services, through
+
+interventions at the national and county level. The project builds on the lessons learnt from these projects.
+
+
+
+27.      The Development Partners for Health Kenya (DPHK) plays a coordination role among development partners
+
+(DPs) and works closely with the MoH to ensure that investments are aligned to Government priorities. Several DPs are
+
+supporting delivery of quality PHC services, as outlined in the Government’s Community Health Strategy (2020-2025). A
+
+recent mapping exercise identified 14 DPs supporting various aspects of PHC. However, this support is targeted to only a
+
+few counties. To reduce fragmentation of development support, the MoH is working towards ensuring that all partners
+
+support implementation of a one health plan, with a joint monitoring and evaluation (M&E) framework. Implementation
+
+of this project will be aligned to the MoH plan. The World Bank works closely with other DPs to promote coordination and
+
+alignment and will continue to do so during project implementation. For example, the World Bank has worked closely with
+
+the Government of Denmark, through the Danish International Development Agency (Danida) and the Government of
+
+Japan to support the Government’s health financing and UHC agenda. Additionally, the World Bank is collaborating with
+
+the Bill and Melinda Gates Foundation to strengthen county capacity to deliver quality PHC services.
+
+
+
+ F. Lessons Learned and Reflected in the Project Design
+
+28.    The project design incorporated lessons learned from previous World Bank engagements in the sector and at
+
+the devolved level in Kenya.
+
+    • Focus on equity. Amongst the 47 counties, there is variation in the coverage of key primary care services and
+
+       RMNCAH outcomes. For the counties that are lagging, it is critical to provide sufficient and tailored support to
+
+       achieve meaningful change.
+
+    • Balance standardization of interventions for cross-cutting issues while allowing for flexibility to address county
+
+       specific gaps. There are cross cutting issues that affect most, if not all, counties which can be addressed with a
+
+       standard package of interventions; however, there are differences amongst the 47 counties which call for a flexible
+
+       approach to support appropriate, context-specific, and efficient implementation of interventions.
+
+    • Support reforms at national level to facilitate improved implementation of key interventions at county level.
+
+       Weak information, logistics management and quality assurance systems at KEMSA are a barrier to timely,
+
+       responsive, and transparent distribution of HPTs to the counties. To improve the availability of selected HPTs, the
+
+       project will support building-up a buffer stock at KEMSA as well as strengthening of the management information
+
+       and quality assurance systems.
+
+    • Implementation efficiency. The design of the project will draw from implementation experience from the THS-
+
+       UCP and other World Bank-financed projects implemented at county level that revealed weaknesses in fiduciary
+
+       capacity at the county level. Therefore, the project will maintain a project team at the Council of Governors to
+
+       support and monitor county implementation and limit procurement to the national level.
+
+    • Building on refugee reforms. The design is informed by and builds on the reforms supported by DRS and UNHCR
+
+       which have progressed the integration of refugee health services into county management, including human
+
+       resource management and the coding of humanitarian managed health services.
+
+
+
+
+
+
+
+ III. IMPLEMENTATION ARRANGEMENTS
+
+
+
+
+
+
+
+                                                                                                             Page 17 of 43
+
+        The World Bank
+
+        Building Resilient and Responsive Health Systems (P179698)
+
+
+
+
+
+ A. Institutional and Implementation Arrangements
+
+
+
+29.      The project will be implemented by multiple entities at both national and county level. The MoH, through the
+
+State Department of Public Health and Professional Standards (SDPHS), will have the overall responsibility of overseeing
+
+implementation of the project. A project steering committee chaired by the Principal Secretary (PS) for the SDPHS, and
+
+including the PS National Treasury, PS State Department of Immigration and Citizen Services, Chief Executive Officer of
+
+the Council of County Governors, and the Solicitor General will advise the project. County Governments will be responsible
+
+for implementation of county-level activities under Component 2, with support from KEMSA for procurement and delivery
+
+of HPTs to primary care facilities. Counties may conduct procurement on a need-by-need basis for activities in the positive
+
+list (for Sub-component 2.2) and Sub-component 2.3. Both KEMSA and county Governments will put in place a
+
+management team to oversee project implementation. In refugee camps, implementation will be undertaken by relevant
+
+county Governments in close coordination with DRS and UNHCR.
+
+
+
+30.     The Project Management Team (PMT) under the MoH, will have overall responsibility for the coordination and
+
+implementation of the project. The PMT will be headed by the Project Manager who will be responsible for the effective
+
+functioning of the project. The MoH will be required to fully designate and maintain PMT members with appropriate skills,
+
+including Component coordinators, safeguards and fiduciary staff, and a M&E officer. The PMT will (a) coordinate the
+
+project activities; (b) ensure the financial management of all project activities in all Components; and (c) prepare
+
+consolidated AWPs, budgets, monitoring and evaluation, and quarterly and annual financial and technical implementation
+
+reports. The PMT will compile reports from each of the 47 counties and all national implementing entities and share them
+
+with the World Bank.
+
+
+
+31.     Each county will designate and maintain for the project period: (a) a Project focal point; (b) a head of the unit
+
+responsible for procuring HPTs; (c) an environmental specialist; (d) a social development specialist; (e) a monitoring and
+
+evaluation specialist; (f) a procurement officer (if required as indicated in the Project Operations Manual); and (g) a project
+
+accountant and internal auditor to support project’s financial management functions.
+
+
+
+ B. Results Monitoring and Evaluation Arrangements
+
+
+
+32.     The M&E approach for the project is aligned with the Government’s procedures and data sources and will
+
+contribute to improved data quality. All project indicators (a) are a subset of the health sector’s performance indicators
+
+available in various data sources including the Kenya Health Information System (KHIS); and (b) will be collected routinely
+
+through project reports. The project will support county health sector annual performance data review meetings as well
+
+as availability of key surveys under Component 1. Where relevant, at project closure, data from household and facility
+
+surveys will be used to complement routine data to measure project achievement of the PDO.
+
+
+
+ C. Sustainability
+
+
+
+33.      The project will support priority interventions outlined in the national health strategies to ensure sustainability.
+
+The project will build on existing national systems and structures for implementation and fiduciary arrangements. The
+
+Government remains committed to improving delivery of primary healthcare services to advance progress towards UHC,
+
+and key project activities are aligned with these objectives. The project implementation entities will be drawn from
+
+existing Government structures which will ensure continuity of the expected results beyond the project period. In addition,
+
+
+
+
+
+                                                                                                                  Page 18 of 43
+
+         The World Bank
+
+         Building Resilient and Responsive Health Systems (P179698)
+
+
+
+
+
+the project includes a wide range of capacity building activities that will further enhance institutional capacities of the
+
+implementing entities.
+
+
+
+34.     The project funds will complement domestic resources and not replace them. Under THS-UCP, counties were
+
+required to allocate at least 20 percent of their budget to health and increase the allocation from the previous year. This
+
+project will build on this experience to ensure that project funds do not crowd out Government investments.
+
+
+
+ IV. PROJECT APPRAISAL SUMMARY
+
+
+
+
+
+ A. Technical, Economic and Financial Analysis (if applicable)
+
+
+
+35.      The project will support delivery of core health interventions at primary care level, with a focus on RMNCAH in
+
+selected counties. RMNCAH remains a major contributor to the high disease burden in Kenya. The country is investing
+
+heavily in the primary care level, as a foundation for UHC. The Government recently launched a community health program
+
+that promotes preventive and promotive health services at the community level. This project is therefore relevant as it is
+
+designed to strengthen primary care services, improve quality of care, and reduce inequities in access to health care
+
+services. Additionally, these primary care facilities mainly benefit the poor and rural populations; strengthening their
+
+capacity will ensure that these facilities are able to provide services to most of the population in the country. It is
+
+recognized that without improving the health of the population, Kenya will not realize its aspirations enshrined in the
+
+constitution.
+
+
+
+36.      There is a strong justification for Government intervention and public financing of PHC services. By investing at
+
+the PHC level, the project will contribute towards laying a strong foundation for the delivery of health services in Kenya.
+
+Finally, the project is technically sound, and the design considers the respective mandates of the key entities involved in
+
+implementation. The project is adequately structured with clear linkages between activities and the results. It focuses on
+
+the key challenges facing delivery of essential health services at the primary level and is geared to addressing inequities
+
+in access to quality health services.
+
+
+
+37.     Investments in PHC show that every US$1 invested in PHC interventions saves up to US$16 in spending on
+
+conditions such as stunting, NCDs, anemia, tuberculosis, malaria, and maternal and child morbidity. 25 The project aims
+
+to support investments in improving performance of PHC services at county level to enhance access to high impact
+
+interventions. Global evidence shows that investing in RMNCAH has a significant economic impact. Every additional US$1
+
+invested in women’s and children's health translates to US$9 of economic and social benefit. 26 In Kenya, guided by the
+
+RMNCAH Investment Framework, priority areas for investment and action have been identified at national and county
+
+level. The project will support effective delivery of high impact evidence-based interventions to improve RMNCAH
+
+outcomes particularly in low performing counties. Analyses in Uganda 27 show the significant savings in integrative
+
+approaches to hosting refugees; integrating refugees into national systems, including health and jobs, which have reduced
+
+the total costs of supporting refugees by forty-five percent.
+
+
+
+25 Mwai D, Hussein S, Olago A, Kimani M, Njuguna D, Njiraini R, et al. (2023) Investment case for primary health care in low- and middle-income
+
+countries: A case study of Kenya. PLoS ONE 18(3): e0283156. 6
+
+26 Global Strategy for Women’s Children’s and Adolescent’s Health 2016-2030, UN
+
+27 Aziz Atamanov, Johannes Hoogeveen and Benjamin Reese. The Costs Come before the Benefits. Why Donors Should Invest More in Refugee
+
+
+
+Autonomy in Uganda.2023. World Bank.
+
+
+
+
+
+                                                                                                                                    Page 19 of 43
+
+       The World Bank
+
+       Building Resilient and Responsive Health Systems (P179698)
+
+
+
+
+
+
+
+38.    The project is consistent with the adaptation and mitigation goals of the Paris Agreement, Kenya’s NDC
+
+(updated 2020) and is consistent with Kenya’s country climate policies. Details on the project activities are in Annex 2.
+
+
+
+39.      Adaptation goal and risk reduction measures. The main identified climate-related hazards which are anticipated
+
+to pose risk to project activities include floods, high heat, landslides, and coastal storms. To reduce the risk of climate-
+
+related shocks to the project activities, adaptation measures are integrated within each activity. Under Sub-component
+
+1.1, the project will support KEMSA to procure buffer stocks of HPTs to ensure timely availability of HPTs and improved
+
+uptake of health services at the primary care level. To reduce the risk of floods and extreme heat to the buffer stocks,
+
+climate-sensitive planning for distribution of HPTs will be supported under the project. Under Sub-component 1.3, climate
+
+sensitive planning for surveys will be used and questions on climate and health impacts will be included in the survey to
+
+generate relevant data to inform decision making. To reduce the risk of climate shocks to health service delivery in Sub-
+
+component 2.1, 2.2, and 2.3 the MoH will prepare a national climate emergency preparedness and response plan which
+
+will inform county level actions depending on their locations and anticipated disaster risks. Building rehabilitation under
+
+Sub-component 2.3 will include climate resiliency measures to prevent damage from climate shocks.
+
+
+
+40.       Mitigation goal and risk reduction measures. Most activities in the project are on the universally aligned list for
+
+climate change mitigation. Minor rehabilitation activities under Sub-component 2.3 will ensure at least 20.0 percent more
+
+energy efficiency than standard practice, aligning with the Excellence in Design for Building Efficiencies (EDGE) level 1
+
+building criteria. Sub-component 2.3, will also finance the purchase and installation of solar panels for sustainable health
+
+facility electrification, where applicable.
+
+
+
+ B. Fiduciary
+
+
+
+     (i) Financial Management
+
+41.      A Financial Management (FM) assessment has been carried out for the project in accordance with the World
+
+Bank Policy and directives on Investment Project Financing (IPF). The assessment was carried out on MoH, KEMSA and
+
+selected counties during project preparation. Based on the assessment conducted, the FM risk of the project is rated
+
+Substantial. The implementing entities have adequate experience in managing World Bank financed operations and have
+
+complied with key FM deliverables. However, the following key risks are identified: (a) irregularities noted in procurement
+
+process for health commodities leading to ineligible expenditures; (b) issues on long-outstanding imprests; (c) inaccuracies
+
+on financial reporting due to use of manual system for financial reporting at the MoH; (d) inadequate budget allocations
+
+which has been hindering implementation of activities; and (e) weak financial management in some counties - among
+
+them delays in transfers of funds from the county revenue fund account to a dedicated special purpose account for health,
+
+commingling of funds at some counties, frequent transfers of staff without adequate handover leading to disruptions of
+
+financial reporting for the project, long-outstanding imprests, and errors in financial reports.
+
+
+
+42.      Mitigation measures have been incorporated in the project. The project will inherit various strengths of the
+
+country’s public financial management system and the experience gained in the implementation of the other World Bank
+
+financed projects. The following measures have been incorporated: (a) the Office of the Auditor General will provide
+
+oversight of project resources and conduct the role of an independent integrated fiduciary review agent; (b) the Chief
+
+Finance Officer, MoH will liaise with the PMT to ensure adequate budget allocation; (c) the World Bank will organize a
+
+training to sensitize PMT staff on World Bank FM requirements. The internal audit at MoH will provide regular reviews
+
+and recommendations for continued strengthening of internal controls at national and county levels; (d) all implementing
+
+entities under MoH will be required to sign memorandums of understanding clearly highlighting the requirements for a
+
+
+
+                                                                                                                Page 20 of 43
+
+       The World Bank
+
+       Building Resilient and Responsive Health Systems (P179698)
+
+
+
+
+
+separate bank account, financial reporting, and other financial management requirements; and (e) preparation of a POM
+
+with a detailed FM section to address FM aspects of the proposed project. These mitigation measures will provide
+
+reasonable assurance that the project resources will be used for the intended purposes.
+
+
+
+     (ii) Procurement
+
+43.      Procurement Regulations: Procurement activities under the project will be carried out in accordance with “The
+
+World Bank’s Procurement Regulations for IPF Borrowers, First published July 2016 and revised Fifth Edition September
+
+2023”, hereafter referred to as “Procurement Regulations”; the World Bank’s “Guidelines on Preventing and Combating
+
+Fraud and Corruption in Projects Financed by IBRD Loans and IDA Credits and Grants (revised as of July 1, 2016) and other
+
+provisions to be stipulated in the project’s Legal Agreement with the Borrower.”
+
+
+
+44.    A Project Procurement Strategy for Development (PPSD) has been prepared by the Borrower to support the
+
+implementation and achievement of development objectives of the project and deliver Value for Money. The PPSD will
+
+form the basis for preparation of the Procurement Plan (PP), providing justification for procurement decisions including
+
+the selection methods and market approaches. The PP has been prepared for the first 18 months of project
+
+implementation and will be updated at least annually, or as required, to reflect the actual project implementation needs.
+
+
+
+45.    Systematic Tracking of Exchanges in Procurement (STEP): The project will use STEP, the World Bank’s online
+
+procurement planning and tracking tool to record all procurement actions including planning, updating, and clearing PP
+
+and seeking and receiving World Bank’s review and No Objection to procurement actions as needed and establish
+
+benchmarks, monitor delays, and measure procurement performance.
+
+
+
+46.     Profile of Procurement Activities: The key procurements of the project comprise of (a) Goods: purchase of buffer
+
+HPTs stock in KEMSA; Procurement and distribution of HPTs; (b) Non-consulting services: Upgrade of ERP system at
+
+KEMSA; (c) Works: Renovation of works under Component 2.3; and (d) Consulting Services: institutional reforms, key
+
+health surveys; project monitoring and evaluation activities; environmental and social safeguards related activities;
+
+fiduciary management, contracting of staff on a need basis; technical assistance etc.
+
+
+
+47.     National Procurement Procedures: The country’s own procurement procedures may be used when approaching
+
+the national market as agreed in the procurement plan. When the Borrower uses its own national open competitive
+
+procurement procedures as set forth in the Public Procurement and Asset Disposal Act 2015 (revised Edition 2022) and
+
+the attendant Regulations 2020 such arrangements shall be subject to the provisions of paragraph 5.3-5.6 of the
+
+Procurement Regulations. The other national procurement arrangements (other than national open competitive
+
+procurement), that may be applied by the Borrower shall be required to be consistent with the requirements set out in
+
+paragraphs 5.3 and 5.4 d as appropriate of the Procurement Regulations.
+
+
+
+48.     Institutional Arrangements for Procurement: The MoH will be the implementing agency responsible for
+
+procurement activities at the national level, while KEMSA will be responsible for procurement and distribution of HPTs to
+
+primary care facilities. Counties will also conduct procurement on a need-by-need basis under Sub-components 2.2 and
+
+2.3, based on their AWPs. All entities have gained significant experience in implementing World Bank-financed projects.
+
+The MoH and the 47 counties implemented a Bank-financed THS-UCP using Procurement Guidelines in the period 2016-
+
+2023. Furthermore, the MoH and KEMSA have been implementing the World Bank-financed COVID-19 Health Emergency
+
+Response Project (CHERP, P173820) since 2020 using Procurement Regulations. Implementation of these Bank-financed
+
+operations have enhanced and continue to strengthen the agencies’ institutional procurement capacities in implementing
+
+
+
+
+
+                                                                                                            Page 21 of 43
+
+       The World Bank
+
+       Building Resilient and Responsive Health Systems (P179698)
+
+
+
+
+
+World Bank-financed projects. The procurement decision making process will utilize the internal institutional structures
+
+of the MoH, KEMSA and the counties.
+
+
+
+49.     Procurement Capacity Assessment: The MoH’s, KEMSA’s and counties’ procurement capacities to implement the
+
+project have been assessed and confirmed at project appraisal stage to be reasonably adequate to implement the
+
+envisaged project procurements. The MoH, KEMSA and counties have previous institutional experiences in implementing
+
+World Bank-financed projects. The MoH and KEMSA have qualified procurement staff who have experience in the
+
+application of the Bank’s Procurement Regulations. Subject to addressing the key risks identified in the next paragraph,
+
+the MoH, KEMSA and counties are assessed to have reasonably adequate capacity to execute the envisaged profile of
+
+procurements under the project.
+
+
+
+50.      Procurement Risk Assessment and Management: Based on the current assessment conducted for this Project
+
+the MoH, KEMSA and counties as the implementing agencies, the overall residual procurement risk rating is “Substantial”.
+
+The procurement risk rating for THS-UCP and CHERP is “Substantial”. The risk ratings have been reviewed and confirmed
+
+at project appraisal stage. The assessment applied the five risk factors of the Procurement Risk Assessment and
+
+Management System Risk Framework that may affect the overall project implementation. The key risks identified include
+
+the frequent transfers of procurement staff, inadequate number of experienced procurement staff assigned to the project
+
+procurement activities, inadequate capacity and delays in preparation of project procurement requirements and readiness
+
+activities, lengthy administrative processes in evaluation of proposals/bids and contract awards, insufficient preparation
+
+of procurement records and delayed upload of records in STEP, inadequate inspection, testing and acceptance procedures
+
+and limited contract management capacity. To mitigate the identified risks, the MoH, KEMSA, and counties will deploy
+
+additional qualified and experienced procurement and relevant technical staff to enhance procurement capacity and
+
+retain them for the project period, provide focused training on procurement and contract management and streamline
+
+their internal procurement processes to minimize procurement delays. The World Bank will provide regular and targeted
+
+capacity building on procurement and contract management to MoH and other implementing agencies and monitor the
+
+performance of fiduciary systems for smooth project implementation.
+
+
+
+51.      Record Keeping and Asset Management: All records pertaining to the procurement and contract management
+
+activities including contract monitoring and payment records and contract completion will be retained by the
+
+implementing agencies in procurement files for each procurable activity in accordance with requirements of the financing
+
+agreement and uploaded in the STEP system on a timely basis. The MoH will also ensure that all inventory, stores, and
+
+assets procured are received by respective beneficiary counties, taken on charge, and used by the counties for intended
+
+purposes.
+
+
+
+ C. Legal Operational Policies
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@padlegalpolicy#doctemplate
+
+ Legal Operational Policies                                                          Triggered?
+
+ Projects on International Waterways OP 7.50                                         No
+
+ Projects in Disputed Area OP 7.60                                                   No
+
+
+
+
+
+
+
+
+
+                                                                                                             Page 22 of 43
+
+         The World Bank
+
+         Building Resilient and Responsive Health Systems (P179698)
+
+
+
+
+
+ D. Environmental and Social
+
+
+
+
+
+52.     The project’s Environmental and Social (E&S) Risk has been classified as Moderate. The project has a national
+
+scope where Component 1 and Sub-component 2.1 are being implemented across all 47 counties in Kenya while Sub-
+
+component 2.2 (improving delivery of quality primary care services in selected counties) will be executed in selected
+
+counties. The project also targets refugees and refugee host communities in Turkana and Garissa counties (sub-
+
+component 2.3).
+
+
+
+53.     The project’s key environmental and social risks and impacts based on the World Bank’s Environmental and Social
+
+Due Diligence (ESSD) which is detailed in the Appraisal Environmental and Social Review Summary (A-ESRS) include: (a)
+
+occupational health and safety risks; (b) air, soil and water pollution from solid, liquid and hazardous waste; (c) increased
+
+generation of medical waste; (d) exclusion of other vulnerable groups such as indigenous people meeting the criteria in
+
+Environmental and Social Safeguards (ESS7), persons with disability, and women from project benefits under Component
+
+1 and 2; (e) sexual exploitation and abuse/sexual harassments (SEA/SH) which is rated Moderate; (f) community health
+
+and safety risks such as the transmission of communicable diseases, including HIV/AIDS and COVID-19, due to interactions
+
+among project workers and between the project workforce and local communities despite low risk due to minimal civil
+
+works in the project; (g) security related risks associated with counties in the north and northeastern part of the country
+
+that may affect project personnel associated with implementation of project; and (h) improvement in access to healthcare
+
+to the project host population’s, vulnerable and marginalized groups including refugees and host communities.
+
+
+
+54.      The ESS relevant to the Project are ESS 1,2,3,4,6,7 and 10. Based on the E&S risks and the relevant standards, the
+
+project has prepared and consulted on the following framework documents between October 26 to 30, 2023: (a)
+
+Environmental and Social Management Framework (ESMF); (b) Medical Waste Management Plan (MWMP); (c)
+
+Stakeholder Engagement Plan (SEP); (d) Labor Management Procedures (LMP); (e) Vulnerable Groups Planning Framework
+
+(VGPF); and (f) Environmental and Social Commitment Plan (ESCP). The project has also prepared a Grievance Redress
+
+Mechanism (GRM) as part of the SEP to be adopted and implemented under each of the sub-project activities. The ESS
+
+standard documents have been disclosed in-country on December 5, 2023, and the World Bank’s website on December
+
+6, 2023.
+
+
+
+55.       Citizen Engagement. The project will ensure citizen engagement 28 in the design and implementation of the
+
+project. A SEP was prepared as part of project preparation. Under the Project, stakeholders including healthcare providers
+
+for level 1-3 facilities, the refugees, and refugee host communities will be engaged through the guidelines prescribed in
+
+the project’s Stakeholder Engagement Plan (SEP). The project will leverage the GRM developed under the CHERP and THS-
+
+UCP to collect community complaints about all project-related services, following guidelines in the SEP and involve DRS in
+
+host community and refugee areas to ensure the applicable GRM is practical and can effectively mitigate any conflicts
+
+among refugees and between refugees and host communities. Community health units (CHUs) will also be encouraged to
+
+sensitize their catchment area on the different avenues to channel complaints and engagement with refugee community
+
+health workers in Dadaab and Kakuma/Kalobeyei will also be supported. In addition, under Component 1, the project will
+
+support the development of an accountability dashboard as part KEMSA support. This will give the community more
+
+visibility on the HPTs procurement and distribution processes.
+
+
+
+
+
+
+
+
+
+ Citizen engagement (CE) here means a two way-interaction between the state and stakeholders that gives stakeholders a stake in decision
+
+28
+
+
+
+making with the objective of improving development outcomes.
+
+
+
+                                                                                                                                Page 23 of 43
+
+        The World Bank
+
+        Building Resilient and Responsive Health Systems (P179698)
+
+
+
+
+
+56.      Gender. A gender gap analysis has identified disparity in access to ANC services in a subset of counties, which can
+
+lead to disproportionate health outcomes for mothers and newborns. This is largely due to demand side barriers, including
+
+limited awareness of the availability and benefits of attending ANC visits, as well as supply side barriers including stockouts
+
+of essential health products and technologies and non-adherence to maternal health standards of care. The project will
+
+address this gender gap by: (a) encouraging counties to include ANC as a topic for all CHUs dialogue days with the
+
+community; and (b) supporting ANC service delivery described under Sub-component 2.2, and support for procurement
+
+and distribution of ANC related HPTs under Sub-component 2.1. A sub-indicator measuring the percentage of pregnant
+
+women attending four or more ANC visits in the selected counties where coverage has been lower is included in the results
+
+framework as a PDO level sub-indicator, to monitor how this gender gap will be closed.
+
+
+
+ V. GRIEVANCE REDRESS SERVICES
+
+
+
+
+
+ 57.     Grievance Redress. Communities and individuals who believe that they are adversely affected by a project
+
+ supported by the World Bank may submit complaints to existing project-level grievance mechanisms or the Bank’s
+
+ Grievance Redress Service (GRS). The GRS ensures that complaints received are promptly reviewed in order to address
+
+ project-related concerns. Project affected communities and individuals may submit their complaint to the Bank’s
+
+ independent Accountability Mechanism (AM). The AM houses the Inspection Panel, which determines whether harm
+
+ occurred, or could occur, as a result of Bank non-compliance with its policies and procedures, and the Dispute
+
+ Resolution Service, which provides communities and borrowers with the opportunity to address complaints through
+
+ dispute resolution. Complaints may be submitted to the AM at any time after concerns have been brought directly to
+
+ the attention of Bank Management and after Management has been given an opportunity to respond. For information
+
+ on how to submit complaints to the Bank’s Grievance Redress Service (GRS), visit http://www.worldbank.org/GRS. For
+
+ information on how to submit complaints to the Bank’s Accountability Mechanism, visit
+
+ https://accountability.worldbank.org.
+
+
+
+
+
+ VI. KEY RISKS
+
+
+
+58.      The overall risk rating for the project is Moderate. The risk areas rated Substantial include macroeconomics,
+
+fiduciary, and others (refugee protection). While the project involves many implementing entities, the potential risks will
+
+be mitigated by strengthening coordination through the Council of Governors, rationalizing the distribution of HPTs,
+
+limiting project activities to a “positive list of interventions” in the majority of the counties, and providing technical
+
+assistance and fiduciary support to the 10 selected counties, including the two counties that host refugees. Furthermore,
+
+the project will work in close collaboration with UNHCR and other implementing agencies providing services to the refugee
+
+population.
+
+
+
+59.     Macroeconomics risk is rated Substantial. Although Kenya’s medium-term economic prospects remain optimistic,
+
+the ongoing shocks, including prolonged drought, continued turbulence in the global economy and rising inflation and
+
+associated increases in the prices of commodities are creating challenges for Kenya to sustain economic recovery. So far,
+
+the macroeconomic risks have not had an adverse impact on the financing of the sector; however, the possible impacts
+
+on project implementation will be regularly monitored and discussed with the Government. Recently, the Government
+
+passed new health financing laws with the potential to impact the project. The Primary Health Care, Facility Improvement
+
+Financing and Social Health Insurance Acts of 2023 will establish several funds to be managed by the SHA, while giving
+
+public health facilities greater financial autonomy. The transition will include making health insurance mandatory,
+
+increasing contribution rates to 2.75 percent for those in the formal sector, introducing income rated contributions for
+
+                                                                                                                  Page 24 of 43
+
+       The World Bank
+
+       Building Resilient and Responsive Health Systems (P179698)
+
+
+
+
+
+the informal sector, changes in the benefit package, claims management processes and provider payment systems, among
+
+others. The transition process from the NHIF to SHIF, if not carefully implemented, poses a risk that may affect overall
+
+health system performance. The project is designed to support the Government to implement some of the new reforms,
+
+which will help mitigate the potential risks. To mitigate risks associated with flooding, KEMSA will develop and use a risk
+
+calendar in the distribution of HPTs.
+
+
+
+60.     Fiduciary risk is rated Substantial. Based on an assessment carried out on MoH, KEMSA and selected counties,
+
+the FM risk of the project is rated “Substantial”. The implementing entities have adequate experience in managing World
+
+Bank financed operations and have complied with key FM deliverables. However, the following key risks are identified: (a)
+
+irregularities noted in procurement process for health commodities leading to ineligible expenditures; (b) issues on long-
+
+outstanding imprests; (c) inaccuracies on financial reporting due to use of manual system for financial reporting at the
+
+MoH; (d) inadequate budget allocations which has been hindering implementation of activities; and (e) weak financial
+
+management in some counties. FM risk mitigation measures are described in paragraph 42. The overall residual
+
+procurement risk rating is “Substantial”. The key risks identified include the frequent transfers of procurement staff,
+
+inadequate number of experienced procurement staff assigned to the project procurement activities, inadequate capacity
+
+and delays in preparation of project procurement requirements and readiness activities, lengthy administrative processes
+
+in evaluation of proposals/bids and contract awards, insufficient preparation of procurement records and delayed upload
+
+of records in STEP, inadequate inspection, testing and acceptance procedures and limited contract management capacity.
+
+Procurement risk mitigation measures are described in paragraph 50.
+
+
+
+61.      Other risks, defined here as refugee protection, are rated Substantial. While offering a range of benefits to
+
+refugee protection in Kenya, there are a range of resourcing, operational, policy and context specific challenges in the
+
+implementation of the Refugee Act 2021 that could be addressed to ensure full compliance with the relevant provisions
+
+of the 1951 Refugee Convention. There are protection risks regarding: delays and a backlog in the processing of refugee
+
+status determinations, the freedom of movement and residence, as well as a lack of simplified access to work permits and
+
+documentation. Security challenges and social cohesion risks linked to equitably accessing health services present a
+
+substantial risk across refugees and host community members. These risks will be managed through policy dialogue with
+
+Government led by the DRS, and joint engagement with relevant agencies such as UNHCR and other stakeholders
+
+supporting the development of the Shirika Plan and the development of the Refugee Regulations. In addition, the World
+
+Bank, in collaboration with the DRS and UNHCR, will undertake periodic reviews of Kenya’s refugee protection, policy and
+
+institutional environment under its Refugee Policy Review Framework.
+
+
+
+
+
+
+
+
+
+                                                                                                              Page 25 of 43
+
+               The World Bank
+
+               Building Resilient and Responsive Health Systems(P179698)
+
+
+
+
+
+
+
+                                                                     VII. RESULTS FRAMEWORK AND MONITORING
+
+
+
+
+
+
+
+   @#&OPS~Doctype~OPS^dynamics@padannexresultframework#doctemplate
+
+   PDO Indicators by PDO Outcomes
+
+
+
+       Baseline                                                  Period 1                                                     Closing Period
+
+                                                                  Improve utilization of quality primary health care services
+
+       Percentage of women receiving postnatal care within 48 hours (Percentage)
+
+       Oct/2023                                                  Jun/2027                                                     Jun/2029
+
+       57.3                                                      61                                                           65
+
+         Percentage of women receiving postnatal care within 48 hours in the 10 selected counties (Percentage)
+
+       56.6                                                      60                                                           65
+
+         Percentage of host community women receiving postnatal care within 48 hours in Garissa and Turkana (Percentage)
+
+       57.3                                                      61                                                           65
+
+         Percentage of refugee women receiving postnatal care within 48 hours in Garissa and Turkana (Percentage)
+
+       83.5                                                      84.5                                                         86
+
+       Percentage of children immunized with three doses of Pentavalent vaccine (Percentage)
+
+       Oct/2023                                                  Jun/2027                                                     Jun/2029
+
+       77.2                                                      81                                                           85
+
+         Percentage of children immunized with three doses of the Pentavalent vaccine in the 10 selected counties (Percentage)
+
+       76                                                        79                                                           82
+
+                                                                      To improve quality of primary health care services
+
+       Percentage of pregnant women attending 4 or more ANC visits (Percentage)
+
+       Oct/2023                                                  Jun/2027                                                     Jun/2029
+
+       50.1                                                      53                                                           56
+
+         Percentage of pregnant women attending 4 or more ANC visits in the 10 selected counties (Percentage)
+
+       42.7                                                      46                                                           50
+
+         Percentage of host community pregnant women attending 4 or more ANC visits in Garissa and Turkana (Percentage)
+
+       51.6                                                      53.5                                                         56
+
+         Percentage of refugee pregnant women attending 4 or more ANC visits in Garissa and Turkana (Percentage)
+
+       80                                                        83                                                           86
+
+
+
+
+
+
+
+Feb 21, 2024                                                                                                                                   Page 26 of 43
+
+               The World Bank
+
+               Building Resilient and Responsive Health Systems(P179698)
+
+
+
+
+
+       Proportion of Children Under 5 with diarrhea treated with Zinc/ORS Co-Pack (Percentage)
+
+       Oct/2023                                                      Jun/2027                                                     Jun/2029
+
+       57.7                                                          64                                                           70
+
+         Proportion of Children Under 5 with diarrhea treated with Zinc/ORS Co-Pack in the 10 selected counties (Percentage)
+
+       48.8                                                          54                                                           60
+
+                                                                        To strengthen institutional capacity for service delivery
+
+       Order fill rate for priority health products and technologies (HPTs) (Percentage)
+
+       Oct/2023                                                      Jun/2027                                                     Jun/2029
+
+       43                                                            66                                                           90
+
+       Order turnaround time (Days)
+
+       Oct/2023                                                      Jun/2027                                                     Jun/2029
+
+       13                                                            12                                                           10
+
+
+
+
+
+   Intermediate Indicators by Components
+
+
+
+       Baseline                                                   Period 1                                                      Closing Period
+
+                                                      Strengthening institutional capacity for health service delivery towards achieving UHC
+
+       Number of functional ERP modules (Number)
+
+       Oct/2023                                                    Jun/2027                                                     Jun/2029
+
+       0                                                           35                                                           71
+
+       Number of surveys completed (Number)
+
+       Oct/2023                                                    Jun/2027                                                     Jun/2029
+
+       0                                                           1                                                            2
+
+       Health insurance benefits package developed (Yes/No)
+
+       Oct/2023                                                    Jun/2027                                                      Jun/2029
+
+       No                                                          No                                                            Yes
+
+                                                               Improving utilization of quality health services at primary care level
+
+       Proportion of functional community health units (CHUs) (Percentage)
+
+       Oct/2023                                                    Jun/2027                                                      Jun/2029
+
+       75                                                          82                                                            90
+
+       Percentage of quarterly priority HPTs orders placed within the required timeframe (Percentage)
+
+       Oct/2023                                                    Jun/2027                                                      Jun/2029
+
+       0                                                           50                                                            100
+
+       People who have received essential health, nutrition, and population (HNP) services (Number) CRI
+
+
+
+
+
+Feb 21, 2024                                                                                                                                     Page 27 of 43
+
+               The World Bank
+
+               Building Resilient and Responsive Health Systems(P179698)
+
+
+
+
+
+       Oct/2023                                                  Jun/2027                                                    Jun/2029
+
+       0                                                         4500000                                                     9000000
+
+         Number of children immunized (Number)     CRI
+
+
+
+       Oct/2023                                                  Jun/2027                                                    Jun/2029
+
+       0                                                         2000000                                                     4000000
+
+         Number of deliveries attended by skilled health personnel (Number) CRI
+
+       Oct/2023                                                  Jun/2027                                                    Jun/2029
+
+       0                                                         2500000                                                     5000000
+
+       Number of community enrolled health nurses trained in Garissa and Turkana (Number)
+
+       Oct/2023                                                  Jun/2027                                                    Jun/2029
+
+       0                                                         50                                                          100
+
+       Number of refugee health facilities supported under the project, as part of the transition to county management, in Garissa and Turkana (Number)
+
+       Oct/2023                                                  Jun/2027                                                    Jun/2029
+
+       0                                                         10                                                          20
+
+       People in Garissa and Turkana who have received essential health, nutrition, and population (HNP) services (Number)
+
+       Oct/2023                                                  Jun/2027                                                    Jun/2029
+
+       0                                                         158000                                                      316000
+
+         Number of children immunized among the host community in Garissa and Turkana (Number)
+
+       Oct/2023                                                  Jun/2027                                                    Jun/2029
+
+       0                                                         42000                                                       84000
+
+         Number of children immunized among refugees in Garissa and Turkana (Number)
+
+       Oct/2023                                                  Jun/2027                                                    Jun/2029
+
+       0                                                         18000                                                       36000
+
+         Number of deliveries attended by skilled health personnel among the host community in Garissa and Turkana (Number)
+
+       Oct/2023                                                  Jun/2027                                                    Jun/2029
+
+       0                                                         68600                                                       137200
+
+         Number of deliveries attended by skilled health personnel among refugees in Garissa and Turkana (Number)
+
+       Oct/2023                                                  Jun/2027                                                    Jun/2029
+
+       0                                                         29400                                                       58800
+
+                                                                              Project management and evaluation
+
+       Percentage of complaints in the GRM satisfactorily addressed within 4 weeks of initial complaint being recorded (Percentage)
+
+       Oct/2023                                                  Jun/2027                                                    Jun/2029
+
+       0                                                         40                                                          80
+
+       A vulnerable and marginalized group plan is developed and disseminated (Yes/No)
+
+
+
+
+
+Feb 21, 2024                                                                                                                                              Page 28 of 43
+
+               The World Bank
+
+               Building Resilient and Responsive Health Systems(P179698)
+
+
+
+
+
+       Oct/2023                                                    Jun/2027                                                     Jun/2029
+
+       No                                                          No                                                           Yes
+
+       Percentage of transfers of project funds to the CRF that occur within 7 business days after the project funds are transferred into the MoH Development Account (Percentage)
+
+       Mar/2024                                                    Jun/2027                                                     Jun/2029
+
+       0                                                           50                                                           100
+
+
+
+
+
+
+
+
+
+Feb 21, 2024                                                                                                                                                                 Page 29 of 43
+
+           The World Bank
+
+           Building Resilient and Responsive Health Systems (P179698)
+
+
+
+
+
+
+
+   Monitoring & Evaluation Plan: PDO Indicators by PDO Outcomes
+
+
+
+   Outcome 1: Improve utilization of quality primary health care services
+
+   Percentage of women receiving postnatal care within 48 hours (Percentage)
+
+                            Numerator: Number of women receiving postnatal care after delivery within 48 hours.
+
+   Description
+
+                            Denominator: Total number of expected live births during the reporting period
+
+   Frequency                 Every six months
+
+   Data source               KHIS
+
+   Methodology for Data
+
+                             Routine Health Management Information System (HMIS) data collection
+
+   Collection
+
+   Responsibility for Data
+
+                             MoH
+
+   Collection
+
+   Percentage of women receiving postnatal care within 48 hours in the 10 selected counties (Percentage)
+
+                            Numerator: Number of women, in the 10 selected counties, receiving postnatal care after delivery within 48 hours.
+
+   Description
+
+                            Denominator: Total number of expected live births, in the 10 selected counties, during the reporting period
+
+   Frequency                 Every six months
+
+   Data source               KHIS
+
+   Methodology for Data
+
+                             Routine HMIS data collection
+
+   Collection
+
+   Responsibility for Data
+
+                             MoH
+
+   Collection
+
+   Percentage of host community women receiving postnatal care within 48 hours in Garissa and Turkana (Percentage)
+
+                            Numerator: Number of host community women in Garissa and Turkana, receiving postnatal care after delivery within 48
+
+   Description              hours. Denominator: Total number of expected live births within the host commnunity of Garissa and Turkana, during
+
+                            the reporting period
+
+   Frequency                 Every six months
+
+   Data source               KHIS
+
+   Methodology for Data
+
+                             Routine HMIS data collection
+
+   Collection
+
+   Responsibility for Data
+
+                             MoH
+
+   Collection
+
+   Percentage of refugee women receiving postnatal care within 48 hours in Garissa and Turkana (Percentage)
+
+                            Numerator: Number of refugee women in Garissa and Turkana, receiving postnatal care after delivery within 48 hours.
+
+   Description              Denominator: Total number of expected live births within the refugee community in Garissa and Turkana, during the
+
+                            reporting period
+
+   Frequency                Every six months
+
+   Data source              UNHCR reports
+
+   Methodology for Data
+
+                            Routine UNHCR data collection
+
+   Collection
+
+   Responsibility for Data
+
+                            MoH
+
+   Collection
+
+   Percentage of children immunized with three doses of Pentavalent vaccine (Percentage)
+
+                            Numerator: Number of children under 1 year who have received three doses of the Pentavalent vaccine
+
+   Description
+
+                            Denominator: Total number of surviving children under 1 year
+
+   Frequency                 Every six months
+
+   Data source               KHIS
+
+   Methodology for Data
+
+                             Routine HMIS data collection
+
+   Collection
+
+   Responsibility for Data   MoH
+
+
+
+
+
+Feb 21, 2024                                                                                                                      Page 30 of 43
+
+           The World Bank
+
+           Building Resilient and Responsive Health Systems (P179698)
+
+
+
+
+
+   Collection
+
+   Percentage of children immunized with three doses of Pentavalent vaccine in the 10 selected counties (Percentage)
+
+                            Numerator: Number of children under 1 year who have received three doses of the Pentavalent vaccine in the 10
+
+   Description
+
+                            selected counties. Denominator: Total number of surviving children under 1 year in the 10 selected counties.
+
+   Frequency                 Every six months
+
+   Data source               KHIS
+
+   Methodology for Data
+
+                             Routine HMIS data collection
+
+   Collection
+
+   Responsibility for Data
+
+                             MoH
+
+   Collection
+
+   Outcome 2: To improve quality of primary health care services
+
+   Percentage of pregnant women attending 4 or more ANC visits (Percentage)
+
+                            Numerator: Number of women attending 4 or more ANC visits.
+
+   Description
+
+                            Denominator: Total number of expected live births during the reporting period.
+
+   Frequency                 Every six months
+
+   Data source               KHIS
+
+   Methodology for Data
+
+                             Routine HMIS data collection
+
+   Collection
+
+   Responsibility for Data
+
+                             MoH
+
+   Collection
+
+   Percentage of pregnant women attending 4 or more ANC visits in the 10 selected counties (Percentage)
+
+                            Numerator: Number of women attending 4 or more ANC visits in the 10 selected counties.
+
+   Description
+
+                            Denominator: Total number of expected live births during the reporting period in the 10 selected counties.
+
+   Frequency                 Every six months
+
+   Data source               KHIS
+
+   Methodology for Data
+
+                             Routine HMIS data collection
+
+   Collection
+
+   Responsibility for Data
+
+                             MoH
+
+   Collection
+
+   Percentage of host community pregnant women attending 4 or more ANC visits in Garissa and Turkana (Percentage)
+
+                            Numerator: Number of pregnant women within the host cummunity of Garissa and Turkana attending 4 or more ANC
+
+   Description              visits. Denominator: Total number of expected live births during the reporting period within the host community of
+
+                            Garissa and Turkana
+
+   Frequency                 Every six months
+
+   Data source               KHIS
+
+   Methodology for Data
+
+                             Routine HMIS data collection
+
+   Collection
+
+   Responsibility for Data
+
+                             MoH
+
+   Collection
+
+   Percentage of refugee pregnant women attending 4 or more ANC visits in Garissa and Turkana (Percentage)
+
+                            Numerator: Number of refugee pregnant women attending 4 or more ANC visits.
+
+   Description              Denominator: Total number of expected live births during the reporting period within the refugee community of Garissa
+
+                            and Turkana
+
+   Frequency                Every six months
+
+   Data source              UNHCR reports
+
+   Methodology for Data
+
+                            Routine UNHCR data collection
+
+   Collection
+
+   Responsibility for Data
+
+                            MoH
+
+   Collection
+
+   Proportion of Children Under 5 with diarrhea treated with Zinc/ORS Co-Pack (Percentage)
+
+
+
+
+
+
+
+Feb 21, 2024                                                                                                                       Page 31 of 43
+
+           The World Bank
+
+           Building Resilient and Responsive Health Systems (P179698)
+
+
+
+
+
+                              Numerator: Total number of children receiving Zinc/ORS co-pack
+
+   Description
+
+                              Denominator: Total number of children under 5 years with diarrhea
+
+   Frequency                  Every six months
+
+   Data source                KHIS
+
+   Methodology for Data
+
+                                 Routine HMIS data collection
+
+   Collection
+
+   Responsibility for Data
+
+                                 MoH
+
+   Collection
+
+   Proportion of Children Under 5 with diarrhea treated with Zinc/ORS Co-Pack in the 10 selected counties (Percentage)
+
+                                Numerator: Total number of children receiving Zinc/ORS co-pack in the 10 selected counties.
+
+   Description
+
+                                Denominator: Total number of children under 5 years with diarrhea in the 10 selected counties.
+
+   Frequency                     Every six months
+
+   Data source                   KHIS
+
+   Methodology for Data
+
+                                 Routine HMIS data collection
+
+   Collection
+
+   Responsibility for Data
+
+                                 MoH
+
+   Collection
+
+   Outcome 3: To strengthen institutional capacity for service delivery
+
+   Order fill rate for priority health products and technologies (HPTs) (Percentage)
+
+   Description                  Percentage of orders fulfilled as per agreed requirements for priority health products and technologies (HPTs).
+
+   Frequency                     Every six months
+
+   Data source                   ERP
+
+   Methodology for Data
+
+                                 Routine ERP data
+
+   Collection
+
+   Responsibility for Data
+
+                                 KEMSA, MoH
+
+   Collection
+
+   Order turnaround time (Days)
+
+                                Average number of days taken to process and deliver to the last mile, priority health products and technologies (HPTs)
+
+   Description
+
+                                orders from the date the order is placed.
+
+   Frequency                     Every six months
+
+   Data source                   ERP
+
+   Methodology for Data
+
+                                 Routine ERP data
+
+   Collection
+
+   Responsibility for Data
+
+                                 KEMSA, MoH
+
+   Collection
+
+
+
+
+
+   Monitoring & Evaluation Plan: Intermediate Results Indicators by Components
+
+   Strengthening institutional capacity for health service delivery towards achieving UHC
+
+   Number of functional ERP modules (Number)
+
+   Description               Total number of functional modules in the new KEMSA ERP system.
+
+   Frequency                 Every six months
+
+   Data source               Project report
+
+   Methodology for Data
+
+                             Project monitoring
+
+   Collection
+
+   Responsibility for Data
+
+                             KEMSA, MoH
+
+   Collection
+
+   Number of surveys completed (Number)
+
+   Description               Total number of surveys completed with support from the project.
+
+   Frequency                 Every six months
+
+
+
+
+
+Feb 21, 2024                                                                                                                              Page 32 of 43
+
+           The World Bank
+
+           Building Resilient and Responsive Health Systems (P179698)
+
+
+
+
+
+   Data source                Project report
+
+   Methodology for Data
+
+                              Project monitoring
+
+   Collection
+
+   Responsibility for Data
+
+                              MoH
+
+   Collection
+
+   Health insurance benefits package developed (Yes/No)
+
+   Description                A health insurance benefits package is developed, rationalized, and disseminated.
+
+   Frequency                  Every six months
+
+   Data source                Routine ERP data
+
+   Methodology for Data
+
+                              ERP
+
+   Collection
+
+   Responsibility for Data
+
+                              KEMSA, MoH
+
+   Collection
+
+   Improving utilization of quality health services at primary care level
+
+   Proportion of functional community health units (CHUs) (Percentage)
+
+                              Numerator: Number of CHUs scoring at least 80% on the CHU assessment. Denominator: Total number of existing CHUs.
+
+   Description                Comment: At appraisal, the total number of functional CHUs was 7,780 and the total number of existing CHUs
+
+                              (functional, non-functional, and semi-functional) was 10,382.
+
+   Frequency                  Every six months
+
+   Data source                Project report
+
+   Methodology for Data
+
+                              Project monitoring
+
+   Collection
+
+   Responsibility for Data
+
+                              MoH
+
+   Collection
+
+   Percentage of quarterly priority HPTs orders placed within the required timeframe (Percentage)
+
+                              Percentage of quarterly priority HPTs orders placed by Counties within the required timeframe. The required timeframe
+
+   Description
+
+                              is by the 15th of the ordering month.
+
+   Frequency                  Every six months
+
+   Data source                Project report
+
+   Methodology for Data
+
+                              Project monitoring
+
+   Collection
+
+   Responsibility for Data
+
+                              KEMSA, MoH
+
+   Collection
+
+   People who have received essential health, nutrition, and population (HNP) services (Number) CRI
+
+   Description                Total number of deliveries attended by skilled health personnel and total number of children immunized.
+
+   Frequency                  Every six months
+
+   Data source                KHIS
+
+   Methodology for Data
+
+                              Routine HMIS data collection
+
+   Collection
+
+   Responsibility for Data
+
+                              MoH
+
+   Collection
+
+   Number of children immunized (Number) CRI
+
+   Description                Total number of children immunized.
+
+   Frequency                  Every six months
+
+   Data source                KHIS
+
+   Methodology for Data
+
+                              Routine HMIS data collection
+
+   Collection
+
+   Responsibility for Data
+
+                              MoH
+
+   Collection
+
+   Number of deliveries attended by skilled health personnel (Number) CRI
+
+
+
+
+
+Feb 21, 2024                                                                                                                         Page 33 of 43
+
+           The World Bank
+
+           Building Resilient and Responsive Health Systems (P179698)
+
+
+
+
+
+   Description               Total number of deliveries attended by skilled health personnel
+
+   Frequency                 Every six months
+
+   Data source               KHIS
+
+   Methodology for Data
+
+                             Routine HMIS data collection
+
+   Collection
+
+   Responsibility for Data
+
+                             MoH
+
+   Collection
+
+   Number of community enrolled health nurses trained in Garissa and Turkana (Number)
+
+   Description               Total number of community enrolled health nurses trained in Garissa and Turkana
+
+   Frequency                 Every six months
+
+   Data source               Project report
+
+   Methodology for Data
+
+                             Project monitoring
+
+   Collection
+
+   Responsibility for Data
+
+                             MoH
+
+   Collection
+
+   Number of refugee health facilities supported under the project, as part of the transition to county management, in Garissa and Turkana
+
+   (Number)
+
+                             Total number of refugee health facilities supported under the project, as part of the transition to county management, in
+
+   Description
+
+                             Garissa and Turkana (registration in the master facility list, provision of non-program HPTs from KEMSA, staffing).
+
+   Frequency                 Every six months
+
+   Data source               Project report
+
+   Methodology for Data
+
+                             Project monitoring
+
+   Collection
+
+   Responsibility for Data
+
+                             MoH
+
+   Collection
+
+   People in Garissa and Turkana who have received essential health, nutrition, and population (HNP) services (Number)
+
+                             Total number of deliveries attended by skilled health personnel and total number of children immunized among the host
+
+   Description
+
+                             community and refugees in Garissa and Turkana.
+
+   Frequency                 Every six months
+
+   Data source               KHIS
+
+   Methodology for Data
+
+                             Routine HMIS data collection
+
+   Collection
+
+   Responsibility for Data
+
+                             MoH
+
+   Collection
+
+   Number of children immunized among the host community in Garissa and Turkana (Number)
+
+   Description               Total number of children immunized among the host community in Garissa and Turkana.
+
+   Frequency                 Every six months
+
+   Data source               KHIS
+
+   Methodology for Data
+
+                             Routine HMIS data collection
+
+   Collection
+
+   Responsibility for Data
+
+                             MoH
+
+   Collection
+
+   Number of children immunized among refugees in Garissa and Turkana (Number)
+
+   Description               Total number of children immunized among refugees in Garissa and Turkana.
+
+   Frequency                 Every six months
+
+   Data source               UNHCR reports
+
+   Methodology for Data
+
+                             Routine UNHCR data collection
+
+   Collection
+
+   Responsibility for Data
+
+                             MoH
+
+   Collection
+
+
+
+
+
+Feb 21, 2024                                                                                                                           Page 34 of 43
+
+           The World Bank
+
+           Building Resilient and Responsive Health Systems (P179698)
+
+
+
+
+
+   Number of deliveries attended by skilled health personnel among the host community in Garissa and Turkana (Number)
+
+   Description               Total number of deliveries attended by skilled health personnel among the host community in Garissa and Turkana.
+
+   Frequency                 Every six months
+
+   Data source               KHIS
+
+   Methodology for Data
+
+                             Routine HMIS data collection
+
+   Collection
+
+   Responsibility for Data
+
+                             MoH
+
+   Collection
+
+   Number of deliveries attended by skilled health personnel among refugees in Garissa and Turkana (Number)
+
+   Description               Total number of deliveries attended by skilled health personnel among the refugees in Garissa and Turkana
+
+   Frequency                 Every six months
+
+   Data source               UNHCR reports
+
+   Methodology for Data
+
+                             Routine UNHCR data collection
+
+   Collection
+
+   Responsibility for Data
+
+                             PMT
+
+   Collection
+
+   Project management and evaluation
+
+   Percentage of complaints in the GRM satisfactorily addressed within 4 weeks of initial complaint being recorded (Percentage)
+
+                             Numerator: Number of complaints to the GRM satisfactorily addressed within 4 weeks of initial complaint being
+
+   Description
+
+                             recorded. Denominator: Total number of recorded complaints to the GRM.
+
+   Frequency                  Every 6 months
+
+   Data source                Project report
+
+   Methodology for Data
+
+                              Project monitoring
+
+   Collection
+
+   Responsibility for Data
+
+                              MoH
+
+   Collection
+
+   A vulnerable and marginalized group plan is developed and disseminated (Yes/No)
+
+   Description               A vulnerable and marginalized group plan is developed and disseminated
+
+   Frequency                 Every six months
+
+   Data source                Project report
+
+   Methodology for Data
+
+                              Project monitoring
+
+   Collection
+
+   Responsibility for Data
+
+                              MoH
+
+   Collection
+
+   Percentage of transfers of project funds to the CRF that occur within 7 business days after the project funds are transferred into the MoH
+
+   Development Account
+
+                             Numerator: Number of transfers of project funds to the CRF that occur within 7 business days after the project funds are
+
+                             transferred into the MoH Development Account
+
+   Description
+
+                             Denominator: Total number of transfers of project funds to the CRF that occur after the project funds are transferred
+
+                             into the MoH Development Account in a given year
+
+   Frequency                 Every six months
+
+   Data source                Project report
+
+   Methodology for Data
+
+                              Project monitoring
+
+   Collection
+
+   Responsibility for Data
+
+                              MoH
+
+   Collection
+
+
+
+
+
+
+
+
+
+Feb 21, 2024                                                                                                                          Page 35 of 43
+
+          The World Bank
+
+          Building Resilient and Responsive Health Systems (P179698)
+
+
+
+
+
+
+
+                                  ANNEX 1: Implementation Arrangements and Support Plan
+
+
+
+
+
+
+
+                                                 COUNTRY: Republic of Kenya
+
+                                       Building Resilient and Responsive Health Systems
+
+
+
+  Project institutional and implementation arrangements
+
+
+
+  1.       The implementation support plan for the project is based on the following considerations: (a) for Component
+
+  2, the annual planning, budgeting, implementation, and monitoring will follow county public financial management (PFM)
+
+  process and county Governments will be responsible for implementation with support from KEMSA for procurement and
+
+  delivery of HPTs to primary care facilities; (b) all activities under Component 1 will be implemented by the MoH and KEMSA
+
+  as part of their work program; (c) all implementing entities will put in place a management team to oversee project
+
+  implementation; (d) in refugee camps, implementation will be undertaken in close coordination with DRS and UNHCR;
+
+  and (e) the PMT will coordinate both the county and national level activities.
+
+
+
+
+
+  Financial Management
+
+
+
+  2.       Planning and Budgeting. The project budgeting will be done in accordance with existing Government procedures.
+
+  The budget shall be based on the Annual Work Plan and Budget (AWPB) developed by the MoH including activities to be
+
+  carried out by Counties and KEMSA. The project planning and budgetary process shall be implemented in accordance with
+
+  the standard Government fiscal year which begins on 1st July of each financial year as provided for by the Public Financial
+
+  Management Act 2012 and the Government Financial Regulations and Procedures. These will form the basis for defining
+
+  the project activities and ensuring that sufficient funds are allocated to achieve the agreed results. There are possible
+
+  challenges on inadequate budget allocations in the printed estimates at MoH which may delay implementation of project
+
+  activities. Coordination timing of the Government budgeting activities/calendar across the two project levels (National
+
+  and County) may be a challenge. The Chief Finance Officer at MoH will be tasked to liaise with the PMT to ensure there is
+
+  adequate budget provided.
+
+
+
+  3.      Accounting and Staffing. All implementing entities including the participating counties will be required to
+
+  designate project finance staff with adequate qualifications and experience to ensure project financial processes are well
+
+  coordinated, including preparations of financial reports for the project. The proposed staff will be reviewed and cleared
+
+  by the World Bank as an effectiveness condition. The MoH maintains projects’ books of account using the integrated
+
+  financial management information system (IFMIS) and manual ledgers. There will be comprehensive start-up workshop
+
+  where finance staff of the implementing entities will be sensitized on FM requirements for the project to build capacity
+
+  on managing the project. Additional training will be provided on a need basis during project implementation.
+
+
+
+  4.      Internal Control and Internal Audit. The project expenditure initiation, authorization and payments will be in line
+
+  with PFM Act 2012 and PFM regulations (2015) of Kenya as elaborated and customized in the FM manual. Project work
+
+  plans will be integrated into the internal audit work plans. Internal Audit reports covering project activities will be shared
+
+  with the World Bank on a semi-annual basis (i.e. 30 June and 31 December). Regular internal audit, implementation
+
+  support, monitoring and reporting will be undertaken. There have been material weaknesses on imprest management at
+
+  MoH regarding long outstanding imprest and multiple imprest contravening PFM regulations. The internal audit at MoH
+
+
+
+
+
+Feb 21, 2024                                                                                                         Page 36 of 43
+
+          The World Bank
+
+          Building Resilient and Responsive Health Systems (P179698)
+
+
+
+
+
+  will continue to provide this assurance and recommendations for continued strengthening of internal controls. The
+
+  Internal Audit Department reports to the Audit Committee of the MoH that is required to meet on a quarterly basis. The
+
+  audit committees are independent of the MoH and are appointed in accordance with the PFM Act 2012.
+
+
+
+
+
+  5.      Financial Reporting. The PMT Project Accountant will be responsible for preparation of financial reports for the
+
+  project. An interim unaudited Financial Report shall be prepared by the counties and submitted to the PMT by the 15th
+
+  day after the end of the quarter. The PMT shall consolidate and submit to the World Bank 45 days after the end of the
+
+  quarter. The annual project financial statements shall be consolidated and submitted to the Office of the Auditor General
+
+  (OAG) for external audit on or before September 30 of each financial year. There have been regular trainings provided to
+
+  Counties teams for THS-UCP which has improved financial reporting. The dedicated Project Accountants at national and
+
+  counties levels will be provided with capacity building trainings at the commencement of the project which will include
+
+  refresher financial reporting requirements among other financial management procedures. PMT finance team will
+
+  regularly review financial reports by counties and identify any further tailored support that may be provided.
+
+
+
+
+
+  6.      External Audit. On an annual basis, the financial statements for the project will be audited by OAG and audited
+
+  financial statements submitted to the World Bank within six months after the financial year end in accordance with World
+
+  Bank’s FM guidelines. The terms of reference for the external audit shall be cleared by the World Bank.
+
+
+
+
+
+
+
+  Disbursement
+
+
+
+  7.       Disbursements and Funds Flow. The disbursements from IDA will be report based. The initial advance will be
+
+  disbursed based on initial cash flow requirement for at least the first six months. Subsequent disbursement will be based
+
+  on the advance amount requested as per the approved Interim Financial Report submitted in every quarter by the MoH
+
+  for both national county level activities. The banking arrangements for purposes of funds flow will consist of (a) three DAs
+
+  denominated in US dollars or Euros as shall be agreed with the NT (DA-A for national level activities disbursement category
+
+  1 part 1 and 3 DA-B for county-level activities category 1 and 3 part 2.1 and 2.3, DA-C for county level activities category
+
+  2 part 2.2 financed by both IDA Grant and GFF. These accounts shall be opened at the CBK and managed by the National
+
+  Treasury (NT). One project account shall be opened by the Ministry for receipt of funds from DA-A. The funds received
+
+  through DA-B, and DA-C shall be transferred through the exchequer to the MoH Development Account for transfer to the
+
+  County Revenue Fund and to the County Special Purpose Account. The project account shall be opened in Kenyan shillings
+
+  at the CBK or financial institution acceptable to IDA and shall be to pay for eligible project activities. (b) Each participating
+
+  county shall open a Special Purpose Account (SPA), at CBK. Triggers for the initial transfer from DA-B and DA-C to SPA will
+
+  include the signing of the intergovernmental participation agreement, and approved county AWP&B. Subsequent transfer
+
+  of funds from DA-B, and DA-C shall be based on consolidated advance request by the MoH through the approved IFR. To
+
+  resolve the funds flow delays observed in devolved projects, the funds transferred from the Ministry Development
+
+  Account to the CRF shall be within 7 working days. The funds transfer from CRF to project’s SPA shall be within 15 working
+
+  days failure to which an adjustment shall be applied as described in the POM. There will be continuous engagement with
+
+  the MoH, Council of Governors and the NT to unlock challenges impacting on the fund flows.
+
+
+
+
+
+
+
+
+
+Feb 21, 2024                                                                                                           Page 37 of 43
+
+          The World Bank
+
+          Building Resilient and Responsive Health Systems (P179698)
+
+
+
+
+
+
+
+
+
+                                                         Diagram 1: Funds Flow
+
+
+
+
+
+
+
+
+
+                                                                               IDA
+
+
+
+
+
+
+
+
+
+                     DA-A- National-Category                DA-B County category                 DA-C County category 2
+
+                            1 part 1,3                         1,3 part 2.1,2.3                         part 2.2
+
+
+
+
+
+
+
+
+
+                                                                         GoK Exchequer
+
+
+
+
+
+
+
+                                                                      Min Dev Account
+
+
+
+
+
+
+
+
+
+                                               Project Account in Kshs                   County Revenue Fund
+
+
+
+
+
+
+
+
+
+                                                                                      County Special Purpose
+
+                                                                                             Account
+
+
+
+
+
+                                         Payments for goods, services, and other eligible expenditures
+
+
+
+
+
+
+
+
+
+  Procurement
+
+
+
+  8.      Institutional Arrangements for Procurement: The MoH will be the implementing agency responsible for
+
+  procurement activities at the national level, while KEMSA will be responsible for procurement and distribution of HPTs to
+
+  primary care facilities. Counties will also conduct procurement on a need-by-need basis under Sub-components 2.2 and
+
+  2.3, based on their AWPs. All entities have gained significant experience in implementing World Bank-financed projects.
+
+  The MoH and the 47 counties implemented a Bank-financed THS-UCP using Procurement Guidelines in the period 2016-
+
+  2023. Furthermore, the MoH and KEMSA have been implementing the World Bank-financed COVID-19 Health Emergency
+
+  Response Project (CHERP, P173820) since 2020 using Procurement Regulations. Implementation of these Bank-financed
+
+  operations have enhanced and continue to strengthen the agencies’ institutional procurement capacities in implementing
+
+  World Bank-financed projects. The procurement decision making process will utilize the internal institutional structures
+
+  of the MoH, KEMSA and the counties.
+
+
+
+
+
+
+
+
+
+Feb 21, 2024                                                                                                              Page 38 of 43
+
+          The World Bank
+
+          Building Resilient and Responsive Health Systems (P179698)
+
+
+
+
+
+  9.       Record Keeping and Asset Management: All records pertaining to the procurement and contract management
+
+  activities including contract monitoring and payment records and contract completion will be retained by the
+
+  implementing agencies in procurement files for each procurable activity in accordance with requirements of the financing
+
+  agreement and uploaded in the STEP system on a timely basis. The MoH will also ensure that all inventory, stores, and
+
+  assets procured are received by respective beneficiary counties, taken on charge, and used by the counties for intended
+
+  purposes.
+
+
+
+
+
+  Strategy and Approach to Implementation Support
+
+
+
+  10.     Implementation Support. A core World Bank technical team, including a task team leader (TTL) and Forced
+
+  Displacement Officers will provide implementation support to implementing entities. The World Bank will provide hands
+
+  on operational support to PMT members and county Government teams with no prior direct experience with
+
+  implementation of World Bank-financed projects. This will be in addition to the support provided during bi-annual
+
+  missions, especially at the beginning of project implementation. The task team will use a risk-based approach to
+
+  operational support given the large number of implementing entities. Cross-county knowledge sharing and learning will
+
+  be encouraged throughout project implementation.
+
+
+
+
+
+  Implementation Support Plan and Resource Requirements
+
+
+
+  11.     Bi-annual Review and Midterm Review. Biannual World Bank visits will be organized to review progress and
+
+  mitigate risks. A midterm review will be organized in due time to assess project implementation progress and make the
+
+  necessary changes to accelerate implementation.
+
+
+
+
+
+  12.    Fiduciary and Safeguards. World Bank fiduciary and E&S staff are all based in Nairobi which will allow timely
+
+  support to the PMT and implementing entities. During the bi-annual implementation support missions, the fiduciary and
+
+  safeguards team will join the field trips and provide hands-on support to the county counterparts.
+
+
+
+
+
+  13.     M&E. The World Bank will work closely with the PMT to plan and implement the required project M&E and ensure
+
+  disaggregation of results for refugees and host community members.
+
+
+
+
+
+
+
+
+
+Feb 21, 2024                                                                                                   Page 39 of 43
+
+           The World Bank
+
+           Building Resilient and Responsive Health Systems (P179698)
+
+
+
+
+
+
+
+                                                          ANNEX 2: Climate Change
+
+  1.       The project has been screened for climate disasters and risks and been found to be highly exposed, while the
+
+  risk to project activities is low. Kenya is highly vulnerable to the impacts of climate change and is ranked 152 out of 181
+
+  countries in the 2019 Notre Dame Global Adaptation Index (ND-GAIN). Kenya’s topography is highly diverse including
+
+  varied formations of plains, escarpments, and hills, as well as low and high mountains which has an influence on varying
+
+  climatology and related climate vulnerability across the country. Kenya’s mean annual temperature is 24.3°C, with average
+
+  monthly temperatures between 22°C in the coolest months (July/August) and 25.6°C in the warmest months
+
+  (February/March). The mean annual temperature across Kenya is projected to increase by 1.0°C in the 2030s, 1.7°C in the
+
+  mid-century and 3.5°C by the end of the century, with rapid warming in the northern and coastal parts of the country,
+
+  intensifying droughts, heat waves with impacts on heat health risks, and food insecurity and malnutrition. The mean
+
+  annual precipitation (1901-2020) is 668.6mm and is projected to remain highly variable and uncertain, with an increase in
+
+  average rainfall in the 2050s with increased extreme rainfall events (frequency, intensity, duration) triggering floods and
+
+  landslides with implications for vector-borne disease transmission, water-borne disease outbreaks, direct injuries, and
+
+  mortalities; and impacts on health infrastructure. Floods and droughts are the most significant and frequent climate-
+
+  related hazards accounting for 40.0 percent and 10.0 percent respectively of all-natural hazard occurrences in Kenya
+
+  between 1980-2020.
+
+
+
+  2.        Climate change has significant impacts on health in Kenya. Food insecurity and malnutrition remain high
+
+  particularly in the Arid and Semi-Arid Lands of Kenya. Increased precipitation variability and related prolonged droughts
+
+  and erratic rainfall induced floods are posing significant impacts on food security, driving hunger and malnutrition in the
+
+  country and projected increases in temperature and decrease in precipitation will worsen food insecurity and associated
+
+  malnutrition in the country by the 2030s and 2050s. Three consecutive years of below than average rains, prolonged
+
+  drought and erratic rains have significantly reduced crop yields and livestock productivity leaving 17.0 percent (2.8 million
+
+  people) facing acute food insecurity, and 940,000 children 6-59 months and 145,000 pregnant or lactating women acutely
+
+  malnourished. 29 Furthermore, warming temperatures and precipitation variability are already increasing vector-borne
+
+  disease transmission risk (especially for malaria, dengue, schistosomiasis, chikungunya, yellow fever, rift valley fever) in
+
+  the country. For instance, in Kenya, malaria is a major cause of death and disease with an estimated 3.5 million cases and
+
+  10,700 deaths each year; with 31 million people at risk in the endemic Lake Western, Nyanza and Coastal regions. 30 31
+
+  Projected increasing temperatures and rainfall variability are predicted to increase habitat suitability and seasonal
+
+  transmission in traditionally low malaria risk areas such as the Central highlands and Nairobi. Women, children, and
+
+  pregnant mothers, particularly those from poor households and in rural areas are the most vulnerable to malaria. Climate
+
+  change is also exacerbating water-borne diseases especially diarrhea and cholera outbreaks in Kenya. Flash floods are
+
+  overwhelming sewage systems contaminating drinking water sources and prolonged droughts are reducing the quantity
+
+  and quality of water and compromising the functioning of Water, Sanitation, and Hygiene infrastructure even in health
+
+  facilities. In the aftermath of heavy rains during March-May 2018, flooding across the country led to a major increase in
+
+  cholera outbreaks of 5,470 cases and 78 deaths in 19 counties with over 700 cases in Turkana and Garissa Counties. 32 33
+
+  Floods, storms, landslides, and extreme heat threaten the functioning of health infrastructure and hinder health service
+
+  delivery and access especially in flood prone Coastal regions, Tana River region, the Lake Victoria Basin, and rural remote
+
+  areas of the country.
+
+
+
+  29 Kenya: IPC Acute Food Insecurity and Acute Malnutrition Analysis (July 2023 - January 2024)
+
+  30 https://www.cdc.gov/malaria/malaria_worldwide/cdc_activities/kenya.html
+
+  31 Kenya Malaria Indicator Survey, 2020.
+
+  32 Kenya Humanitarian Situation Report. 31 December 2018.
+
+  33 MSF responds to cholera outbreak amid heavy rains and flooding. Project update. 18 May 2018.
+
+
+
+
+
+
+
+
+
+Feb 21, 2024                                                                                                        Page 40 of 43
+
+          The World Bank
+
+          Building Resilient and Responsive Health Systems (P179698)
+
+
+
+
+
+
+
+  3.     The project intends to implement measures to adapt to climate change while mitigating greenhouse gas
+
+  emissions, as outlined in the Table below.
+
+
+
+  Table 1: Climate Adaptation Measures Financed by the Project
+
+
+
+
+
+           Components/Sub-component               Climate Action
+
+                                                  HPTs for Climate Sensitive diseases: The list of selected HPTs will include
+
+                                                  those related to climate sensitive diseases and conditions (malaria, diarrheal
+
+   Sub-component 1.1: Institutional and           diseases, etc.). Availability of HPTs for climate related diseases will lead to
+
+   operational reforms to enhance efficiency      enhanced and continued quality health service delivery for poor and rural
+
+   and transparency of KEMSA (US$30 million)      populations even during extreme events (floods, heat waves). (adaptation)
+
+
+
+
+
+                                                  Climate measures in surveys: To improve decision making and planning for
+
+                                                  climate sensitive diseases and conditions, and climate impacts on health
+
+   Sub-component 1.3: Improve availability of
+
+                                                  infrastructure and health service delivery, there is need for availability of
+
+   quality data for decision making (US$10
+
+                                                  reliable health data. Therefore, questions on climate and health impacts will
+
+   million)
+
+                                                  be included in the survey. (adaptation)
+
+
+
+                                                  HPTs for Climate Sensitive diseases: Pharmaceuticals for climate sensitive
+
+                                                  conditions such as malaria, diarrheal diseases, and other climate sensitive
+
+                                                  conditions will be included in the pharmaceutical list. This will improve the
+
+   Sub-component 2.1: Improving availability of   capacity of primary care level facilities to provide better health services in
+
+   essential HPTs and delivery of key RMNCAH      the face of the increasing burden of disease due to climate change. Seasonal
+
+   and NCDs interventions at the primary care     case and pharmaceutical consumption data will be used to inform
+
+   level (US$90 million):                         procurement of the pharmaceuticals to ensure adequate supplies based on
+
+                                                  seasonal patterns to address climate sensitive conditions. (adaptation)
+
+
+
+                                                  Climate sensitive community health service planning: Climate sensitive
+
+                                                  planning including the use of climate vulnerability and meteorologic data
+
+                                                  will be used to guide the distribution of essential HTPs, diagnostic and
+
+                                                  medical equipment avoiding stormy, heavy rains and heavy flooding days.
+
+                                                  Specifically, data on climate vulnerable locations and data on previous use
+
+                                                  of HPTs for climate sensitive diseases as well as patterns of pharmaceutical
+
+                                                  use following climate shocks will be used to ensure adequate quantities of
+
+   Sub-component 2.3: Improving access to and     pharmaceuticals are being used. To ensure pharmaceuticals are available
+
+   utilization of quality health services in      ahead of shocks and that these do not impact distribution, funding will be
+
+   refugee and host communities (US$40            made available, and planning will be done to ensure distributions ahead of
+
+   million)                                       shocks. This will reduce the risk of damage to HPTs and medical equipment
+
+                                                  by floods and storms but will also improve the acquisition and availability of
+
+                                                  adequate amounts of essential HPTs (for climate sensitive diseases such as
+
+                                                  malaria, diarrhea) for improved health service delivery. (adaptation)
+
+
+
+                                                  Availability of climate sensitive essential HPTs, diagnostic and medical
+
+                                                  equipment: This Sub-component will finance the procurement of HPTs for
+
+                                                  climate sensitive diseases, particularly malaria and diarrhea, which are
+
+
+
+
+
+
+
+Feb 21, 2024                                                                                                                 Page 41 of 43
+
+            The World Bank
+
+            Building Resilient and Responsive Health Systems (P179698)
+
+
+
+
+
+                                                         climate sensitive in Kenya and form a large share of the disease burden in
+
+                                                         the country. (adaptation)
+
+
+
+                                                         Energy efficient rehabilitation of health facilities: This Sub-component
+
+                                                         will support climate energy efficient health facility rehabilitation. Guided
+
+                                                         by the building standards developed under this Sub-component for the
+
+                                                         rehabilitation of energy-efficient health facilities. Aligned with Criteria 9.1
+
+                                                         of the ‘Buildings, public installations and end-use energy efficiency’ section
+
+                                                         of the Multilateral Development Bank Mitigation Finance Methodology, the
+
+                                                         Project will adopt measures that substantially reduce net energy
+
+                                                         consumption, resource consumption, and CO2e emissions of health
+
+                                                         facilities to be rehabilitated. The project will finance: i) technical assistance
+
+                                                         for the implementation of energy efficient rehabilitation, and ii) energy
+
+                                                         efficient rehabilitation of health facilities ensuring at least 20 percent
+
+                                                         greater energy efficiency in comparison to standard practice, aligning with
+
+                                                         EDGE level 1 building criteria. (mitigation)
+
+
+
+                                                         Climate resilient health facility rehabilitation: climate resilient health
+
+                                                         facility rehabilitation will be conducted based on the climate resilient health
+
+                                                         facility rehabilitation guidelines developed under this Sub-component.
+
+                                                         Climate adaptation measures will go beyond standard practice to ensure
+
+                                                         resilience to floods, high heat, and storms. (adaptation)
+
+
+
+                                                         Solar electrification of health facilities: This Sub-component will finance
+
+                                                         the purchase and installation of solar panels as well as operations and
+
+                                                         maintenance for existing and newly purchased equipment for sustainable
+
+                                                         health facility electrification to contribute to greenhouse gas emission
+
+                                                         reductions. (mitigation)
+
+
+
+                                                         Energy efficient medical equipment: Aligned with Criteria 9.5 of the
+
+                                                         Multilateral Development Bank Mitigation Finance Methodology medical
+
+                                                         equipment purchases through this Component will utilize energy efficiency
+
+                                                         standards to ensure a substantial reduction of energy consumption,
+
+                                                         resource consumption, or CO2e emissions. Energy Star efficiency standards,
+
+                                                         International Electrotechnical Commission (IEC) energy efficiency
+
+                                                         standards, and similar viable standards for medical equipment will be
+
+                                                         used 34, with particular reference to IEC 60601-1-9, ‘Medical Equipment –
+
+                                                         General requirements for basic safety and essential performance –
+
+                                                         Collateral Standard: Requirements for environmentally conscious design’ 35.
+
+                                                         The highest energy efficiency rating or labelling that allows to perform
+
+                                                         quality medical and laboratory services adequately will be pursued. While
+
+
+
+
+
+  34 Noting that there are currently no national energy efficiency standards for medical equipment in Kenya, this would be promoting best-available
+
+  technology.
+
+  35 International Electrotechnical Commission. 2020 report. Medical electrical equipment - Part 1-9: General requirements for basic safety and
+
+
+
+  essential performance - Collateral Standard: Requirements for environmentally conscious design. IEC. 2020. IEC 60601-1-
+
+  9:2007+AMD1:2013+AMD2:2020 CSV - Consolidated version.
+
+
+
+
+
+Feb 21, 2024                                                                                                                            Page 42 of 43
+
+           The World Bank
+
+           Building Resilient and Responsive Health Systems (P179698)
+
+
+
+
+
+                                                  exact cost estimates of equipment purchases are not possible given cost
+
+                                                  fluctuations and county autonomy in choosing activities, a conservative
+
+                                                  minimum estimate of ten percent of the Sub-components’ financing is
+
+                                                  anticipated to go to energy efficient equipment purchases. (mitigation)
+
+
+
+
+
+
+
+
+
+   Sub-component 2.2: Improving delivery of       Climate change and undernutrition: This Sub-component will finance
+
+   quality health services in selected counties   nutrition services to address stunting in children and anemia in pregnant
+
+   (US$5 million, IDA)                            women including provision of micronutrient supplements and growth
+
+                                                  monitoring. Undernutrition in Kenya is climate related, particularly in arid
+
+                                                  and semi-arid parts of the country which will be covered under this Sub-
+
+                                                  component. These nutrition services will help the population adapt to the
+
+                                                  health impacts of climate change. (adaptation)
+
+
+
+                                                  Under this Component, the MoH will develop national climate emergency
+
+                                                  preparedness and response plan which will inform county-level actions to
+
+   Component 3: Project management and            reduce the risk of climate change on health service delivery activities.
+
+   evaluation (US$10 million):                    Counties will be encouraged to include relevant climate mitigation actions
+
+                                                  in their AWPs. (adaptation)
+
+
+
+
+
+
+
+
+
+Feb 21, 2024                                                                                                              Page 43 of 43
+
+

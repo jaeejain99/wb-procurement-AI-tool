@@ -1,0 +1,2192 @@
+                                            FOR OFFICIAL USE ONLY
+                                                                                            Report No: PADHI00416
+
+                                INTERNATIONAL DEVELOPMENT ASSOCIATION
+
+                                       PROJECT APPRAISAL DOCUMENT
+                                                  ON A
+                                             PROPOSED CREDIT
+
+                                     IN THE AMOUNT OF US$80 MILLION
+                                    FROM THE CRISIS RESPONSE WINDOW
+
+                                                     TO THE
+
+                                             REPUBLIC OF RWANDA
+
+                                                     FOR AN
+
+                             EMERGENCY CONNECTIVITY RESTORATION PROJECT
+
+
+
+                                                 APRIL 12, 2024
+
+
+
+
+ Transport Global Practice
+ Eastern and Southern Africa Region
+
+This document has a restricted distribution and may be used by recipients only in the performance of their official
+duties. Its contents may not otherwise be disclosed without World Bank authorization.
+                      CURRENCY EQUIVALENTS
+
+            (Exchange Rate Effective {February 29, 2024})
+
+                          Currency Unit = Rwandan Francs
+                                   US$1 = RWF 1,276
+
+
+
+                             FISCAL YEAR
+                           July 1 – June 30
+
+
+
+
+Regional Vice President: Victoria Kwakwa
+     Regional Director: Wendy E. Hughes
+      Country Director: Keith E. Hansen
+     Practice Manager: Almud Weitz
+     Task Team Leader: Aguiratou Savadogo-Tinto
+                  ABBREVIATIONS AND ACRONYMS
+AM        Accountability Mechanism
+AWPB      Annual And Work Plan and Budget
+CCDR      Country Climate and Development Report
+CERC      Contingent Emergency Response Component
+CO2       Carbone Dioxide
+CPF       Country Partnership Framework
+DFIL      Disbursement And Financial Information Letter
+DG        Director General
+DRC       Democratic Republic of The Congo
+E&S       Environment and Social
+EAC       East African Community
+EoI       Expression of Interest
+ESCP      Environmental and Social Commitment Plan
+ESIA      Environment and Social Impact Assessment
+ESMF      Environmental and Social Management Framework
+ESS       Environment and Social Standards
+FRDP      Feeder Roads Development Project
+GBVPRAP   Gender-Based Violence Prevention and Response Action Plan
+GDP       Gross Domestic Product
+GGCRS     Green Growth and Climate Resilience Strategy
+GHG       Green House Gas
+GoR       Government Of Rwanda
+GRM       Grievance Redress Mechanism
+GRS       Grievance Redress Service
+HEIS      Hands-On Expanded Implementation Support
+IA        Implementing Agency
+IC        Identified As Consultant
+ICB       International Competitive Bidding
+IDA       International Development Association
+IFMIS     Integrated Financial Management Information System
+IFRs      Interim Financial Reports
+IPF       Investment Project Financing
+JICA      Japan International Cooperation Agency
+KLP       Kigali Logistic Platform
+KMs       Kilometers
+KPIs      Key Performance Indicators
+LMP         Labor Management Plan
+LVTP        Lake Victoria Transport Program
+MINECOFIN   Ministry of Finance and Economic Planning
+MINEMA      Ministry in charge of Emergency Management
+MININFRA    Ministry of Infrastructure
+MTR         Midterm Review
+M&E         Monitoring and Evaluation
+NBIA        New Bugesera International Airport
+NDC         Nationally Determined Contributions
+OAG         Office of the Auditor General
+OPBRC       Output and Performance Based Road Contracting
+PCE         Private Capital Enabling
+PDO         Project Development Objective
+PIM         Project Implementation Manual
+PPSD        Project Procurement Strategy for Development
+PRAMS       Procurement Risk Assessment and Management System
+PS          Permanent Secretary
+QCBS        Quality and Cost-Based Selection
+RECOR       Rwanda Emergency Connectivity Restoration Project
+REMA        Rwanda Environment Management Authority
+RF          Resettlement Framework
+RFA         Rwanda Forest Authority
+RMF         Road Maintenance Fund
+RNP         Rwanda National Police
+ROW         Right of Way
+RP          Resettlement Plan
+RPPA        Rwanda Public Procurement Authority
+RTDA        Rwanda Transport Development Agency
+RURA        Rwanda Utilities Regulatory Authority
+RWB         Rwanda Water Board
+SPIU        Single Project Implementation Unit
+             The World Bank
+             Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+
+                                                                 TABLE OF CONTENTS
+DATASHEET ........................................................................................................................... ii
+I.       STRATEGIC CONTEXT ...................................................................................................... 1
+        A. Country Context ................................................................................................................................ 1
+        B. Sectoral and Institutional Context .................................................................................................... 2
+        C. Relevance to Higher Level Objectives ............................................................................................... 5
+II.      PROJECT DESCRIPTION.................................................................................................... 6
+        A. Project Development Objective ........................................................................................................ 6
+        B. Project Components ......................................................................................................................... 7
+        C. Project Beneficiaries ......................................................................................................................... 9
+        D. Results Chain................................................................................................................................... 10
+        E. Rationale for Bank Involvement and Role of Partners .................................................................... 10
+        F. Lessons Learned and Reflected in the Project Design..................................................................... 11
+III. IMPLEMENTATION ARRANGEMENTS ............................................................................ 12
+        A. Institutional and Implementation Arrangements ........................................................................... 12
+        B. Results Monitoring and Evaluation Arrangements ......................................................................... 13
+        C. Sustainability ................................................................................................................................... 13
+IV. PROJECT APPRAISAL SUMMARY ................................................................................... 14
+        A. Technical, Economic, and Financial Analysis .................................................................................. 14
+        B. Fiduciary .......................................................................................................................................... 19
+        C. Legal Operational Policies ............................................................................................................... 20
+        D. Environmental and Social ............................................................................................................... 21
+V.       GRIEVANCE REDRESS SERVICES ..................................................................................... 22
+VI. KEY RISKS...................................................................................................................... 22
+Monitoring & Evaluation Plan .............................................................................................. 25
+ANNEX 1: Implementation Arrangements and Support Plan ................................................. 28
+      A. Institutional and Implementation Arrangements ............................................................................ 28
+ANNEX 2: Climate Adaptation and Mitigation ...................................................................... 36
+ANNEX 3: List of Damaged Roads and Bridges per District .................................................... 38
+
+
+
+
+                                                                                i
+       The World Bank
+       Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padbasicinformation#doctemplate
+DATASHEET
+
+
+BASIC INFORMATION
+
+
+Project
+                         Operation Name
+Beneficiary(ies)
+Rwanda                   Rwanda-Emergency Connectivity Restoration Project
+                                                      Environmental and Social Risk
+Operation ID             Financing Instrument                                                Process
+                                                      Classification
+                         Investment Project
+P504023                                               Substantial
+                         Financing (IPF)
+
+@#&OPS~Doctype~OPS^dynamics@padprocessing#doctemplate
+Financing & Implementation Modalities
+
+[ ] Multiphase Programmatic Approach (MPA)                      [✓] Contingent Emergency Response Component (CERC)
+[ ] Series of Projects (SOP)                                    [ ] Fragile State(s)
+[ ] Performance-Based Conditions (PBCs)                         [ ] Small State(s)
+[ ] Financial Intermediaries (FI)                               [ ] Fragile within a non-fragile Country
+[ ] Project-Based Guarantee                                     [ ] Conflict
+[ ] Deferred Drawdown                                           [✓] Responding to Natural or Man-made Disaster
+[ ] Alternative Procurement Arrangements (APA)                  [ ] Hands-on Expanded Implementation Support (HEIS)
+
+
+Expected Approval Date                Expected Closing Date
+25-Apr-2024                           29-Sep-2028
+Bank/IFC Collaboration
+No
+
+
+Proposed Development Objective(s)
+The Project Development Objective is to restore the connectivity in areas of Rwanda affected by floods and landslides
+in a climate-resilient manner.
+
+Components
+
+                                                 ii
+      The World Bank
+      Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+ Component Name                                                                                        Cost (US$)
+ Component 1:Rehabilitation/repair of damaged transport infrastructure in a
+                                                                                                    89,680,000.00
+ resilient and safe manner
+ Component 2: Environment and social risk management, Community
+                                                                                                     2,900,000.00
+ Engagement and awareness campaign
+ Component 3: Implementation support, monitoring, capacity building                                  1,100,000.00
+ Component 4: Contingent Emergency Response                                                                  0.00
+
+@#&OPS~Doctype~OPS^dynamics@padborrower#doctemplate
+Organizations
+Borrower:                        Republic of Rwanda
+Implementing Agency:             Ministry of Infrastructures, Rwanda Transport Development Agency
+
+@#&OPS~Doctype~OPS^dynamics@padfinancingsummary#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                  No
+
+Is this project Private Capital Enabling (PCE)?            No
+
+SUMMARY
+
+  Total Operation Cost                                                                                     93.68
+
+  Total Financing                                                                                          93.68
+             of which IBRD/IDA                                                                             80.00
+
+  Financing Gap                                                                                             0.00
+
+DETAILS
+
+ World Bank Group Financing
+   International Development Association (IDA)                                                             80.00
+
+      IDA Credit                                                                                           80.00
+
+ Non-World Bank Group Financing
+   Counterpart Funding                                                                                     13.68
+
+      National Government                                                                                  13.68
+
+                                                  iii
+        The World Bank
+        Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+
+IDA Resources (US$, Millions)
+
+                                                                                        Guarantee
+                           Credit Amount     Grant Amount          SML Amount                          Total Amount
+                                                                                          Amount
+
+Crisis Response
+                                    80.00              0.00                 0.00                0.00             80.00
+Window (CRW)
+
+Total                               80.00              0.00                 0.00                0.00             80.00
+
+
+@#&OPS~Doctype~OPS^dynamics@paddisbursementprojection#doctemplate
+Expected Disbursements (US$, Millions)
+WB Fiscal Year              2024              2025                  2026                2027             2028
+Annual                      5.00              20.00                 25.00               24.00             6.00
+Cumulative                  5.00              25.00                 50.00               74.00            80.00
+
+
+@#&OPS~Doctype~OPS^dynamics@padclimatechange#doctemplate
+PRACTICE AREA(S)
+
+
+Practice Area (Lead)                                          Contributing Practice Areas
+Transport
+
+CLIMATE
+
+
+Climate Change and Disaster Screening
+Yes, it has been screened and the results are discussed in the Operation Document
+
+
+@#&OPS~Doctype~OPS^dynamics@padrisk#doctemplate
+SYSTEMATIC OPERATIONS RISK- RATING TOOL (SORT)
+
+
+Risk Category                                                               Rating
+1. Political and Governance                                                  Moderate
+2. Macroeconomic                                                             Moderate
+3. Sector Strategies and Policies                                            Moderate
+4. Technical Design of Project or Program                                    Moderate
+                                                iv
+      The World Bank
+      Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+5. Institutional Capacity for Implementation and Sustainability              Moderate
+6. Fiduciary                                                                 Moderate
+7. Environment and Social                                                    Substantial
+8. Stakeholders                                                              Moderate
+9. Overall                                                                   Moderate
+
+
+@#&OPS~Doctype~OPS^dynamics@padcompliance#doctemplate
+POLICY COMPLIANCE
+
+
+Policy
+Does the project depart from the CPF in content or in other significant respects?
+[ ] Yes      [✓] No
+
+Does the project require any waivers of Bank policies?
+[ ] Yes [✓] No
+
+
+
+ENVIRONMENTAL AND SOCIAL
+
+
+Environmental and Social Standards Relevance Given its Context at the Time of Appraisal
+E & S Standards                                                                     Relevance
+ESS 1: Assessment and Management of Environmental and Social Risks and
+                                                                                    Relevant
+Impacts
+ESS 10: Stakeholder Engagement and Information Disclosure                           Relevant
+ESS 2: Labor and Working Conditions                                                 Relevant
+ESS 3: Resource Efficiency and Pollution Prevention and Management                  Relevant
+ESS 4: Community Health and Safety                                                  Relevant
+ESS 5: Land Acquisition, Restrictions on Land Use and Involuntary Resettlement      Relevant
+ESS 6: Biodiversity Conservation and Sustainable Management of Living Natural
+                                                                                    Relevant
+Resources
+ESS 7: Indigenous Peoples/Sub-Saharan African Historically Underserved
+                                                                                    Not Currently Relevant
+Traditional Local Communities
+ESS 8: Cultural Heritage                                                            Relevant
+ESS 9: Financial Intermediaries                                                     Not Currently Relevant
+
+
+
+                                                   v
+        The World Bank
+        Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+NOTE: For further information regarding the World Bank’s due diligence assessment of the Project’s potential
+environmental and social risks and impacts, please refer to the Project’s Appraisal Environmental and Social Review
+Summary (ESRS).
+
+@#&OPS~Doctype~OPS^dynamics@padlegalcovenants#doctemplate
+LEGAL
+Legal Covenants
+Sections and Description
+The Recipient shall prepare and furnish to the Association not later than March 31 of each Fiscal Year during the
+implementation of the Project (beginning in calendar year 2025), a consolidated work plan and budget containing
+Without limitation on the provisions of Part E of this Section, the Recipient shall prepare and furnish to the Association
+the first proposed Annual Work Plan and required under the Project not later than one month after the Effective Date
+No later than twenty-four (24) months after the Effective Date, the Recipient shall, in conjunction with the Association,
+carry out a mid-term review of the Project (the “Mid-term Review”), covering the progress achieved in the
+implementation of the Project
+
+@#&OPS~Doctype~OPS^dynamics@padconditions#doctemplate
+Conditions
+Type                           Citation                        Description                    Financing Source
+                               the Recipient has prepared
+                               and adopted the Project
+                               Implementation Manual in        Client to prepare and adopt
+Effectiveness                                                                                 IBRD/IDA
+                               the form and substance          the PIM
+                               satisfactory to the
+                               Association
+
+
+
+
+                                                   vi
+          The World Bank
+          Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+    I. STRATEGIC CONTEXT
+
+
+    A. Country Context
+1.      Rwanda’s topography, lack of natural resources, limited domestic market, and rural-centric population are
+prevalent features of the country’s physical and economic landscape. With four countries bordering Rwanda: the
+Democratic Republic of the Congo (DRC) in the west, Uganda in the north, Tanzania in the east, and Burundi in the south,
+the country’s options for spatial development are constrained by the geographic challenges of a landlocked, mountainous
+country. Rwanda’s high population density of 13.2 million inhabitants occupying an area of 26,338 km 2 (503
+inhabitants/km2) is relatively young with a median age of 19.1 Consequentially, job creation has favored services that
+embody higher-than-average education and skill requirements. Indeed, services account for 30 percent of total
+employment (triple the share in the early 2000s), half of Gross Domestic Product (GDP), and a rising share of foreign
+exchange earnings.2
+2.       Despite the geographic challenges, the population’s youthful demographics, and the modest internal market,
+Rwanda has achieved impressive socio-economic progress in recent decades. Growth in GDP per capita averaged five
+percent per year since the early 2000s, second only to Ethiopia in Africa. High levels of public investment (averaging 15
+percent of GDP in recent years) improved access to water, sanitation, electricity, and housing. Poverty fell from 77 to 55
+percent and from 59 to 38 percent from 2001 to 2017, according to international and national poverty lines, respectively.
+After approaching 10 percent growth in 2019, restrictions associated with COVID-19 caused GDP to contract by 3.4 percent
+in 2020, causing the first recession since 1994. High vaccination rates of almost 70 percent (second highest in Sub-Saharan
+Africa) and a resilient economy allowed growth to rebound by over 10 percent in 2021, after lifting mobility restrictions.
+Global conditions in 2022 caused GDP growth to slow to 6 percent, but an expansion of 7 percent is estimated for 2023-
+24. 3
+3.      Rwanda’s Vision 2050 provides the strategic foundation for high economic growth to reach upper middle-
+income status by 2035 and high-income status by 2050. These ambitious goals imply growth rates exceeding 12 percent
+per year, requiring new avenues for growth through innovation, integration, agglomeration, and competition. 4 With its
+challenging geography, small market size, and central location, Rwandan future competitiveness is intrinsically linked to
+its connection with its neighbors and beyond. As the East African Community (EAC) becomes increasingly integrated, trade,
+transport, and tourism activities are foreseen by the country’s National Strategy for Transformation 2017-2024 as leading
+Rwanda’s development framework. One of the Government of Rwanda’s (GoR) core development objectives is to develop
+multimodal transport hubs that link Rwanda and its neighbors to regional and international markets based on efficiently
+integrating upgraded road, rail, and air transport networks.5
+4.       Rwanda is highly vulnerable to the impacts of natural hazards and climate change and is already experiencing
+the impacts of the rising occurrence of floods, droughts, soil erosion, and landslides. In 2021, Rwanda ranked 154 out of
+185 countries in the Notre Dame Vulnerability Index indicating high exposure, sensitivity, and low ability to adapt to the
+negative impacts of climate change.6 The country faces high risks from river and urban floods, landslides, and wildfires;
+medium risk from water scarcity, volcano eruption, and earthquakes; and low risk from extreme heat. 7 The frequency
+and severity of disastrous weather events have risen since the early 2000s and caused substantial losses. In particular, the
+rise in heavy rainfall events, particularly in the northern and western provinces, are leading to frequent riverine flooding,
+
+1 National Institute of Statistics for Rwanda, Government of Rwanda, Fifth Population and Housing Census, 2022
+2 The World Bank, Fostering Rwanda’s Competitiveness & Resilience in the Post COVID-19 era , 2022.
+3 The World Bank, Rwanda Economic Update, Edition 19, September 2022.
+4 The World Bank, Future Drivers of Growth in Rwanda , 2019.
+5 The World Bank, Fostering Rwanda’s Competitiveness & Resilience in the Post COVID-19 era , 2022.
+6 University of Notre Dame, Notre Dame Global Adaptation Initiative, 2021.
+7 ThinkHazard, consulted on 21st January 2024.
+
+                                                                       1
+           The World Bank
+           Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+flash floods, and landslides, damaging infrastructure, harming the environment, and even causing loss of lives. 8. In May
+2023, Rwanda faced flooding and a series of landslides that cost more than 130 lives and damaged 16 national roads, 26
+district roads, and 47 bridges, disconnecting districts, and impeding country supply through land transportation. The
+eastern and southern regions of the country have experienced frequent dry episodes, alternating with rainfall excesses.
+5.       Climate change is likely to further increase the risks from extreme events . Climate projections indicate continued
+regional variability in precipitation levels. Annual mean temperature is projected to increase and there is a strong
+likelihood of longer heatwaves with as much as 85 days per year.9 Climate-related shocks, such as the recent prolonged
+droughts, risk slowing progress in poverty reduction. About 40 percent of the population in the western, southern, and
+northern provinces are exposed to landslides and flooding risks, with the eastern province exposed mostly to drought
+hazards. The estimated annual economic costs of these climate risks will reach one percent of GDP by 2030. 10
+
+    B. Sectoral and Institutional Context
+6.       Road transport is the predominant form of transport in the country, accounting for over 90 percent of freight
+traffic and passenger travel.11 Transport costs are also high, estimated at 40 percent of the value of imports or exports,
+compared to 12 percent and 36 percent in Kenya and Uganda, respectively. The road network is well established, totaling
+nearly 38,000 km and featuring a high “classified” road density of 62 percent. Rwanda has also achieved notable success
+in maintaining the national paved road network. Around 60 percent of the 2,748 km of national roads is paved while 9,763
+km of district roads are unpaved.12 The unclassified road network, estimated at 22,500 km, consists predominantly of
+earth roads of low engineering standard with most of the roads needing improvement.
+7.       Despite investments in road connectivity in the past decade, Rwanda still lacks a fully functional rural road
+network, providing a major constraint to the mobility of the rural population and slowing rural development. The feeder
+roads policy which was approved in 2017 had the objective of making all feeder roads passable by 2027 using spot
+improvement and improving roads where traffic is above a set threshold.13 However, the vulnerability to seasonal rainfall
+and low engineering conditions in difficult topographic and geo-hazard conditions is posing significant financial constraints
+to the GoR for improving and maintaining the quality of feeder roads to a wide area of agricultural production and markets.
+In turn, low market access of agricultural producers and traders has led to post-harvest crop losses, high input costs, low
+diversification of crops, and reduced competitiveness.
+8.       The Ministry of Infrastructure (MININFRA) is responsible for overall transport policy and strategic planning, the
+creation of a transport-enabling environment, and the setting of transport rules, regulations, and standards. Multiple
+policies and frameworks have identified strategic objectives that aim to reduce transport constraints and promote growth
+and economic development, including: (i) the new Vision 2050; (ii) a new Transport Sector Policy; (iii) the National Feeder
+Roads Master Plan completed in 2023 under the Feeder Roads Development Project; (iv) a proposed update to the
+National Transport Master Plan, to be developed under the ongoing World Bank-financed Lake Victoria Transport
+Program, SOP1, (P160488); (v) the National Feeder Roads Policy and Strategy (approved in 2017 and financed under the
+project); and (vi) the Kigali Urban Master Plan.
+
+
+
+
+8 The World Bank Group, Climate Change Knowledge Portal, 2021.
+9 Netherlands Commission for Environmental Sustainability, Climate Change Profile: Rwanda, 2015.
+10 Stockholm Environment Institute, The Economics of Climate Change in Rwanda , 2010.
+
+11
+   Rwanda has one international airport and six aerodromes spread across the country; limited water transport at Lake Kivu and does not have a
+local rail transportation system.
+12 Government of Rwanda, Rwanda Transport Development Agency Annual Report 2023
+13 The NST-1 expects 3,000 km of feeder roads rehabilitated between 2017 and 2024 with half to be financed by development partners including
+
+the World Bank. The GoR has just completed the preparation of the National Feeder Roads Master Plan which will form the basis for planning and
+financing to meet medium and long-term targets.
+                                                                      2
+          The World Bank
+          Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+9.        The Rwanda Transport Development Agency (RTDA) is an agency under MININFRA and assists with the
+management and administration of the transport sector, including roads, water transport, and Railway. The RTDA also
+supports the planning, prioritizing, approval, delivery, management, and maintenance of infrastructure, including support
+to districts as the managing and implementing agencies. The Road Maintenance Fund (RMF), under MININFRA, is funded
+from the public budget, and is responsible for maintaining the national and district roads class I.14 District roads class I and
+class II and unclassified roads are under the supervision and management of the districts.
+10.      Road traffic fatalities and injuries are an increasing burden on Rwanda’s health system and the overall economy
+despite ongoing efforts on road safety. With an estimated 29.7 deaths per 100,000 people per annum, Rwanda is
+classified by the World Health Organization (WHO) among countries in the red zone. Moreover, WHO estimates that only
+593 of the 3,535 deaths from road traffic accidents in 2018 were reported.15 The leading causes of crashes include reckless
+driving, wrong maneuvers, driving over the prescribed speed limits, violation of the right of way, overtaking maneuvers,
+and drunk driving. The National Transport Policy and Strategy for Rwanda, approved in 2021, recommends the
+establishment of a lead road safety agency.16 Key challenges include a limited budget for road safety interventions and a
+lack of comprehensive data to support informed decision-making.
+11.     Negative impacts of climate change pose a significant threat to Rwanda’s development goals . For instance, the
+damages and losses from the 2018 floods in Rwanda alone were estimated at US$237 million, with the cost of recovery
+and reconstruction estimated at US$336 million. According to World Bank estimates, climate risks could lead to Rwanda’s
+GDP levels dropping 5 to 7 percent below baseline in multiple years by 2050 with negative impact on consumption,
+exports, and government revenues.17 Adaptation is needed to build resilience and protect against these risks.
+12.     The 2022 vulnerability assessment conducted by the RTDA in collaboration with the Nordic Development Fund
+(NDF), highlighted the susceptibility of national and district roads in the North-West region to landslides, erosion, and
+floods. The active agenda of the GoR to repair and upgrade Rwanda’s road network is deeply impacted by the climate
+effect on the transport infrastructure. Critical road sections18 were identified among paved and unpaved roads alongside
+other vulnerable routes19 (Map 1). This assessment, part of the initiative "Developing Capacity for Climate Resilient Road
+Transport Infrastructure" funded by NDF, emphasizes the need for resilience-building measures.
+13.      This catastrophe that severely disrupted essential services and transportation networks vital for livelihoods and
+recovery efforts requires an immediate emergency response. Floods damaged 16 national roads, 26 district roads, and
+47 bridges, disconnecting districts, and impeded supply transportation. Reconstruction costs are estimated at about
+US$128 million for immediate needs and US$186 million for medium-term reconstruction, primarily focused on roads and
+bridges. As an immediate response, the World Bank activated Contingent Emergency Response Components (CERCs) in
+two projects, LVTP and the COVID-19 Emergency Response Project (P173855). In addition, given the large reconstruction
+needs, the proposed project was prepared with additional funding through the Crisis Response Window (CRW) to facilitate
+repair and rehabilitation of damaged infrastructure with a focus on ‘building back better,’ i.e., with more climate-
+resilience.
+
+
+
+
+14  National roads are roads that link Rwanda with neighboring countries, or districts, or a district and the City of Kigali, or areas of
+national/international significance such as airports/ports. District/ Kigali city class I roads are those linking different sectors’ headquarters within
+the same district.
+15 Global Status Report on Road Safety 2018, WHO.
+16 MININFRA is responsible for policy and legislation related to road safety, the Rwanda Transport and Development Agency (RTDA), the Rwanda
+
+Utilities Regulatory Authority (RURA), and local governments are the implementing arms of MININFRA, and the Rwanda National Police (RNP)
+enforces road safety laws once enacted.
+17 World Bank, 2022.
+18 It includes the Muhanga-Ngororero-Kabaya-Mukamira NR16 and Rwimpiri-Mukura-Muyira (DR21),
+19 Other vulnerable routes include Gihango-Murunda-Gishwati-Gatindore-Mahoko (DR23) and Rutsiro-Kavumu-Gashyushya-Kazabe (DR20).
+
+                                                                             3
+         The World Bank
+         Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+                         Map 1: Spatial Distribution of Physically Confirmed Spots for Different Hazards
+
+
+
+
+14.        Despite Rwanda’s remarkable achievements in gender equality, significant gender gaps persist in
+employment in the transport sector and in exercising voice. As of 2022 data by ILO Statistics, women represent 3.93
+percent of the transportation and storage labor force in the country.20 Their low participation in the sector workforce is
+due to barriers related to recruitment and retention policies such as absence or gender-sensitive selection processes,
+limited opportunities for school-to-work transition, poor working conditions such as inflexible working hours, absence of
+family-friendly policies, and lack of career prospects for women.21 These constraints get reinforced by a lack of specific
+technical skills and gender stereotypes that limit their decision to get into the transport workforce.22 Although Rwanda
+
+
+
+20 ILO Statistics. Rwanda. https://rshiny.ilo.org/dataexplorer53/?region=AFRICA&lang=en&segment=indicator&id=EAP_2WAP_SEX_AGE_RT_A
+21
+   The World Bank. 2020. “Stepping Up Women’s STEM Careers in Infrastructure–Summary Note: Entry Points for World Bank Project Teams”
+ESMAP Paper. Washington, D.C.: World Bank.
+22 Ibidem.
+
+                                                                    4
+          The World Bank
+          Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+has the highest level of female representation in Parliament23 in the world, this level of representation is not reflected
+at the local level within provinces, districts, and villages, where women are still underrepresented and have less visibility
+and decision-making power.24 Data is missing on specific gender gaps in participation and decision-making within
+community structures that can potentially contribute to disaster management at the local level. However, Objective 6 of
+the National Disaster Risk Reduction and Management Policy stresses the need to enhance communitarian structures at
+the local level with an emphasis on women recognizing their specific challenge to participate. 25 For instance, women are
+more constrained by their unpaid work; women spend 25.3 hours per week compared to 13.5 hours for men. 26 Time
+poverty is coupled with cultural barriers restricting their ability to attend meetings where policy adoption and
+implementation are discussed, and when they do attend those meetings they are given little space to express their
+concerns and preferences.27 The Policy establishes that local communities are not well organized to respond to climate
+risks.28 Bringing women at the center of disaster risk management can make them visible and empower for better
+communitarian participation which is needed for infrastructure resilience. It can also contribute to disaster risk
+preparedness, responses, and planning that address their specific needs as they are disproportionally affected by climate
+hazards. Data from sub-Saharan Africa reveals that women are responsible for 80 percent production and more than 60
+of all women work in agriculture, relying more on natural resources and climate-sensitive sectors for their livelihoods. 29
+Women have also less access to land, credit training, and other elements that would enable them to adapt better to
+climate change.30
+C. Relevance to Higher Level Objectives
+
+15.     The project is aligned with the World Bank vision to create a world free of poverty on a livable planet. The 2019
+Systematic Country Diagnostic highlighted the importance of an improved transport infrastructure and mobility services
+for Rwanda’s progress toward poverty reduction and shared prosperity in a sustainable manner. The project is aligned
+with the Country Partnership Framework (CPF) for Rwanda (2021-2026) (Report No. 148876-RW), discussed by the Board
+of Directors on July 9, 2020, specifically Objective 3 related to the World Bank Group support for GoR’s efforts to develop
+multimodal transport, expand access to infrastructure and support the digital economy by improving connectivity
+domestically and regionally. This will reduce the cost of doing business and facilitate trade and thereby help address key
+constraints that hinder private sector development. The project will also contribute to the World Bank Group Gender
+Strategy (2024 – 2030), to “accelerate gender equality for a sustainable, resilient, and inclusive future” as it will ensure
+all- gender access to sustainable infrastructure. The project will complement current and planned World Bank-financed
+and donor-financed interventions in the country, particularly, LVTP, the Feeder Roads Development Project (FRDP,
+P126498), and the Kigali Logistics Connectivity Development Project (KLPConnect, P180228). 31
+16.    The project is highly relevant to the strategic objective of Rwanda’s own policies and frameworks to reduce
+transport constraints and promote growth and economic development. With access to domestic and international
+markets representing a key policy priority for the GoR, the economic transformation pillar of the 2017-2024 National
+
+23 Rwanda Parliament. https://www.parliament.gov.rw/women-representation
+24 USAID, 2019. https://banyanglobal.com/wp-content/uploads/2019/12/USAID-Rwanda-Gender-and-Social-Inclusion-Analysis-Report.pdf
+25 Ministry in Charge of Emergency Management. (2023). National Disaster Risk Reduction and Management Policy. Kigali: MINEMA.
+26 Ibidem
+27 Ibidem
+28 Ibidem
+29 African women bear the brunt of climate change: https://issafrica.org/pscreport/psc-insights/african-women-bear-the-brunt-of-climate-
+
+change#:~:text=They%20carry%20a%20disproportionate%20unpaid,them%20vulnerable%20to%20climate%20changes
+30 Women In the Shadow of Climate Change: https://www.un.org/en/chronicle/article/womenin-shadow-climate-change
+31 LVTP is paving the road section of Kibugabuga-Shinga-Gasoro (66.55 km, part of the central corridor) that is connecting to the KLP roads in the
+
+    Bugesera district. FRDP is contributing by rehabilitating feeder roads that are connected to main roads and serving as channels for access to
+    markets and transfer of agricultural products. As for KLPConnect, the project is upgrading about 69.45 km from Masaka to the Bugesera area to
+    connect with the Kibugabuga-Shinga-Gasoro, road and consequently, the central corridor.
+                                                                        5
+          The World Bank
+          Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+Strategy for Transformation-1 includes a strategic plan for the transport sector, underscoring the pivotal role of
+infrastructure development. The Transport Sector Strategic Plan seeks an expanded and modernized transport
+infrastructure with four priority objectives: (i) improved riding quality and level of service across the road network; (ii)
+improved public transport services to reduce urban traffic congestion; (iii) promotion of an integrated multimodal
+transport system; and (iv) support for an efficient and sustainable air transport system.
+17.      The project is consistent with the Rwanda’s Nationally Determined Contribution (NDC),32 its Revised Green
+Growth and Climate Resilience Strategy (GGCRS),33 and its Country Climate and Development Report (CCDR).34 Rwanda’s
+NDC identified adaptation interventions by sector, including the deployment of improved transport infrastructure and
+services, with the reduction of length of roads vulnerable to flood and landslides and the installation of solar lighting and
+light-emitting diode (LED) systems for street lighting and public spaces along main roads; the development of climate
+resilient post-harvest and value addition facilities; and the promotion of afforestation /reforestation activities. The revised
+GGCRS sets out the country’s vision for 2050 and defines a program of action for low carbon, climate resilient energy and
+transport networks, which includes the deployment of resource-efficient infrastructure to drive green trade growth,
+powered by low-carbon and climate-resilient energy and transport systems. Rwanda’s CCDR identified the following as
+key priority areas; investing in affordable post-harvest and storage solutions, reforestation, and terracing on slopes to
+prevent soil erosion. The project will contribute to adaptation and mitigation objectives by integrating climate information
+in transport and market infrastructure planning, adopting climate-informed design and construction standards for the
+rehabilitation, and upgrading of markets, roads, bridges, and ancillary infrastructure, and providing regular maintenance
+of infrastructures. The project also promotes planting trees to combat land degradation, erosion, and landslides.
+
+ II. PROJECT DESCRIPTION
+
+18.     The project will restore connectivity in districts hit by floods and landslides to re-establish the disrupted
+economic activities. The key intervention under the project is to rehabilitate or repair the damaged road sections and
+bridges in a climate-resilient manner. This will ensure that connectivity of and within the affected districts with the rest of
+the country and the region is restored to allow for cost-effective transportation of goods, people, and services.
+Rehabilitating the damaged transport infrastructures in a resilient and safe manner will be key to building back the road
+network on a sustainable basis. The project will complement other ongoing World Bank-funded Road and connectivity
+projects, as well as other donor-funded transport projects, all of them promoting climate-friendly activities (see
+paragraphs 54-56).
+
+ A. Project Development Objective
+     PDO Statement
+ 19.     The Project Development Objective is to restore the connectivity in areas of Rwanda affected by floods and
+ landslides in a climate-resilient manner.
+       PDO Level Indicators
+20.     The following indicators are selected to measure progress toward achieving the PDO:
+      a. Number of people that benefit from improved access to sustainable transport infrastructure and services
+         (disaggregated by gender);
+      b. Restored access to sectors35 (number of sectors accessible due to roads and bridges rehabilitated);
+      c. Restored access to socio-economic infrastructure (number of schools, health centers, and markets accessible due
+         to roads and bridges rehabilitated);
+
+32 Republic of Rwanda, Updated Nationally Determined Contribution , May 2020.
+33 Republic of Rwanda, Revised Green Growth and Climate Resilience Strategy 2023.
+34 World Bank Group, Country Climate Development Report: Rwanda , September 2022.
+35 Sector in this context is a cluster of villages that administratively belong to the same authority call sector.
+
+                                                                             6
+        The World Bank
+        Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+    d. Number of critical embankments, bridges, and culverts reinforced in the affected districts/sectors with climate
+       resilient measures for adaptation and mitigation.
+ B. Project Components
+21.     Component 1: Rehabilitation/repair of damaged transport infrastructure in a resilient and safe manner to
+connect districts affected by floods (US$.89.68 million, comprising US$76 million IDA funding and US$13.68 million GoR
+funding). The component will finance three sub-components (Table 1) related to national roads, district roads, and bridges,
+covering the design, supervision, and monitoring of works and the rehabilitation works of the damaged infrastructures.
+Measures such as slope stabilization and afforestation will be implemented to mitigate future landslide risks and fortify
+community resilience.
+22.      Sub-component 1.1: Rehabilitation of national roads (US$51.33 million, comprising US$43.50 million IDA and
+US$7.83 million GoR funding). The subcomponent will finance: (i) consulting services for technical studies, supervision,
+and monitoring of works; and (ii) rehabilitation or repair of spots located on about 254 km of national roads in a climate-
+resilient manner.
+23.     Sub-component 1.2: Rehabilitation of district roads (US$26.25 million, comprising of US$22.25 million IDA and
+US$4 million GoR funding). The subcomponent will finance: (i) consulting services for technical studies, supervision, and
+monitoring of works, and (ii) rehabilitation or repair of spots located on about 130 km of the district roads and bridges in
+a climate-resilient manner.
+24.     Sub-component 1.3: Rehabilitation of bridges (US$12.10 million, comprising of US$10.25 million IDA and US$1.85
+million GoR funding). The subcomponent will finance: (i) consulting services for technical studies, supervision, and
+monitoring of works; and (ii) rehabilitation or repair of about 15 bridges in a climate-resilient manner.
+25.     Component 2: Environment and social risk management, community engagement, and awareness campaigns
+(IDA, US$2.90 million). The component will finance the following activities:
+           Land acquisition and cash compensation costs for project-affected persons (PAPs) (US$1.70 million). IDA funds
+            will be used to finance land acquisition for impacted persons along the road sections and bridges, and costs
+            related to RAP implementation including compensation fees for PAPs.
+           Risk mitigation, community and stakeholder engagement in planning and execution including grievance
+            redress, awareness workshops, and training on disaster risk management and mitigation (US$0.40 million).
+            The activity will allow engagement with local communities living along the damaged infrastructures and
+            discuss grievance redress through awareness workshops.
+           Enhancing the capacity of climate resilience committees led by women (US$0.40 million). These committees
+            will give their view on the prioritization of interventions that will be financed by the project considering
+            climate impact on gender regarding the use of transport services and infrastructures. They will be trained on
+            how to report any disaster occurrence using the already established channels. The project will collaborate
+            with the Ministry in Charge of Emergency Management (MINEMA) which has established a framework
+            involving the participation of residents in reporting on disasters and climate change starting from the
+            community level up to the national level. RTDA plans to engage with MINEMA to assess the existence of
+            communitarian committees and implement any necessary interventions thereafter to increase women’s
+            leadership position within them.
+
+           Road safety measures (US$0.40 million). The project will focus on creating safer infrastructure through design
+            and conducting road safety audits at various stages, including during design, construction, and before opening
+            to traffic. Facilities for vulnerable road users and speed management will be implemented in the project areas.
+            Safety during construction will be addressed through road safety audit (RSA) recommendations. By partnering
+                                                             7
+        The World Bank
+        Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+            with enforcement agencies, the project will ensure the enforcement of safer speed limits. Additionally, the
+            project will promote safer road use (based on the upgraded infrastructure) through campaigns targeting
+            school students, including speed management and helmet use for local road users, such as motorbike and
+            truck drivers.
+26.     Component 3: Implementation support, monitoring, capacity building (IDA, US$1.10million).
+           Project management and incremental operating costs (US$0.30 million). This will cover the salaries of
+            competitively recruited experts fully dedicated to the project, as well as travel expenses and other incremental
+            operating costs.
+           Technical assistance and institutional support (US$0.60 million). This activity will support the capacity building of the
+            staff of RTDA, MININFRA, and MINEMA involved in the project implementation, to enhance and broaden their
+            skills in climate change mitigation and adaptation and gender. It will finance engagement sessions with
+            women in the project area to identify and address barriers that women face to participate in road works in
+            low, medium, and high-level skills and provide recommendations to enhance their participation.
+           Monitoring and evaluation (US$0.20 million). This activity will enable reporting of the project implementation
+            progress and its impacts.
+27.     Component 4: Contingent Emergency Response (US$0 million). This zero-dollar component can be activated to
+provide support for an immediate response to an eligible crisis or emergency as needed. A CERC Manual and an Emergency
+Action Plan will have to be prepared separately and approved by the World Bank, which will constitute a disbursement
+condition for the CERC. If this component is activated, the project will be restructured to reallocate funds, and to revise
+the PDO, indicators, and implementation arrangements as needed.
+28.     Partnership and collaboration. RTDA has an ongoing long-term Technical Assistance (TA) on climate-resilient road
+transport infrastructure supported by NDF. Under this TA, RTDA has completed a countrywide vulnerability mapping,
+development of build-back better guidelines for structures, and technical specifications for pontoon bridges. Review of
+roads and bridges design standards is ongoing followed by implementation of small-scale pilot projects along the selected
+road corridors. The project will benefit from both engineering and environmental solutions identified under the NDF-
+financed TA and will scale up the impact.
+
+
+
+
+                                                                 8
+        The World Bank
+        Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+               Table 1: Summary of Project Components and Estimated Costs and Financing (US$ million)
+                                                                                                                       Counter
+  Component and activities                                                                     Total         IDA
+                                                                                                                         part
+  Component 1: Rehabilitation or reconstruction of damaged transport infrastructure in a
+                                                                                               89.68        76.00       13.68
+  resilient and safe manner
+    Sub-component 1.1: Rehabilitation or reconstruction of damaged national roads              51.33         43.50       7.83
+        Consultant services for technical studies, supervision, and monitoring of works         3.00         2.54       0.46
+        Rehabilitation of national roads (254km) in a climate-resilient manner                 48.33        40.96       7.37
+    Sub-component 1.2: Rehabilitation or reconstruction of damaged district roads              26.25         22.25       4.00
+        Consultant services for technical studies, supervision, and monitoring of works         1.50         1.27       0.23
+        Rehabilitation of district roads (130km) in a climate-resilient manner                 24.75        20.98       3.77
+  Sub-component 1.3: Rehabilitation of damaged 15 bridges in a climate-resilient manner         12.10        10.25       1.85
+        Consultant services for technical studies, supervision, and monitoring of works         0.50         0.42       0.08
+        Rehabilitation of 15 bridges in a climate-resilient manner                             11.60         9.83       1.77
+  Component 2: Environment and social risk management, community engagement, and
+                                                                                                2.90                    0.00
+  awareness campaigns                                                                                        2.90
+        Land acquisition and cash compensation cost for project-affected persons along the
+        road sections and bridges-RAP implementation (compensation fees for project-            1.70         1.70       0.00
+        affected persons)
+        Risk mitigation, community and stakeholder engagement in planning and execution
+        including grievance redress, awareness workshops, training on disaster risk             0.40         0.40       0.00
+        management and mitigation
+  Climate resilience committees led by women                                                    0.40         0.40       0.00
+        Road safety-focused campaigns, training, and personal protection equipment to
+                                                                                                0.40           0.40   0.00
+        reduce fatalities along the roads to be repaired and rehabilitated
+  Component 3: Implementation support, monitoring, capacity building                            1.10        1.10        0.00
+        Project management costs-selected implementation costs, consultant fees                 0.30        0.30        0.00
+  Technical assistance in climate change mitigation and adaptation and training for
+                                                                                                0.60         0.60       0.00
+  excavators and wheel loaders for 4 months.
+        Monitoring and evaluation for reporting of the project implementation progress and
+                                                                                                0.20         0.20        0.0
+        its impacts
+  Component 4: Contingent Emergency Response (CERC)                                             0.00         0.00        0.00
+  Total                                                                                        93.68        80.00       13.68
+
+
+ C. Project Beneficiaries
+29.     The project covers 6 districts in four provinces across the country with various levels of impact caused by the
+floods. The beneficiaries mainly include the local community’s road users along the damaged infrastructures and in the
+project areas, farmers, and owners of various agriculture schemes. The project is expected to create temporary job
+opportunities during the construction period, and later during maintenance works. Rehabilitating the roads will restore
+the connectivity of the concerned regions and districts and will allow the movement of goods and passengers to resume
+safely between Kigali and these areas, and between the different districts, thus creating economic opportunities.
+Rehabilitating the national and district roads will also improve access to markets and socio-economic services and link
+these districts with Kigali. About 2.3 million beneficiaries (about 70 percent) including youth and women will benefit from
+the rehabilitation of these roads and bridges. Other project beneficiaries will include the public institutions and their staff
+involved in road construction such as MININFRA and RTDA, and the private sector executing contracts during the project
+
+                                                                9
+        The World Bank
+        Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+implementation. The project is expected to contribute to increasing the percentage of all-weather roads in the affected
+areas to allow business growth.
+
+ D. Results Chain
+30.      A Theory of Change is presented below (Figure 1). The key outcomes for this project include: (i) Improved
+connectivity among the districts through rehabilitated national and district roads and bridges; (ii) reduced travel time
+along selected rehabilitated roads; (iii) enhanced climate resilience of the damaged roads infrastructure; and (iv) improved
+livelihood conditions of people who benefitted from the connected basic socio-economic infrastructures along the roads.
+                                                   Figure 1: Theory of Change
+
+
+
+
+ E. Rationale for Bank Involvement and Role of Partners
+31.     The project is responding to an emergency from heavy flooding in four provinces across Rwanda and will
+complement ongoing World Bank-funded projects and other donor-funded interventions in the country. The project will
+contribute to the objectives of other ongoing transport initiatives geared toward seamless movement of people and goods
+across the country through the construction of climate-proof infrastructure. Other partners actively involved in supporting
+the climate resilience agenda in Rwanda are the NDF, JICA, and the African Development Bank. Under the coordination of
+the Government of Rwanda, IDA regularly consults with other donors to ensure interventions are complementary.
+32.     The project is focused on rehabilitation and repairs that need to be undertaken with public funds. The roads
+that were damaged due to high rainfall and floods are either national or district roads owned and managed by government
+                                                            10
+        The World Bank
+        Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+entities using public funds. The nature of the works are spot repairs of damages and would not qualify for private sector
+financing or public-private participation (PPP) because the works are relatively small and spread over a wide area, with
+low revenue generation potential.
+ F. Lessons Learned and Reflected in the Project Design
+
+ 33.    The project builds on past and ongoing World Bank support to Rwanda to improve its road network and
+ adaptation and resilience to climate change impacts. It also builds on the lessons drawn from similar projects
+ implemented in other countries:
+           Inclusion of resettlement costs under IDA funding to avoid implementation delays. The lack of adequate
+            counterpart funding to cover resettlement costs has caused delays in the implementation of the two ongoing
+            World Bank-funded Road projects. The recipient has faced persistent challenges in mobilizing counterpart
+            funding due to the GoR’s constrained fiscal resources considering the current financial demands and external
+            factors affecting Rwanda (the COVID-19 pandemic, floodings and landslides, pan-African food insecurity). For
+            both KLPConnect and this project, IDA will allocate funds to cover compensation payments to PAPs and other
+            related costs for the implementation of the Resettlement Action Plans (RAP) to avoid delays in making land
+            available for roadworks.
+           Climate change is a cross-cutting issue that requires collaboration and innovative approaches. In addition
+            to repairing the damage, appropriate measures are required at different levels to address climate change
+            impacts. This ranges from project design, regulations, management, and access to information to capacity
+            building (human resources, technical, and financial capacity) within a range of key government roles and
+            institutions. MINEMA’s participation in the project will ensure that climate change is addressed holistically,
+            with related activities for capacity building, improved design standards, and mainstreaming in construction
+            and maintenance.
+           Strengthening the project beneficiaries’ implementation capacity is essential to ensure sustainability. Even
+            though RTDA has long-standing experience in managing the World Bank-financed and other donor-financed
+            projects, adaptation and mitigation of climate change effects are underdeveloped. Project implementation
+            arrangements should provide an opportunity to build and strengthen in-house institutional capacity and the
+            project’s institutional strengthening component will cater to that.
+
+           The emergency context and potential worsening of the situation in the affected areas during the next rainy
+            season will require adjustment of estimated costs. The nature of the emergency has not allowed precise
+            estimation of the project costs and they might be underestimated due to a risk of deeper impact on the roads
+            and bridges’ geotechnical structure. To mitigate the risk of cost overruns, civil works cost estimates will be
+            based on detailed engineering design and will include adequate contingencies. Existing contractors on the
+            same roads for periodic maintenance will be used for the works, reducing substantially the mobilization cost
+            on the contracts.
+           Specific attention is needed to ensure the inclusion of women as beneficiaries and to mitigate gender-based
+            violence (GBV) risks. The country’s experience in women employed as workers has been successful in
+            providing a source of income for women and thereby also improving their livelihoods. The project will seek to
+            promote women’s employment in the road sector and capacity building for long-term jobs. The project is
+            designed to mitigate and respond to cases related to Sexual Exploitation and Abuse (SEA) based on local
+            context and lessons learned from international experience.
+
+
+
+
+                                                           11
+        The World Bank
+        Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+ III. IMPLEMENTATION ARRANGEMENTS
+ A. Institutional and Implementation Arrangements
+
+34.      The project’s institutional arrangements consist of RTDA as the implementing agency under MININFRA. The
+Ministry of Finance and Economic Planning (MINECOFIN) is the representative of the Government on the issues related to
+the Financing Agreement and will offer guidance and leadership on the utilization of the project’s counterpart funds. Other
+entities involved are the Road Maintenance Fund (RMF), the Rwanda Environment Management Authority (REMA), the
+Rwanda Water Resources Board (RWB), the Gender Monitoring Office, and the district authorities. The MINEMA will
+participate in the project implementation given their national mandate to lead disaster management-related
+interventions. The institutional role of each stakeholder is described in Annex 1: Implementation Arrangements and
+Support Plan. MININFRA and MINEMA will co-chair the project steering committee and provide strategic guidance for
+implementation.
+35.      Implementation arrangements. RTDA, through the Single Project Implementation Unit (SPIU), is the
+implementing agency of the project. Thus, one special account will be provided. The SPIU will handle technical matters,
+procurement, financial, and environmental and social issues for all the activities. For successful implementation of the
+project, it was agreed to designate a team inside RTDA SPIU for the project preparation and implementation. The project
+implementation team would be kept in place during the project implementation to ensure consistency, continuity, and
+efficiency in the project management.
+Proposed project design principles and approach for executing the road works.
+36.      The project will be implemented in four years using the spot improvement approach on the damaged roads
+(national and district) sections. The roads and bridges to be rehabilitated and repaired are selected among those damaged
+by the floods of May 2023. The selection criteria will be done by RTDA experts in consultation with MININFRA, with
+prioritization considering the severity of the damages and the economic impact. As RTDA already has contractors
+operating on the national roads for their maintenance, the works will be undertaken by these same contractors based on
+a technical specification of the works to be executed. For roads where there is no contractor in place, RTDA will use a fast-
+track procurement process to select contractors on an emergency basis. These methods are explained in detail in the
+Project Procurement Strategy for Development (PPSD).
+37.      Spot improvement involves targeted enhancements or repairs of specific damaged areas along a specific road
+section. The focus is on addressing localized issues such as embankments and slope failures, roads and bridges damaged
+by floods requiring raising, rehabilitating, reconstructing, repairing, or improvement of drainage systems, and critical
+potholes or surface irregularities that compromise road safety and functionality. Key activities will include backfills,
+retaining walls in stone masonry and gabions, re-graveling, construction, or repair of layers of the road, masonry drainage,
+signposts, crash barriers, planting trees and grass, pipe culverts, rockfill, landslide removal, and back slope trimming,
+among others. This approach allows for an efficient allocation of resources by targeting priority areas with the greatest
+need for improvement while minimizing disruption to traffic flow and reducing costs associated with full road
+rehabilitation. Spot improvement serves as a strategic maintenance strategy to address immediate concerns and extend
+the lifespan of road infrastructure until more extensive rehabilitation works can be undertaken in the future. These
+interventions will be organized in two cohorts:
+           The first cohort is composed of spot improvement on about 254 km of national roads and damaged bridges
+            which will be rehabilitated using existing contractors. This cohort concerns damaged sec ons on na onal
+            paved roads under component 1 and bridges. The implementation will be managed by existing contractors
+            competitively recruited by RTDA for periodic maintenance. Recruitment of other contractors for the same
+            roads would create collaboration issues among the contractors as the boundary of their tasks would be
+            difficult to define. Those exis ng/ongoing contracts are subject to unit prices, as they are being executed based
+
+                                                             12
+        The World Bank
+        Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+             on service orders issued by RTDA resul ng from a joint site visit between RTDA, the contractor, and the
+             supervision consultant to iden fy spots to be maintained. During the prepara on of technical speciﬁca ons
+             and prepara on of tender documents, RTDA has ensured that all possible ac vi es (items) that can occur for
+             road maintenance are covered in the bill of quan es. This cohort concerns the most urgent and critically
+             damaged roads and bridges and is in districts most affected by flooding and for which there are existing
+             contractors in place.
+            The second cohort is composed of spot improvement of damaged sec ons located on na onal unpaved
+             roads, and district roads, and repair or rehabilita on of bridges using the category A1 & A2 contractors as
+             established by the Rwanda Public Procurement Authority (RPPA). These sections are currently not covered
+             by any type of contract for work or consultancy services. Given the emergency, it is proposed to use limited
+             compe ve bidding to respond expedi ously.
+38.    The project will use adaptative and accelerated procurement processes to expedite the procurement processes
+and respond to the emergency nature of the project. This includes using a set of pre-identified civil works contractors
+who have a proven track record of rehabilitating transport infrastructure and with valid contracts in the works areas. The
+RTDA will use the list by inviting sets of firms to bid on contract lots grouped by districts and type of infrastructure (national
+unpaved roads, district roads, and bridges). Firms will be evaluated on their financial and technical capacity.
+39.     Supervision of works. Given the emergency, RTDA will maintain existing supervision consultants on national
+paved roads and use a limited competitive bidding process where these consultants are not in place (cohort 2). In the
+second case, a direct Request for Proposals (RFP) will be issued to the consulting firms as per the categorization of
+consultancy services related to roads and bridges as established by RPPA.
+
+ B. Results Monitoring and Evaluation Arrangements
+40.      Achievement of project objectives, as measured by the corresponding key performance indicators, will be
+monitored, and reported upon regularly. The monitoring and evaluation (M&E) system will capture information to assess
+project results against the targets set as part of the Results Framework. The baseline information has been drawn from
+the preliminary study undertaken after the floodings and will be followed up with beneficiary surveys and other
+assessments at the midterm review (MTR) and closing to evaluate qualitative and quantitative aspects of project results.
+Progress of the key performance indicators will be measured through the implementation support missions and some
+specific surveys. Specific details for project management and reporting will be laid out in the Project Implementation
+Manual (PIM) which will serve as the overall guiding document for the SPIUs. The PIM will be prepared and adopted by
+the recipient by effectiveness. The recipient will carry out an MTR two years into implementation. The target indicators
+will be provided before the start of the activity impacting them.
+ C. Sustainability
+41.      The project investment sustainability will be ensured through the Road Maintenance Fund (RMF) which will
+take over the maintenance of the repaired and rehabilitated roads after the end of works and closing date. The road
+rehabilitation or reconstruction, and the subsequent routine maintenance will be contracted out in two stages: the first
+stage is to repair, under emergency procedures, the roads and bridges damaged by floods, while the second stage is to
+appoint contractors for the maintenance of the rehabilitated infrastructure. In Rwanda, the existing RMF is ensuring the
+sustainability of the road sector investments and benefits through long-term maintenance and enforcement of axle load
+control to preserve the road and bridge assets.
+42.     Rationale for Triggering Emergency Procedures under Paragraph 12, Section III of IPF Bank Policy, and
+Processing the Project using condensed procedures. Heavy rains happened on May 2 and 3, 2023, and repetitive floodings
+and landslides have caused severe damages and have had a debilitating effect on Rwanda's road system in the northern,
+western, and southern parts, affecting the road connectivity of 26 districts and about 9 million people. Such infrastructure
+                                                               13
+        The World Bank
+        Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+plays a critical role in providing the connectivity with regional roads required for the supply of goods and services in the
+country, and connections to health centers, schools, and any socio-economic opportunities that are of vital importance
+for the poor and most vulnerable populations in isolated areas of the country, and zones affected by the floods. Large
+communities have been struggling to connect after the damage and the next coming rainy season may worsen the
+situation. To restore the connectivity between the capital city with the districts, the borrower requested in August 2023
+support from the World Bank to restore the connectivity in the affected zones. A CRW has been activated and the approval
+of the World Bank management for an amount of US$80 million was obtained on February 1, 2024. The project has been
+prepared in parallel to the request to fast-track its preparation. The project activities, especially the rehabilitation of
+national and district roads and bridges, if not done urgently, will break access and continuity of the integrated movement
+of people and goods in the affected area (agriculture and livestock products, trade activities, basic services accessibility)
+with the resulting negative economic and social implications. Furthermore, the damages could be worsened if no action
+is taken to rehabilitate before the forthcoming heavy rainy season in Rwanda (expected in May 2024).
+43.      To respond to the GoR’s request in a situation of emergency, the project is prepared using condensed IPF
+procedures for its preparation and implementation to respond to damages caused by the flooding. The condensed
+procedures will allow the use of alternative approaches for procurement, disbursement, and meeting environmental and
+social requirements that usually take longer to prepare. The IPF condensed procedures allow the World Bank team to fast-
+track the preparation to make funds available for damages repairs and to mitigate the risks before the next heavy rains. A
+normal preparation timeline would not allow the World Bank to provide its support on time.
+
+ IV. PROJECT APPRAISAL SUMMARY
+ A. Technical, Economic, and Financial Analysis
+44.      The national roads to be rehabilitated are mostly paved roads (7-meter carriageway), while the district roads
+are earth roads (7-meter carriageway for district roads class 1 and 6-meter carriageway for district roads class 2). A
+detailed assessment of the spots created due to heavy rains will be undertaken to assess their severity and location. This
+will be followed by a prioritization of emergency works for the identified spots based on criteria such as the severity of
+the damages, disturbance of the traffic, and the required resources for repairs. Additionally, the work's design will include
+the stabilization of slopes to prevent them from collapsing, with embankments of critical areas. The project scope will be
+derived from the long list of damaged roads and bridges following the recent flooding: 16 national roads, 26 district roads,
+and 47 bridges.
+Economic Analysis
+45.       The project is expected to generate economic, social, and environmental benefits. The principal benefits will go
+to road users and the country’s commercial sector by facilitating the transfer of goods for the private sector and deepening
+regional integration, all being key success factors to the achievement of GoR’s Vision 2050 development objectives. The
+benefits will include: (i) decreased travel times along the road corridors; (ii) reduced vehicle operating costs (VOCs); and
+(iii) reduced vulnerability of the roads and bridges to climate effects (flooding, landslides, etc.). The project is also expected
+to provide significant economic and social benefits from the improved access to socio-economic infrastructure in the
+project area, ensuring that the gains from the project are distributed across income groups (including youth and women).
+Expected environmental benefits include improving the road sections with climate-resilient infrastructure and reducing
+net CO2 emissions per vehicle with better vehicle conditions and smoother traffic flows. Trading activities and commercial
+businesses are expected to prosper for the benefit of roadside communities.
+
+
+
+
+                                                               14
+          The World Bank
+          Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+Climate Mitigation and Adaptation Activities
+Paris Agreement
+46.     The project is aligned with the goals of the Paris Agreement on both adaptation and mitigation. The project is
+consistent with the country’s NDC, revised GGCRS, and CCDR, as documented in the section on Relevance to Higher Level
+Objectives. The full description of climate risks is provided in the section on Country Context.
+47.      Assessment and reduction of adaptation risks. The project adequately reduces the physical climate risks to the
+project outcomes. The project’s climate resilience and adaptation design considerations limit the vulnerability of the
+infrastructure to a low level of residual risk. The project invests in the design, rehabilitation, and repairs of roads and
+bridges to climate-resilient standards.36 Examples of climate resilience measures include the deployment of appropriate
+drainage infrastructure and erosion and landslide prevention measures such as the protection of road embankments,
+specialized pavement surface materials, and tree planting along the sections. Component 2 of the project is providing
+capacity building in climate resilience aspects of transport infrastructure. The project is therefore assessed to be low risk
+and aligned from an adaptation perspective to the Paris Agreement. On adaptation, the project adequately reduces the
+physical climate risks to the project outcomes, and the project’s climate resilience and adaptation design considerations
+limit the exposure to a low level of residual risk.
+48.      Assessment and reduction of mitigation risks. The project is mainly mitigating the climate change impact of
+transport infrastructures and is by itself having a positive impact on the country’s low-GHG-emissions development
+pathways. The activities financed by the project are either universally aligned or present low mitigation risk. The project
+invests in the design, rehabilitation, and repairs of roads and bridges damaged following floods. Works are implemented
+without capacity expansion and there is no risk of contributing to deforestation. Rwanda has a very low motorization rate
+with 14 vehicles per 1,000 inhabitants.37 The project through its component 2 will finance climate change training for RTDA
+and MININFRA staff for the sake of this project and further management of climate resilience for transport infrastructure
+in Rwanda. The project infrastructures, when rehabilitated, will have positive implications for safe and resilient
+connectivity. The project is therefore assessed to be aligned from a mitigation perspective. Annex 3 provides an overview
+of activities to strengthen the climate resilience of the road sections and bridges.
+Climate and Disaster Risk Screening
+49.      The project locations are exposed to rising flood and drought risks, with expected high impacts on road
+infrastructure, water availability, and food security . The project locations have experienced climate and geophysical
+hazards in the recent past and are expected to experience these in the future with high intensity, frequency, or duration.
+Floods increase soil erosion and silting of drainage infrastructure leading to water submerging roads. There has been an
+uptick in heavy rainfall occurrences, particularly in the northern and western provinces, leading to frequent flooding, flash
+floods, landslides, and mudslides, causing damage to infrastructure and loss of life (see Picture 1, damaged infrastructures
+due to flooding). Accordingly, the exposure is rated as high since past events and projections indicate an increase in mean
+and extreme precipitation variability with a high risk of flooding in future decades. With the current assessment of
+exposure risk to natural climate risk and natural hazards, the potential impacts on the project’s physical infrastructure and
+assets are expected to be substantial. This requires the deployment of resilience and adaptation measures, including
+integration of climate information, such as: (i) vulnerable area mapping, in the planning and design of activities; (ii)
+adopting climate-informed design and the provision of regular maintenance; and (iii) the planting of trees to combat land
+
+
+
+36 Climate resilient design and construction standards ensure that road infrastructure, bridges and drainage infrastructure can cope with current
+and future climate conditions.
+37 Ayetor G.K, Mbonigaba I., Ampofo J., Sunni, Investigating the state of road vehicle emissions in Africa: A case study of Ghana and Rwanda . The
+
+Transportation Research Interdisciplinary Perspectives; Elsevier. September 2021.
+                                                                         15
+          The World Bank
+          Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+degradation, erosion, and the occurrence of landslides. The combination of physical mitigation and adaptation measures
+with the project’s enabling components and development context will lead to a moderate risk of outcome/service delivery.
+50.      Climate Co-Benefits: The project is expected to improve the climate resilience of road infrastructure. Special
+attention will be paid to the design of embankments in flood-prone areas, to ensure their height is adequate to resist
+increasing levels of flooding in the project areas without causing drastic washouts. The project costs and benefits in terms
+of the change in greenhouse gas (GHG) emissions, especially CO2 can be assessed using the new carbon price
+recommended by the World Bank for the economic analysis of projects. It is expected that on a vehicle-km basis, there
+will be a reduction in carbon emissions due to smoother traffic flows and less idling due to stop-go operations. Rwanda
+prepared its Country Climate and Development Report (CCDR) and disclosed it in September 2022. The CCDR enables
+mainstreaming of the climate agenda in the country engagement process thus contributing to the implementation of the
+Climate Action Plan.38
+51.    Climate mitigation: GHG emissions will be reduced because of better road conditions. An analysis for LVTP SOP1
+has shown that up to 40 percent of GHG emissions could be avoided when improving road conditions and traffic flows.
+52.     Climate adaptation of the roads and bridges infrastructure: The project will finance the rehabilitation and repair
+of roads and bridges at national and district levels in the targeted regions using climate-resilient standards. 39 Roads and
+bridges will be rehabilitated to resist landslides, flooding, and erosion through measures such as stabilization of slopes
+and embankments, grass and tree plantation, and improved drainage systems.
+53.      Road rehabilitation and bridge repairs will be designed applying mitigation and adaptation measures to make
+them resilient to climate change and reduce their vulnerability to further floods. The works consist of rehabilitation and
+repairs according to the severity of the damages to make infrastructure more resilient to water crossing and its damages.
+The design of the repairs and rehabilitation works will consider the climatic impacts in each province and the safety
+parameters for road users. Repairs will include: (i) strengthening the base and/or sub-base of sections with more resilient
+material compacted; (ii) constructing drainage canals along sections to channel away the quantity of water that damaged
+the roads; (iii) upgrading bridges to support the quantity of water flow in the rivers; and (iv) sealing the surface (for paved
+roads) to protect sections against infiltration that can lead to a wash up of the base. Techniques will be adapted for paved
+and unpaved roads. Additionally, roads side slopes, embankments, culverts, and bridges will be protected and reinforced.
+The existing RTDA guidelines will be used but also enhanced where required to improve the climate resilience design of
+infrastructures. The entire investment for works (US$89.68 million of which IDA is providing US$76 million) is contributing
+to the climate resilience of the infrastructure (roads and bridges). About 15 climate-resilient bridges and many drainage
+channels will be constructed along the damaged roads and in replacement of deteriorated bridges using the spot
+improvement approach.
+54.      Rehabilitation and repair of roads and bridges to enhance resilience to increased water flow from heavy rains
+and floods throughout their life cycle. RTDA will collect data on the damaged structures in terms of hydraulic,
+topographical locations, water flow rates, and mechanical resistance. Infrastructures that are in critical condition will be
+prioritized. Given the significant damages to 16 national roads totaling US$64.28 million, 26 district roads totaling
+US$49.95 million, and 47 bridges totaling US$12.90 million, resulting in a total rehabilitation cost of US$127.13 million
+due to recent floods, the available funds (US$93.68 million) are insufficient. Therefore, prioritizing critical roads and
+bridges is the most practical approach for rehabilitation efforts. The preliminary study shows that there are many sections
+damaged and bridges destroyed that have geotechnical and hydraulic limitations to resist flooding and to carry the
+exceptional water flow due to climate change. A selected number of damaged road sections and bridges will be repaired
+
+38 The Climate Action Plan starts from the premise that climate and development need to be integrated, both to facilitate successful mitigation and
+adaptation, and to ensure economic development is sustainable.
+39 Climate resilient design and construction standards ensure that road infrastructure, bridges and drainage infrastructure can cope with current
+
+and future climate conditions.
+
+                                                                        16
+        The World Bank
+        Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+and rehabilitated to improve their resilience to climate. The amount allocated to the bridges is US$10 million. The
+rehabilitation will include the construction of ditches to collect water from the road and convey it to outlet points.
+Channels will be constructed to drain water from the sub-base layer of the road and avoid the runoff of the soil if it is wet
+of rainwater. The list of roads and bridges per district is provided in Annex 2.
+                                 Picture 1: Damaged Infrastructures due to Flooding in May 2023
+
+
+
+
+55.     RTDA has an existing road and bridge design manual that will be revised to incorporate climate resilience aspects
+along with new guidelines on construction materials and build back better and best practices for right-of-way erosion
+control. The manual revision will cover:
+
+           Build back better guidelines for bridges/structures.
+           Emergency responses to bridge, slope, and flooding disasters
+           Specifications for floating pontoon bridges
+           Best practices for right-of-way erosion control measures guideline
+           Guidelines for sealing technologies
+           Guidelines on road materials recycling and stabilization
+           Gravel road inspection manual
+           Gravel roads maintenance manual.
+
+                                                             17
+            The World Bank
+            Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+56.    RTDA will also develop climate and disaster risk management plans of action for resilience interventions, early
+warning, emergency response, and community awareness strategy. These are being developed under the study of
+Geohazard Risk Management and Climate Resilient Feeder Roads in Rwanda financed by the World Bank.
+Road Safety
+57.     The project adheres to the promotion of road safety measures during project Implementation, as do all other
+ongoing World Bank-financed Road projects in Rwanda. It is planned that during the rehabilitation works, the project will
+conduct: (a) traffic safety sensitization campaigns for schools, health centers, and markets along the project roads; and
+(b) community engagement sessions for road safety at district and sector levels to ensure the local communities are aware
+of road safety measures. At the institutional level, RTDA and MININFRA will continue benefiting from road safety activities
+from LVTP, FRDP, and the KLPConnect project. The project for instance adheres to the plan of setting up a road safety
+strategy with KLPConnect support to MININFRA.
+Gender
+58.      The project will address some of the gender gaps identified in access to employment opportunities in the sector
+and in exercising voice and agency. Under Component 1, the project will complement the activities in the KLPConnect to
+address gender gaps related to women’s engagement in road construction technical jobs and in medium-level skilled jobs.
+For this purpose, through Component 3, the gender specialist at RTDA designated for the project will lead an analysis of
+the barriers to inform the development of a Gender Action Plan with activities to support training for women in road
+works, including implementation arrangements for training and certification for different skill sets in road works, and
+improvements to the internship initiative already established within RTDA via a collaboration between Rwanda
+Development Board (RDB) and the Institution of Engineers Rwanda (IER) to recruit female candidates. The project will
+contribute to this program by upholding it to ensure its effectiveness and sustainability in the long run
+59.     In addition, the project will also support the creation of climate resilience committees whose role will be to
+operate early warning and emergency response systems to natural disasters. This activity will contribute to identifying
+risky points for women derived from natural disasters, ensure women’s voices are translated into interventions, and
+contribute to emergency response. To ensure sustainability, different activities can be put in place, including: (a)
+awareness raising in the communities and community dialogue; (b) training of trainers so that this awareness is
+permanent; (c) written agreement within the municipalities and communities facilitated by the client to ensure the
+conformity of the committees and that 50 percent of the members will be women (including in leadership roles); and (d)
+capacity building for women on leadership and negotiation skills. RTDA will collaborate with MINEMA to use the existing
+country system to create these committees.40
+
+                            Table 2: Activities Proposed to Include Gender Considerations in the Project
+         Activity                                                                                                   Estimated Cost
+ 1       Training fee for excavator and wheel loaders for 4 months                                                  US$26,000
+ 2       Internship for women engineers (16 persons) (included in the supervision consultant                        US$270,000
+         fees)
+ 3       Women committees on climate (832 people to be trained)                                                     US$ 40,000
+         2 people from each sector in 416 sectors of the country (gender inclusive)
+
+
+
+
+40   Indicator for the women-led communitarian structures: Percentage of women in leadership positions in communitarian structures (Target: 50%).
+
+                                                                        18
+        The World Bank
+        Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+60.     The project will align with the World Bank’s Good Practice Note on addressing SEA and SH in investment
+projects involving major civil works. The project will also establish a robust grievance redress mechanism and ensure
+adherence to the stakeholder engagement plan.
+Citizen Engagement
+61.      The project will adopt a robust citizen engagement approach throughout its cycle, taking advantage of Rwanda’s
+well-established Grievance Redress Mechanism (GRM). Rwanda achieved substantial progress based on strong
+leadership where leaders and citizens have a shared vision of the development projects. Citizen engagement
+considerations are part of the project implementation strategy, building on ongoing projects (LVTP, FRDP) practices. The
+project will implement a thorough consultation and communication strategy with the project stakeholders including
+citizens along the damaged roads and bridges to develop an inclusive approach in considering the local communities’
+concerns. RTDA will organize public and stakeholder consultations in the districts concerned by the project to collect their
+views and concerns on the project and hear their proposals to remedy any adverse impact on their socioeconomic
+activities and their livelihoods. The stakeholder engagement plans, based on inclusive consultations, include a project-
+specific GRM that outlines opportunities and avenues by which project stakeholders can seek timely redress for project-
+related grievances and complaints. The project will track locals’ satisfaction regarding improvements made through the
+roads and bridges rehabilitation and repair. The related beneficiary feedback will be monitored during project
+implementation through an indicator in the Results Framework.
+
+ B. Fiduciary
+     (i) Financial Management
+62.       An FM assessment was carried out for the project in accordance with the World Bank Policy and Directives on
+Investment Project Financing (IPF). The assessment was carried out on the implementing entity, RTDA to determine
+whether it has acceptable FM arrangements, which will ensure that: (i) funds are used for the intended purposes in an
+effective, efficient, and economical way; (ii) financial reports will be prepared in a reliable, accurate, and timely manner;
+and (iii) project assets will be appropriately safeguarded.
+63.     The project benefits from public financial management (PFM) reforms the country have undergone, the
+project’s oversight and accountability arrangements, and the experience obtained from implementing World Bank-
+funded projects. The PFM system is anchored in solid legal frameworks and PFM strategies. Progress has been made in
+budget planning, expenditure efficiency, enhancement of the internal audit function, external audit coverage, and
+financial reporting. The Public Expenditure and Financial Accountability (PEFA) 2022 confirmed these strengths. The
+project has an acceptable project oversight and accountability structure which involves a national SC, management
+oversight, internal oversight bodies (internal audit and audit committee), external oversight bodies (Office of the Auditor
+General), and Parliament that approves the government's budget.
+64.     Based on the assessment conducted, the FM risk of the project is rated moderate. RTDA has adequate
+experience in managing World Bank-financed operations and has mostly complied with key FM deliverables. The following
+key risks are identified: (i) inadequate preparation of Annual and Work Plan and Budget (AWPB) which could lead to
+irregularities in spending and accountability of resources; and (ii) delay in submission of quality financial reports and taking
+timely action on audit report findings. These risks will be mitigated through maintaining adequate staff at the RTDA SPIU
+throughout the life of the project; provision of capacity building and training on World Bank-financed operations and using
+internal audit functions to assist in the timely action on audit report findings. A PIM will clarify roles and responsibilities
+as well as the timelines for the preparation of AWPB, reporting, and auditing requirements. An action plan has been
+prepared to help mitigate the identified risks and this will be monitored throughout project implementation.
+65.   The FM arrangement of the project will be the following: AWPB will be prepared in detail for each of the
+components/categories with the details of IDA and GoR resources which will be submitted to the World Bank for approval.
+                                                              19
+        The World Bank
+        Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+The SPIU at RTDA will receive training on managing World Bank-financed projects. RTDA will open a designated account
+to receive funds for the project; and submit quarterly financial reports and annual audit reports to the World Bank. The
+internal audit unit of RTDA will audit the project and make the reports available to the World Bank as required. RTDA will
+have the responsibility to take timely action on the audit report findings and notify the same to World Bank. Detailed FM
+arrangements will be captured as part of the PIM.
+     (ii) Procurement
+66.     The project procurement will be carried out in accordance with the World Bank Procurement Regulations for
+Borrowers under Investment Project Financing, dated September 2023, hereafter referred to as ‘Procurement
+Regulations’. The project will be subject to the World Bank’s Anticorruption Guidelines, dated July 1, 2016, and beneficiary
+disclosure requirements. The project will use Systematic Tracking of Exchanges in Procurement (STEP), a planning and
+tracking system that will provide data on procurement activities, establish benchmarks, monitor delays, and measure
+procurement performance.
+67.     A Project Procurement Strategy for Development (PPSD) will set out the selection methods to be followed by
+the borrower during project implementation in the procurement of goods, works, non-consulting and consulting services
+financed by the World Bank. The underlying Procurement Plan will be updated at least annually or as required to reflect
+the actual project implementation needs and improvements in institutional capacity.
+68.     Rated Criteria will be used for all international competitive procurements, with exception of procurement of
+pharmaceuticals, vaccines, off-the-shelf goods and educational materials , commodities and other exceptions cleared by
+the World Bank’s Chief Procurement Officer on a fit-for-purpose basis, where use of Rated Criteria is not mandatory. The
+rated criteria are also a tool for taking sustainable procurement (environmental, social, economic and climate change)
+into consideration in the procurement processes.
+69.      Based on risks and gaps identified, the project procurement risk rating is moderate. The concept stage
+Procurement Risk Assessment and Management System (PRAMS) with moderate procurement performance was validated
+during the appraisal. Key risks identified were: (a) corruption, collusion, and conflicts of interest; (ii) contract price increase
+due to inflation, currency instability, and interest rates; (iii) unexpected extreme weather, intense rainfall, and landslides;
+and (iv) access and registration issues by bidders to e-procurement system, and limited skills for contract management.
+70.     Recommended mitigation measure are as follows: (i) Improve the complaint management system, strengthen
+internal and external audits, and disclosure of information and procurement data to the public; (ii) ensure provision for
+price adjustment is included in contract documents; (iii) ensure appropriate design and work plan by works contractors
+and adequate design review and monitoring consultancy is put in place; and (iv) ensure RTDA initiates a discussion with
+RPPA E-GP unit to solve the access to E-GP issue.
+71.     Currently the RTDA-SPIU has three experienced procurement staff. The existing procurement staff has the
+required competence to manage additional procurements of the project. However, the workload will require support from
+a technical assistance on procurement to be recruited.
+
+ C. Legal Operational Policies
+
+ @#&OPS~Doctype~OPS^dynamics@padlegalpolicy#doctemplate
+ Legal Operational Policies                                                                 Triggered?
+ Projects on International Waterways OP 7.50                                                No
+ Projects in Disputed Area OP 7.60                                                          No
+
+
+                                                                20
+        The World Bank
+        Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+
+ D. Environmental and Social
+72.      The environmental and social risk ratings of the project are substantial. This is due to the nature and scale of
+activities, involving the spot rehabilitation of 254 km of national roads, 130 km of district roads, and repairing or
+maintaining 20 bridges. Anticipated environmental and social risks and impacts are expected to be few, site-specific, and
+manageable, mainly concerning environmental aspects, such as vegetation clearance, noise, and air pollution. The project
+is situated outside existing protected areas, but environmental risks are still significant, particularly related to roads and
+bridge rehabilitation activities under subcomponents 1.1, 1.2, and 1.3 of the projects. The rehabilitation and repairing
+interventions are anticipated to have limited scale and site-specific environmental risks and impacts associated with the
+civil works at each location, such as clearance of vegetation, dust and noise nuisance, visual degradation of landscapes,
+pollution (debris, and other solid waste generation), ground/surface water contamination, soil erosion and sedimentation
+of surface water bodies, worker occupational health and safety risks and road traffic accidents, community nuisance and
+safety concerns due to traffic increase, soil and water pollution due to spills and leaks of oils, fuels, chemicals, temporary
+air quality nuisance due to air emission of CO2 and NOx from combustion of diesel from vehicles, hot and batch mix plant,
+diesel generator sets, noise pollution from vehicles, machinery, concrete mixing, and other construction activities; risk of
+inappropriate solid and liquid construction and domestic wastes transport, and disposal and management.
+73.      The social risks and impacts of the project activities, including land acquisition needs which will impact
+approximately 342 PAPs (national roads 121 PAPs, district roads 91 PAPs, and bridges 130 PAPs), health and safety risks,
+labor management challenges, Sexual Exploitation and Abuse/Sexual Harassment (SEA/SH) risks induced by labor force
+influx, exclusive vulnerable groups from project beneficiaries as well as weak stakeholder engagement and grievance
+mechanisms. These risks and impacts will be managed through various Environmental and Social Standards (ESS) and
+application of international best practice methods. The project will adhere to ESF requirements during implementation,
+by developing instruments such as Environment and Social Management Framework (ESMF) and Resettlement Plan (RP).
+Overall, the project aims to bring positive social benefits to the population but requires careful management of potential
+risks and impacts. The World Bank will provide support to the implementing agency through close monitoring and
+supervision with regular quarterly meetings.
+74.     The (SEA/SH) risk rating is moderate. The project will align with the World Bank’s Good Practice Note on
+addressing SEA and SH in investment projects involving major civil works. The project will also establish a robust grievance
+redress mechanism (GRM) and ensure adherence to the stakeholder engagement plan, prepare an SEA/SH prevention and
+Response Action Plan with a referral pathway, implement SEA/SH-sensitive grievance process, ensure project workers sign
+Codes of Conduct and receive training on the same, and stakeholders are sensitized to SEA/SH and how to safely and
+confidentially report and receive support for SEA/SH incidents.
+75.     Currently, the institutional capacity of the implementing institution (RTDA) in managing environmental, social,
+health, and safety risks associated with the project during the implementation period is relatively improved and expected
+to be further enhanced through recruitment and assignment of dedicated ESHS staff (environmental and social specialists,
+health, and safety officer) to the project under SPIU-RTDA, as required. The project is enhancing its institutional capacity
+to manage environmental and social risks through dedicated staff recruitment.
+76.     Given these anticipated potential environmental risks and impacts associated with the project, ESS1, ESS2,
+ESS3, ESS4, ESS5, ESS6, and ESS10 are applied. Nevertheless, during implementation, if any unforeseen risks are identified
+related to other ESSs not applicable at this point, the project will consider the respective ESS and prepare and implement
+the ESF instruments associated with such newly identified risks and considered ESSs. Though the project obtained full
+deferral of environment, social and procurement requirements as well as condensed procedures under paragraph 12 of
+Section III of the IPF Policy (Projects in Situations of Urgent Need of Assistance or Capacity Constraints), the draft
+Stakeholders Engagement Plan (SEP) and Environmental and Social Commitment Plan (ESCP) were prepared by RTDA. As
+per the ESF requirements, to manage the anticipated environmental risks and impacts, the Borrower will develop ESF
+
+                                                             21
+        The World Bank
+        Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+instruments in line with the applicable ESSs, such as Environment and Social Management Framework (ESMF),
+Resettlement Framework (RF), Gender Based Violence Preparedness and Response Action Plan (GBV-PRAP), Labor
+Management Procedure (LMP), Environment and Social Impact Assessment (ESIA), and Resettlement Plan (RP), as
+required during implementation. The final versions of project ESF instruments, including ESCP, SEP, ESIA, RP, RF, ESMF,
+GBV-PRAP, and LMP, once reviewed and cleared by the World Bank, will be disclosed both in-country (RTDA website) and
+on the World Bank’s external website during implementation before commencement of civil works.
+ V. GRIEVANCE REDRESS SERVICES
+
+ 77.     Grievance Redress. Communities and individuals who believe that they are adversely affected by a project
+ supported by the World Bank may submit complaints to existing project-level grievance mechanisms or the Bank’s
+ Grievance Redress Service (GRS). The GRS ensures that complaints received are promptly reviewed to address project-
+ related concerns. Project-affected communities and individuals may submit their complaints to the Bank’s independent
+ Accountability Mechanism (AM). The AM houses the Inspection Panel, which determines whether harm occurred or
+ could occur because of the Bank's non-compliance with its policies and procedures, and the Dispute Resolution Service,
+ which provides communities and borrowers with the opportunity to address complaints through dispute resolution.
+ Complaints may be submitted to the AM at any time after concerns have been brought directly to the attention of Bank
+ Management and after Management has been given an opportunity to respond. For information on how to submit
+ complaints to the Bank’s Grievance Redress Service (GRS), visit http://www.worldbank.org/GRS. For information on
+ how to submit complaints to the Bank’s Accountability Mechanism, visit https://accountability.worldbank.org.
+
+
+ VI. KEY RISKS
+78.     The overall project risk rating is moderate.
+79.      Environment and social risk is substantial. This is due to the location, type, sensitivity, and scale of project
+interventions and the capacity of RTDA. Spot rehabilitation and maintenance of districts and national roads and repairing
+partially damaged bridges will have some localized adverse E&S risks and impacts. The substantial E&S risk for the project
+has also been justified by the capacity of the IA to implement environmental and social standards for ongoing projects
+and corrective measures taken to mitigate risk, such as financing for compensation of affected PAPs from the project. To
+improve the capacity related to the ongoing projects and those under preparation i, RTDA has confirmed that recruitment
+of all missing environment and social specialists and health and safety staff has been completed, and dedicated staff have
+been assigned to this project. Despite this measure, a detailed assessment of the IA’s capacity found the response to be
+slow, which signals potential gaps related to the implementation of environmental and social risks and mitigation
+measures. Accordingly, the project will ensure, through its activities, adequate institutional capacity for the IA and other
+relevant institutions that will be directly or indirectly engaged in the implementation of the project. The project will also
+benefit from a pool of staff already working on the existing ongoing and pipeline projects (LVTP, FRDP, KLPConnect).
+
+
+
+
+                                                             22
+        The World Bank
+        Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+@#&OPS~Doctype~OPS^dynamics@padannexresultframework#doctemplate
+PDO Indicators by PDO Outcomes
+
+   Baseline                                                                                  Closing Period
+                                                      Restored connectivity in areas of Rwanda affected by floods and landslides
+   Number of people that benefit from improved access to sustainable transport infrastructure and services (disaggregated by gender) (Number)
+   Mar/2024                                                                                  Jun/2027
+   0                                                                                         2,300,000
+   Restored access to sectors (number of sectors accessible due to roads and bridges rehabilitated) (Number)
+   Mar/2024                                                                                  Jun/2027
+   0                                                                                         6
+   Restored access to socio-economic infrastructure (number of schools, health centers, markets accessible due to roads and bridges rehabilitated (Number)
+   Mar/2024                                                                                  Jun/2027
+   0                                                                                         10
+                                                                Improved resilience of damaged transport infrastructure
+   Number of critical embankments, bridges, culverts reinforced in the affected districts/sectors with climate resilient measures for adaptation and mitigation (Number)
+   Mar/2024                                                                                  Jun/2027
+   0                                                                                         15
+
+
+Intermediate Indicators by Components
+
+   Baseline                                                                               Closing Period
+                                        Component 1:Rehabilitation/repair of damaged transport infrastructure in a resilient and safe manner
+   Number of kilometers of roads rehabilitated in a climate resilient manner (Kilometers)
+   Mar/2024                                                                               Jun/2027
+   0                                                                                      380
+     Districts roads (Kilometers)
+   Mar/2024                                                                               Jun/2027
+   0                                                                                      130
+     National roads (Kilometers)
+   Mar/2024                                                                               Jun/2027
+   0                                                                                      254
+   Number of brigdes rehabilitated (Number)
+
+
+                                                     23
+     The World Bank
+     Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+Mar/2024                                                                                Jun/2027
+0                                                                                       20
+Employment generated under rehabilitation works (Disaggregated by gender) (Number)
+Mar/2024                                                                                Jun/2027
+0                                                                                       100
+                                    Component 2: Environment and social risk management, Community Engagement and awareness campaign
+Number of road safety training and awareness campaigns conducted for school children, motorbike and truck drivers, local communities, and other road users in the project area
+(Number)
+Mar/2024                                                                                Jun/2027
+0                                                                                       15
+Survey reports on citizen engagement available (Yes/No)
+Mar/2024                                                                                Jun/2027
+No                                                                                      Yes
+Percentage of women in leadership positions in communitarian structures including on climate resilience committees. (Percentage)
+Mar/2024                                                                                Mar/2028
+0                                                                                       50
+                                                      Component 3: Implementation support, monitoring, capacity building
+Share of women that find a job in the road/transport sector six months after completion of internship (Percentage)
+Mar/2024                                                                                Sep/2028
+0                                                                                       16
+Number of staff from RTDA, MININFRA and MINEMA who benefited from capacity building trainings (Number disaggregated in Climate Changes and others) (Number) (Number)
+Mar/2024                                                                                Jun/2028
+0                                                                                       20
+Number of women trained and certified in the use of heavy machinery (Number) (Number)
+Mar/2024                                                                                Jun/2028
+0                                                                                       16
+Number of women participating in internship program (Number) (Number)
+Mar/2024                                                                                Jun/2028
+0                                                                                       16
+                                                                 Component 4: Contingent Emergency Response
+
+
+
+
+                                                 24
+          The World Bank
+          Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+
+
+                                                                        Monitoring & Evaluation Plan
+
+Component 1: Rehabilitation of damaged transport infrastructure in a resilient and safe manner
+Number of kilometers of roads rehabilitated in a climate resilient manner (Kilometers)
+Description                                                             The total length of national road rehabilitated in a climate-resilient manner under the project
+Frequency                                                               At the start and after completion of the works
+Data source                                                             Monitoring Consultant progress reports approved by RTDA
+Methodology for Data Collection                                         Review of the progress reports
+Responsibility for Data Collection                                      RTDA
+Districts roads (Kilometers)
+Description                                                             The total length of district roads rehabilitated in a climate-resilient manner under the project (in kilometers
+Frequency                                                               At the start and after completion of the works
+Data source                                                             Monitoring Consultant progress reports approved by RTDA
+Methodology for Data Collection                                         Review of the progress reports
+Responsibility for Data Collection                                      RTDA
+National roads (Kilometers)
+Description                                                             The total length of the national road rehabilitated in a climate-resilient manner under the project (in kilometers)
+Frequency                                                               At the start and after completion of the works
+Data source                                                             Monitoring Consultant progress reports approved by RTDA
+Methodology for Data Collection                                         Review of the progress reports
+Responsibility for Data Collection                                      RTDA
+Number of brigdes rehabilitated (Number)
+Description                                                             The total number of bridges rehabilitated in a climate-resilient manner under the project )
+Frequency                                                               At the start and after completion of works
+Data source                                                             Monitoring Consultant progress reports approved by RTDA
+Methodology for Data Collection                                         Review of the progress reports
+Responsibility for Data Collection                                      RTDA
+Employment generated under rehabilitation works (Disaggregated by gender) (Number)
+                                                                        Number of workers engaged by contractors for the rehabilitation and upgrading of the project. (Disaggregated by
+Description
+                                                                        gender)
+Frequency                                                               At the start and after completion of works
+Data source                                                             Monitoring Consultant progress reports approved by RTDA
+Methodology for Data Collection                                         Review of the progress reports
+Responsibility for Data Collection                                      RTDA
+
+                                                        25
+          The World Bank
+          Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+Component 2: Environment and social risk management, Community Engagement and awareness campaign
+Number of road safety training and awareness campaigns conducted for school children, motorbike and truck drivers, local communities, and other road users in the project area (Number)
+                                                                       The indicator provides information on the number of road safety training and awareness campaigns conducted for
+Description
+                                                                       school children, motorbike and truck drivers, local communities, and other road users in the project area.
+Frequency                                                               At the start and after completion of the works
+Data source                                                             Monitoring Consultant progress reports approved by RTDA
+Methodology for Data Collection                                         Review of the progress reports
+Responsibility for Data Collection                                      RTDA
+Survey reports on citizen engagement available (Yes/No)
+Description                                                            To confirm whether the reports on citizen engagement for the project implementation are available
+Frequency                                                               At the start and after completion of the works
+Data source                                                             Monitoring Consultant progress reports approved by RTDA
+Methodology for Data Collection                                         Review of the progress reports
+Responsibility for Data Collection                                      RTDA
+Percentage of women in leadership positions in communitarian structures including on climate resilience committees. (Percentage)
+                                                                       This indicator will measure the percentage of women in leadership positions on climate resilience committees that will
+Description
+                                                                       be created under the project
+Frequency                                                               Annual
+Data source                                                             Monitoring Consultant progress reports approved by RTDA
+Methodology for Data Collection                                         Review of the progress reports
+Responsibility for Data Collection                                     RTDA
+Component 3: Implementation support, monitoring, capacity building
+Share of women that find a job in the road/transport sector six months after completion of internship (Percentage)
+Description                                                            Measure the proportion of women who can find job six month after the training
+Frequency                                                               After six months of internship completion
+Data source                                                             Monitoring Consultant progress reports approved by RTDA
+Methodology for Data Collection                                         Review of the progress reports
+Responsibility for Data Collection                                      RTDA
+Number of staff from RTDA, MININFRA and MINEMA who benefited from capacity building trainings (Number disaggregated in Climate Changes and others) (Number) (Number)
+Description                                                            Provide the data on staff training during the project implementation
+Frequency                                                              Annual
+Data source                                                            Monitoring Consultant progress reports approved by RTDA
+Methodology for Data Collection                                        Review of the progress reports
+Responsibility for Data Collection                                     RTDA
+Number of women trained and certified in the use of heavy machinery (Number) (Number)
+Description                                                            Count the number of women trained during the project implementation
+                                                       26
+         The World Bank
+         Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+Frequency                                                         Annual
+Data source                                                       Monitoring Consultant progress reports approved by RTDA
+Methodology for Data Collection                                   Review of the progress reports
+Responsibility for Data Collection                                 RTDA
+Number of women participating in internship program (Number) (Number)
+Description                                                       Count the number of women trained during the project implementation
+Frequency                                                         Annual
+Data source                                                       Monitoring Consultant progress reports approved by RTDA
+Methodology for Data Collection                                   Review of the progress reports
+Responsibility for Data Collection                                RTDA
+
+
+
+
+                                                   27
+         The World Bank
+         Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+
+                                    ANNEX 1: Implementation Arrangements and Support Plan
+
+A. Institutional and Implementation Arrangements
+1.       The Ministry of Finance and Economic Planning (MINECOFIN) is the representative of the government
+on the issues related to the Financing Agreement. It will offer guidance and leadership on the utilization of the
+project’s counterpart funds. Other entities involved are MININFRA, RTDA, the Road Maintenance Fund, the Rwanda
+Environment Management Authority (REMA), the Rwanda Water Resources Board, the Gender Monitoring Office
+(GMO), and the district authorities. MININFRA and MINEMA will co-chair the project steering committee and
+provide strategic guidance for implementation. The project implementation will be organized as described in the
+below organizational chart:
+
+
+
+
+2.      Overall coordination. Under the coordination of the MININFRA, the coordination of the project will be led
+by the SPIU within RTDA, which will serve as the direct interlocutor with the World Bank and will report on project
+progress from preparation through implementation and closure.
+3.       Implementation agencies and responsibilities arrangements. The implementing agency is RTDA through
+its Single Project Implementation Unit (SPIU). The SPIU will handle technical matters, procurement, financial,
+environment and social issues for all the components, sub-components, and related activities. The capacity of the
+SPIU will be reinforced by additional staff to be recruited as needed.
+4.      Team composition to implement the project. For a successful implementation of the project, it was agreed
+to designate a team in RTDA for the project preparation and implementation. RTDA will submit the list of the
+designated staff (per specialties) prior to project negotiations. Dedicated staff for the project were assigned by
+RTDA prior negotiations.
+5.      Role of the Ministry of Finance and Economic Planning (MINECOFIN). MINECOFIN is the legitimate
+representative of the government on the issues related to the Financing Agreement. It will offer guidance and
+leadership on the utilization of the project’s counterpart funds.
+6.      Role of the Ministry of Infrastructure (MININFRA). MININFRA is responsible for overall transport policy
+and strategic planning, the creation of a transport enabling environment, and setting of transport rules, regulations,
+standards, and strategic planning. The Directorate General of Transport will be providing guidance related to policy
+and strategy during implementation.
+                                                         28
+         The World Bank
+         Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+7.        Role of the Rwanda Transport Development Agency (RTDA). RTDA assists MININFRA with the
+management and administration of the transport sector, and the planning, prioritizing, approval, delivery,
+management, and maintenance of infrastructure, including support to districts as the managing and implementing
+agencies. RTDA will draw on expertise from the Rwanda National Police (RNP) for road safety, Rwanda Energy
+Group Limited (REG) for electrical utilities relocation, and Water and Sanitation Corporation (WASAC Ltd) for water
+utilities relocation.
+8.        Role of the Road Maintenance Fund (RMF). The RMF is responsible for road maintenance including
+rehabilitation. It is funded from the public budget. Maintenance of national roads, and district roads class I and
+class II are under the financing of the RMF.
+9.       Role of the Rwanda Environment Management Authority (REMA). The mission of REMA is to supervise
+and monitor environmental management and ensure that issues relating to the environment receive attention in
+all national development plans. REMA will play the leading role of monitoring the activities of the project according
+to the Organic Law establishing REMA and its functions.
+10.       Role of district authorities. The district authorities in the project area are the coordinating body for any
+resettlement activities at the district level. They oversee, coordinate, and facilitate the implementation process of
+resettlement activities across local governments under their jurisdiction. The district-level departments
+(infrastructure, water, and energy officers in the case of this RAP) in collaboration with grassroots administrative
+officials (Sectors and Cells’ executive secretaries) provide a review and monitoring role and provide political and
+administrative support for the implementation of the Resettlement Action.
+B. Results Monitoring and Evaluation Arrangements
+11.     The project objectives and corresponding indicators are designed to measure the results of the entire
+intervention. The M&E system will capture information to assess project results against the targets set as part of
+the Results Framework. The progress of project indicators will be measured through the implementation support
+missions and progress reports. Specific details for program management and reporting will be laid out in the Project
+Implementation Manual (PIM) that will serve as the overall guiding document for SPIU. The Recipient will carry out
+a Mid-Term Review, two years after effectiveness.
+C. Sustainability
+12.     RECOR is expected to address sustainability of the infrastructure investments through enhanced
+ownership of the participating administration. The roads and bridges reparation/reconstruction will be
+implemented through works contracts (bill of quantities). The maintenance of the investment is guaranteed for the
+following years after works completion as RMF will take over. In Rwanda, the existing RMF has the responsibility
+of ensuring sustainability of long-term maintenance, and enforcement of axle load control along the corridor will
+help preserve the road assets. The GoR has managed to keep the national paved road asset at an acceptable riding
+standard since creation of RTDA in 2010 using the RMF as core financing source for maintenance. Annual
+assessment of the riding quality is conducted with the use of roughness meters and bump integrators and reports
+are shared with the development partners via the annual Transport Sector Working Group sessions.
+D. Financial Management
+13.     Planning and budgeting. RTDA will follow the Government’s planning and budgeting procedures preparing
+it with input from various stakeholders. The project budgets will also be presented to the National Steering
+Committee for approval and included in the overall country budgets approved by the Parliament. The approved
+budgets will be monitored on a monthly and quarterly basis by the preparation and analysis of budget execution
+reports including: (a) budget for the period and for the year; (b) actual expenditure for the period and to date; (c)
+future expenditure commitments; and (d) balance of period budget remaining (actual expenditure and
+
+                                                         29
+         The World Bank
+         Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+commitments together compared to period budget). The consolidated annual workplan and budget that clearly
+show planned activities under each component and financing source will be submitted to the World Bank for no-
+objection.
+14.      Accounting and staffing. RTDA uses the Integrated Financial Management System (IFMIS) to record its
+transactions. There is a well-established SPIU for RTDA. The current staffing level of these units in terms of finance
+staff in total is six (Financial Manager, FMS, and Four Accountants), which is deemed adequate. This project can
+start with the current level of staffing at RTDA and the need to have additional personnel will be reviewed during
+implementation. There will be a comprehensive start-up workshop where RTDA will be sensitized on financial
+management requirements for the project to build on capacity on managing World Bank financed operations.
+Regular training will thereafter be provided for continuous improvement during project implementation.
+15.      Internal control and internal audit. RTDA is governed by the legal frameworks and manuals governing
+public finance. The project involves financing from both IDA and GoR and has multiple components and
+subcomponents which will involve specific arrangements such as CERC. Therefore, RTDA will develop a PIM that
+will reflect the FM arrangements under this project, covering the arrangements under each of the components.
+The PIM will reflect detailed internal control arrangements for the project, including the extent of segregation of
+functions in payment processing and internal check mechanisms, in addition to payment approval and
+authorization arrangements. To enhance internal control arrangements for the project, the internal audit unit in
+RTDA will review project activities, in accordance with the Annual risk assessment and Internal Audit plan and
+submit reports to the project management team, the audit committee and to the World Bank.
+16.      Financial reporting. RTDA will prepare and submit quarterly interim financial reports (IFRs) to the World
+Bank within 45 days after the end of the quarter end. The interim financial reports will be used to monitor project
+financial progress, including the rate of budget execution and level of disbursements. Similarly, the RTDA will
+prepare annual project financial statements, which will be submitted to the external auditor within 45 days after
+the end of the fiscal year and audited financial statements to the World Bank within six months after the end of
+the fiscal year. The Financial report for RTDA will, at a minimum, include sources and uses of funds (revenues and
+expenditures statement), financial position statement, cash flow statement, budget execution report; Designated
+Account activity statement for each designated account; notes on accounting policies and appendices.
+17.     External audit. The project will be subject to external audit by the Office of the Auditor General (OAG) who
+has been auditing other World Bank-funded projects implemented by the Government of Rwanda. Should the OAG
+seek to outsource the audit, the firm must be acceptable to IDA. The audit reports and management letters will be
+submitted to the World Bank within six months after the end of the financial year. The audit reports will be publicly
+disclosed in accordance with the World Bank Access to Information Policy. Upon receipt of the audit reports, each
+of the implementing agencies will be expected to prepare an action plan to address the audit findings. In other
+projects managed by RTDA, concerns were raised on value for money which should be closely monitored in this
+project. RTDA will closely monitor activities to avoid such irregularities. Follow-up on audit recommendation
+implementation will be conducted as part of regular World Bank FM supervision missions and quarterly review of
+audited IFRs.
+18.     Funds flow arrangements. The project will maintain a segregated Designated Account for RTDA; which
+will be maintained at the National Bank of Rwanda and will be denominated in US dollars. It will also maintain a
+Project Account at National Bank of Rwanda denominated in Rwanda francs that will receive funds from the GoR
+for counterpart contribution and any transfer that may be needed from the DA. Disbursements will follow the
+report-based disbursement method whereby advances will be made based on two quarter forecasts to be prepared
+by RTDA. The project may also use direct payments, advances to the Designated Account, reimbursement and
+special commitments depending on the case. Upon effectiveness, the project will submit to the World Bank a
+request for withdrawal of funds based on the initial six-month expenditure forecast. Based on the request, the
+                                                         30
+         The World Bank
+         Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+World Bank will transfer the proceeds of the credit to the Designated Account. Subsequent replenishment of the
+Designated Account will be based on the submission of application of withdrawal accompanied by quarterly IFRs.
+The detailed modalities will be presented in the PIM and the Disbursement and Financial Information Letter (DFIL).
+The project has CERC component and the most effective funds flow mechanism for CERC activities would be
+assessed and determined should this component be activated.
+FM Risk and Action Plan
+19.    The FM risk of the project is rated Moderate. The key risks identified are: (i) inadequate preparation of
+Annual Work Plan and Budget (AWPB) which could lead to irregularities in spending and accountability of
+resources; and (ii) delay in submission of quality financial reports and taking timely action on audit report findings.
+20.      Mitigating measures have been incorporated in the project, including provision of capacity building and
+training on World Bank-financed operations and using internal audit functions to assist in the timely action on audit
+report findings. A Project Implementation Manual will clarify on the roles and responsibilities as well as the
+timelines for preparation of AWPB, reporting and auditing requirements. Action plan has been prepared which will
+help to mitigate the identified risks and this will be monitored throughout project implementation.
+
+                                        Table 1: Action plan to mitigate risks.
+
+         No.   Action                                          Timeline                   Responsibility
+
+         1     Prepare annual work plan and budget with        Annually, March 31         RTDA
+               clarity on components, categories, and
+               financiers
+         2     Prepare FM section of the PIM to detail out     Effectiveness condition    RTDA
+               internal control processes and roles and
+               responsibilities of entities
+         3     Enroll the project into IFMIS for proper        After effectiveness        RTDA
+               recording of transactions
+         4     Internal audit (IA) to be conducted based       As per the annual audit    RTDA
+               on the risk assessment of the project by the    plan
+               IA unit and share with the Bank the reports
+         5     Provide a plan for implementation of            Within a month after the   RTDA
+               recommendations of internal and external        receipt of the audit
+               audit findings                                  report
+E. Procurement
+21.     Procurement for the project will be carried out in accordance with the ‘World Bank Procurement
+Regulations for Borrowers under Investment Project Financing’, dated September 2023, hereafter referred to as
+‘Procurement Regulations’. The project will be subject to the World Bank’s Anticorruption Guidelines, dated July 1,
+2016, and beneficiary disclosure requirements. The project will use Systematic Tracking of Exchanges in
+Procurement (STEP), a planning and tracking system that will provide data on procurement activities, establish
+benchmarks, monitor delays, and measure procurement performance.
+22.      Project Procurement Strategy for Development (PPSD), which looked at the market, procurement risks,
+procurement options and sets out the selection methods to be followed by the borrower for major activities during
+project implementation in the procurement of goods, works, and non-consulting and consulting services financed
+by the project, is prepared by the Borrower and under review by the World Bank. The Procurement Plan is part of
+PPSD and includes procurement plans of the project, at least for the first 18 months and will be updated annually
+
+                                                              31
+          The World Bank
+          Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+or as required to reflect the actual project implementation needs and improvements in institutional capacity.
+
+
+                                                     Box 2.1. Summary of the PPSD
+ The project allocation is USD80 million, implemented by RTDA. The Project Development Objective is to restore the connectivity in
+ areas of Rwanda affected by floods and landslides by rebuilding the damaged transport infrastructure in a climate-resilient manner.
+ Procurement of the project is mainly rehabilitation of road and bridges.
+ RTDA-SPIU has an established structure with adequate procurement staffing and the required experience in implementing similar
+ projects.
+ In addition, the assessment revealed that:
+     The Rwanda economy is subjected to considerable variation in currency, inflation, and interest rates. The operational context
+      in Rwanda is influenced by the limited capacity of financial institutions, high transportation costs on import of all construction
+      materials except cement and limited local contracting capacity.
+     Rwanda has various hills and valleys, which pose topological challenges when constructing roads. The construction of the roads
+      during the entire year may not be possible due to intense rainfall and consequent land sliding. The maintenance costs are high
+      because of the climate, which is brought about by intense rainfall that washes away road surfaces.
+     RTDA has implemented various projects and programs funded by the GoR and other multilateral development financing
+      institutions. RTDA staff is familiar with the various international procurement procedures including the World Bank. The existing
+      staff is functioning at overstretched capacity due to various ongoing projects and programs. Training the existing staff in World
+      Bank procurement regulations and deploying additional staff such as a procurement specialist and a contract management
+      specialist to augment the existing capacity and develop the institutional memory for managing large road construction projects
+      is necessary for the successful implementation of the project’s procurement.
+     RTDA’s contracts procurement processing and procurement lead time will be reduced through trainings and use of TAs, while
+      the consultants and contractors’ performance monitoring will be strengthened. RTDA will carry out an internal diagnostic
+      assessment to understand the reason(s) for the longer lead time and carry out necessary government process reengineering
+      with the aim of awarding the contracts within the stipulated bid validity.
+ Though Rwanda’s construction market is relatively small when compared to other EAC member countries, it has evinced interest
+ from international contractors. They are already working on contracts of similar magnitude and complexity.
+ Identified risks of the project are: (i) corruption, collusion, and Conflicts of interest; (ii) contract price increase due to inflation,
+ currency instability, and interest rates; (iii) unexpected extreme weather, intense rainfall, and land slide; (iv) access and registration
+ issues by bidders to use e-procurement system; and (v) limited skills for contract management under OPBRC.
+ Recommended risk mitigation measures are: (i) Improve the complaint management system, strengthen internal and external audits,
+ and disclosure of information and procurement data to the public; (ii) Make sure provision for price adjustment is included in the
+ contract document; (iii) Appropriate design and work plan by the contractor and adequate design review and monitoring consultancy
+ is put in place; (iv) RTDA will initiate discussion with RPPA E-GP unit to solve the access issue; and (v) cconduct intensive training on
+ management of OPBRC.
+ Based on the detailed project condition, market context analysis, including the experience and capacity of the client and potential
+ risks the following procurement approaches and strategy are recommended.
+      1. For damaged sections located on national paved roads: Direct contracting through existing maintenance contractor of the
+           respective road.
+      2. For damaged sections located on national unpaved and district roads and damaged bridges: using limited competitive
+           bidding to select contractors for national unpaved and district roads to speed-up the procurement process.
+
+
+
+
+                                                               32
+         The World Bank
+         Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+
+ Selection of consultants or firms for supervision services: Competitive selection methods by Direct RFP are recommended. Civil
+ works contracts for construction supervision assignments are basically time-based contracts, and the selection will follow the Quality
+ and Cost Based Selection (QCBS) method.
+ Duly considering the procurement profile and contract management arrangements, based on the perceived risks and proposed
+ mitigation measures, the project's overall procurement risk rating is determined as Moderate. The risk rating on procurement will
+ be reviewed and updated periodically by the World Bank.
+23.    STEP: The project will use Systematic Tracking of Exchanges in Procurement (STEP), a planning and tracking
+system, which will provide data on procurement activities, establish benchmarks, monitor delays, and measure
+procurement performance.
+24.     E-Procurement system: RTDA will be using the Rwanda e-Procurement system (UMUCYO) for “post”
+procurement activities, in parallel with the World Bank STEP system. However, when the post review procurements
+are within international competitive threshold, the implementing agencies would advertise the procurement
+notices/request for expression of interest on UNDB and World Bank external site, in addition to UMUCYO.
+25.     Beneficial Ownership: Beneficial Ownership Disclosure is required for all new procurement advertised or
+invited on or after July 1, 2022, subject to open or limited international competition under all IPF projects, that are
+governed by the Procurement Regulations, and hence will apply to the project accordingly.
+26.      Procurement risk assessment. A procurement capacity and risk assessment has been carried out by the
+World Bank of implementing agency, to review the organizational structures and functions, experience, staff skills
+and capacity, procurement cycle management, quality, and adequacy of supporting and control systems and record
+keeping. Based on the assessment the following risks are identified: (i) Corruption, collusion, and Conflicts of
+interest; (ii) Contract price increase due to inflation, currency instability, and interest rates; (iii) Unexpected
+extreme weather, intense rainfall, and land slide; (iv) Access and registration issues by bidders to UMUCYO e-
+procurement system; (v) Limited skills for contract management under OPBRC. The current PIU structure of RTDA-
+SPIU is adequate.
+27.      The proposed mitigation measures for the identified risks are: (i) Improve the complaint management
+system, strengthen internal and external audits, and disclosure of information and procurement data to the public;
+(ii) To make sure provision for price adjustment is included in the contract document; (iii) Appropriate design and
+work plan by DB contractor and adequate design review and monitoring consultancy is put in place; (iv) RTDA will
+initiate discussion with RPPA E-GP unit to solve the access issue; (v) Conduct intensive training on management of
+the OPBRC.
+28.     Project Procurement Risk Rate: Based on procurement assessment of the implementing agencies, market
+practice and nature of procurement activities of the project, the project procurement risk is rated Moderate.
+29.    Currently RTDA-SPIU has five experienced procurement staff. The number and competence of existing
+procurement staffs is adequate to manage additional procurements of the project.
+30.     There is adequate procurement oversight mechanism in place within RTDA. The internal audit unit at
+RTDA and Office of Auditor General (OAG) have an oversight role. The OAG conducts procurement auditing
+regularly on annual basis.
+
+31.    The assessment revealed that in general, the track record of procurement performance of the
+implementing agency, RTDA-SPIU is satisfactory. The existing procurement staffs of RTDA-SPIU is adequate both
+in number and competence.
+32.    Preliminary procurement plan with list of procurable items with corresponding cost estimates, review
+types and selection methods will be output from the PPSD. The latest version of the World Bank’s standard
+                                                              33
+         The World Bank
+         Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+procurement documents will be used for all procurements when approaching international market.
+33.     Use of borrowers’ procurement procedures. The IAs will follow World Bank procurement regulations as
+required by the financing agreement. When approaching the national market, borrower’s own procedures will be
+used as appropriate and as provided by World Bank procurement regulations. When approaching the national
+market, RTDA will use the national standard procurement documents, subject to review and acceptance by the
+World Bank by incorporating additional requirements provided in the World Bank SPD for small works, and to make
+sure provision for application of World Bank Anti-Corruption guideline and World Bank’s right to audit and all ESF,
+climate, SEA/SH and ESHS requirements are included.
+
+34.      Procurement of Works, Goods and Non-Consultancy Services: for procurement of works, goods, and non-
+consultancy service contracts, RTDA’s own procurement procedures and SBDs as agreed on and deemed
+satisfactory to the World Bank will be used, when approaching the national market. Procurements while
+approaching the international market will be done using the latest version World Bank’s Standard Procurement
+Documents, and rated criteria will apply, except for procurement of Commodities, Vaccines, and Pharmaceuticals.
+Small value works, goods and non-consultancy service will be undertaken through request for quotation
+procedures. The request for quotation will indicate the specifications of works, goods, and non-consultancy service
+as well as the delivery/completion time and the contract award will be based on comparing price quotations from
+several qualified contractors/suppliers, with a minimum of three, to ensure competition. Direct contracting shall
+be used where the PPSD informs so and it is to the benefit of the project and in accordance with the procurement
+regulation.
+35.      Procurement of consultancy services. Procurement methods to be used are as specified in the PPSD.
+Project staffs required for the implementation will be hired following World Bank regulation for positions identified
+as consultant (IC) and following Project implementation Support Personnel, paragraph 7.32 of Procurement
+Regulations, for positions not identified as consultants (IC). Paragraph 7.32 of the procurement regulation provides,
+quote, “Project implementation staff, individuals contracted by the Borrower to support project implementation,
+other than individual consulting positions identified in the Legal Agreement, may be selected by the Borrower
+according to its personnel hiring procedures for such activities, as reviewed, and found acceptable by the Bank.”,
+unquote, applies for the project. All positions, whether identified as IC where World Bank procurement regulation
+is used, or project staffs hired using agencies’ own procedure shall be included in the procurement plan. Operating
+costs. The items to be identified as operating cost will be procured using the borrower’s procurement and
+administrative procedures subject to review and acceptable by the World Bank including selection of project
+implementation, non-professional, support personnel not identified as consultant (IC).
+
+36.      Record keeping. All records pertaining to award of tenders, including bid notification, register pertaining
+to sale and receipt of bids, bid opening minutes, bid evaluation reports and all correspondence pertaining to bid
+evaluation, communication sent to/with the World Bank in the process, bid securities, and approval of
+invitation/evaluation of bids will be retained by respective agencies and in electronic or hard copy and uploaded in
+STEP.
+37.     Disclosure of procurement information. The following documents shall be disclosed on the agencies’
+websites: (a) a Procurement Plan and updates; (b) an invitation for bids for goods and works for all contracts; (c)
+Request for Expression of Interest for selection/hiring of consulting services; (d) contract awards of goods, works,
+and non-consulting and consulting services; (e) a monthly financial and physical progress report of all contracts;
+and (g) an action taken report on the complaints received on a quarterly basis.
+38.    When approaching international market (ICB), the following details shall also be published in the United
+Nations Development Business and the World Bank’s external website : (a) an invitation for bids for procurement
+
+                                                         34
+         The World Bank
+         Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+of goods and works following open international market approaches, (b) Request for Expression of Interest for
+selection of consulting services following open international market approaches, and (c) contract award details of
+all procurement of goods and works and selection of consultants using open international market approaches.
+39.      Fiduciary oversight by the World Bank. The World Bank shall prior review contracts according to prior
+review thresholds set forth in the PPSD/Procurement Plan. All contracts not covered under prior review by the
+World Bank shall be subject to post review during implementation support missions and/or special post review
+missions, including missions by consultants hired by the World Bank or third-party independent auditor delegated
+by the World Bank. To avoid doubts, the World Bank may conduct, at any time, independent procurement reviews
+of all the contracts financed under the loan. All procurement post reviews are carried out online in STEP. For this
+reason, uploading of procurement documents of post review contracts should be done in a timely manner and
+always kept up to date.
+40.      Contract Management. Increased contract management and regular monitoring of the contracts are
+necessary for timely execution. In addition, the agency will develop key performance indicators (KPIs) for contracts
+and the KPIs will be monitored during actual execution of contracts. A fully staffed SPIU will be responsible for
+project implementation.
+
+
+
+
+                                                        35
+        The World Bank
+        Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+                                             ANNEX 2: Climate Adaptation and Mitigation
+
+
+
+
+Component 1: Rehabilitation of      Adaptation
+damaged transport
+infrastructure in a resilient and   The design of the rehabilitation and repairs of roads and bridges incorporate climate resilient
+safe manner to connect              standards, with updated manuals41
+districts affected by floods.
+                                        i)         Embarkment design: In flood-prone areas, ensure the height of the embarkment is
+1.1: Rehabilitation of national                    adequate to resist increasing levels of flooding without causing drastic washouts.
+roads                                   ii)        Improved drainage systems: improving water penetration quality of the pavement
+(US$51.33 million, comprising                      surface by using gilsonite-modified bitumen seals where applicable. Constructing
+US$43.50 million IDA and                           drainage canals along sections to channel away the quantity of water that damaged
+US$7.83 million GoR funding)                       the roads.
+1.2: Rehabilitation of district         iii)       Resilient materials: strengthening the base or/and sub-base of sections with more
+roads                                              resilient material compacted.
+(US$26.26 million, comprising of        iv)        Upgrade of bridges: upgrading bridges to support the quantity of water flow in the
+US$22.25 million IDA and                           rivers.
+US$4.01 million GoR funding).           v)         Sealing the surface (for paved roads): to protect sections against infiltration that
+1.3: Rehabilitation of bridges                     can lead to a washup of the base.
+bridges (US$12.10 million,              vi)        Spot improvements: backfills, retaining walls and gabions, re-graveling,
+comprising of US$10.25 million                     construction, or repair of layers of the road, masonry drainage, signposts, crash
+IDA and US$1.85 million GoR                        barriers, planting trees and grass, pipe culverts, rockfill, landslide removal, and back
+funding)                                           slope trimming, among others.
+                                    Mitigation
+                                        i)         Rehabilitation and repair of roads at national and district levels in the targeted
+                                                   regions using climate-resilient standards.42
+                                        ii)        Rehabilitate and repair bridges in the targeted regions using climate-resilient
+                                                   standards.
+                                        iii)       Rehabilitation to resist landslides, flooding, and erosion through measures such as
+                                                   stabilization of slopes and embankments, grass and tree plantation, and improved
+                                                   drainage systems.
+Component 2: Environment and        Adaptation
+social risk management,                      The project invests in the creation of climate resilience committees led by women
+community engagement, and                      which will give views on climate resilience intervention prioritization.
+awareness campaigns
+(IDA, US$2.90 million).
+Component 3: Implementation         Adaptation
+support, monitoring, capacity                     The project provides technical assistance and institutional support for climate
+building                                           adaptation and mitigation in the project implementation. The activity will support
+(IDA, US$1.10million).                             capacity building of the staff of RTDA, MININFRA, and MINEMA involved in the project
+                                                   implementation, to enhance and broaden their skills in climate change mitigation and
+                                                   adaptation and gender. It will finance engagement sessions with women in the project
+                                                   area to identify and address barriers that women face to participate in road works in
+                                                   low, medium, and high-level skills.
+
+
+Component 4: Contingent             This component would draw from the uncommitted resources from other project components to
+Emergency Response                  cover an emergency response, including from natural hazards and climate change impacts. The task
+(US$0 million).
+
+                                                              36
+           The World Bank
+           Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+                                         team will ensure that all eligible activities included in the CERC Manual/CERC Annex of the POM
+                                         are Paris Aligned.
+
+
+
+
+41  The updated manuals include:
+•        Build Back Better Guidelines for Bridges/Structures
+•         Emergency responses to bridge, slope, and flooding disasters
+•         Specifications for Floating Pontoon Bridges
+•         Best practices for right of way erosion control measures guideline
+•         Guidelines for Sealing Technologies
+•         Guide on road materials recycling & stabilization
+•         Gravel road inspections manual
+•         Gravel roads maintenance manual
+42 Climate resilient design and construction standards ensure that road infrastructure, bridges and drainage infrastructure can cope with
+
+current and future climate conditions that are above normal and require particularized design.
+
+                                                                    37
+      The World Bank
+      Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+                            ANNEX 3: List of Damaged Roads and Bridges per District
+
+S/N   Description                                                                                 District
+      National Paved Roads
+1     Rehabilitation of Muhanga – Ngororero - Mukamira road (111Km)                      Nyabihu,Ngororero,Muhanga
+2     Rehabilitation of Kigali - Gatuna paved road (78 Km).                                      Gicumbi
+3     Rehabilitation of Gisiza - Pfunda paved road (48 Km).                                       Rubavu
+      Rehabilitation of Kigali - Musanze paved road (83.1 Km) and access road to Tumba
+4                                                                                            Gakenke,Musanze
+      College paved road (9km)
+5     Rehabilitation of Rubengera-Gisiza Road (25 Km)                                         Karongi/Rutsiro
+6     Rehabilitation of Rusizi– Bugarama - Ruhwa Road (61Km)                                   Nyamasheke
+7     Rehabilitation of Kitabi - Crete Congo Nil (32 Km)                                       Nyamasheke
+8     Rehabilitation of Kigali – Muhanga – Huye - Akanyaru (157km)                            Muhanga/Huye
+9     Rehabilitation of Rusizi– Buhinga - Tyazo road (50.4Km)                                     Rusizi
+      Rehabilitation of Nyakinama – Musanze - Cyanika & Musanze - Rubavu paved road
+10                                                                                               Musanze
+      (102 Km)
+      National Unpaved Roads
+      Rehabilitation of damaged sections on Rugobagoba Kinazi Ruhango Gitwe Buhanda
+11                                                                                                Karongi
+      Kirinda Birambo Karongi (111km)
+      Rehabilitation of damaged sections on Maya Rushaki Rwempasha-Kiyombe-
+12                                                                                               Gicumbi
+      Karama Buziba -Rwempasha Kizinga (83Km).
+      Rehabilitation of damaged sections on Kitabi-Musebeya Gishyita, a road link
+13                                                                                              Nyamagabe
+      Nyamagabe and Karongi District (83km)
+
+14    Rehabilitation of damaged sections on Kirengeri -Buhanda - Kaduha- Musebeya
+      road link Ruhango, Nyanza and Nyamagabe Districts                                         Nyamagabe
+      Rehabilitation of damaged sections on Gasaka -Manuari - Masizi Karongi is a road
+15
+      link Nyamagabe and Karongi including two bridges located on it                        Nyamagabe/Karongi
+16    Rehabilitation of damaged sections on Cyakabiri-Nyabikenke-Ndusu Road.                    Muhanga
+      District Roads Class 1
+17    Rehabilitation of damaged sections on Kamuhanda-Musenyi (6Km)                              Kamonyi
+18    Rehabilitation of damaged sections on Rugendabari-Kibangu-Muvumba (57Km)                   Muhanga
+      Rehabilitation of damaged sections on Kibeho-Gorwe-Muganza kivu tea factory-
+19                                                                                              Nyaruguru
+      Kivu (21Km)
+20    Rehabilitation of damaged sections on Nshili TF-Remera (15Km)                             Nyaruguru
+21    Rehabilitation of damaged sections on Gasarenda-Musebeya (7Km)                            Nyamagabe
+22    Rehabilitation of damaged sections on Gatare-Kizimyamuriro-Nkomane (25Km)                 Nyamagabe
+23    Rehabilitation of damaged sections on Kitabi-Nshili TF (29Km)                             Nyamagabe
+24    Rehabilitation of damaged sections on KADUHA (KABARIZO)-MIKO (14Km)                       Nyamagabe
+25    Rehabilitation of damaged sections on GASARENDA-GAHIRA-GAKOMA (7Km)                       Nyamagabe
+
+                                                        38
+     The World Bank
+     Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+     Rehabilitation of damaged sections on Rutsiro - Kavumu- Gashyushya - Kazabe
+26                                                                                     Ngororero
+     (53.8 Km)
+27   Rehabilitation of damaged sections on Muhanda - Kavumu-Kabaya (28Km)              Ngororero
+
+28   Rehabilitation of damaged sections on Kivumu – Kigeyo                               Rutsiro
+
+     Rehabilitation of damaged sections on Rwankeri-Kintobo-Nyakiriba-Nyakinama
+29                                                                                      Nyabihu
+     (25Km)
+
+     Rehabilitation of damaged sections on Ngororero-Nyabarongo-Vunga-
+30                                                                                      Nyabihu
+     Gashyushya (35Km)
+31   Rehabilitation of damaged sections on Nkuli- Kabashumba -Rurembo-Gifunzo ( )       Nyabihu
+32   Rehabilitation of damaged sections on Mahoko-Nyabirasi (43Km)                       Rubavu
+33   Rehabilitation of damaged sections on Kibangira-Gikundavura-Bweyeye (62.1 Km)       Rusizi
+     Rehabilitation of damaged sections on Kabuga-Bigutu-Cyamudongo-Nyakabuye-
+34                                                                                       Rusizi
+     Butare (32.6Km)
+35   Rehabilitation of damaged sections on Tyazo-Rangiro-Yove (26Km)                   Nyamasheke
+36   Rehabilitation of damaged sections on Ntendezi-Mwezi-Ruguti (20Km)                Nyamasheke
+     Rehabilitation of damaged sections on Mugonero-Cyarusine-Giti-Giko (DR Class 2,
+37                                                                                     Nyamasheke
+     36Km)
+38   Rehabilitation of damaged sections on KIRYI-MUBUGA-KIRAMBO (18.5Km)                 Burera
+39   Rehabilitation of damaged sections on MUHABURA-GAHUNGA-MUBUGA (29.4)                Burera
+40   Rehabilitation of damaged sections on Gitikinyoni-Ruli-Rushashi-Gakenke (63Km)     Gakenke
+41   Rehabilitation of damaged sections on Kirenge-Muhondo-Rushashi (16.7Km)            Gakenke
+     Rehabilitation of damaged sections on Riziyeri-Rilima-Mwogo-Nyamata-Shyara
+42                                                                                      Bugesera
+     (67km)
+     Bridges
+43   Rehabilitation of Mwoga Bridge located on Nyamugali-Kamombo road (10m)              Ngoma
+44   Rehabilitation of Mungoti on Kazabe – Kavumu road                                 Ngororero
+45   Rehabilitation of Rutsiro on Kazabe – Kavumu road                                 Ngororero
+46   Rehabilitation of Satinsyi bridge on Kazabe – Kavumu road (25m)                   Ngororero
+47   Rehabilitation of Muhanda Bridge                                                  Ngororero
+48   Rehabilitation of Kagogo bridge located on NR16 (25.5m)                           Ngororero
+49   Rehabilitation of Nanga bridge at Rwankeri-Kintobo-Nyakiriba-Nyakinama (6m)        Nyabihu
+50   Rehabilitation of Ryinyo bridge (8m)                                               Nyabihu
+51   Rehabilitation of Mpinga bridge: Nkuri-Rurembo-Gifunzo-Kirogotero (6m)             Nyabihu
+52   Rehabilitation of Kaseke bridge (7m)                                               Nyabihu
+53   Rehabilitation of Rwangurube bridge (7m)                                           Nyabihu
+54   Rehabilitation of Kirogotero bridge (20m)                                          Nyabihu
+55   Rehabilitation of Mubayo bridge 1 (7m)                                             Nyabihu
+                                                      39
+     The World Bank
+     Rwanda-Emergency Connectivity Restoration Project (P504023)
+
+
+56   Rehabilitation of Kazirankara Bridge (6m)                                    Nyabihu
+57   Rehabilitation of Ntosho-Guriro (8m)                                         Nyabihu
+58   Rehabilitation of 4 Bridges on Guriro-Gasiza Road (6m each)                  Nyabihu
+59   Rehabilitation of 6 Bridges Nyamitanzi-Gisizi (6m each)                      Nyabihu
+60   Rehabilitation of Gitebe Bridge (20m)                                        Nyabihu
+61   Rehabilitation of 1 Bridge on Mumuhanda-Gasiza- Birembo (6m)                 Nyabihu
+62   Rehabilitation of 1 bridge on Rwankeri-Kintobo-Nyakiriba-Nyakinama (8m)      Nyabihu
+63   Rehabilitation of Kazihira Bridge (10m)                                      Nyabihu
+64   Rehabilitation of Mubayo Bridge 2 (7m)                                       Nyabihu
+65   Rehabilitation of 3 Bridges on Kazirankara-Nturo-Kaburamba Road (8m each)    Nyabihu
+66   Rehabilitation of 5 Bridges on Dagaza-Kantine Road (6m each)                 Nyabihu
+67   Rehabilitation of Kaseke Bridge on Nkuri-Kirogotero Road (7m)                Nyabihu
+68   Rehabilitation of Musekera Bridge on Nkuri-Kirogotero Road (10m)             Nyabihu
+69   Rehabilitation of Nyakabungo/Kirogotero Bridge (12m)                         Nyabihu
+70   Rehabilitation of Rukarara bailey bridge Gasaka-Musange (39m)               Nyamagabe
+71   Rehabilitation of Burakali bridge (10m)                                       Nyanza
+72   Rehabilitation of Cyogo Bridge (50m)                                         Kamonyi
+73   Rehabilitation of Kabingo Bridge                                             Muhanga
+74   Rehabilitation of Bakokwe bridge                                             Muhanga
+75   Rehabilitation of Gafunzo Bridge (20m)                                       Ruhango
+
+
+
+
+                                                      40
+

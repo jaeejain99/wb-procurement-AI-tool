@@ -1,0 +1,4399 @@
+                                   FOR OFFICIAL USE ONLY
+
+
+
+                                                               Report No: ICR00006535
+
+         INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT AND/OR
+
+                     INTERNATIONAL DEVELOPMENT ASSOCIATION
+
+
+
+
+
+                IMPLEMENTATION COMPLETION AND RESULTS REPORT
+
+                                   Credit Number 6134-KE
+
+
+
+                                              ON A
+
+
+
+                                             CREDIT
+
+
+
+                            IN THE AMOUNT OF SDR 227 MILLION
+
+
+
+                               (US$ 300 MILLION EQUIVALENT)
+
+
+
+                                             TO THE
+
+
+
+                                      Republic of Kenya
+
+
+
+                                             FOR THE
+
+                                Kenya Urban Support Program
+
+                                  PROGRAM-FOR-RESULTS
+
+                                        June 18, 2024
+
+
+
+Urban, Resilience And Land Global Practice
+
+Eastern And Southern Africa Region
+
+                    CURRENCY EQUIVALENTS
+
+
+
+           (Exchange Rate Effective December 29, 2023)
+
+
+
+
+
+                         Currency Unit = Kenya Shillings
+
+                            KSH 156.46 = US$1
+
+                               US$1.32 = SDR 1
+
+
+
+                           FISCAL YEAR
+
+                          July 1 - June 30
+
+
+
+
+
+
+
+
+
+Regional Vice President: Victoria Kwakwa
+
+      Country Director: Keith E. Hansen
+
+     Regional Director: Iain G. Shuker
+
+     Practice Manager: Peter D. Ellis
+
+  Task Team Leader(s): Beatriz Eraso Puig, Davison Muchadenyika
+
+  ICR Main Contributor: Carlos Ivan Mejia Rosario, Yasmeen Hopkins
+
+                           ABBREVIATIONS AND ACRONYMS
+
+
+
+
+
+APA     Annual Performance Assessment            MoPSYGA Ministry of Public Service, Youth and
+
+BEA     Beneficiary and Economic Asset                   Gender Affairs
+
+CARA    County Allocation of Revenue Act         MTEF    Medium-Term Expenditure Framework
+
+CIDP    County Integrated Development Plan       MTIHUD  Ministry of Transport, Infrastructure,
+
+CoG     Council of Governors                             Housing, and Urban Development
+
+CPCT    County Program Coordination Team         MTP2    Second Medium-Term Plan
+
+CPF     Country Partnership Framework            MTR     Mid-Term Review
+
+CPS     Country Partnership Strategy             NEMA    National Environmental Management
+
+CRA     Commission on Revenue Allocation                 Authority
+
+CUIDS   County Urban Institutional               NLC     National Land Commission
+
+        Development Strategy                     NMT     Non-Motorized Transport
+
+DLI     Disbursement Linked Indicator            NPCT    National Program Coordination Team
+
+DLR     Disbursement Linked Result               NT      National Treasury
+
+DORA    Division of Revenue Act                  NUDP    National Urban Development Policy
+
+DOSHS   Directorate of Occupational Safety and   OAG     Office of the Auditor General
+
+        Health services                          OHS     Occupational Health & Safety
+
+EACC    Ethics and Anti-Corruption Commission    O&M     Operations and Maintenance
+
+EHS     Environmental, Health and Safety, and    PAP     Program Action Plan
+
+        Social Safeguards                        PDO     Program Development Objective
+
+EIRR    Economic Internal Rate of Return         PFM     Public Financial Management
+
+EPE     End of Program Evaluation                PforR   Program for Results
+
+E&S     Environment and Social                   POM     Program Operations Manual
+
+FM      Financial Management                     PS      Performance Standard
+
+GDP     Gross Domestic Product                   PSC     Program Steering Committee
+
+GRS     Grievance Redress Service                PTC     Program Technical Committee
+
+GoK     Government of Kenya                      QAR     Quality Assurance Review
+
+IDeP    Integrated Development Plan              RF      Results Framework
+
+IFMIS   Integrated Financial Management          SDHUD   State Department of Housing and Urban
+
+        Information System                               Development
+
+IGFR    Intergovernmental Fiscal Relations       SDG     Sustainable Development Goal
+
+IPF     Investment Project Finance               SORT    Systematic Operating Risk Rating Tool
+
+KDSP    Kenya Devolution Support Program         ToC     Theory of Change
+
+KenUP   Kenya Urban Program                      ToRs    Terms of Reference
+
+KMP     Kenya Municipal Program                  UAC     Urban Areas and Cities
+
+KSG     Kenya School of Government               UACA    Urban Areas and Cities Act
+
+Ksh     Kenyan Shilling                          UDG     Urban Development Grant
+
+KUSP    Kenya Urban Support Program              UIG     Urban Institutional Grant
+
+MC      Minimum Condition                        VfM     Value for Money
+
+MoDP    Ministry of Devolution and Planning      WB      World Bank
+
+                                                          TABLE OF CONTENTS
+
+
+
+
+
+DATA SHEET .......................................................................................................................... 1
+
+I.    PROGRAM CONTEXT AND DEVELOPMENT OBJECTIVES.................................................... 5
+
+      A. CONTEXT AT APPRAISAL AND THEORY OF CHANGE .................................................................5
+
+      B. SIGNIFICANT CHANGES DURING IMPLEMENTATION (IF APPLICABLE) .......................................7
+
+II.   OUTCOME ...................................................................................................................... 8
+
+      A. RELEVANCE ............................................................................................................................8
+
+      B. ACHIEVEMENT OF PDOs (EFFICACY) ........................................................................................9
+
+      C. JUSTIFICATION OF OVERALL OUTCOME RATING ....................................................................11
+
+      D. OTHER OUTCOMES AND IMPACTS (IF ANY) ...........................................................................11
+
+III. KEY FACTORS THAT AFFECTED IMPLEMENTATION AND OUTCOME ................................ 11
+
+      A. KEY FACTORS DURING PREPARATION ...................................................................................11
+
+      B. KEY FACTORS DURING IMPLEMENTATION .............................................................................12
+
+IV. BANK PERFORMANCE, COMPLIANCE ISSUES, AND RISK TO DEVELOPMENT OUTCOME .. 13
+
+      A. QUALITY OF MONITORING AND EVALUATION .......................................................................13
+
+      B. ENVIRONMENTAL, SOCIAL, AND FIDUCIARY COMPLIANCE .....................................................15
+
+      C. BANK PERFORMANCE ...........................................................................................................16
+
+      D. RISK TO DEVELOPMENT OUTCOME .......................................................................................17
+
+V. LESSONS AND RECOMMENDATIONS ............................................................................. 18
+
+ANNEX 1. RESULTS FRAMEWORK, DISBURSEMENT LINKED INDICATORS, AND PROGRAM
+
+ACTION PLAN ...................................................................................................................... 20
+
+ANNEX 2. BANK LENDING AND IMPLEMENTATION SUPPORT/SUPERVISION ......................... 39
+
+ANNEX 3. PROGRAM EXPENDITURE SUMMARY ................................................................... 42
+
+ANNEX 4. BORROWER’S COMMENTS ................................................................................... 43
+
+ANNEX 5. SUPPORTING DOCUMENTS (IF ANY) ..................................................................... 44
+
+ANNEX 6. KUSP THEORY OF CHANGE ................................................................................... 45
+
+ANNEX 7. OTHER OUTCOMES AND IMPACTS ........................................................................ 46
+
+    The World Bank
+
+    Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+
+
+DATA SHEET
+
+
+
+
+
+BASIC INFORMATION
+
+
+
+Product Information
+
+Program ID                   Program Name                               Financing Instrument
+
+
+
+P156777                     Kenya Urban Support Program                 Program-for-Results Financing
+
+
+
+Country                                                                 IPF Component
+
+
+
+Kenya                                                                   Yes
+
+
+
+Original EA Category                                                    Revised EA Category
+
+
+
+Not Required (C)                                                        Not Required (C)
+
+
+
+
+
+
+
+Organizations
+
+
+
+Borrower                                                Implementing Agency
+
+
+
+                                                        Ministry of Lands, Public Works, Housing, and Urban
+
+Republic of Kenya
+
+                                                        Development
+
+
+
+
+
+Program Development Objective (PDO)
+
+Original PDO
+
+The Program Development Objective (PDO) is to establish and strengthen urban institutions to deliver improved
+
+infrastructure and services in participating counties in Kenya.
+
+
+
+
+
+
+
+
+
+                                                                                                         Page 1 of 48
+
+               The World Bank
+
+               Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+FINANCING
+
+ FINANCE_TBL
+
+
+
+
+
+
+
+
+
+                                Original Amount (US$)                Revised Amount (US$)         Actual Disbursed (US$)
+
+ World Bank Administered Financing
+
+                                                   300,000,000                 291,424,305                  289,870,401
+
+ IDA-61340
+
+ Total                                             300,000,000                 291,424,305                  289,870,401
+
+ Non-World Bank Administered Financing
+
+ Borrower/Recipient                                          0                  17,200,000                   12,200,000
+
+ Total                                                       0                  17,200,000                   12,200,000
+
+ Total Program Cost                                300,000,000                 308,624,305                  302,070,401
+
+
+
+
+
+KEY DATES
+
+
+
+Program                     Approval         Effectiveness       MTR Review         Original Closing    Actual Closing
+
+P156777                     26-Jul-2017      11-Jan-2018         23-Oct-2020        31-Jul-2023         31-Dec-2023
+
+
+
+
+
+
+
+RESTRUCTURING AND/OR ADDITIONAL FINANCING
+
+
+
+Date(s)                            Amount Disbursed (US$M) Key Revisions
+
+21-Jun-2021                                          243.16 Change in Results Framework
+
+                                                            Reallocation between and/or Change in DLI
+
+20-Jul-2023                                          287.62 Change in Loan Closing Date(s)
+
+                                                            Cancellation of Financing
+
+                                                            Reallocation between and/or Change in DLI
+
+
+
+
+
+
+
+KEY RATINGS
+
+
+
+Outcome                                       Bank Performance                      M&E Quality
+
+Satisfactory                                  Satisfactory                          Substantial
+
+
+
+
+
+
+
+
+
+                                                                                                                Page 2 of 48
+
+      The World Bank
+
+      Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+RATINGS OF PROGRAM PERFORMANCE IN ISRs
+
+
+
+                                                                                                 Actual
+
+No.              Date ISR Archived              DO Rating                IP Rating           Disbursements
+
+                                                                                                (US$M)
+
+01                    02-Jan-2018               Satisfactory           Satisfactory                      1.43
+
+02                    28-Jun-2018               Satisfactory           Satisfactory                    23.55
+
+03                    07-Dec-2018               Satisfactory           Satisfactory                   135.45
+
+04                    18-Jun-2019      Moderately Satisfactory   Moderately Unsatisfactory            135.45
+
+05                    20-Dec-2019      Moderately Satisfactory   Moderately Unsatisfactory            135.45
+
+06                    29-May-2020      Moderately Satisfactory    Moderately Satisfactory             139.06
+
+07                    02-Dec-2020               Satisfactory      Moderately Satisfactory             242.39
+
+08                    03-Jun-2021               Satisfactory      Moderately Satisfactory             243.16
+
+09                    01-Dec-2021               Satisfactory      Moderately Satisfactory             281.82
+
+10                    31-May-2022               Satisfactory      Moderately Satisfactory             283.05
+
+11                    28-Nov-2022               Satisfactory      Moderately Satisfactory             285.58
+
+12                    27-Mar-2023               Satisfactory      Moderately Satisfactory             287.62
+
+13                    20-Sep-2023               Satisfactory      Moderately Satisfactory             291.03
+
+14                    11-Dec-2023               Satisfactory      Moderately Satisfactory             291.03
+
+
+
+
+
+SECTORS AND THEMES
+
+
+
+Sectors
+
+Major Sector/Sector                                                                                       (%)
+
+
+
+
+
+Public Administration                                                                                    100
+
+        Sub-National Government                                                                           100
+
+
+
+
+
+Themes
+
+Major Theme/ Theme (Level 2)/ Theme (Level 3)                                                             (%)
+
+
+
+
+
+
+
+
+
+                                                                                                     Page 3 of 48
+
+       The World Bank
+
+       Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+Public Sector Management                                                                                     100
+
+            Public Administration                                                                            100
+
+                      Municipal Institution Building                                                         100
+
+
+
+Urban and Rural Development                                                                                   80
+
+            Urban Development                                                                                80
+
+                      Urban Infrastructure and Service Delivery                                               80
+
+
+
+                      Urban Planning                                                                          40
+
+
+
+Environment and Natural Resource Management                                                                   31
+
+            Climate change                                                                                   31
+
+                      Mitigation                                                                               8
+
+
+
+                      Adaptation                                                                              23
+
+
+
+
+
+ADM STAFF
+
+Role                                               At Approval                 At ICR
+
+
+
+Regional Vice President:                           Makhtar Diop                Victoria Kwakwa
+
+
+
+Country Director:                                  Diarietou Gaye              Keith E. Hansen
+
+
+
+Director:                                          Ede Jorge Ijjasz-Vasquez    Iain G. Shuker
+
+
+
+Practice Manager:                                  Bernice K. Van Bronkhorst   Peter D. Ellis
+
+                                                                               Beatriz Eraso Puig, Davison
+
+Task Team Leader(s):                               Abdu Muwonge
+
+                                                                               Muchadenyika
+
+ICR Contributing Author:                                                       Carlos Ivan Mejia Rosario
+
+
+
+
+
+
+
+
+
+                                                                                                       Page 4 of 48
+
+          The World Bank
+
+          Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+I. PROGRAM CONTEXT AND DEVELOPMENT OBJECTIVES
+
+
+
+ A. CONTEXT AT APPRAISAL AND THEORY OF CHANGE
+
+      Context
+
+      1.       Kenya had experienced strong economic growth in recent years before Appraisal, but the provision of
+
+      infrastructure had not kept up with the pace of economic growth. Kenya's economic growth averaged 5.3% from
+
+      2004-14, spurred by infrastructure investments, private-sector growth, and consumer demand. Despite growth,
+
+      infrastructure development lagged. 1 In 2014, Kenya was at an early stage of urbanization 2, offering the potential
+
+      to drive economic growth that highly depends on the efficiency of public investments. Investment in cities,
+
+      combined with moderate levels of rural-to-urban migration, was the most effective way to raise welfare and
+
+      reduce poverty in the medium to long run 3. Rapid urbanization left cities with huge unmet demand for critical
+
+      infrastructure and basic services, which constrained the productivity of businesses and negatively impacted the
+
+      quality of life of residents. For example, the proportion of the urban population with access to improved water
+
+      sources declined from 92% in 1990 to 82% 2012. A highly visible result of poorly managed urbanization was the
+
+      expansion of overcrowded informal settlements, where about 60% of residents in major cities lived.
+
+      2.       The Government of Kenya (GoK) recognized the need to manage urbanization as part of its overall
+
+      development strategy. Kenya Vision 2030 highlighted rapid urbanization as one of four key challenges facing the
+
+      country. Within the over-arching framework of Vision 2030, the urbanization component of the Second Medium
+
+      Term Plan (MTP2) 2013–17 aimed to facilitate a sustainable urbanization process through an integrated urban and
+
+      regional planning management framework of Kenyan urban centers and towns. Aligned to that goal, the MTP
+
+      identified a series of investment programs to enhance infrastructure, connectivity and accessibility, safety and
+
+      security. Developing the basic institutions required for effective urban management as a critical way to deliver
+
+      these investments and for urbanization to contribute to sustainable growth in Kenya. The Urban Areas and Cities
+
+      Act (UACA, 2011, amended 2016) presented an incentive to establish urban institutions; thus, strengthening the
+
+      framework for devolution and improved management. Under the 2010 Constitution, local governments were
+
+      abolished, and counties took over the revenues and the responsibilities previously assigned to urban local
+
+      governments. However, the Constitution did not explicitly specify how urban areas would be governed and
+
+      managed, leaving that to subsequent national legislation. UACA partially addressed this urban governance deficit,
+
+      by providing procedures for chartering cities and municipalities and establishing urban boards. Such urban boards,
+
+      appointed by county governments, would have delegated responsibilities for the management of cities and
+
+      municipalities and would remain accountable to their respective county governments. However, at the time of
+
+      appraisal, almost no counties had established urban boards to manage individual cities or municipalities on a
+
+      delegated basis due to an adverse context from both national government to transfer resources and governments
+
+      reticent to establish urban institutions. Therefore, to support the devolution process in Kenya, it appeared to be
+
+      essential to make incentives for the creation of municipal boards as a last mile institution.
+
+      Theory of Change (Results Chain)
+
+      3.       The project aimed to establish and strengthen urban institutions to deliver infrastructure and services
+
+      in participating counties in Kenya. A Theory of Change (ToC) was not a requirement during preparation, but one
+
+      was developed for the purpose of this report (see Annex 6).
+
+
+
+      1 World Bank, 2016. “Kenya Urbanization Review.” Washington, DC.
+
+      2 World Bank, 2010. “Africa’s Infrastructure: A Time for Transformation.” Africa Development Forum Series.
+
+      3 World Bank, 2009. World Bank Development Report 2009: Reshaping Economic Geography. Washington, DC.
+
+
+
+
+
+
+
+                                                                                                                   Page 5 of 48
+
+     The World Bank
+
+     Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+Rationale for PforR Support, and Program Scope and Boundaries
+
+4.       KUSP supported the first Kenya Urban Program (KenUP), the vehicle for the implementation of the
+
+National Urban Development Policy (NUDP) with an objective of US$1 billion in financing for the period 2017 –
+
+2022. KUSP financed key parts of KenUP across its six thematic areas, including urban institutions, governance,
+
+management, finance, planning and infrastructure and service delivery. It did so through three separate, but inter-
+
+related, windows at the national, county and urban levels financed through a Program for Results (PforR) (US$270
+
+million) with an Investment Project Financing (IPF) component (US$30 million). The three windows of the
+
+operation were inter-related as the support to national level activities led to the development and implementation
+
+of the county level interventions through technical assistance, capacity building and program management.
+
+5.       Sub-national level activities (Window 2 – Urban Institutional Grants, UIG and Window 3 – Urban
+
+Development Grants, UDG) were financed through the PforR instrument. Given the Program’s focus on
+
+institutional development and policy implementation at the sub-national level, the PforR provided a clear set of
+
+incentives to country governments by linking Program disbursements to the delivery of institutional benchmarks
+
+such as the establishment of urban management systems. The PforR also provided incentives for the delivery of
+
+county-led capacity building activities and a certain flexibility in meeting the specific developmental needs of
+
+different urban areas. The established urban institutions have been encouraged further through the PforR
+
+framework to improve their performance and deliver transformative infrastructure.
+
+6.       National level (Window 1) activities were implemented through an IPF component. The IPF funded a range
+
+of institutional and capacity development interventions and technical assistance implemented at the national
+
+government level by the State Department of Housing and Urban Development (SDHUD). The rationale for using
+
+IPF came from the lessons learned from the Kenya Devolution Support Project (KDSP) and other PforR operations
+
+in the country, which suggested the need to provide a high level of budget predictability for undertaking national
+
+government actions that are critical for the success of the project, such as the Annual Performance Assessments
+
+(APAs) and capacity building for sub-national government 4. IPF implementation modalities also were an effective
+
+way of providing technical assistance and institutional support activities in a timely and economic manner.
+
+Program Development Objectives (PDOs)
+
+7.     The Program Development Objective (PDO) was to establish and strengthen urban institutions to deliver
+
+improved infrastructure and services in participating counties in Kenya.
+
+Key Expected Outcomes and Outcome Indicators
+
+8.      The PDO was measured by three PDO indicators: (1) Number of urban areas with approved charters,
+
+established boards, appointed urban managers and a budget vote, (2) Number of urban areas that utilize at least
+
+50% of the budget intended for their urban investments in their budget vote, and (3) Score in the APA for
+
+achievement of urban planning, infrastructure, and service delivery targets by counties/urban areas, averaged
+
+across all urban areas that qualify for the Urban Development Grant (UDG).
+
+Program Results Areas and DLIs
+
+9.      In line with PforR approach, windows 2 and 3 were implemented using existing country fiduciary systems
+
+with appropriate capacity strengthening measures. The activities undertaken were under the following results
+
+areas: (a) support to national government level for policy formulation and implementation, institutional
+
+development (capacity building) and country-level performance assessments (monitoring for coordination) –
+
+
+
+4   World Bank, 2022. “Kenya Devolution Support Project Implementation Completion and Results” paragraph 74.
+
+
+
+                                                                                                               Page 6 of 48
+
+          The World Bank
+
+          Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+     window 1; (b) support to country governments for the development of county-level urban development policies,
+
+     the establishment of Urban Boards, and the implementation and enforcement of county policies and legislation
+
+     (capacity building and urban development) – window 2; and (c) support to urban institutions for the development
+
+     of urban plans, systems and the implementation of urban infrastructure and services – window 3.
+
+     10.    Program funds for sub-national activities were disbursed on the basis of three DLIs. The DLIs (Table 1)
+
+     provided strong incentives for improved management of urban areas.
+
+                                              Table 1: Program DLIs and Allocated Amounts
+
+         Window                Results area                      DLIs                               Amount        % of total
+
+                                                                                                    (US$          IDA (PforR)
+
+                                                                                                    million)      amount
+
+         Window 2: county      County governments commit to      DLI 1: county governments have            22.2              8.2
+
+         governments           address urban development         met UIG Minimum Conditions
+
+                               and management issues
+
+         Window 3: urban       Institutional framework           DLI 2: County governments have          171.4             63.6
+
+         boards and            established and operational       met UDG Minimum Conditions
+
+         counties              Urban planning, infrastructure,   DLI 3: County governments and            76.1             28.2
+
+                               and service delivery              urban area institutions have met
+
+                                                                 UDG Performance Standards
+
+                                                                          Total IDA PforR finance        269.7            100.0
+
+
+
+B. SIGNIFICANT CHANGES DURING IMPLEMENTATION (IF APPLICABLE)
+
+      Revised PDOs Outcome Targets, Result Areas, and DLIs
+
+     11.     KUSP was restructured twice, and both were Level 2 restructuring. The first restructuring, approved in
+
+     June 2021, changed the results framework (RF) and the reallocation between DLIs, and added a fourth DLI. The PDO
+
+     indicator “score in the APA achievement of urban planning, infrastructure and service delivery targets” was revised
+
+     to “urban areas with an approved annual investment plan and urban area plans”. The rationale for this change was
+
+     to simplify the calculation of indicator achievements and, therefore, make it easier for counties and municipal
+
+     boards to collect the data. Similarly, there were minor changes to four intermediate indicators (cf. section III.b).
+
+     12.      Changes to the financing plan: the program’s financing plan was changed to: (a) reflect under-spending on
+
+     Window 1 (IPF); (b) reallocate the remaining balance of DLI1 (Window 2) funds; (c) allocate the remaining balance
+
+     of DLI3 (Window 3) funds to the DLI4 (Window 3). The financing allocation for Window 1 was partially intended to
+
+     be directed toward financing UIG to counties (US$ 4.5 million) as no clear modality of transferring funds between
+
+     the two windows was established. However, this balance remained under the IPF. The undisbursed balance of
+
+     Window 2 (US$ 481,690.7) was allocated to Window 3. 5 The undisbursed balances of DLI1 (Window 2, UIGs) and
+
+     DLI3 (Window 3, UDGs) were allocated to a new DLI4 (Window 3, UDGs) (US$37,425,836).
+
+     13.    The second restructuring approved in June 2023 extended the closing date from July 31, 2023, to December
+
+     31, 2023, to allow the completion of the Environmental, Health and Safety, and Social Safeguards Audit, Value for
+
+     Money (VfM) Audit, and End of Program Evaluation. It also cancelled an undisbursed IPF amount of US$8,575,694 6.
+
+
+
+
+
+
+
+
+
+     5   KUSP Restructuring Paper June 2021
+
+     6   KUSP Restructuring Paper June 2023
+
+
+
+                                                                                                                          Page 7 of 48
+
+           The World Bank
+
+           Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+      Other Changes
+
+      14.      The first restructuring led to modifications in the APA methodology and implementation. The onset of the
+
+      Covid-19 pandemic, combined with delays in the procurement of the third APA, and the pressing timeline for the
+
+      third disbursement, necessitated a shift in approach. 7 The restructuring allowed moving from an externally led APA
+
+      to a self-evaluation mechanism subject to independent validation by the Office of the Auditor General (OAG).
+
+      Rationale for Changes and their Implication for the Original Theory of Change
+
+      15.     The first project restructuring that occurred after the Mid-Term Review (MTR) in October 2020, intended
+
+      to address some of the main challenges identified. These issues were (i) difficulties in accounting for the progress
+
+      made in achieving the PDO reflected in a change in the RF; (ii) under-spending on Window 1 (IPF); and (iii)
+
+      reallocation between DLIs and change of DLI with the addition of a fourth to reduce capacity gap regarding the
+
+      financial management by counties and urban boards Therefore, the proposed changes allowed the Program to: (i)
+
+      better document and account for results; (ii) provide adequate funding for meeting DLI Targets over the entire life
+
+      of the Program; and (iii) support structured capacity building on financial management. The second restructuring in
+
+      2023 gave the Program more time for implementation, considering the delays faced in the initial period.
+
+      16.    The allocation to DLI4 strengthened incentives for countries and urban boards to improve the boards
+
+      performance, upgrade environmental and social (E&S) management and improve overall management of
+
+      investments projects. In addition, the allocation to DLI4 strengthened overall financial management. 8
+
+
+
+II. OUTCOME
+
+
+
+ A. RELEVANCE
+
+      Relevance of PDO
+
+      17.      Relevance of the PDO is rated high. The relevance of objectives has been evaluated to the extent the PDO
+
+      is consistent with World Bank Group Country Partnership Framework (CPF) for Kenya FY23-28 discussed by the
+
+      Board on August 22, 2022 (Report No. 172255-KE). The PDO is fully aligned with: (i) Objective 2 - Improve public
+
+      expenditure transparency and effectiveness, as KUSP supported Kenya’s devolution process through capacity
+
+      building for county governments and urban boards; (ii) Objective 5 - Extend infrastructure services to the last mile,
+
+      as KUSP supported infrastructure investments in secondary cities while strengthening service delivery capacities of
+
+      municipalities, lower-level structures essential in last mile provision of infrastructure services; and (iii) Objective 6 -
+
+      Increase Household Resilience and national preparedness for shocks, as KUSP contributed to strengthen urban
+
+      resilience in secondary cities by enhancing access to drainage and flood protection infrastructure.
+
+      18.      The PDO was fully consistent with Kenya’s urban development goals as stated in the NUDP, Vision 2030 and
+
+      MTP2. It was instrumental to incentivize the establishment of urban institutions after the abolishment of the local
+
+      governments by the 2010 Constitution. It was the first PforR in the Bank that established new urban institutions as
+
+      other programs incentivize strengthening of well-established municipalities. The next phase of the Program (KUSP2,
+
+      P177048) became effective on March 2024 and will build on KUSP experience to strengthen the established urban
+
+      institutions by incentivizing counties to provide them with greater autonomy, broader functions, and financing,
+
+      while creating the capacity to enhance climate resilience and leverage private sector development.
+
+
+
+
+
+      7   The First and Second APA were done by an external consulting firm and the Third APA was conducted by the OAG.
+
+      8   Ibid.
+
+
+
+                                                                                                                          Page 8 of 48
+
+     The World Bank
+
+     Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+19.     KUSP was instrumental to operationalize the Urban Areas and Cities Act (UACA) 2011 (amended in 2019)
+
+and as such addressed the urban governance deficit by supporting county governments to develop procedures
+
+for chartering municipalities, establishing municipal boards and administrations. At the time of appraisal, except
+
+for Kakamega County Government, no county government had issued any charter and established these institutions
+
+since UACA was approved in 2011. KUSP supported all 45 participating counties governments to establish municipal
+
+boards, administrations with delegated responsibilities for the management of their urban areas in accordance with
+
+the UACA. By the time the program closed, a total of 77 municipal boards and municipalities were established to
+
+support urban areas management and planification and ensure delegated service delivery functions.
+
+       Relevance of DLIs
+
+20.      The DLIs aligned well with the PDO and the RF. Four DLIs, linked the minimum conditions (MC) and
+
+performance standards (PS) to be achieved by counties and urban boards, accounted for 90% of the IDA funds and
+
+were closely linked to the PDO indicators 9. These DLIs played a key role in improving the management of urban
+
+areas and underscored the importance of a performance-oriented disbursement mechanism. They also played an
+
+overarching role to enable the Program to achieve its PDO and the Results Areas through capacity building and
+
+institutional strengthening. No shortcomings in quality elements of DLIs were identified, though a number of
+
+waivers were agreed for some MCs and PSs as explained in section III.B. The DLIs were clearly defined and
+
+measurable, well integrated and provided the right incentives for achieving the Program objectives. As mentioned
+
+in section I.B, DLI 4 was introduced following reallocation of remaining balances of DLIs 1 and 3 to remain sufficiently
+
+relevant to the PDO, Program needs, and Government priorities.
+
+21.     Overall, the DLIs provided the necessary triggers to the overall Program performance and results, leading
+
+to tangible outcomes. DLI 1 incentivized county governments to commit to address to urban development issues
+
+and improving urban management. From APA 3, all 45 counties were able to meet the minimum conditions. DLI 2,
+
+3 and 4 incentivized participating counties to set up Urban Boards, with associated charters, managers, and budget
+
+votes in place. They also led to enhanced service delivery through the supported infrastructure.
+
+       Rating of Overall Relevance
+
+22.      Overall Relevance is rated High, as the PDO and the DLIs remained highly relevant to the CPF and
+
+Government priorities throughout the Program period. Moreover, the DLIs were revised to keep objectives and DLIs
+
+fully relevant.
+
+B. ACHIEVEMENT OF PDOs (EFFICACY)
+
+Assessment of Achievement of Each Objective or Outcome
+
+23.     The assessment of achievement of PDO has been organized around each objective captured in the
+
+statement of objectives as follows: (i) Objective 1: Establishing and strengthening urban institutions, (ii) Objective
+
+2: Improving infrastructure and services. Evidence presented on this section is drawn from PDO Indicators, DLIs,
+
+APAs, Beneficiary and Economic Assessment (BEA), Value for Money Audit (VfM), End of Program Evaluation (EPE)
+
+and Intermediate Results Indicators (IRIs).
+
+Objective 1: Establish and strengthen urban institutions
+
+24.     KUSP helped establish 77 urban institutions: Five years after the inauguration of County governments a
+
+huge institutional gap existed in terms of last mile service delivery and the planning, management and governance
+
+of urban areas. KUSP incentivized the establishment of 77 municipalities across Kenya, 59 of which were directly
+
+
+
+9   Program activities at the national level were financed through the IPF instrument and therefore did not rely on DLIs.
+
+
+
+                                                                                                                            Page 9 of 48
+
+     The World Bank
+
+     Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+supported by the UDG. Counties used also the UIG money to support the establishment of further municipalities.10
+
+These municipalities have charters which elaborate their powers and functions, appointed urban boards and
+
+administrations and have budget votes. At appraisal the program targeted to establish 35 municipalities. The
+
+municipalities creation followed the UACA definition of 50,000 people minimum and therefore allowed the creation
+
+of municipalities that fill the headcount but do not necessarily have the sufficient density to be considered as urban
+
+areas (KUSP 2 is supporting the government to challenge this definition).
+
+25.      KUSP strengthened the capacities of the newly established urban institutions: The Program improved basic
+
+capacities for municipal planning (51 Urban Spatial Plans and 57 Integrated Development Plans prepared), financial
+
+management (preparation of program-based budgets, use of Integrated Financial Management Information System,
+
+IFMIS), procurement, solid waste management (54 municipal solid waste policies prepared), and public participation
+
+(54 municipalities conducted citizen fora annually), and trained 392 County Program Coordination Team members
+
+on Environment and Social Safeguards, Financial Management, Monitoring and Evaluation.11 The BEA found that
+
+‘KUSP has played a vital role in enhancing the institutional capacity of county governments to plan, implement, and
+
+manage urban development projects effectively. It improved governance structures and financial management
+
+practices have been observed in beneficiary municipalities. The program supported urban institutions in establishing
+
+strong basis for urban management through the cycle of investment planning and infrastructure delivery process.
+
+All three PDO level indicators that measure municipal capacity were surpassed.
+
+Objective 2: Improve infrastructure and services
+
+26.     The program invested in key urban infrastructure, which anchors the provision of services, thtough a total
+
+of 388 infrastructure investments across 59 municipalities. Among others, it financed the construction of 246km of
+
+drainage, 218 km of roads, 216 km of NMT facilities, 113 high mast security lights, 30 markets, 22 public parks, 5,000
+
+parking facilities, 12 bus parks, 13 fire stations, 5,217 streetlights, 13 km of sewer line and 3 community facilities.
+
+To date 12, more than 85% are completed and operational. 13 Only 9% (33 number) works activities were ongoing,
+
+with 50% being over 90% complete and all of the ongoing works above 50% completion. The SDHUD is committed
+
+to monitoring the implementation of uncomplete projects post project closure and continue reporting to the Bank. 14
+
+27.      KUSP investments transformed access to services in urban Kenya: The investments are changing the social,
+
+living, mobility and economic fortunes in these urban areas, benefitting about 3.6 million people in urban Kenya. 15
+
+The BEA noted that ‘The KUSP has resulted in substantial improvements in urban infrastructure, including roads,
+
+water supply systems, sanitation facilities, and waste management. These upgrades have significantly enhanced the
+
+quality of life for urban residents and improved the overall urban environment’. 16 Further, ‘the program's
+
+interventions have led to more efficient and reliable service delivery in beneficiary municipalities. Residents now
+
+have better access to essential services such as water, sanitation, healthcare, and education, contributing to
+
+improved socio-economic outcomes. 17 All infrastructure and service delivery intermediate indicators were
+
+surpassed, even when no PDO level indicator measured improved service delivery.
+
+      Rating of Overall Efficacy
+
+
+
+10 KUSP ISR, 11 December 2023.
+
+11 KUSP ISR, 11 December 2023.
+
+12 NPCT continues to follow up and the latest figures.
+
+13 KUSP AM, November 14-17, 2023.
+
+14 One major deficit to be resolved was in Eldoret for completion of the 64 Stadium, Kitui for completion of a market and Kitale for the
+
+
+
+completion of a business center. The Principal Secretary and the CoG are following up with the Governors.
+
+15 KUSP ISR, 11 December 2023.
+
+16 KUSP Beneficiary and Social Economic Assessment.
+
+17 Ibid.
+
+
+
+
+
+
+
+                                                                                                                                 Page 10 of 48
+
+  The World Bank
+
+  Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+28.     Overall Efficacy is rated as substantial. This is the result of KUSP almost fully achieving both its objectives on
+
+time, as there were some delays during implementation. Both objectives’ achievements are included in the efficacy
+
+assessment to (i) establish and strengthen institutions, and (ii) improve infrastructures and services.
+
+C. JUSTIFICATION OF OVERALL OUTCOME RATING
+
+29.      The overall outcome of the operation is rated as Satisfactory (S). Supported by timely restructurings and
+
+its continued High relevance, the Program achieved its overall development objective at completion with minor
+
+shortcomings in the efficacy, mainly in terms of delays and financing gap under multiyear projects as explained in
+
+Section III. Despite these minor shortcomings, KUSP has contributed significantly to the urban reforms towards
+
+strengthening the institutional capacity of the emerging urban areas, catalyzing the formation of urban institutions
+
+even outside the program.
+
+D. OTHER OUTCOMES AND IMPACTS (IF ANY)
+
+30.     The operation had other impacts, some of which were intended, others unintended. The main additional
+
+impacts were: (1) job creation and economic growth, (2) economic impact, (3) poverty reduction and share
+
+prosperity, (4) gender, equity, and inclusive development, (5) sustainability, and (6) contribution to the devolution
+
+process. For a full description of each of these impacts please see Annex 7.
+
+
+
+ III. KEY FACTORS THAT AFFECTED IMPLEMENTATION AND OUTCOME
+
+
+
+ A. KEY FACTORS DURING PREPARATION
+
+
+
+31.      The KUSP aimed to support the objectives in two of the three priority areas of the World Bank’s Country
+
+Partnership Strategy (CPS) (2014–18, report 87024-KE). The CPS for Kenya had three strategic results areas. KUSP
+
+aimed to support strategic result area (a) competitiveness and sustainability—growth to eradicate poverty by
+
+helping to enhance the sustainability of Kenya’s urban areas through strengthening urban governance systems,
+
+supporting participatory strategic and spatial planning, and financing urban infrastructure and services. Improving
+
+the livability of Kenya’s urban areas also helped strengthen rural-urban linkages by increasing off-farm employment
+
+opportunities for rural populations, thus reducing poverty. KUSP also aimed to support the achievement of result
+
+area (c) consistency and equity—delivering a devolution dividend by strengthening county administrations and
+
+urban management systems to enable them to deliver on their mandates. During implementation, appropriate
+
+synergies were to be established with other Global Practices to maximize the operation’s contribution to the CPS.
+
+32.      KUSP is the first Bank PforR that established new local institutions. Given the proposed Program’s focus
+
+on institutional development and policy implementation at the sub-national level, a PforR modality provided a clear
+
+set of incentives to county governments by linking Program disbursements to the delivery of institutional
+
+benchmarks such as the establishment of city and municipal management systems. Further, since this was a novel
+
+experience, at appraisal the Program’s performance framework was designed with flexibility.
+
+33.      Indicators for the Program’s RF was easy to monitor. Despite some exceptions, the established targets
+
+were significantly surpassed during the project as the county’s appropriation of KUSP may have been
+
+underestimated at appraisal. Exceptions were the targets and requirements of four intermediate indicators (cf.
+
+section III. b). The revisions were meant to consider better than expected progress in achieving the PDO, an updated
+
+set of intermediate results relating to infrastructure activities.
+
+34.    KUSP was built on the lessons learned from the Kenya Devolution Support Program (KDSP – P149129) and
+
+added significant value by focusing on institutions and functions specific to urban development. The design of
+
+
+
+                                                                                                               Page 11 of 48
+
+     The World Bank
+
+     Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+KUSP was informed by some of the early lessons learned during KDSP implementation, particularly regarding the
+
+need for robust inter-governmental cooperation, for full integration of conditional grants into budgetary
+
+frameworks at both national and sub-national levels, and for prudent ring-fencing of Operation-critical activities,
+
+from which the proposal of a hybrid option arose. Both KUSP and KDSP activities and implementation
+
+complemented each other with KUSP focusing on addressing the specific challenges of urban governance and
+
+development while KDSP grants financed much broader range of county wide investments.
+
+B. KEY FACTORS DURING IMPLEMENTATION
+
+35.     KUSP RF was restructured in June 2021 to simplify the calculation of indicators achievements. The
+
+indicator “non-motorized transport facilities constructed or rehabilitated under the program” was split into two
+
+indicators to capture non-motorized facilities and roads separately. The indicator “street or high-mast security lights
+
+constructed under the program” was decoupled to measure street and high-mast lights separately. The unit of
+
+measurement for the indicator “public works and green urban spaces under the program” was changed from
+
+hectares to number due to counting challenges.
+
+36.      Government commitment to urban institutional development. In every county, both the charter and the
+
+appointments to the urban board have been ratified by the county government assembly. Further, county
+
+governments have seconded some professional, technical, and administrative staff to the boards, and enabled the
+
+boards to assume more direct responsibilities in planning and management of services delivery, and implementation
+
+of projects, including those under KUSP. Some county governments have initiated steps to consolidate the
+
+institutionalization and organizational capacity of urban boards by (i) developing regulations to guide future
+
+operations; (ii) developing a strategic plan for the board; (iii) adopting organization structures that reflect the full
+
+range of functions and operations expected of an effective urban services authority; (iv) enabling recruitment of
+
+Board-employed by the statutory County Public Service Board (CPSB); and (v) budgeting for autonomous fiscal
+
+management and accountability by the Board. Good working relationships between the NPCT, the Council
+
+Governors and the Consulting team contributed to the success of the project closure report and APA process. 18
+
+37.     Program implementation was affected by delays. The high staff turnover at County and urban levels
+
+contributed to delays in investment implementation, which necessitated continuous training and capacity
+
+development. First, procurement faced several challenges, such as lengthy procurement periods or delays in
+
+issuance of extensions for ongoing consultancies impacting negatively on their delivery 19. Second, delays in the
+
+disbursement of funds, especially the UIG, were occasioned by delays in the approval of the Division of Revenue Act
+
+(DORA) and County Allocation of Revenue Act (CARA) by parliament. 20 Third, due to inadequacies in the capacity of
+
+the technical staff at the urban level, significant contract management issues were noted.
+
+38.      Disbursement delays for the APA were due to a lack of alignment in the design of the program between
+
+the APA process, more urban boards qualifying for the grants, and the budgetary cycles. The APA results were
+
+not obtained on time to inform the calculation of County Allocations to align with the preparation of CARA and
+
+DORA, resulting in disbursement delays to counties 21. This delay resulted in the funds and projects intended for a
+
+particular FY being spent in the following FY, respectively. Due to the pressing timelines, a shift was made towards
+
+a self-evaluation mechanism on the last APA, subjected to validation by the OAG.
+
+
+
+
+
+18 KUSP Project Closure Report, February 2024
+
+19 Kenya Urban Support Program, Project Closure Report, February 2024
+
+20 The Parliament debates and approves the Division of Revenue Act to stipulate how national government and county governments
+
+
+
+share national revenues. Among county governments, revenue sharing is through the County Allocation Revenue Act.
+
+21 Kenya Urban Support Program, Mid-Term Review, October 2020
+
+
+
+
+
+
+
+                                                                                                                          Page 12 of 48
+
+  The World Bank
+
+  Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+39.      Waivers were granted for some MC and PSs for the UDG, resulting in more urban boards qualifying. The
+
+main reasons for granting these waivers were: (1) APA compliance timelines, for example, some municipalities
+
+provided the documentary evidence after the established compliance window due to delays in disbursements, and
+
+there was an agreement to extend the compliance window, (2) changes to the Urban Areas and Cities Act in 2019
+
+which affected the composition of Urban Boards as stated in the Minimum Conditions, (3) at appraisal, there was
+
+some ambiguity as four of UDG MCs, three Program MCs, and one UDG PS had flexibility, i.e., by stating that ‘For
+
+the first APA (to be conducted in FY2017–18 and determining UDG allocations to counties for UDG disbursements
+
+in FY 2018–19) this UDG MC will be slightly modified to take into account program start-up’. Since waivers were
+
+granted, there were two main implications: (1) some counties were lax in complying with the conditions since they
+
+were anticipating waivers, and (2) counties accessed all their maximum allocation for the first two disbursements;
+
+hence, the balance had to be prorated for the third disbursement.
+
+40.    The Program encountered some fiduciary compliance issues. Throughout the project life, the Financial
+
+Management (FM) performance was mostly given a rating of moderately unsatisfactory due to the quality of
+
+documents and reports submitted. Through emphasis on compliance with the program conditions and operations
+
+procedures as well as FM training, it was later upgraded to moderately satisfactory. The SDHUD was working with
+
+the COG and the counties to make progress towards compliance with the fiduciary requirements.
+
+41.     Despite procurement challenges on the IPF component, Window 1 delivered valuable tools, demand-
+
+driven training, and technical assistance to support the strengthening of County and Urban Governments in areas
+
+of urban governance, planning, and resilience, as well as fiduciary and E&S management. The NPCT also
+
+established a Capacity Enhancement Program to provide municipalities with additional supporting staff to
+
+implement the Program, some of which have now been absorbed by the Counties. The covid-19 pandemic disrupted
+
+support for the supervision and monitoring of county-level processes and activities, as well as slowing down policy-
+
+related activities and technical guidance. This resulted in low absorption of funds. Additionally, a few consultancies
+
+proposed had to be canceled due to procurement challenges or lack of time to deliver.
+
+
+
+ IV. BANK PERFORMANCE, COMPLIANCE ISSUES, AND RISK TO DEVELOPMENT OUTCOME
+
+
+
+ A. QUALITY OF MONITORING AND EVALUATION
+
+
+
+     M&E Design
+
+
+
+42.      Since a ToC was not required at preparation, the RF provided a description of the link between most of
+
+the PDO and intermediate indicators and their corresponding activities, baselines, end target, data sources and
+
+responsible agencies. For example, the objectives were clearly specified in the PDO (to establish and strengthen
+
+urban institutions to deliver improved infrastructure and services in participating counties) and remained the same
+
+throughout the project. Similarly, the intermediate results indicators captured the contribution of the project’s
+
+activities and outputs towards achieving the two PDO-level outcomes, and were specific, measurable and
+
+achievable. The baselines, target values, and frequency were available for all indicators. However, some targets set
+
+at appraisal were too modest (for example, the end target for the three PDO indicators and most of the intermediate
+
+results indicators were significantly surpassed, in some cases by more than three times the set target).
+
+43.      DLI verification protocols were clearly defined at Appraisal and included in the POM to ensure a rigorous
+
+verification process, capturing both quantitative and qualitative aspects of the DLI achievements. The protocol
+
+included a description of the data source, the independent APA team, the PTC and PSC as the verification entities
+
+and the annual procedures to evaluate the achievement. The M&E design and arrangements were well embedded
+
+
+
+
+
+                                                                                                           Page 13 of 48
+
+  The World Bank
+
+  Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+institutionally, with the monitoring and reporting taking place at both national and county levels of government.
+
+Monitoring and evaluation took place at both national and county levels of government. At the national level,
+
+SDHUD was responsible for leading the results monitoring and evaluation and verification of DLIs. APAs were carried
+
+out by an independent verification agency (IVAs) contracted competitively by SDHUD to verify all DLIs. A detailed
+
+verification protocol and procedures were developed in the POM to guide the results monitoring and evaluation
+
+and verification of DLIs during the implementation.
+
+    M&E Implementation
+
+44.     During implementation, M&E took place at national and county government levels. At the county level,
+
+data was collected from the relevant county/urban board departments to report on program implementation and
+
+capture data on urban governance, urban infrastructure, and services delivered using program funds. This data was
+
+also part of the key data required for the APA, the findings of which were the key source of information to track the
+
+indicators presented in the RF. The participating counties also prepared progress reports twice a year (a midyear
+
+report and an annual report) containing agreed data and transmitted them to the SDHUD. M&E specialists at the
+
+SDHUD consolidated such input into a single progress report for presentation to the PSC, PTC, and the Bank for
+
+review and comments. The M&E specialists in SDHUD also provided training and backstopping support to staff at
+
+the county/urban levels to ensure that the reports were timely, comprehensive, and accurate. The Program rolled
+
+out the Geo-Enabling Monitoring and Supervision (GEMS) tool for adoption by counties and municipalities. Despite
+
+the ease of data collection and analysis, especially for granular data, and using dashboards to display information,
+
+there were some persistent challenges. One main challenge was the late report and incomplete submissions from
+
+counties and municipalities. Given the staff turnover in some counties and urban areas, more training was needed
+
+during the implementation of the use of the GEMS tool.
+
+45.      Results were monitored through the APA and several evaluations. Three APAs were conducted and
+
+provided data for the achievement of DLIs. Two APAs were conducted by an independent firm, while the OAG
+
+conducted the final APA. Three other evaluations were conducted, and data for the RF were provided: BEA, EPE,
+
+and VfM. A complimentary technical infrastructure visit was also used to monitor results and offered valuable
+
+insights on the progress of activities implementation at the local levels.
+
+    M&E Utilization
+
+46.       The project indicators were monitored against their targets to measure the accomplishment of objectives.
+
+The RF and monitoring reports were used routinely during Implementation Support Reviews. As a PforR operation,
+
+reliable, up-to-date monitoring, verified by an external IVA was critical for triggering the disbursements. For this,
+
+the implementation support missions also reviewed progress according to the DLI matrix and assessed the likelihood
+
+of achieving remaining DLIs. Several indicators relied on periodic surveys to measure progress, and given delays in
+
+initial implementation, the periodicity of those surveys was reduced with results only becoming available upon
+
+completion of end-line surveys. Overall, M&E was used to inform project management and decision-making. At
+
+MTR, M&E led to restructuring to allocate resources between DLI1 and DLI3 and other changes to the RF as
+
+mentioned in previous sections. These changes aimed at enhancing implementation of the Program. The
+
+restructuring, therefore, allowed for a better assessment of the project’s outcomes. The M&E data and findings
+
+were also used to inform KUSP2, as an immediate subsequent intervention to build on KUSP experience.
+
+Justification of Overall Rating of M&E Quality
+
+47.     The overall rating of M&E Quality is Substantial. The program’s M&E, including RF, DLIs and monitoring
+
+and evaluation plans and procedures was: (i) well-designed, with coherence and complementarity among results
+
+areas, key indicators and DLIs; (ii) implemented well, albeit some moderate shortcomings in the RF that were
+
+
+
+
+
+                                                                                                          Page 14 of 48
+
+  The World Bank
+
+  Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+rectified with the restructuring following the MTR, including some modest end targets for several indicators were
+
+not adjusted although these appear to have been fully met by MTR; and (iii) utilized reliably and increasingly as
+
+implementation progresses to inform issues and areas of concern, as well as credit disbursements. Overall, the M&E
+
+system as designed and implemented was generally sufficient to assess the achievement of the objectives and test
+
+the links in the results chain, except there was no PDO indicator for Objective 2 – improved service delivery. More
+
+generally, both the M&E and the DLIs were rated Satisfactory for all the implementation period of the project.
+
+
+
+ B. ENVIRONMENTAL, SOCIAL, AND FIDUCIARY COMPLIANCE
+
+
+
+48.      Compliance with overall E&S safeguards is rated as Moderately Satisfactory. Several challenges affected
+
+the E&S ratings throughout the life of the Program due to non-compliance with specific policy requirements for
+
+functional environment and social safeguards systems according to the Bank’s PforR Financing Policy. At the county
+
+level, some of the challenges included: (i) commencement of subprojects without the National Environment
+
+Management Authority (NEMA) approvals; (ii) non-compliance with occupational health and safety (OHS)
+
+requirements at most construction sites, (iii) weak grievance systems and citizen feedback that allow for a
+
+transparent, timely and efficient redress process, and (iv) inadequate skills by county officers on program
+
+requirements with respect to environment, health and safety and social compliance.
+
+49.     The program made progress in addressing most E&S risks. Overall, the municipalities overtime increased
+
+the presence of E&S specialists, mostly seconded from the counties, although continuous capacity building and
+
+support on E&S issues was required to complete works. There was also progress in E&S risks management including
+
+undertaking training on programs E&S requirements and procedures, establishing of GRM structures, sensitization
+
+on OHS regulations by Directorate of Occupational Safety and Health services (DOSHS) for the participating
+
+municipalities. To enhance the monitoring system, NPCT supported the municipalities in establishing a monitoring
+
+system with relevant tools to enhance municipal compliance with Kenyan Laws. Towards the end of the project,
+
+there was also a notable progress in resolving and closing grievances filed with the Grievance Redress Service (GRS).
+
+Streamlined coordination between NPCT, County Program Coordination Teams (CPCT) and Bank teams
+
+demonstrated benefits towards amicable resolution of project complaints. GRM systems at County and National
+
+levels were also continuously being strengthened and supported through the program. The NPCT has documented
+
+experiences concerning E&S mitigation measures, milestones achieved, challenges, key lessons learned, and
+
+recommendations. Key learnings and recommendations are being integrated into E&S arrangements for KUSP2.
+
+50.       A total of 567 grievances of varied nature were registered, mainly related to poor workmanship,
+
+displacements, health and safety, environment non-compliance, labour disputes, procurement and governance,
+
+poverty destruction and disputed access. Of these, 529 (93%) were resolved and closed at that level, and the rest
+
+are still in resolution phase or pending court resolutions. A total of 45 (8%) of the registered cases were escalated
+
+to the Bank, State Department of Housing and Urban Development (SDHUD), or courts for resolution. Under the
+
+grievances logged by the Bank, 80% of the complaints (63 out of a total 71 received) have been amicably closed,
+
+with 6 outstanding (2 at advanced stages of resolution and 4 under EACC or court investigation). A total of 8 cases
+
+registered in the Bank GRS have been successfully closed in the course of the program. The resolution of complaints
+
+has relied on continued collaboration between the WB task team, the NPCT, and the CPCTs. The NPCT and CPCTs
+
+will continue monitoring and reporting on the outstanding cases post -program closure until all are resolved.
+
+51.    Financial Management. Overall, FM performance was rated moderately satisfactory, with periods of
+
+moderately unsatisfactory due to delays in the internal audit reviews, delays in the transfer of funds from CRF to
+
+SPA, and FM weaknesses at counties related to unsupported expenditure and high staff turnover among others.
+
+Despite achieving 100% disbursements of conditional grants, there were reported challenges related to
+
+
+
+
+
+                                                                                                          Page 15 of 48
+
+  The World Bank
+
+  Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+infrastructure investments, especially the financing gap from multi-year investments, but the counties have
+
+committed to finance and finalize them. The program was compliant in submitting timely and acceptable IFRs for
+
+the IPF component. Delays in the submission of audit reports were experienced in the first three years, with timely
+
+submission in the last three years. Three audit reports were unqualified (2018, 2021 & 2022), while three were
+
+qualified (2019, 2020, and 2023). The final program audit will be submitted by December 31, 2024. The program
+
+expenditure reconciliation has been concluded with total program expenditure totaling Kshs. 29, 312,375,612,
+
+exceeding the DLI payments amounting to Kshs. 28,271,366,851, thus fulfilling the PforR requirements. Expenditure
+
+amounting to Kshs. 360,317,969 was excluded from the expenditure framework due to noncompliance with
+
+program processes. The undocumented Designated Account status has an outstanding balance of USD 1,171,328.52
+
+as of May 2024, which would need to be refunded or have expenditure documented before the June 30, 2024.
+
+52.     Procurement. At the national level, procurement fell under the IPF modality (Window 1), adhering to the
+
+WB Procurement Guidelines on IPF. Despite procurement challenges experienced through the course of the
+
+program, mainly delays with lengthy procurement periods at the SDHUD, the IPF component was able to deliver
+
+valuable tools, demand-driven training and technical assistance (TA) to support the strengthening of County and
+
+Urban Governments in areas of urban governance, planning and resilience, as well as fiduciary and E&S
+
+management. As the IPF could only fund activities completed by the closure date of December 31, 2023, and
+
+payments made by April 30, 2024, the program closed with undisbursed balances, as mentioned in previous
+
+sections. However, minor shortcomings in the procurement process were reported in the Project Closure Report by
+
+NPCT, notably in the forms of delays in the issuance of extensions for ongoing consultancies, delays in payments to
+
+consultancies and service providers, and lengthy procurement periods due to normal WB procurement officers’
+
+rotations. To avoid these challenges in future programs, it would be essential to have a procurement officer with all
+
+the necessary authorizations to approve procurement processes.
+
+
+
+ C. BANK PERFORMANCE
+
+
+
+ Quality at Entry
+
+
+
+53.     Quality at entry is rated Highly Satisfactory. The WB supported the GoK in preparing a well-designed
+
+project that responded to their priorities. The Operation’s design emerged in the context of devolution and was
+
+informed by the WB’s existing urban operations in Kenya, complementing the achievements of those projects by
+
+addressing the urban institutional and financial challenges. The design adopted a combination of a PforR instrument
+
+and an IPF instrument to support its PDO. The rationale for using IPF as a financing instrument for this intervention
+
+arose from the lessons learned from other PforR operations in the country, which suggested the need to provide a
+
+high level of budget predictability for undertaking national government actions that are critical for the success of
+
+the Operation as a whole, in particular, county-level APAs. The RF was concise and complementary with DLIs, the
+
+M&E framework was effective for routine monitoring and evaluation, and substantiating disbursements, although
+
+the targets set at appraisal could have been more ambitious. The preparation team helped design a project that
+
+was appropriate in scope, and within the GoK’s institutional framework with the support of the SDHUD to help
+
+ensure its efficient implementation and build capacity simultaneously.
+
+Quality of Supervision
+
+54.     Quality of Supervision is rated Satisfactory. Overall, WB’s supervision was timely, responsive, and results-
+
+focused, as required by a results-based structure, and carried out mostly by a Country-office-based team. There
+
+were two Task Team Leaders during the entire preparation and implementation cycle. Three short-term consultants
+
+were hired to closely monitor implementation and provide near real-time support and guidance to the client on any
+
+
+
+
+
+                                                                                                          Page 16 of 48
+
+  The World Bank
+
+  Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+evolving implementation challenges. The WB’s implementation support was hands-on and pragmatic in terms of
+
+disseminating required knowledge and best practices, co-facilitating review and evaluation measures, identifying
+
+sustainability measures, and adjusting the design to reflect its reduced scope necessitated by the GoK’s new policies
+
+and decisions, and to reflect its implementation experience. However, minor shortcomings in the procurement
+
+process were reported in the NPCT Project Closure Report, notably lengthy procurement periods due to WB
+
+procurement processes and officers’ rotations. As described in the PAD, the Bank was to conduct regular quality
+
+assurance reviews (QAR) of the APAs to revise the results and accompanying evidence, assess DLR achievement,
+
+and sample a few counties and municipalities to validate APA results. Despite the team not documenting the
+
+outcomes in the QAR document, the team conducted the QAR functions by reviewing the evidence from the APA
+
+reports from the national and municipal levels and documenting the outcomes in the Aide Memoires and ISR
+
+reports. The final APA documented all the comments and reviews from the Bank. Additionally, waivers in MCs and
+
+PSs should have been properly reported and documented, although the PAD allowed flexibility in terms of granting
+
+these waivers in the first and second APAs due to the novelty approach of incentivizing the establishment of new
+
+institutions. Despite these minor shortcomings, the challenges of implementing a novel approach in the country,
+
+and the restrictions imposed by the COVID-19 pandemic, the Bank team’s efforts during supervision assured that
+
+the delivery of the PDO and results was not affected. The MTR was comprehensive and instrumental in agreeing to
+
+improvements in implementation. Reporting was provided jointly for the PforR and the IPF. The timely
+
+restructurings adjusted the RF, DLI matrix and financing amounts through cancellations that adjusted the PforR and
+
+IPF funding in line with revised needs. Nevertheless, the restructuring did not provide clear modalities for the
+
+undertaking, as a total of Ksh. 450 million intended to be reallocated from Window 1 (IPF) to the PforR component
+
+remained undisbursed due to lack of clear modalities. Reporting was succinct, timely and thorough, and ratings
+
+were well documented in ISRs. The team was especially effective in working with the client to identify actions
+
+required to ensure the sustainability of the Program’s achievements beyond the implementation period.
+
+Justification of Overall Rating of Bank Performance
+
+55.     Based on the assessment of Quality at Entry and Quality of Supervision, the overall Bank performance is
+
+rated as Satisfactory.
+
+D. RISK TO DEVELOPMENT OUTCOME
+
+56.      The development outcomes achieved are likely to be sustained. KUSP has supported building capacity in
+
+counties and municipalities in different areas. Counties now have the minimum fiduciary staff to support the
+
+programs and municipalities. However, limited public investment in and financing urban development has been
+
+partly to blame for the low quality of urban infrastructure and services. The current fiscal transfer system does not
+
+directly fund urban boards. The current structure of county and urban governance, coupled with the predominantly
+
+rural nature of most counties, places urban areas at a funding disadvantage. Most urban boards have no budgets
+
+for operations and maintenance (O&M), leading to the degradation of public assets. Insufficient, over-used and
+
+under-maintained infrastructure discourages private investments and undermines productivity and
+
+competitiveness. Reaping the full benefits of urbanization will require investments in new and existing infrastructure
+
+and services. The follow-on program KUSP2 will further strengthen the capacities of urban institutions to improve
+
+the delivery and resilience of urban infrastructure and services. In this sense, the new Program will strengthen the
+
+PFM systems at the urban entities by requiring preparation model laws to assist counties in operationalizing the
+
+provisions of Section 173 of the PFM Act, 2012 to fund urban areas and cities and improve municipal PFM systems
+
+as a minimum condition to access the UDGs. KUSP2 will also require that investments need to be accompanied by
+
+O&M plans for infrastructure sustainability and avoidance of potential ESHS impacts.
+
+
+
+
+
+
+
+                                                                                                           Page 17 of 48
+
+     The World Bank
+
+     Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+     V. LESSONS AND RECOMMENDATIONS
+
+
+
+57.     Sustainability of the Program’s results requires county governments and urban institutions to champion
+
+urban reforms while managing the incentive effect of these programs. Although the Program incentivized counties
+
+to establish urban institutions and make them operational, more needs to be done to strengthen the effectiveness
+
+and capacities of urban boards to deliver services. In many cases, the newly created boards and administrations
+
+were weakly empowered, lacked access to human and financial resources, and had a weak mandate to manage
+
+urban areas and coordinate/deliver infrastructure and services. This also speaks to the incentive effect of these
+
+programs. On the one hand, the Program was much more successful than anticipated, as no county government
+
+wanted to be left out of KUSP, even if the money was relatively low to the county's development budget in some
+
+cases. On the other hand, given that UACA’s definition of an urban areas lacks a density component, there was also
+
+a perverse incentive to define boundaries to meet the 50,000-population threshold and establish some relatively
+
+rural municipalities. Some recommendations in this area are: (i) County Governments must develop guidelines and
+
+operational frameworks for smooth transfer of functions and resourcing to the urban institutions; (ii) there must be
+
+commitment by County Public Service Boards towards staffing of urban institutions; (iii) financing must follow
+
+functions, enhancing own source revenues and asset management; (iv) support the development of comprehensive
+
+performance management systems for municipalities; (v) provide adequate resources for O&M; (vi) national
+
+governments should have clear policies and regulations for the establishment of urban areas in an effective way.
+
+58.     Partnering with the right stakeholders and providing hands-on support will significantly contribute to the
+
+Program’s success. During implementation, the NPCT engaged closely with relevant MDAs 22 and had a pool of
+
+technical experts to provide hands-on training and capacity building. NPCT worked closely with CoG to strengthen
+
+inter-governmental relations, coordinated capacity-building activities and policy and legislative review and
+
+development, and provided support for program coordination, including social risk management and FM. The strong
+
+engagement with CoG became an integral element of KUSP success by troubleshooting problems and enhancing
+
+coordination and communication with Counties and Municipalities. Without this key partner, the Program would
+
+not have achieved the results it managed to accomplish. This type of programs can help strengthen the devolution
+
+program, although it is important to clarify the roles of different stakeholders. For example, the national
+
+government is responsible for policy making, technical assistance, and capacity building, while subnational
+
+governments are responsible for service delivery. Additionally, although PforRs are supposed to require a low
+
+transaction and are not seen as high-risk, the experience with KUSP and other PforR projects in the country, such as
+
+KDSP, is that these types of programs still require intense technical engagement from the Bank. For example,
+
+although E&S specialists receive less allocation for staff time given a generic approach to risk and use of the country
+
+system, the KUSP experience highlighted the need for capacity building and handholding.
+
+59.     Comprehensive and continuous capacity building in a hybrid PforR and timely monitoring can help reduce
+
+delays and improve the Program’s results. KUSP’s hybrid approach of PforR and IPF was selected based on lessons
+
+learned from KDSP. For PforRs, it is key that the government has the resources to provide the needed capacity-
+
+building and program management support. In the context of Kenya, adding a national-level DLI would not have
+
+guaranteed that a sufficient budget was allocated, so the IPF offered a solution. It also allowed the Bank to provide
+
+more hands-on support in implementing capacity building and TA. However, the size of the IPF needs to be
+
+adequate, and a clear and budgeted work plan must be implemented to avoid underspending. In the case of KUSP,
+
+additional challenges related to COVID-19 made it difficult to conduct some of the planned capacity building.
+
+Moreover, high staff turnover at urban levels contributed to delays in investment implementation and shortcomings
+
+
+
+22Examples include National Treasury on PFM, State Department of Public Service on HRM, State Department of Public Works, Kenya
+
+Urban Roads Agency, the NEMA on technical guidelines, standard and norms.
+
+
+
+                                                                                                                         Page 18 of 48
+
+      The World Bank
+
+      Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+    in reporting, FM, and ESS compliance, which necessitated continuous training and capacity development. There is a
+
+    need for a comprehensive Annual Capacity Building Plan based on an institutional needs assessment, including
+
+    aspects of infrastructure design and contract management, which were the cause of many grievances in KUSP.
+
+    Further, the plan needs to provide adequate modalities to provide capacity building in a timely way for a program
+
+    of a national scale. Additionally, systems that allow continued and reliable monitoring of the progress of works can
+
+    help the national government provide timely hands-on support to address implementation bottlenecks and reduce
+
+    delays. These systems must be accompanied by the designation of clear processes and responsibilities at the
+
+    national and subnational levels, and capacity building.
+
+    60.       A robust APA process is critical for the Program's success. To ensure the quality of the results and
+
+    incentivize performance improvements through the different APA cycles, a number of issues need to be considered,
+
+    including (1) the WB should document in a QAR its validation of the results of the APA; (2) the finance agreement
+
+    should link the definition of the MCs and PSs to the POM to ensure compliance and any changes agreed should be
+
+    revised in the POM; (3) given that the APA process seems to be inherently a political process in Kenya, the role of
+
+    the Program Steering Committee should not interfere with the results of the APA; (4) allocations to counties should
+
+    strictly follow the results of the APA and no ‘waiver’ should be granted.
+
+    61.     Including national-level agencies responsible for E&S standards in program design can mitigate ESS issues
+
+    by supporting oversight. KUSP supported extensive infrastructure investments at the urban areas level, which
+
+    required considerable safeguards capacity building at the county and urban areas level. However, the Program
+
+    suffered from numerous E&S issues as described in previous sections. There is a need for close collaborative working
+
+    arrangements with key regulatory agencies such as NEMA and DOSHS to ensure that Municipalities comply with
+
+    environmental permit conditions and provide capacity building to municipalities and counties to manage
+
+    environmental, health and safety risks based on national laws and regulations.
+
+    62.     Strengthening financial management systems can reduce delays. Despite the progress noted in the
+
+    fiduciary system towards the end of KUSP, some key challenges related to delays in inter-government transfers of
+
+    funds, delayed payments of contractors and services, which contributed to the slow absorption rate and partial
+
+    cancelation of funds, weak audit committees, among others, persisted. Lessons learned in these areas include: (1)
+
+    Linking APA processes with budget cycles is critical for disbursements to be synchronized with FY budget cycles, and
+
+    avoid delays in identification, designs, procurement and implementation of investments without waiting for
+
+    supplementary budgets approval; (2) to avoid delays in APAs, multi-year APA contracts can be negotiated and
+
+    renewed every year subject to satisfactory performance; (3) to assist in coordinating the budget and funds flow of
+
+    conditional grants and minimize FM risks, the support of the CoG is instrumental and needs to be provided with
+
+    adequate capacity; (4) need to engage the internal audit at the national and county level from the onset of the
+
+    Program design and implementation; (5) need to provide continuous capacity building and backstopping to
+
+    accountants and finance officers at the local level; (6) need to enhance records management capacity in
+
+    municipalities, (7) need to ensure government financing is systematically increased through the life of programs to
+
+    ensure sustainability of initiated and new interventions. Finally, during the program implementation period tracking
+
+    and reporting of expenditure was mainly on IDA resources instead of including government resources that were
+
+    incorporated in the last program report. The budget codes for the expenditure framework for the program should
+
+    be defined and tracked both at the national and the county level to ensure both IDA and government resources are
+
+    captured and reported on, including in the audited financial statements.
+
+
+
+
+
+.
+
+
+
+
+
+
+
+                                                                                                             Page 19 of 48
+
+    The World Bank
+
+    Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+                     ANNEX 1. RESULTS FRAMEWORK, DISBURSEMENT LINKED INDICATORS, AND PROGRAM ACTION PLAN
+
+
+
+
+
+Annex 1A. RESULTS FRAMEWORK
+
+
+
+(i) PDO Indicators
+
+
+
+
+
+ Objective/Outcome: Urban areas with approved charters, established boards, appointed urban managers, and a budget vote
+
+                                                                                                        Formally Revised          Actual Achieved at
+
+ Indicator Name                   Unit of Measure Baseline                    Original Target
+
+                                                                                                        Target                    Completion
+
+
+
+ Urban areas with approved        Number            0.00                      35.00                                               77.00
+
+ charters, established boards,
+
+ appointed urban managers,                          26-Jul-2017               31-Dec-2023                                         31-Dec-2023
+
+ and a budget vote (measures
+
+ establishment of urban
+
+ institutions).
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target Surpassed. The Program has catalyzed the establishment of 59 municipalities across the 45 beneficiary counties and 18 additional municipalities
+
+(Elwak, Mwingi, Diani, Kitengela, Bondo, Malaba, Kehancha, Oyugis, Emali, Juja, Ahero, Nanyuki, Maua, Kenol, Gilgil, Kilgoris, Engineer, and Chuka),
+
+demonstrating that the Program had institutional development impacts beyond the original target.
+
+
+
+
+
+
+
+
+
+ Objective/Outcome: Urban areas that utilize at least 50 percent of the budget intended for their urban investments
+
+
+
+
+
+
+
+                                                                                                                                             Page 20 of 48
+
+    The World Bank
+
+    Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+                                                                                                       Formally Revised          Actual Achieved at
+
+ Indicator Name                  Unit of Measure Baseline                    Original Target
+
+                                                                                                       Target                    Completion
+
+
+
+ Urban areas that utilize at      Number            0.00                     17.00                                               57.00
+
+ least 50 percent of the
+
+ budget intended for their                          31-Jul-2017              31-Dec-2023                                         31-Dec-2023
+
+ urban investments
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target surpassed: 96% of beneficiary municipalities absorbed 100% of UDG allocation under FY 2018/2019 UDG allocation and over 50% of the 2019/2020
+
+UDG allocation per the program’s eligible menu. According to APA 3 (last and final APA), 57 municipalities had used 100% of the 2018/2019 UDG allocation
+
+and over 50% of the 2019/2020 allocation, per the eligible expenditure menu. Only two municipalities, Kitui and Hola, did not meet this minimum
+
+condition. Although no new APA was undertaken, NPCT has provided demand-driven support to Kitui and Hola municipalities to attain this target.
+
+
+
+
+
+
+
+
+
+ Objective/Outcome: Urban areas that have an approved Annual investment plan and Urban area plans
+
+                                                                                                       Formally Revised          Actual Achieved at
+
+ Indicator Name                  Unit of Measure Baseline                    Original Target
+
+                                                                                                       Target                    Completion
+
+
+
+ Urban areas that have an         Number            0.00                     15.00                                               57.00
+
+ approved Annual Investment
+
+ Plan and Urban Area plans                          31-Jul-2017              31-Dec-2023                                         31-Dec-2023
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target Surpassed: The capacity of urban institutions to prepare annual investment plans and urban area land use plans has significantly improved.
+
+According to APA 3 (last and final APA), 57 municipalities met UDG minimum performance standard 7, which measures the number of municipalities with
+
+annual urban investment plans in place, with commensurate budget allocation for funding UDG investments. 57 Municipalities prepared Integrated
+
+Development Plans, and 51 municipalities prepared Urban Spatial Plans.
+
+
+
+
+
+
+
+                                                                                                                                           Page 21 of 48
+
+    The World Bank
+
+    Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+
+
+(ii) Intermediate Results Indicators
+
+
+
+
+
+ Results Area: National Level Results
+
+                                                                                                        Formally Revised          Actual Achieved at
+
+ Indicator Name                   Unit of Measure Baseline                    Original Target
+
+                                                                                                        Target                    Completion
+
+
+
+ Guidelines on planning,           Number           0.00                      6.00                                                4.00
+
+ infrastructure, and basic
+
+ service delivery prepared                          06-Jul-2017               31-Dec-2023                                         31-Dec-2023
+
+ and made public on MTIHUD
+
+ website
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target partially achieved: Four guidance notes have been finalized. Two notes support establishing urban institutions and citizens’ participation in urban
+
+governance, including (i) The Urban Boards Induction and Training Guidebook and (ii) the Citizen Forum Handbook. In addition, (iii) the Solid Waste
+
+Management guidelines and Urban Resilience guidelines (guidance notes) have also been finalized. Preparation challenges of other guidance notes (on
+
+Municipal Finance, Urban Planning, and Management, Participatory Slum Upgrading, and Urban Mobility) with UN-Habitat were encountered. Further, the
+
+Participatory slum upgrading and Urban mobility guidance notes are in draft form and are expected to be finalized in the second phase of the Program,
+
+KUSP2.
+
+
+
+
+
+
+
+
+
+                                                                                                        Formally Revised          Actual Achieved at
+
+ Indicator Name                   Unit of Measure Baseline                    Original Target
+
+                                                                                                        Target                    Completion
+
+
+
+ APA results (UIG and UDG          Yes/No           No                        Yes                                                 Yes
+
+
+
+
+
+                                                                                                                                            Page 22 of 48
+
+    The World Bank
+
+    Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+ allocations) made on time                           06-Jul-2017                31-Dec-2023                                          31-Dec-2023
+
+ (before end of FY and prior
+
+ to start of next FY)
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target Achieved: The Third and Final Annual Performance Assessment (APA 3) was successfully concluded. The process was led by the Office of Auditor
+
+General (OAG) and proved very efficient in executing the task. The APA 3 results were used to inform the final disbursement of the PforR component (US$
+
+37.4million) in June 2021. No new APA was undertaken as the program was fully disbursed.
+
+
+
+
+
+
+
+
+
+ Results Area: County and Urban Area Results: Urban Management Systems in place
+
+                                                                                                          Formally Revised           Actual Achieved at
+
+ Indicator Name                   Unit of Measure Baseline                      Original Target
+
+                                                                                                          Target                     Completion
+
+
+
+ Counties that qualify for the     Number            0.00                       45.00                                                45.00
+
+ UIGs
+
+                                                     06-Jul-2017                31-Dec-2023                                          31-Dec-2023
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target achieved: Urban Institutional Grants (UIG) have strengthened urban institutions. Based on APA 3, all 45 Counties met the three minimum conditions
+
+for access to UIG, which include (1) a signed participation agreement in place, (ii) a County Urban Institutional Development Strategy (CUIDS) and
+
+commensurate budget annexed in the CIDP, and (iii) UIG of previous year spent in accordance to the eligible menu. The UIG supported various activities,
+
+including the establishment and delineation of urban institutions (preparation of Municipal Charters and urban strategic plans); development of policies
+
+and plans related to urban planning and development control; solid waste management; induction, training, sensitization forums, peer learning, and
+
+benchmarking activities; equipping, furnishing, and operationalizing new municipal offices (e.g., Tharaka Nithi operationalized a GIS laboratory); facilitated
+
+setting up of systems towards streamlining operations at the urban level (e.g. installation of Electronic Development Application Management System in
+
+Makueni); public participation and stakeholder forums related to prioritization of investment, budgeting, and preparation of Urban Integrated
+
+
+
+
+
+                                                                                                                                                Page 23 of 48
+
+    The World Bank
+
+    Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+Development Plans. The Beneficiary Assessment notes that improved governance structures and FM practices have been observed in beneficiary
+
+municipalities due to the UIG.
+
+
+
+
+
+
+
+
+
+                                                                                                         Formally Revised           Actual Achieved at
+
+ Indicator Name                   Unit of Measure Baseline                     Original Target
+
+                                                                                                         Target                     Completion
+
+
+
+ Urban areas for which citizen    Number             0.00                      35.00                                                54.00
+
+ fora (public consultations
+
+ between urban board and                             06-Jul-2017               31-Dec-2023                                          31-Dec-2023
+
+ residents, including plan and
+
+ budget consultations) have
+
+ been held at least once a
+
+ year.
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target surpassed: Citizen engagement fully integrated into investment prioritization, budgeting, and development planning at the urban level. UDG
+
+Performance Standard (PS) #3 assessed the frequency of citizen engagement between urban boards and residents on planning, budgeting, budget
+
+execution, etc. From APA 3, there has been a tremendous improvement in citizen engagement, with APA 3 recording 54 municipalities (91%) having held at
+
+least two citizen forums (public consultations between urban boards and residents) on planning, budgeting, and budget execution, up from 28
+
+municipalities in APA 2. In addition, the number of municipalities that availed their key public documents online increased from 39 (66%) to 54 (91%) under
+
+APA 2 and APA 3, respectively. More so, 39 municipalities (66%) publish their annual calendar of citizens’ fora with urban area residents, including plan and
+
+budget consultations announced in local media and county government websites. The municipalities have continued to engage citizens in budget
+
+processes, safeguards, and planning.
+
+
+
+
+
+
+
+
+
+ Results Area: County and urban area results: Urban planning, infrastructure and services
+
+
+
+
+
+                                                                                                                                               Page 24 of 48
+
+    The World Bank
+
+    Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+                                                                                                         Formally Revised           Actual Achieved at
+
+ Indicator Name                   Unit of Measure Baseline                     Original Target
+
+                                                                                                         Target                     Completion
+
+
+
+ People provided with             Number             0.00                      3.50                                                 3.60
+
+ improved urban living
+
+ conditions (million)                                06-Jul-2017               31-Dec-2023                                          31-Dec-2023
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target achieved: Over 3.6 million urban residents have benefitted from improved access to critical urban infrastructure in the 59 beneficiary municipalities.
+
+A total of 388 infrastructure investments have been initiated across the 59 beneficiary municipalities. Among others, KUSP has financed the construction of
+
+246km of drainage system, 218 km of roads, 225 km of NMT facilities, 128 high mast security lights, 25 markets, 22 public green parks, 5,000 parking
+
+facilities, 12 bus parks, 14 Fire stations, 5,241 streetlights, 13 km of sewer line and 3 community facilities.
+
+
+
+
+
+
+
+
+
+                                                                                                         Formally Revised           Actual Achieved at
+
+ Indicator Name                   Unit of Measure Baseline                     Original Target
+
+                                                                                                         Target                     Completion
+
+
+
+ 1.a. People provided with        Percentage         0.00                      50.00                                                50.00
+
+ improved urban living
+
+ conditions (of which female,                        06-Jul-2017               31-Dec-2023                                          31-Dec-2023
+
+ [percentage])
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target achieved. As the project supports 59 municipalities, the beneficiary assessment took a sampling approach and, therefore, did not measure this
+
+indicator in totality. However, from the 2019 Population census, the male-to-female ratio was determined at 49.9 to 50.1 percent, respectively. The
+
+assumption, therefore, was that over 50 percent of the direct beneficiaries are women.
+
+
+
+
+
+
+
+
+
+                                                                                                                                               Page 25 of 48
+
+    The World Bank
+
+    Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+                                                                                                     Formally Revised          Actual Achieved at
+
+ Indicator Name                  Unit of Measure Baseline                   Original Target
+
+                                                                                                     Target                    Completion
+
+
+
+ UDGs for the previous FY        Percentage        0.00                     90.00                                              96.00
+
+ spent in accordance with the
+
+ eligible investment menu                          06-Jul-2017              31-Dec-2023                                        31-Dec-2023
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target surpassed: UDG investments aligned to the program investment menu and urban investment plans: UDG Minimum Condition 8 assessed that the
+
+UDG was utilized according to the program’s eligible investment menu. Under APA 3, 96% of the beneficiary municipalities (57 out of 59) met UDG
+
+minimum condition 8. Continuous monitoring mechanisms and targeted capacity building and training by the NPCT team contributed significantly to the
+
+investment selection processes and proposal development by beneficiary municipalities per the investment menus.
+
+
+
+
+
+
+
+
+
+                                                                                                     Formally Revised          Actual Achieved at
+
+ Indicator Name                  Unit of Measure Baseline                   Original Target
+
+                                                                                                     Target                    Completion
+
+
+
+ Drainage systems built or       Kilometers        0.00                     10.00                                              246.00
+
+ rehabilitated under the
+
+ progarm                                           06-Jul-2017              31-Dec-2023                                        31-Dec-2023
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target surpassed: Eleven percent of investments under the program were towards the construction or rehabilitation of stormwater drainage facilities in
+
+the beneficiary urban areas. Over 246 km (146.5 km being part of the road works and 100 being standalone storm water drainage channels) of drainage
+
+network have been completed and operationalized, directly benefitting over 150,000 people. In fast-growing municipalities, including but not limited to
+
+Kiambu, Malindi, Narok, Naivasha, and Kisumu, the invaluable impacts on flood management, improved land values, improved rates collection, reduction in
+
+water-borne diseases, and improved safety and quality of life of residents has been recorded. O&M requires urgent attention and financing, as well as
+
+robust SWM management systems to ensure sustainability.
+
+
+
+
+
+
+
+                                                                                                                                         Page 26 of 48
+
+    The World Bank
+
+    Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+Eleven percent of investments under the program are towards construction or rehabilitation of storm water drainage facilities in the beneficiary urban
+
+areas. Over 233 km (122 km being part of the road works and 112 being standalone storm water drainage channels) of drainage network have been
+
+completed and operationalized, directly benefitting over 100,000 beneficiaries. In fast growing municipalities, including but not limited to Mandera,
+
+Kiambu, Malindi, Narok, Naivasha and Kisumu, the invaluable impacts on flood resilience, improved land and rental prices, improved rates collection for
+
+Counties, reduction in water borne diseases and improved safety and quality of life of residents has been recorded.
+
+
+
+
+
+
+
+
+
+                                                                                                        Formally Revised          Actual Achieved at
+
+ Indicator Name                   Unit of Measure Baseline                    Original Target
+
+                                                                                                        Target                    Completion
+
+
+
+ Nonmotorized transport           Kilometers        0.00                      100.00                                              225.00
+
+ facilities constructed or
+
+ rehabilitated under the                            06-Jul-2017               31-Dec-2023                                         31-Dec-2023
+
+ program
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target Surpassed: Connectivity has been prioritized by counties for investment using UDG funding. Over 225 km of NMT facilities, including walkways and
+
+cycle paths, have been completed and operationalized as standalone infrastructure or as part of road upgrading works. The stand-alone NMT
+
+infrastructure, amounting to 113 km, directly benefits over 100,000 urban residents, with the completed NMT facilities and road rehabilitation works
+
+benefitting over 350,000 urban residents with improved safety and security for pedestrians and cyclists and improved accessibility and connectivity noted.
+
+
+
+
+
+
+
+
+
+                                                                                                        Formally Revised          Actual Achieved at
+
+ Indicator Name                   Unit of Measure Baseline                    Original Target
+
+                                                                                                        Target                    Completion
+
+
+
+ High-mast security lights        Number            0.00                      30.00                                               128.00
+
+ installed under the program
+
+                                                    06-Jul-2017               31-Dec-2023                                         31-Dec-2023
+
+
+
+
+
+                                                                                                                                             Page 27 of 48
+
+    The World Bank
+
+    Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target Surpassed: A total of 128 high masts have been completed and operationalized, directly benefitting over 100,000 urban residents. The use of
+
+renewable energy sources, including solar and wind, has been demonstrated and is supported.
+
+
+
+
+
+
+
+
+
+                                                                                                         Formally Revised           Actual Achieved at
+
+ Indicator Name                   Unit of Measure Baseline                     Original Target
+
+                                                                                                         Target                     Completion
+
+
+
+ Markets constructed under        Number             0.00                      4.00                                                 25.00
+
+ the program
+
+                                                     06-Jul-2017               31-Dec-2023                                          31-Dec-2023
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target Surpassed: To date, 25 markets and upgrading of market stalls have been completed and operationalized within the various municipalities (including
+
+Kapenguria, Maralal, Ol Kalou, Naivasha, Migori, Awendo, Meru, Wote, Lamu, Kisumu, Homa Bay, Kilifi, Kimilili, Kerugoya Kutus, Mwatate, Maralal, Bomet,
+
+Kathwana, Kajiado, and Wajir. and Kerugoya Kutus), directly benefitting over 10,000 local traders with improved facilities for trade and directly benefitting
+
+over 400,000 urban residents living within 3 km walking distance from the market. The Value for Money Audit determined that markets deliver up to 13%
+
+return on investment for municipalities with significant socio-economic impacts demonstrated, such as increased employment, higher value-added,
+
+improved economic stability, increased access to goods and services, lower-cost options for the community, additional revenue generation for
+
+municipalities, and enhanced reliability and transparency in service provision. Access to operation and maintenance budgets remains a challenge for
+
+municipalities.
+
+
+
+
+
+
+
+
+
+                                                                                                         Formally Revised           Actual Achieved at
+
+ Indicator Name                   Unit of Measure Baseline                     Original Target
+
+                                                                                                         Target                     Completion
+
+
+
+ Public green urban spaces        Number             0.00                      10.00                                                22.00
+
+
+
+
+
+                                                                                                                                              Page 28 of 48
+
+    The World Bank
+
+    Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+ constructed or rehabilitated                       06-Jul-2017               31-Dec-2023                                          31-Dec-2023
+
+ under the program
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target Surpassed: A total of 22 urban recreational parks have been completed and are operationalized (in Wote, Malindi, Thika, Ruiru, Awendo, Kikuyu,
+
+Kakamega, Kisumu (4), Kericho, Siaya (2), Iten, Kwale, Naivasha, Kajiado, Kisumu, Eldoret and Kapenguria) benefitting over 190,000 urban residents living
+
+within 2 km radius from these facilities. Numerous landscaping activities have also been implemented in various municipalities.
+
+
+
+
+
+
+
+
+
+                                                                                                        Formally Revised           Actual Achieved at
+
+ Indicator Name                   Unit of Measure Baseline                    Original Target
+
+                                                                                                        Target                     Completion
+
+
+
+ Municipal solid waste            Number            0.00                      10.00                                                54.00
+
+ policies and plans prepared
+
+ under the program adopted                          06-Jul-2017               31-Dec-2023                                          31-Dec-2023
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target surpassed: SWM Capacity enhanced with coverage and collection improved at the urban level due to UDG support: UDG Performance Standard (PS)
+
+9 assessed that the municipal board has adopted a solid waste collection and disposal policy and plan and is being resourced and implemented. From the
+
+three APAs, continuous improvement is demonstrated from 25 municipalities in APA 2 to 54 municipalities in APA 3. Additionally, Counties such as Garissa,
+
+Isiolo, Kakamega, Lamu, Samburu, and Trans Nzoia have leveraged the UIG in preparing Solid Waste Management Policies and Plans in community
+
+sensitization and awareness to enhance compliance. Further, over 5 percent of the total UDG investments have been aligned towards improving the
+
+collection and handling of solid waste, with over 30 municipalities leveraging on the UDG to finance the purchase of SWM equipment and boost collection
+
+and coverage.
+
+
+
+
+
+
+
+
+
+                                                                                                                                   Actual Achieved at
+
+ Indicator Name                   Unit of Measure Baseline                    Original Target           Formally Revised
+
+                                                                                                                                   Completion
+
+
+
+                                                                                                                                             Page 29 of 48
+
+    The World Bank
+
+    Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+                                                                                                       Target
+
+ Urban spatial plans             Number            0.00                      8.00                                                51.00
+
+ completed under the
+
+ program                                           06-Jul-2017               31-Dec-2023                                         31-Dec-2023
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target surpassed: Capacity to prepare and approve urban spatial plans has greatly improved: UDG Performance Standard (PS) 8 assessed the availability of
+
+an updated and approved Urban Spatial Plan in the beneficiary municipalities. From the three APAs, continuous improvement in the capacity of
+
+municipalities to prepare sustainable urban land use plans has been demonstrated, from 21 municipalities under APA 1 to 41 municipalities under APA 2
+
+and 51 municipalities under APA 3. Various Counties (including Bomet, Bungoma, Homabay, Kirinyaga, Laikipia, Lamu, Makueni, Migori, Nakuru, Nandi,
+
+Nyamira, Elgeyo Marakwet and Taita Taveta) have leveraged on the UIG to finance the preparation of spatial plans and development control tools. Other
+
+Counties (as Bomet, Kakamega, Nakuru and Migori) have utilized the UIG to prepare land use plans for other emerging urban areas, with Nakuru financing
+
+preparation for over 29 urban centers. Challenges in financing the implementation of land use plans still need to be addressed. A spatial planning
+
+assessment was undertaken under the IPF component that proscribed recommendations for boosting spatial planning capacity in municipalities under
+
+KUSP 2 implementation. (Discrepancies between the measure of this indicator (urban spatial plans completed) and what is actually measured in the APA
+
+process (i.e., urban spatial plan is completed and available, and not necessarily completed under t he Program) contributed to the deviation between the
+
+target and the actual.)
+
+
+
+
+
+
+
+
+
+                                                                                                       Formally Revised         Actual Achieved at
+
+ Indicator Name                  Unit of Measure Baseline                    Original Target
+
+                                                                                                       Target                   Completion
+
+
+
+ Urban IDEPs completed           Number            0.00                      35.00                                               57.00
+
+ under the program
+
+                                                   06-Jul-2017               31-Dec-2023                                         31-Dec-2023
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target surpassed: Capacity to prepare and implement Urban Integrated Development Plans (IDePS) has continuously improved. UDG Performance
+
+Standard (PS) 7 assessed the availability of an approved Urban Integrated Development Plan. The achievement of this indicator has gradually improved
+
+
+
+                                                                                                                                           Page 30 of 48
+
+    The World Bank
+
+    Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+from 20 in APA 1 to 46 in APA 2 and 57 in APA 3. This demonstrates the improved capacity of the beneficiary municipalities to prepare robust Urban IDePS.
+
+Learning from APA 1 and 2, APA 3 additionally assessed the status of approval of the IDEPS by municipal boards. It is demonstrated that 57 municipalities
+
+have approved Urban Integrated Development Plans that are integral in guiding development priorities and resource allocation in the municipalities.
+
+Counties (including Bungoma, Embu, Lamu, Makueni, Mandera, Nandi and Tana River) have leveraged on the UIG in financing the preparation of urban
+
+IDePS and strategic plans. Additionally, continuous targeted capacity building has been provided to municipalities to enhance their preparation of ba
+
+nkable Urban IDePs.
+
+
+
+
+
+
+
+
+
+                                                                                                         Formally Revised          Actual Achieved at
+
+ Indicator Name                   Unit of Measure Baseline                    Original Target
+
+                                                                                                         Target                    Completion
+
+
+
+ Roads constructed or             Kilometers        0.00                       100.00                                              218.00
+
+ rehabilitated under the
+
+ program                                            17-Jun-2021                31-Dec-2023                                         31-Dec-2023
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target Surpassed: Connectivity infrastructure has been prioritized by the beneficiary municipalities for investment using UDG funding, with 67% of the total
+
+UDG investments financing connectivity infrastructure, including roads, pedestrian walkways and cycle paths, bus parks, parking facilities, road signage,
+
+and street lighting. Over 218km of road upgrading works, including the provision of associated infrastructure such as storm water drains, footpaths, bicycle
+
+lanes, landscaping, road furniture, and signage, have been completed and are operational, benefitting directly over 200,000 urban residents with improved
+
+safety and security for pedestrians and cyclists and improved accessibility and connectivity. Additionally, over 5,000 parking facilities and 12 bus parks
+
+benefitting over 100,000 urban residents within 3 km radius have been constructed and operationalised. These have considerably contributed to boosting
+
+revenues for the municipalities and enhancing mobility for urban residents.
+
+
+
+
+
+
+
+
+
+                                                                                                         Formally Revised          Actual Achieved at
+
+ Indicator Name                   Unit of Measure Baseline                    Original Target
+
+                                                                                                         Target                    Completion
+
+
+
+
+
+
+
+                                                                                                                                              Page 31 of 48
+
+     The World Bank
+
+     Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+  Street lights installed under       Number           0.00                  1,000.00                                             5,241.00
+
+  the program
+
+                                                       17-Jun-2021           31-Dec-2023                                          31-Dec-2023
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target Surpassed: Over 14 municipalities have invested mostly in solar-powered street lighting systems, with impacts on enhanced business opportunities,
+
+enhanced business operation timings, improved security, and improved standards of living have been recorded. Over 1 million urban residents have
+
+directly benefitted from this intervention. O&M challenges continue to be addressed to ensure the sustainability of the infrastructure.
+
+
+
+
+
+
+
+
+
+ANNEX 1B. DISBURSEMENT LINKED INDICATORS
+
+
+
+
+
+DLI 1: Window 2: County governments - County governments commit to address urban development and management issues (County Governments have
+
+met UIG MCs) (Number)
+
+
+
+                                  Baseline     2017-18        2018-19      2019-20         2020-21        2021-22       2022-2023              Total
+
+
+
+Original values                     0.00        0.00            0.00         0.00           0.00           0.00            0.00
+
+
+
+Actual values                                   45.00           0.00         0.00           0.00           0.00           45.00
+
+
+
+Allocated amount ($)                            0.00            0.00         0.00           0.00           0.00            0.00                0.00
+
+
+
+Disbursed amount ($)                            22.00           0.00         0.00           0.00           0.00            0.00               22.00
+
+
+
+Comments (achievements against targets):
+
+
+
+
+
+
+
+
+
+                                                                                                                                             Page 32 of 48
+
+    The World Bank
+
+    Kenya Urban Support Program (P156777)
+
+
+
+
+
+From APA 3, all the 45 Counties met the minimum conditions for UIG. To date 100 percent has been disbursed under the DLI to counties, amounting to
+
+US$ 21.7 million
+
+
+
+
+
+
+
+
+
+DLI 2: Window 3: Urban boards and counties - Institutional framework established and operational (County governments have met UDG MCs) (Number)
+
+
+
+                             Baseline        2017-18         2018-19        2019-20        2020-21        2021-22       2022-2023             Total
+
+
+
+Original values                0.00            0.00            0.00           0.00           0.00           0.00            0.00
+
+
+
+Actual values                                  40.00           0.00           0.00           0.00           0.00           40.00
+
+
+
+Allocated amount ($)                           0.00            0.00           0.00           0.00           0.00            0.00              0.00
+
+
+
+Disbursed amount ($)                          171.40           0.00           0.00           0.00           0.00            0.00             171.40
+
+
+
+Comments (achievements against targets):
+
+From APA 3 all the 45 Counties (59 municipalities) met all the nine UDG minimum conditions. All the 59 municipalities have set-up Municipal Boards, with
+
+associated municipal charters, municipal managers and municipal budget votes in place. To date, 100 percent has been disbursed under this DLI
+
+to Counties, amounting to US$ 171.4 million.
+
+
+
+
+
+
+
+
+
+DLI 3: Window 3: Urban boards and counties - Urban planning, infrastructure and service delivery (County governments and urban area institutions have
+
+met UDG PSs) (Number)
+
+
+
+                             Baseline        2017-18         2018-19        2019-20        2020-21        2021-22       2022-2023             Total
+
+
+
+Original values                0.00            0.00            0.00           0.00           0.00           0.00            0.00
+
+
+
+
+
+
+
+                                                                                                                                            Page 33 of 48
+
+    The World Bank
+
+    Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+Actual values                                  45.00           0.00            0.00           0.00            0.00           45.00
+
+
+
+Allocated amount ($)                            0.00           0.00            0.00           0.00            0.00           0.00               0.00
+
+
+
+Disbursed amount ($)                           36.00           0.00            0.00           0.00            0.00           0.00              36.00
+
+
+
+Comments (achievements against targets):
+
+From APA 3, 36 out of 59 muncipalities met all the performance standards, an increase from 15 municipalities in APA 2 . The best performing performance
+
+standards are PS1, PS 2 and PS 7. Fifty-eight municipalities have met UDG PS 1 (there is a publicly available job description for the position of municipal
+
+manager). Fifty-seven out of 59 municipalities met UD G PS 2, that the municipal board held quarterly meetings. Fifty-seven out of 59 municipalities also
+
+met UDG PS 7, that an approved urban Investment Development Plan (IDeP) is in place. The worst performing UDG PS is PS 8, with only 51 out of 59
+
+municipalities having an urban spatial plan in place.
+
+
+
+
+
+
+
+
+
+DLI 4: Window 3: Participating County Governments and Urban Area Institutions have met UDG Minimum Conditions and performance standards
+
+(Number)
+
+
+
+                             Baseline         2017-18        2018-19         2019-20        2020-21         2021-22       2022-2023             Total
+
+
+
+Original values                 0.00            0.00           0.00            0.00           0.00            0.00           0.00
+
+
+
+Actual values                                   0.00           0.00            0.00           0.00            0.00           45.00
+
+
+
+Allocated amount ($)                            0.00           0.00            0.00           0.00            0.00           0.00               0.00
+
+
+
+                                                               0.00            0.00        37,425,835.        0.00           0.00
+
+Disbursed amount ($)                            0.00                                                                                       37,425,835.00
+
+                                                                                               00
+
+
+
+
+
+
+
+ANNEX 1C. PROGRAM ACTION PLAN
+
+
+
+
+
+                                                                                                                                              Page 34 of 48
+
+    The World Bank
+
+    Kenya Urban Support Program (P156777)
+
+
+
+
+
+PAP TBL
+
+                                                                                          Achieved
+
+Action                                                         Timing                                  Completion Measurement
+
+                                                                                          (Yes/No)
+
+
+
+Align program implementation structure       Recurrent         Continuous                 Yes          Inclusion of appropriate program implementation
+
+and staffing                                                                                           structure and staffing arrangements in POM
+
+
+
+Comments:
+
+Counties have responded to program incentives by establishing urban institutions (municipalities, boards) that were "missing institutions" following
+
+Kenya's devolution that created two tiers of government--the National level and 47 County Governments
+
+
+
+
+
+
+
+Strengthen environmental and social          Recurrent         Continuous                 Yes          Inclusion of environmental and social management
+
+management system                                                                                      systems and procedures in POM.
+
+
+
+Comments:
+
+While the POM includes environmental and social risk management systems and procedures, and KUSP benefitted from ESS actions under KDSP, capacity
+
+at the local/municipal level remains low
+
+
+
+
+
+
+
+Improve implementation of                    Recurrent         Continuous                 Yes          Inclusion of incentives for implementation of E&S
+
+environmental and social management                                                                    management systems in MCs and PSs
+
+system
+
+
+
+Comments:
+
+While the incentives for implementation of E&S management systems where included in MCs and
+
+PSs and improvement was made, low capacity at the local/municipal level remains a challenge
+
+
+
+
+
+
+
+
+
+                                                                                                                                              Page 35 of 48
+
+    The World Bank
+
+    Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+Build capacity for environmental and        Recurrent         Continuous                 Yes          (1) Inclusion of appropriate staffing arrangements
+
+social management                                                                                     in POM; (2) Training of staff in environmental
+
+                                                                                                      and social management system
+
+
+
+Comments:
+
+The Program included staffing arrangements in POM and supported trainings on ESS and OHS for county and municipal staff. Still there is high rotation of
+
+staff and capacity building needs to continue under KUSP2.
+
+
+
+
+
+
+
+Strengthen national and sub-national        Recurrent         Continuous                 Yes          Program budget codes are defined in IFMIS.
+
+budgeting and fund flow systems                                                                       Program grants captured in CARA, DORA and
+
+                                                                                                      Ministry/county budgets. Program funds are
+
+                                                                                                      disbursed on a timely basis and as per budget
+
+
+
+Comments:
+
+KUSP supported dedicated budget votes for municipalities. Annual grants were captured in the national level budget county budgets. 100% of funds were
+
+released, albeit with delays.
+
+
+
+
+
+
+
+Build capacity for program financial        Recurrent         Continuous                 Yes          The FM manual is completed as part of POM.
+
+management                                                                                            Program accountants and finance officers
+
+                                                                                                      designated. Training provided on the use of IFMIS
+
+
+
+Comments:
+
+FM Manual was included in POM, and program account and finance officer in NPCT in place. Training programs on FM are delivered to county
+
+governments, though IFMIS not yet used at municipal level.
+
+
+
+
+
+
+
+
+
+                                                                                                                                            Page 36 of 48
+
+    The World Bank
+
+    Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+Strengthen procurement capacities           Recurrent        Continuous                 Yes         Procurement officers appointed and trained
+
+                                                                                                    Clarification of procurement roles, responsibilities
+
+                                                                                                    and procedures (POM)
+
+                                                                                                    Compliance with procurement procedures and
+
+                                                                                                    regulations (as part of APA)
+
+                                                                                                    Timely procurement and contract management (as
+
+                                                                                                    part of APA)
+
+
+
+Comments:
+
+County appointed procurements officers for the program, though there has been a high rotation. The APA and internal audit reviewed the compliance with
+
+procurement procedures. NPCT undertook review of procurement execution as part of backstopping.
+
+
+
+
+
+
+
+Strengthen complaints management            Recurrent        Continuous                 Yes         Fully operational complaints management system
+
+                                                                                                    at SDHUD level
+
+
+
+Comments:
+
+Counties put in place functioning complaints handling mechanisms. NPCT provides support for handling complaint, with two officers supporting and
+
+following internal GRM procedure. Still, the M&E could be improved with an eGRM.
+
+
+
+
+
+
+
+Through KDSP, establish county level        Recurrent        Continuous                 Yes         Fully operational complaints management system
+
+complaints management systems                                                                       at county level
+
+
+
+Comments:
+
+Counties have embraced processes to establish complaints handling systems under KDSP
+
+
+
+
+
+
+
+
+
+                                                                                                                                           Page 37 of 48
+
+    The World Bank
+
+    Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+Improve risk management                      Recurrent         Continuous                 No           Establishment and upkeep of program risk register
+
+                                                                                                       (POM)
+
+
+
+Comments:
+
+Dropped. While the program build on KDSP risk management activities, it did not establish a program risk register.
+
+
+
+
+
+
+
+
+
+                                                                                                                                           Page 38 of 48
+
+    The World Bank
+
+    Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+                      ANNEX 2. BANK LENDING AND IMPLEMENTATION SUPPORT/SUPERVISION
+
+
+
+
+
+A. TASK TEAM MEMBERS
+
+
+
+Name                                                 Role
+
+Preparation
+
+Abdu Muwonge                                         Task Team Leader(s)
+
+
+
+Joel Buku Munyori, Pascal Tegwa                      Procurement Specialist(s)
+
+
+
+Henry Amena Amuguni                                  Financial Management Specialist
+
+
+
+James N. Karuiru                                     Procurement Team
+
+
+
+Mohammad Ilyas Butt                                  Procurement Team
+
+
+
+Michelle Lisa Chen                                   Team Member
+
+
+
+Sangeeta Kumari                                      Social Specialist
+
+
+
+Keziah Muthoni Muthembwa                             Team Member
+
+
+
+Jean Okolla Owino                                    Team Member
+
+
+
+Eric Dickson                                         Team Member
+
+
+
+Michael Macnamara Winter                             Team Member
+
+
+
+Claudia Lorena Trejos Gomez                          Team Member
+
+
+
+Angelina Darini Musera                               Team Member
+
+
+
+Purity Muthoni Mwagha                                Team Member
+
+
+
+Ben Okindo Ayako Miranga                             Environmental Specialist
+
+
+
+Monicah Nyawira Karangi                              Team Member
+
+
+
+Judy Maureen Waturi                                  Team Member
+
+
+
+Diana Jemutai Sirma                                  Team Member
+
+
+
+Vitalis Adongo Mwambasa                              Team Member
+
+
+
+
+
+
+
+                                                                                       Page 39 of 48
+
+    The World Bank
+
+    Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+Gaylord Benard Mitto                              Team Member
+
+
+
+Catherine Kathuni                                 Team Member
+
+
+
+Winnie Achieng Adhoch                             Procurement Team
+
+
+
+Supervision/ICR
+
+Beatriz Eraso Puig, Davison Muchadenyika          Task Team Leader(s)
+
+Joel Buku Munyori, Pascal Tegwa, Mulugeta Dinka   Procurement Specialist(s)
+
+Leonard Mutuku Matheka                            Financial Management Specialist
+
+Annastacia Waithera Wacheke                       Financial Management Specialist
+
+Henry Amena Amuguni                               Financial Management Specialist
+
+Purity Muthoni Mwagha                             Team Member
+
+Ben Okindo Ayako Miranga                          Environmental Specialist
+
+Alidu Babatu Adam                                 Social Specialist
+
+Monicah Nyawira Karangi                           Team Member
+
+Judy Maureen Waturi                               Team Member
+
+Diana Jemutai Sirma                               Team Member
+
+Vitalis Adongo Mwambasa                           Team Member
+
+Gaylord Benard Mitto                              Team Member
+
+Catherine Kathuni                                 Team Member
+
+Yasmeen Hopkins                                   ICR Author
+
+Carlos Ivan Mejia Rosario                         ICR Author
+
+Angelina Darini Musera                            Team Member
+
+Hope Nanshemeza                                   Team Member
+
+Claudia Lorena Trejos Gomez                       Team Member
+
+Edwin Nyamasege Moguche                           Team Member
+
+Michael Macnamara Winter                          Team Member
+
+Eric Dickson                                      Team Member
+
+Gladys Akurut Alupo                               Procurement Team
+
+Jean Okolla Owino                                 Team Member
+
+
+
+
+
+
+
+                                                                                    Page 40 of 48
+
+    The World Bank
+
+    Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+Keziah Muthoni Muthembwa                          Team Member
+
+Michelle Lisa Chen                                Team Member
+
+Mohammad Ilyas Butt                               Procurement Team
+
+James N. Karuiru                                  Procurement Team
+
+
+
+
+
+
+
+B. STAFF TIME AND COST
+
+
+
+
+
+                                                     Staff Time and Cost
+
+Stage of Project Cycle
+
+                             No. of staff weeks               US$ (including travel and consultant costs)
+
+Preparation
+
+FY16                         11.984                                                          118,643.83
+
+FY17                         43.421                                                          492,266.25
+
+FY18                         2.050                                                            34,044.70
+
+
+
+Total                        57.46                                                           644,954.78
+
+Supervision/ICR
+
+FY18                         15.075                                                          157,980.59
+
+FY19                         21.313                                                          262,332.02
+
+FY20                         35.472                                                          457,573.02
+
+FY21                         13.870                                                          178,499.52
+
+FY22                         27.837                                                          191,506.31
+
+FY23                         42.641                                                          318,096.38
+
+FY24                         13.518                                                          258,633.63
+
+Total                        169.73                                                        1,824,621.47
+
+
+
+
+
+
+
+
+
+                                                                                             Page 41 of 48
+
+    The World Bank
+
+    Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+                                 ANNEX 3. PROGRAM EXPENDITURE SUMMARY
+
+
+
+
+
+
+
+                                                                        Actual Expenditures (Disbursement)
+
+   Source of Program       Type of Co-          Estimates at
+
+    Financing (US$)         Financing            Appraisal                      Percentage of      Percentage of
+
+                                                                   Actual
+
+                                                                                  Appraisal           Actual
+
+
+
+World Bank               PforR              269.7M             269.7M          100               100
+
+                         IPF                30M                21.3M           71                71
+
+
+
+Borrower                 Counterpart        20M                12.2M           70.9              70.9
+
+Other Partners                              0                  0
+
+Total                                       320M               303.2M
+
+
+
+
+
+
+
+
+
+                                                                                                        Page 42 of 48
+
+ The World Bank
+
+ Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+                                       ANNEX 4. BORROWER’S COMMENTS
+
+
+
+1. The report provides a detailed and true reflection of KUSP.
+
+
+
+2. Para 5: It is stated that, at the time of appraisal, no counties had established urban boards to manage
+
+   individual cities or municipalities. This should be changed as Kakamega County Government had
+
+   established Kakamega and Mumias municipalities.
+
+
+
+3. Para 15: It would be good to add the reason as to why the US$ 4.5 million intended to be directed towards
+
+   financing UIG to counties. This was mainly due to having no clear modality of transferring funds between
+
+   the two windows. This also compounded the challenge of slow absorption at IPF since the discussions of
+
+   the transfer took quite long before it was decided that the funds cannot be directed to fund UIG activities
+
+   in Window 2.
+
+
+
+4. Para 22: There is need to be consistent in the number of municipalities that were created as at the time
+
+   of closure of the Program. In this para, it is stated that 63 municipal boards and municipalities were
+
+   established, while in para 28, it is stated that 77 municipalities were established. The correct number is
+
+   77 municipalities.
+
+
+
+5. Para 30: The total number of infrastructure projects should be revised to 388 and consider adding the
+
+   stadia and the goods and equipment procured under UDG to support service delivery. These include fire
+
+   engines, skip bins, compactors among others.
+
+
+
+6. Para 35: Change the total number of infrastructure projects to be consistent with the previous edits.
+
+
+
+7. Para 49: It is true that waivers were granted and the reasons for that are captured, but the implications
+
+   of the waivers should also be highlighted mainly that counties were laxed in complying with the conditions
+
+   since they were anticipating waivers. It should be advised that this should be avoided in future similar
+
+   programs.
+
+
+
+8. Para 50: It should also be noted that since waivers were granted, counties accessed all their maximum
+
+   allocation for the first two disbursements and the balance was prorated for the third disbursement. This
+
+   affected the designed DLI disbursements.
+
+
+
+9. Para 56: There is need to include the technical infrastructure visits as one of the means that was used to
+
+   monitor results. The visits offered valuable insights on the continuous progress of activities
+
+   implementation at counties and municipalities level.
+
+
+
+10. Para 63: Procurement can be rated as moderately unsatisfactory due to the challenges and observations
+
+    highlighted. A recommendation needs to be mentioned in order to avoid these challenges in future
+
+    programs, for instance, having a program procurement officer with all the necessary authorizations for
+
+    approving procurement processes.
+
+
+
+11. Para 71: It should also be emphasized that the allocations to the counties will strictly follow the results of
+
+    the APA and no ‘waivers’ will be granted.
+
+
+
+
+
+                                                                                                             Page 43 of 48
+
+The World Bank
+
+Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+                              ANNEX 5. SUPPORTING DOCUMENTS (IF ANY)
+
+
+
+
+
+1. Project Appraisal Document. World Bank. 2017
+
+
+
+2. Financing Agreement. World Bank. 2017
+
+
+
+3. Aide Memoires (various). World Bank. 2017–2023.
+
+
+
+4. Implementation Status Reports: 1 through 13. World Bank. 2017–2023.
+
+
+
+5. Restructuring Papers. World Bank. April and December 2020.
+
+
+
+6. Country Partnership Strategy for Kenya (2014–18). World Bank. 2014.
+
+
+
+7. Country Partnership Framework for Kenya (2023-28). World Bank. 2023.
+
+
+
+8. Annual Performance Assessments. 2018, 2020 and 2021.
+
+
+
+9. Beneficiary and Social-Economic Assessment. Alpex Consulting Africa Limited (ACAL). 2023
+
+
+
+10. End of Program Evaluation Report. 2023
+
+
+
+11. Value for Money. EOW Associates. 2023
+
+
+
+12. Borrower’s Project Completion Report, December 2023.
+
+
+
+
+
+
+
+
+
+                                                                                              Page 44 of 48
+
+The World Bank
+
+Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+                                 ANNEX 6. KUSP Theory of Change
+
+
+
+
+
+
+
+
+
+                                                                  Page 45 of 48
+
+The World Bank
+
+Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+                                      ANNEX 7. OTHER OUTCOMES AND IMPACTS
+
+
+
+ Job creation and economic growth
+
+
+
+ Infrastructure financed by the Program stimulated economic growth and job creation in secondary cities.
+
+ The BEA concluded that ‘Investments in infrastructure projects have created employment opportunities
+
+ and supported local businesses, leading to increased economic activity and income generation. In the
+
+ sampled high-magnitude infrastructure projects, a total of approximately 3,000 new jobs have so far been
+
+ created as a result of the projects. Additionally, the KUSP investments led to an increase in business
+
+ revenue for the community in and around the projects. For instance, in Eldoret, traders along Pioneer
+
+ Health Centre – Rexona Road reported to have increased their daily revenues from an average of Ksh. 7,392
+
+ to Ksh. 10,983 (a 49 percent increase) after upgrading of the road’. Likewise, markets have created
+
+ opportunities for vendors, artisans, and small businesses to sell their products and offer services. After
+
+ analyzing all the investments, the EPE noted that these ‘have had a wide range of positive impacts, including
+
+ increased working hours resulting in higher income for businesses, enhanced security, and greater
+
+ satisfaction and wellbeing among residents. They have also contributed to job creation, cultural visibility,
+
+ and improved access to education and healthcare facilities. Overall, these initiatives have transformed the
+
+ municipalities, making them more livable, economically vibrant, and sustainable’.
+
+
+
+        Economic Impact
+
+
+
+ During the Program period, 388 infrastructure investments were carried out across 59 municipalities,
+
+ valued at more than KES 27.8B (US$ 200M). The economic assessment conducted for KUSP2 23 revealed
+
+ substantial benefits from investing in the type of infrastructure and services eligible under KUSP. For
+
+ example, the construction of urban road networks has a positive net present value (NPV) ranging from
+
+ US$11- 470 million and a positive internal rate of return (IRR) ranging from 16-65 percent. Similarly,
+
+ streetlight investments have a benefit/cost ratio of 1.8 – 2.5 and NPV of 93-126 million. Overall, the
+
+ program's economic impacts were important regarding revenue increases experienced by traders
+
+ benefitting from improved urban infrastructures (i.e. roads, water supply, sanitation facilities, waste
+
+ management), job creation, and estimates of returns to program investments. Additionally, there were
+
+ several non-quantifiable benefits associated with the provision of various services, including: (a) reduced
+
+ health infections during rainy seasons with the improvement or development of solid waste management
+
+ systems and facilities, (b) reduction in destruction of property with proper drainage and stormwater
+
+ harvesting and storage systems, and (c) enhanced citizen engagement processes resulting in a better-
+
+ informed citizenry and more inclusive decision making. Refugees and host communities also benefited from
+
+ better infrastructure and services.
+
+
+
+        Poverty Reduction and Shared Prosperity
+
+
+
+ The Program contributed to the World Bank’s over-arching goals of ending extreme poverty and promoting
+
+ shared prosperity by delivering improved urban infrastructure on an inclusive basis and in ways that
+
+ enhanced economic growth and development in participating counties. For example, the BEA highlights
+
+ how KUSP contributed to developing sustainable and inclusive municipalities by enhancing infrastructure,
+
+
+
+ 23   Economic Assessment was done for KUSP2 preparation based on KUSP1 investments.
+
+
+
+                                                                                                        Page 46 of 48
+
+The World Bank
+
+Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+ addressing municipalities’ poverty, and improving service delivery in urban areas. Similarly, KUSP supported
+
+ the creation of markets, roads and walkways, further creating opportunities for economic prosperity. These
+
+ achievements also made a significant contribution to attaining Sustainable Development Goal (SDG) 11
+
+ (sustainable cities and communities).
+
+
+
+      Gender, Equity, and Inclusive Development
+
+
+
+ The primary beneficiaries of the operation were 3.6 million residents of the 59 urban centers participating,
+
+ half of whom were female. The equity assessment at the municipal level conducted during the VfM Audit
+
+ revealed that ‘equity was addressed through the inclusion of minorities and marginalized groups during
+
+ project identification, planning, implementation, operation, and maintenance.’ 24 Through citizen
+
+ participation in the prioritization of investments, the Program addressed the needs of vulnerable and
+
+ marginalized populations. 25 KUSP also helped some urban areas that were new county capitals and which
+
+ historically had received little investments to have, for example, their first kilometer of road and pavement.
+
+ In the North and North Eastern (NEDI) regions, the investments contributed to the economic
+
+ empowerment of marginalized groups through employment during and after implementation. For
+
+ example, in Garissa and Wajir, about 415 local residents were employed during the construction of KUSP
+
+ investments. Similarly, the VfM Audit concluded that ‘All the KUSP investments were awarded to local
+
+ contractors increasing local investments which will sustainably promote economic inclusion and
+
+ empowerment in the NEDI region’. 26
+
+
+
+      Sustainability
+
+
+
+ The provision of urban infrastructure and services requires strong collaboration and significant capacity at
+
+ national, county and municipal levels. Hence, the Program strengthened the institutional capacity at
+
+ SDHUD, counties, and municipalities. To sustain the reforms and investments supported by KUSP, the
+
+ closing mission of the Program agreed on a Sustainability Plan. The plan is anchored on (i) continuous
+
+ reporting from counties to the National Program Coordination Team (NPCT) at the SDHUD on financial
+
+ management and safeguards compliance, and NPCT supervision of pending UDG investments up to
+
+ operationalization, which will be monitored as part of KUSP2, (ii) implementation of PFM Act Section 172-
+
+ 3 so counties allocate finances to municipalities (minimum condition for KUSP2), (iii) technical backstopping
+
+ from NPCT to municipalities, and (iv) finalization of the UACA Regulations to reinforce the transfer of
+
+ powers, functions and resources to municipalities. 27 Nonetheless, there are concerns regarding the
+
+ operation and maintenance (O&M) of infrastructure and municipal financial sustainability if the transfer of
+
+ finances is not done in line with PFM Act.
+
+
+
+      Contribution to the devolution process
+
+
+
+ In 2015, the stakes of devolution in Kenya were particularly centered on creating municipalities, which was
+
+ a cornerstone of the process. KUSP was not only a pioneer in the wider devolution context but also a
+
+ significant reform of the Kenyan governance institutions that first met resistance from national
+
+
+
+ 24 KUSP VfM Audit.
+
+ 25 KUSP ISR, 11 December 2023.
+
+ 26 KUSP VfM Audit.
+
+ 27 KUSP ISR, 11 December 2023.
+
+
+
+
+
+
+
+                                                                                                         Page 47 of 48
+
+The World Bank
+
+Kenya Urban Support Program (P156777)
+
+
+
+
+
+
+
+ governments and governors as they questioned the county's and urban boards' capabilities to receive most
+
+ of the PforR funds. By building on KDSP, KUSP played a crucial role in supporting the devolution process in
+
+ Kenya by further enhancing the dialogue with the Kenyan government regarding devolution, providing
+
+ financial and technical support to county governments, incentivizing performance through conditional
+
+ grants, and addressing specific challenges related to urban governance and development. It contributed to
+
+ a better understanding of devolution challenges while strengthening institutions, enhancing service
+
+ delivery, and fostering sound inter-governmental relations at the county and national levels.
+
+
+
+
+
+
+
+
+
+                                                                                                      Page 48 of 48
+
+

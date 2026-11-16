@@ -1,0 +1,4139 @@
+                                 FOR OFFICIAL USE ONLY
+
+                                                            Report No: ICR00005801
+
+
+
+
+
+                IMPLEMENTATION COMPLETION AND RESULTS REPORT
+
+
+
+
+
+              CREDIT NUMBER 64190-KE AND CREDIT NUMBER 66350-KE
+
+                                          ON A
+
+
+
+                              DEVELOPMENT POLICY CREDIT
+
+
+
+                                 IN THE AMOUNT OF
+
+                   US$750 MILLION AND US$750 MILLION EQUIVALENT
+
+
+
+                                          AND
+
+
+
+                                 LOAN NUMBER 9106-KE
+
+
+
+                                          ON A
+
+
+
+                              DEVELOPMENT POLICY LOAN
+
+
+
+                                  IN THE AMOUNT OF
+
+                              US$250 MILLION EQUIVALENT
+
+
+
+                                         TO THE
+
+
+
+                                   REPUBLIC OF KENYA
+
+
+
+                                        FOR THE
+
+       KENYA INCLUSIVE GROWTH AND FISCAL MANAGEMENT DEVELOPMENT POLICY
+
+                                  OPERATION
+
+
+
+
+
+                                  SEPTEMBER 20, 2022
+
+
+
+
+
+Macroeconomics, Trade And Investment Global Practice
+
+Eastern and Southern Africa Region
+
+The World Bank
+
+Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+
+
+
+
+                                        CURRENCY EQUIVALENTS
+
+
+
+                             Exchange Rate Effective September 20, 2022
+
+
+
+                                  Currency Unit = KES (Kenyan shilling)
+
+                                           KES 120.55 = US$1
+
+                                            US$1.30 = SDR 1
+
+
+
+                                               FISCAL YEAR
+
+                                              July 1 - June 30
+
+
+
+
+
+
+
+
+
+             Regional Vice President: Victoria Kwakwa
+
+                    Country Director: Keith Hansen
+
+                   Regional Director: Asad Alam
+
+                   Practice Manager: Vivek Suri
+
+                Task Team Leader(s): Allen Curtis K. Dennis, Alexis Sienaert, Peter Chacha Wankuru
+
+               ICR Main Contributor: Allen Curtis K. Dennis, Alexis Sienaert, Paul Holden
+
+The World Bank
+
+Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+
+
+                                   ABBREVIATIONS AND ACRONYMS
+
+
+
+
+
+AHP                     Affordable Housing Program
+
+CBK                     Central Bank of Kenya
+
+CIT                     Corporate Income Tax
+
+COVID-19                Coronavirus Disease 2019
+
+CPF                     Country Partnership Framework
+
+CPS                     Country Partnership Strategy
+
+DPF                     Development Policy Financing
+
+DPO                     Development Policy Operation
+
+DSA                     Debt Sustainability Analysis
+
+GDP                     Gross Domestic Product
+
+GoK                     Government of Kenya
+
+IBRD                    International Bank for Reconstruction and Development
+
+IDA                     International Development Association
+
+IMF                     International Monetary Fund
+
+ICR                     Implementation Completion and Results Report
+
+ICT                     Information and communications technologies
+
+IFC                     International Finance Corporation
+
+IMF                     International Monetary Fund
+
+IPF                     Investment project financing
+
+KMRC                    Kenya Mortgage Refinance Company
+
+LMIC                    Lower middle-income country
+
+MDA                     Ministries, Departments and Agencies
+
+MSME                    Micro, Small and Medium Enterprise
+
+PA                      Prior Action
+
+PDO                     Program Development Objective
+
+PforR                   Program for results
+
+RI                      Results Indicator
+
+SSA                     Sub-Saharan Africa
+
+VAT                     Value-added Tax
+
+WRS                     Warehouse Receipt System
+
+WRSC                    Warehouse Receipt System Council
+
+The World Bank
+
+Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+
+
+
+
+                                                       TABLE OF CONTENTS
+
+
+
+
+
+DATA SHEET .......................................................................................................................... 1
+
+I.    PROGRAM CONTEXT AND DEVELOPMENT OBJECTIVES.................................................... 5
+
+II.   OTHER OUTCOMES AND IMPACTS ................................................................................ 24
+
+III. BANK PERFORMANCE ................................................................................................... 25
+
+IV. RISK TO SUSTAINABILITY OF DEVELOPMENT OUTCOMES .............................................. 26
+
+V. LESSONS AND NEXT PHASE ........................................................................................... 26
+
+ANNEX 1. THEORY OF CHANGE ............................................................................................ 30
+
+RESULTS INDICATORS .......................................................................................................... 32
+
+ANNEX 2. BANK LENDING AND IMPLEMENTATION SUPPORT/SUPERVISION PROCESSES....... 38
+
+ANNEX 3. BORROWER, CO-FINANCIERS, AND OTHER DEVELOPMENT
+
+PARTNERS’/STAKEHOLDERS’ COMMENTS ............................................................................ 40
+
+ANNEX 4. SECTORS AND THEMES......................................................................................... 41
+
+                         The World Bank
+
+                         Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+
+
+
+
+DATA SHEET
+
+
+
+
+
+BASIC INFORMATION
+
+
+
+Program Series
+
+
+
+
+
+
+
+Project ID                           Short Name                                Full Name
+
+                                                                               Inclusive Growth and Fiscal Management Development
+
+P168204                              Inclusive Growth and Fiscal DPO
+
+                                                                               Policy Financing
+
+P172321                              Kenya Growth and Fiscal DPO2              Kenya Inclusive Growth and Fiscal Management DPO 2
+
+
+
+Series Details (USD)
+
+Project ID                                               Approved Amount                                            Disbursed Amount
+
+
+
+P168204                                                     750,000,000.00                                            751,130,459.68
+
+
+
+P172321                                                   1,000,000,000.00                                           1,000,000,000.00
+
+
+
+Total                                                     1,750,000,000.00                                           1,751,130,459.68
+
+
+
+
+
+KEY_D PF_OPTI ONS_ TBL
+
+
+
+
+
+
+
+
+
+                                                                                                      P168204         P172321
+
+Policy-Based Guarantees                                                                               No              No
+
+                                                                                                                      IBRD-
+
+Ln/Cr/TF                                                                                              IDA-64190       91060,IDA-
+
+                                                                                                                      66350
+
+
+
+
+
+Concept Review                                                                                        06-Mar-2019     31-Dec-2019
+
+Decision Review                                                                                       21-Mar-2019     03-Apr-2020
+
+Approval                                                                                              28-May-2019     19-May-2020
+
+Effectiveness                                                                                         26-Jun-2019     22-May-2020
+
+Original Closing                                                                                      30-Jun-2020     30-Jun-2021
+
+Actual Closing                                                                                        30-Jun-2020     30-Jun-2021
+
+
+
+
+
+Crisis or Post-Conflict                                                                               No              No
+
+Regular Deferred Drawdown Option                                                                      No              No
+
+
+
+
+
+                                                                                                                                Page 1 of 44
+
+     The World Bank
+
+     Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+
+
+Catastrophe Deferred Drawdown Option                                                 No              No
+
+Sub-National Lending                                                                 No              No
+
+Special Development Policy Lending                                                   No              No
+
+
+
+
+
+
+
+Organizations
+
+
+
+Series Project         Borrower                              Implementing Agency
+
+P168204                Republic of Kenya                     National Treasury and Planning
+
+
+
+P172321                REPUBLIC OF KENYA                     The National Treasury
+
+
+
+
+
+Program Development Objective (PDO)
+
+
+
+Program Development Objective (PDO) (From last operation in the series)
+
+The program development objectives are to: (i) crowd in private investment and financing for affordable housing; (ii)
+
+enhance farmer incomes and food security; (iii) create fiscal space to support the government’s inclusive growth
+
+agenda; and (iv) crowd in private investment and leverage digitization to support the government’s inclusive growth
+
+agenda.
+
+
+
+PROGRAM FINANCING DATA (USD)
+
+
+
+World Bank Administered Financing
+
+
+
+                                                       Approved Amount                              Actual Disbursed
+
+
+
+P168204
+
+                                                             750,000,000                                  751,130,460
+
+   IDA-64190
+
+
+
+P172321
+
+                                                             250,000,000                                  250,000,000
+
+   IBRD-91060
+
+                                                             750,000,000                                  750,000,000
+
+   IDA-66350
+
+Total                                                      1,750,000,000                               1,751,130,460
+
+
+
+
+
+
+
+RATINGS SUMMARY
+
+Program Performance
+
+
+
+
+
+                                                                                                              Page 2 of 44
+
+      The World Bank
+
+      Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+
+
+Overall Outcome                           Relevance of Prior Actions              Achievement of Objectives (Efficacy)
+
+
+
+Satisfactory                              Satisfactory                            Satisfactory
+
+
+
+
+
+
+
+Bank Performance
+
+Satisfactory
+
+
+
+
+
+
+
+ACCOUNTABILITY AND DECISION MAKING
+
+
+
+
+
+At ICR:
+
+
+
+Regional Vice President                 Country Director                            Director
+
+Victoria Kwakwa                         Keith E. Hansen                             Asad Alam
+
+Practice Manager                        Task Team Leader(s)
+
+Vivek Suri                              Allen Curtis K. Dennis, Alexis Sienaert
+
+
+
+
+
+At Approval:
+
+
+
+
+
+P168204
+
+Regional Vice President                 Country Director                            Director
+
+Hafez M. H. Ghanem                      Carlos Felipe Jaramillo                     Asad Alam
+
+Practice Manager                        Task Team Leader(s)
+
+Abebe Adugna Dadi                       Allen Curtis K. Dennis, Sarah Oludamilola Sanya
+
+
+
+
+
+
+
+P172321
+
+Regional Vice President                 Country Director                            Director
+
+Hafez M. H. Ghanem                      Carlos Felipe Jaramillo                     Asad Alam
+
+Practice Manager                        Task Team Leader(s)
+
+Abebe Adugna Dadi                       Allen Curtis K. Dennis, Peter Chacha Wankuru, Alexis Sienaert
+
+
+
+
+
+
+
+
+
+                                                                                                                Page 3 of 44
+
+The World Bank
+
+Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+
+
+
+
+                                                               Page 4 of 44
+
+     The World Bank
+
+     Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+
+
+I.   PROGRAM CONTEXT AND DEVELOPMENT OBJECTIVES
+
+
+
+      1.      This Implementation Completion and Results Report (ICR) reviews the performance and results of
+
+      the Kenya Inclusive Growth and Fiscal Management programmatic series of development policy operations
+
+      (DPOs). The programmatic series consisted of two single tranche operations of US$750 million each in
+
+      International Development Association (IDA) financing. The second operation also included US$250 million in
+
+      International Bank for Reconstruction and Development (IBRD) financing, for a total of US$1.75 billion. The
+
+      operations were approved by the Board of Executive Directors in April 2019 and May 2020 respectively.
+
+
+
+A. Context at Appraisal
+
+
+
+      2.       Growth in Kenya has been robust over the past decade, though dented by the impacts of
+
+      Coronavirus Disease 2019 (COVID-19). Kenya is the largest economy in east Africa and since 2004, it has been
+
+      one of the fastest growing economies in Sub-Saharan Africa (SSA), with an average annual real gross domestic
+
+      product (GDP) growth rate of close to 5 percent. However, for the first time in nearly 30 years, the economy
+
+      contracted in 2020, as a result of the COVID-19 pandemic. Growth rebounded sharply in 2021, to 7.5 percent
+
+      in real terms. Kenya is a lower middle-income country (LMIC), with a per capita gross national income of
+
+      US$1,879 in 2020. Kenya’s human development indicators are the highest in the East Africa Community, with
+
+      indicators related to health and education showing steady improvement. However, some 33 percent of the
+
+      population remained below the national poverty line in 2019.
+
+
+
+      3.       Though the macroeconomic environment remains stable, rising debt is an area of vulnerability.
+
+      Headline inflation has averaged 5.6 percent over the past five years, within the central bank’s target inflation
+
+      band of 2.5 percentage points above and below 5 percent. The exchange rate has also remained relatively
+
+      stable, with months of import cover consistently above the statutory minimum of four (4.8 months in May
+
+      2022). Though higher than most SSA countries, the ratio of private sector credit to GDP at 32 percent (2020)
+
+      is below the LMIC average of 47 percent. Over the past decade, the fiscal balance has registered substantial
+
+      deficits, with rising public sector debt. The debt-to-GDP ratio rose from 39 percent of GDP in 2013 to 68
+
+      percent of GDP in the 2020/21 fiscal year – this increase resulted mainly from increased public investment in
+
+      infrastructure. In May 2020, the joint International Monetary Fund (IMF)/World Bank low-income country
+
+      Debt Sustainability Analysis (DSA) determined that Kenya’s risk of debt distress had increased from moderate
+
+      to high.
+
+      4.       The Kenyan economy is dominated by services and agriculture, with the former constituting over
+
+      50 percent of GDP followed by agriculture (23 percent of GDP). The services sector has been the main driver
+
+      of growth in the economy, with Information and communications technologies (ICT), wholesale and retail
+
+      trade, and financial services being the most rapidly growing components of the sector. Low productivity has
+
+      been a continuing feature of the economy and the investment ratio is less than 25 percent of GDP. Foreign
+
+      direct investment constituted 1.2 percent of GDP in 2019. Kenya's growth has resulted primarily from
+
+      increases in the labor force and capital deepening. A feature of the Kenyan economy is the large informal
+
+      sector, which employs four out of every five workers. Informal activity is generally characterized by low
+
+      productivity, which further contributes to Kenya’s productivity deficit. The public sector is the largest formal
+
+      employer in the country.
+
+
+
+
+
+
+
+
+
+                                                                                                               Page 5 of 44
+
+The World Bank
+
+Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+
+
+ 5.       The World Bank Kenya Country Partnership Strategy (CPS) FY14-FY18 1 was based on three pillars or
+
+ domains of engagement. They were increasing competitiveness and sustainability, protecting the vulnerable
+
+ and assisting them to develop their potential, and building consistency and equity, which was designed to
+
+ assist the government with its devolution agenda. The Performance Learning Review proposed to extend the
+
+ CPS period by two years. Due to the need to address the challenges arising from COVID-19 the period of
+
+ implementation of the CPS was extended to 2021. A new Country Partnership Framework (CPF) for FY23-28
+
+ is currently being finalized.
+
+     Table 1: Selected Economic Indicators
+
+                                2016      2017      2018       2019        2020        2021         2022        2023
+
+                                                                                                    Projected
+
+     Real GDP
+
+     (annual percent change)
+
+     GDP                        4.2       3.8       5.6        5.0         -0.3        6.7          5.0         5.2
+
+     Agriculture                1.4       -1.3      5.7        2.6         4.8         -1.5         3.6         3.8
+
+     Industry                   2.5       2.8       3.8        3.4         4.0         6.6          3.5         4.0
+
+     Services                   5.9       5.1       6.0        6.7         -2.2        9.6          5.9         6.0
+
+     Private Consumption        4.5       4.9       4.7        4.9         -2.7        7.3          5.5         5.6
+
+     Government                 5.3       6.2       7.0        7.0         4.3         4.2          4.9         3.6
+
+     Consumption
+
+     Gross Fixed Capital        -3.8      8.0       -0.4       3.8         3.4         6.4          4.1         6.7
+
+     Formation
+
+     CPI Year on Year percent   6.3       8.0       4.7        5.2         5.3         6.4          6.0         5.5
+
+     change
+
+     Fiscal accounts of the
+
+     Central Government
+
+     (percent of GDP)
+
+     Revenues                   17.7      18.0      17.4       17.1        16.3        16.4         17.3        18.1
+
+     of which tax revenue       15.1      14.9      14.9       14.5        13.8        13.8         14.3        15.0
+
+     Expenditure                25.1      25.7      24.6       24.5        24.2        24.6         24.9        23.6
+
+     Fiscal balance             -7.4      -7.7      -7.1       -7.4        -7.9        -8.2         -7.5        -5.5
+
+     Central Government      50.4         53.0      57.9       59.5        65.8        68.2         68.0        66.8
+
+     Debt outstanding
+
+     Balance of Payments
+
+     (percent of GDP)
+
+     Current Account Balance -5.4         -6.9      -5.4       -5.3        -4.6        -5.5         -6.0        -5.5
+
+     Exports of Goods and       13.3      12.7      12.5       11.4        9.7         10.3         11.8        12.5
+
+     Services
+
+     Imports of Goods and       21.6      23.3      21.9       20.3        17.7        19.7         22.2        23.0
+
+     Services
+
+     Net FDI                    0.7       1.2       1.6        0.9         0.5         0.2          0.6         0.8
+
+     Fiscal accounts of the     2015/16   2016/17   2017/18    2018/19     2019/20     2020/21      2021/22     2022/23
+
+     Central Government
+
+     (percent of GDP)
+
+     Revenues                   17.8      18.2      17.4       17.7        16.5        16.1         16.8        17.7
+
+     of which tax revenue       14.8      15.1      14.1       14.4        13.0        12.6         13.3        14.4
+
+     Expenditure                25.0      26.1      24.1       25.0        24.2        24.3         25.0        23.7
+
+     Fiscal balance             -6.6      -8.2      -7.0       -7.3        -7.5        -8.2         -8.2        -6.0
+
+     Central Government         50.0      54.5      56.5       59.6        63.0        68.2         68.1        67.5
+
+     Debt outstanding
+
+
+
+ Source: Kenya National Bureau of Statistics, Central Bank of Kenya, The National Treasury, and World Bank
+
+
+
+
+
+ 1International Development Association, International Finance Corporation, Multilateral Investment Guarantee Agency. 2014.
+
+ Country Partnership Strategy. The Republic of Kenya for the Period FY2014-2018.
+
+
+
+                                                                                                                          Page 6 of 44
+
+The World Bank
+
+Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+
+
+ 6.      In 2017, following elections, the new government announced a medium-term reform program that
+
+ focused on key policy areas, dubbed the Big Four. The program delineated four primary areas on which policy
+
+ reforms would focus. They were food security, affordable housing, universal health care, and manufacturing. The
+
+ World Bank initiated dialogue in response to these priorities that led to the DPO series. The program
+
+ development objectives were based on in-depth consultations between the Bank and the Government of Kenya.
+
+ The challenges that the DPO series aimed to address related closely to the Big Four priorities of the government's
+
+ development agenda. 2
+
+ 7.      Furthermore, the priorities embodied in the DPO series was based on extensive analytical work by the
+
+ Bank Global Practices and Research Group as well as technical assistance. 3 This provided the foundation for
+
+ the two operations of the series.
+
+
+
+
+
+
+
+
+
+ 2The consultations followed earlier discussions in 2016 towards a DPO which did not proceed.
+
+ 3For a comprehensive list of analytical work underpinning the operations and how it related to the prior actions, see Table 4 in
+
+ Kenya - Inclusive Growth and Fiscal Management Development Policy Financing Project (English). Washington, D.C.: World Bank
+
+ Group. http://documents.worldbank.org/curated/en/212131559354546962/Kenya-Inclusive-Growth-and-Fiscal-Management-
+
+ Development-Policy-Financing-Project and Table 5 in Kenya - Second Inclusive Growth and Fiscal Management Development
+
+ Policy Financing Program (English). Washington, D.C.: World Bank Group.
+
+ http://documents.worldbank.org/curated/en/318971590199287636/Kenya-Second-Inclusive-Growth-and-Fiscal-Management-
+
+ Development-Policy-Financing-Program in International Development Association. (2019) Kenya Inclusive Growth and Fiscal
+
+ Management Development Policy Financing Report No: PGd82.
+
+
+
+                                                                                                                               Page 7 of 44
+
+    The World Bank
+
+    Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+
+
+Original Program Development Objective(s) (PDO) (as approved)
+
+     8.       The PDOs and Pillars for both operations were:
+
+           i)     PDO 1/Pillar I: To crowd in private investment and financing for affordable housing;
+
+           ii)    PDO 2/Pillar II: Enhance farmer incomes and food security;
+
+           iii)   PDO 3/Pillar III: Create fiscal space to allow the government to invest in key development
+
+                  programs; and
+
+           iv)    PDO 4/Pillar IV: Crowd in private investment and leverage digitization to support the governments
+
+                  inclusive growth agenda.
+
+     9.     The program documents for both operations linked the objectives (pillars) directly to the
+
+     government’s Big Four development agenda. Pillars One and Two closely reflected two of the Big Four
+
+     development agenda priorities, namely affordable housing and farmer incomes. Pillar Three of the PDO reflected
+
+     the need to create fiscal space in the budget to mobilize revenue, and improve the efficiency of spending and
+
+     debt management, all of which would contribute to the macroeconomic stability needed to underpin Kenya’s
+
+     development goals. The Fourth pillar, advancing digitization and strengthening investment policy would further
+
+     promote the crowding in of private investment, while increasing the government's capacity to provide services
+
+     that would contribute to the inclusive growth agenda.
+
+     10.    Additionally, while improved governance and transparency were not specific pillars in the DPO, nor
+
+     were they part of the Big Four, they were both supported by prior actions of the series. They were included
+
+     because during the preparation of the operations the government was intensifying its efforts to address weak
+
+     governance and corruption. Specifically, reforms related to agricultural subsidies, procurement, fiscal resource
+
+     management and the judiciary reduced the opportunities for rent seeking and supported the good governance
+
+     component of the CPS.
+
+     11.     There were no significant changes to the policy areas, nor to the pillars supported by the program
+
+     during implementation and no changes to the development objectives.
+
+
+
+
+
+
+
+
+
+                                                                                                            Page 8 of 44
+
+         The World Bank
+
+         Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+     Table 2: Prior Actions and Results 4
+
+
+
+                                             PDO1/Pillar 1. Crowd in Private Investment and Financing for the Delivery of Affordable Housing
+
+             Prior Actions for DPO1                          Prior Actions for DPO2            Indicator, Baseline, Target and Results                             Additional Information
+
+Prior Action (PA) 1: The Recipient has (i)              Prior Action 1. The Recipient has (i)      Result Indicator (RI) 1: The number of affordable       RI1: Fully Achieved
+
+approved, through its Cabinet, amendments to            enacted through its Parliament the         housing units constructed with private investment
+
+the Sectional Properties Act to allow for               Physical and Land Use Planning Act,        under the government supported affordable
+
+individual titling of units in multi-story buildings;   which, inter alia, allows for changes to   housing program.
+
+and (ii) enacted, through its Parliament, the           restrictive zoning laws that hold back     Baseline (2017): 0
+
+Building Surveyors Act with the objective to            the construction of multi-story            Target (2021): 20,000
+
+improve building standards, including in low-           buildings in high density areas(ii)        Actual (April 2022): 5,106 government funded
+
+income housing units.                                   through the president, assented to the,    units completed; 15,300 private sector funded
+
+                                                        Business Laws Amendment Bill, which        affordable housing units completed.
+
+The PA links to the achievement of PDO/Pillar           amends the National Construction                                                                   RI 2: Substantially Achieved
+
+                                                        Authority Act which, inter alia, makes     RI2: Proportion of affordable housing units
+
+                                                        provision for an up to date building       constructed with private investment under the
+
+                                                        code, allowing the use of a wider range    government supported affordable homes program
+
+                                                        of construction materials and              owned by women (including individual or joint
+
+                                                        technology, hence enabling the delivery    ownership agreements) helping to close the
+
+                                                        of less expensive code-compliant           gender gap since currently a lower proportion of
+
+                                                        housing units..                            houses are solely or jointly owned by women.
+
+                                                                                                   Baseline (2017): 0
+
+                                                        The PA links to the achievement of         Target (2021): 50%
+
+                                                        PDO/Pillar                                 Actual: 46% were solely owned by women (2021)
+
+Prior Action 2. The Recipient has (i) enacted,                                                     RI3: Number of private sector shareholders in           RI3: Fully Achieved
+
+through its Parliament, an amendment to the                                                        KMRC.                                                   A major development under this PA was
+
+Central Bank of Kenya (CBK) Act to empower the                                                     Baseline (2017): 0                                      the KMRC bond issue that took place in
+
+CBK to license and supervise mortgage re-                                                          Target (2021): 15                                       late 2021 that was oversubscribed five
+
+financing businesses; and (ii) submitted, through                                                  Actual (2021): 20                                       times, and which will provide substantial
+
+the CBK, the draft Mortgage Refinance                                                                                                                      liquidity to the mortgage market that will
+
+Companies Regulations, dated 2019, to the                                                          This indicator does not measure access to               enable poor and middle-income Kenyans
+
+Attorney General, which provides a framework                                                       mortgage finance but the success of the bond            to obtain mortgages.
+
+to operationalize the business of mortgage                                                         issue indicates that more liquidity will be available
+
+refinancing.                                                                                       for mortgage financing.
+
+
+
+The PA links to the achievement of PDO/Pillar
+
+
+
+
+
+     4Results assessed according to following ratings: i)-Not Achieved, if progress is below 50 percent of initial target, ii)-Partly Achieved if there is progress of about 50-75 percent of
+
+     the target, iii)-Substantially Achieved, if more than 75 percent of the target is achieved, iv)-Fully Achieved if the target is met or exceeded.
+
+
+
+                                                                                                                                                                                      Page 9 of 44
+
+      The World Bank
+
+      Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+                                                              PDO2/Pillar 2. Enhance Farmers Income and Food Security
+
+           Prior Actions for DPO1                          Prior Actions for DPO2           Indicator, Baseline, Target and Results                               Comments
+
+Prior Action 3: The Recipient has (i) through its   Prior Action 2: The Recipient has           RI4: Number of farmers benefitting from e-         RI4: Fully Achieved
+
+Ministry of Agriculture, Livestock, Fisheries and   through its Cabinet approved the policy     vouchers.
+
+Cooperatives (MoALFI), piloted the e-voucher        for the roll out of the e-voucher subsidy   Baseline (2017): 0
+
+fertilizer subsidy program in four (4) counties     program consistent with the                 Target (2021): 150,000
+
+with a coverage of at least 20,000 farmers with     Agricultural Sector Growth and              Current status (2021): 167,000
+
+the aim of restructuring the fertilizer subsidy     Transformation Strategy issued by the
+
+program from a manual to an e-voucher               Ministry of Agriculture, Livestock          RI5: Proportion of farmers benefitting from e-     RI5: Fully Achieved
+
+program; and                                        Fisheries and Co-operatives.                vouchers who are female, helping to close gender
+
+(ii) approved, through its Senate, and submitted                                                gap since in 2017 a higher proportion of male
+
+to its National Assembly, the proposed Irrigation   The PA links to the achievement of          farmers used fertilizer.
+
+Bill, which supports better use and harnessing of   PDO/Pillar                                  Baseline (2017): 0
+
+water resources for irrigation through the                                                      Target (2021): 50%
+
+integration of irrigation in water harvesting,                                                  Actual (2021): 58%
+
+flood control and storage.
+
+                                                                                                There was no indicator for the impact of
+
+The PA links to the achievement of PDO/Pillar                                                   submission to the National Assembly of the
+
+                                                                                                Irrigation Bill.
+
+
+
+Prior Action 4: The Recipient has approved,         Prior Action 3: The Recipient has           No Results Indicator
+
+through its Cabinet the structure for the           through its Cabinet approved a policy
+
+establishment of a Commodities Exchange.            to commit purchases for the strategic
+
+                                                    grain reserve function of the NCPB
+
+The PA links to the achievement of PDO/Pillar       through the WRS consistent with the
+
+                                                    Agricultural Sector Growth and
+
+                                                    Transformation Strategy issued by the
+
+                                                    Ministry of Agriculture, Livestock,
+
+                                                    Fisheries and Cooperatives.
+
+                                                    Links to the achievement of PDO/Pillar
+
+Prior Action 5: The Recipient has approved,         Prior Action 4: The Recipient through       RI6: Number of licensed warehouses under the       RI6: Partially Achieved.
+
+through its Senate, and submitted to its            the Cabinet Secretary for finance, has      WRS participating in the Commodities Exchange      This indicator was impacted by COVID-19.
+
+National Assembly, the proposed Warehouse           approved the Capital Markets                that have been leased from the National Produce    Despite this setback, however, progress is
+
+Receipts System (WRS) Bill providing the legal      (Commodity Markets) Regulations that        and Cereal Board to the private sector             being made and an additional 7
+
+framework for the establishment of a                provides a framework for the                Baseline (2017): 0                                 warehouses are expected to be licensed
+
+warehouse receipt system.                           commodities exchange market.                Target (2021): 16                                  by end- 2022 (for a total of 12 licensed
+
+                                                                                                Actual (2022): 12 Warehouses Licensed)             warehouses, meriting a partially achieved
+
+The PA links to the achievement of PDO/Pillar       The PA links to the achievement of                                                             rating).
+
+                                                    PDO/Pillar
+
+
+
+
+
+                                                                                                                                                                            Page 10 of 44
+
+      The World Bank
+
+      Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+
+
+                          PDO3/Pillar 3. Create Fiscal Space and Crowd in the Private Sector to Advance the Government’s Inclusive Growth Agenda
+
+           Prior Actions for DPO1                          Prior Actions for DPO2                  Indicator, Baseline, Target and Results                           Comments
+
+Prior Action 7: The Recipient has (i) enacted,      Prior Action 5. The Recipient has          RI7: VAT and income tax revenues as a share of         RI7: Partially achieved factoring impact
+
+through its Parliament, the Finance Act 2018        through its Cabinet approved for           GDP.                                                   from COVID-19 and ongoing momentum
+
+which contains a provision for the removal of       submission to Parliament, the Income       Baseline (FY2017): 11.2%                               in the increase in domestic revenues. The
+
+VAT exemptions on petroleum products; and (ii)      Tax Bill 2019, which streamlines tax       Target (FY2021): 12.1%                                 1.1 percentage points increase in VAT and
+
+through the Cabinet Secretary of the National       exemptions by reducing the number of       Actual (2022):11.0% reflecting strong recovery         Income tax helped tax to GDP ratios reach
+
+Treasury and Planning, adopted a governance         exemptions offered.                        after COVID-19 reduced it to 9.9% in 2021.             17.5 percent of GDP, the highest level in
+
+framework through which tax exemptions are                                                     Trends in Total Revenue to GDP ratios                  over three years. PA7(i) yielded 0.2% of
+
+granted to avoid the creep in tax exemptions        The PA links to the achievement of         FY19 (pre-covid) – 17.5%                               GDP in additional revenue and PA 7(ii)
+
+and arrest the decline in tax revenues.             PDO/Pillar                                 FY20 (covid impacted) – 16.9%                          resulted in a 2.2% of GDP reduction in tax
+
+                                                                                               FY21 (covid impacted) – 16%                            expenditures/exemptions. Overall
+
+The PA links to the achievement of PDO/Pillar                                                  FY22 (partial covid impacted) – 17.5%                  revenue is set to reach 18.2% of GDP in
+
+                                                                                                                                                      FY23, with the bulk of the increase coming
+
+                                                                                                                                                      from VAT and Income tax.
+
+Prior Action 8: The Recipient has (i) signed a      Prior Action 6. The Recipient has (i)      RI8: Cumulative value of government                    RI8: Substantially Achieved
+
+memorandum of understanding (MoU) between           published in a publicly available online   procurement contracts published on online
+
+the Competition Authority of Kenya (CAK) and        portal details of contracts and tenders;   procurement portal (Ksh billions).
+
+the Public Procurement Regulatory Authority         including tender documents; details on     Baseline (2017): 0
+
+(PPRA) that allows for information sharing to       companies that were awarded the            Target (2021): 600 billion
+
+help carry out effective investigations on          tender; and the names of the directors     Actual (2021): 480 billion
+
+collusive behavior in public procurement; and       of the company; (ii) through its Cabinet
+
+(ii) through its National Treasury and Planning,    approved the Public Procurement and        RI9: Number of investigations related to bid rigging   RI9: Fully Achieved
+
+verified and reconciled its external debt records   Asset Disposal Regulations which will      undertaken jointly by CAK and PPRA.
+
+to improve upon the accuracy of its electronic      allow for revision of standard bidding     Baseline (2017): 0
+
+debt registry.                                      documents to provide greater details       Target (2021): 5
+
+The PA links to the achievement of PDO/Pillar       on bidders to enhance transparency;        Actual (2021): 7
+
+                                                    and (iii) through its Parliament enacted
+
+                                                    the Competition Amendment Act that
+
+                                                    include specific penalties on collusive
+
+                                                    behavior in public procurement
+
+
+
+                                                    The PA links to the achievement of
+
+                                                    PDO/Pillar
+
+                                                    Prior Action 7. The Recipient has (i)      RI10 Debt service ratio (percent of GDP).              RI10: Partially Achieved.
+
+                                                    through its Cabinet approved the Debt      Baseline (2017): 4.3                                   This indicator was strongly affected by the
+
+                                                    and Borrowing Policy; and (ii) through     Target (2021): 3.9                                     budget being impacted by the COVID-19
+
+                                                    its Central Bank launched the Treasury     Actual (June 2021): 5.9%                               pandemic. With the recovery of the
+
+                                                    Mobile Direct System which allows                                                                 economy and the pivot to more
+
+
+
+                                                                                                                                                                               Page 11 of 44
+
+      The World Bank
+
+      Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+                                                    institutional and retail investors to      RI11: Share of government securities transacted        concessional financing, the debt service
+
+                                                    participate through an electronic          on electronic platform, allowing for the               ratio is projected by the IMF to decline.
+
+                                                    platform in the issuance of government     participation of institutional and retail investors.
+
+                                                    securities to enhance transparency and     Baseline (2017): 0                                     RI11: Fully Achieved
+
+                                                    efficiency.                                Target (2021): 70%
+
+                                                                                               Actual (2021): 80.7%
+
+                                                    The PA is weakly linked to the
+
+                                                    achievement of PDO/Pillar
+
+                       PDO4/Pillar 4. Crowd in Private Investment and Leverage Digitization to Support the Government’s Inclusive Growth Agenda
+
+           Prior Actions for DPO1                          Prior Actions for DPO2                  Indicator, Baseline, Target and Results                           Comments
+
+Prior Action 9: The Recipient has through (i) the   Prior Action 8. The Recipient has          RI12: Average credit growth to the private sector.     RI12: Substantially Achieved:
+
+Cabinet Secretary of ICT, approved the              through its Parliament repealed section    Baseline: 2017: 2.8 percent
+
+Broadband Strategy, which commits to crowd-in       33B of the Banking Act, removing the       Target: 2021: 14 percent                               This indicator was impacted by the effect
+
+private investment to expand broadband access;      cap on interest rates on bank lending.     Actual: 2021: 8.6 percent (and 11.5% by April          of COVID-19 on the economy.
+
+and (ii) enacted, through its Parliament,                                                      2022).
+
+amendments to the Registration of Persons Act       The PA links to the achievement of
+
+to establish a National Integrated Identity         PDO/Pillar
+
+Management System, with the mandate to
+
+assign a unique national (digital) identification
+
+number to all registered persons.
+
+
+
+The PA links to the achievement of PDO/Pillar
+
+                                                    Prior Action 9. The Recipient (i) has      RI13: Number of investment projects registered by      RI13: Fully Achieved
+
+                                                    through its Cabinet approved the Kenya     Kenya Investment Authority.
+
+                                                    Investment Policy, which simplifies the    Baseline (2017): 37
+
+                                                    process of investor entry and retention;   Target (2021): 55
+
+                                                    (ii) has through the Ministry of           Actual (2021): 195
+
+                                                    Industrialization, Trade and Enterprise
+
+                                                    Development approved the Special           RI14: Value of capital Investments registered by       RI14: Fully Achieved
+
+                                                    Economic Zones (Amendment)                 Kenya investment Authority (Ksh billion).
+
+                                                    Regulations, implementing the Special      Baseline (2017): 13.5 billion
+
+                                                    Economic Zones Act; (iii) has enacted      Target (2021): 20 billion
+
+                                                    through its Parliament amendments to       Actual (2021): 56.32 billion
+
+                                                    the Companies Act, requiring
+
+                                                    companies to keep a register of
+
+                                                    beneficial owners.
+
+
+
+                                                    The PA links to the achievement of
+
+                                                    PDO/Pillar
+
+
+
+
+
+                                                                                                                                                                               Page 12 of 44
+
+    The World Bank
+
+    Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+
+
+A. Relevance of Prior Actions
+
+Rating: Satisfactory
+
+   12.      Criteria for the selection of prior actions. The prior actions were selected in order to link the reforms
+
+   under the two DPOs to the Government of Kenya’s Big Four priorities. This particularly applied to the first two
+
+   pillars of the operations, with the other two pillars focusing on addressing underlying issues critical to
+
+   achieving the “Big Four” and inclusive growth agenda. The choice of the direct focus pillars and translating
+
+   them into prior actions (PA) was based on:
+
+         •   Would the PA help reduce poverty?
+
+         •   The availability of analytical work to support the design of the reforms.
+
+         •   The degree of World Bank engagement in these areas and the complementarity with other World
+
+             Bank projects.
+
+   13.      The prior actions embodied in the third and fourth pillars were described as critical for achieving all
+
+   of the components of the priority areas of the government in order to achieve inclusive growth. The prior
+
+   actions in the program were demand-driven, based on intensive consultations between the government and
+
+   the World Bank. Most prior actions were linked to the PDOs, although a number could be described as first
+
+   steps that would support the reforms (requiring developing strategies and policies).
+
+
+
+   PDO1/Pillar 1: Crowd in Private Investment and Financing for the Delivery of Affordable Housing.
+
+   DPO1: PA1, PA2: and DPO2: PA1
+
+   14.     Under DPO1, PA1 related to the enactment of legislation that would allow for titling of units in multi-
+
+   story buildings, improving building standards, particularly for low-cost housing units. PA2 provided for an
+
+   amendment to the Central Bank of Kenya (CBK) Act that empowered the CBK to license mortgage re-financing
+
+   businesses and provide a framework for operationalizing the business of mortgage refinancing.
+
+   15.     PA2 focused on a key issue regarding the lack of affordable housing financing that was to be addressed
+
+   by establishing the Kenya Mortgage Refinancing Company (KMRC) that would issue bonds in the local capital
+
+   market. This would allow the mobilization of private investment through KMRC, providing long term loans to
+
+   financial institutions secured against their portfolios of housing loans that would enable them to lengthen the
+
+   maturity of their mortgage financing.
+
+   16.     Under DPO2, PA1 related to reducing restrictive zoning laws that held back the construction of multi-
+
+   story buildings, and updating laws related to the modernization of building codes that allowed for the use of
+
+   a wider range of materials and technologies that would enable the delivery of less costly code compliant
+
+   housing units.
+
+   17.       The results indicators for these prior actions were:
+
+         •   RI1: That the supply of privately funded affordable housing units under the government program
+
+             would be 20,000 by 2021;
+
+         •   RI2: That the proportion of affordable housing units constructed with private investment under the
+
+             affordable housing program that were owned by women would increase to 50 percent by 2021.
+
+         •   RI3: That there would be at least 15 private sector shareholders in KMRC.
+
+
+
+   18.     The causal chain between the PAs and the results of increasing the availability of affordable housing
+
+   was through this operation’s support to the removal of key legislative obstacles both on the demand and
+
+   supply side, helping to further incentivize greater private sector supply of affordable housing. The reforms
+
+
+
+
+
+                                                                                                               Page 13 of 44
+
+The World Bank
+
+Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+
+
+were also expected to lead to significantly increased ownership by women of affordable housing units.
+
+Specifically for private sector developers, addressing restrictive zoning requirements, and modernizing the
+
+building code to allow for technologically appropriate yet less costly materials, complemented with
+
+government fiscal incentives, were to incentivize investments. From the buyers’ side, the availability of
+
+cheaper and longer tenor mortgages, plus the ability to have sectional titles allowing them to access credit,
+
+was to reduce the financial costs of owning a home (see Annex 1 figure 1).
+
+19.      The first two indicators were clearly relevant to increasing the number of affordable housing units
+
+supplied by the private sector. The relevance of the third indicator similarly would measure the willingness of
+
+private financial institutions to expand their housing financing programs, which constituted a major constraint
+
+to purchasing of housing by lower- and middle-income purchasers.
+
+
+
+PDO2/Pillar 2: Enhance Farmers’ Incomes and Food Security
+
+DPO1: PA3, PA4, PA5. DPO2: PA2, PA3 & PA4.
+
+20.     Under DPO1, PA3 related to the piloting of an electronic voucher (e-voucher) fertilizer subsidy
+
+program that trialed the distribution of fertilizer using e-vouchers. It also included a submission to the National
+
+Assembly of an irrigation bill supporting improved use of water resources. The use of e-vouchers was scaled
+
+up under DPO2, PA2, in terms of which the Cabinet would approve the policy for rolling out the e-voucher
+
+subsidy program.
+
+21.     Under DPO1, PA4 the Cabinet would approve the structure for the establishment of a commodities
+
+exchange. Under DPO2, this prior action would be reinforced through PA4, in terms of which the Cabinet
+
+Secretary for Finance would approve regulations that provided a framework for a commodities exchange
+
+market.
+
+22.     Under DPO1, PA5 a proposed warehouse receipt system (WRS) bill would be submitted to the National
+
+Assembly that would provide a legal framework for the use of warehouse receipts to finance farmers. Under
+
+DPO2, PA3, the Cabinet would approve a policy that committed to purchases of grain for the strategic grain
+
+reserve under the WRS consistent with the Agricultural Sector Growth and Transformation Strategy. This
+
+would be stored in the warehouses of the WRS.
+
+23.       The results indicators for these prior actions were:
+
+      •   RI4: That the number of farmers benefiting from e-vouchers would be at least 150,000 by 2021;
+
+      •   RI5: That the proportion of farmers benefiting from e-vouchers who were female would be at least
+
+          50 percent by 2021;
+
+      •   RI6: That the number of licensed warehouses under the WRS that were participating in the
+
+          Commodities Exchange would be at least 16 by 2021.
+
+24.   There were no results indicators for the irrigation bill under DPO1, PA3 nor for DPO1 PA4, the legal
+
+framework for the commodities exchange market.
+
+25.       The causal links under these prior actions were as follows:
+
+      •   The PAs related to the e-voucher program, would enhance farmer incomes and food security through
+
+          expanding the number of farmers benefiting from subsidized inputs (seeds, fertilizers, training and so
+
+          on). These subsidized inputs would in turn lead to increased yields and output, ensuring increased
+
+          farmer food security and marketable surplus to enhance incomes and reduce poverty. These efforts
+
+          were to be complemented over the medium to longer term with efforts to access to irrigation and
+
+          access to markets for all farmers through support to the new Irrigation Bill and establishment of a
+
+          Warehouse Receipt System and Commodities Exchange (see Annex 1 figure 2).
+
+
+
+                                                                                                             Page 14 of 44
+
+The World Bank
+
+Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+
+
+PDO3/Pillar 3: Create Fiscal Space and Crowd in the Private Sector to Advance the Government’s Inclusive
+
+Growth Agenda
+
+DPO1: PA7 & PA8. DPO2: PA5, PA6, & PA7
+
+26.     Under DPO1 PA7, value added tax (VAT) exemptions were rationalized through the passage by
+
+Parliament of the Finance Act 2018, which contained a provision for the removal of VAT exemptions on
+
+petroleum products and through the adoption of a governance framework that limited the number of tax
+
+exemptions that were granted to arrest the decline in VAT tax revenues. Under DPO2, PA5 an additional
+
+measure to reverse the decline in tax revenues was promoted by the Cabinet approving for submission to
+
+Parliament the Income tax bill 2019 that also limited the number of tax income exemptions.
+
+27.     DPO1 PA8 addressed corruption issues by establishing procedures for the investigation of collusive
+
+behavior in public procurement bids. It also provided for the verification and reconciliation of external debt
+
+records in order to improve the accuracy of Kenya’s electronic debt registry. DPO2 PA6 increased the
+
+transparency of public procurement through publishing online, details of contracts and tenders, including
+
+tender documents. It also would publish details of companies that had been awarded tenders as well as the
+
+names of the directors of the companies. The Cabinet also approved under this PA new regulations that
+
+allowed for standard bidding documents to be revised in order to provide greater details on bidders.
+
+Parliament also enacted the Competition Amendment Act that included penalties for collusive behavior with
+
+respect to public procurement. DPO2 PA7 contained a provision for Cabinet approval of the Debt and
+
+Borrowing Policy that allowed for the Central Bank to launch the Treasury Mobile Direct System which
+
+provided for institutional and retail investors to participate through an electronic online platform in the
+
+issuance of government securities that would enhance the transparency and efficiency of this market.
+
+28.       The results indicators were:
+
+      •   RI7: That VAT and income tax revenues as a share of GDP would increase from 11.4 percent in
+
+          FY2017 to 12.1 percent in FY2021.
+
+      •   RI8: That the cumulative value of government procurement contracts published through the online
+
+          procurement portal would amount to Ksh 600 billion.
+
+      •   RI9: That the number of investigations related to bid rigging would be at least five by 2021.
+
+      •   RI10: That the debt service ratio as a percent of GDP would decline to 3.9 percent by 2021.
+
+      •   RI11: That the share of government securities transacted through the electronic platform would be
+
+          at least 70 percent by 2021.
+
+29.       The causal links between the prior actions and the results indicators was as follows:
+
+      •   The transparency of procurement processes would be enhanced through publishing procurement
+
+          contracts online. The causal link for this PA is plausible. The more transparency regarding
+
+          procurement, the less the opportunity for corruption, particularly since the names of winning bidders
+
+          would be published.
+
+      •   Bid rigging and corruption would be reduced by investigating potential rigging of bids. Such
+
+          investigations, particularly if published, provides a disincentive for collusion among procurement
+
+          bidders. The link is plausible.
+
+      •   Fiscal space was to improve through increased revenue mobilization and improvements in the
+
+          efficiency of expenditures. Domestic revenue mobilization was supported through rationalization of
+
+          tax expenditures and the introduction of VAT on petroleum products. Expenditure management was
+
+          to be supported through containing the rise in the cost of debt servicing through an improved policy
+
+          framework as well as enhancing efficiency in the procurement of domestic debt through the
+
+
+
+                                                                                                          Page 15 of 44
+
+The World Bank
+
+Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+
+
+          development of a platform that allowed both non-bank institutional and retail investors in the
+
+          domestic debt market to place bids in the primary auction market electronically. Expenditure
+
+          management was also further supported through procurement reforms that both increased
+
+          transparency and deterred malpractices in government procurement.
+
+30.       Under this pillar, the causal chain relating PAs to the achievement of the PDO is clear, since increased
+
+revenue, better debt management, and a reduction in collusive bidding could all increase fiscal space. Further,
+
+improving of the fiscal space is expected to enable the government to be in a better position to address its
+
+inclusive growth agenda (see Annex 1 figure 3). Further, increased fiscal space would reduce the government’s
+
+financing needs and thus ability to crowd out the private sector, thereby complementing reform efforts in
+
+pillar 4.
+
+
+
+PDO4/Pillar 4. Crowd in Private Investment and Leverage Digitization to Support the Government’s
+
+Inclusive Growth Agenda
+
+DPO1: PA9. DPO2: PA8 & PA9
+
+31.    Under DPO1 PA8 was approval by the Cabinet Secretary of ICT of a Broadband Strategy that would
+
+crowd in private investment through expanding broadband access and improve on public service delivery
+
+through support to the establishment of a National Integrated Identity Management System.
+
+32.      Under DPO2, PA8 consisted of Parliament repealing section 33B of the Banking Act, thereby removing
+
+the interest rate cap on bank lending. Under DPO2 PA9, the Cabinet would approve the Kenya Investment
+
+Policy that simplified investor entry and retention. In addition, PA9 included the Ministry of Industrialization,
+
+Trade and Enterprise Development approving Special Economic Zones Regulations that allowed for the
+
+implementation of the Special Economic Zones Act. Further action under PA9 consisted of amendments to
+
+the Companies Act that required companies to keep a registry of beneficial owners.
+
+33.       The results indicators for pillar 4 were:
+
+      •   RI12: That credit to the private sector would increase by 14 percent in 2021 compared with a baseline
+
+          of an increase of 2.8 percent during 2017.
+
+      •   RI13: That the number of investment projects registered by Kenya Investment Authority would
+
+          increase from a baseline of 37 in 2017 to a target of 55 by 2021.
+
+      •   RI14: That the value of capital investments registered by the Kenya Investment Authority would
+
+          increase from KES 13.5 billion in 2017 to a target of KES 20 billion by 2021.
+
+34.     Regarding DPO1, PA9: There was no results indicator that measured the effect of digitization through
+
+assigning digital identifiers to all persons in Kenya.
+
+35.      The causal chain between DPO2 PA8 and RI12 reflects the inability of the banks to price on a risk
+
+adjusted basis prior to this DPO due in part to the cap on interest rates. Many factors influence both the supply
+
+and demand for credit, and while lifting the interest rate cap would increase credit supply, the actual increase
+
+in private sector credit is also a function of several other factors on the demand side, including the strength
+
+of economic activity. Nonetheless, the interest rate cap was a major constraint for the supply of credit during
+
+the period of the cap. The increased availability of credit to the private sector would then help augment the
+
+available pool of investable funds thus contributing to the overall objective of crowding in private investment.
+
+36.     Beyond crowding in private investment through improvements to credit to the private sector, the
+
+intervention logic was also to improve the business and regulatory environment that would stimulate
+
+private investment. Measures to improve the business and regulatory environment included a new Broad
+
+Band Strategy (DPO1 PA8), approval of the Kenya Investment Policy, Special Economic Zones regulations and
+
+
+
+                                                                                                            Page 16 of 44
+
+   The World Bank
+
+   Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+
+
+   amendments to the Company Act in support of greater transparency (DPO2 PA9).
+
+   37.     RI13, the results indicator for DPO2 PA9 was that the value of capital investment projects registered
+
+   by the Kenya Investment Authority would increase from KES 13.5 billion in 2017 to KES 20 billion in 2021.
+
+   The causal chain connecting the prior action and the results indicator was that the legal clarity being brought
+
+   through the regulations on the Special Economic Zones would promote additional investment.
+
+   38.     The satisfactory rating is based on almost all prior actions having a direct link to the achievement
+
+   of the PDOs (see Annex 1 figure 4). The PAs addressed many of the constraints that were identified in
+
+   analytical work and in the DPO documents.
+
+   39.    The DPO Series and the IMF Extended Fund Facility and Extended Credit Facility. The prior actions
+
+   under the DPO series aligned with many of the priorities of the IMF lending facilities. 5 The IMF program
+
+   (approved in April 2021) focused on addressing debt vulnerabilities, providing support for the response to the
+
+   COVID-19 pandemic and enhancing governance. The program centered on increasing tax revenue (aligning
+
+   with DPO1 PA7 and DPO2 PA5); combatting corruption (DPO1 PA8 and DPO2 PA6), promoting digitization
+
+   (DPO1 PA9) and eliminating the interest rate cap (DPO2 PA 8).
+
+
+
+B. Achievement of Objectives (Efficacy)
+
+Rating: Satisfactory
+
+   40.     Efficacy is rated satisfactory on the grounds that the PDOs were achieved with minor shortcomings.
+
+   From the outset, the program was designed to be broad, covering a wide range of issues and sectors.
+
+   Interviews with World Bank staff and Kenya government officials indicated that all aspects of the program
+
+   reflected both the country’s needs and government ownership. The program brought together several
+
+   government ministries to support aspects of the government’s Big Four agenda, under the umbrellas of the
+
+   World Bank DPO series. It should be noted that COVID-19 impacted some aspects of the program’s
+
+   implementation.
+
+       Table 3: Achievement of Results Indicators
+
+       Result Indicator                                                                              Status
+
+       PDO1/Pillar 1: Crowd in Private Investment and Financing for the Delivery                     This objective was achieved
+
+       of Affordable Housing
+
+       RI1: The number of affordable housing units constructed with private                          Fully Achieved
+
+       investment
+
+       RI2: Proportion of affordable housing units constructed with private                          Substantially achieved
+
+       investment under the government supported affordable homes program
+
+       owned by women
+
+       RI3: Number of private sector shareholders in KMRC.                                           Fully Achieved
+
+       PDO2/Pillar 2: Enhance Farmers Income and Food Security                                       This objective was achieved
+
+       RI4: Number of farmers benefitting from e-vouchers                                            Fully Achieved
+
+       RI5: Proportion of farmers benefitting from e-vouchers who are female                         Fully Achieved
+
+       RI6: Number of licensed warehouses under the WRS participating in the                         Partially achieved
+
+
+
+
+
+   5In April 2021, the IMF Executive Board approved 38-month arrangements under the Extended Credit Facility and the Extended Fund
+
+   Facility, amounting to a total of US$2.34 billion equivalent. IMF. 2021. Article IV Consultation; Second Review Under the Extended Fund
+
+   Facility and Under the Arrangement Under the Extended Credit Facility; And Requests for Modifications of Performance Criteria and
+
+   Structural Conditionality. Washington. DC.
+
+
+
+                                                                                                                                   Page 17 of 44
+
+The World Bank
+
+Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+
+
+    Commodities Exchange
+
+    PDO3/Pillar 3: Create Fiscal Space and Crowd in the Private Sector to        This objective was
+
+    Advance the Government’s Inclusive Growth Agenda                             achieved, when taking into
+
+                                                                                 account COVID-19 induced
+
+                                                                                 challenges on economic
+
+                                                                                 activity.
+
+    RI7: VAT and income tax revenues as a share of GDP.                          Partially Achieved
+
+    RI8: Cumulative value of government procurement contracts published on       Substantially Achieved
+
+    online procurement portal
+
+    RI9: Number of investigations related to bid rigging undertaken jointly by   Fully Achieved
+
+    CAK and PPRA
+
+    RI10: Debt service ratio (percent of GDP)                                    Partially achieved (COVID-
+
+                                                                                 19-affected)
+
+    RI11: Share of government securities transacted on electronic platform       Fully Achieved
+
+    PDO4/Pillar 4: Crowd in Private Investment and Leverage Digitization to      This objective was achieved
+
+    Support the Government’s Inclusive Growth Agenda
+
+    RI12: Average credit growth to the private sector                            Substantially Achieved
+
+    RI13: Number of investment projects registered by Kenya Investment           Fully Achieved
+
+    Authority
+
+    RI14: Value of capital Investments registered by Kenya investment            Fully Achieved
+
+    Authority
+
+41.      Table 3 summarizes the results indicators and their outcomes. Of the 14 results indicators, 6 eight
+
+were fully achieved, three were substantially achieved, and three were partially achieved. On the basis that
+
+all objectives were achieved with minor shortcomings, efficacy is rated as satisfactory.
+
+
+
+PDO1/Pillar 1. Crowding in Private Investment for the Delivery of Affordable Housing.
+
+Measured by RI1 (Fully achieved), RI2 (Substantially achieved) and RI3 (Fully Achieved).
+
+42.     DPO1 PA1 and DPO2 PA2 were directed at amending legislation and regulations to make it easier
+
+to construct multi-dwelling housing units. The indicator was that by 2021 20,000 affordable housing units
+
+would be constructed with private investment under the government affordable housing program. Data from
+
+programs supported under the State Department of Housing and Urban Development and those registered
+
+with the National Construction Authority show that at least 20,300 were completed with several more under
+
+various stages of completion.
+
+43.     Completed construction monitored by both the State Department for Housing and Urban
+
+Development (5,106) and the National Construction Authority (15,300) amounted to over 20,000 affordable
+
+houses constructed by the private sector. Notwithstanding the dampening effect of COVID-19 on the overall
+
+construction activities, progress continues. Besides the completed construction units, some 41,000 affordable
+
+housing units are under construction by the private sector that are benefitting from various government
+
+incentives (for example, tax breaks), of which 85 percent (35,097) are scheduled to be completed by
+
+December 2022. Further, there are about 136,742 units in the pipeline and consistent with the objective of
+
+crowding in private investment for the delivery of affordable housing, the affordable housing project has
+
+received US$2.9 billion in offer letters from seven local banks. Against this backdrop, this results indicator
+
+
+
+6   See Table 2 for a complete description of PAs and RIs.
+
+
+
+                                                                                                          Page 18 of 44
+
+The World Bank
+
+Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+
+
+(RI1) is rated as fully achieved. Available information from the government’s affordable housing program
+
+(AHP) shows a strong uptake by women; 46 percent of those registered to benefit from the AHP program are
+
+women (this excludes couples jointly contributing). Consistent with the randomized balloting allocation
+
+system adopted for allocation of completed units to registrants on the waiting list, the share of completed
+
+AHP units allocated to individual women was 46 percent, rendering the results indicator for gender parity
+
+(RI2) substantially achieved.
+
+44.      DPO1 PA2 related to the financing of housing construction by empowering the Central Bank of
+
+Kenya to exercise regulatory authority over entities that increased the liquidity of the mortgage market
+
+through refinancing mortgages. A major constraint hindering the provision of housing, particularly affordable
+
+housing for poorer and middle-class citizens, was the lack of mortgage lending which was funded almost
+
+completely by financial institutions’ short-term deposits. The result was short-term mortgages and high
+
+interest rates which were generally only accessible by higher income groups. The prior action provided the
+
+legal and regulatory framework for the establishment of the KMRC, and it was expected, initially, that there
+
+would be at least six institutional investors in the KMRC. Under DPO2, the target for the number of
+
+institutional investors was increased to 15. This was exceeded and by 2021 there were 20 institutional
+
+investors. The success of this results indicator (RI3) also reflects the complementarity between the DPO series
+
+and the ongoing World Bank project, 7 which supported the establishment of the KMRC. KMRC has since its
+
+establishment, successfully issued a bond for the amount of US$13 million that was five times oversubscribed.
+
+This will provide initial liquidity, with the prospects for substantially more, further promoting private sector
+
+involvement in affordable housing.
+
+
+
+PDO2/Pillar 2: Enhance Farmers’ Incomes and Food Security
+
+Measured by RI4 (Fully Achieved), RI5 (Fully Achieved) and RI6 (Partially achieved).
+
+45.       DPO1 PA3 and DPO2 PA2 were aimed at improving access and distribution of fertilizer through the
+
+e-voucher program. Directly and indirectly, agriculture constitutes over 50 percent of Kenya’s GDP as well as
+
+about 60 percent of employment (including subsistence employment) and 65 percent of Kenya’s exports.
+
+Improving productivity in the sector represents one of the most effective channels to alleviate poverty. It is
+
+also a key to improving the country’s food security. Two of the PAs under this pillar introduced a new
+
+mechanism for distributing subsidized fertilizer. Analysis of the untargeted fertilizer subsidy program
+
+indicated that not only was it inefficient in terms of cost, it also primarily benefitted medium and large-scale
+
+farmers. Furthermore, procurement of fertilizer was largely undertaken by the government that led to a
+
+number of problems including delayed distribution, inappropriate types of fertilizer, and rent seeking. The e-
+
+fertilizer system involved the electronic distribution of vouchers to targeted groups of farmers, primarily those
+
+with small scale operations and women farmers, that allowed them to purchase fertilizer from suppliers of
+
+their choice. PA3 under DPO1 piloted this program in four counties involving 20,000 farmers, while PA2 under
+
+DPO2 rolled out the program to a much larger group across the entire country, with a target of reaching
+
+150,000 farmers (RI4). This target was exceeded by over 10 percent by 2021. Furthermore, the target of
+
+ensuring that at least 50 percent of the beneficiaries of the e-voucher program were female was also
+
+exceeded, with 58 percent of recipients being female by 2021 (RI5). Beyond the specific results indicators,
+
+other positive impacts of the e-voucher which support the improvement in food security to the beneficiaries
+
+include that farmers reporting productivity increases of 25 percent, thereby enabling them to sell surplus
+
+output to enhance their incomes and sustain them in between harvests.
+
+46.         DPO1 PA4 and DPO2 PA4 related to the establishment of a commodities exchange that was
+
+
+
+7   The Kenya Affordable Housing Finance Project (P165034)
+
+
+
+                                                                                                           Page 19 of 44
+
+The World Bank
+
+Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+
+
+designed to “help address inefficiencies in the supply chain resulting from limited storage capacity, lack of
+
+post-harvest services and poor access to input markets.” (Program Document for DPO2, para. 4.32) as well
+
+as connecting producers and buyers. 8 The setting up of the Commodities Exchange would require that to be
+
+licensed, warehouses would be upgraded to approved standards. DPO2 PA4 required the issuing of legislation
+
+that would provide for the licensing of the commodity exchange. There was no results indicator for this prior
+
+action and interviews with Kenya counterparts indicated that the exchange had yet to become fully
+
+operational.
+
+47.    Under DPO1, PA5 involved the introduction to the National Assembly of a bill to establish a
+
+Warehouse Receipts System (WRS) that would allow for the financing of agricultural products through using
+
+deposits in the WRS as collateral for financing farmers’ activities in the sector. Since the prior action of
+
+submission of the WRS Bill supported under this operation several milestones have been recorded. Parliament
+
+enacted the WRS Bill and followed that up by passing the implementing regulations. The passing of the
+
+implementing regulations provided the formal basis for the establishment of the WRS Council (WRSC).
+
+48.      The WRSC has since been operationalized with a Board and Secretariat and commenced the process
+
+of supporting the licensing of warehouses. Since its recent establishment it has inspected 112 warehouses,
+
+and of that number it has licensed five warehouses with an extra seven expected to be licensed by end-2022,
+
+from a baseline of zero licensed warehouses. Nonetheless, this remains below the results indicator target of
+
+16 licensed warehouse. A number of factors account for the underachievement of the set targets. First, the
+
+ambition level was perhaps high, given that the WRSC institution did not exist and first needed a legal
+
+foundation to be finalized before it was set-up. Secondly, WRSC needed to be adequately resourced to carry
+
+out its functions. While the government provided resources to operationalize WRSC, more resources (from
+
+government or donors) could have helped to further strengthen this new institution. Third, since the licensing
+
+of the warehouses was dependent on interest from the private sector to the extent the private sector was
+
+hesitant to refurbish warehouses to the standard that would allow them to be licensed this impacted on the
+
+overall number of licenses issued. Reasons for hesitancy from the private sector included not only the
+
+dampening impact of COVID-19 on overall business investments, but also the fact that the Commodities
+
+exchange had not yet been operationalized. Against this backdrop and the expected achievement of 12
+
+licensed warehouses, this results achievement is rated as partially achieved. Beyond the licensing of
+
+warehouses results indicator, the WRSC has been working with communities to bring in smaller warehouses
+
+that are unable to qualify under the strict licensing requirements to act as aggregation centers for licensed
+
+warehouses. This will serve to further strengthen the linkages between smaller farmers and licensed
+
+warehouses.
+
+
+
+PDO3/Pillar 3: Create Fiscal Space and Crowd in the Private Sector to Advance the Government’s Inclusive
+
+Growth Agenda:
+
+Measured by RI7 (Partially Achieved), RI8 (Substantially Achieved), RI9 (Fully Achieved), RI10 (Substantially
+
+Achieved) and RI11 (Fully Achieved):
+
+49.    DPO1 PA7 and DPO2 PA5 were directed at increasing the amount of taxation raised by VAT and the
+
+income tax by reducing the number of exemptions and strengthening the governance framework in terms
+
+of which tax exemptions are granted. Overall, income tax and VAT form the largest component of
+
+government revenue amounting to between 60-70 percent. Measures supported under this operation were
+
+expected to lead to an increase in tax from VAT and CIT by an additional 0.8 percentage points of GDP.
+
+
+
+8Technical Assistance provided by the IFC to the State Department of Trade was to assist with the establishment of the Commodities
+
+Exchange.
+
+
+
+                                                                                                                            Page 20 of 44
+
+The World Bank
+
+Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+
+
+50.      Notwithstanding COVID-19, substantial progress has been made in domestic revenue mobilization.
+
+This reflects the adverse impact of COVID-19 on economic activity and revenue collections, as well as fiscal
+
+stimulus through temporary tax relief to companies and households. However, tax revenues are on the rise
+
+again, due to the subsequent rebound in economic activity and the tax measures (rationalization of the
+
+removal of tax exemptions) supported under this operation. Whilst the aggregate indicator of tax -to-GDP was
+
+impacted by the downturn in the overall economy and revenues due to COVID-19, estimates from the National
+
+Treasury point to specific positive results from the tax measures supported under this operation. Specifically,
+
+the VAT on petroleum products alone (newly enabled under the legislation) is yielding 0.2 percent of GDP in
+
+additional revenue and the rationalization of tax expenditures [PA 7(ii)] has resulted in a 2.2 percent of GDP
+
+reduction in tax expenditures (exemptions granted on corporate income tax and VAT). The latest numbers
+
+from National Treasury show that overall revenue performance in FY21/22 reached 17.5 percent of GDP,
+
+exceeding the target of 16.8 percent of GDP and the FY20/21 and FY19/20 levels of 16 and 16.9 percent of
+
+GDP respectively. Of the total increase of 1.4 percent of GDP in revenues between FY20/21 and FY21/22, 1.1
+
+percent of GDP increase in revenues was from VAT and income tax revenue brackets (both of which were
+
+supported by the tax measures under the operation). Going forward, estimates from the fiscal program agreed
+
+with the IMF program that tax revenues are expected to reach 18.2 percent of GDP by FY23, with the bulk of
+
+that increase coming from VAT and corporate income tax (CIT). Against this backdrop and factoring the impact
+
+of COVID-19 and the current ongoing momentum of higher revenues this results indicator (RI7) is rated as
+
+partially achieved. The progress made in improving domestic revenue mobilization has helped mitigate some
+
+of the fiscal pressures Kenya faced post-COVID-19 including the drought affecting the Horn of Africa as well
+
+as from the higher commodity prices (fuel, fertilizers, wheat) triggered by the ongoing Russia-Ukraine war.
+
+51.     DPO1 PA8 and DPO2 PA6 comprised measures to reduce collusive bidding on government contracts,
+
+to provide details through an online portal that publishes tender documents, as well as providing for
+
+penalties for collusive behavior. RI8 and RI9 measured the value of government procurement contracts
+
+published through the portal and the number of bid rigging investigations. From a base of zero the actual
+
+cumulative 2021 value of contracts published amounted to KES 480 billion, less than the target but still a
+
+substantial achievement (RI8). Consultations indicated that implementation challenges still being addressed
+
+include inadequate space on National Treasury servers, an ongoing need for further dissemination to
+
+procuring entities that will improve the uptake and usage of the portal, and a need for more detailed status
+
+reports on government entities complying with the requirement to publish procurement contracts.
+
+52.     DPO1 PA8 comprised measures to reduce collusive bidding on government contracts. In this regard,
+
+the number of investigations related to bid rigging rose to seven (from a baseline of zero), thereby exceeding
+
+the target of five (RI9). These investigations provide a substantial disincentive to collusive behavior.
+
+53.      With regard to the debt and borrowing policy (PA7), efforts to reduce debt service were overtaken
+
+by the pandemic’s negative fiscal and growth impacts. The fiscal consolidation efforts that had begun prior
+
+to the onset of COVID-19 (see Kenya Economic Update, April 2020) were paused given the necessity of
+
+counter-cyclical fiscal policy, resulting in higher deficits on account of increased health expenditures and
+
+cushioning impact on households, as well as from a significant initial decline in revenues. Consequently, debt
+
+servicing charges, which had been expected to decline, continued their upward trend due to the increase in
+
+the primary deficit. However, with the abatement in the effects of COVID-19, the government is returning to
+
+a fiscal consolidation pathway. The FY23 Budget aims to reduce the fiscal deficit to 6.0 percent, from 7.8 of
+
+GDP (preliminary) in the prior fiscal year. In the medium-term, this will narrow further under the IMF-
+
+supported medium-term budget strategy, to 4.3 percent of GDP by FY2023/24 through a balanced mix of
+
+expenditure restraint and revenue enhancement.
+
+
+
+
+
+
+
+                                                                                                          Page 21 of 44
+
+The World Bank
+
+Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+
+
+54.      The DPO prior action (approval of the Debt and Borrowing Policy) has helped to lay the foundations
+
+in supporting fiscal consolidation as well as improving debt dynamics over the medium term. An important
+
+principle in the policy is the prioritization of concessional financing over the more costly commercial sources.
+
+Since the approval of the Debt and Borrowing Policy and the strengthening of the Public Debt Management
+
+Office (with support from the World Bank) the share of debt owed to commercial sources resources has
+
+declined from a peak share of 35.6 percent in 2019 to 28.8 percent in 2021, whereas the share from
+
+multilateral concessional sources has increased from 31.8 percent to 43.2 percent, consequently debt service
+
+costs have declined. Indeed, between June 2020 to June 2021 the weighted average interest rate of the debt
+
+stock (domestic and external) was lowered from 9.1 percent to 6.9 percent, mostly on account of the increase
+
+in share of external borrowing from concessional sources. The lower interest costs translate to a saving of
+
+some US$1.5 billion in debt servicing every year, thereby enhancing fiscal space. Nonetheless, due to the high
+
+and rising stock of debt due to ongoing elevated primary deficits (since COVID-19 interrupted the fiscal
+
+consolidation plan) overall debt service rose to 4.6 percent of GDP in 2021, but is however projected to decline
+
+post-COVID-19 to 4.3 percent by 2026. This is being further supported through the Government of Kenya
+
+(GoK) program with the IMF. Overall, considering how the pandemic interrupted the fiscal consolidation
+
+efforts that were underway, the recent resumption in fiscal tightening, coupled with the medium-term impact
+
+of the pivot to borrowing from more concessional sources, this PA is rated as partially achieved.
+
+55.     Further measures under this PA related to the Central Bank of Kenya launching its Treasury Mobile
+
+Direct System allowing for institutional and retail investors participating through an electronic platform in
+
+the issuance of government securities. From a baseline of zero in 2017 by 2021, 80.7 percent of government
+
+security transactions took place through the electronic platform. This had the effect of making the financial
+
+market in government securities more efficient for retail purchasers in the primary market.
+
+
+
+PDO4/Pillar 4. Crowd in Private Investment and Leverage Digitization to Support the Government’s
+
+Inclusive Growth Agenda
+
+Measured by RI12 (Substantially Achieved), RI13 (Fully Achieved) and RI14 (Fully Achieved)
+
+56.      DPO2 PA8 involved the repeal of the interest rate cap, an important reform to reduce distortions in
+
+the credit market. Interest rate caps can result in severe financial repression, discourage investment, and
+
+damage financial market development. They particularly impact smaller businesses and more risky investment
+
+projects negatively, because the cap does not allow for an incorporation of risk premiums into the interest
+
+rates charged. This reform was measured by RI12. Evidence of the positive effects of the repeal of the cap on
+
+interest rate was the upward trend in the growth of credit to the private sector. Compared to an average
+
+credit growth of 2.6 percent (baseline), the removal of the cap has led to a rise in private sector credit growth,
+
+notwithstanding the dampening effect of COVID-19. By end 2021, private sector credit growth had reached 8
+
+percent and has continued rising since, reaching 11.5 percent by April 2022. This translates into a monthly
+
+injection of US$2.64 billion to the private sector from the commercial banks compared to an injection of less
+
+than US$550 million during the period of the interest rate cap. Though still below the results indicator target
+
+of 14 percent this in part due to the drag from the impact COVID-19 had on business sentiment and risk
+
+aversion from banks. However, the rise in private sector credit growth is expected to continue in its
+
+rebounding pathway with the ongoing recovery in economic activity, hence the rating of substantially
+
+achieved.
+
+57.      RI13 and RI14 measured the number of investment projects registered by the Kenya investment
+
+authority and the value of capital investments registered by the Kenya investment authority. These results
+
+indicators measured the impact of DPO2 PA 9, which consisted of Cabinet approval of the Kenya Investment
+
+Policy, which aimed at simplifying investor entry and retention; the establishment of Special Economic Zones
+
+
+
+                                                                                                            Page 22 of 44
+
+    The World Bank
+
+    Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+
+
+   in terms of the Special Economic Zones Act; and the enactment of amendments to the Companies Act that
+
+   require companies to keep a register of beneficial owners. Both RI13 and RI14 were achieved. The number of
+
+   investment projects increased from a baseline of 37 in 2017 to an actual number of 195 in 2021 compared
+
+   with a target of 55. The value of capital investments registered increased from a baseline of KES 13.5 billion
+
+   in 2017 to KES 56.32 billion in 2021 against a target of KES 20 billion. In March 2022, the pharmaceutical
+
+   company Moderna announced a KES 55 billion (US$500 million) facility to be setup in one of the Special
+
+   Economic Zones.
+
+
+
+C. Overall Outcome Rating and Justification
+
+
+
+Rating: Satisfactory
+
+   58.     The overall outcome rating of this DPO series is derived through a combination of the rating of the
+
+   relevance of prior actions, rated satisfactory, and the rating of efficacy in achieving the development
+
+   objectives, rated satisfactory.
+
+   59.     This series was the first Development Policy Financing (DPF) Operation in Kenya for more than a
+
+   decade. 9 The appetite for reform in Kenya increased when a new government came to office in 2017. It
+
+   developed its Big Four agenda that became the focal point of the dialogue with the World Bank Group. The
+
+   dialogue between the World Bank and the government enabled the pent-up demand for policy reform to be
+
+   translated into policy actions that spanned a broad range of objectives.
+
+   60.         The success of the program rested on:
+
+          •    The commitment of the government to the Big Four agenda as reflected in its strong appetite for
+
+               reform.
+
+          •    The leadership role of the National Treasury in playing an excellent coordinating role within
+
+               government to ensure reforms were completed on time.
+
+          •    Productive dialogue between the World Bank task team leaders and respective line ministries and
+
+               State Departments and Agencies.
+
+          •    Strong extensive analytical work on several of the prior actions.
+
+          •    The existence of complementary investment performance financing (IPF) and program for results
+
+               (PforR) operations.
+
+   61.     An additional strength of the program lay in the breadth of reforms that it encompassed. This
+
+   reflected reform ambition over several sectors to address shortcomings in the existing policy framework, as
+
+   well as bottlenecks and distortions in the economy. Prior actions involved housing, agriculture, tax issues,
+
+   financial sector issues, procurement, debt management, information and communication technology,
+
+   investment policy and special economic zones. The range of prior actions in the program addressed many of
+
+   the constraints in the economy and were generally well designed and innovative in a number of areas. Given
+
+   the significant number of government agencies, and the design and implementation complexities, that were
+
+   involved, the development under the program of strong coordination mechanisms was critical to its success.
+
+   62.     The results indicators were in many cases adequate measures of how the prior actions moved the
+
+   results chain towards achieving the development objectives. However, in other cases they were less than
+
+   adequate, particularly when indicators involved variables that were impacted by factors outside of the
+
+   program scope. This applied especially to indicators consisting of ratios that involved aggregate variables such
+
+   as GDP. More focused design of indicators could have eliminated this issue.
+
+
+
+   9   Efforts to undertake a prior DPO in 2016 failed because of a lack of commitment on the part of the Government of Kenya.
+
+
+
+                                                                                                                                 Page 23 of 44
+
+         The World Bank
+
+         Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+
+
+II.     OTHER OUTCOMES AND IMPACTS
+
+
+
+ A. Poverty, Gender and Social Impacts
+
+        63.     Pillar one focused on providing affordable housing to low- and middle-income recipients. It simplified
+
+        the significant number of regulations associated with the construction of multi-story buildings both through
+
+        allowing for individual titling of units as well as changing restrictive zoning laws in high-density areas. The
+
+        focus of the prior actions was to increase the number of affordable housing units as well as increasing the
+
+        number of affordable dwellings owned by women. It achieved this by supporting the increase in affordable
+
+        housing units to households by some 20,000 units of which almost half of them benefitted women.
+
+        64.       Pillar two also had substantial components for reducing poverty and achieving equitable gender
+
+        outcomes. Over 165,000 farmers benefitted from the e-voucher scheme. Studies carried out by the Ministry
+
+        of Agriculture show that on average productivity increased by some 25 percent for beneficiaries under the e-
+
+        voucher. This has enhanced food security to beneficiaries as many smallholder farmers achieved food self-
+
+        sufficiency at the household level, freeing them from the need to buy maize and other cereals, and having the
+
+        ability to sell surplus product to the market thus enabling them to also increase their incomes (see Box below).
+
+        On gender, the majority of the e-voucher beneficiaries (58 percent) were women.
+
+
+
+
+
+                                          Box: Case Studies on e-Voucher Reform Impacts
+
+         Victoria Muteti, a 44-year old farmer living in Kenya’s Makueni County, has many reasons to be satisfied. In
+
+         January 2020, she was able to harvest more than 2,500 kilograms (kg) of sorghum from her 2.5-acre farm –
+
+         far more than the 1,000 kg she harvested in 2019. Her production of green grams rose too, from 316 kg in
+
+         2019 to 360 kg this January. In the previous year, she’d harvested only 90 kg of each. Most recently, she
+
+         was able to sell part of her harvest, earning about US$800. ….Victoria owes these successes to her
+
+         participation in an e-voucher initiative.
+
+         Ms. Felister Nyaga Wangari is a small scale farmer who is a youth. She comes from Embu County, she used
+
+         to farm sorghum using the local recycled variety without use of improved inputs resulting in low yields
+
+         hence low income for her household. With the introduction of the Programme in her area and being a
+
+         beneficiary of the programme she has adopted use of improved agricultural technologies resulting in the
+
+         increase of her yield from less than three bags per acre. She is now able to harvest over eight bags which
+
+         she has been able to sell at an improved price of KES 33 per kilogram from the earlier price of KES 24.
+
+         Sources: https://www.ifad.org/en/web/latest/-/story/before-and-during-covid-19-an-e-voucher-initiative-makes-a-difference-for-
+
+         kenyan-farmers.
+
+         https://ruralsolutionsportal.org/documents/39567405/0/Success+Stories+from+the+Counties.pdf/362faa23-47eb-4578-a288-
+
+         d328e2d5eac8?t=1510234423000
+
+
+
+
+
+
+
+
+
+      B. Environmental, Forests, and Natural Resource Aspects
+
+
+
+        65.       The program had no environmental impacts on forests and natural resources.
+
+
+
+
+
+
+
+
+
+                                                                                                                                   Page 24 of 44
+
+    The World Bank
+
+    Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+
+
+ C. Institutional Change/Strengthening
+
+
+
+    66.     Strengthening institutions was an important focus of this DPO series. Governance in the agricultural
+
+    sector was strengthened through the e-voucher system. The institutional and legal foundation was created
+
+    for the warehouse receipts system. The institutional framework for improved procurement has been
+
+    established through the electronic procurement portal and an improved system to support the distribution of
+
+    assistance has been created.
+
+D. Other Unintended Outcomes and Impacts
+
+    67.      There were no unintended outcomes or impacts.
+
+
+
+
+
+III. BANK PERFORMANCE
+
+
+
+ Rating: Satisfactory
+
+
+
+ Preparation:
+
+    68.     The design of the series was well grounded in analytical work. The two operations benefitted from
+
+    a substantial number of economic and advisory services, both through the World Bank and the International
+
+    Finance Corporation (IFC). There was extensive consultation with the government, development partners, the
+
+    private sector, and with civil society. A noteworthy feature of World Bank performance was that it responded
+
+    to the government’s strong appetite for reform following the development of its medium-term reform
+
+    program, otherwise known as the ”Big Four” agenda that aimed to raise the economic growth rate and to
+
+    make the economy more inclusive. The goals of the DPO series were designed to be aligned to the
+
+    government’s priorities.
+
+    69.      The program also demonstrated that the World Bank team was willing to be ambitious and embrace
+
+    risk, leveraging the strong reform appetite on the part of the government. The extensive breadth of the
+
+    program involved both challenges and opportunities to push boundaries at both the design and
+
+    implementation phases.
+
+    70.     In general, the design of the program was sound, although the causal chain between a few PAs and
+
+    the results indicators could have been strengthened. This was perhaps inevitable given the breadth of the
+
+    program. The operation complemented five other World Bank investment operations that also supported the
+
+    Big Four agenda. 10
+
+ Implementation
+
+    71.      The implementation of the operation, which was supported by advisory services and technical
+
+    assistance, contributed towards the program meeting its goals. The series showed a high degree of
+
+    adaptability in response to the onset of COVID-19. However, the pandemic delayed achievement of a number
+
+    of results indicators. The supervision of the operation was supported strongly by World Bank staff in the field
+
+    and Global Practices.
+
+
+
+
+
+
+
+    10 These were: the Kenya Affordable Housing Finance Project (P165034), the Kenya Climate Smart Agriculture Project (P153349), the
+
+
+
+    National Agriculture and Inclusive Growth Project (P153349), the Marine Fisheries and Socio-economic Development Project
+
+    (P163980), and the Governance for Improved Service Delivery Project (P161387).
+
+
+
+                                                                                                                               Page 25 of 44
+
+       The World Bank
+
+       Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+
+
+IV. RISK TO SUSTAINABILITY OF DEVELOPMENT OUTCOMES
+
+
+
+       72.      The risk rating in the program documents changed between the first and second operations of the
+
+       series. The first operation rated the overall program risk as moderate based on the strong commitment of the
+
+       government of Kenya to pursuing reform activities as part of its "Big Four" agenda. Nonetheless, key risks
+
+       identified included:
+
+       •   The interest rate ceiling that resulted in the rationing of lending and the fact that interest rates could
+
+           not reflect lending risk. As discussed above, following the removal of the interest rate caps as a prior
+
+           action of the second operation, and as the pandemic recovery has continued, credit pricing has been able
+
+           to adjust and credit growth has increased.
+
+       •   The first operation also rated political and government risk as substantial due to governance and
+
+           political economy concerns potentially opposition to some of the reforms and thereby undermining its
+
+           intended benefits. In the event, the government continued to display an appetite for policy reforms and
+
+           implementation, as demonstrated by the results achieved in the program so far and the additional
+
+           reforms which were undertaken, supported by the subsequent DPO series. This continuing reform
+
+           momentum is positive for the likely sustainability of outcomes.
+
+       •   The second operation increased the rating of program risk to substantial based on the economy- wide
+
+           effects of the COVID-19 pandemic. This constituted the most significant risk that had the potential to
+
+           undermine the attainment of the program's objectives because of its negative impact on economic
+
+           growth. Looking back, the pandemic did have severe, adverse impacts on lives and livelihoods in Kenya,
+
+           as elsewhere, and some of its likely long-term consequences are not yet known (for example, from the
+
+           disruption to education). However, at the time of this ICR assessment, the economy as a whole has staged
+
+           a strong recovery, helping to buttress the likely sustainability of the program outcomes.
+
+
+
+
+
+V.     LESSONS AND NEXT PHASE
+
+
+
+     A. Lessons Learned
+
+
+
+       73.     Until the commencement of the Kenya Inclusive Growth and Fiscal Management DPO series, the first
+
+       of which was approved in June 2019, the last successful GoK budget support operation approved by the World
+
+       Bank was in 2001, indicating a hiatus of some 18 years for which the World Bank had not engaged with the
+
+       GoK using the DPF instrument. Against this backdrop, the lessons learnt captured in this ICR include those
+
+       from the process of successfully re-engaging with the GoK using the DPF instrument as well as from the design
+
+       and implementation of this specific DPF series.
+
+       Lessons Learned from the Process of Re-engaging with the GoK using the DPF instrument
+
+       74.     The need to ensure a triumvirate of support among key stakeholders including strong buy-in from
+
+       higher level decision makers in government, strong senior management support at the World Bank, and
+
+       support from Development Partners. Any Development Financing Operation in Kenya missing one of these
+
+       elements is unlikely to succeed. Indeed, three development policy financing operations were attempted
+
+       between 2001 and 2016, however each of these operations was discontinued due to lack of strong support
+
+       from at least one key stakeholder.
+
+       75.     The success of the process for the Kenya Inclusive Growth and Fiscal Management DPO, reflects a
+
+       confluence of aligned interest and strong stakeholder engagement. The process of aligned interest is
+
+       discussed in detail below:
+
+
+
+
+
+                                                                                                                Page 26 of 44
+
+The World Bank
+
+Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+
+
+    •   First, by-end 2017, after the conclusion of the elections, the new administration articulated a very
+
+        clear and ambitious inclusive growth agenda – the Big Four – seeking to prioritize food security and
+
+        nutrition, provide universal health coverage, increase the share of manufacturing and accelerate
+
+        ownership of affordable housing. The articulation of this vision coupled with the observed strong
+
+        government appetite for reform served to galvanize the interests of various counterparts, including:
+
+        development partners (including the World Bank), private sector actors, non-governmental
+
+        organizations, and the broader civil society to identify how they could partner with the GoK to realize
+
+        these goals.
+
+    •   Second, notwithstanding the ambition and vision of the new administration, the fiscal space to pursue
+
+        an inclusive growth agenda had narrowed, revenues were perennially underperforming, while
+
+        expenditures were elevated (including from structurally rigid sources such as debt servicing due to
+
+        earlier contracting of expensive commercial debt).
+
+    •   From the World Bank’s side, while it had been successfully engaging with the GoK in several of these
+
+        areas through IPF’s, PFoRs and analytical work, there were limits in the ability of these instruments to
+
+        move the needle on systemic policy, legislative, and institutional reforms, hence the renewed interest
+
+        in using a DPF to support the GoK.
+
+    •   Further, right from conception of the DPO, the World Bank pro-actively consulted with Development
+
+        Partners in Kenya using established platforms such as the Development Partners Group – Heads of
+
+        Co-operation as well as the Development Partners Group – Heads of Missions. Furthermore, GoK
+
+        Cabinet Ministers (and on some occasions the President), took the initiative to periodically engage
+
+        with Development Partners where their interests in the use of the DPO instrument was regularly
+
+        discussed. This triumvirate of engagement ensured all stakeholders were on the same page and
+
+        enabled an alignment of interests.
+
+    •   The success of the DPF has been followed by other Development Partners carrying out their own
+
+        budget support operations (for example, African Development Bank and the European Union) with
+
+        the GoK.
+
+
+
+Lessons Learned from the Design and Implementation of the Kenya Inclusive Growth and Fiscal
+
+Management DPO
+
+76.     The importance of identifying the confluence between government priorities and those of the
+
+World Bank. This DPO series centered on areas of mutual overlap of priorities between the government
+
+agenda (the Big Four agenda and fiscal management) and World Bank priorities. Indeed, while the Big Four
+
+agenda was much broader, the World Bank DPF selected aspects of these priorities as well as on fiscal
+
+management where analytical underpinnings and competencies were available. The fact that the focus of the
+
+operation was centered on the priorities of the government ensured that there was strong buy-in from the
+
+government from the beginning which carried through in ensuring that each of the prior actions were
+
+completed.
+
+77.     The importance of strong government co-ordination role, spear-headed by the National Treasury.
+
+The prior actions supported under this operation represented a complex reform agenda given the breadth
+
+and depth of the reforms that were being implemented by at least 10 Ministries, State Departments and
+
+Agencies (MDAs). Hence, the success of this reform agenda hinged on creating a strong co-ordination
+
+mechanism. Given the strong GoK ownership of the program, the National Treasury was charged with
+
+coordinating the implementation framework, which they undertook by holding implementation progress
+
+meetings on a weekly or biweekly interval, chaired by the Principal Secretary of the National Treasury with all
+
+MDAs as well as the World Bank. This implementation framework on the prior actions worked very effectively
+
+
+
+
+
+                                                                                                          Page 27 of 44
+
+      The World Bank
+
+      Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+
+
+     for the DPF and could be a model for other countries considering an ambitious and broad DPF reform agenda.
+
+     In the case of Kenya, it helped lay the foundation for future reforms in subsequent DPF series. Further, the
+
+     platform inspired other reforms not included in the DPF policy matrix.
+
+     78.     An important factor in the successful execution of the reform program was the strong technical
+
+     capacity and reform appetite that exists among the policy making civil servant cadre in the MDAs. Kenya
+
+     has a well-educated and professional civil service with several competent policy experts. And where there was
+
+     any lacking expertise, the World Bank was able to supplement that with analytical work and technical
+
+     assistance (including from IFC). Coupled with clear appetite for reform from the administration providing
+
+     direction to civil servants, this helped laid a strong foundation for the success of the DPF series.
+
+     79.      The program illustrates the advantages of a strong analytical foundation for the choice of prior
+
+     actions and the benefits of complementary support from World Bank operations (ASA, IPFs and PFoRs).
+
+     Several of the reform areas supported by the DPF complemented existing IPFs and PFoRs that required specific
+
+     legislative or institutional reforms that would help magnify or advance aspects of these operations. These
+
+     included the Mortgage Refinance Companies regulation which allowed the creation of KMRC, thereby
+
+     complementing World Bank and IFC investments in the Affordable Housing sector through the Kenya
+
+     Affordable Housing Project. Similarly, the Cabinet approval of the policy for the roll out of the e-voucher
+
+     complemented existing operations supporting agricultural value chains. Further, advisory work, including
+
+     from the IFC (for example, Warehouse receipts, commodities exchange, special economic zones) also helped
+
+     with IFC’s engagement in deepening agricultural commodity markets in Kenya.
+
+     80.     If a DPO series is well designed and achieves results, it provides a foundation for further World Bank
+
+     assistance to consolidate reforms that are part of an ongoing process of reform and budget-support through
+
+     DPOs. Indeed, upon the completion of this series, there have been two further operations as part of the
+
+     follow-up DPF series – “Accelerating Reforms for an Inclusive and Resilient Recovery”. Some of the reform
+
+     agenda builds on aspects of this series, whilst also adapting to the reality of COVID-19 and helping the country
+
+     navigate the challenges of the pandemic as well as put in place the structural reforms to build back better.
+
+     81.      Nonetheless, the effectiveness of achieving results in some of the reform areas was compromised by
+
+     ongoing fiscal pressures which led to an insufficient allocation of exchequer funds to support implementation.
+
+     Indeed, in some areas, due to fiscal constraints, the absence of complementary IPF’s impeded progress since
+
+     budget allocations were lower than needed, thus affecting progress towards achieving the results indicators.
+
+     For instance, the effectiveness of the functioning of the Warehouse Receipt System was affected by non-
+
+     operationalization of a commodities exchange that had been envisaged, but whose progress was impeded by
+
+     insufficient budgetary resources as well as from COVID-19. Going forward it will be important to work with
+
+     the government and other development partners in areas of reform where World Bank funds will not be able
+
+     to support downstream implementation activities with a financial bearing beyond the passage of policy,
+
+     legislative and institutional reforms.
+
+
+
+    B. Next Phase
+
+.
+
+     82.     Supporting selected aspects of the Government of Kenya’s Big Four agenda, the Kenya Inclusive
+
+     Growth and Fiscal Management DPF series helped build a strong platform for policy and institutional reforms
+
+     between the Government of Kenya and the World Bank. Following the approval of this DPF series, the advent
+
+     of COVID-19 significantly impacted the economic landscape, thereby necessitating renewed vigor in carrying
+
+     out policy and institutional reforms that required Kenya to both respond to the COVID-19 crisis but also to
+
+     build back better.
+
+
+
+                                                                                                               Page 28 of 44
+
+The World Bank
+
+Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+
+
+83.      Hence seizing on the solid reform platform and momentum between the World Bank and the GoK, a
+
+second DPF series is under implementation. The two operations in the series are supporting critical policy and
+
+institutional reforms made urgent by the crisis (for example, in hard-hit sectors such as healthcare), whilst
+
+maintaining a line of sight to the government’s medium-term development agenda. The new DPF series
+
+extends the strong medium-term reform momentum which has been maintained despite the pandemic shock
+
+and prioritizes those measures which are critical to the recovery, and to green, resilient and inclusive
+
+development (GRID). The program clusters the reforms into three pillars: (i) Fiscal and debt reforms to make
+
+spending more transparent and efficient, and enhance domestic debt market performance; (ii) Electricity
+
+sector and public private partnership (PPP) reforms to strengthen the cornerstone utility (Kenya Power and
+
+Lighting Company, KPLC), place Kenya on an efficient, green energy path, and boost private infrastructure
+
+investment; (iii) Strengthen environmental and natural resource governance, combat climate change, and
+
+improve healthcare including pandemic response. The first operation in the series was approved by the World
+
+Bank Board in June 2021 and the second in March 2022.
+
+84.     Finally, the FY23-28 CPF envisages building on the strong platform of engagement between the World
+
+Bank and the GoK, to continue to advance policy and institutional reform agenda to achieve the CPF
+
+objectives.
+
+
+
+
+
+
+
+
+
+                                                                                                         Page 29 of 44
+
+     The World Bank
+
+     Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+
+
+ANNEX 1. THEORY OF CHANGE
+
+
+
+
+
+      PDO1/Pillar 1. Crowd in Private Investment and Financing for the Delivery of Affordable Housing
+
+
+
+
+
+
+
+
+
+      PDO2/Pillar 2. Enhance Farmers Income and Food Security
+
+
+
+
+
+
+
+
+
+                                                                                                        Page 30 of 44
+
+The World Bank
+
+Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+
+
+
+
+    PDO3/Pillar 3. Create Fiscal Space and Crowd in the Private Sector to Advance the Government’s
+
+                                        Inclusive Growth Agenda
+
+
+
+
+
+
+
+
+
+ PDO4/ Pillar 4: Crowd in Private Investment and Leverage Digitization to Support the Government’s
+
+                                     Inclusive Growth Agenda
+
+
+
+
+
+
+
+
+
+                                                                                                     Page 31 of 44
+
+    The World Bank
+
+    Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+
+
+                                                                     Results Indicators
+
+
+
+
+
+
+
+A. RESULTS INDICATORS
+
+
+
+
+
+
+
+ Pillar: Pillar 1. Crowd in Private Investment and Financing for the Delivery of Affordable Housing
+
+ Indicator Name                       Unit of Measure     Baseline                      Target                   Actual Achieved at Completion
+
+ The number of affordable             Number              0.00                          20,000.00                 20,406.00
+
+ housing units constructed with
+
+ private investment under the                             31-Dec-2017                   31-Dec-2021               30-Apr-2022
+
+ government supported
+
+ affordable housing program
+
+
+
+
+
+ Comments (achievements against targets):
+
+Fully achieved 5,106 government funded units completed; 15,300 private sector funded affordable housing units completed.
+
+
+
+
+
+
+
+
+
+ Indicator Name                       Unit of Measure     Baseline                      Target                   Actual Achieved at Completion
+
+ Proportion of affordable housing      Percentage         0.00                          50.00                     46.00
+
+ units constructed with private
+
+ investment under the                                     31-Dec-2017                   31-Dec-2021               31-Dec-2021
+
+ government supported
+
+ affordable homes program
+
+ owned by women (including
+
+ individual or joint ownership
+
+ agreements)
+
+
+
+
+
+                                                                                                                                       Page 32 of 44
+
+    The World Bank
+
+    Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+
+
+
+
+ Comments (achievements against targets):
+
+Substantially achieved.
+
+
+
+
+
+
+
+
+
+ Indicator Name                      Unit of Measure     Baseline      Target        Actual Achieved at Completion
+
+ Number of private sector             Number             0.00          15.00         20.00
+
+ shareholders in KMRC
+
+                                                         01-Jan-2017   31-Dec-2021   31-Dec-2021
+
+
+
+
+
+ Comments (achievements against targets):
+
+Fully achieved.
+
+
+
+
+
+
+
+
+
+ Pillar: Pillar 2. Enhance Farmers Income and Food Security
+
+ Indicator Name                      Unit of Measure     Baseline      Target        Actual Achieved at Completion
+
+ Number of farmers benefitting        Number             0.00          150,000.00    167,000.00
+
+ from e-vouchers
+
+                                                         31-Dec-2017   31-Dec-2021   31-Dec-2021
+
+
+
+
+
+ Comments (achievements against targets):
+
+Fully achieved.
+
+
+
+
+
+
+
+
+
+ Indicator Name                      Unit of Measure     Baseline      Target        Actual Achieved at Completion
+
+
+
+
+
+                                                                                                           Page 33 of 44
+
+    The World Bank
+
+    Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+
+
+ Proportion of farmers benefitting      Percentage          0.00                     50.00                          58.00
+
+ from e-vouchers who are female
+
+                                                            31-Dec-2017              31-Dec-2021                    31-Dec-2021
+
+
+
+
+
+ Comments (achievements against targets):
+
+Fully achieved.
+
+
+
+
+
+
+
+
+
+ Indicator Name                        Unit of Measure     Baseline                  Target                         Actual Achieved at Completion
+
+ Number of licensed warehouses          Number              0.00                     16.00                          12.00
+
+ under the WRS participating in
+
+ the Commodities Exchange that                              31-Dec-2017              31-Dec-2021                    31-Dec-2021
+
+ have been leased from the
+
+ National Produce and Cereal
+
+ Board to the private sector
+
+
+
+
+
+ Comments (achievements against targets):
+
+Partially achieved. This indicator was impacted by COVID-19. Despite this setback, however, progress is being made and an additional 7 warehouses are
+
+expected to be licensed by end- 2022 (for a total of 12 licensed warehouses, meriting a partially achieved rating).
+
+
+
+
+
+
+
+
+
+ Pillar: Pillar 3. Create Fiscal Space and Crowd in the Private Sector
+
+ Indicator Name                        Unit of Measure     Baseline                  Target                         Actual Achieved at Completion
+
+ VAT and income tax revenues           Percentage           11.20                    12.10                          11.00
+
+
+
+                                                            30-Jun-2017              30-Jun-2021                    30-Jun-2021
+
+
+
+
+
+                                                                                                                                            Page 34 of 44
+
+     The World Bank
+
+     Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+
+
+
+
+ Comments (achievements against targets):
+
+Partially achieved, factoring in the impact from COVID-19 as the 11.0% achieved in FY21 reflected a strong recovery from the pandemic-induced slump in
+
+revenues to 9.9% in 2020.
+
+
+
+
+
+
+
+
+
+ Indicator Name                         Unit of Measure      Baseline                Target                        Actual Achieved at Completion
+
+ Cumulative value of government          Number              0.00                    600.00                         480.00
+
+ procurement contracts published
+
+ on online procurement portal                                31-Dec-2017             31-Dec-2021                    31-Dec-2021
+
+
+
+
+
+ Comments (achievements against targets):
+
+Values refer to billions of Kenyan shillings (KES). Fully achieved.
+
+
+
+
+
+
+
+
+
+ Indicator Name                         Unit of Measure      Baseline                Target                        Actual Achieved at Completion
+
+ Number of investigations related        Number              0.00                    5.00                           7.00
+
+ to bid rigging undertaken jointly
+
+ by CAK and PPRA                                             31-Dec-2017             31-Dec-2021                    31-Dec-2021
+
+
+
+
+
+ Comments (achievements against targets):
+
+Fully achieved.
+
+
+
+
+
+
+
+
+
+ Indicator Name                         Unit of Measure      Baseline                Target                        Actual Achieved at Completion
+
+
+
+
+
+
+
+                                                                                                                                            Page 35 of 44
+
+    The World Bank
+
+    Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+
+
+ Debt service ratio                    Percentage          4.30                     3.90                           5.90
+
+
+
+                                                           31-Dec-2017              31-Dec-2021                    31-Dec-2021
+
+
+
+
+
+ Comments (achievements against targets):
+
+Partially achieved. This indicator was strongly affected by the budget being impacted by the COVID-19 pandemic. With the recovery of the economy and
+
+the pivot to more concessional financing, the debt service ratio is projected to decline.
+
+
+
+
+
+
+
+
+
+ Indicator Name                        Unit of Measure    Baseline                  Target                        Actual Achieved at Completion
+
+ Share of government securities        Percentage          0.00                     70.00                          80.70
+
+ transacted on electronic platform
+
+                                                           31-Dec-2017              31-Dec-2021                    31-Dec-2021
+
+
+
+
+
+ Comments (achievements against targets):
+
+Fully achieved.
+
+
+
+
+
+
+
+
+
+ Pillar: Pillar 4. Crowd in Private Investment and Leverage Digitization
+
+ Indicator Name                        Unit of Measure    Baseline                  Target                        Actual Achieved at Completion
+
+ Average credit growth to the          Percentage          2.80                     14.00                          8.60
+
+ private sector
+
+                                                           31-Dec-2017              31-Dec-2021                    31-Dec-2021
+
+
+
+
+
+
+
+                                                                                                                                           Page 36 of 44
+
+      The World Bank
+
+      Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+
+
+  Comments (achievements against targets):
+
+ Substantially achieved. This indicator was impacted by the effect of COVID-19 on the economy.
+
+
+
+
+
+
+
+
+
+  Indicator Name                          Unit of Measure       Baseline              Target        Actual Achieved at Completion
+
+  Number of investment projects           Number                37.00                 55.00         195.00
+
+  registered by Kenya Investment
+
+  Authority                                                     31-Dec-2017           31-Dec-2021   31-Dec-2021
+
+
+
+
+
+  Comments (achievements against targets):
+
+ Fully achieved.
+
+
+
+
+
+
+
+
+
+  Indicator Name                          Unit of Measure       Baseline              Target        Actual Achieved at Completion
+
+  Value of capital Investments            Number                13.50                 20.00         56.30
+
+  registered by Kenya investment
+
+  Authority                                                     31-Dec-2017           31-Dec-2021   31-Dec-2021
+
+
+
+
+
+  Comments (achievements against targets):
+
+ Value is billions of Kenyan shillings (KES). Fully achieved.
+
+
+
+
+
+
+
+
+
+Please see Table 2 in main text.
+
+
+
+
+
+
+
+
+
+                                                                                                                          Page 37 of 44
+
+   The World Bank
+
+   Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+               ANNEX 2. BANK LENDING AND IMPLEMENTATION SUPPORT/SUPERVISION PROCESSES
+
+
+
+
+
+A. TASK TEAM MEMBERS
+
+
+
+
+
+P168204
+
+Allen Curtis K. Dennis (Task Team Leader), Sarah Oludamilola Sanya (Task Team Leader), Frederick Yankey (Financial
+
+Management Specialist), Philip M. Schuler (Team Member), Ladisy Komba Chengula (Team Member), Timothy
+
+Stephen Williamson (Team Member), Tania Priscilla Begazo Gomez (Team Member), Caroline Marie Cecile Cerruti
+
+Hailey (Team Member), Sarah Ruth Ochieng (Team Member), Jane Chuma (Team Member), Sheila W. Kamunyori
+
+(Team Member), Peter Chacha Wankuru (Team Member), Moses Misach Kajubi (Team Member), Augustine Sangson
+
+Langyintuo (Team Member), Christine Achieng Awiti (Team Member), Hadija Rahama Diba Kamayo (Team Member)
+
+P172321
+
+Allen Curtis K. Dennis (Task Team Leader), Alexis Sienaert (Task Team Leader), Peter Chacha Wankuru (Task Team
+
+Leader), Frederick Yankey (Financial Management Specialist), Ndiga Akech Odindo (Team Member), Asasira Hilari
+
+Kamushaga (Team Member), Diana Mwikali Nzioki (Team Member), Christine Anyango Owuor (Team Member),
+
+Sheila W. Kamunyori (Team Member), Hope Turyasingura Nanshemeza (Team Member), Vinay Kumar Vutukuru
+
+(Team Member), Sarah Ruth Ochieng (Team Member), Joel Buku Munyori (Team Member), Nagaraju Duthaluri
+
+(Team Member), Gabi George Afram (Team Member), Tania Priscilla Begazo Gomez (Team Member), Evarist F. Baimu
+
+(Team Member), Timothy Stephen Williamson (Team Member), Anne Khatimba (Team Member)
+
+
+
+
+
+
+
+
+
+B. STAFF TIME AND COST
+
+
+
+P168204
+
+
+
+
+
+                                                                  Staff Time and Cost
+
+Stage of Project Cycle
+
+                               No. of staff weeks                          US$ (including travel and consultant costs)
+
+Preparation
+
+
+
+                               65.481                                                                     387,356.23
+
+FY19
+
+                               0                                                                               172.16
+
+FY20
+
+Total                          65.48                                                                      387,528.39
+
+
+
+
+
+Supervision/ICR
+
+
+
+                               0                                                                               - 0.19
+
+FY20
+
+Total                          0.00                                                                            - 0.19
+
+
+
+
+
+                                                                                                            Page 38 of 44
+
+   The World Bank
+
+   Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+
+
+
+
+P172321
+
+
+
+
+
+                                                                  Staff Time and Cost
+
+Stage of Project Cycle
+
+                               No. of staff weeks                          US$ (including travel and consultant costs)
+
+Preparation
+
+
+
+                               65.481                                                                     387,356.23
+
+FY19
+
+                               47.942                                                                     378,838.71
+
+FY20
+
+                               .225                                                                            685.89
+
+FY21
+
+                               .715                                                                          5,870.43
+
+FY22
+
+Total                          114.36                                                                     772,751.26
+
+
+
+
+
+Supervision/ICR
+
+
+
+                               0                                                                               - 0.19
+
+FY20
+
+Total                          0.00                                                                            - 0.19
+
+
+
+
+
+
+
+
+
+                                                                                                            Page 39 of 44
+
+ The World Bank
+
+ Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+ANNEX 3. BORROWER, CO-FINANCIERS, AND OTHER DEVELOPMENT PARTNERS’/STAKEHOLDERS’ COMMENTS
+
+
+
+The preparation of the ICR benefitted from interviews held with policy makers and authorities involved in
+
+the implementation of the DPF’s reform agenda. Authorities expressed their strong appreciation for the focus
+
+areas of the reform agenda of the DPF as it was well aligned with their ambitious development agenda. They
+
+also acknowledge that the DPF series have been critical in supporting their fiscal and debt management as
+
+overall debt servicing costs given the pivot to more concessional resources. Results of the ICR were also
+
+presented to Development Partners Groups – Heads of Co-operation and was well received.
+
+
+
+
+
+
+
+
+
+                                                                                                         Page 40 of 44
+
+      The World Bank
+
+      Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+                                             ANNEX 4. SECTORS AND THEMES
+
+  .
+
+SECTORS AND THEMES
+
+
+
+
+
+P168204
+
+
+
+Sectors
+
+                                                                                 Mitigation Co-   Adaptation Co-
+
+Major Sector/Sector                                                        (%)
+
+                                                                                  benefits (%)      benefits (%)
+
+SECTOR TBL
+
+Agriculture, Fishing and Forestry                                          22             0.00              5.50
+
+          Fisheries                                                        11                0                  0
+
+          Irrigation and Drainage                                          11                0                 50
+
+SECTOR TBL
+
+Public Administration                                                      33             5.61              0.00
+
+          Central Government (Central Agencies)                            33               17                  0
+
+SECTOR TBL
+
+Industry, Trade and Services                                               45             1.61              1.61
+
+          Agricultural markets, commercialization and agri-
+
+                                                                           22                0                  0
+
+          business
+
+          Housing Construction                                             23                7                  7
+
+
+
+
+
+Themes
+
+Major Theme/ Theme (Level 2)/ Theme (Level 3)                                                                 (%)
+
+Economic Policy                                                                                                11
+
+
+
+       Fiscal Policy                                                                                           11
+
+
+
+            Tax policy                                                                                         11
+
+
+
+Finance                                                                                                        44
+
+
+
+       Finance for Development                                                                                 44
+
+
+
+            Agriculture Finance                                                                                22
+
+
+
+            Housing Finance                                                                                    22
+
+
+
+Public Sector Management                                                                                       11
+
+
+
+       Public Finance Management                                                                               11
+
+
+
+            Public Expenditure Management                                                                      11
+
+
+
+
+
+
+
+
+
+                                                                                                      Page 41 of 44
+
+   The World Bank
+
+   Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+     Public Administration                                                                            11
+
+
+
+            Civil Registration and Identification                                                     11
+
+
+
+Urban and Rural Development                                                                           33
+
+
+
+     Rural Development                                                                                33
+
+
+
+            Rural Markets                                                                             33
+
+
+
+Environment and Natural Resource Management                                                           14
+
+
+
+     Climate change                                                                                   14
+
+
+
+            Mitigation                                                                                 7
+
+
+
+            Adaptation                                                                                 7
+
+
+
+     Renewable Natural Resources Asset Management                                                     11
+
+
+
+            Fisheries Policies and institutions                                                       11
+
+
+
+
+
+
+
+P172321
+
+
+
+Sectors
+
+                                                                        Mitigation Co-   Adaptation Co-
+
+Major Sector/Sector                                               (%)
+
+                                                                         benefits (%)      benefits (%)
+
+SECTOR TBL
+
+Public Administration                                             56             6.16              0.56
+
+          Central Government (Central Agencies)                   56               11                  1
+
+SECTOR TBL
+
+Industry, Trade and Services                                      44             4.40              8.69
+
+          Agricultural markets, commercialization and agri-
+
+                                                                  33                7                20
+
+          business
+
+          Housing Construction                                    11               19                19
+
+
+
+
+
+Themes
+
+Major Theme/ Theme (Level 2)/ Theme (Level 3)                                                       (%)
+
+Economic Policy                                                                                       22
+
+
+
+     Fiscal Policy                                                                                    22
+
+
+
+            Debt Policy                                                                               11
+
+
+
+            Tax policy                                                                                11
+
+
+
+Private Sector Development                                                                            11
+
+
+
+
+
+                                                                                                 Page 42 of 44
+
+      The World Bank
+
+      Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+       Business Enabling Environment                                      11
+
+
+
+              Investment and Business Climate                             11
+
+
+
+       Jobs                                                               11
+
+
+
+              Job Creation                                                11
+
+
+
+       Enterprise Development                                             11
+
+
+
+              MSME Development                                            11
+
+
+
+Finance                                                                   22
+
+
+
+       Finance for Development                                            22
+
+
+
+              Agriculture Finance                                         11
+
+
+
+              Housing Finance                                             11
+
+
+
+Public Sector Management                                                  22
+
+
+
+       Public Finance Management                                          11
+
+
+
+              Public Expenditure Management                               11
+
+
+
+       Public Administration                                              22
+
+
+
+              Transparency, Accountability and Good Governance            22
+
+
+
+Human Development and Gender                                            100
+
+
+
+       Disease Control                                                  100
+
+
+
+              Pandemic Response                                         100
+
+
+
+Urban and Rural Development                                               33
+
+
+
+       Urban Development                                                  11
+
+
+
+              Services and Housing for the Poor                           11
+
+
+
+       Rural Development                                                  33
+
+
+
+              Rural Markets                                               33
+
+
+
+Environment and Natural Resource Management                               20
+
+
+
+       Climate change                                                     20
+
+
+
+              Mitigation                                                  10
+
+
+
+              Adaptation                                                   9
+
+
+
+
+
+  .
+
+
+
+                                                                     Page 43 of 44
+
+The World Bank
+
+Kenya Inclusive Growth and Fiscal Management DPO 2 (P172321)
+
+
+
+
+
+
+
+
+
+                                                               Page 44 of 44
+
+

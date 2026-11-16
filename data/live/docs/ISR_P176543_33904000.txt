@@ -1,0 +1,483 @@
+            The World Bank                                                                                      Implementation Status & Results Report
+            Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+ SOUTH ASIA | Nepal | Digital Development Global Practice |
+ IBRD/IDA | Investment Project Financing | FY 2022 | Seq No: 1 | ARCHIVED on 21-Sep-2022 | ISR52926 |
+
+
+ Implementing Agencies: Department of Information Technology, Ministry of Communications and IT, National Information Technology Center, Nepal,
+ Nepal Telecommunications Authority
+
+
+
+ Key Dates
+
+
+  Key Project Dates
+
+   Bank Approval Date: 16-Jun-2022                                               Effectiveness Date: --
+   Planned Mid Term Review Date: 31-Dec-2024                                     Actual Mid-Term Review Date:
+   Original Closing Date: 15-Jul-2027                                            Revised Closing Date: 15-Jul-2027
+ pdoTable
+
+ Project Development Objectives
+
+  Project Development Objective (from Project Appraisal Document)
+  To expand access to broadband in Project areas, to improve the capacity of individuals to engage in the digital economy, and to enhance the
+  foundations for digital government.
+
+  Has the Project Development Objective been changed since Board Approval of the Project Objective?
+  No
+
+
+ Components Table
+
+ Name
+ Expanding access to broadband:(Cost $111.00 M)
+ Improving the capacity of individuals to engage in the digital economy:(Cost $6.00 M)
+ Enhancing the foundations of digital government:(Cost $62.00 M)
+ Project management and coordination:(Cost $1.00 M)
+
+ Overall Ratings
+
+ Name                                                                       Previous Rating                            Current Rating
+
+ Progress towards achievement of PDO                                        --                                         Satisfactory
+ Overall Implementation Progress (IP)                                       --                                         Satisfactory
+ Overall Risk Rating                                                        --                                         Substantial
+
+
+ Implementation Status and Key Decisions
+
+  The progress towards achievement of the Project Development Objective (PDO) is Satisfactory given that there are no material risks currently to
+  undermine achievement of the PDO. The Implementation Progress is Satisfactory because the key activities related to signing and effectiveness of
+  the Legal Agreements are progressing well and the Project implementing agencies are undertaking preparatory work for various activities financed
+  under the Project.
+
+
+
+
+9/21/2022                                                                                                                      Page 1 of 8
+            The World Bank                                                                                          Implementation Status & Results Report
+            Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+  Risks
+
+
+ Systematic Operations Risk-rating Tool
+
+
+  Risk Category                                                Rating at Approval                Previous Rating                Current Rating
+
+  Political and Governance                                     Substantial                      --                             Substantial
+  Macroeconomic                                                Substantial                      --                             Substantial
+  Sector Strategies and Policies                               Moderate                         --                             Moderate
+  Technical Design of Project or Program                       Moderate                         --                             Moderate
+  Institutional Capacity for Implementation and
+                                                               Substantial                      --                             Substantial
+  Sustainability
+  Fiduciary                                                    Substantial                      --                             Substantial
+  Environment and Social                                       Moderate                         --                             Moderate
+  Stakeholders                                                 Substantial                      --                             Substantial
+  Other                                                        --                                --                             --
+  Overall                                                      Substantial                      --                             Substantial
+
+
+
+  Results
+
+
+ PDO Indicators by Objectives / Outcomes
+
+
+
+   Expanding access to broadband
+
+    IN01186028
+    ►People provided with access to broadband services (Number, Custom)
+
+                                        Baseline                         Actual (Previous)            Actual (Current)          End Target
+
+    Value                               0.00                         --                               0.00                      1,000,000.00
+
+    Date                                18-Mar-2022                  --                               08-Sep-2022              31-Dec-2027
+                                        The number of people provided with access to broadband services in the municipalities included in the
+                                        Project. This counts those able to access greater-than-30 Mbps service through networks supported by
+   Comments:
+                                        the Project directly or indirectly. It supports the CRI of people provided with access to the internet. This
+                                        indicator is disaggregated by gender.
+     IN01186041
+     Share among female inhabitants of Project areas (Percentage, Custom Supplement)
+
+                                      Baseline                      Actual (Previous)             Actual (Current)             End Target
+
+     Value                            0.00                          --                            0.00                         50.00
+
+     IN01186043
+     Share among inhabitants of rural municipalities (Percentage, Custom Supplement)
+
+                                      Baseline                      Actual (Previous)             Actual (Current)             End Target
+
+
+9/21/2022                                                                                                                            Page 2 of 8
+            The World Bank                                                                                      Implementation Status & Results Report
+            Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+     Value                            0.00                         --                           0.00                        70.00
+
+
+   Improve the capacity of individuals to engage in the digital economy
+
+    IN01186030
+    ►Beneficiaries of the digital skills development program who report being employed or in higher education (Percentage, Custom)
+
+                                        Baseline                        Actual (Previous)         Actual (Current)           End Target
+
+    Value                               0.00                        --                            0.00                       80.00
+
+    Date                                18-Mar-2022                 --                            08-Sep-2022               31-Dec-2027
+                                        This indicator will measure the percentage of graduates from specialized digital skills training supported
+                                        by the project, who are either employed or in a higher level of education 12 months after completing the
+                                        training. Employment would include employment in the private sector/public sector or self-employment,
+   Comments:
+                                        and education would include graduates pursuing higher education (e.g., specialized master’s and/or PhD
+                                        programs), both in fields related to the digital skills training programs. It supports the CRI of number of
+                                        beneficiaries of jobs-focused interventions. The indicator is gender-disaggregated.
+     IN01186042
+     Among female beneficiaries (Percentage, Custom Supplement)
+
+                                      Baseline                     Actual (Previous)            Actual (Current)            End Target
+
+     Value                            0.00                         --                           0.00                        80.00
+
+     IN01186044
+     Among beneficiaries who are persons with disabilities (Percentage, Custom Supplement)
+
+                                      Baseline                     Actual (Previous)            Actual (Current)            End Target
+
+     Value                            0.00                         --                           0.00                        80.00
+
+
+   Enhance the foundations of digital government
+
+    IN01186029
+    ►New digital government services available to the public, under the Project (Number, Custom)
+
+                                        Baseline                        Actual (Previous)         Actual (Current)           End Target
+
+    Value                               0.00                        --                            0.00                       20.00
+
+    Date                                18-Mar-2022                 --                            08-Sep-2022               31-Dec-2027
+
+                                        The sum of the number of digital services delivered through SC3.3 and of new services hosted in the data
+   Comments:
+                                        centers supported through SC3.2.
+
+
+ Intermediate Results Indicators by Components
+
+
+
+   Expanding access to broadband
+
+    IN01186045
+    ►PCM indicator: Private capital attracted into rural broadband under Subcomponent 1.1 (Amount(USD), Custom)
+
+                                        Baseline                        Actual (Previous)         Actual (Current)           End Target
+
+9/21/2022                                                                                                                       Page 3 of 8
+            The World Bank                                                                                        Implementation Status & Results Report
+            Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+    Value                               0.00                         --                             0.00                       40,000,000.00
+
+    Date                                18-Mar-2022                  --                             08-Sep-2022                31-Dec-2027
+
+    IN01186049
+    ►Citizen engagement: Beneficiaries satisfied with access to and quality of broadband services (Percentage, Custom)
+
+                                        Baseline                         Actual (Previous)          Actual (Current)           End Target
+
+    Value                               0.00                         --                             0.00                       80.00
+
+    Date                                18-Mar-2022                  --                             08-Sep-2022                31-Dec-2027
+
+    IN01186052
+    ►Installed telecommunications equipment that is certified as energy efficient (Percentage, Custom)
+
+                                        Baseline                         Actual (Previous)          Actual (Current)           End Target
+
+    Value                               0.00                         --                             0.00                       90.00
+
+    Date                                18-Mar-2022                  --                             08-Sep-2022                31-Dec-2027
+
+                                        Share of network equipment installed (by share of total costs of equipment procured under Subcomponent
+   Comments:
+                                        1.1 and 1.2) that is certified by Energy Star or equivalent standards.
+    IN01186055
+    ►Reduction in price of international IP transit services (Percentage, Custom)
+
+                                        Baseline                         Actual (Previous)          Actual (Current)           End Target
+
+    Value                               0.00                         --                             0.00                       33.00
+
+    Date                                18-Mar-2022                  --                             08-Sep-2022                31-Dec-2027
+
+
+
+   Improving the capacity of individuals to engage in the digital economy
+
+    IN01186046
+    ►People trained through digital literacy programs (Number (Thousand), Custom)
+
+                                        Baseline                         Actual (Previous)          Actual (Current)           End Target
+
+    Value                               0.00                         --                             0.00                       10.00
+
+    Date                                18-Mar-2022                  --                             08-Sep-2022                31-Dec-2027
+                                        It will count people who have participated in at least one training session conducted as part of SC 2.1.
+   Comments:                            This indicator will also count those trained by third parties that were not directly financed by the Project but
+                                        where training used materials financed by the Project.
+     IN01186051
+     Share of whom are female (Percentage, Custom Supplement)
+
+                                      Baseline                      Actual (Previous)             Actual (Current)             End Target
+
+     Value                            0.00                          --                            0.00                         50.00
+
+   IN01186053
+   ►Participants in skills development securing new income or employment opportunities after completing the digital skills training supported by
+   the Project (Percentage, Custom)
+
+
+9/21/2022                                                                                                                          Page 4 of 8
+            The World Bank                                                                                      Implementation Status & Results Report
+            Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+                                        Baseline                        Actual (Previous)          Actual (Current)          End Target
+
+    Value                               0.00                        --                            0.00                       80.00
+
+    Date                                01-Jul-2022                 --                            08-Sep-2022                31-Dec-2027
+
+     IN01186057
+     Share of whom are female (Percentage, Custom Supplement)
+
+                                      Baseline                     Actual (Previous)             Actual (Current)            End Target
+
+     Value                            0.00                         --                            0.00                        30.00
+
+    IN01186058
+    ►Citizen engagement: Skills program participants expressing satisfaction with the activities under Subcomponent 2.2 (Percentage, Custom)
+
+                                        Baseline                        Actual (Previous)          Actual (Current)          End Target
+
+    Value                               0.00                        --                            0.00                       80.00
+
+    Date                                18-Mar-2022                 --                            08-Sep-2022                31-Dec-2027
+
+    IN01186060
+    ►Participants establishing a startup after completing entrepreneurship activities supported by the project (Percentage, Custom)
+
+                                        Baseline                        Actual (Previous)          Actual (Current)          End Target
+
+    Value                               0.00                        --                            0.00                       80.00
+
+    Date                                01-Jul-2022                 --                            08-Sep-2022                31-Dec-2027
+
+     IN01186062
+     Share of whom are female (Percentage, Custom Supplement)
+
+                                      Baseline                     Actual (Previous)             Actual (Current)            End Target
+
+     Value                            0.00                         --                            0.00                        30.00
+
+   IN01186063
+   ►Citizen engagement: Startups reporting satisfaction with incubation and acceleration services received under Subcomponent 2.3
+   (Percentage, Custom)
+
+                                        Baseline                        Actual (Previous)          Actual (Current)          End Target
+
+    Value                               0.00                        --                            0.00                       80.00
+
+    Date                                18-Mar-2022                 --                            08-Sep-2022                31-Dec-2027
+
+                                        This indicator will measure the satisfaction rate of firms participating in the programs run by the supported
+   Comments:
+                                        incubators and accelerators, which will indicate the quality of services provided.
+     IN01186064
+     Share among female owned or managed startups (Percentage, Custom Supplement)
+
+                                      Baseline                     Actual (Previous)             Actual (Current)            End Target
+
+     Value                            0.00                         --                            0.00                        80.00
+
+
+   Enhancing the foundations of digital government
+
+    IN01186047
+
+
+9/21/2022                                                                                                                        Page 5 of 8
+            The World Bank                                                                                       Implementation Status & Results Report
+            Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+    ►Digital signatures issued in Nepal (Number (Thousand), Custom)
+
+                                        Baseline                        Actual (Previous)          Actual (Current)           End Target
+
+    Value                               5.00                        --                             6.70                       20.00
+
+    Date                                18-Mar-2022                 --                             12-Sep-2022               31-Dec-2027
+
+   IN01186050
+   ►Cybersecurity Center established and operational with staff in place and procedures published in a format that is readily available to the
+   public and industry (Yes/No, Custom)
+
+                                        Baseline                        Actual (Previous)          Actual (Current)           End Target
+
+    Value                               No                          --                             No                         Yes
+
+    Date                                18-Mar-2022                 --                             08-Sep-2022               31-Dec-2027
+
+    IN01186054
+    ►Installed IT equipment that is certified as energy efficient (Percentage, Custom)
+
+                                        Baseline                        Actual (Previous)          Actual (Current)           End Target
+
+    Value                               0.00                        --                             0.00                       90.00
+
+    Date                                18-Mar-2022                 --                             08-Sep-2022               31-Dec-2027
+
+                                        Share of equipment installed (by share of total costs of equipment procured under SCs 3.1 and 3.2) that is
+   Comments:
+                                        certified by Energy Star or equivalent standards.
+    IN01186056
+    ►Digital government functions and services using data centers supported by the Project (Number, Custom)
+
+                                        Baseline                        Actual (Previous)          Actual (Current)           End Target
+
+    Value                               0.00                        --                             0.00                       40.00
+
+    Date                                18-Mar-2022                 --                             08-Sep-2022               31-Dec-2027
+
+   Comments:                            The number of separately identifiable digital government functions or services using the facilities.
+
+    IN01186059
+    ►Citizen engagement: People accessing new e-services supported through the Project and reporting satisfaction (Percentage, Custom)
+
+                                        Baseline                        Actual (Previous)          Actual (Current)           End Target
+
+    Value                               0.00                        --                             0.00                       80.00
+
+    Date                                18-Mar-2022                 --                             08-Sep-2022               31-Dec-2027
+
+                                        This indicator will track the percentage of people accessing new e-services supported through the project
+   Comments:
+                                        and reporting satisfaction. Data collected will connected through the e-services.
+     IN01186061
+     Of which, share among females (Percentage, Custom Supplement)
+
+                                      Baseline                     Actual (Previous)             Actual (Current)            End Target
+
+     Value                            0.00                         --                            0.00                        80.00
+
+
+
+
+9/21/2022                                                                                                                        Page 6 of 8
+            The World Bank                                                                                             Implementation Status & Results Report
+            Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+   Project management and coordination
+
+    IN01186048
+    ►Citizen engagement: Grievances registered that receive an adequate response within 30 days (Percentage, Custom)
+
+                                        Baseline                         Actual (Previous)               Actual (Current)          End Target
+
+    Value                               0.00                         --                                  0.00                      80.00
+
+    Date                                18-Mar-2022                  --                                  08-Sep-2022              31-Dec-2027
+
+                                        Percentage of grievances or complaints, relating to the project, which are responded to within 30 days of
+   Comments:
+                                        receipt (annual average)
+
+
+ Performance-Based Conditions
+
+
+
+ Data on Financial Performance
+
+
+ Disbursements (by loan)
+
+ Project        Loan/Credit/TF     Status       Currency        Original      Revised        Cancelled      Disbursed       Undisbursed               % Disbursed
+
+                                   Not
+ P176543        IDA-71440                       USD              140.00        140.00             0.00            0.00           139.21                        0%
+                                   Effective
+
+
+ Key Dates (by loan)
+
+ Project         Loan/Credit/TF     Status      Approval Date       Signing Date        Effectiveness Date         Orig. Closing Date      Rev. Closing Date
+
+                                    Not
+ P176543         IDA-71440                      16-Jun-2022         --                  --                         15-Jul-2027             15-Jul-2027
+                                    Effective
+
+
+Cumulative Disbursements
+
+
+
+
+9/21/2022                                                                                                                               Page 7 of 8
+            The World Bank                                       Implementation Status & Results Report
+            Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+  Restructuring History
+
+
+  There has been no restructuring to date.
+
+
+  Related Project(s)
+
+
+ There are no related projects.
+
+
+
+
+9/21/2022                                                                       Page 8 of 8
+

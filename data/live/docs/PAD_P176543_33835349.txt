@@ -1,0 +1,4391 @@
+                                          FOR OFFICIAL USE ONLY
+
+                                                                                     Report No: PAD4875
+
+
+
+                               INTERNATIONAL DEVELOPMENT ASSOCIATION
+
+
+
+                                      PROJECT APPRAISAL DOCUMENT
+
+
+
+                                                    ON
+
+
+
+                                           A PROPOSED CREDIT
+
+                                  IN THE AMOUNT OF SDR 104.20 MILLION
+
+                                      (US$140 MILLION EQUIVALENT)
+
+
+
+                                                     TO
+
+
+
+                                                   NEPAL
+
+
+
+                                                   FOR A
+
+
+
+                               DIGITAL NEPAL ACCELERATION (DNA) PROJECT
+
+
+
+                                               MAY 22, 2022
+
+
+
+
+
+
+
+Digital Development Global Practice
+
+South Asia Region
+
+
+
+
+
+
+
+ This document is being made publicly available prior to Board consideration. This does not imply a
+
+ presumed outcome. This document may be updated following Board consideration and the updated
+
+ document will be made publicly available in accordance with the Bank’s Policy: Access to Information.
+
+          CURRENCY EQUIVALENTS
+
+
+
+   (Exchange Rate Effective April 30, 2022)
+
+
+
+   Currency Unit = Nepalese Rupee (NPR)
+
+
+
+      NPR 122.29 = US$1
+
+      US$1.3443 = SDR 1
+
+
+
+                FISCAL YEAR
+
+              July 16 to July 15
+
+
+
+
+
+
+
+
+
+Regional Vice President: Hartwig Schafer
+
+
+
+      Country Director: Faris H. Hadad-Zervos
+
+
+
+     Regional Director: Christine Z. Qiang
+
+
+
+     Practice Manager: Vyjayanti T. Desai
+
+
+
+     Task Team Leader: Siddhartha Raja
+
+                               ABBREVIATIONS AND ACRONYMS
+
+
+
+AWPB Annual Work Plan and Budget                 MoCIT Ministry of Communication and
+
+                                                       Information Technology
+
+ CPSD    Country Private Sector Diagnostic        M&E Monitoring & Evaluation
+
+   CS    Cybersecurity                             MW Megawatt
+
+   DC    Data Center                              NCSC National Cyber Security Center
+
+  DFIL   Disbursement and Financial               NITC National Information Technology Center
+
+         Information Letter
+
+  DoIT   Department of Information Technology      NOC     Network Operations Center
+
+  DNA    Digital Nepal Acceleration (Project)       NTA    National Telecommunications Authority
+
+  DNF    Digital Nepal Framework                    OCC    Office of Controller of Certification
+
+ DTCO    District Treasury Controller Office       OAG     Office of the Auditor General
+
+   E&S   Environment & Social                      PCM     Private Capital Mobilized
+
+  e-GP   electronic Government Procurement           PIE   Project Implementing Entity
+
+ ESMF    E&S Management Framework                   PLR    Performance and Learning Review
+
+ESMPs    E&S Management Plans                      PMU     Project Management Unit
+
+  ESRS   E&S Review Summary                        POM     Project Operations Manual
+
+  ESSs   E&S Standards                          P-RAMS     Procurement Risk Assessment
+
+                                                           Management System
+
+   FA Financing Agreement                          PSC     Project Steering Committee
+
+FCGO Financial Comptroller General Office          RPF     Resettlement Policy Framework
+
+  FM Financial Management                         RTDF     Rural Telecommunication Development
+
+                                                           Fund
+
+   FO Finance/Accounts Officer                      SC     Subcomponent
+
+ FTTx Fiber Optic Cable-based Networks          SEA/SH     Sexual Exploitation and Abuse/Sexual
+
+                                                           Harassment
+
+   FY Fiscal Year                                  SEP     Stakeholder Engagement Plan
+
+ Gbps Gigabytes Per Second                        SMEs     Small and Medium Enterprises
+
+ GoN  Government of Nepal                          SOE     Statement of Expenditures
+
+ GRID Green, Resilient, and Inclusive               SP     Service Provider
+
+      Development
+
+  GRS Grievance Redressal Service                  STEP Systematic Tracking of Exchanges in
+
+                                                        Procurement
+
+   IA Implementing Agency                          Tbps Terabytes Per Second
+
+  ICT Information and Communications                US$ United States Dollar
+
+       Technology
+
+    IT Information Technology                      VLS Virtual Landing Station
+
+  IXP Internet Exchange Point                      WB World Bank
+
+ LMP Labor Management Procedure                   WBG World Bank Group
+
+Mbps Megabits per second
+
+The World Bank
+
+Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+
+
+
+                                                                 TABLE OF CONTENTS
+
+
+
+  DATASHEET .........................................................................................................................................i
+
+  I.    STRATEGIC CONTEXT ..................................................................................................................1
+
+         A. Country Context................................................................................................................................ 1
+
+         B. Sectoral and Institutional Context .................................................................................................... 2
+
+         C. Relevance to Higher Level Objectives............................................................................................... 7
+
+  II.   PROJECT DESCRIPTION................................................................................................................8
+
+         A.     Project Development Objective .................................................................................................... 8
+
+         B. Project Components ......................................................................................................................... 8
+
+         C. Project Beneficiaries ....................................................................................................................... 14
+
+         D. Results Chain .................................................................................................................................. 16
+
+         E. Rationale for Bank Involvement and Role of Partners ................................................................... 16
+
+         F. Lessons Learned and Reflected in the Project Design .................................................................... 17
+
+  III. IMPLEMENTATION ARRANGEMENTS ......................................................................................... 18
+
+         A. Institutional and Implementation Arrangements .......................................................................... 18
+
+         B. Results Monitoring and Evaluation Arrangements......................................................................... 18
+
+         C. Sustainability................................................................................................................................... 18
+
+  IV. PROJECT APPRAISAL SUMMARY................................................................................................ 19
+
+         A. Technical and Economic Analysis ................................................................................................... 19
+
+         B. Fiduciary.......................................................................................................................................... 19
+
+         C. Legal Operational Policies ............................................................................................................... 20
+
+         D. Environmental and Social ............................................................................................................... 20
+
+  V.    GRIEVANCE REDRESS SERVICES ................................................................................................. 22
+
+  VI. KEY RISKS ................................................................................................................................. 22
+
+  VII. RESULTS FRAMEWORK AND MONITORING ................................................................................ 24
+
+        Annex 1: Implementation Arrangements and Support Plan ........................................................ 32
+
+     The World Bank
+
+     Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+
+
+
+
+
+DATASHEET
+
+
+
+BASIC INFORMATION
+
+BASIC_INFO_TABLE
+
+Country(ies)                   Project Name
+
+
+
+Nepal                          Digital Nepal Acceleration (DNA) Project
+
+
+
+Project ID                     Financing Instrument         Environmental and Social Risk Classification
+
+
+
+                               Investment Project
+
+P176543                                                     Moderate
+
+                               Financing
+
+
+
+
+
+Financing & Implementation Modalities
+
+
+
+[ ] Multiphase Programmatic Approach (MPA)                    [ ] Contingent Emergency Response Component (CERC)
+
+[ ] Series of Projects (SOP)                                  [ ] Fragile State(s)
+
+
+
+[ ] Performance-Based Conditions (PBCs)                       [ ] Small State(s)
+
+
+
+[ ] Financial Intermediaries (FI)                             [ ] Fragile within a non-fragile Country
+
+
+
+[ ] Project-Based Guarantee                                   [ ] Conflict
+
+[ ] Deferred Drawdown                                         [ ] Responding to Natural or Man-made Disaster
+
+
+
+[ ] Alternate Procurement Arrangements (APA)                  [ ] Hands-on Enhanced Implementation Support (HEIS)
+
+
+
+
+
+
+
+Expected Approval Date            Expected Closing Date
+
+
+
+16-Jun-2022                       15-Jul-2027
+
+
+
+Bank/IFC Collaboration
+
+
+
+No
+
+
+
+Proposed Development Objective(s)
+
+
+
+To expand access to broadband in Project areas, to improve the capacity of individuals to engage in the digital
+
+economy, and to enhance the foundations for digital government.
+
+
+
+Components
+
+
+
+Component Name                                                                                    Cost (US$, millions)
+
+
+
+                                                               i
+
+        The World Bank
+
+        Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+
+
+
+Expanding access to broadband                                                                         111.00
+
+
+
+Improving the capacity of individuals to engage in the digital economy                                  6.00
+
+
+
+Enhancing the foundations of digital government                                                        62.00
+
+
+
+Project management and coordination                                                                     1.00
+
+
+
+ Organizations
+
+
+
+Borrower:                                Nepal
+
+Implementing Agency:                     Ministry of Communications and IT
+
+                                         Department of Information Technology
+
+                                         Nepal Telecommunications Authority
+
+                                         National Information Technology Center
+
+
+
+ PROJECT FINANCING DATA (US$, Millions)
+
+
+
+SUMMARY                 -NewFin1
+
+
+
+
+
+
+
+
+
+Total Project Cost                                                                                       180.00
+
+Total Financing                                                                                          180.00
+
+                 of which IBRD/IDA                                                                       140.00
+
+
+
+Financing Gap                                                                                              0.00
+
+
+
+DETAILS   -NewFinEnh1
+
+
+
+
+
+
+
+
+
+World Bank Group Financing
+
+
+
+   International Development Association (IDA)                                                           140.00
+
+
+
+        IDA Credit                                                                                       140.00
+
+Non-World Bank Group Financing
+
+
+
+   Commercial Financing                                                                                   40.00
+
+        Unguaranteed Commercial Financing                                                                 40.00
+
+
+
+
+
+IDA Resources (in US$, Millions)
+
+
+
+                                     Credit Amount           Grant Amount       Guarantee Amount   Total Amount
+
+
+
+Nepal                                        140.00                      0.00               0.00         140.00
+
+                                                                    ii
+
+         The World Bank
+
+         Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+
+
+
+   National PBA                               140.00                        0.00                    0.00                 140.00
+
+ Total                                        140.00                        0.00                    0.00                 140.00
+
+
+
+ Expected Disbursements (in US$, Millions)
+
+
+
+ WB Fiscal Year                                          2022         2023         2024     2025      2026       2027     2028
+
+
+
+ Annual                                                   0.00         3.00        17.00    25.00     35.00      35.00    25.00
+
+
+
+ Cumulative                                               0.00         3.00        20.00    45.00     80.00     115.00   140.00
+
+
+
+
+
+
+
+ INSTITUTIONAL DATA
+
+
+
+ Practice Area (Lead)                                         Contributing Practice Areas
+
+                                                              Education
+
+
+
+ Climate Change and Disaster Screening
+
+ This operation has been screened for short and long-term climate change and disaster risks
+
+
+
+
+
+ SYSTEMATIC OPERATIONS RISK-RATING TOOL (SORT)
+
+
+
+
+
+Risk Category                                                                                   Rating
+
+
+
+1. Political and Governance                                                                     ⚫ Substantial
+
+
+
+2. Macroeconomic                                                                                ⚫ Substantial
+
+
+
+3. Sector Strategies and Policies                                                               ⚫ Moderate
+
+
+
+4. Technical Design of Project or Program                                                       ⚫ Moderate
+
+
+
+5. Institutional Capacity for Implementation and Sustainability                                 ⚫ Substantial
+
+
+
+6. Fiduciary                                                                                    ⚫ Substantial
+
+
+
+7. Environment and Social                                                                       ⚫ Moderate
+
+
+
+8. Stakeholders                                                                                 ⚫ Substantial
+
+
+
+9. Other
+
+
+
+10. Overall                                                                                     ⚫ Substantial
+
+
+
+
+
+                                                                      iii
+
+      The World Bank
+
+      Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+
+
+
+ COMPLIANCE
+
+
+
+Policy
+
+Does the project depart from the CPF in content or in other significant respects?
+
+[ ] Yes   [✓] No
+
+
+
+Does the project require any waivers of Bank policies?
+
+[ ] Yes   [✓] No
+
+
+
+
+
+Environmental and Social Standards Relevance Given its Context at the Time of Appraisal
+
+
+
+E & S Standards                                                                      Relevance
+
+
+
+Assessment and Management of Environmental and Social Risks and Impacts              Relevant
+
+
+
+Stakeholder Engagement and Information Disclosure                                    Relevant
+
+
+
+Labor and Working Conditions                                                         Relevant
+
+
+
+Resource Efficiency and Pollution Prevention and Management                          Relevant
+
+
+
+Community Health and Safety                                                          Relevant
+
+
+
+Land Acquisition, Restrictions on Land Use and Involuntary Resettlement              Relevant
+
+
+
+Biodiversity Conservation and Sustainable Management of Living Natural               Relevant
+
+Resources
+
+Indigenous Peoples/Sub-Saharan African Historically Underserved Traditional          Relevant
+
+Local Communities
+
+Cultural Heritage                                                                    Relevant
+
+
+
+Financial Intermediaries                                                             Not Currently Relevant
+
+
+
+
+
+NOTE: For further information regarding the World Bank’s due diligence assessment of the Project’s potential
+
+environmental and social risks and impacts, please refer to the Project’s Appraisal Environmental and Social Review
+
+Summary (ESRS).
+
+
+
+Legal Covenants
+
+
+
+Sections and Description
+
+(Section I.A.3 of Schedule 2 to the LA) The Recipient shall establish, no later than one (1) month after the Effective
+
+                                                               iv
+
+      The World Bank
+
+      Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+
+
+
+Date, and thereafter maintain, throughout the implementation of the Project, the Project Steering Committee, with
+
+membership, functions and terms of reference satisfactory to the Association, as set forth in the Project Operations
+
+Manual.
+
+
+
+Sections and Description
+
+(Section I.A.4 of Schedule 2 to the LA) The Recipient shall establish no later than one (1) month after the Effective
+
+Date and thereafter maintain at all times during the period of implementation of the Project, a PMU within MoCIT,
+
+headed by the Joint Secretary(IT) and with functions and resources satisfactory to the Association, and with
+
+competent staff in adequate numbers and with qualifications, experience and terms of reference satisfactory to the
+
+Association as further set forth in the Project Operations Manual.
+
+
+
+Sections and Description
+
+(Section I.A.5 of Schedule 2 to the LA) The Recipient shall ensure that each Implementing Agency establishes within
+
+one (1) month from the Effective Date a Project Implementation Team to be headed by a focal point officer, to
+
+oversee and manage the activities under its Respective Parts of the Project.
+
+
+
+Sections and Description
+
+(Section I.B.1 of Schedule 2 to the LA; Section I.B of Schedule to the PA) To facilitate the carrying out of the Project
+
+Implementing Entity’s Respective Part of the Project, the Recipient shall make part of the proceeds of the Financing
+
+allocated from time to time to Category (1) and (3) of the table set forth in Section III.1 of this Schedule available to
+
+the Project Implementing Entity under a subsidiary agreement between the Recipient and the Project
+
+Implementing Entity, under terms and conditions approved by the Association, (“Subsidiary Agreement”) as further
+
+specified in the Financing Agreement.
+
+
+
+Sections and Description
+
+(Section IV of Schedule 2 to the LA) The Recipient shall, and shall cause the Implementing Agencies to ensure that
+
+the Project’s activities involving collection, storage, usage, and/or processing of Personal Data are carried out with
+
+due regard to the Borrower’s existing legal framework and appropriate international data protection and privacy
+
+standards and practices.
+
+
+
+
+
+Conditions
+
+
+
+Type                    Financing source           Description
+
+Effectiveness           IBRD/IDA                   The Project Operations Manual, has been prepared and adopted by
+
+                                                   the Recipient and the Implementing Agencies in a form and
+
+                                                   substance satisfactory to the Association.
+
+Type                    Financing source           Description
+
+Disbursement            IBRD/IDA                   (1) under Category (1) and (3) unless and until the Subsidiary
+
+                                                   Agreement has been executed on behalf of the Recipient and NTA
+
+                                                   and all conditions precedent to its effectiveness or to the right of
+
+                                                   NTA to make withdrawals under it have been fulfilled; or
+
+
+
+
+
+
+
+                                                                 v
+
+     The World Bank
+
+     Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+
+
+
+Type                   Financing source           Description
+
+Disbursement           IBRD/IDA                   (2) under Category (3) unless and until NTA has prepared and
+
+                                                  adopted a Grants Manual, satisfactory in form and substance to the
+
+                                                  Association, setting forth the procedures for selecting, appraising,
+
+                                                  and approving grant applications, and for supervising
+
+                                                  implementation of contracts financed under Part 1.1 (b) of the
+
+                                                  Project.
+
+
+
+
+
+
+
+
+
+                                                               vi
+
+     The World Bank
+
+     Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+
+
+
+I.       STRATEGIC CONTEXT
+
+
+
+     A. Country Context
+
+
+
+     1.      Nepal is a landlocked country of about 29 million people. Most people (80 percent) live in rural areas,
+
+     although the urbanization rate (about 6 percent) is higher than the regional average. The poverty headcount (at
+
+     the international poverty line of US$1.90 per day) was 17.4 percent in 2019, down from 30.1 percent in 2014. 1
+
+     The country’s Human Development Index (HDI) is 0.602, which ranks 142 in the world for reporting countries. The
+
+     inequality adjusted HDI is 0.446, and life expectancy is 70.8 years.2
+
+
+
+     2.       Despite various challenges, Nepal’s economy demonstrated impressive growth and resilience over the
+
+     past decade when faced with a wide variety of shocks. During FY2012-19, Nepal’s economy performed
+
+     reasonably well despite being hit by three large exogenous shocks: the 2015 earthquake, 2016 trade disruptions,
+
+     and 2017 floods. A fourth shock, the COVID-19 pandemic, derailed the strong growth trajectory established over
+
+     the previous three years. Economic growth contracted by 2.1 percent in FY20, the first contraction since FY1983,
+
+     as a nationwide lockdown from March to July 2020 imposed to curtail the spread of the virus significantly affected
+
+     all sectors of the economy. The economy is estimated to have grown by 1.8 percent in FY21 even though renewed
+
+     containment measures were imposed in the fourth quarter of the fiscal year. Agriculture, contributing over one-
+
+     fifth of nominal gross domestic product (GDP), has been a bright spot, registering 2.2 and 2.7 percent growth in
+
+     FY20 and FY21, respectively, on the back of favorable summer monsoons. After contracting during FY20, the
+
+     industry and service sectors are estimated to have grown by only 0.9 and 1.6 percent in FY21, respectively. The
+
+     World Bank (WB) 2020 South Asia Region COVID-19 phone monitoring survey shows that 45 percent of those who
+
+     recovered from a job loss have switched sectors and taken jobs with lower earnings and skill requirements,
+
+     indicating that many households have been pushed to marginally above or below the poverty line.
+
+
+
+     3.       The COVID-19 pandemic derailed the economy, but partial recovery is under way. The fiscal deficit
+
+     narrowed to 4.6 percent of GDP in FY21. Economic growth is projected to recover gradually to 4.1 percent by
+
+     FY23. The baseline forecast projects a gradual medium-term recovery, with growth accelerating from 3.7 percent
+
+     in FY22 to 5.8 percent by FY24. The baseline assumes (a) no new nationwide strict containment measures are
+
+     imposed; (b) a near complete vaccination of the eligible population by the end of FY22 (81.7 percent of the
+
+     population ages 18 and higher have received full doses of vaccine by March 25, 2022); and (c) a gradual increase
+
+     in international migration and tourist arrivals, reaching pre-pandemic levels by FY24. Vaccination deployment is
+
+     expected to unleash pent-up demand for most service subsectors. Industry sector growth is projected to be
+
+     supported by increased hydropower production including from the recently completed Upper Tamakoshi plant.
+
+     However, agricultural growth is projected to decelerate in FY22, reflecting a decline in paddy production and the
+
+     rise of global fertilizer prices earlier in the fiscal year. Increasing fuel prices are also expected to weigh on
+
+     aggregate demand.
+
+
+
+     4.       The war in Ukraine is expected to impact Nepal’s economy through commodity prices . Nepal’s trade
+
+     with Ukraine is limited to less than two percent of total imports―including mostly sunflower oil, dried peas, and
+
+     colza seeds―but the share of fuel, agriculture, metals, and minerals in total imports is large. As such, Nepal is less
+
+     likely to face an immediate negative supply shock because of the direct trade linkage. Instead, higher global
+
+
+
+
+
+     1   Nepal Planning Commission. 2021. Multidimensional Poverty Index (MPI)-2021 Report. Kathmandu, Nepal.
+
+     2   http://www.hdr.undp.org/en/countries/profiles/NPL#
+
+                                                                               1
+
+The World Bank
+
+Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+
+
+
+commodity prices are expected to increase the import bill indirectly. Services exports are expected to be less
+
+affected given the relatively low share of tourist arrivals from Ukraine.
+
+
+
+5.       A new government took office on July 13, 2021. A new cabinet was then appointed in October 2021 and
+
+federal and provincial elections are expected in late 2022. Local elections were recently concluded in May 2022.
+
+At the sub-national level, funds, functions, and staff continue to be managed by the seven provinces and 753 local
+
+governments for which legislation, institutions, and administrative procedures are being formalized as
+
+constitutionally prescribed. Meanwhile, the federal government has been streamlined with a focus on national
+
+policies and oversight.
+
+
+
+6.       Nepal is highly vulnerable to climate change. The country’s mean annual temperature is projected to
+
+increase between 1.2°C and 4.2°C by the 2080s under the highest emission scenario compared to the baseline
+
+period 1986–2005.3 As total annual precipitation is predicted to fall within a shorter time frame and be more
+
+erratic, the dry seasons will be longer, and the risk of flooding due to higher monsoon precipitation is projected
+
+to increase by as much as 14–40 percent by 2030.4 Mountains are warming faster than the plains, triggering the
+
+melting of ice and permafrost and increasing the risk of glacier lake outburst floods. Changing climate has
+
+exacerbated more frequent and intense disaster events in recent years (drought, floods, landslides, disease
+
+outbreaks, and heatwaves), leading to a cascading effect on Nepal’s overall economic growth and development.5
+
+
+
+B. Sectoral and Institutional Context
+
+
+
+7.     Nepal seeks to strengthen the resilience of its households, businesses, and government, while ensuring
+
+economic and social inclusion. In September 2021, the Government of Nepal (GoN) and development partners
+
+declared their intention to develop a strategic action plan for Nepal, geared towards Green, Resilient, and Inclusive
+
+Development (GRID).6
+
+
+
+8.      The GoN sees digital development as a key enabler of growth and of resilient and inclusive
+
+development. The Digital Nepal Framework (DNF) is a strategy adopted by the GoN in 2019. It aims to use digital
+
+technologies to transform the economy by providing inclusive access to services and infrastructure for various
+
+groups of the population, promoting innovation and competitiveness in the private sector, and improving public
+
+service delivery. The DNF seeks to digitize 8 sectors through 80 initiatives.7 The planning commission has identified
+
+the DNF as a game-changing program.
+
+
+
+9.      The DNF predates the GRID approach; however, it supports several priorities identified in the
+
+Kathmandu Declaration. The DNF proposes digital initiatives that would boost inclusion and resilience, as well as
+
+green growth. The 15th National Plan (15NP)8 also envisages enhancing the digital ecosystem. Stakeholders from
+
+the private sector and civil society also note the need for Nepal to accelerate digital development, especially to
+
+ensure inclusion and to promote innovation. Many Nepalese concur with the concept of digital access as a critical
+
+
+
+3 The World Bank Group, and the Asian Development Bank. 2021.“Climate Risk Country Profile: Nepal.”
+
+4 World Bank. 2018. Nepal - Systematic Country Diagnostic: A New Approach for a Federal Nepal. Washington, DC: World Bank.
+
+5 World Bank. 2011. “Climate Risk and Adaptation Country Profile for Nepal.” Washington, DC: World Bank.
+
+6 “Government of Nepal and Development Partners Join Forces on Nepal’s Green, Resilient, and Inclusive Development.” 2021. www.worldbank.org. The
+
+
+
+World Bank.
+
+https://www.worldbank.org/en/news/press-release/2021/09/24/government-of-nepal-and-development-partners-join-forces-on-nepal-s-green-resilient-
+
+and-inclusive-development.
+
+7
+
+  The included sectors are digital foundations, health, agriculture, urban infrastructure, energy, education, financial services, and tourism. 2019. Digital
+
+Nepal Framework. Ministry of Communication and Information Technology. https://mocit.gov.np/pages/digital-nepal-framework
+
+8 2020. The Fifteenth Plan (Fiscal Year 2019/20 – 2023/24). Government of Nepal. https://npc.gov.np/images/category/15th_plan_English_Version.pdf
+
+
+
+
+
+                                                                              2
+
+The World Bank
+
+Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+
+
+
+part of the response to the COVID-19 pandemic and its challenges.9 The private sector has also expressed interest
+
+in playing a more-strategic role, building on existing developments in telecoms connectivity, digital financial
+
+services, and e-commerce platforms.
+
+
+
+10.     Nepal’s potential to use digital development to support GRID is hindered due to gaps in digital inclusion,
+
+the limited capacity of people and businesses to use digital technologies innovatively, and weaknesses in the
+
+foundations of digital service delivery. Digital inclusion (ensuring that all individuals and businesses have access
+
+to affordable, high-speed connectivity and secure digital services) is hindered by gaps in coverage and affordability
+
+of high-speed connectivity. Coverage gaps are typically due to high costs of deployment especially in rural or
+
+mountainous areas, while the high cost of upstream international connectivity leads to increased prices. Digital
+
+innovation (firms and people using digital technologies to boost productivity and competitiveness) is limited by
+
+the small talent pool of skilled workers and by gaps in the supporting ecosystem, especially outside of the capital,
+
+Kathmandu. Digital public and private service delivery is hampered by gaps in the infrastructure (e.g., limited
+
+capacity and resilience of government data centers (DCs)), poor coordination among public agencies, institutional
+
+capacity constraints, limited funding, and gaps in foundational elements (e.g., identification, digital signatures).
+
+
+
+11.      Nepal has made notable progress in basic digital connectivity, but much remains to be done to ensure
+
+digital inclusion. Estimates are that as of 2022, 75 percent of Nepal’s population uses the internet. Recent years
+
+have seen competition among internet service providers, leading to a rise in the adoption of fiber broadband:
+
+households subscribing to fixed broadband increased from 7 percent in 2018 to 33 percent in December 2021.
+
+Significantly, almost 90 percent of those are fiber optic connections, pointing to considerable and recent
+
+investments by service providers. Competition among multiple service providers (SPs) has driven this investment
+
+and growth: at present, the fixed broadband market is competitive, with nineteen SPs operating; four of these
+
+providers each have a market share above 10 percent.10 Strategic GoN programs to improve internet access are
+
+underway, including through competitive mobilization of private sector stakeholders11 and through funding
+
+provided by the universal service fund; these programs have also helped to connect many public institutions
+
+across Nepal to basic internet services. But they are limited in their coverage or face implementation challenges.
+
+For example, only 74 percent of municipalities are fully connected to broadband internet as of 2021. And some
+
+connectivity programs are underway but with low speed or limited sustainability of service provision.
+
+
+
+12.      Limited coverage is due to a range of factors, including the need to upgrade middle-mile network
+
+infrastructure (to support better quality services in downstream markets), the high costs of network deployment
+
+that raises market entry barriers to investments especially in rural and remote areas of the country, and the low
+
+returns on investments in those areas. Consultations with SPs reveal an interest in extending broadband networks
+
+beyond existing coverage areas but also note its infeasibility on purely commercial terms. As a result, network
+
+coverage remains poor and unreliable especially outside of larger cities, services are expensive for the poor, and
+
+both fixed and mobile broadband download speeds are far below global averages,12 even though the GoN aims
+
+that connectivity of more than 30 Mbps is available to households and businesses across the country.
+
+
+
+
+
+9 A World Bank survey found that 19 percent of respondents placed promoting digital and internet services among the top three areas to “focus on for
+
+COVID-19 recovery,” alongside tourism (23 percent) and private sector development (11 percent). World Bank, Public Perception Survey 2021
+
+10 As of 2021, 129 companies have internet service licenses in Nepal and there are 20 companies that own and operate networks. The Herfindahl-
+
+
+
+Hirschman Index (HHI) for the retail fiber internet market is 0.16 as of December 2021, indicating a fair level of competition. Analysis based on NTA data,
+
+December 2021.
+
+11 Nepal Telecommunication Authority (NTA) Annual Report (2077-78 BS; April 2020-April 2021). Government of Nepal. pp. 82-85
+
+
+
+ https://nta.gov.np/wp-content/uploads/2021/10/NTA-Annual-Report-207778.pdf
+
+12 Helani Galpaya, Tharaka Amarasinghe, "AfterAccess: ICT access and use in Nepal and the Global South (presentation, LIRNEasia on October 4, 2018,
+
+
+
+Kathmandu, Nepal)." https://lirneasia.net/2018/10/afteraccess-ict-access-and-use-in-nepal-and-the-global-south/
+
+                                                                             3
+
+The World Bank
+
+Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+
+
+
+13.     The digital divide is multi-dimensional, partly due to high prices and low digital literacy. On average the
+
+number of internet users in rural areas is about a third less compared to the average number urban users. Digital
+
+access inequalities in Nepal became starker during the COVID-19 pandemic. For instance, two-thirds of Nepal’s
+
+schoolchildren were unable to access remote learning during school closures. There are direct and indirect
+
+underlying causes of this digital divide in Nepal. One is limited affordability: an entry-level (20 Mbps) fiber internet
+
+subscription can cost about 10 percent of average per capita Gross National Income, limiting the possible user
+
+base. And limited digital literacy is also a key barrier to digital engagement: two-thirds of the approximately 25
+
+percent of the population that are non-users do not even know what the internet is.
+
+
+
+14.     The digital divide also plays out along gender and social dimensions. Among respondents of surveys in
+
+2018, only 27 percent of females use the internet compared to 41 percent of males, and persons with disabilities
+
+are two-thirds less likely to be online (11 percent) than the general population (34 percent).13 Gender-specific
+
+divides are due to digital literacy gaps: prevailing social norms and practices such as the tendency to prioritize
+
+boys’ education and use of digital resources over girls have resulted in more males than females accessing the
+
+internet. Available data for Nepal points to low awareness of digital opportunities. For instance, awareness about
+
+the internet was lower among rural, female, less educated, lower income, and older people. A second cause of
+
+the gender digital divide is related to affordability; high prices of internet services impact women more as they
+
+tend to have less disposable income, fewer opportunities to access external sources of finance, and limited
+
+economic power.14 This results in women going online less frequently and preventing them from thriving in an
+
+increasingly digital world. Thirdly, due to the lack of policies addressing safety and security issues, women,
+
+members of gender minorities, and persons with disabilities are more susceptible to online harassment, resulting
+
+in lower online presence and engagement among those demographics. About 4 percent of Internet or social media
+
+users in Nepal have experienced some form of online harassment with about 4 percent of men and 3 percent of
+
+women reporting such harassment.15 Similar factors—high prices and limited skills—constrain digital access of
+
+persons with disabilities, alongside the gaps in accessible technology.16 These gaps also point to a need to increase
+
+awareness about cyber risks (e.g., data security / protection, countering cyber bullying, or online gender-based
+
+violence, etc.) and the resources available to technology users to ensure a safe and secure digital experience.
+
+
+
+15.     Nepal’s businesses have begun to digitize, and technology startups are emerging. Nepal has a
+
+dynamically developing IT sector that focuses on application development, consulting, and system integration
+
+services. As of August 2019, there were over 350 startups in areas such as software as a service, travel, health,
+
+education, real estate technology, and e-commerce.17 COVID-19 accelerated startup activities with entrepreneurs
+
+launching mobile money, e-commerce, online learning, and telehealth applications.
+
+
+
+16.    Yet, a lack of capacities of (especially small) businesses limits job creation and the resiliency of
+
+businesses. For instance, relatively few firms in Nepal started or increased the use of digital platforms during the
+
+pandemic (19 percent compared with 45 percent in Pakistan; 46 percent in Vietnam; 31 percent in Moldova; 38
+
+
+
+
+
+13 LirneAsia, ICT access and use by Persons with Disabilities (PWD) in Nepal, 2018
+
+14 Tyers-Chowdhury, Alexandra, and Gerda Binder. 2021. What We Know about the Gender Digital Divide for Girls: A Literature Review. Evidence Briefs -
+
+Insights into the Digital Gender Divide for Girls. UNICEF East Asia and Pacific.
+
+https://www.unicef.org/eap/reports/innovation-and-technology-gender-equality-0
+
+15 See https://kathmandupost.com/national/2021/12/06/online-harassment-rife-but-largely-ignored-as-system-fails-to-recognise-it. Surveys in Nepal have
+
+
+
+found that people indicate lower levels of experiencing online harassment (4 percent) compared with India (19), Bangladesh (12), or Pakistan (12)
+
+[LirneAsia, 2018]. Yet, in the 2020-21 fiscal year, as per Nepal Cyber Bureau data, 55 percent of the victims of online harassment were females, 39 percent
+
+males, and 6 percent were identified as others.
+
+16 LIRNEAsia, ICT access and use by Persons with Disabilities (PWD) in Nepal; March 2018
+
+17 “Find Startups.” n.d. Startupsnepal. http://startupsnepal.com/companies/find-startups?limitstart=0
+
+
+
+
+
+                                                                             4
+
+The World Bank
+
+Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+
+
+
+percent in Cambodia).18 And despite the availability of startup funds and support programs, many small businesses
+
+are unable to take advantage of those resources. Stakeholder consultations suggest that businesses that do use
+
+technology effectively and frequently tend to typically be located in urban areas, limiting the inclusive effects of
+
+innovation, its associated job creation, and reducing the opportunities for more businesses to build resiliency into
+
+their operations. More specifically, in relation to startups, International Finance Corporation (IFC) analysis
+
+suggests that advisory support “could help IT start-ups become better prepared to seek [available] funding.” In
+
+addition, the analysis found that “Nepal’s weak IT infrastructure and the lack of quality IT parks have also
+
+constrained the IT services sector.”19 This implies missed opportunities for Nepal’s digital economy to grow.
+
+
+
+17.     Existing digital businesses and startups note the lack of adequately skilled and employable people, with
+
+specific skills gaps among women limiting their participation in digital jobs and entrepreneurship. Only 21
+
+percent of the workers in Nepal’s ICT sector are female and they face a high pay gap (-33 percent).20 A higher
+
+share of young females is not in any form of education, employment or training compared to young males (46.5
+
+percent of female youth compared to 25.5 percent of male youth) in Nepal. Women often lack digital skills, mainly
+
+due to the negative biases associated with girls pursuing education and/or careers related to digital sectors;21 for
+
+example, only one in five students in Nepal’s engineering institutions are female. As research in Nepal finds,
+
+“strong social and gender norms … work limit skills building and employment options of women and other excluded
+
+groups,” while “service providers show low priority and less interest in training women and excluded groups .”22
+
+The result is that while 81 percent of the female population (over 15 years of age) is economically active only 0.5
+
+percent of these females work in the Information and Communications Technologies (ICT) sector.23 Women
+
+continue to face social, economic, and cultural barriers in entrepreneurship, including access to finance. For
+
+example, among entrepreneurs globally, only 1.7 percent of female entrepreneurs participate in the ICT sector
+
+(compared to 4.9 percent of males).
+
+
+
+18.      The GoN expects digital technologies to play an instrumental role in improving service delivery in the
+
+public sector. Nepal has made some progress in the use of digital technologies in the public sector. Basic services
+
+are available, and some digital public platforms are in use. The potential for such transformation is underscored
+
+by the success of digital financial services. A mix of public and private sectors initiatives, supported by
+
+development partners, has led to a rapid increase in the adoption of mobile wallets, quick response code-based
+
+payments, and electronic fund transfers.24 However, existing public services are mostly limited to providing
+
+information; very few, if any, end-to-end digital transactions are available. The GoN has recently launched several
+
+activities expected to deliver significant improvements in digital government infrastructure and applications,
+
+including a unified mobile portal for government services (Nagarik App), Government Integrated Office
+
+Management/ System, and Government Enterprise Architecture 2.0. Cyber security has been another focus area
+
+for the GoN’s engagement.25 More can also be done to deliver improved digital public services and integrate digital
+
+government across the different levels of a federal Nepal, through development of unified back-end and core
+
+
+
+18 https://www.worldbank.org/en/data/interactive/2021/01/19/covid-19-business-pulse-survey-dashboard
+
+19
+
+   IFC. 2018. Creating Markets in Nepal: Country Private Sector Diagnostic (CPSD): https://openknowledge.worldbank.org/handle/10986/31006CPSD, p. 51
+
+20 https://ilostat.ilo.org/techs-persistent-gender-gap/, ILO, 2019, Tech’s persistent gender gap
+
+21 See https://kathmandupost.com/science-technology/2019/05/13/technopolis-why-arent-there-more-women-in-it; there is evidence that correcting mis-
+
+
+
+information can encourage girls into non-traditional training fields (Hicks, 2015).
+
+22 Rep. 2020. Gender Equality and Social Inclusion Diagnostic of Selected Sectors in Nepal. Asian Development Bank (ADB).
+
+
+
+https://www.adb.org/sites/default/files/publication/646661/nepal-gender-equality-social-inclusion-diagnostic.pdf
+
+23 Central Bureau of Statistics. n.d. Nepal Labor Force Survey 2017-18.
+
+24 Prasain, Krishana. 2021. “National Payment Switch Expected to Launch Soon.” The Kathmandu Post. November 13, 2021.
+
+
+
+https://kathmandupost.com/money/2021/11/13/national-payment-switch-expected-to-launch-soon
+
+25 The Government has presented a draft Cyber Security Policy, conducted a feasibility study for the establishment of Cyber Security and ICT Research
+
+
+
+Center, launched government cloud service, introduced a syllabus for cybersecurity classes in grades 9 and 10.
+
+                                                                          5
+
+The World Bank
+
+Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+
+
+
+digital infrastructures and through the development of replicable digital services that can be used in multiple
+
+provinces and municipalities.
+
+
+
+19.     However, critical foundations for resilient service delivery are weak . According to the UN’s e-
+
+Government Development Index, Nepal is currently ranked 132 among 193 countries26 and it was ranked 94 of
+
+177 economies in the Global Cybersecurity Index 2020.27 Its rank is low as important elements of the digital
+
+government ecosystem being weak or missing. Measures are needed to strengthen the trust ecosystem in terms
+
+of cybersecurity and personal data protection in Nepal. The MoCIT is currently developing a national cybersecurity
+
+strategy and some measures have been put in place by various agencies, including the Nepal Telecommunications
+
+Authority (NTA) and the central bank. Yet, Nepal is not fully prepared to address the increasing risks and scope of
+
+cyberthreats. There is also a need to protect investments made through the DNF, including the personal data,
+
+systems, and information that would underpin Nepal’s digital economy.
+
+
+
+20.      Core digital government infrastructures are limited in their capacity to respond to current demands .
+
+Critically, additional DCs are needed that are fully resilient to adverse climate or seismic events and that can
+
+accommodate increasing demand for data hosting and cloud services. Improved DC capacity of the Government
+
+will support its continuity of business operations in the case of natural disasters and to retain data through such
+
+events. Existing sites operated by the GoN’s National Information Technology Center (NITC) are almost fully
+
+occupied. Two sites (in Khumaltar and Kohalpur) have been identified with land already secured and Government
+
+budget allocated/requested for civil and core engineering works to create the shells. Two other sites are also
+
+planned, but their locations are not yet finalized. However, there is a financing gap to install the required IT and
+
+related equipment in these sites. Public platforms are not interoperable, limiting innovation and rapid rollout of
+
+services. The low level of digital literacy also limits the uptake of services. These gaps hinder the roll-out of more-
+
+advanced digital services, and limit how digital technologies can strengthen resilience to future shocks, including
+
+climate-induced disaster events.
+
+
+
+21.     The policymaking and regulatory bodies include the Ministry of Communication and Information
+
+Technology (MoCIT) and the Nepal Telecommunications Authority (NTA). MoCIT is the policymaker for the digital
+
+sector, and it oversees the expansion of digital infrastructure and services deployment. Under the leadership of
+
+MoCIT, the Department of Information Technology (DoIT) and the NITC are responsible for electronic delivery of
+
+all government services. The NTA is the de jure independent telecommunications regulatory agency, which also
+
+manages the universal service fund known as the Rural Telecommunication Development Fund (RTDF). Other
+
+ministries and agencies oversee digital agenda initiatives in their own respective sectors. The DNF defines a
+
+coordination mechanism which seeks to include various public agencies and representatives of the private sector;
+
+however, this is yet to be fully implemented.
+
+
+
+22.     The regulatory and institutional framework to implement Nepal’s digital vision needs strengthening.
+
+The Telecommunications Act of 1997 and related regulatory framework are outdated and have an overly complex
+
+authorization scheme. The GoN is currently in the process of updating the telecommunication law.28 Even though
+
+the broadband market is competitive, there is room for improved regulation of wholesale markets, and
+
+administrative procedures would also benefit from streamlining; e.g., the processes of securing rights of way or
+
+the acquisition of mobile network tower sites are complex and with no specific timelines. The capacity to supervise
+
+
+
+26 See https://publicadministration.un.org/egovkb/Data-Center
+
+27
+
+   See https://www.itu.int/en/myitu/Publications/2021/06/28/13/22/Global-Cybersecurity-Index-2020
+
+28 The Bank is supporting the preparation and introduction of this Bill to Parliament through the ongoing Fiscal DPC series (Second Fiscal Policy for Growth,
+
+
+
+Recovery and Resilience Development Policy Credit: P176498).
+
+                                                                              6
+
+The World Bank
+
+Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+
+
+
+strategic projects is also limited, which results in delays or disputes. Nepal’s data regulation and cybersecurity
+
+legal and policy frameworks are also evolving with some good practices missing.29 The World Bank Group (WBG)
+
+is engaging with the GoN through complementary advisory activities and engagements to support broader
+
+improvements and updates to the digital policy and regulatory framework.30
+
+
+
+C. Relevance to Higher Level Objectives
+
+
+
+23.     The proposed Project is consistent with the WBG’s Country Partnership Framework (CPF) for Nepal
+
+FY19–2331 and extended to FY24 by corresponding Performance and Learning Review (PLR).32 The PLR
+
+introduced a new objective on accelerating digital development under the CPF Focus Area 2 (Private Sector-Led
+
+Jobs and Growth), aiming that 85 percent of the population uses the internet by the end of FY24. The PLR
+
+recognizes that, “Investing in the digital economy can support Nepal’s resilient recovery from COVID-19 by
+
+providing access to information, services, and markets while promoting innovation in service delivery in the public
+
+and private sectors.” The PLR notes that the WB will support investments to build Nepal’s digital foundations.
+
+
+
+24.     The proposed Project is consistent with the GoN’s development plans. Nepal intends to be a middle-
+
+income country by 2030,33 transforming into a knowledge-based economy with ICT as a crucial driver of growth.
+
+This Project is consistent with government strategies, such as the 15 National Plan (2018/19 to 2022/23) and
+
+implements several foundational elements of the DNF. The proposed Project will also support Nepal’s transition
+
+to GRID, by supporting digital inclusion and improving the resilience of digital networks and services.
+
+
+
+25.     The Project is also fully consistent with IDA19 policy commitments to: (a) increase broadband
+
+penetration in landlocked countries; (b) improve skills and employability toward more and higher-quality jobs,
+
+considering the differentials in constraints faced by young women and men, and people with disabilities; (c)
+
+finance digital skills development to support women’s access to higher productivity jobs; (d) increase women’s
+
+access to and usage of digital services; and (e) support adoption of widely accessible digital public services.
+
+
+
+26.      Maximizing Finance for Development (MFD) through Private Capital Mobilized (PCM). Under
+
+Subcomponent 1.1 (details see Section II.B below), concessions for building and operating broadband networks
+
+will be bid out to SPs, who once selected will benefit from a one-time grant under the Project to roll out fiber-
+
+optic networks in those areas that SPs are interested to invest in, but that are considered commercially unviable
+
+without this subsidy element (i.e., due to the high costs of installation and/or a low user base). One of the main
+
+criteria for awarding the concession for a particular area will be the size of the grant requested by the bidders,
+
+with the bidder requiring the lowest grant being awarded the concession, subject to that bidder satisfying
+
+technical and other criteria. Grants will be in the nature of parallel financing where IDA financing will focus on
+
+capital expenditures (e.g., civil works and telecommunications equipment) and the private contribution is
+
+expected to focus on operational expenditures. It is intended at this stage that the grant will defray some of the
+
+capital costs associated with rolling out the fiber-optic network, with the subsidy paid out on completion of the
+
+
+
+29 Nepal’s Privacy Act 2075 (2018) is missing a few good regulatory practices such as privacy by design, data storage limitation, and regulatory limitation on
+
+algorithmic decision-making. World Bank, WDR21 Global Data Regulation Diagnostic for Nepal, 2021.
+
+30 Activities include the World Bank advisory services provided [through Digital for GRID in Maldives, Nepal, and Sri Lanka (P177824); Digital Development
+
+
+
+in Maldives, Nepal, and Sri Lanka (P175577); and Digital Nepal (P171113)] and development policy programs [Fiscal DPC series], and the IFC’s Upstream
+
+program in supporting telecommunications regulations to open markets to private sector investments in digital infrastructure.
+
+31 Report No. 83148-NP; July 10, 2018, discussed by the Board on August 7, 2018
+
+32
+
+   Report No. 168048-NP, January 17, 2022, discussed by the Board on February 22, 2022.
+
+33 Policies and Programs of the Government of Nepal for Fiscal Year 2072–73 (2015–16), presented by Rt. Hon. President Dr. Ram Baran Yadav at the
+
+
+
+Meeting of the Constituent Assembly/Legislature-Parliament.
+
+                                                                              7
+
+      The World Bank
+
+      Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+
+
+
+      installation or on delivery of services. The Government aims at supporting an estimated 100 municipalities under
+
+      this component with network expansion projects and that are expected to mobilize a targeted amount of at least
+
+      US$40 million of private investments into those networks and during the Project lifetime.
+
+
+
+      27.      In addition, as envisaged in the DNF, the Project also enables supports MFD enabling activities under
+
+      Component 1 and the other components, including: (i) drawing on private resources to implement select DNF
+
+      initiatives under SC3.3; (ii) identifying how to attract private investment into international connectivity (SC1.2)
+
+      and DCs (SC3.2); and (iii) supporting reforms to reduce broadband network deployment costs by SPs (SC1.1).
+
+
+
+II.    PROJECT DESCRIPTION
+
+
+
+      A. Project Development Objective
+
+
+
+      PDO Statement
+
+
+
+      28.       To expand access to broadband in Project areas, to improve the capacity of individuals to engage in the
+
+      digital economy, and to enhance the foundations for digital government.
+
+
+
+
+
+      PDO Level Indicators
+
+
+
+      29.     Progress will be measured against the following PDO-level results indicators:
+
+
+
+            Expanded access to broadband in Project areas
+
+            • People provided with access to broadband services (Number)
+
+              o Share among female inhabitants of Project areas (Percentage)
+
+              o Share among inhabitants of rural municipalities (Percentage)
+
+            Improve the capacity of individuals to engage in the digital economy
+
+            • Beneficiaries of the digital skills development program who report being employed or in higher
+
+               education (Percentage)
+
+              o Among female beneficiaries (Percentage)
+
+              o Among beneficiaries who are persons with disabilities (Percentage)
+
+            Enhance the foundations of digital government
+
+            • New digital government services available to the public, under the Project (number)
+
+
+
+      B. Project Components
+
+
+
+      30.      The GoN seeks investment project financing from the IDA to implement high-priority and foundational
+
+      elements of DNF. Activities will support development of high-priority digital foundations and some analog
+
+      foundations (e.g., the trust ecosystem, digital skills). Total costs for the proposed Project are equivalent to US$180
+
+      million, including US$140 million in IDA financing, complemented by US$40 million private capital mobilization
+
+      (PCM) for private sector financed activities focused on expanding broadband access. Project costs are provided in
+
+      Table 1. Implementing all 80 initiatives of the DNF could cost up to US$1 billion. Hence, the GoN aims to fully
+
+      implement the DNF by drawing on a mix of resources including the private sector and development partners apart
+
+
+
+                                                                8
+
+The World Bank
+
+Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+
+
+
+from the proposed IDA financing (with possible future phases to support downstream activities). The detailed
+
+technical design is available in the Project files.
+
+
+
+Table 1: Project costs and financing sources (in US$ million equivalent)
+
+
+
+     Components (and           Subcomponents                              Total costs                    Source of financing
+
+     estimated total costs)                                                                              IDA          PCM
+
+     1. Expanding access to    1.1. Promote broadband access and use        US$89.5                       US$49.5      US$40
+
+     broadband                 1.2. Improve international connectivity      US$21.5                       US$21.5         -
+
+     (US$111 million)
+
+     2. Improving the capacity 2.1. Promote digital literacy                 US$1                          US$1         -
+
+     of individuals to engage  2.2. Develop advanced digital skills of       US$3                          US$3
+
+     in the digital economy    individuals
+
+     (US$6 million)            2.3. Support digital entrepreneurship         US$2                         US$2          -
+
+     3. Enhancing the          3.1. Enhance the digital trust ecosystem      US$16                        US$16         -
+
+     foundations of digital    3.2. Improve data center capacity             US$40                        US$40         -
+
+     government                3.3. Implement select digital services        US$6                         US$6          -
+
+     (US$62 million)
+
+     4. Project management and coordination (including incremental           US$1                          US$1         -
+
+     operating costs) (US$1M)
+
+                                                                    TOTAL  US$180.0                      US$140.0    US$40.0
+
+
+
+Component 1: Expanding access to broadband (IDA US$71.0 million equivalent; US$40.0 million equivalent
+
+targeted PCM)
+
+
+
+Subcomponent 1.1. Promote broadband access and use (IDA US$49.5 million equivalent, plus US$40.0 million
+
+equivalent in targeted private capital mobilized)
+
+
+
+1.1.(a) Regulatory and policy reforms to reduce the costs of network deployment and maximize the efficiency of
+
+        public investments (US$0.5 million equivalent IDA)
+
+
+
+31.      Subcomponent 1.1.(a) will finance consultancies supervised by NTA to define and implement measures
+
+and processes to reduce the costs of network deployment and to ensure that the benefits of Project-supported
+
+investments are available to all people and communities. Possible measures to be supported include inter alia
+
+simplification of rights-of-way permissions, mobile site acquisition, infrastructure sharing, open access
+
+regulations, quality of service monitoring. Implementation of these measures are intended to reduce entry
+
+barriers for more service providers to enter new markets and offer more affordable and innovative broadband
+
+services, extending the benefits of competitive service provision to more parts of the country.
+
+
+
+1.1.(b) Grants to mobilize private investment into broadband (US$47.5 million IDA)
+
+
+
+32.     This Subcomponent will finance consultancies for NTA to: (i) identify areas where market failures exist as
+
+un- or under-served areas,34 including mapping of broadband networks and telecom-ready infrastructure and to
+
+
+
+
+
+34   Defined as connected to networks unable to deliver highspeed connectivity (>30Mbps) to end-users.
+
+                                                                             9
+
+The World Bank
+
+Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+
+
+
+phase network roll out; (ii) develop the relevant operational, technical, and procurement documents; and (iii)
+
+undertake ex post audits/M&E to monitor completion of infrastructure deployment.
+
+
+
+33.      Subcomponent 1.1.(b) will also finance grants to SPs selected through a competitive ‘least-cost’ process
+
+administered by the NTA to build and commercially operate broadband networks in about 100 selected
+
+municipalities to serve households, businesses, and public institutions (e.g., public, healthcare, and educational
+
+institutions). Exact locations will be identified through a feasibility study. Selected SPs will assume several
+
+obligations to ensure high-quality of infrastructure development and service provision (including tariffs and
+
+packages, open access, and infrastructure sharing conditions, as defined by NTA, apart from rolling out climate
+
+resilient and cost-efficient highspeed broadband infrastructure).35 After the completion of the broadband
+
+infrastructure deployment, the GoN and NTA will not directly assume any role in the ownership or operation of
+
+the networks. Program implementation will rely on ongoing public-private dialogue to verify the existence of
+
+market failures and to ensure engagement of SPs in the competitive allocation of funding.
+
+
+
+1.1.(c) Design and pilot programs to enhance adoption of broadband services through demand-side
+
+        interventions (US$1.5 million IDA)
+
+
+
+34.      Subcomponent 1.1.(c) will finance the design, pilot, and evaluation of programs to enhance adoption of
+
+broadband services by specific groups of end users in Project areas. The NTA will design these pilots in partnership
+
+with the private sector, civil society, and development partners. The Subcomponent will finance (a) procurement
+
+by NTA of (i) broadband services; (ii) devices; and (iii) associated training, to benefit eligible individuals and
+
+households (e.g., low-income and women-headed households, individuals belonging to socially vulnerable groups,
+
+school going children, persons with disabilities; eligibility will be defined based on specific, transparent, and
+
+verifiable criteria); and (b) the evaluation of the impact of these pilots, and identify opportunities to scale them
+
+up through the RTDF or other development partner programs in the future.
+
+
+
+Subcomponent 1.2: Improve international connectivity (IDA US$21.5 million equivalent)
+
+
+
+35.     The Project will support Nepal to secure more affordable, higher quality, and more resilient international
+
+connectivity. As a landlocked country, Nepal does not have direct access to submarine telecommunications cables
+
+that carry the bulk of global data traffic. By aggregating its demand, Nepal’s government and public sector can
+
+serve as an anchor tenant and negotiate improved, lower cost, and direct and dedicated access to submarine
+
+capacity through a competitive procurement for bulk capacity.
+
+
+
+36.     Subcomponent 1.2. will finance consultancies for: (a) technical analysis and design, including to identify
+
+measures to enhance redundancy and resilience of the country’s international connectivity infrastructure to
+
+climate and natural disasters; (b) legal and strategic support including to avoid monopolistic access to the
+
+submarine cables; and (c) procurement & contract management support.
+
+
+
+37.     This Subcomponent will also finance the purchase of international bandwidth for government and priority
+
+users in the public sector for the period until Project closing. This includes financing to (a) procure international
+
+bandwidth at lowest cost and highest quality through a competitive selection process; and (b) support operation
+
+and maintenance costs to maintain this infrastructure during the period until Project closing, transitioning in that
+
+time to a fully internally funded model through commercial operation.
+
+
+
+35   The financing of these grants will be separate from the Rural Telecom Development Fund.
+
+                                                                            10
+
+The World Bank
+
+Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+
+
+
+
+
+38.      The subcomponent will finance the development of a virtual landing station (VLS) that will enable a
+
+landlocked country such as Nepal to have an equivalent physical landing point of the undersea cables.36 The
+
+Project will finance goods, works, and services to develop and upgrade infrastructure to establish a VLS—including
+
+limited civil works—that is directly connected to a submarine cable landing station and is available on open-access
+
+terms. The design of the VLS will factor in a need to ensure reliability in the face of extreme weather events, such
+
+as flood-proof design and the ability to function in extreme temperatures.
+
+
+
+Component 2: Improving the capacity of individuals to engage in the digital economy (IDA US$6.0 million
+
+equivalent)
+
+
+
+Subcomponent 2.1. Promote digital literacy (IDA US$1.0 million equivalent)
+
+
+
+39.     Activities under Subcomponent 2.1. will enhance digital literacy among specific groups, such as women,
+
+students, persons with disabilities, low-income households, people from areas vulnerable to climate change,
+
+public officials, and small businesses. The Subcomponent will finance consultants to (i) engage with beneficiaries
+
+to assess needs and gaps, (ii) create media materials on relevant topics or curate and disseminate existing
+
+materials where available, (iii) implement training of trainer programs among partner institutions, and (iv) deliver
+
+training programs around the country. Throughout implementation, effort will be on building awareness and
+
+capacity of women and girls to protect themselves and respond to gender-based cyberthreats, and of men and
+
+boys about constructive behaviors. The selected consultant would also support citizen engagement for
+
+Component 2.
+
+
+
+Subcomponent 2.2. Develop advanced digital skills of individuals (IDA US$3.0 million equivalent)
+
+
+
+40.     This Subcomponent will implement a high-quality training on advanced digital skills to 1,500 individuals.
+
+The Project will finance training services contracts with international or local providers. The contracts will be
+
+structured to be results-focused and to increase employability of participants including of people from groups that
+
+are under-represented in the IT sector (especially women, persons with disabilities, people from rural areas, and
+
+individuals from socially vulnerable groups). Hence, programs will include mechanisms to mobilize and serve
+
+specific trainee profiles—including a target of 40 percent of trainees being females—and to maximize
+
+employment outcomes or transitions to higher levels of education with a target of 30 percent of such trainees
+
+being females. The program will also include training of trainers to support long-term sustainability.
+
+
+
+Subcomponent 2.3: Support digital entrepreneurship (IDA US$2.0 million equivalent)
+
+
+
+2.3.(a) Incubation and acceleration program (IDA US$1.5 million equivalent)
+
+
+
+41.     This proposed program aims to promote digital entrepreneurship for job creation and support the
+
+development of the innovation economy in Nepal. The Project will finance consultancy contracts with
+
+internationally reputed providers of incubation and accelerations services. The consultants would undertake a
+
+study to define a roadmap to develop the startup ecosystem in Nepal; and would implement a pilot program in
+
+partnership with a university, training center, or other similar organizations. Building on the lessons of the pilot,
+
+the Project will finance follow-up activities to implement entrepreneurship and startup training, and incubation
+
+
+
+36The VLS connected to submarine cable landing stations allows to use a capacity purchase secured through a lease, indefeasible rights of use (IRU), or
+
+unlit ‘dark’ fiber. An IRU is a long-term lease for the right to use a stated amount of transmission capacity. Source: TeleGeography, 2021.
+
+                                                                            11
+
+The World Bank
+
+Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+
+
+
+and acceleration programs. These will focus on inclusion of entrepreneurs outside of Kathmandu, in rural areas,
+
+and from target social groups, including a target of 30 percent of participants establishing a startup being female.
+
+The program will not provide grants or make investments in startups; the main modality of support will include
+
+capacity building through trainings, mentorship, and network development.
+
+
+
+2.3.(b) Feasibility study on IT park development (IDA US$0.5 million equivalent)
+
+
+
+42.     Subcomponent 2.3.(b) will finance an international consultancy for a detailed feasibility study and design
+
+to attract international and private investors to Nepal to set up and implement IT parks and their facilities and
+
+services; undertake detailed stakeholder and investor consultations to assess existing and expected demand—
+
+including from the public sector—for one or more IT parks (or knowledge parks, special economic zones, or
+
+technology hubs) and a network of innovation and cocreation centers; model its approach based on successful
+
+cases and good practices for geographically decentralized development of IT parks and alternative emerging
+
+models (such as virtual IT parks and programs to attract “digital nomads”).
+
+
+
+Component 3: Enhancing the foundations of digital government (IDA US$62.0 million equivalent)
+
+
+
+Subcomponent 3.1: Enhance the digital trust ecosystem (IDA US$16.0 million equivalent)
+
+
+
+3.1.(a) Digital Signatures (IDA US$0.5 million equivalent)
+
+
+
+43.      This subcomponent will finance consultancies to support the Office of Controller of Certification (OCC)
+
+under the MoCIT to acquire global certification and to promote the use of digital signatures. Digital signature
+
+certificates have been established in Nepal with the adoption of Electronic Transaction Act 2063 and Rules 2064.
+
+The OCC provides licenses for Certifying Authorities. The Subcomponent will finance international consultancies
+
+to advise and prepare OCC for an external audit leading to a global certification. The Project will also finance
+
+services to boost demand and adoption of digital signatures.
+
+
+
+3.1.(b) Cybersecurity and Personal Data Protection (IDA US$15.5 million equivalent)
+
+
+
+44.     Subcomponent 3.1.(b) will finance a range of activities to implement parts of the cybersecurity (CS)
+
+strategy being developed by the MoCIT. This includes:
+
+    (i) Establishing a global standard national cyber security center (NCSC). The Project will finance the
+
+        procurement of software and hardware equipment,37 and of consultancies to advise on its establishment
+
+        and initial operations. As part of the NCSC,38 the Project would support setting up of: (i) a Security
+
+        Operations Center (SOC),39 (ii) a Network Operations Center (NOC),40 and (iii) a cybersecurity laboratory
+
+        (including for forensics) and training center.41 The NCSC will start its operations in existing premises of
+
+        MoCIT and would not require development of new facilities in the initial stage. Where feasible, renewable
+
+        energy sources will be used for the NCSC. In addition, the Project would also build the capacity of the
+
+37 This would include firewalls, intrusion detection and prevention systems, anti-malware tools, network access control products, and security information
+
+and event management products.
+
+38 Hardware equipment for the NCSC will be energy efficient, and where feasible, renewable energy sources will be used for the operations center, the
+
+
+
+cybersecurity laboratory and training center.
+
+39 The SOC would be responsible for monitoring, assessing, and defending government information systems (websites, applications, databases, data
+
+
+
+centers, and network).
+
+40
+
+   The NOC is a central location from which network administrators will manage, control, and monitor networking activities connected to data centers.
+
+41 The Cybersecurity Lab will enable simulation and analysis of cyberattacks to prepare for future incidents. The training center shall also conduct security
+
+
+
+awareness trainings for employees of public institutions.
+
+                                                                             12
+
+The World Bank
+
+Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+
+
+
+          Computer Emergency Response Teams including across selected sectors that could be more susceptible
+
+          to cyberthreats.
+
+     (ii) Training and capacity building for Government and other key stakeholders on CS (e.g., banks, DCs and
+
+          telecom providers, utilities, healthcare, and educational institutions). Trainings (including training-of-
+
+          trainers) on cybersecurity and related topics (e.g., online child security, online women’s safety) will be
+
+          designed and delivered to selected groups of government, public employees across levels of Government,
+
+          and key stakeholders (estimated as 1,000 people to be identified as “cybersecurity champions”).
+
+
+
+45.     This Subcomponent will also finance consultancies to support improvements in the broader trust
+
+ecosystem. This includes legal and regulatory measures to improve personal data protection, cybersecurity, online
+
+safety of specific social groups, with a focus on various Project investments. At the same time, it would identify
+
+opportunities for Nepal to build its trust ecosystem to enhance its competitiveness (e.g., aligning with the
+
+European General Data Protection Regulations). The review and development of these policies will involve
+
+stakeholders representing women, persons with disabilities, socially vulnerable groups, and business associations
+
+to ensure their participation and integrate their concerns in policy development.
+
+
+
+Subcomponent 3.2: Improve data center capacity (IDA US$40 million equivalent)
+
+
+
+46.     This Subcomponent will support increasing the capacity of DCs and cloud services for the public sector by
+
+financing:
+
+   (a) Consultancies for the demand analysis, design, and planning for the DCs to be implemented within the
+
+        Project period. This would include assessment of existing DCs; design services and feasibility studies for
+
+        DCs and definition of their in-demand and expected services, including to expand the range of cloud
+
+        services; development of procurement documents; to develop the policy and procedures framework for
+
+        DCs/cloud services; to identify possible private partnerships to develop Nepal as a data/cloud hosting
+
+        country; to define a sustainable operational model for public DCs.
+
+   (b) The supply and installation of information technology and related (power, cooling) equipment and
+
+        services (telecommunications, operations and maintenance) to make new DC locations operational. The
+
+        estimate is for a need to activate 10 MW of DC capacity nationally by 2027. The Project will not finance
+
+        land acquisition and does not foresee significant civil works. The DCs would be designed to meet global
+
+        standards in terms of (a) cybersecurity; (b) resilience to climatic events such as flooding (e.g., through
+
+        appropriate site selection, drainage), and (c) resistance to seismic activity through appropriate
+
+        construction techniques. The DCs design will also factor in energy efficiency to ensure that energy
+
+        consumption is minimized and hence reducing the carbon footprint of the DC capacity activated.42 Where
+
+        feasible, renewable energy will be used to power the DCs.
+
+
+
+Subcomponent 3.3. Implement select digital services (IDA US$6.0 million equivalent)
+
+
+
+47.      This Subcomponent will finance a consultancy firm to design and implement at least ten selected DNF
+
+initiatives across sectors. The implementation of this Subcomponent will follow two modalities, either to support
+
+Government-led initiatives by financing software development contracts for the benefit of the relevant service
+
+owner or to support private sector-driven initiatives that will only receive advisory support from the consultancy
+
+firm to mobilize private sector participation. The proposed public-private engagement model would attract from
+
+the private sector the required financial investment for implementation, with the government providing data and
+
+
+
+42For example, a 2016 report by the Lawrence Berkeley National Laboratory estimated that if 80 percent of servers in small US data centers moved to
+
+larger facilities, it would lead to 25 percent less energy use. See https://www.nature.com/articles/d41586-018-06610-y
+
+                                                                          13
+
+ The World Bank
+
+ Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+
+
+
+ other in-kind inputs including those set up through this Project. The firm will also design a Standard Operations
+
+ Procedure for service digitization projects, which will include business process optimization, change management,
+
+ staff optimization and reorganization, and availability of common resources. This Procedure can be used to digitize
+
+ government processes and services beyond this program.
+
+
+
+ 48.      The selection of DNF initiatives implemented through this Subcomponent would be an ongoing process.
+
+ This activity will support the identification and implementation of up to ten DNF initiatives that would not
+
+ otherwise be supported by the DNA Project or other ongoing or planned Government activities. Annual surveys
+
+ will be undertaken over the Project life to validate demand and relevance and to identify new priorities. A range
+
+ of digital initiatives would also support climate change adaptation and mitigation, apart from disaster response
+
+ and risk management.43
+
+
+
+ Component 4: Project management and coordination (IDA US$1 million equivalent, including incremental
+
+ operating costs of US$0.5 million equivalent)
+
+
+
+ 49.     This Component will support Project management, including carrying out the following: (i) financial
+
+ management and procurement; (ii) monitoring and evaluation; and (iii) other tasks related to overall
+
+ administration, environmental and social aspects, and communications and outreach. It will finance the hiring of
+
+ consultants to activate the PMU within the MoCIT and to support Project management and coordination to
+
+ implement the DNF and implement the DNA Project in coordination with each of the IAs (MoCIT, DoIT, NITC, NTA).
+
+
+
+C. Project Beneficiaries
+
+
+
+ 50.       The Project will directly benefit three groups:
+
+
+
+ (a)       Individuals of the municipalities connected through the Project. Subcomponent (SC) 1.1 will deliver
+
+ improved and lower-cost broadband services in the connected rural and remote areas, allowing more people,
+
+ households, and businesses in those areas to access a wider range of digital opportunities. SC1.2 will also help
+
+ reduce the costs of connectivity and improve the quality and access to global digital markets and resources
+
+ through improved international connectivity, which is a vital upstream element of digital connectivity. In addition,
+
+ digital literacy activities supported through SC2.1 will boost the inclusion of women, persons with disabilities, and
+
+ others who might be at risk of being left behind in or left out of the digital economy. Enhanced digital inclusion
+
+ will also improve vulnerable populations’ capacity to adapt to climate change with better access to information
+
+ and services (e.g., disaster early warning, telemedicine, agro-meteorological information, etc.) to cope with
+
+ climate variability and shocks.
+
+
+
+ (b)      Individuals and businesses will benefit from an expanded range of digital opportunities. Activities under
+
+ SC1.1 and Component 2 will support individuals and businesses seeking to leverage digital technologies to improve
+
+ their economic opportunities through enhanced skills and capacity to boost their employability or
+
+ competitiveness. Efforts will be made to ensure that services designed and implemented through SC3.3 will also
+
+ factor in the universal and accessible design approaches to include persons with disabilities and be gender and
+
+ socially inclusive as well.
+
+
+
+
+
+ 43
+
+   This includes precision farming program, smart irrigation system, use of drones for emergency health delivery, smart metering system for power
+
+ distribution, smart building / energy management systems, smart metering for water, intelligent waste management, automated waste sorting, intelligent
+
+ traffic management, improving the national disaster management system, and conducting disaster management training.
+
+                                                                          14
+
+The World Bank
+
+Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+
+
+
+(c)     Firms and the GoN will also benefit from improved connectivity and digital platforms and services. The
+
+improvements to connectivity and public services will benefit a range of enterprises and organizations (e.g., health
+
+centers, educational institutions, libraries) across Nepal. Component 3 will improve the ability of the GoN and
+
+public entities to use digital technologies to design, implement, and deliver public services to a range of
+
+beneficiaries across the country.
+
+
+
+51.     Specific Project activities will narrow gender gaps in the digital economy. Two specific SCs are designed
+
+to close existing gaps in access to skills, jobs, and entrepreneurship among women:
+
+
+
+(a)      The skills development programs under SC2.2 will close information and access gaps faced by women and
+
+girls regarding the opportunities to gain skills and thence employment in the digital industries. The training
+
+program includes mechanisms to reach a target of 40 percent of trainees being females, and to maximize
+
+employment outcomes or transitions to higher levels of education with a target of 30 percent of such trainees
+
+being females. By financing the cost of training services, SC2.2 will help address financial barriers that female
+
+trainees face. Mechanisms to maximize the probability of achieving these targets will include (i) informational
+
+campaigns including at educational institutions; (ii) outreach through women focused civil society organizations,
+
+(iii) mobilizing mentor networks to increase the probability of trainees successfully completing their programs,
+
+and (iv) engaging with employers early to increase the absorption of women into the digital workforce. The Project
+
+will also provide safe and inclusive training arrangements such as offering women only training led by female
+
+trainers, safe transport options for women to access training sites, and incorporating incident reporting
+
+mechanisms. It will explore the possibility of partnerships with employers to provide certifications to trainees to
+
+boost employability and will to conduct the training in-person and virtually to expand its geographic scope.
+
+
+
+(b)     Second, SC2.3 will also support female participation in incubation and acceleration programs through (i)
+
+targeted informational campaigns to mobilize participation; (ii) organizing activities during convenient times of
+
+the day and at safe locations, and offering women-only training led by female trainers; (iii) engaging with
+
+appropriate mentors and role models to increase participants’ and community awareness on the impacts of
+
+empowering female workers and entrepreneurs; (iv) working through civil society organizations to design and
+
+implement activities. The program will target that 30 percent of participants establishing a startup are female.
+
+
+
+52.     In addition, other activities support narrowing gender gaps. SC1.1 includes piloting programs to provide
+
+subsidized broadband services or devices to address the gender digital divides by testing how improving their
+
+affordability can drive female’s usage and interest in digital engagement.44 And SC2.1 will build the ability of
+
+women and girls to protect themselves and respond to gender-based cyber threats. Informational programs
+
+regarding e-services, targeted towards female users, will be organized including for services developed under
+
+SC3.3. Gender-disaggregated results indicators will track narrowing gender gaps.
+
+
+
+
+
+
+
+
+
+44
+
+ For example, decreasing prices of mobile phones and voice commands are contributing to reducing the gender gap in mobile ownership in India. Ee
+
+GSMA Development Fund. Women and Mobile-A Global Opportunity. 2013
+
+                                                                         15
+
+The World Bank
+
+Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+
+
+
+D. Results Chain
+
+
+
+Figure 1: Results Chain
+
+
+
+
+
+
+
+
+
+53.     Critical assumptions influence the results chain shown in Figure 1. First, that SPs will engage with and
+
+co-invest in the broadband roll-out to serve end-users in the settlements that the Project covers. Second, that
+
+individuals and businesses can and will pay for improved Internet services in the covered settlements and will
+
+engage with the digital services and programs supported by the Project. The Project will engage with beneficiaries
+
+regularly to verify and boost demand and interest. Third, that the GoN’s policy stance to attract private
+
+investments and enhance competition remains. And fourth, that the global macroeconomic conditions are
+
+conducive, and the investment climate continues to improve.
+
+
+
+E. Rationale for Bank Involvement and Role of Partners
+
+
+
+54.      The Project builds on the WBG’s long-term engagement in Nepal’s digital development. The proposed
+
+Project continues this support as the country recovers from the effects of the COVID-19 pandemic and aims for a
+
+transition to GRID. The GoN also sees value in the WB’s support to implement the strategic DNF, helping to attract
+
+international vendors and stakeholders to implement the program, and as a knowledge resource, to inform the
+
+design and implementation of the DNF. The WB has also engaged with a range of development partners, who
+
+
+
+
+
+
+
+
+
+                                                       16
+
+The World Bank
+
+Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+
+
+
+have confirmed their interest in supporting specific aspects of digital development and possibly specific DNF
+
+initiatives.45
+
+
+
+55.     The Project’s financing and associated support through a One WBG approach helps accelerate the
+
+implementation of GoN programs. The WBG’s support—which includes IDA financing, but also the technical
+
+advisory, knowledge sharing, and convening activities, in collaboration with the IFC as appropriate—will support
+
+the GoN in implementing the DNF. The GoN sees value in the WB’s global experience in supporting the
+
+development of digital connectivity and public platforms in a range of countries across South Asia and other
+
+regions. It also seeks the WB’s expertise and advice on emerging high priority issues such as the development of
+
+the trust ecosystem and of the capacity of the public sector, and among individuals and small businesses to take
+
+advantage of digital opportunities. Finally, the WB has engaged with development partners working in Nepal to
+
+identify and link activities that could draw on their ongoing or planned engagements across sectors (e.g.,
+
+agriculture, education) and in specific areas (e.g., business advisory, training of small businesses).
+
+
+
+F. Lessons Learned and Reflected in the Project Design
+
+
+
+56.      The design of the Project’s activities is informed by the experience of the WB in supporting digital
+
+acceleration programs globally. Activities under Component 1 draw on the experiences of broadband connectivity
+
+programs implemented across Africa and Europe and Central Asia, including to (i) focus on measures to reduce
+
+the cost of network deployment; (ii) ensuring upstream and consistent engagement with private sector to
+
+maximize their participation in grant programs; (iii) position the public sector as an anchor tenant to improve the
+
+prices and quality of international connectivity; and (iv) include demand-side interventions to complement
+
+investments in network deployment to enhance inclusive impacts of the Project activities. The design of activities
+
+under Component 2 draw on projects implemented in a range of countries,46 where capacity development
+
+programs benefited from links with public institutions (for digital literacy), tertiary education institutions and
+
+employers (for skills development), and the local and regional innovation ecosystems especially funders and
+
+investors (for entrepreneurship), to boost outcomes, including for successful employment and startup
+
+development. Component 3 draws on the WB’s global experience on digital platform development, including to
+
+ensure alignment of investments in DCs with demand from potential users, to explore possibilities for private
+
+participation in DC and digital services development, and to design infrastructure and services in a collaborative
+
+manner across the government and its institutions to avoid duplication or silos. We also draw on the WB’s
+
+significant experience in implementing investment projects in Nepal, especially related to the design of Project
+
+implementation arrangements. Design ensures alignment with national programs and priorities to promote
+
+ownership and sustainability and has well-defined roles and responsibilities for implementation among involved
+
+agencies with appropriate capacity building and coordination support.
+
+
+
+57.      The proposed Project and its design also draw on the findings of the WBG’s analytical work. Overall, the
+
+Project balances among analog complements (skills and the regulatory environment) with improvements in core
+
+digital foundations and services, in line with the findings of the World Development Report 2016.47 The Project
+
+
+
+45 This includes digital initiatives in education, health, tourism, financial services, among others. Development partners consulted with include Foreign,
+
+Commonwealth and Development Office (U.K.), United States Agency for International Development, Swiss Agency for Development and Cooperation, UN
+
+Capital Development Fund, Embassy of Finland, Kathmandu, Asian Development Bank, and Delegation of the European Union to Nepal.
+
+46 This includes World Bank projects such as Bangladesh Leveraging ICT Growth, Employment and Governance Project (P122201), Log-in Georgia
+
+
+
+(P169698), Kosovo Digital Economy (P164188), Digital Jobs in Khyber Pakhtunkhwa (P165684), and Caribbean Digital Transformation Project (P171528).
+
+47 It is also important to note that the Project design focuses on building digital foundations, while also recognizing that Nepal can derive greater digital
+
+
+
+dividends by building the analog complements, including to address the many other constraints that affect inclusion, innovation, and efficiency across the
+
+
+
+
+
+                                                                             17
+
+       The World Bank
+
+       Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+
+
+
+       scope was also informed by the results of an assessment undertaken for Nepal as part of a Digital Economy for
+
+       South Asia analytical work (P172300) that recommended, among a range of reforms and investments, a need for
+
+       Nepal to consider (i) accelerating the deployment of infrastructure in rural areas; (ii) de-risking private investments
+
+       in less-commercially-viable and high-cost; (iii) improving access to devices for rural and low-income households
+
+       and individuals; (iv) organize digital skills initiatives at different levels of the education system; and (v) strengthen
+
+       cybersecurity and personal data protection.
+
+
+
+III.    IMPLEMENTATION ARRANGEMENTS
+
+
+
+       A. Institutional and Implementation Arrangements
+
+
+
+       58.     The MoCIT will oversee implementation of the Project. It will constitute a Project Steering Committee
+
+       (PSC) chaired by the Secretary of MoCIT. The Project will have four implementing agencies (IAs)—MoCIT, the DoIT,
+
+       the NITC, and NTA—supported by a Project Management Unit (PMU) to be established at the MoCIT. Each IA will
+
+       be responsible for implementation of specific activities. A Project Operations Manual (POM) will detail
+
+       arrangements and procedures for institutional coordination and day-to-day execution of the Project including the
+
+       responsibilities of the PSC, PMU and the Implementing Agencies’ focal points, apart from administrative, financial,
+
+       technical and organizational arrangements and procedures as shall be required for the Project. Proposed
+
+       arrangements are detailed in Annex 1.
+
+
+
+       B. Results Monitoring and Evaluation Arrangements
+
+
+
+       59.     Proposed indicators rely on data that public agencies and surveys already collect, and some indicators
+
+       will be collected through Project activities during implementation. The NTA collects data on subscriptions,
+
+       subscription packages and fees, and telecommunications business. The Project will also finance collection and
+
+       analysis of the data needed to measure outcomes, including disaggregated data of access and use by women,
+
+       women-headed households, women-owned enterprises, persons with disabilities, and other beneficiary groups.
+
+
+
+       C. Sustainability
+
+
+
+       60.       The proposed Project finances activities that are an integral part of the GoN’s national and sector
+
+       strategies and that are designed to maximize sustainability. The 15th National Plan (which goes until 2024),
+
+       includes an explicit reference to the DNF as noted above. The Project’s sustainability is enhanced by using targeted
+
+       and market-based mechanisms to expand digital connectivity including by mobilizing private capital, by supporting
+
+       investments in digital platforms that reduce the long-run costs of public services delivery, and through support to
+
+       policy and regulatory measures that create an enabling environment with long-term benefits. Project activities
+
+       will build capabilities that will outlive the Project period. The primary issues of sustainability that might arise after
+
+       Project closure include the GoN’s and stakeholders’ commitment to continue to upgrade, operate, and maintain
+
+       digital infrastructure and services developed through the SCs 1.1, 1.2, 3.2, and 3.3. Efforts are already underway
+
+       to liaise with the private sector, development partners, and public agencies that could continue or complement
+
+       activities.
+
+
+
+
+
+
+
+       public and private sectors and for individuals. Those include improved access to hard infrastructure and to finance, improved business regulations and
+
+       market competition, sustainable public finances, stronger institutions, and greater trust in citizen-state relations.
+
+                                                                                  18
+
+      The World Bank
+
+      Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+
+
+
+IV.        PROJECT APPRAISAL SUMMARY
+
+
+
+      A. Technical and Economic Analysis
+
+
+
+      61.     The expansion of broadband connectivity is expected to have positive economic impacts. The economic
+
+      analysis for SC1.1—accounting for 48 percent of the Project costs—using a cost-benefit framework using a ‘with’
+
+      and ‘without’ methodology found the expected economic rate of return (ERR) over a 10-year period to be positive
+
+      under a range of assumptions. Various analyses of the economic impact of fixed broadband connectivity on GDP
+
+      per capita has found impacts of between 0.3 and 3.2 percentage point increases in GDP per 10 percentage point
+
+      increases in fixed broadband penetration. This is due to the reductions in transaction costs and increased
+
+      opportunities for productivity and income generation among those individuals and households that will be better
+
+      connected. A base case scenario—considering a positive impact on per capita incomes of subscribing households
+
+      of 0.9 percentage points per every 10 percentage-point increase in fixed broadband adoption,48 with a third of
+
+      households in covered areas subscribing by 2027, and a 10 percent discount rate—is that the ERR will be 17
+
+      percent. The results are robust for higher costs of deployment and for lower subscription rates.
+
+
+
+      62.      Digital skills development activities under SC2.2 are also expected to lead to positive returns. The
+
+      program will build the skills and capacities of individuals to work with the digital economy, allowing them to access
+
+      new markets and opportunities. The expected impact on trainees’ incomes, apart from broader productivity
+
+      spillovers, is positive. Returns to the GoN only the through additional income taxes collected if 80 percent of
+
+      trainees that find employment, under conservative assumptions, is 7 percent over a five-year period. The discount
+
+      rate used for the analysis is 10 percent and the income tax rate considered is 10 percent.
+
+
+
+      63.      The Project activities supporting improved delivery of public services will reduce the costs of service
+
+      borne by individuals and lead to overall positive economic returns. The economic analysis focuses on wider use
+
+      by individuals of improved digital government services that are deployed using improved DC capacity under SC3.2
+
+      and that are developed under SC3.3 (total of about 25 percent of Project costs). Benefits accrue to citizens through
+
+      the decreases in cost of public services, reduced travel times, or simplification of business processes. The ERR
+
+      using a ‘with’ and ‘without’ methodology over a 10-year period, considering a 10 percent discount rate, and a
+
+      conservative two percentage point reduction in the cost of services currently borne by Nepalese citizens, is 24
+
+      percent. Results are robust for a range of scenarios, including increased activity costs and reduced benefits.
+
+
+
+      B. Fiduciary
+
+
+
+      (i) Financial Management
+
+
+
+      64.      A PMU set up under the MoCIT will include qualified and experienced finance officer(s) or consultant(s)
+
+      as needed to coordinate the Financial Management (FM) functions for all IAs. The fund flow for all the agencies
+
+      shall be following the normal GoN budget release system. Payments shall be pre-financed from the GoN’s treasury
+
+      accounts and IDA will make reimbursements to the GoN treasury based on SOEs. Direct payments to payees can
+
+      also be made from IDA as specified in the DFIL. The PMU will be responsible for disbursement coordination for
+
+
+
+
+
+      48
+
+        See for example, https://www.un.org/ohrlls/sites/www.un.org.ohrlls/files/19-00328_1h_economic_impact_of_broadband.pdf or
+
+      https://documents1.worldbank.org/curated/en/178701467988875888/pdf/102955-WP-Box394845B-PUBLIC-WDR16-BP-Exploring-the-Relationship-
+
+      between-Broadband-and-Economic-Growth-Minges.pdf
+
+                                                                         19
+
+      The World Bank
+
+      Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+
+
+
+      the Project. The PMU will coordinate with all the agencies to ensure that a timely and quality internal audit is
+
+      carried out by Financial Comptroller General Office (FCGO). Details are in Annex 1.
+
+
+
+      (ii) Procurement
+
+
+
+      65.      Depending on the activity, Project procurement will be carried out by MoCIT/PMU, NTA, NITC and DoIT
+
+      as the cost centers. However, for the purpose of procurement transaction under the Project, three implementing
+
+      agencies have been determined to be included in the WB’s STEP system, viz. (i) MoCIT/PMU for MoCIT and DOIT,
+
+      (ii) NTA, and (iii) NITC. The WB’s Procurement Regulations for IPF Borrowers, July 2016 (Revised November 2020)
+
+      and the provisions stipulated in the FA will be applicable to the procurement of Goods, Works, Non- Consulting
+
+      and Consulting Services for the Project. However, procurement of Goods, Works, and Non-Consulting services
+
+      with open-national market approach may be carried out using national procurement procedures, with caveats, as
+
+      indicated in the Project Procurement Strategy for Development (PPSD) and the Procurement Plan in the
+
+      Systematic Tracking of Exchanges in Procurement (STEP) system. The MoCIT will oversee the overall
+
+      implementation of the Project through the PMU established within the Ministry. Details are in Annex 1.
+
+
+
+.      C. Legal Operational Policies
+
+.
+
+                                                                                      Triggered?
+
+Projects on International Waterways OP 7.50                                            No
+
+Projects in Disputed Areas OP 7.60                                                     No
+
+.
+
+
+
+       D. Environmental and Social
+
+
+
+      66.      The environmental and social risks of the Project are rated Moderate. The relevant Environmental and
+
+      Social Standards (ESSs) are ESS1, 2, 3, 4, 5, 6, 7, 8 and 10. Potential environmental risks and impacts include: (i)
+
+      soil removal and vegetation clearance for the construction of the new DC, telecommunications towers, and for
+
+      the deployment of fiber optic cables; (ii) generation of solid waste from residual construction materials; (iii)
+
+      management and disposal of electronic waste (E-waste) as a result of the decommissioning of old equipment
+
+      which includes unused e-gadgets, fibers and electronic wires; and (iv) nuisance related to dust generation,
+
+      vibration and noise during construction activities. Key social risks are: (i) temporary restriction of access to
+
+      land/property and livelihood impacts during construction of new DC and laying of fiber optic cables depending on
+
+      the length and location of the cables (e.g. roadside vendors); (ii) Occupational Health and Safety hazards for the
+
+      workers; (iii) labor influx; (iv) social exclusion of women, population living in rural and small town areas, persons
+
+      with disabilities and other members of vulnerable groups in accessing Project benefits; (v) social risks associated
+
+      with protection of personal data and data privacy considerations; (vi) lack of adequate consultation of affected
+
+      persons and access to functioning grievance redress mechanisms; and (vii) low capacity of the implementing
+
+      agency to manage E&S risks. However, these risks are expected to be site-specific, short-term, and reversible. The
+
+      Sexual Exploitation and Abuse/Sexual Harassment (SEA/SH) risk of the Project has also been rated “Moderate”
+
+      considering increased interaction between workers, community, school children, and women and girls during
+
+      construction works (towers, DCs, deployment of fiber optic cables) as well as insufficient capacity and experience
+
+      of the client in handling SEA/SH complaints.
+
+
+
+
+
+
+
+                                                               20
+
+The World Bank
+
+Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+
+
+
+67.      MoCIT has prepared an Environmental and Social Management Framework (ESMF) and a Stakeholder
+
+Engagement Plan (SEP) in line with the WB’s Environmental and Social Standards and national regulations
+
+including GoN’s Environmental Protection Act 2019 and Environmental Protection Rule 2020. The ESMF includes
+
+an environmental and social (E&S) screening checklist/template, exclusion list, measures related to occupational
+
+health and safety, community health and safety, conservation of biodiversity and solid and hazardous waste
+
+management. The ESMF also includes a simplified Resettlement Policy Framework (RPF). A Labor Management
+
+Procedure (LMP) was also disclosed. During implementation, site specific Environmental and Social Management
+
+Plans (ESMPs) will be prepared and implemented based on the screening guidance and risk level of each specific
+
+activity/subproject. The ESMF will include SEA/SH response and prevention Action Plan with specific mitigation
+
+and response measures such as stakeholders' consultations and awareness on gender-based violence/SEA/SH,
+
+mapping of Project areas service providers, code of conducts for Project personnel and workers, and
+
+strengthening institutional mechanisms that aid in accessing grievance redressal. During implementation, the
+
+PMU will be responsible for environmental and social screening and ensuring that E&S risk mitigation measures
+
+are included in bidding documents and specific contractual clauses in contracts with contractors. PMU will train
+
+employees of IAs and contractors on implementing E&S instruments and preparation of reports. The
+
+implementation of E&S measures will be regularly monitored and reported by MoCIT PMU. The ESMF, SEP, LMP,
+
+and Environmental and Social Commitment Plan (ESCP) were disclosed by the WB on April 10, 2022, and by the
+
+MoCIT on April 21, 2022.49
+
+
+
+68.      Citizen engagement. Beneficiaries will be central to the design and implementation of Project activities,
+
+including in the design of major investments that support the achievement of the PDO. The Project includes citizen
+
+engagement through consultations and participatory planning, beneficiary satisfaction surveys, and a grievance
+
+redressal mechanism to respond to stakeholder feedback or concerns related to Project-financed activities.
+
+Specific Project activities will be designed through consultation and engagement with intended beneficiaries,
+
+including: (a) community surveys and consultations within targeted settlements to inform choice of locations and
+
+routing of broadband networks (under SC1.1); and (b) engagement with potential beneficiaries and citizen
+
+feedback on satisfaction to improve design and impact of digital services delivered (under SC3.3). The results
+
+framework includes citizen engagement indicators that assess beneficiary satisfaction over the Project period,
+
+with (1) access to and quality of broadband services (under SC1.1); (2) skills development activities under SC2.2;
+
+(3) digital business support services delivered under SC2.3; (4) new e-services supported through the Project under
+
+SC3.3; and (5) grievance redressal.
+
+
+
+69.      Climate change and disaster screening and co-benefits. The Project activities are susceptible to climate
+
+change, seismic or adverse climatic events—including landslides, floods, and heavy precipitation, which can
+
+damage telecommunications networks and DCs. The delivery of skills development programs could be hampered
+
+by such adverse events if people lose access to transportation, or if delivered online, to the digital networks
+
+connecting them. Hence, the Project will incorporate climate change mitigation and adaptation measures to
+
+reduce the impacts of climate risk and reduce greenhouse gas emissions. Infrastructure development will
+
+incorporate design standards and engineering measures to withstand climate risks and ensure greater security in
+
+case of natural hazards. The Project activities will provide broadband services to educational, government, and
+
+healthcare establishments for continued services using digital platforms if travel is not possible or facilities are
+
+overwhelmed in the event of climate change-exacerbated natural disasters. The Project will also use energy
+
+efficient technologies and renewable energy sources in its activities (for broadband connectivity and DC
+
+development), while appropriately handling any e-waste generated through Project activities; it will also seek to
+
+
+
+49   The E&S documents have been disclosed by the MoCIT at https://mocit.gov.np/categorydetail/20790105
+
+                                                                         21
+
+      The World Bank
+
+      Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+
+
+
+      promote wider e-waste management processes across the GoN and private sector. The Project will enhance
+
+      resilience to climate impacts by enhancing digital literacy and access to timely information on climate variability,
+
+      as well as early warning of disasters in rural communities, targeting agriculture workers, for example. The Project
+
+      will also provide better connectivity that would enable real time monitoring of water supply systems by public
+
+      services and communities vulnerable to climate impacts.
+
+
+
+      70.       With regards to SC1.1, design and specifications of broadband networks would ensure that the supported
+
+      civil works (estimated to be about 60 percent of the total investments) are built following international good
+
+      practices to ensure climate-resilience including to natural disasters (e.g., earthquakes, landslides, flooding), that
+
+      telecommunications equipment used (estimated to be about 20 percent of the total investments) will be energy
+
+      efficient, use to the greatest extent feasible the existing utility infrastructure to reduce the costs and the social
+
+      and economic impacts of network deployment, and to ensure the sustainability of these solutions by preventing
+
+      environmental degradation and reducing greenhouse gas emissions (for example, the use of renewable energy
+
+      sources for active equipment and to power mobile networks and/or co-deploy energy solutions/mini-grids). With
+
+      regards to SC3.2, DCs will be designed to be climate-resilient by allowing connectivity to be re-routed in the event
+
+      of damage caused by a natural disaster, and a data recovery and back-up plan will be in place to prevent any data
+
+      loss. IT equipment used (about 80 percent of the costs) will be energy efficient lowering induced greenhouse gas
+
+      emissions. Additional analysis on climate co-benefits is available in the Project files.
+
+
+
+V.     GRIEVANCE REDRESS SERVICES
+
+
+
+
+
+      71.     Communities and individuals who believe that they are adversely affected by a World Bank (WB)
+
+      supported project may submit complaints to existing project-level grievance redress mechanisms or the WB’s
+
+      Grievance Redress Service (GRS). The GRS ensures that complaints received are promptly reviewed in order to
+
+      address project-related concerns. Project affected communities and individuals may submit their complaint to
+
+      the WB’s independent Inspection Panel which determines whether harm occurred, or could occur, as a result of
+
+      WB non-compliance with its policies and procedures. Complaints may be submitted at any time after concerns
+
+      have been brought directly to the World Bank's attention, and Bank Management has been given an opportunity
+
+      to respond. For information on how to submit complaints to the World Bank’s corporate Grievance Redress
+
+      Service (GRS), please visit www.worldbank.org/grs. For information on how to submit complaints to the World
+
+      Bank Inspection Panel, please visit www.inspectionpanel.org.
+
+
+
+
+
+VI.    KEY RISKS
+
+
+
+      72.     Overall risk rating for the Project is Substantial. Key risks and mitigation measures are discussed below.
+
+
+
+      73.     Political and Governance risks are rated as Substantial. Elections are scheduled for all three tiers of
+
+      government during 2022, of which local level elections have been recently concluded. In principle, the federal
+
+      system provides opportunities to decentralize development benefits and make service delivery more effective
+
+      and accountable. The pandemic also underscored the role of local governments, especially in deploying social
+
+      programs. However, the risks of political uncertainty, jurisdictional overlap between the three tiers of
+
+      government, and lack of clarity and coherence between policies and devolved powers will remain in the coming
+
+      period. The WB is closely monitoring the country situation and maintains regular dialogue on the development
+
+      agenda with all key stakeholders to mitigate any risks that may be influenced by political change. While the extent
+
+
+
+                                                               22
+
+The World Bank
+
+Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+
+
+
+to which political risks can be mitigated through Project-specific measures is limited, the Project design includes
+
+specific actions to build public support through broader stakeholder participation, strategic communication, and
+
+outreach. Other measures include implementing the institutional strengthening activities under the Project,
+
+dialogue and close collaboration with GoN entities, and proactive engagement by the WB team and management
+
+as issues arise.
+
+
+
+74.     Macroeconomic risks are Substantial. One major uncertainty is the speed of booster dose deployment
+
+and vaccine effectiveness to stop transmission of a new COVID-19 variant. A second is stronger import control
+
+measures to mitigate pressures on international reserves, which could affect growth through lower trade-related
+
+tax revenues, depressed private consumption and production, and lower capital expenditures. The ongoing war
+
+in Ukraine, if it deepens further, could lower travel demand and may threaten the recovery of tourism and tourism
+
+related sectors. While downside risks are significant, Nepal’s strong record of sustained macroeconomic stability
+
+during periods of large exogenous shocks demonstrates a growing capacity to navigate future macroeconomic
+
+risks.
+
+
+
+75.      Institutional Capacity for Implementation and Sustainability Risks are Substantial . IAs have limited
+
+experience with WB-financed Projects and limited capacity for project management. Project design mitigates this
+
+risk through implementation support embedded in activities, along with creation of a PMU to coordinate among
+
+and support all four IAs. The Project will also draw upon the private sector to support implementation of various
+
+activities where it has a competitive advantage. In addition, the WB will provide advisory services through parallel
+
+engagements to support implementation of the Project.
+
+
+
+76.      The Fiduciary risks of the Project are Substantial. The IAs have limited recent experience in implementing
+
+WB-funded projects. Considering the volume and complexity of procurement and technical works they will need
+
+significant capacity building. The primary mitigation measure is to establish the PMU within the MoCIT, staffed
+
+with procurement and FM specialists to support all the IAs. Other mitigation measures include (i) contract awards
+
+within the original bid/proposal validity periods; (ii) ensuring adequate staffing with the requisite expertise at the
+
+PMU and IAs throughout the Project lifecycle; (iii) recruiting consultants for procurement, FM and technical
+
+support, and for specific technical support; and (iv) an appropriate capacity building program designed and
+
+implemented for all IAs including an orientation program in the beginning of the Project implementation.
+
+
+
+77.      Stakeholders risk is Substantial across two dimensions. First, delivery of improved public services (under
+
+SC3.3) will rely on demand and engagement of multiple government agencies, potentially across multiple levels
+
+of the federal system. Mitigation measures include aligning with demand and interest of the agencies responsible
+
+for the selected services to be digitized. Second, SC1.1 anticipates significant private capital mobilization.
+
+Unforeseen changes in the macroeconomic circumstances might disrupt the investment plans of the private
+
+sector. Key mitigation measures here include constant engagement with potential investors in the design and roll
+
+out of the program and regulatory measures to reduce costs of network rollout..
+
+
+
+
+
+
+
+
+
+                                                         23
+
+                         The World Bank
+
+                         Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+
+
+
+                                                                                  VII.     RESULTS FRAMEWORK AND MONITORING
+
+
+
+                                                                                                    Results Framework
+
+                                                                                                     COUNTRY: Nepal
+
+                                                                                         Digital Nepal Acceleration (DNA) Project
+
+
+
+Project Development Objectives(s)
+
+To expand access to broadband in Project areas, to improve the capacity of individuals to engage in the digital economy, and to enhance the foundations
+
+for digital government.
+
+
+
+Project Development Objective Indicators
+
+RESULT_FRAME_TBL_ PD O
+
+
+
+
+
+
+
+
+
+                                        Indicator Name                             PBC      Baseline                                End Target
+
+
+
+
+
+Expanding access to broadband
+
+
+
+People provided with access to broadband services (Number)                                 0.00                                     1,000,000.00
+
+
+
+                   Share among female inhabitants of Project areas (Percentage)            0.00                                     50.00
+
+
+
+                   Share among inhabitants of rural municipalities (Percentage)            0.00                                     70.00
+
+
+
+Improve the capacity of individuals to engage in the digital economy
+
+
+
+Beneficiaries of the digital skills development program who
+
+                                                                                           0.00                                     80.00
+
+report being employed or in higher education (Percentage)
+
+
+
+                   Among female beneficiaries (Percentage)                                 0.00                                     80.00
+
+
+
+                   Among beneficiaries who are persons with disabilities
+
+                                                                                           0.00                                     80.00
+
+                   (Percentage)
+
+
+
+Enhance the foundations of digital government
+
+
+
+New digital government services available to the public, under                             0.00                                     20.00
+
+
+
+
+
+                                                                                                             24
+
+                         The World Bank
+
+                         Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+
+RESULT_FRAME_TBL_ PD O
+
+
+
+
+
+
+
+
+
+                                        Indicator Name                        PBC    Baseline         End Target
+
+
+
+
+
+the Project (Number)
+
+
+
+  PDO Table SPACE
+
+
+
+
+
+Intermediate Results Indicators by Components
+
+RESULT_FRAME_TBL_ IO
+
+
+
+
+
+
+
+
+
+                                        Indicator Name                        PBC    Baseline         End Target
+
+
+
+
+
+Expanding access to broadband
+
+PCM indicator: Private capital attracted into rural broadband
+
+                                                                                    0.00             40,000,000.00
+
+under Subcomponent 1.1 (Amount(USD))
+
+Citizen engagement: Beneficiaries satisfied with access to and
+
+                                                                                    0.00             80.00
+
+quality of broadband services (Percentage)
+
+Installed telecommunications equipment that is certified as
+
+                                                                                    0.00             90.00
+
+energy efficient (Percentage)
+
+Reduction in price of international IP transit services
+
+(Percentage)                                                                        0.00             33.00
+
+
+
+Improving the capacity of individuals to engage in the digital economy
+
+People trained through digital literacy programs (Number
+
+(Thousand))                                                                         0.00             10.00
+
+
+
+                   Share of whom are female (Percentage)                            0.00             50.00
+
+Participants in skills development securing new income or
+
+employment opportunities after completing the digital skills                        0.00             80.00
+
+training supported by the Project (Percentage)
+
+                   Share of whom are female (Percentage)                            0.00             30.00
+
+Citizen engagement: Skills program participants expressing
+
+satisfaction with the activities under Subcomponent 2.2                             0.00             80.00
+
+(Percentage)
+
+Participants establishing a startup after completing                                0.00             80.00
+
+
+
+                                                                                                25
+
+                       The World Bank
+
+                       Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+
+RESULT_FRAME_TBL_ IO
+
+
+
+
+
+
+
+
+
+                                      Indicator Name                        PBC    Baseline         End Target
+
+
+
+
+
+entrepreneurship activities supported by the project
+
+(Percentage)
+
+                   Share of whom are female (Percentage)                          0.00             30.00
+
+Citizen engagement: Startups reporting satisfaction with
+
+incubation and acceleration services received under                               0.00             80.00
+
+Subcomponent 2.3 (Percentage)
+
+                   Share among female owned or managed startups
+
+                   (Percentage)                                                   0.00             80.00
+
+
+
+Enhancing the foundations of digital government
+
+Digital signatures issued in Nepal (Number (Thousand))                            5.00             20.00
+
+Cybersecurity Center established and operational with staff in
+
+place and procedures published in a format that is readily                        No               Yes
+
+available to the public and industry (Yes/No)
+
+Installed IT equipment that is certified as energy efficient
+
+                                                                                  0.00             90.00
+
+(Percentage)
+
+Digital government functions and services using data centers
+
+                                                                                  0.00             40.00
+
+supported by the Project (Number)
+
+Citizen engagement: People accessing new e-services supported
+
+through the Project and reporting satisfaction (Percentage)                       0.00             80.00
+
+
+
+                   Of which, share among females (Percentage)                     0.00             80.00
+
+Project management and coordination
+
+Citizen engagement: Grievances registered that receive an
+
+                                                                                  0.00             80.00
+
+adequate response within 30 days (Percentage)
+
+  IO Table SPACE
+
+
+
+  UL Table SPACE
+
+
+
+
+
+
+
+                                                                                              26
+
+     The World Bank
+
+     Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+
+
+
+                                                            Monitoring & Evaluation Plan: PDO Indicators
+
+                                                                                                           Methodology for Data   Responsibility for Data
+
+Indicator Name                                Definition/Description            Frequency   Datasource
+
+                                                                                                           Collection             Collection
+
+                                              The number of people
+
+                                              provided with access to
+
+                                              broadband services in the
+
+                                              municipalities included in
+
+                                              the Project. This counts
+
+                                              those able to access greater-
+
+People provided with access to                than-30 Mbps service
+
+broadband services                            through networks
+
+                                              supported by the Project
+
+                                              directly or indirectly. It
+
+                                              supports the CRI of people
+
+                                              provided with access to the
+
+                                              internet. This indicator is
+
+                                              disaggregated by gender.
+
+   Share among female inhabitants of
+
+   Project areas
+
+   Share among inhabitants of rural
+
+   municipalities
+
+                                              This indicator will measure
+
+                                              the percentage of graduates
+
+                                              from specialized digital skills
+
+                                              training supported by the
+
+Beneficiaries of the digital skills
+
+                                              project, who are either
+
+development program who report being
+
+                                              employed or in a higher
+
+employed or in higher education
+
+                                              level of education 12
+
+                                              months after completing the
+
+                                              training. Employment would
+
+                                              include employment in the
+
+
+
+                                                                                   27
+
+     The World Bank
+
+     Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+
+
+
+                                              private sector/public sector
+
+                                              or self-employment, and
+
+                                              education would include
+
+                                              graduates pursuing higher
+
+                                              education (e.g., specialized
+
+                                              master’s and/or PhD
+
+                                              programs), both in fields
+
+                                              related to the digital skills
+
+                                              training programs. It
+
+                                              supports the CRI of number
+
+                                              of beneficiaries of jobs-
+
+                                              focused interventions. The
+
+                                              indicator is gender-
+
+                                              disaggregated.
+
+    Among female beneficiaries
+
+    Among beneficiaries who are persons
+
+    with disabilities
+
+                                          The sum of the number of
+
+                                          digital services delivered
+
+New digital government services available through SC3.3 and of new
+
+to the public, under the Project          services hosted in the data
+
+                                          centers supported through
+
+                                          SC3.2.
+
+ ME PDO Table SPACE
+
+
+
+
+
+                                                    Monitoring & Evaluation Plan: Intermediate Results Indicators
+
+                                                                                                         Methodology for Data   Responsibility for Data
+
+Indicator Name                                Definition/Description          Frequency   Datasource
+
+                                                                                                         Collection             Collection
+
+PCM indicator: Private capital attracted
+
+into rural broadband under
+
+
+
+                                                                                 28
+
+     The World Bank
+
+     Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+
+
+
+Subcomponent 1.1
+
+
+
+Citizen engagement: Beneficiaries
+
+satisfied with access to and quality of
+
+broadband services
+
+                                               Share of network
+
+                                               equipment installed (by
+
+                                               share of total costs of
+
+Installed telecommunications equipment         equipment procured under
+
+that is certified as energy efficient          Subcomponent 1.1 and 1.2)
+
+                                               that is certified by Energy
+
+                                               Star or equivalent
+
+                                               standards.
+
+Reduction in price of international IP
+
+transit services
+
+                                               It will count people who
+
+                                               have participated in at least
+
+                                               one training session
+
+                                               conducted as part of SC 2.1.
+
+                                               This indicator will also count
+
+People trained through digital literacy
+
+                                               those trained by third
+
+programs
+
+                                               parties that were not
+
+                                               directly financed by the
+
+                                               Project but where training
+
+                                               used materials financed by
+
+                                               the Project.
+
+    Share of whom are female
+
+Participants in skills development securing
+
+new income or employment opportunities
+
+after completing the digital skills training
+
+supported by the Project
+
+
+
+                                                                                29
+
+     The World Bank
+
+     Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+
+
+
+    Share of whom are female
+
+Citizen engagement: Skills program
+
+participants expressing satisfaction with
+
+the activities under Subcomponent 2.2
+
+Participants establishing a startup after
+
+completing entrepreneurship activities
+
+supported by the project
+
+    Share of whom are female
+
+                                              This indicator will measure
+
+                                              the satisfaction rate of firms
+
+Citizen engagement: Startups reporting        participating in the
+
+satisfaction with incubation and              programs run by the
+
+acceleration services received under          supported incubators and
+
+Subcomponent 2.3                              accelerators, which will
+
+                                              indicate the quality of
+
+                                              services provided.
+
+    Share among female owned or
+
+    managed startups
+
+Digital signatures issued in Nepal
+
+Cybersecurity Center established and
+
+operational with staff in place and
+
+procedures published in a format that is
+
+readily available to the public and
+
+industry
+
+                                              Share of equipment
+
+                                              installed (by share of total
+
+Installed IT equipment that is certified as   costs of equipment
+
+energy efficient                              procured under SCs 3.1 and
+
+                                              3.2) that is certified by
+
+                                              Energy Star or equivalent
+
+                                                                               30
+
+     The World Bank
+
+     Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+
+
+
+                                              standards.
+
+
+
+                                          The number of separately
+
+Digital government functions and services
+
+                                          identifiable digital
+
+using data centers supported by the
+
+                                          government functions or
+
+Project
+
+                                          services using the facilities.
+
+                                          This indicator will track the
+
+                                          percentage of people
+
+                                          accessing new e-services
+
+Citizen engagement: People accessing
+
+                                          supported through the
+
+new e-services supported through the
+
+                                          project and reporting
+
+Project and reporting satisfaction
+
+                                          satisfaction. Data collected
+
+                                          will connected through the
+
+                                          e-services.
+
+    Of which, share among females
+
+                                              Percentage of grievances or
+
+Citizen engagement: Grievances                complaints, relating to the
+
+registered that receive an adequate           project, which are
+
+response within 30 days                       responded to within 30 days
+
+                                              of receipt (annual average)
+
+ME IO Table SPACE
+
+
+
+
+
+
+
+
+
+                                                                            31
+
+The World Bank
+
+Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+
+
+
+                         Annex 1: Implementation Arrangements and Support Plan
+
+
+
+                                               COUNTRY: Nepal
+
+                                    Digital Nepal Acceleration (DNA) Project
+
+
+
+   1.       The roles and responsibilities of the various parties are defined in the Financing Agreement (FA) and will
+
+   be defined in the POM. Responsibilities of NTA are defined through a Project Agreement (between IDA and NTA)
+
+   given its status as an independent regulatory agency and statutory body. In case of any conflict among these
+
+   documents, the FA shall be the reference.
+
+
+
+   2.      MoCIT will set up a PSC that will provide strategic oversight for all Project activities. It will have the
+
+   Secretary, MoCIT as its Chair and include representatives of the four IAs (MoCIT, DoIT, NITC, and NTA), and other
+
+   ministries and organizations—including private sector representatives—that are key stakeholders. A Project
+
+   Management Unit (PMU), headed by the Joint Secretary (IT) of MoCIT, to be established at the MoCIT will have
+
+   two roles: as a coordinating body for all Project administrative activities, and as an implementing entity for SCs
+
+   3.1 and 3.3 on behalf of the MoCIT.
+
+
+
+   3.      Each IA will be responsible for specific activities as defined in Table A1.1 below. Each IA would designate
+
+   an internal Project Implementation Team, including a Focal Point, to oversee and manage the activities under its
+
+   responsibility. The Project Implementation Team members would be dedicated to the Project-related activities
+
+   for the maximum time possible to ensure timely and high-quality implementation. The Focal Point will be a
+
+   coordinator interfacing between the PMU and the IA to ensure smooth implementation of Project activities.
+
+
+
+   Table A1.1: Arrangements for implementation of Project activities
+
+
+
+      Project components      Implementing        Materials to be provided to PMU              Other notes
+
+                                 agency            for report keeping and records
+
+1. 1. Expanding access to broadband                                               2.
+
+3. 1.1. Promote broadband4. NTA          5.       Procurement documents;          6. NTA shall be an authorized
+
+   access and use                                 acceptance of related consulting    signatory and be able to
+
+7. 1.2. Improve                                   outputs, goods, works, and          issue payment orders (to the
+
+   international connectivity                     services; invoice acceptance; and District Treasury Controller
+
+                                                  Grants Manual                       Office; DTCO)
+
+8. 2. Improving the capacity of individuals to engage in the digital economy
+
+9. 2.1. Promote digital      10. DoIT         11. Procurement documents;          12. DoIT will be a cost center
+
+    literacy                                      acceptance of related consulting
+
+13. 2.2. Develop advanced                         outputs, goods, works, and
+
+    digital skills                                services; and invoice acceptance
+
+14. 2.3. Support digital
+
+    entrepreneurship
+
+15. 3. Enhancing the foundations of digital government                            16.
+
+                                              19. Procurement documents;
+
+17. 3.1. Enhance the digital 18. MoCIT, via the                                   20. The Office of Controller of
+
+    trust ecosystem              PMU              acceptance of related consulting    Certifications will be the
+
+                                                  outputs, goods, works, and          beneficiary of this activity;
+
+                                                  services; and invoice acceptance
+
+
+
+
+
+                                                           32
+
+The World Bank
+
+Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+
+
+
+      Project components          Implementing       Materials to be provided to PMU                Other notes
+
+                                     agency           for report keeping and records
+
+                                                                                   MoCIT PMU will be a cost
+
+                                                                                   center
+
+                           22. NITC
+
+21. 3.2. Improve data center               23. Procurement documents;          24. NITC will be a cost center
+
+    capacity                                   acceptance of related consulting
+
+                                               outputs, goods, works, and
+
+                                               services; and invoice acceptance
+
+                                           27. Procurement documents;
+
+25. 3.3. Implement select 26. MoCIT, via the                                   28. The agencies and
+
+    digital services           PMU             acceptance of related consulting    organizations that ‘own’ the
+
+                                               outputs, goods, works, and          selected services will be the
+
+                                               services; and invoice acceptance    beneficiaries of this activity;
+
+                                                                                   MoCIT PMU will be a cost
+
+                                                                                   center
+
+
+
+
+
+  4.       As part of its role in implementing SC 1.1, the NTA will prepare and adopt a Grants Manual, satisfactory in
+
+  form and substance to the Association, setting forth the procedures for selecting, appraising, and approving grant
+
+  applications, and for supervising implementation of contracts, including, inter alia: (i) the eligibility criteria for SPs
+
+  and locations for the grant program coverage; (ii) the application, evaluation, selection, award, and management
+
+  procedures for the selection of grantees; (iii) the criteria for grants disbursements, monitoring, evaluation, and
+
+  reporting; and (iv) mandatory provisions that shall exclude the financing of activities that: (a) involve land
+
+  acquisition; (b) would give rise to Displaced Persons or be in disputed areas; (c) may aggravate and/or impact
+
+  existing environmental conditions. Adoption of this Grants Manual will be a withdrawal condition for the relevant
+
+  part of the Project.
+
+
+
+      FINANCIAL MANAGEMENT
+
+
+
+  5.        Financial Management (FM) Staffing. MoCIT and its subordinate agencies have adequate and qualified
+
+  government finance staffs. NTA, an independent and regulating agency has adequate finance staffs with previous
+
+  experience, though not recent experience, in carrying out IDA-financed projects. Thus, finance staffs in all the
+
+  agencies need capacity enhancement in terms of Project FM. The PMU (set up under MoCIT) with qualified and
+
+  experienced finance officer(s) or consultant(s) as needed to coordinate the FM functions for all IAs. The FCGO will
+
+  assign a dedicated Finance/Accounts Officer (FO) at the PMU to look solely after the Project FM. There will be a
+
+  designated Finance Officer(s) in each implementing agency to look after the Project FM. Considering the regular
+
+  workload of the IAs’ staffs, FM consultant(s) will be hired to support the FOs and to help ensure timely and quality
+
+  accounting, financial reporting, and effective internal controls. FM Consultant(s) shall support the Finance Officers
+
+  in all Project-related FM functions mainly in preparing Annual Work Plan and Budget (AWPB), budget release from
+
+  FCGO, Project financial reports including SOEs, withdrawal applications, and recording and resolving audit issues.
+
+
+
+  6.      Applicable FM Regulations. The FM arrangements will follow mainly the prevailing Federal regulations—
+
+  such as the Financial Procedure and Fiscal Responsibility Act and Regulation. All the IAs shall follow the
+
+  government Public Financial Management system. Specific FM arrangements to be followed by the IAs will be
+
+  guided by the POM, which shall include an FM manual.
+
+
+
+  7.      Planning and Budgeting. The Project will have a separate budget sub-head in the Red Book (GoN’s Budget
+
+  Allocation Book) starting from FY 2022-23. MOF shall assign budget sub-codes to the IAs as needed to enable the
+
+
+
+
+
+                                                             33
+
+The World Bank
+
+Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+
+
+
+  agencies as cost center. In any case, MOCIT shall coordinate the planning and budgeting process for all the IAs
+
+  including for NTA. All the sub-IAs shall formulate individual annual work plan and budgets (AWPBs) for the Project
+
+  as per the planning and budgeting process of the GoN and send the same to the PMU at MOCIT. PMU shall
+
+  consolidate all the AWPBs and prepare a consolidated Project AWPB. PMU shall have responsibility to get approval
+
+  from the MOF and be included in the red book. Line Ministry Budgetary Information System shall recognize PMU,
+
+  NTA and other agencies as required as the cost centers and accordingly budget authorization and release shall be
+
+  made.
+
+
+
+  8.       Fund Flow. The fund flow for all the agencies shall be following normal GoN budget release system.
+
+  Previous period’s financial reports, inter alia, shall be taken as a mandatory requirement by the Borrower for
+
+  releasing fund for the next quarter of a Fiscal Year (FY). The GoN shall prefinance for all the expenditures incurred,
+
+  and accordingly payments to suppliers, service providers, contractors will be made from government treasury.
+
+  Besides, direct payment can also made in accordance with the DFIL and the respective agency carrying out the
+
+  activity shall be the authorized signatory for issuing the direct payment requests. The grants for the SPs (under
+
+  SC1.1) shall be paid in instalments from the NTA on an independently verified output basis. NTA shall reimburse
+
+  to the service providers (SPs) on their Bank Account upon verifying the financial reports from the SPs and other
+
+  reports like independent verification report substantiating that the grant is utilized for the eligible expenditures
+
+  only, before claiming funds with the Bank. The details of the grant mechanism shall be stipulated in the Grant
+
+  Manual, approval of the manual shall be a precondition for withdrawals under this activity. Funds will be
+
+  reimbursed to the GoN treasury following the withdrawal application process. IDA funds will be reimbursed for
+
+  eligible expenditures only. All the agencies shall be reporting to the PMU and the PMU shall coordinate and submit
+
+  the financial reports. Both the PMU under MoCIT and NTA shall be authorized signatories for submitting
+
+  withdrawal applications (WAs) for direct payment and reimbursement of the expenditures.
+
+
+
+  9.       Internal control mechanisms. At the federal level, the internal control process of the federal government
+
+  will be applied. NTA shall also develop and implement an Internal Control Guidelines including for FM
+
+  arrangements. The POM shall also include necessary internal control measures for the Project FM. All agencies
+
+  shall submit periodic progress reports, annual reports, unaudited/audited financial reports, and other mandatory
+
+  reports, as required to the PMU in form and substance as specified in the POM/Project Agreement.
+
+
+
+  10.      Internal audit and external audit. The PMU will coordinate with all the agencies to ensure timely and
+
+  quality internal audit to be carried out from FCGO and its subsidiary, the DTCO. NTA shall also carry out its internal
+
+  audit regularly and make available the internal audit reports to the Association. The PMU shall record and monitor
+
+  internal audit issues. NTA shall submit entity financial statements to the Association. NTA shall submit project
+
+  financial statements to the PMU and PMU shall prepare a single project financial statements by including of the
+
+  NTA and all other agencies. The Project financial statements and the NTA entity financial statements, including
+
+  the SOEs will be audited by the Office of the Auditor General (OAG) or auditor(s) appointed by the OAG. The
+
+  external audit report for each year of Project implementation, including the audit opinion will be submitted to the
+
+  IDA within nine months from the end of each FY. To avert delays in audit report submission, the PMU will
+
+  coordinate with the OAG by May of each year to ensure that the Project’s audit in a timely manner. PMU shall
+
+  record and follow up the audit issues by preparing Audit Arrears Resolving Action Plan.
+
+
+
+      PROCUREMENT
+
+
+
+  11.     Overall Procurement Arrangements: The PMU will support Project implementation in accordance with
+
+  the provisions of the POM, which will include a section on procurement and on grant operating mechanism. The
+
+  POM would elaborate the planning and implementation arrangements, roles, responsibilities, reporting lines,
+
+
+
+                                                           34
+
+The World Bank
+
+Digital Nepal Acceleration (DNA) Project (P176543)
+
+
+
+
+
+
+
+  communication procedures, procurement, and financial management procedures. The acquisition of Goods,
+
+  Works and Services is carried out through (i) procurement, and (ii) grant mechanism approaches. The Procurement
+
+  Risk Mitigation measures are detailed in the key risk section of the PAD. The procurement arrangement for each
+
+  Component is summarized in the table below:
+
+
+
+      Component #             Implementing Agency        Procuring Agency      Project Management Arrangement
+
+          1                          NTA                       NTA
+
+          2                          DoIT                      PMU
+
+         3.1                        MoCIT                      PMU                        PMU @ MoCIT
+
+         3.2                         NITC                      NITC
+
+         3.3                        MoCIT                      PMU
+
+
+
+  12.      Procurement Risk Assessment: The WB team conducted a procurement assessment and a detailed report
+
+  of procurement risk and mitigation measures have been uploaded in the WB’s Procurement Risk Assessment
+
+  Management System (P-RAMS). The procurement risk assessment was carried out for the MoCIT as the overall
+
+  Project implementation coordinating agency (spending about 20 percent of the Project fund including DoIT), NTA
+
+  as the largest Project fund implementing agency (about 50 percent of the Project fund), and NITC as the second
+
+  largest Project fund implementing agency (about 29 percent of the Project fund). Though the MoCIT was the line
+
+  ministry for the last IDA-financed project on a related sector (the Telecommunications Sector Reform project;
+
+  P050671, closed in August 2009) was implemented by NTA. Hence, MoCIT has no direct experience of IDA-project
+
+  implementation. NTA has the experience of implementation of the said IDA-financed project and five key staff
+
+  from that earlier project are available and will be assigned to implement the current project activities. This is
+
+  considered as a big strength of NTA for the current project’s management. The NITC has no experience of any
+
+  IDA/donor-financed project.
+
+
+
+  13.      The Procurement Assessment identified the following major risks: (i) limited technical and procurement
+
+  capacity considering the volume and complexity of the procurement and technical works; (ii) delay in decision-
+
+  making due to challenges of coordination among implementing agencies and other stakeholders/beneficiaries;
+
+  (iii) adverse impact of the Public Procurement Regulations and Act due to some impractical provisions brought
+
+  through amendments, i.e. not allowing the bidders to participate in more than five procurement opportunities,
+
+  excluding the bidders or their joint venture partners if a fraud and corruption related case is filed against them in
+
+  the Court of Law, requiring several bureaucratic layers to make procurement decisions, etc.
+
+
+
+  14.     Procurement Support by the WB: The WB team will provide implementation support at least twice a year
+
+  at the field level. At project inception, a procurement orientation will be provided to all Project related staff
+
+  including project directors/coordinators, procurement officials and consultants, FM officials and consultants and
+
+  others. The WB procurement team will organize procurement clinics customized to the project need.
+
+
+
+  15.     e-Procurement: Since the National Public Procurement Act and Regulations were passed, procurement
+
+  has gradually incorporated the use of electronic Government Procurement (e-GP). This is a single online
+
+  procurement portal operated by Public Procurement Monitoring Office. An upgraded system called e-GP II allows
+
+  for online entry of procurement plan, invitation of bids, online submission of bids, and uploading of signed
+
+  contract document. The project will use e-GP for its procurement as per the Office’s e-GP directive.
+
+
+
+
+
+
+
+
+
+                                                           35
+
+

@@ -1,0 +1,5463 @@
+                                         Document of
+
+                                      The World Bank
+
+                                    FOR OFFICIAL USE ONLY
+
+
+
+
+
+                                                              Report No: ICR00006066
+
+
+
+
+
+
+
+
+
+            IMPLEMENTATION COMPLETION AND RESULTS REPORT
+
+                                         IDA-58960
+
+
+
+                                            ON A
+
+
+
+                                           CREDIT
+
+
+
+                           IN THE AMOUNT OF SDR10.8 MILLION
+
+
+
+                               (US$15 MILLION EQUIVALENT)
+
+
+
+                                           TO THE
+
+
+
+
+
+                                     REPUBLIC OF GHANA
+
+
+
+                                          FOR THE
+
+                   ECONOMIC MANAGEMENT STRENGTHENING PROJECT
+
+
+
+                                     FEBRUARY 28, 2023
+
+
+
+Governance Global Practice
+
+Western And Central Africa Region
+
+                   CURRENCY EQUIVALENTS
+
+
+
+          Exchange Rate Effective February 26, 2023
+
+
+
+
+
+                 Currency Unit Ghana Cedis
+
+                        US$1 = 11.01 Cedis
+
+
+
+
+
+
+
+                         FISCAL YEAR
+
+                   January 1 – December 31
+
+
+
+
+
+
+
+
+
+Regional Vice President: Ousmane Diagana
+
+      Country Director: Pierre Frank Laporte
+
+     Regional Director: Abebe Adugna Dadi
+
+     Practice Manager: Tracey M. Lane
+
+  Task Team Leader(s): Furqan Ahmad Saleem, Kwabena Gyan Kwakye
+
+  ICR Main Contributor: Tatsuya Iwasaki
+
+                 ABBREVIATIONS AND ACRONYMS
+
+
+
+ABP        Annual Borrowing Plan
+
+ADR        Annual Debt Report
+
+APR        Annual Performance Report
+
+BCP        Business continuity plan
+
+BI         Business Intelligence
+
+BoG        Bank of Ghana
+
+CAGD       Controller and Accountant General's Department
+
+CPESDP     Coordinated Program of Economic and Social Development Policies
+
+CPF        Country Partnership Framework
+
+CPS        Country Partnership Strategy
+
+CRAF       Credit Risk Assessment Framework
+
+CRS        Common Reporting Standards
+
+CSO        Civil society organization
+
+DMD        Debt Management Division
+
+DP         Development Partner
+
+DPO        Development Policy Operation
+
+DRP        Disaster recovery plan
+
+DSA        Debt Sustainability Analysis
+
+DW         Data Warehouse
+
+ECF        Extended Credit Facility
+
+EU         European Union
+
+FATCA      Foreign Account Tax Compliance Act
+
+GCMS       Ghana Customs Management System
+
+GDP        Gross domestic product
+
+GIFMIS     Ghana Integrated Financial and Management Information System
+
+GIMPA      Ghana Institute of Management and Public Administration
+
+GITMIS     Domestic Revenue System
+
+GoG        Government of Ghana
+
+GRA        Ghana Revenue Authority
+
+GSGDA II   the Ghana Shared Growth and Development Agenda II
+
+IMF        International Monetary Fund
+
+ICM        International Capital Markets
+
+ICR        Implementation Completion and Results Report
+
+IPF        Investment Project Financing
+
+IR         Intermediate results
+
+ISR        Implementation Status and Results Report
+
+IT         Information technology
+
+JVCs       Joint Venture Companies
+
+LMIC       Lower Middle-Income Country
+
+MDAs       Ministries, Agencies and Departments
+
+M&E        Monitoring and evaluation
+
+MoF        Ministry of Finance
+
+MTDP       Medium-term development plan
+
+MTDS       Medium-term debt management strategy
+
+MTNDPF   Medium-Term National Development Policy Framework
+
+NaMEIS   National Monitoring and Evaluation Information System
+
+NBG      National Borrowing and Government Lending Guidelines
+
+NDPC     National Development Planning Commission
+
+NIP      National Infrastructure Plan
+
+ORM      Operational Risk Management
+
+OSEs     Other State Entities
+
+PAD      Project Appraisal Document
+
+PAYE     Personal income tax (pay-as-you-earn)
+
+PDO      Project Development Objectives
+
+PFM      Public Financial Management
+
+PforR    Program-for-Results
+
+PID      Public Investment Division
+
+PIM      Public investment management
+
+PIP      Public Investment Program
+
+PMU      Project Management Unit
+
+PSBR     Public Sector Borrowing Requirement
+
+PSC      Project Steering Committee
+
+QPR      Quarterly Performance Report
+
+SEA/SH   Sexual Exploitation and Abuse/Sexual Harassment
+
+SIGA     State Interests and Governance Authority
+
+SOEs     State-owned enterprises
+
+SOR      State Ownership Report
+
+STEP     Systematic Tracking of Exchanges in Procurement
+
+TDMD     Treasury and Debt Management Division
+
+TRIPS    Total Revenue Integrated Processing System
+
+TTL      Task Team Leader
+
+VAT      Value added tax
+
+                                                            TABLE OF CONTENTS
+
+
+
+
+
+DATA SHEET .......................................................................................................................... 1
+
+I.    PROJECT CONTEXT AND DEVELOPMENT OBJECTIVES ....................................................... 1
+
+      A. CONTEXT AT APPRAISAL .........................................................................................................1
+
+      B. SIGNIFICANT CHANGES DURING IMPLEMENTATION (IF APPLICABLE) .......................................7
+
+II.   OUTCOME ...................................................................................................................... 8
+
+      A. RELEVANCE OF PDOs ..............................................................................................................8
+
+      B. ACHIEVEMENT OF PDOs (EFFICACY) ........................................................................................9
+
+      Assessment of Achievement of Each Objective/Outcome ............................................................9
+
+      Table 3. Status of PDO Indicators ................................................................................................9
+
+      Indicator ....................................................................................................................................9
+
+      Baseline .....................................................................................................................................9
+
+      (2016) ........................................................................................................................................9
+
+      End Target ..................................................................................................................................9
+
+      (2016) ........................................................................................................................................9
+
+      Actual ........................................................................................................................................9
+
+      (2022) ........................................................................................................................................9
+
+      Comments..................................................................................................................................9
+
+      C. EFFICIENCY ........................................................................................................................... 16
+
+      D. JUSTIFICATION OF OVERALL OUTCOME RATING .................................................................... 17
+
+      E. OTHER OUTCOMES AND IMPACTS (IF ANY) ............................................................................ 17
+
+III. KEY FACTORS THAT AFFECTED IMPLEMENTATION AND OUTCOME ................................ 19
+
+      A. KEY FACTORS DURING PREPARATION ................................................................................... 19
+
+      B. KEY FACTORS DURING IMPLEMENTATION ............................................................................. 19
+
+IV. BANK PERFORMANCE, COMPLIANCE ISSUES, AND RISK TO DEVELOPMENT OUTCOME .. 19
+
+      A. QUALITY OF MONITORING AND EVALUATION (M&E) ............................................................ 19
+
+      B. ENVIRONMENTAL, SOCIAL, AND FIDUCIARY COMPLIANCE ..................................................... 20
+
+      C. BANK PERFORMANCE ........................................................................................................... 21
+
+      D. RISK TO DEVELOPMENT OUTCOME ....................................................................................... 22
+
+V. LESSONS AND RECOMMENDATIONS ............................................................................. 22
+
+ANNEX 1. RESULTS FRAMEWORK AND KEY OUTPUTS ........................................................... 24
+
+ANNEX 2. BANK LENDING AND IMPLEMENTATION SUPPORT/SUPERVISION ......................... 35
+
+ANNEX 3. PROJECT COST BY COMPONENT ........................................................................... 38
+
+ANNEX 4. THEORY OF CHANGE ............................................................................................ 39
+
+ANNEX 5. EFFICIENCY ANALYSIS ........................................................................................... 43
+
+ANNEX 6. BORROWER, CO-FINANCIER AND OTHER PARTNER/STAKEHOLDER COMMENTS ... 45
+
+ANNEX 7. SUPPORTING DOCUMENTS (IF ANY) ..................................................................... 50
+
+    The World Bank
+
+    Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+
+
+DATA SHEET
+
+
+
+
+
+BASIC INFORMATION
+
+
+
+Product Information
+
+Project ID                                              Project Name
+
+
+
+P152171                                                 Economic Management Strengthening
+
+
+
+Country                                                 Financing Instrument
+
+
+
+Ghana                                                   Investment Project Financing
+
+
+
+Original EA Category                                    Revised EA Category
+
+
+
+Not Required (C)                                        Not Required (C)
+
+
+
+
+
+
+
+Organizations
+
+
+
+Borrower                                                Implementing Agency
+
+
+
+Republic of Ghana                                       Ministry Of Finance (MoF)
+
+
+
+
+
+Project Development Objective (PDO)
+
+Original PDO
+
+The Project Development Objective (PDO) is to strengthen the Government of Ghanaâ€™s institutional capacity for
+
+revenue and expenditure management.
+
+
+
+
+
+
+
+
+
+                                                                                                             Page 1
+
+     The World Bank
+
+     Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+FINANCING
+
+
+
+                                   Original Amount (US$)     Revised Amount (US$)        Actual Disbursed (US$)
+
+ World Bank Financing
+
+                                               15,000,000              15,000,000                   15,027,284
+
+ IDA-58960
+
+ Total                                         15,000,000              15,000,000                   15,027,284
+
+ Non-World Bank Financing
+
+                                                        0                         0                            0
+
+
+
+
+
+
+
+
+
+ Borrower/Recipient                                    0                         0                            0
+
+ Total                                                 0                         0                            0
+
+ Total Project Cost                            15,000,000              15,000,000                   15,027,284
+
+
+
+
+
+KEY DATES
+
+
+
+Approval                Effectiveness          MTR Review          Original Closing        Actual Closing
+
+30-Aug-2016             01-Nov-2016            23-Aug-2019         31-Mar-2020             30-Jun-2022
+
+
+
+
+
+
+
+RESTRUCTURING AND/OR ADDITIONAL FINANCING
+
+
+
+Date(s)                     Amount Disbursed (US$M) Key Revisions
+
+24-Mar-2020                                     8.94 Change in Results Framework
+
+                                                     Change in Loan Closing Date(s)
+
+                                                     Change in Implementation Schedule
+
+09-May-2020                                     8.94
+
+30-Mar-2022                                    15.03 Change in Results Framework
+
+                                                     Change in Loan Closing Date(s)
+
+                                                     Change in Implementation Schedule
+
+
+
+
+
+
+
+KEY RATINGS
+
+
+
+Outcome                                 Bank Performance                   M&E Quality
+
+Satisfactory                            Satisfactory                       Substantial
+
+
+
+
+
+
+
+
+
+                                                                                                            Page 2
+
+      The World Bank
+
+      Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+RATINGS OF PROJECT PERFORMANCE IN ISRs
+
+
+
+                                                                                                   Actual
+
+No.                Date ISR Archived               DO Rating               IP Rating           Disbursements
+
+                                                                                                  (US$M)
+
+01                     07-Jan-2017         Moderately Satisfactory   Moderately Satisfactory                   0
+
+02                     13-Jul-2017         Moderately Satisfactory   Moderately Satisfactory              2.77
+
+03                     26-Mar-2018         Moderately Satisfactory   Moderately Satisfactory              2.77
+
+04                     05-Dec-2018         Moderately Satisfactory        Satisfactory                    8.94
+
+05                     19-Jun-2019         Moderately Satisfactory        Satisfactory                    8.94
+
+06                     27-Dec-2019         Moderately Satisfactory   Moderately Satisfactory              8.94
+
+07                     01-Jun-2020         Moderately Satisfactory   Moderately Satisfactory              8.94
+
+08                     22-Dec-2020         Moderately Satisfactory   Moderately Satisfactory              8.94
+
+09                     17-Aug-2021         Moderately Satisfactory   Moderately Satisfactory             11.84
+
+10                     05-Apr-2022         Moderately Satisfactory   Moderately Satisfactory             15.03
+
+
+
+
+
+SECTORS AND THEMES
+
+
+
+Sectors
+
+Major Sector/Sector                                                                                        (%)
+
+
+
+
+
+Public Administration                                                                                          70
+
+        Central Government (Central Agencies)                                                                  35
+
+        Sub-National Government                                                                                35
+
+
+
+
+
+
+
+Information and Communications Technologies                                                                    27
+
+        ICT Services                                                                                           27
+
+
+
+
+
+
+
+Financial Sector                                                                                               3
+
+        Public Administration - Financial Sector                                                                3
+
+
+
+
+
+Themes
+
+Major Theme/ Theme (Level 2)/ Theme (Level 3)                                                              (%)
+
+
+
+                                                                                                           Page 3
+
+       The World Bank
+
+       Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+Private Sector Development                                                                             30
+
+            Jobs                                                                                      100
+
+
+
+            ICT                                                                                       30
+
+                      ICT Solutions                                                                    30
+
+
+
+Public Sector Management                                                                               65
+
+            Public Finance Management                                                                 42
+
+                      Domestic Revenue Administration                                                  30
+
+
+
+                      Debt Management                                                                  12
+
+
+
+            Public Administration                                                                     69
+
+                      Public Assets and Investment Management                                          30
+
+                      State-owned Enterprise Reform and
+
+                                                                                                       39
+
+                      Privatization
+
+
+
+
+
+ADM STAFF
+
+Role                                            At Approval                    At ICR
+
+Regional Vice President:                        Makhtar Diop                   Ousmane Diagana
+
+
+
+Country Director:                               Henry G. R. Kerali             Pierre Frank Laporte
+
+Director:                                       Deborah L. Wetzel              Abebe Adugna Dadi
+
+
+
+Practice Manager:                               Yaye Seynabou Sakho            Tracey M. Lane
+
+                                                                               Furqan Ahmad Saleem,
+
+Task Team Leader(s):                            Dilek Aykut, Deryck R. Brown
+
+                                                                               Kwabena Gyan Kwakye
+
+ICR Contributing Author:                                                       Tatsuya Iwasaki
+
+
+
+
+
+
+
+
+
+                                                                                                      Page 4
+
+     The World Bank
+
+     Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+
+
+I. PROJECT CONTEXT AND DEVELOPMENT OBJECTIVES
+
+
+
+ A. CONTEXT AT APPRAISAL
+
+
+
+   Context
+
+
+
+   1. The Ghana Economic Management Strengthening Project (P152171) (the Project) was an Investment Project
+
+   Financing (IPF) in the amount of US$15 million (IDA-58960). In its original design, the Project aimed to strengthen
+
+   the institutional capacity of the Government of Ghana (GoG) for revenue and expenditure management. The Project
+
+   was approved on August 30, 2016 and became effective on November 1, 2016. The first restructuring took place in
+
+   March 2020 to provide for a no cost extension of the Project closing date by 24 months from its original date March
+
+   31, 2020 to March 31, 2022. In March 2022 an additional no cost extension of 3 months was provided to extend the
+
+   closing date to June 30, 2022. The Project closed on June 30, 2022, fully disbursed (99 percent disbursement).
+
+
+
+   2. At the time of appraisal in 2016, Ghana was amid a challenging period with slower growth, twin deficits,
+
+   growing public debt, and higher inflation combined with sharp currency depreciation. The period followed Ghana’s
+
+   stable economic growth since the early 2000s, pushed by favoring factors such as high gold and cocoa prices, new
+
+   oil and gas discoveries, substantial capital inflows, and political stability; this remarkable growth successfully
+
+   catapulted Ghana to its Lower Middle-Income Country (LMIC) status. The period of stable economic growth was
+
+   accompanied by significant progress in key social indicators including poverty rates, school enrollment and maternal
+
+   mortality. However, Ghana’s growth peaked in 2011 as the GoG’s fiscal balance deteriorated with the expansion of
+
+   the wage bill following the implementation of the single spine salary structure in 2010, and sharp increases in energy
+
+   subsidies and transfers. Consequently, Ghana’s economic growth fell from 14 percent in 2011 to 4 percent in 2014.
+
+
+
+   3. The Project was approved to support the GoG’s efforts to address the macroeconomic challenges, and
+
+   complemented the supports provided by development partners (DPs). The World Bank provided Macroeconomic
+
+   Stability for Competitiveness Development Policy Operation (DPO) Series including measures to improve efficiency
+
+   of public spending, governance reform of state-owned enterprises (SOEs), and debt management strategy among
+
+   others. The International Monetary Fund (IMF), under its three-year Extended Credit Facility (ECF) of US$918 million,
+
+   supported the GoG with focuses on the primary fiscal balance, wage bills, net international reserves, stock of arrears
+
+   and others. The technical assistance provided under the Project was designed to complement and support the GoG
+
+   during the implementation of these reform efforts.
+
+
+
+   4. The Project was aligned to the Ghana Shared Growth and Development Agenda II (GSGDA II) 2014-2017, which
+
+   sought to support growth and to restore macroeconomic stability. The Project supported the GoG in four of the
+
+   seven medium-term priority policy areas anchoring GSGDA II including: a) ensuring and maintaining macroeconomic
+
+   stability; b) enhancing competitiveness of Ghana’s private sector; c) enabling infrastructure and human settlements
+
+   development; and d) enabling transparent, responsive, and accountable governance. It was also closely aligned to
+
+   the Country Partnership Strategy (CPS) for Ghana (2013-2016) whose three strategic pillars to support the GoG were:
+
+   1) improve economic institutions; 2) improve competitiveness and job creation; and 3) protect the poor and
+
+   vulnerable.
+
+
+
+
+
+
+
+
+
+                                                                                                                   Page 1
+
+  The World Bank
+
+  Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+
+
+Theory of Change (Results Chain)
+
+
+
+5. The Project aimed to strengthen the GoG’s institutional capacity for revenue and expenditure management
+
+by improving the government’s taxpayer database and enhancing capacity for the management of public debt,
+
+public investments, and SOEs. Detailed theory of change is shown in Annex 4.
+
+
+
+Project Development Objectives (PDOs)
+
+
+
+6. The PDO, as specified in the Financing Agreement dated September 20, 2016 was “to strengthen the
+
+government of the Recipient’s institutional capacity for revenue and expenditure management”.
+
+
+
+Key Expected Outcomes and Outcome Indicators
+
+
+
+7. There were four PDO level results indicators in the Results Framework. PDO Indicator 1 was revised during the
+
+first restructuring (“B. Significant Changes During Implementation”).
+
+
+
+   Table 1. PDO level results indicators
+
+                                                                                     Baseline    End Target
+
+                                      Indicator
+
+                                                                                      (2016)       (2022)
+
+
+
+     Revenue Management
+
+
+
+     PDO Indicator 1: To increase ratio of four major taxes to Gross Domestic
+
+                                                                                      9.00         10.00
+
+     Product (GDP) (percentage)
+
+
+
+     Expenditure Management
+
+
+
+     PDO Indicator 2: Deviation of the share of short-term refixing in total debt
+
+     at the end of the year from the level set out in the medium- term debt           2.00          0.50
+
+     management strategy (MTDS) (Percentage)
+
+
+
+     PDO Indicator 3: Percentage of public investment projects that are
+
+     prioritized on the basis of published standard criteria for project selection    0.00         30.00
+
+     (prior to the inclusion in the budget) (Percentage)
+
+
+
+     PDO Indicator 4: The number of SOEs covered by the aggregate annual
+
+     reports on SOE financial and governance performance issued no later than         0.00         20.00
+
+     six months after the end of the year to the public (Number)
+
+
+
+
+
+
+
+
+
+                                                                                                           Page 2
+
+  The World Bank
+
+  Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+
+
+Components
+
+
+
+8. The Project consisted of five components. The details of each component and its subcomponents, as described
+
+in the Project Appraisal Document (PAD), are summarized below.
+
+
+
+   Component 1: Strengthening Ghana Revenue Authority’s (GRA) Business Intelligence (BI) System (US$4.0
+
+   million equivalent)
+
+   The overall objective of this component is to improve tax compliance, integrate income assessment regardless
+
+   of source and location, simplify the processes, and align with international tax rules.
+
+
+
+           Subcomponent 1.1: Improving the BI System (US$3.2 million)
+
+           The objective of this subcomponent is to implement the Data Warehouse (DW), with BI, an information
+
+           technology (IT) toolset for integration of data and analytical reporting. This tool set will extract and pool
+
+           data from multiple underlying source systems and integrate the taxpayer information, both individuals
+
+           and firms, into analytical reports. Although the first phase of integration falling within the scope of this
+
+           project is on integrating tax revenue—Total Revenue Integrated Processing System (TRIPS) with customs
+
+           information (Ghana Customs Management System (GCMS))—through the DW, the potential for further
+
+           integration with third-party systems will be explored after work on information-sharing agreements with
+
+           the owners of the third-party systems is completed. This work is already ongoing under a separate
+
+           project of the GRA. The tool set will enable tax officials to capture potential taxpayers in the informal
+
+           sector who deliberately avoid taxes, improve risk management mechanisms, and influence the design of
+
+           tax policies.
+
+
+
+           Subcomponent 1.2: Implementation of Common Reporting Standards (CRS) and Foreign Account Tax
+
+           Compliance Act (FATCA) Software (US$0.8 million)
+
+           This subcomponent aims to support the implementation of the software to enable the GRA to comply
+
+           with CRS and FATCA requirements. The software will receive, collate, store, and transmit domestic tax
+
+           information of European Union (EU) and US citizens, respectively, holding assets in Ghana, through
+
+           automatic data exchange mechanisms. This will improve tax revenue mobilization and higher voluntary
+
+           tax compliance by taxpayers and will also support GRA alignment with international tax regimes to
+
+           increase its tax revenues from Ghanaians living abroad.
+
+
+
+   Component 2: Strengthening Debt Management (US$1.2 million equivalent)
+
+   The objective of this component is to strengthen the Ministry of Finance’s (MoF) capacity to manage public debt
+
+   with a high degree of transparency as well as to improve treasury management and forecasting.
+
+
+
+           Subcomponent 2.1: Improved Debt Management with Credible Annual Borrowing Plan (ABP) (US$0.6
+
+           million)
+
+           The first objective was to operationalize the MTDS through a detailed ABP. The ABP should consider the
+
+           likely timing of Government cash flows through the year to determine the monthly net financing needs
+
+           and forecast redemptions. These key inputs break down the annual financing needs into a quarterly
+
+           profile and convert them into an auction calendar and thus transform the MTDS for three to five years
+
+
+
+
+
+
+
+                                                                                                                  Page 3
+
+The World Bank
+
+Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+        into implementable annual operational plans. The second objective is to foster development of a robust
+
+        DSA (Debt Sustainability Analysis), because fiscal slippages in the last few years have been predominantly
+
+        responsible for rendering the debt management strategy ineffective. The third objective is to develop
+
+        national borrowing procedures and guidelines to regulate the acquisition of loans/credit both
+
+        concessional and non-concessional by Ministries, Departments, and Agencies (MDAs) and SOEs within
+
+        the limit of the annual borrowing plan. The national borrowing guidelines would also highlight conditions
+
+        under which guarantees can be issued by government and or loans that can be on-lent to SOEs taking
+
+        into consideration the credit risk assessment of these institutions.
+
+
+
+        Subcomponent 2.2: Strengthened Treasury Management and Forecasting (US$0.3 million)
+
+        The objective of this subcomponent was to improve the existing treasury management and cash flow
+
+        forecasting, and to link it with the debt auction calendar as well as to build the capacity in the Debt
+
+        Management Division’s (DMD) front office to carry out the auctions. This effort to strengthen the existing
+
+        treasury management and cash flow forecasting to make it more robust was a priority for two reasons.
+
+        First, the Bank of Ghana (BoG) has a zero limit on gross credit to the Government, and second, arrears
+
+        cannot be accumulated. Effective treasury management and cash flow forecasting have, therefore,
+
+        become essential to the effective use of resources and development of the domestic debt market, with
+
+        reliable and accurate cash forecasts allowing for closer adherence to an auction calendar. The current
+
+        arrangements in Ghana fall short of international good practice given that the Treasury Single Account,
+
+        cash flow forecasting, and cash investment practices are all underdeveloped and could benefit from
+
+        more robust analytical tools.
+
+
+
+        Subcomponent 2.3: Improved Debt Reporting and Transparency (US$0.2 million)
+
+        The objective of this subcomponent was to build the necessary capacity in the DMD to fulfill reporting
+
+        and transparency requirements mandated under the Public Financial Management (PFM) Law as well as
+
+        to be able to periodically publish a debt statistical bulletin (and/or its equivalent). The MoF should
+
+        regularly publish debt data on the central government, total nonfinancial public sector debt, and
+
+        outstanding loan guarantees in a transparent and timely manner. These data should not be older than
+
+        three months at the time of publication. These data should be published regularly through (a) a debt
+
+        statistical bulletin containing debt data and basic risks indicators; (b) an annual report to the parliament
+
+        under the PFM Law; and (c) the auction calendar and results in the domestic primary market. In addition,
+
+        the MoF website should contain up-to-date and complete debt information. The achievement of these
+
+        objectives was essential for ensuring transparency of the debt and loan portfolio and a vital information
+
+        source for the rating agencies and the investors in government bonds.
+
+
+
+        Subcomponent 2.4: Improved Operational Risk Management (US$0.1 million)
+
+        The objective of this subcomponent was to support the MoF in its commitment to develop and
+
+        implement a plan to strengthen the operational risk management framework. This will include
+
+        operational risk management guidelines and a code of conduct along with risk monitoring and
+
+        compliance functions that need to be developed.
+
+
+
+
+
+
+
+
+
+                                                                                                              Page 4
+
+The World Bank
+
+Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+ Component 3: Strengthening Capacity in Public Investment Management (PIM) (US$4.0 million equivalent)
+
+ The overall objective was to develop and institutionalize a functional, transparent process for public investment
+
+ programming that was applied across the Government. Such a process will help to improve the contribution of
+
+ public investment to growth and economic development in Ghana. It seeks to achieve this by supporting the
+
+ establishment and implementation of a functional PIM system within the GoG in accordance with the cabinet-
+
+ approved policy. The proposed project, by its very nature (dealing with economic management at the level of
+
+ the MoF), focuses mainly on the upstream decision-making process. The component also provides support to
+
+ the National Development Planning Commission (NDPC) to enhance its capacity for long-term planning of
+
+ infrastructure and other investment projects.
+
+
+
+         Subcomponent 3.1: Development of a Comprehensive PIM Reform Strategy and Action Plan (US$0.25
+
+         million)
+
+         This subcomponent was to support a PIM capacity assessment including (a) a comprehensive review of
+
+         existing institutional arrangements and PIM functions within the GoG; (b) a PIM-specific organizational
+
+         review of the MoF; (c) capacity assessment of existing PIM resources; and (d) preparation of a
+
+         comprehensive strategy and detailed action plan for PIM reform, including recommendations on the
+
+         optimal staffing, skills, and competencies required to make the Public Investment Division (PID) and the
+
+         PIM system function effectively in Ghana.
+
+
+
+         Subcomponent 3.2: Improvement of the Regulatory and Institutional Setting for PIM and Creation of
+
+         the Required PIM Instruments (US$1.25 million)
+
+         The objective of this subcomponent was to operationalize the PIM policy and support the
+
+         implementation of the reform strategy and action plan. Apart from the lack of technical expertise to
+
+         perform the necessary analysis and appraisal of proposed investment projects, there was also a lack of
+
+         institutional capacity to ensure that prescribed processes are followed and not circumvented. This was
+
+         especially true about project prioritization, selection, and inclusion in the Public Investment Program
+
+         (PIP). The draft PFM bill to be presented in parliament contains general provisions on PIM but leaves
+
+         specific guidance for subsequent regulations to be developed. The proposed subcomponent will support
+
+         the development of the regulations as well as strengthening of the institutional guidelines and processes
+
+         (rules) for PIM, which will be publicly disclosed. The PID will be the single point of entry and filter for
+
+         MDAs submitting projects for inclusion in the national budget, for consideration as possible PPPs, or for
+
+         borrowing.
+
+
+
+         Subcomponent 3.3: Implementing the Capacity-building Strategy for PIM in the PID, MDAs, and SOEs
+
+         (US$1.50 million)
+
+         The objective of this subcomponent was to develop, on a sustainable basis, the human capacity to
+
+         operationalize the PIM system through training and technical assistance at all stages of the project cycle.
+
+         Capacity needs to be quickly built up in the PID, given its central gatekeeper role, for carrying out
+
+         preliminary reviews and appraisal of projects. It was equally important that MDAs and SOEs primarily
+
+         tasked with project preparation have sound knowledge of modern assessment tools and techniques,
+
+         procedures for analyzing projects, and assessing and managing risks. This will raise the quality of project
+
+         preparation and reduce the time and resources required for assessment. It will also ensure that projects
+
+         being funded by the GoG are well prepared. However, it was important that this be done in a sustainable
+
+
+
+
+
+
+
+                                                                                                              Page 5
+
+The World Bank
+
+Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+         manner, which ensures that capacity was not only built, entrenched, and retained in the GoG, but also
+
+         can be replenished at minimum expense given normal staff movements and turnover. Hence, the project
+
+         will support the GoG to build enduring capacity at suitable national institutions in Ghana where PIM-
+
+         related training can be strengthened and offered on a continuous basis, independent of the World Bank
+
+         project.
+
+
+
+         Subcomponent 3.4: Strengthening of the NDPC (US$1.0 million)
+
+         The objective of this subcomponent was to strengthen the NDPC to enable it to play its role as the apex
+
+         of Ghana’s PIM system. The NDPC is established by law with the responsibility for medium - and long-
+
+         term planning. The most recent such plan was the GSGDA II 2014–2017. The NDPC’s national plan is the
+
+         foundation of the sectoral and district-level medium-term development plans (MTDPs) which set out all
+
+         major capital investment priorities. Sector budgets are then expected to be based on and aligned with
+
+         the sector- and district-level MTDPs as well as GSGDA II. Significantly, GSGDA II refers to a National
+
+         Infrastructure Plan (NIP) as well as PIP, both of which are still to be completed. GSGDA II outlines policies
+
+         and strategies for accelerated infrastructure development but defers the more detailed elaboration to
+
+         NIP and PIP. Both are fundamental to the PIM function within Ghana in general, and the GoG in
+
+         particular, as it was important to ensure that strategic planning, project preparation and appraisal, and
+
+         budget execution are linked effectively. This will help the GoG to be able to provide the right
+
+         infrastructure at the right time and at the right price. The PIM policy also assigns a role to NDPC for
+
+         Monitoring and Evaluation (M&E) of projects against GSGDA II, especially focusing on the longer-term
+
+         economic and social impacts of major infrastructure projects.
+
+
+
+ Component 4: Improving the Governance of SOEs (US$5.25 million equivalent)
+
+ The objective was to improve SOE governance, the project will support reforms aimed at (a) consolidating the
+
+ state’s ownership role through an equity study and preparatory work for setting up a single entity responsible
+
+ for overseeing SOEs; (b) establishing the SOE single entity; and (c) piloting corporate governance improvements
+
+ in five SOEs. A brief description of each of the subcomponents was provided below, including the activities to be
+
+ supported by the proposed project.
+
+
+
+         Subcomponent 4.1: Consolidating the State’s Ownership Role (US$1.5 million)
+
+         The objective of this sub-component was to support the GoG in undertaking a comprehensive review of
+
+         its portfolio of SOEs and carrying out the preparatory work for setting up a single entity, with a view to
+
+         consolidating state ownership to improve SOE performance and ensure effective and efficient service
+
+         delivery.
+
+
+
+         Subcomponent 4.2: Establishing the Single Entity (US$1.25 million)
+
+         The objective was to establish the single entity based on the preparatory work supported by Sub-
+
+         component 4.1 to strengthen the Government’s capacity to oversee SOEs and improve corporate
+
+         governance practices at the entity and SOE levels. The single entity will be responsible for the
+
+         governance and financial oversight of its equity investments in SOEs. The main objective for establishing
+
+         the single entity was to shift from the current highly decentralized state asset management model to a
+
+         centralized state capital management model, where SOEs are both better governed and are financially
+
+         independent and sustainable.
+
+
+
+
+
+
+
+                                                                                                                Page 6
+
+    The World Bank
+
+    Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+
+
+              Subcomponent 4.3: Piloting Corporate Governance Improvements in Selected SOEs (US$2.5 million)
+
+              The objective of this subcomponent was to support corporate governance improvements in the five
+
+              selected SOEs for which corporate governance assessments and action plans have been prepared. In
+
+              particular, the project will support the implementation of three-year company-level corporate
+
+              governance action plans approved by the cabinet; and capacity building of boards and senior
+
+              management through training, peer-to-peer learning, and other means. This subcomponent will build
+
+              the capacity of the boards and senior management and improve management protocols and internal
+
+              corporate governance systems and procedures. To place this capacity building on a more sustainable
+
+              footing, national training institutions such as the Ghana Institute of Management and Public
+
+              Administration (GIMPA) and the University of Ghana Business School will be supported to develop the
+
+              capacity to deliver such trainings on an ongoing basis. The project will also support citizen-led M&E and
+
+              oversight of SOEs’ compliance with corporate governance standards.
+
+
+
+      Component 5: Project Management (US$0.55 million equivalent)
+
+      The key objective of this component is to provide resources, equivalent to approximately 3 percent of the overall
+
+      project amount, to support and defray the costs to the MoF for coordinating the implementation of the project
+
+      effectively and efficiently, including support to build the capacity of the MoF M&E Unit.
+
+
+
+
+
+B. SIGNIFICANT CHANGES DURING IMPLEMENTATION (IF APPLICABLE)
+
+
+
+  Revised PDOs and Outcome Targets
+
+
+
+  9. The PDOs and Outcome Targets remained unchanged throughout the duration of the Project.
+
+
+
+  Revised PDO Indicators
+
+
+
+  10. PDO Indicator 1 was revised during the first restructuring. This was due to the difficulties in collecting data by
+
+  GRA and in measuring the target.
+
+      Table 2. Revised PDO Indicator
+
+                                                 Indicator                                  Baseline      End Target
+
+       Original /   PDO Indicator 1: Tax Audit Yield ratio for audits conducted by the
+
+                                                                                             12.00           25.00
+
+        deleted     GRA (Percentage)
+
+
+
+                    PDO Indicator 1: To increase ratio of four major taxes to GDP
+
+        Revised                                                                               9.00           10.00
+
+                    (Percentage)
+
+
+
+
+
+  Revised Components
+
+
+
+  11. There were no changes to the components. No cost extensions were provided to ensure all the components
+
+  were implemented as designed.
+
+
+
+
+
+
+
+
+
+                                                                                                                 Page 7
+
+     The World Bank
+
+     Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+   Other Changes
+
+
+
+   12. The Project had two no cost restructurings. The first restructuring took place in March 2020 to extend the Project
+
+   closing date by 24 months from its original date March 31, 2020, to March 31, 2022. Another restructuring of an
+
+   additional no cost extension of 3 months was approved in March to extend the closing date to June 30, 2022 and
+
+   enable completion of the GRA DW implementation.
+
+
+
+   Rationale for Changes and Their Implication on the Original Theory of Change
+
+
+
+   13. The rationale for the two extensions was to ensure the Project was given enough time to fully achieve the PDO.
+
+   The Project was delayed first due to the initial set back at the start of the Project caused by the Presidential elections
+
+   and change of Government in January 2017; the Project effectively began in late 2017. The COVID-19 pandemic
+
+   further impacted the Project since the confirmation of the first case in Ghana in March 2020. Neither of the two
+
+   restructurings had any implication on the original theory of change.
+
+
+
+
+
+II. OUTCOME
+
+
+
+ A. RELEVANCE OF PDOs
+
+
+
+   Assessment of Relevance of PDOs and Rating
+
+
+
+   14. Relevance of PDOs is rated High with clear relevance to the CPS at approval and the Country Partner Framework
+
+   (CPF) at the time of Project closing. The CPS for Ghana (2013-2016), which was extended to 2018 through the
+
+   November 2016 Performance and Learning Review, had three pillars: 1) improving economic institutions, 2) improving
+
+   competitiveness and job creation, and 3) protecting the poor and vulnerable. The Project was especially aligned to
+
+   Pillar 1 under which the focus was on strengthening budget institutions and public financial management, reforming
+
+   SOEs, and enhancing management of natural resources. The Project continued to be highly relevant and aligned to
+
+   the current CPF (2022-2026) dated January 24, 2022 and disclosed during project implementation, which has three
+
+   focus areas: 1) enhancing conditions for private sector development and quality job creation, 2) improving inclusive
+
+   service delivery, and 3) promoting resilient and sustainable development. In particular, the Project is aligned with the
+
+   CPF Objective 3.1 “Strengthened macroeconomic and fiscal management” whose key priorities include: consistent
+
+   fiscal policy, equitable domestic resource mobilization, improving energy SOE governance, among others.
+
+
+
+   15. The Project was well aligned with the Government Program and Medium-term Strategy at the time of approval
+
+   and continued to be relevant until project closing. The Project was aligned especially to two priority policy areas
+
+   under GSGDA II: ensuring and maintaining macroeconomic stability; and enabling transparent, responsive, and
+
+   accountable governance. The Project continued to be aligned with the succeeding priorities under the Ghana Beyond
+
+   Aid vision as well as the Coordinated Program of Economic and Social Development Policies (CPESDP) 2017 –2024
+
+   which was prepared during project implementation. The Vision rests on five pillars among which the Project was
+
+   especially aligned with first pillar, enhancing domestic revenue mobilization without undermining productive activities
+
+   or distorting incentives for work.
+
+
+
+
+
+
+
+
+
+                                                                                                                      Page 8
+
+     The World Bank
+
+     Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+B. ACHIEVEMENT OF PDOs (EFFICACY)
+
+
+
+Assessment of Achievement of Each Objective/Outcome
+
+
+
+   16. Three out of four PDO indicators were met. The table below presents the status of the PDO Indicators at project
+
+   completion, and the paragraphs to follow provide component by component assessment of achievement of each
+
+   objective.
+
+
+
+       Table 3. Status of PDO Indicators
+
+                                                Baseline    End Target     Actual
+
+                      Indicator                                                                 Comments
+
+                                                 (2016)       (2016)       (2022)
+
+                                                                                      [Target achieved]
+
+                                                                                      Four major taxes comprising
+
+        PDO Indicator 1: To increase ratio of
+
+                                                                                      Personal Income Tax (PAYE),
+
+        four major taxes to GDP                   9.00        10.00         13.4
+
+                                                                                      Company Taxes, Value Added
+
+        (percentage)
+
+                                                                                      Tax (VAT) and Import Duties
+
+                                                                                      as percent of non-oil GDP
+
+
+
+                                                                                      [Target achieved]
+
+                                                                                      The share of short-term
+
+                                                                                      refixing in the total debt
+
+                                                                                      portfolio as at the end of 2021
+
+        PDO Indicator 2: Deviation of the                                             was 19.4%, against the 2021
+
+        share of short-term refixing in total                                         MTDS target of not more than
+
+        debt at the end of the year from the      2.00         0.50        -10.60     30%. This indicates a deviation
+
+        level set out in the MTDS                                                     from target of -10.6
+
+        (Percentage)                                                                  percentage points; this
+
+                                                                                      indicates the actual was well
+
+                                                                                      below the targeted debt level,
+
+                                                                                      and therefore far exceeding
+
+                                                                                      the end target.
+
+
+
+        PDO Indicator 3: Percentage of
+
+        public investment projects that are
+
+        prioritized on the basis of published
+
+                                                  0.00        30.00         82.00     [Target achieved]
+
+        standard criteria for project
+
+        selection (prior to the inclusion in
+
+        the budget) (Percentage)
+
+
+
+        PDO Indicator 4: The number of                                                [Target partially achieved]1
+
+        SOEs covered by the aggregate                                                 The 2020 State Ownership
+
+                                                   0            20          132
+
+        annual reports on SOE financial and                                           Report was published on
+
+        governance performance issued no                                              March 31, 2022, and its
+
+
+
+
+
+
+
+
+
+                                                                                                                Page 9
+
+  The World Bank
+
+  Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+     later than six months after the end                                                                  coverage was expanded to a
+
+     of the year to the public (Number)                                                                   total of 132 entities covering
+
+                                                                                                          47 SOEs, 54 Other State
+
+                                                                                                          Entities (OSEs), 17 Joint
+
+                                                                                                          Venture Companies (JVCs) and
+
+                                                                                                          14 Minority Interests.
+
+                                                                                                          However, its delivery was
+
+                                                                                                          delayed by nine months
+
+                                                                                                          (published on 31st March
+
+                                                                                                          2022, against the target of
+
+                                                                                                          June 30, 2021), therefore
+
+                                                                                                          exceeding the target of six
+
+                                                                                                          months after the end of the
+
+                                                                                                          year.
+
+
+
+
+
+Component 1: Strengthening Ghana Revenue Authority’s BI System
+
+
+
+17. The efficacy of Component 1 is rated Substantial. While progress was made in strengthening GRA’s capacity and
+
+the efficacy, the IR Indicators have not been met as presented in the table below. These contributed to improved
+
+revenue management and control.
+
+
+
+   Table 4. Status of IR Indicators: Component 1
+
+     Indicator                             Baseline            End Target                Actual         Comments
+
+
+
+                                                                                                        [Target partially achieved]
+
+                                                                                                        DW design, build, testing
+
+     IR Indicator 1.1: Launch of
+
+                                                         Launch of CRS linked Launched                  complete and work around to
+
+     DW with BI System fully               No DW
+
+                                                         to DW                partially                 dump data from customs and
+
+     integrated
+
+                                                                                                        domestic tax systems for use by
+
+                                                                                                        DW in place.
+
+
+
+                                                                                                        [Target achieved]
+
+                                                         The management
+
+                                                                                                        A Mini-DW environment was set
+
+                                                         reporting process.
+
+     IR Indicator 1.2 The usage                                                                         up. The Mini DW provides GRA
+
+                                                         The enforcement
+
+     of the new DW in their                                                                             with Revenue reports and is
+
+                                           None          process (debt                Achieved
+
+     auditing and reporting                                                                             connected to audit
+
+                                                         collection, non-filer
+
+     practices                                                                                          management software to auto
+
+                                                         follow-up, and
+
+                                                                                                        validate taxpayer profile and
+
+                                                         nonpayer follow up)
+
+                                                                                                        receive data matching
+
+
+
+   1 The indicator achieved significant improvement in terms of coverage, with 132 against the target of 20. However, the disclosure
+
+   was beyond the target of six months. It is rated as “partially achieved” taking into consideration both the coverage and timeliness,
+
+   as well as the absence of the next report (the 2021 SOR is yet to be published at the time of ICR, nearly a year after the publication
+
+   of the 2020 SOR).
+
+
+
+
+
+
+
+                                                                                                                                            Page 10
+
+  The World Bank
+
+  Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+                                                                                    information that is used by tax
+
+                                                                                    auditors during audit execution.
+
+18. GRA successfully brought in the DW with an integrated BI system. The DW design, build, testing and
+
+implementation was completed. External data exchange portal was completed, dashboards containing 35 of the 37
+
+reports were completed. Two sets of management and user training were completed. The solution fulfilled ninety
+
+nine percent of the user acceptance tests. This equipped GRA with an IT tool for integrating data and analytical
+
+reporting to extract and pool data from multiple source systems connected to the DW, and thereby supporting GRA
+
+in processing several tax administrations functions including the audit process, enforcement process, and tax policy
+
+process. The minor shortcomings were in non-deployment of the DW into live production systems and inability to
+
+clean and or obtain all the data required. Authorities are afraid of directly linking DW to live revenue administration
+
+systems. As a workaround, data dumps are secured from the customs systems and Domestic Revenue System
+
+(GITMIS). GRA continues to pursue Memorandum of understanding to obtain live data from other systems. This also
+
+caused delays in subsequent activities that are dependent on the full functionality of the DW/BI such as technical
+
+training to improve DW data quality and oversight functions within GRA.
+
+
+
+19. CRS and FATCA infrastructure have been set up, which will allow GRA to comply with their requirements. These
+
+will receive, collate, store and transmit domestic tax information of EU and US citizens with assets in Ghana
+
+automatically through data exchange. In turn, this will improve tax revenue mobilization and higher voluntary tax
+
+compliance by taxpayers, including those living abroad. However, the delays in procurement of the DW/BI did not
+
+allow for full integration and subsequent activities such as sensitization of stakeholders and trainings.
+
+
+
+Component 2: Strengthening Debt Management
+
+
+
+20. The efficacy of Component 2 is rated Substantial. All three IR Indicators have been either fully achieved or
+
+partially achieved as presented in the table below. These contributed to improved debt management and
+
+transparency through improved cash flow forecasting, strengthened debt reporting and transparency mechanisms,
+
+and improved operational risk management.
+
+
+
+    Table 5. Status of IR Indicators: Component 2
+
+     Indicator                         Baseline     End Target     Actual      Comments
+
+
+
+     IR Indicator 2.1 Contracting                                              [Target achieved]
+
+     of new external borrowing                                                 The debt limit for contracting non-
+
+     does not exceed the                                                       concessional borrowing (including
+
+     borrowing limits for non-                                                 International Capital Markets (ICM))
+
+                                         1.50          0.00         -7.00
+
+     concessional borrowing from                                               in 2021 was US$6,000.00 million,
+
+     the International Capital                                                 against a performance of
+
+     Markets, as set in the MTDS.                                              US$5,574.00 million. This indicates a
+
+     (percentage)                                                              deviation from target of -7.0%.
+
+
+
+     IR Indicator 2.2: Public debt                                             [Target partially achieved]
+
+     data available on MoF’s             6.00          6.00         4.00       The target was met for all years
+
+     official website (within                                                  (2017–2020) of the project’s
+
+
+
+
+
+
+
+                                                                                                               Page 11
+
+  The World Bank
+
+  Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+        months of end of Ghana’s                                             implementation except for years
+
+        fiscal year)                                                         2021 and 2022, where the reports
+
+                                                                             were ready and submitted to
+
+                                                                             Parliament by the end of March and
+
+                                                                             published on the website2 in the
+
+                                                                             subsequent month.
+
+
+
+                                                                             [Target achieved]
+
+        IR Indicator 2.3: An
+
+                                                                             At the end of 2021, BCP and Code of
+
+        operational risk guideline
+
+                                                                             Conduct of the operational risk
+
+        with business continuity plan
+
+                                                                             management guidelines were
+
+        (BCP) and a disaster recovery            No   Yes           Yes
+
+                                                                             prepared. Subsequently, DRP which is
+
+        plan (DRP) approved and
+
+                                                                             the final component of the guidelines
+
+        reviewed biannually (Yes/No,
+
+                                                                             was also finalized before project
+
+        Custom)
+
+                                                                             closing.
+
+
+
+
+
+21. Quality of debt management was improved with an operationalized MTDS through a detailed ABP. The Credit
+
+Risk Assessment Framework (CRAF) was developed for the utilities sector to evaluate the creditworthiness of SOEs to
+
+ascertain the fiscal risk before guarantees and no-objection to borrow are granted. The National Borrowing and
+
+Government Lending Guidelines (NBG) which provide guidance for public entities on the procurement of loans and
+
+other forms of borrowing were approved and published. Several trainings were conducted for staff – including a
+
+substantial number of female staff – in advanced MTDS and ABP. Furthermore, a dedicated trading room, equipped
+
+with video and audio-conferencing systems, was established for market research and analysis to inform decision-
+
+making on the auction of Government securities.
+
+
+
+22. Capacities in treasury management and forecasting were strengthened. Improvements were made to the Public
+
+Sector Borrowing Requirement (PSBR) Model to produce reliable cash flow estimates and link them to the auction
+
+calendar. Trainings were conducted focusing primarily on cash flow forecasting and cash management, and debt
+
+portfolio risk approach. During project implementation the TDMD has introduced a new web-based debt software,
+
+Meridian, which allowed for better streamlined procedures with electronic payments in line with the Ghana
+
+Integrated Financial and Management Information System (GIFMIS) future interventions.
+
+
+
+23. Debt reporting and transparency were improved. Annual Debt Reports (ADRs) have been published in
+
+accordance with the PFM Act, and statistical bulletins and newsletters are being periodically published. Furthermore,
+
+updates to the MoF website were made including the MTDS, ABP and auction calendar. Engagements with market
+
+participants and potential investors through conference calls, investor presentations and roadshows have been
+
+continuously conducted including during the COVID-19 pandemic. Trainings were conducted with focus on public
+
+sector debt statistics as well as on research skills, securities law and treasury operations among others.
+
+
+
+
+
+
+
+
+
+    2   https://mofep.gov.gh/public-debt/debt-data
+
+
+
+
+
+
+
+                                                                                                             Page 12
+
+  The World Bank
+
+  Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+24. Operational risks were mitigated. BCP and DRP were developed as part of the operational risk management
+
+guidelines, as well as a code of conduct and risk monitoring and compliance function. A technical working group for
+
+Operational Risk Management (ORM) comprising staff from Treasury and Debt Management Division (TDMD) of MoF,
+
+Internal Audit and BoG was set up. Furthermore, an e-library was developed containing scans of all loan agreements
+
+and other relevant documentations; trainings were conducted to ensure the features of the e-library were familiar to
+
+the relevant staff.
+
+
+
+
+
+Component 3: Strengthening Capacity in Public Investment Management
+
+
+
+25. The efficacy of Component 3 is rated Substantial, having achieved three of the four IR Indicators. The Status of
+
+the IR Indicators are presented below. These contributed to improved PIM capacity by enabling government entities
+
+to better assess economic, financial, social, and environmental aspects of public investment projects.
+
+
+
+   Table 6. Status of IR Indicators: Component 3
+
+     Indicator                          Baseline    End Target     Actual     Comments
+
+
+
+                                         No PIM
+
+     IR Indicator 3.1: Roll out and
+
+                                        Strategy/       PIP         PIP
+
+     operationalization of PIM                                              [Target achieved]
+
+                                         Action     established established
+
+     strategy and action plan
+
+                                           Plan
+
+
+
+     IR Indicator 3.2: New projects
+
+     reviewed by PID team for                                                 [Target achieved]
+
+     quality assurance in line with        0           30           53        New projects assessed by PIAD team
+
+     PIM guidelines Operations                                                using published PCN and guidelines
+
+     Manual (Number)
+
+
+
+     IR Indicator 3.3: Civil servants
+
+     who receive PIM-related               0           500         1,697      [Target achieved]
+
+     trainings
+
+
+
+                                                                              [Target achieved]
+
+         of which female                   0           150          506       506 female civil servants represent
+
+                                                                              30% of all trained
+
+
+
+                                            No       National
+
+     IR Indicator 3.4: National ICT-                               M&E
+
+                                         National   ICT-based
+
+     based M&E System                                             system      [Target not achieved]
+
+                                        ICT-based      M&E
+
+     developed with capability to                                developed    No project has been monitored and
+
+                                           M&E        System
+
+     monitor Public Investment                                   but not in   evaluated.
+
+                                          System    developed
+
+     Projects                                                       use
+
+                                        developed   and in use
+
+
+
+
+
+26. Regulatory and institutional setting for PIM and creation of the required PIM instruments were improved. The
+
+PFM Regulations, 2020 (L.I.2411) was developed and enacted by Parliament in November 2020. To support the
+
+
+
+
+
+
+
+                                                                                                             Page 13
+
+  The World Bank
+
+  Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+implementation of PIM, Operational Manual and associated guideline as well as templates were developed to support
+
+for investment project preparation and integrated appraisal. The above development strengthened the
+
+institutionalization of PIM.
+
+
+
+27. Capacity building activities were conducted to compliment the regulatory and institutional setting for PIM. The
+
+capacity assessment report developed formed the bases for the capacity building activities. The capacity building
+
+conducted included sensitization on PFM(PIM) Regulations, developed PIM template/guidelines and manuals; and
+
+serval training was conducted on project finance, public private partnership, cost-benefit analysis, and environmental
+
+assessment, among others. Furthermore, most of the PIM related training were customized to key public officers in
+
+various public investment units (PIUs) across MDAs/MMDAs. To ensure that the capacity building efforts are
+
+comprehensive and delivered in a continuous and sustainable manner, the University of Ghana Business School was
+
+selected to deliver PIM training courses for the various PIUs.
+
+
+
+28. National Monitoring and Evaluation Information System (NaMEIS) was launched under NDPC, but with limited
+
+effectiveness. The system was designed as a web-based enterprise system to provide M&E functions for all public
+
+institutions including core and national Indicators; Quarterly Performance Reports (QPRs) and APRs. However, at the
+
+time of project closing, the system was still at a piloting stage with limited information onboard, lack of sustainability
+
+(largely financial) and inefficiencies due to overlaps with other systems.
+
+
+
+Component 4: Improving the Governance of SOEs
+
+
+
+29. The efficacy of Component 4 is rated Substantial. Significant progress was made in improving the governance of
+
+SOEs which are captured in the achievements of all three IR Indicators as presented below. These contributed to
+
+improved SOE management and corporate governance.
+
+
+
+    Table 7. Status of IR Indicators: Component 4
+
+     Indicator                          Baseline     End Target      Actual      Comments
+
+
+
+     IR Indicator 4.1: SOEs with
+
+     audited annual financial
+
+     reports publicly disclosed by          0            15            16        [Target achieved]3
+
+     the time of SOE Annual
+
+     General Meetings
+
+
+
+                                                                                 [Target achieved]
+
+                                                                                 The average implementation level
+
+                                                                                 was 90.5%. The individual entity
+
+     IR Indicator 4.2:                                                           implementation of the Corporate
+
+     Implementation of the                                                       Governance Action Plans was:
+
+                                          0.00          80.00         90.50
+
+     annual action plans for the                                                     • Ghana Water Company
+
+     five SOEs (percentage)                                                              Limited: 97.22%
+
+                                                                                     • Tema Development
+
+                                                                                         Company: 92.59%
+
+                                                                                     • Ghana National Petroleum
+
+
+
+
+
+
+
+                                                                                                                  Page 14
+
+  The World Bank
+
+  Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+                                                                                                       Corporation: 89.29%
+
+                                                                                                  •    Volta River Authority: 87.04%
+
+                                                                                                  •    Electricity Company of
+
+                                                                                                       Ghana: 86.36%
+
+
+
+                                                                                             [Target achieved]
+
+     IR Indicator 4.3: Civil society
+
+                                                                                             Seventeen CSOs participated in the
+
+     organizations (CSOs)
+
+                                                                                             2022 Policy and Governance Forum
+
+     participating in the annual                  0               15              17
+
+                                                                                             which was held on 28th January 2022
+
+     stakeholder workshop on
+
+                                                                                             after a suspended period caused by
+
+     SOE governance
+
+                                                                                             the COVID-19 pandemic.
+
+
+
+
+
+
+
+30. An equity study on state ownership was conducted and set the foundation for establishment of a SOE single
+
+entity. The study, completed in 2019, covered 100 entities – 52 wholly owned and 48 JVCs – and a Cabinet
+
+Memorandum was subsequently submitted on the findings and recommendations of the study. In addition, a report
+
+on the verification and valuation of assets of 40 inactive entities to complement the findings of the equity study was
+
+prepared; a Cabinet Memorandum on the findings was also submitted.
+
+
+
+31. The SOE single entity, State Interests and Governance Authority (SIGA) was established. The SIGA Act (Act 990)
+
+was enacted in 2019 and the authority became fully operational after the appointment of Board of Directors and
+
+Director Generals, as well as recruitment of its staff. SIGA has since played a central role in introducing and
+
+mainstreaming good corporate governance, best practices in accounting, inclusion of SOEs in the national accounts,
+
+and enhanced transparency of SOEs. SIGA took over the role of preparing State Ownership Reports (SORs) from the
+
+MoF and has since prepared SORs with extended coverage and enhanced contents; most of the SOEs reported in the
+
+SORs have prepared and published the accounts in line with the International Financial Reporting Standards (IFRS).
+
+The number of SOEs publishing audited financial statements at the time of Annual General Meetings increased,
+
+disclosing more information and hence enhancing transparency.
+
+
+
+32. Corporate governance improvements were successfully piloted in five SOEs. The selected SOEs implemented
+
+actions based on the respective corporate governance actions plans, achieving 90.5% of the specified actions. This
+
+resulted in better compliance with regulatory compliance including accounting and audits, corporate governance
+
+among others. Capacity development activities, including training for board members of 33 SOEs, were conducted to
+
+streamline SOEs corporate governance practices. The Code of Corporate Governance, the Performance Management
+
+Framework and the State Ownership Policy were prepared and finalized for Cabinet approval. In addition, a Corporate
+
+Governance Curriculum to train Board and Management of SOEs was prepared and four local training institutions
+
+were selected to deliver training based on the Curriculum.
+
+
+
+
+
+
+
+
+
+    3 The 16 entities are: Goil Company Ltd, Ghana Reinsurance Company Ltd, SIC Insurance Company Ltd., GCB Bank Ltd., Agricultural
+
+
+
+    Development Bank, Volta River Authority, Consolidated Bank Ghana Limited, Ghana Women Fund, Ghana Commodity Exchange,
+
+    Ghana Water Company Limited, Volta Aluminium Company LTD, EximBank, Kumasi Abattoir, TDC Development Company Limited,
+
+    Ghana Airport Company LTD and Irrigation Company of the Upper Region.
+
+
+
+
+
+
+
+                                                                                                                                      Page 15
+
+    The World Bank
+
+    Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+  Justification of Overall Efficacy Rating
+
+
+
+  33. The overall efficacy rating is assessed as Substantial. This rating reflects the achievement of three PDO indicators
+
+  out of four, and the efficacy ratings of each component which are all rated as Substantial. Where the PDO Indicator
+
+  was not met under Component 4, significant achievements were made as evidenced by the establishment of SIGA
+
+  and corporate governance improvement efforts.
+
+
+
+
+
+
+
+      Table 8. Efficacy ratings
+
+                                             Component                                                 Rating
+
+
+
+       Component 1: Strengthening Ghana Revenue Authority’s BI System                                Substantial
+
+
+
+       Component 2: Strengthening Debt Management                                                    Substantial
+
+
+
+       Component 3: Strengthening Capacity in Public Investment Management                           Substantial
+
+
+
+       Component 4: Improving the Governance of SOEs                                                 Substantial
+
+
+
+       Overall rating                                                                                Substantial
+
+
+
+
+
+
+
+C. EFFICIENCY
+
+
+
+  Assessment of Efficiency and Rating
+
+
+
+  34. The overall efficiency rating is assessed as Substantial. The direct benefits through effective tax administration
+
+  by GRA alone presents substantial financial gains. The financial analysis – comparing the without-project-scenario
+
+  (baseline) and actual – estimates the GRA’s contribution to increased tax revenue at USD 15.7 million in 2021 alone.
+
+  Improvements to the governance of SOEs brought financial returns in the form of reduced losses, saving USD 442
+
+  million between 2019 and 2020 for fully owned SOEs. The financial economic benefits from improved performance of
+
+  JVCs SOEs and minority interest are significantly greater with savings of USD 2,364 million during the same period.
+
+  Detailed analyses are presented in Annex 5. While the improvements to tax revenue and SOEs performance cannot
+
+  be entirely attributed to the Project, considering the sluggish economic growth during the period, the improvements
+
+  in terms of both tax revenues (USD 15.7 million equivalent to 0.022% GDP) and reduced financial losses (USD 442
+
+  million equivalent to 0.65 % of GDP) of fully owned SOEs are substantial.
+
+
+
+
+
+
+
+
+
+                                                                                                                   Page 16
+
+    The World Bank
+
+    Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+D. JUSTIFICATION OF OVERALL OUTCOME RATING
+
+
+
+   35. The overall outcome rating is assessed as Satisfactory. The PDO was highly relevant. The efficacy sub-rating
+
+   was substantial having achieved three out of four PDO indicators; where the PDO indicator was not met, significant
+
+   progress was made under Component 4 in improving the governance of SOEs. The efficiency sub-rating was
+
+   substantial with higher than expected economic and financial returns.
+
+
+
+      Table 9. Overall outcome rating
+
+                      Sub-ratings                     Overall
+
+        Relevance       Efficacy     Efficiency   outcome rating
+
+
+
+           High       Substantial   Substantial     Satisfactory
+
+
+
+
+
+
+
+
+
+E. OTHER OUTCOMES AND IMPACTS (IF ANY)
+
+  Gender
+
+  36. The Project was not gender tagged but achieved positive outcomes. A substantial number of female staff – 506,
+
+  representing 30 percent of all trained staff – were trained under each component of the Project, including on debt
+
+  management, financial modelling, public sector corporate governance, among many others. The Project was among
+
+  the pioneering projects in Ghana that have proactively encouraged female participation in capacity development
+
+  activities and kept records of such activities. Furthermore, the Project Management Unit (PMU) and teams made
+
+  conscious efforts to develop appropriate data collection forms to track the participation of female staff relative to
+
+  male staff in all PIM-related events; while no data is readily available the PMU confirmed that these are new efforts
+
+  and had not been the practice prior to project implementation.
+
+
+
+
+
+
+
+
+
+                                                                                                               Page 17
+
+  The World Bank
+
+  Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+Institutional Strengthening
+
+37. The Project strengthened the institutions responsible for each component some of which will continue to
+
+operate under a new World Bank funded program. Some of the activities were specifically designed to strengthen
+
+the institutional capacity of selected entities such as PDO Outcome 1 whose aim was to strengthen the government’s
+
+institutional capacity for revenue and expenditure management. The Project provided substantial support primarily
+
+to the MoF and GRA, and others from the Controller and Accountant General's Department (CAGD), BoG, SIGA and
+
+other institutions also benefited. The MoF, GRA, CAGD and SIGA will all continue to engage in critical PFM reforms in
+
+Ghana under the newly approved PFM for Service Delivery Program-for-Results (PforR), ensuring continuity and
+
+sustainability. Efforts were made to shift the focus of reform activities from outputs and outcomes to results, which
+
+will be an important change in mindset for the institutions to continue their reforms through the PforR.
+
+
+
+Mobilizing Private Sector Financing
+
+38. The Project contributed indirectly to mobilization of private sector financing through enhanced public
+
+investment and SOE governance. Enhanced public investment management is expected to create a more
+
+competitive, fair, transparent and attractive investment environment for private investors; this, in turn, will trickle
+
+down to support job creation and economic growth. Improved SOE governance is expected to lead to increase
+
+emphasis on private sector participation, and crowd in private sector investment.
+
+
+
+
+
+Poverty Reduction and Shared Prosperity
+
+39. Strengthened institutional capacity for revenue and expenditure management will contribute indirectly to
+
+economic growth and poverty reduction. Enhanced revenue management will lead to increased resources available
+
+for investment in key areas that deliver basic services that help lift citizens out of poverty. Better expenditure
+
+management means better use of public funds that will also lead to more resources allocated to development
+
+spending while limiting the level of resources allocated to inefficient government spendings.
+
+
+
+Other Unintended Outcomes and Impacts
+
+
+
+40. The GEMS project and the PFM Reforms project emphasized more on the technical solutions to the technical
+
+problems. However, the teams engaged in these two projects, both within the Bank and the counterparts, recognized
+
+the importance of the emerging context in which these projects were implemented, including the change in economic
+
+conditions, the power structures, communication channels, informal networks and communication flows. This
+
+realization has led to a rather well elaborated change management approach under the new PFM Strategy 2022-26.
+
+
+
+
+
+
+
+
+
+                                                                                                               Page 18
+
+     The World Bank
+
+     Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+III. KEY FACTORS THAT AFFECTED IMPLEMENTATION AND OUTCOME
+
+
+
+ A. KEY FACTORS DURING PREPARATION
+
+
+
+    41. The Project was prepared in response to the government request, in line with the government priorities,
+
+    and in close consultation with the government. The government had clear priorities under GSGDA II which served
+
+    as the spine for discussions with relevant stakeholders in identifying the components and activities to be
+
+    undertaken supported by the Project. The Project was directly aligned with the programmatic DPO series, and its
+
+    design was also supported by existing plans, technical assessments and analytical works, including the GRA
+
+    Modernization Plan, PIM assessment, Public Debt Management Reform Plan and SOE diagnostic study.
+
+
+
+ B. KEY FACTORS DURING IMPLEMENTATION
+
+
+
+    42. The COVID-19 pandemic significantly delayed project implementation. Travel restrictions, lockdowns and
+
+    social distancing measures forced some activities to be conducted virtually, proving to be less effective than face-
+
+    to-face activities. Most notably, IR Indicator 4.3 “CSOs participating in the annual stakeholder workshop on SOE
+
+    governance” was not achievable during the height of the pandemic but was later achieved in 2022 after the
+
+    government’s policy to restrict physical workshops was relaxed. Despite these challenges, the Project had achieved
+
+    99 percent disbursement prior to the second extension.
+
+
+
+    43. Procurement of a complex system requiring inter-departmental collaboration was a challenge. The
+
+    responsibility for the management of the DW/BI within GRA was transferred to different department multiple time,
+
+    which delayed the overall implementation. Furthermore, there was insufficient communication and collaboration
+
+    between those responsible for detailing the specifications and the final beneficiaries of the system; this could have
+
+    been avoided by assigning either a single department or a group consisting of key departments in charge or
+
+    operating such systems to be responsible for the entire process from planning, procurement and implementation.
+
+
+
+
+
+
+
+IV. BANK PERFORMANCE, COMPLIANCE ISSUES, AND RISK TO DEVELOPMENT OUTCOME
+
+
+
+ A. QUALITY OF MONITORING AND EVALUATION (M&E)
+
+
+
+   M&E Design
+
+
+
+   44. The M&E function under the Project was assumed by the M&E Unit under the Policy Coordination Monitoring
+
+   and Evaluation Division (PCMED) of MoF. The M&E Unit had the overall responsibility and a coordinating role for the
+
+   Project and was mandated to ensure monitoring and facilitating data collection, analysis, and presentation of project
+
+   results to allow for effective supervision. The Project did not use a dedicated and stand-alone M&E system for, during
+
+   appraisal, it was concluded that the M&E systems in place were adequate. A dedicated M&E officer was staffed
+
+   throughout project implementation.
+
+
+
+   45. The progress towards the PDO was monitored through the PDO level and intermediate results indicators. The
+
+   PCMED, coordinated by the M&E officer, was responsible for soliciting and deriving the primary data and information
+
+
+
+
+
+
+
+
+
+                                                                                                                   Page 19
+
+     The World Bank
+
+     Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+   to report on project progress against the agreed baselines, annual targets, frequency of data collections, data source
+
+   and methodology, by the relevant institutions for data collection.
+
+
+
+   M&E Implementation
+
+
+
+   46. Reviews of implementation were undertaken by the PMU and the results were used to discuss issues and
+
+   bottlenecks, but with insufficient frequency and proactiveness. The reviews and collection of data for the PDO level
+
+   and intermediate results indicators were conducted primarily in response to the requests from the World Bank Team
+
+   during Implementation Support Missions. Data were neither collected nor utilized regularly unless requested by the
+
+   World Bank Team or when an ad-hoc needs emerged. The M&E Unit was adequately positioned and mandated for
+
+   the M&E functions but were understaffed or underfunded to conduct its functions proactively and routinely for the
+
+   Project – the PMU has raised the absence of additional financial incentives as one of the factors.
+
+
+
+   M&E Utilization
+
+
+
+   47. The M&E framework proved to be effective in providing information on implementation progress. The PDO
+
+   level and intermediate results indicators were well designed and adequately revised allowing both the PMU and the
+
+   World Bank Team to monitor the implementation progress, and to engage in various discussions with the respective
+
+   implementing entities to address implementation weaknesses.
+
+
+
+   Justification of Overall Rating of Quality of M&E
+
+
+
+   48. The overall M&E is rated Substantial. Despite the minor weakness in M&E implementation, in particular the
+
+   frequency and proactiveness, the M&E framework was broadly adequate to assess the progress and achievements of
+
+   the Project comprehensively.
+
+
+
+B. ENVIRONMENTAL, SOCIAL, AND FIDUCIARY COMPLIANCE
+
+
+
+   49. The environmental and social risks category was classified as C and no social safeguard policies were triggered.
+
+       At appraisal, the environmental impact assessment of the Project had identified no potential environment and
+
+       social harm, and no mitigation environmental and social safeguard measures were triggered or adopted
+
+       throughout the project implementation.
+
+
+
+   50. No social safeguard policies were triggered, and the Project continued to be classified as C. There were no
+
+       concerns raised for Sexual Exploitation and Abuse/Sexual Harassment (SEA/SH) issues associated with the Project
+
+       whose activities focused primarily on institutional and capacity building. The Project did not trigger the involuntary
+
+       resettlement policy, and the activities did not have impacts on land and properties and required no land
+
+       acquisition leading to involuntary resettlement and/or restrictions to access to resources or livelihoods and
+
+       therefore no compensation and community concerns and issues. Thus, the project did not register any complaints
+
+       through the available channels of the Ministry or government.
+
+
+
+
+
+    51. Financial management remained Moderately Satisfactory throughout project implementation. Adequate
+
+        internal control arrangements, including different levels of approval and authorizations, were in place
+
+        throughout project implementation to ensure the safeguarding of project funds and assets. The moderate
+
+
+
+
+
+
+
+
+
+                                                                                                                     Page 20
+
+    The World Bank
+
+    Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+       shortcomings in financial management, such as delays in submission of audited financial statements, did not
+
+       prevent the timely and reliable provision of information required to manage and monitor the implementation of
+
+       the Project. Interim Financial Reports and Annual Audited Financial Statements were submitted in accordance
+
+       with the World Bank Guidelines, albeit with occasional delays beyond the six months requirement as specified in
+
+       the Financial Agreements.
+
+
+
+   52. Procurement remained Moderately Satisfactory throughout project implementation. Albeit with challenges
+
+       in timely submission of documents, response requests from the Bank, and updated to the Systematic Tracking
+
+       of Exchanges in Procurement (STEP) due largely to the multiple layers of bureaucracy, and ineffective and
+
+       inefficient contract management, the performance improved throughout project implementation.
+
+
+
+C. BANK PERFORMANCE
+
+
+
+  Quality at Entry
+
+
+
+  53. The quality of the Bank’s performance at entry is rated Satisfactory. The Project was designed and prepared in
+
+      a way strategically relevant for Ghana, with clearly defined and realistic objectives. The strategic relevance and
+
+      approach of the Project was appropriate, with sufficient attention to technical, financial and economic aspects.
+
+      The Project focused appropriately on development impact and provided adequate provisions for procurement,
+
+      financial management and social safeguards.
+
+
+
+  Quality of Supervision
+
+
+
+  54. The quality of the Bank’s performance during supervision is rated Satisfactory. The Bank conducted regular
+
+      implementation support missions and a mid-term review during project implementation. Issues identified were
+
+      adequately reported in aide memoires, ISRs and management letter, and shared with the management – both
+
+      within the Bank and the government – to address those issues. The Bank also provided adequate support to
+
+      ensure fiduciary compliance including on financial management and procurement.
+
+
+
+  55. The Bank Team was adequately staffed with the right mix of international and local staff with expertise.
+
+      Changes to the Task Team Leaders (TTLs) over the course of project implementation did not affect supervision
+
+      with adequate handing over processes and guidance from the management. The Project benefitted from co-
+
+      leadership between the Governance Global Practice and the Macroeconomics, Trade and Investment Global
+
+      Practice. Some team members at appraisal continued to support project implementation until project closure,
+
+      particularly for DW/BI under Component 1, which allowed continuous and seamless collaboration with the
+
+      government counterparts.
+
+
+
+  56. Adequate implementation support was provided throughout the COVID-19 pandemic. While there were minor
+
+      delays due to suspended mission travels, the Bank Team continued to support the implementation through
+
+      regular virtual meetings.
+
+
+
+
+
+
+
+
+
+                                                                                                                Page 21
+
+     The World Bank
+
+     Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+   Justification of Overall Rating of Bank Performance
+
+
+
+   57. Overall Bank performance is rated Satisfactory. The performance of the Bank in ensuring quality is rated
+
+       Satisfactory both at entry and during supervision.
+
+
+
+ D. RISK TO DEVELOPMENT OUTCOME
+
+
+
+    58. Risk to development outcome is assessed as Low. The results achieved are sustainable and capable of
+
+        supporting subsequent interventions, minimizing institutional capacity risk. The government is committed to
+
+        continuing to sustain the development outcomes and to further implement reforms for better service delivery.
+
+        The departments and institutions of the Project – MoF, GRA, CAGD and SIGA – will continue to implement
+
+        reform activities under the government’s new PFM Strategy (2022-2026). The PFM Strategy was approved by
+
+        the government in May 2022, presenting the government’s reform strategy and priorities in PFM, including
+
+        those overlapping with the Project – domestic revenue mobilization, public investment management, SOEs
+
+        and audit. The World Bank Board of Directors approved, in June 2022, a new PforR operation PFM for Service
+
+        Delivery Program which will support the implementation of the PFM Strategy. The challenge for the
+
+        government going forward is to ensure the momentum is kept as the fiscal and debt vulnerabilities worsen
+
+        (inflation rate of 40.4 percent year on year in October 2022) and an Extended Credit Facility of USD 3 billion
+
+        from the IMF is imminent. The Bank is working closely with the IMF and expected to provide adequate support,
+
+        in the form of a DPO, which may cover some of the key subcomponents of the Project including debt statistics,
+
+        extrabudgetary funds among others. On the political aspect, the General Election, to be held in 2024, may also
+
+        pose a challenge as it may add electoral pressure on government spending; however, Ghana has a track record
+
+        of managing elections peacefully with relatively limited turbulence before and after the elections.
+
+
+
+
+
+
+
+V. LESSONS AND RECOMMENDATIONS
+
+
+
+    59. Using readily available indicators, where possible, could reduce administrative costs and might be a more
+
+        suitable option. One of the PDO indicators required revision due to difficulties in data collection by GRA and
+
+        in measuring the target. The formula for the indicator was not clear and at times was a source of confusion;
+
+        the administrative cost associated with checking the definition and collecting the relevant data could have
+
+        been minimized by selecting indicators that had regularly been collected and used by GRA or MoF provided
+
+        they serve as adequate proxies for the expected outcomes.
+
+
+
+    60. The Project was designed to, and successfully did complement the programmatic DPO series. The
+
+        programmatic DPO series had two primary pillars: a) strengthen institutions for more predictable fiscal
+
+        outcomes, and b) enhance the productivity of public spending. The achievements under Projects proved that
+
+        DPOs and IPFs, when designed effectively with well aligned pillars and components, complement each other
+
+        well and produce successful results. This is especially true when dealing with macro level issues such as debt
+
+        management which are dependent on policies and other external factors. It may also have helped the Project
+
+        to implement a relatively large number of components and activities despite the modest amount of credit.
+
+
+
+    61. Inter-departmental collaboration is key to ensuring delivery of outcomes. During a procurement process, the
+
+        beneficiary entity can play a proactive role and provide support to the procuring entity to ensure timely
+
+        delivery. The procurement of the DW/BI required more time than it had originally planned due to the changes
+
+
+
+
+
+
+
+
+
+                                                                                                                Page 22
+
+        The World Bank
+
+        Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+           to the departments within GRA with the responsibility for the management of the DW/BI, and in turn required
+
+           additional inter-departmental collaboration to ensure the specifications of the systems were aligned with
+
+           those required by the beneficiary entities. The Project could have benefitted from more ownership and
+
+           proactive engagement from the final beneficiaries – including departments and relevant individuals – to foster
+
+           better collaboration. Task teams may also consider internalizing this during project designing and make sure
+
+           the procuring entity and the beneficiary entities are not disconnected.
+
+
+
+       62. The chain of command can be more efficient with fewer levels. The Project Steering Committee (PSC), at
+
+           appraisal, was set up as an overarching body and a means of ensuring efficient project implementation
+
+           considering the number of different executing units and the complexity involved. However, the directors and
+
+           heads of the relevant executing units and divisions, who had originally been named as members of PSC,
+
+           continued to take part in key meetings and missions, and provided support. Many of these key interventions
+
+           were not in the form of an official PSC and showed that the same results could be achieved not necessarily
+
+           through formal committees.
+
+
+
+       63. Overlapping institutional and departmental mandates hindered effective project implementation. NaMEIS
+
+           was launched by NDPC whose roles and responsibilities overlaps with another public institutions, namely the
+
+           Monitoring and Evaluation Secretariat. The seemingly overlapping inter-institutional roles and responsibilities
+
+           combined with insufficient coordination with other institutions and departments may have resulted in
+
+           suboptimal specifications of the system. Furthermore, there is another system owned and operated by NDPC
+
+           with similar functions with NaMEIS. Streamlining of roles and responsibilities would allow project resources to
+
+           be used efficiently and avoid duplications of outputs.
+
+
+
+       64. The Project could have had more ambitious targets, especially after restructuring. While both the Bank team
+
+           and the government were – understandably – cautious about the uncertainties surrounding the COVID-19
+
+           pandemic and therefore focused primarily on achieving the original PDO rather than adding new activities or
+
+           new target, the targets could have been more ambitious considering how satisfactorily the Project had been
+
+           progressing at the time of restructuring. One approach that the Team may have opted for, while balancing the
+
+           reluctance to be overly ambitious during time of uncertainties and willingness to deliver higher outcomes, is
+
+           to not make changes to PDO indicators to ensure the achievements are fully recognized but add or edit other
+
+           indicators in the results framework.
+
+
+
+.
+
+NDPC
+
+
+
+
+
+
+
+
+
+                                                                                                                    Page 23
+
+    The World Bank
+
+    Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+                                              ANNEX 1. RESULTS FRAMEWORK AND KEY OUTPUTS
+
+
+
+
+
+
+
+
+
+A. RESULTS INDICATORS
+
+
+
+A.1 PDO Indicators
+
+
+
+
+
+ Objective/Outcome: To strengthen the Government of Ghana's instutional capacity for revenue and expenditure managment
+
+                                                                                                    Formally Revised         Actual Achieved at
+
+ Indicator Name                  Unit of Measure Baseline                  Original Target
+
+                                                                                                    Target                   Completion
+
+
+
+ PDO Indicator 1: To increase    Percentage       9.00                     10.00                                             13.40
+
+ ratio of four major taxes to
+
+ GDP                                              31-Dec-2018              31-Dec-2021                                       31-Dec-2021
+
+
+
+
+
+ Comments (achievements against targets):
+
+At end of December 2021, combined share of PAYE, Company Taxes, VAT and Import Duties as percent of non-oil GDP was 13.4 percent. Actual Collection
+
+(Jan-December 2021) 1. PAYE: GH¢9,723.55 M 2. Corporate Taxes: GH¢14,479.64 M 3. VAT: GH¢11,762.52 M 4. Import Duties: GH¢6,871.67 M *VAT is
+
+inclusive of import VAT.
+
+
+
+
+
+
+
+
+
+ Objective/Outcome: To strengthen the Government of Ghana's instutional capacity for revenue and expenditure managment
+
+                                                                                                    Formally Revised         Actual Achieved at
+
+ Indicator Name                  Unit of Measure Baseline                  Original Target
+
+                                                                                                    Target                   Completion
+
+
+
+ PDO Indicator 2: Deviation of   Percentage       2.00                     0.50                                              0.00
+
+
+
+
+
+                                                                                                                                           Page 24
+
+     The World Bank
+
+     Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+ the share of short-term                             01-May-2016                31-Dec-2021                                          31-Dec-2021
+
+ refixing in total debt at the
+
+ end of the year from the level
+
+ set out in the medium-term
+
+ debt management strategy
+
+ (MTDS)
+
+
+
+
+
+ Comments (achievements against targets):
+
+The share of short-term refixing in the total debt portfolio as at the end of 2021 was 19.4%, against the 2021 MTDS target of not more than 30%. This
+
+indicates a deviation from target of -10.6 percentage points. The actual achievement at completion is presented as 0.00 due to technical constraints (i.e.,
+
+value cannot be negative on the portal).
+
+
+
+
+
+
+
+
+
+ Objective/Outcome: To strengthen the Government of Ghana's instutional capacity for revenue and expenditure managment
+
+                                                                                                          Formally Revised           Actual Achieved at
+
+ Indicator Name                    Unit of Measure Baseline                     Original Target
+
+                                                                                                          Target                     Completion
+
+
+
+ PDO Indicator 3: Percentage       Percentage        0.00                       30.00                                                82.00
+
+ of public investment projects
+
+ that are prioritized on the                         01-May-2016                31-Dec-2021                                          31-Dec-2021
+
+ basis of published standard
+
+ criteria for project selection
+
+ (prior to the inclusion in the
+
+ budget)
+
+
+
+
+
+ Comments (achievements against targets):
+
+
+
+
+
+
+
+
+
+                                                                                                                                                    Page 25
+
+    The World Bank
+
+    Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+ Objective/Outcome: To strengthen the Government of Ghana's instutional capacity for revenue and expenditure managment
+
+                                                                                                       Formally Revised          Actual Achieved at
+
+ Indicator Name                  Unit of Measure Baseline                    Original Target
+
+                                                                                                       Target                    Completion
+
+
+
+ PDO Indicator 4: The number      Number            0.00                     20.00                                               0.00
+
+ of SOEs covered by the
+
+ aggregate annual reports on                        01-May-2016              30-Jun-2022                                         30-Jun-2022
+
+ SOE financial and governance
+
+ performance issued no later
+
+ than six months after the end
+
+ of the year to the public
+
+
+
+
+
+ Comments (achievements against targets):
+
+The 2020 State Ownership Report was published on 31st March 2022. Despite the significant delay in its publication, its coverage was enhanced covering 47
+
+SOEs, 54 OSEs, 17 JVCs and 14 Minority Interests.
+
+
+
+
+
+
+
+
+
+A.2 Intermediate Results Indicators
+
+
+
+ Component: Component 1: Strengthening Ghana Revenue Authority's Business Intelligence Systems
+
+                                                                                                       Formally Revised         Actual Achieved at
+
+ Indicator Name                  Unit of Measure Baseline                    Original Target
+
+                                                                                                       Target                   Completion
+
+
+
+ IR Indicator 1.1: Launch of      Text             No data warehouse         Launch of CRS linked      Launch of CRS linked      Partially achieved
+
+ Data Warehouse with                                                         to GRA data               to GRA data
+
+ Business Intelligence System                                                warehouse                 warehouse
+
+ fully integrated
+
+                                                   01-May-2016               31-Dec-2021               30-Jun-2022               30-Jun-2021
+
+
+
+
+
+                                                                                                                                                Page 26
+
+    The World Bank
+
+    Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+
+
+ Comments (achievements against targets):
+
+Data warehouse design, build, testing complete and work arounds to dump data from customs and domestic tax systems for use by DW in place.
+
+
+
+
+
+
+
+
+
+                                                                                                    Formally Revised         Actual Achieved at
+
+ Indicator Name                  Unit of Measure Baseline                 Original Target
+
+                                                                                                    Target                   Completion
+
+
+
+ IR Indicator 1.2 The usage of   Text             No Data Warehouse        The management           The management           Achieved
+
+ the new DW in their auditing                                              reporting process. The   reporting process. The
+
+ and reporting practices                                                   enforcement process      enforcement process
+
+                                                                           (debt collection, non-   (debt collection, non-
+
+                                                                           filer follow up, and     filer follow up, and
+
+                                                                           nonpayer follow up)      nonpayer follow up)
+
+
+
+                                                  01-May-2016              31-Dec-2021              30-Jun-2022              25-Feb-2022
+
+
+
+
+
+ Comments (achievements against targets):
+
+A Mini-DW environment was set up. The Mini DW provides GRA with Revenue reports and is connected to audit management software to auto validate
+
+taxpayer profile and receive data matching information that is used by tax auditors during audit execution.
+
+
+
+
+
+
+
+
+
+ Component: Component 2: Strengthening Debt Management
+
+                                                                                                    Formally Revised         Actual Achieved at
+
+ Indicator Name                  Unit of Measure Baseline                 Original Target
+
+                                                                                                    Target                   Completion
+
+
+
+ IR Indicator 2.1 Contracting    Percentage       1.50                     0.00                                              0.00
+
+
+
+
+
+
+
+                                                                                                                                             Page 27
+
+    The World Bank
+
+    Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+ of new external borrowing                          01-May-2016                31-Dec-2021                                         31-Dec-2021
+
+ does not exceed the
+
+ borrowing limits for non-
+
+ concessional borrowing and
+
+ borrowing from the
+
+ International Capital
+
+ Markets, as set in the MTDS.
+
+
+
+
+
+ Comments (achievements against targets):
+
+The debt limit for contracting non-concessional borrowing (including ICM) in 2021 was US$6,000.00 million, against a performance of US$5,574.00 million.
+
+This indicates a deviation from target of -7.0%. The actual achievement at completion is presented as 0.00 due to technical constraints (i.e., value cannot
+
+be negative on the portal).
+
+
+
+
+
+
+
+
+
+                                                                                                         Formally Revised          Actual Achieved at
+
+ Indicator Name                   Unit of Measure Baseline                    Original Target
+
+                                                                                                         Target                    Completion
+
+
+
+ IR Indicator 2.2: Public debt    Months            6.00                       3.00                                                4.00
+
+ data available on MoF’s
+
+ official website (within                           01-May-2016                30-Jun-2022                                         30-Jun-2022
+
+ months of end of Ghana’s
+
+ fiscal year)
+
+
+
+
+
+ Comments (achievements against targets):
+
+The target was met for all years of the project’s implementation with the exception of years 2021 and 2022, where the reports were ready and submitted
+
+to Parliament by the end of March published in the subsequent month.
+
+
+
+
+
+
+
+
+
+                                                                                                                                                  Page 28
+
+   The World Bank
+
+   Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+                                                                                          Formally Revised   Actual Achieved at
+
+Indicator Name                   Unit of Measure Baseline               Original Target
+
+                                                                                          Target             Completion
+
+
+
+IR Indicator 2.3: An             Yes/No          No                     Yes                                  Yes
+
+operational risk guideline
+
+with a business continuity                       01-May-2016            30-Jun-2022                          30-Jun-2021
+
+(BCP) and a disaster recovery
+
+plan (DRP) approved and
+
+reviewed biannually (Yes/No,
+
+Custom)
+
+
+
+
+
+Comments (achievements against targets):
+
+
+
+
+
+
+
+Component: Component 3: Strengthening Capacity in Public Investment Management
+
+                                                                                          Formally Revised   Actual Achieved at
+
+Indicator Name                   Unit of Measure Baseline               Original Target
+
+                                                                                          Target             Completion
+
+
+
+IR Indicator 3.1: Roll out and   Text            No PIM                 PIP established                      PIP established
+
+operationalization of PIM                        strategy/Action Plan
+
+strategy and action plan
+
+                                                 01-May-2016            30-Jun-2022                          30-Jun-2022
+
+
+
+
+
+Comments (achievements against targets):
+
+
+
+
+
+
+
+                                                                                          Formally Revised   Actual Achieved at
+
+Indicator Name                   Unit of Measure Baseline               Original Target
+
+                                                                                          Target             Completion
+
+
+
+
+
+
+
+                                                                                                                           Page 29
+
+    The World Bank
+
+    Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+ IR Indicator 3.2: New              Number          0.00                30.00                                53.00
+
+ projects reviewed by PID
+
+ team for quality assurance in                      01-May-2016         30-Jun-2022                          30-Jun-2021
+
+ line with PIM guidelines
+
+ Operations Manual (Number,
+
+ Custom)
+
+
+
+
+
+ Comments (achievements against targets):
+
+New projects assessed by PIAD team using published PCN and guidelines
+
+
+
+
+
+
+
+
+
+                                                                                          Formally Revised   Actual Achieved at
+
+ Indicator Name                     Unit of Measure Baseline            Original Target
+
+                                                                                          Target             Completion
+
+
+
+ IR Indicator 3.3: Civil servants   Number          0.00                500.00                               1,697.00
+
+ who receive PIM-related
+
+ trainings (of which female)                        01-May-2016         31-Dec-2021                          25-Feb-2022
+
+
+
+  Of which female                   Number          0.00                150.00                               506.00
+
+
+
+                                                    01-May-2016         31-Dec-2021                          30-Jun-2022
+
+
+
+Comments (achievements against targets):
+
+
+
+
+
+
+
+                                                                                          Formally Revised   Actual Achieved at
+
+ Indicator Name                     Unit of Measure Baseline            Original Target
+
+                                                                                          Target             Completion
+
+
+
+ IR Indicator 3.4: National ICT-    Percentage      0.00                20.00                                0.00
+
+
+
+
+
+                                                                                                                           Page 30
+
+    The World Bank
+
+    Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+ based M&E System                                 01-May-2016               30-Jun-2022                                       30-Jun-2022
+
+ developed with capability to
+
+ monitor Public Investment
+
+ Projects
+
+
+
+
+
+ Comments (achievements against targets):
+
+No project has been monitored and evaluated.
+
+
+
+
+
+
+
+
+
+ Component: Component 4: Improving the Governance of State- Owned Enterprises
+
+                                                                                                    Formally Revised          Actual Achieved at
+
+ Indicator Name                  Unit of Measure Baseline                  Original Target
+
+                                                                                                    Target                    Completion
+
+
+
+ IR Indicator 4.1: SOEs with     Number           0.00                     15.00                                              16.00
+
+ audited annual financial
+
+ reports publicly disclosed by                    01-May-2016              31-Dec-2021                                        30-Jun-2022
+
+ the time of SOE Annual
+
+ General Meetings
+
+
+
+
+
+ Comments (achievements against targets):
+
+The 16 entities are: Goil Company Ltd, Ghana Reinsurance Company Ltd, SIC Insurance Company Ltd., GCB Bank Ltd., Agricultural Development Bank, Volta
+
+River Authority, Consolidated Bank Ghana Limited , Ghana Women Fund, Ghana Commodity Exchange, Ghana Water Company Limited, Volta Aluminium
+
+Company LTD, EximBank, Kumasi Abattoir, TDC Development Company Limited, Ghana Airport Company LTD and Irrigation Company of the Upper
+
+Region.
+
+
+
+
+
+
+
+
+
+ Indicator Name                  Unit of Measure Baseline                  Original Target          Formally Revised          Actual Achieved at
+
+
+
+
+
+                                                                                                                                            Page 31
+
+    The World Bank
+
+    Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+                                                                                                    Target                   Completion
+
+ IR Indicator 4.2:               Percentage       0.00                     80.00                                             90.50
+
+ Implementation of the
+
+ annual action plans for the                      01-May-2016              31-Dec-2021                                       31-Dec-2021
+
+ five SOEs
+
+
+
+
+
+ Comments (achievements against targets):
+
+The average implementation level was 90.5%. The individual entity implementation of the Corporate Governance Action Plans was:
+
+• GWCL: 97.22% • TDC: 92.59% • GNPC: 89.29% • VRA: 87.04% • ECG: 86.36% & nbsp;
+
+
+
+
+
+
+
+
+
+                                                                                                    Formally Revised         Actual Achieved at
+
+ Indicator Name                 Unit of Measure Baseline                   Original Target
+
+                                                                                                    Target                   Completion
+
+
+
+ IR Indicator 4.3: CSOs          Number           0.00                     15.00                                             17.00
+
+ participating in the annual
+
+ stakeholder workshop on                          01-May-2016              31-Dec-2021                                       30-Jun-2022
+
+ SOE governance
+
+
+
+
+
+ Comments (achievements against targets):
+
+Seventeen CSOs participated in the 2022 Policy and Governance Forum which was held on 28th January, 2022.
+
+
+
+
+
+
+
+
+
+                                                                                                                                           Page 32
+
+    The World Bank
+
+    Economic Management Strengthening (P152171)
+
+
+
+
+
+B. KEY OUTPUTS BY COMPONENT
+
+
+
+
+
+   Objective/Outcome 1
+
+
+
+   Outcome Indicator                                        1. To increase ratio of four major taxes to GDP (percentage)
+
+
+
+                                                            1. Launch of DW with BI System fully integrated
+
+   Intermediate Results Indicators
+
+                                                            2. The usage of the new DW in their auditing and reporting practices
+
+
+
+   Key Outputs by Component                                 1. Procurement of DW/BI
+
+   (linked to the achievement of the Objective/Outcome 1)   2. Setting up of CRS and FTCA infrastructure
+
+
+
+   Objective/Outcome 2
+
+
+
+                                                            1. Deviation of the share of short-term refixing in total debt at the end
+
+   Outcome Indicator
+
+                                                            of the year from the level set out in the MTDS (Percentage)
+
+                                                            1. Contracting of new external borrowing does not exceed the
+
+                                                            borrowing limits for non-concessional borrowing and borrowing from
+
+                                                            the International Capital Markets, as set in the MTDS.
+
+   Intermediate Results Indicators                          2. Public debt data available on MoF’s official website (within months
+
+                                                            of end of Ghana’s fiscal year)
+
+                                                            3. An operational risk guideline with a business continuity (BCP) and a
+
+                                                            DRP approved and reviewed biannually (Yes/No, Custom)
+
+                                                            1. Development of and improvements to ABP, CRAF, NBG and PSBR
+
+   Key Outputs by Component
+
+                                                            2. Publication of ADRs
+
+   (linked to the achievement of the Objective/Outcome 2)
+
+                                                            3. Preparation of BCP and DRP
+
+
+
+
+
+
+
+
+
+                                                                                                                                      Page 33
+
+ The World Bank
+
+ Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+Objective/Outcome 3
+
+
+
+                                                         1. Percentage of public investment projects that are prioritized on the
+
+Outcome Indicator                                        basis of published standard criteria for project selection (prior to the
+
+                                                         inclusion in the budget) (Percentage)
+
+                                                         1. Roll out and operationalization of PIM strategy and action plan
+
+                                                         2. New projects reviewed by PID team for quality assurance in line
+
+                                                         with PIM guidelines Operations Manual (Number, Custom)
+
+Intermediate Results Indicators
+
+                                                         3. Civil servants who receive PIM-related trainings (of which female)
+
+                                                         4. National ICT-based M&E System developed with capability to
+
+                                                         monitor Public Investment Projects
+
+                                                         1. Enactment of PFM Regulations and development of PIM
+
+Key Outputs by Component                                 Operational Manual
+
+(linked to the achievement of the Objective/Outcome 2)   2. Launch of NaMEIS
+
+                                                         3.Structured trainings through specified institutions
+
+
+
+Objective/Outcome 4
+
+
+
+                                                         1. The number of SOEs covered by the aggregate annual reports on
+
+Outcome Indicator                                        SOE financial and governance performance issued no later than six
+
+                                                         months after the end of the year to the public (Number)
+
+                                                         1. SOEs with audited annual financial reports publicly disclosed by the
+
+                                                         time of SOE Annual General Meetings
+
+Intermediate Results Indicators                          2. Implementation of the annual action plans for the five SOEs
+
+                                                         3. CSOs participating in the annual stakeholder workshop on SOE
+
+                                                         governance
+
+                                                         1. Finalization of equity study
+
+Key Outputs by Component
+
+                                                         2. Establishment of a SOE single entity
+
+(linked to the achievement of the Objective/Outcome 2)
+
+                                                         3.Improvements to corporate governance
+
+
+
+
+
+
+
+                                                                                                                                   Page 34
+
+     The World Bank
+
+     Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+                      ANNEX 2. BANK LENDING AND IMPLEMENTATION SUPPORT/SUPERVISION
+
+
+
+
+
+
+
+ A. TASK TEAM MEMBERS
+
+
+
+Name                                                 Role
+
+Preparation
+
+Dilek Aykut, Deryck R. Brown                         Task Team Leader(s)
+
+
+
+Charles John Aryee Ashong                            Procurement Specialist(s)
+
+
+
+Robert Wallace DeGraft-Hanson                        Financial Management Specialist
+
+
+
+Sunita Kikeri                                        Team Member
+
+
+
+Hilda Emeruwa                                        Team Member
+
+
+
+Lucy Mamganga Fye                                    Team Member
+
+
+
+Maude Valembrun                                      Team Member
+
+
+
+Martin Fodor                                         Environmental Specialist
+
+
+
+Gregoria Dawson-Amoah                                Team Member
+
+
+
+Demba Balde                                          Social Specialist
+
+
+
+Johanna van Tilburg                                  Safeguards Advisor/ESSA
+
+
+
+Edith Ruguru Mwenda                                  Team Member
+
+
+
+Carolina Renteria Rodriguez                          Team Member
+
+
+
+Maiada Mahmoud Abdel Fattah Kassem                   Team Member
+
+
+
+Abha Prasad                                          Team Member
+
+
+
+Aleksandar Kocevski                                  Team Member
+
+
+
+Khuram Farooq                                        Team Member
+
+
+
+Anders Jensen                                        Team Member
+
+
+
+
+
+
+
+
+
+                                                                                       Page 35
+
+    The World Bank
+
+    Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+Felix Oppong                                         Team Member
+
+
+
+Michael Christopher Jelenic                          Team Member
+
+
+
+Moses Misach Kajubi                                  Team Member
+
+
+
+Gloria Malia Mahama                                  Social Specialist
+
+
+
+Supervision/ICR
+
+Furqan Ahmad Saleem, Kwabena Gyan Kwakye             Task Team Leader(s)
+
+Charles John Aryee Ashong, Patrick Kwadwo Ansah      Procurement Specialist(s)
+
+Robert Wallace DeGraft-Hanson                        Financial Management Specialist
+
+Lydia Sam                                            Procurement Team
+
+Smile Kwawukume                                      Team Member
+
+David Jacques Elmaleh                                Team Member
+
+Moses Misach Kajubi                                  Team Member
+
+Gloria Malia Mahama                                  Social Specialist
+
+Anita Bimunka Takura Tingbani                        Environmental Specialist
+
+Nikeisha Anthonett Russell                           Team Member
+
+Tatsuya Iwasaki                                      Team Member
+
+Buniyaminu Abdul Kadiri                              Procurement Team
+
+
+
+
+
+
+
+
+
+B. STAFF TIME AND COST
+
+
+
+
+
+                                                         Staff Time and Cost
+
+Stage of Project Cycle
+
+                                No. of staff weeks                  US$ (including travel and consultant costs)
+
+Preparation
+
+FY15                            17.045                                                             109,099.67
+
+FY16                            45.325                                                             299,425.49
+
+FY17                            5.225                                                               30,745.95
+
+
+
+Total                           67.60                                                              439,271.11
+
+
+
+
+
+
+
+                                                                                                        Page 36
+
+   The World Bank
+
+   Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+Supervision/ICR
+
+FY17                       7.700                   86,062.74
+
+FY18                       14.945                 144,321.89
+
+FY19                       14.460                 128,433.86
+
+FY20                       21.663                 195,505.37
+
+FY21                       20.315                 139,635.94
+
+FY22                       33.379                 301,196.60
+
+FY23                       8.017                   54,316.89
+
+Total                      120.48                1,049,473.29
+
+
+
+
+
+
+
+
+
+                                                       Page 37
+
+    The World Bank
+
+    Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+                                 ANNEX 3. PROJECT COST BY COMPONENT
+
+
+
+
+
+
+
+                                      Amount at Approval    Actual at Project
+
+Components                                                                      Percentage of Approval
+
+                                                 (US$M)      Closing (US$M)
+
+Component 1: Strengthening
+
+Ghana Revenue Authority’s                           4.00                4.00                   100.00
+
+Business Intelligence Systems
+
+Component 2: Strengthening
+
+                                                    1.20                1.20                   100.00
+
+Debt Management
+
+Component 3: Strengthening
+
+Capacity in Public Investment                       4.00                4.00                   100.00
+
+Management
+
+Component 4: Improving the
+
+Governance of State-Owned                           5.25                5.25                   100.00
+
+Enterprises
+
+Component 5: Project
+
+                                                    0.55                0.55                   100.00
+
+Management
+
+Total                                              15.00               15.00                   100.00
+
+
+
+
+
+
+
+
+
+                                                                                                    Page 38
+
+   The World Bank
+
+   Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+                                        ANNEX 4. THEORY OF CHANGE
+
+
+
+
+
+
+
+                  Long-term        Medium-term        Short-term Outcomes by
+
+   Impacts                                                                            Key Outputs by Subcomponent
+
+                  Outcomes          Outcomes                  Component
+
+Improved        Enhanced          Improved        Component 1: Strengthening          Subcomponent 1.1: Improving
+
+institutional   mobilization of   revenue         Ghana Revenue Authority’s BI        the BI System:
+
+capacity for    domestic          management      Systems (US$4.0 million):           • Assessment report of BI
+
+economic        revenues          and control     • Improved risk management              process
+
+management                                             mechanisms                     • Operationalization of GRA
+
+                                                  • Better design of tax policy           DW
+
+                                                  • Improved voluntary tax            • Integration of TRIPS with
+
+                                                       compliance                         GCMS.
+
+                                                  • Better integrated income          • Improved risk management
+
+                                                       assessments                        mechanisms in place
+
+                                                  • Simplified tax                    Subcomponent 1.2:
+
+                                                       administration processes       Implementation of CRS and
+
+                                                  • Alignment of tax policy           FATCA Software:
+
+                                                       with international rules and   • Roll out of CRS and FACTA
+
+                                                       best practices.                    software linked to DW
+
+                                                  • Less tax avoidance from           • Collection of domestic tax
+
+                                                       the informal sector                information of US and EU
+
+                                                  • Improved tax revenue                  citizens holding assets in
+
+                                                       mobilization                       Ghana
+
+                Enhanced          Improved debt   Component 2: Strengthening          Subcomponent 2.1: Improved
+
+                management        management      Debt Management (US$1.2             Debt Management with
+
+                and efficiency    and             million):                           Credible ABP:
+
+                of                transparency    • Annual borrowing                  • Operationalization of MTDS
+
+                expenditures                           consistent with MTDS           • Development of ABP
+
+                                                  • Mitigated fiscal risks from       • Development of DSA
+
+                                                       issuance of loan guarantees    • Updated Credit risk
+
+                                                       and on-lending                     assessment guidelines and
+
+                                                  • Institutionalization of ABP           framework together with
+
+                                                  • Better treasury                       the national borrowing
+
+                                                       management                         guidelines
+
+                                                  • Cash available to meet            Subcomponent 2.2:
+
+                                                       government’s obligations       Strengthened Treasury
+
+                                                  • Elimination of technical          Management and Forecasting:
+
+                                                       arrears and avoidance of       • Building a reliable and
+
+                                                       issuing more debt than             accurate 30-day rolling
+
+                                                       necessary (negative carry)         cash forecast allowing for
+
+                                                  • Enhanced credibility of               closer adherence to an
+
+                                                       fiscal policy                      auction calendar
+
+                                                                                      Subcomponent 2.3: Improved
+
+
+
+
+
+                                                                                                                Page 39
+
+The World Bank
+
+Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+                                              •   Enhanced transparency        Debt Reporting and
+
+                                                  through publication of       Transparency:
+
+                                                  accurate debt information    • Publication of debt
+
+                                              •   Improved relationship with       statistical bulletin
+
+                                                  investors in government      • Submission of annual
+
+                                                  bonds                            report to parliament
+
+                                              •   More robust MTDS and         • Publication of auction
+
+                                                  ABP                              calendar and results
+
+                                              •   Mitigated operational risk   • Development of templates
+
+                                                  and strengthened business        for debt publications
+
+                                                  environment                  • Developments of a website
+
+                                              •   Better staff adherence to        on complete debt
+
+                                                  DMD policies                     information
+
+                                              •   All debt and debt-related    • Acquisition of relevant
+
+                                                  activities have a risk           publication programs
+
+                                                  management framework         Subcomponent 2.4: Improved
+
+                                                                               Operational Risk Management:
+
+                                                                               • Development of
+
+                                                                                   operational risk
+
+                                                                                   management guidelines
+
+                                                                                   including BCP and DRP
+
+                                                                               • Implementation of NITA
+
+                                                                                   alternate website and ICT
+
+                                                                                   server
+
+                                                                               • Develop a code of conduct
+
+                                                                                   for DMD and other
+
+                                                                                   stakeholders
+
+                           Improved PIM       Component 3: Strengthening       Subcomponent 3.1:
+
+                           capacity           Capacity in Public Investment    Development of a
+
+                                              Management (US$4.0 million):     Comprehensive PIM Reform
+
+                                              • More functional and            Strategy and Action Plan:
+
+                                                 transparent process for       • Review of existing
+
+                                                 public investment                 institutional arrangements
+
+                                                 programming applied               and PIM functions
+
+                                                 across the Government         • Capacity assessment of PIM
+
+                                              • Enhanced capacity for long-        resources
+
+                                                 term planning of              • PIM-specific organizational
+
+                                                 infrastructure and                review of the MoF
+
+                                                 investment projects           • Development of
+
+                                              • Investment projects are            comprehensive PIM reform
+
+                                                 properly appraised,               strategy
+
+                                                 analyzed, prioritized, and    • Development of detailed
+
+                                                 entered into the PIP system       PIM action plan
+
+                                              • Improved decision making       Subcomponent 3.2:
+
+                                                 and selection of projects     Improvement of the Regulatory
+
+
+
+                                                                                                         Page 40
+
+The World Bank
+
+Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+                                                  for financing                   and Institutional Setting for
+
+                                              •   Enhanced capacity of a          PIM and Creation of Required
+
+                                                  core team of MoF officials      PIM Instruments:
+
+                                                  to conduct economic,            • Operationalization of PIM
+
+                                                  financial, environmental,           policy and action plan
+
+                                                  and social analysis of public   • Development of PIM
+
+                                                  investment projects                 regulations and processes
+
+                                              •   Enhanced capacity within        • Training of technical staff in
+
+                                                  GIMPA to provide                    the PID team of the MoF
+
+                                                  sustainable PIM training        • Development of PIM
+
+                                              •   Improved NDCP capacity              Operations Manual
+
+                                                  for policy analysis,            • Development of PIP
+
+                                                  forecasting, and project            guidelines and Working
+
+                                                  preparation                         Committee
+
+                                              •   Improved NDPC capacity          Subcomponent 3.3:
+
+                                                  for ex post and impact          Implementing the Capacity-
+
+                                                  evaluations of major            building Strategy for PIM in
+
+                                                  projects                        PID, MDA and SOEs:
+
+                                                                                  • Development of a
+
+                                                                                      comprehensive PIM
+
+                                                                                      training program
+
+                                                                                  • South-South learning on
+
+                                                                                      PIM reforms (including
+
+                                                                                      attachments and study
+
+                                                                                      tours)
+
+                                                                                  • Development of e-learning
+
+                                                                                      and training programs at
+
+                                                                                      local institutions (GIMPA)
+
+                                                                                  Subcomponent 3.4:
+
+                                                                                  Strengthening of the NDPC:
+
+                                                                                  • Development of NIP
+
+                                                                                  • Development of PIP
+
+                                                                                  • Development of national
+
+                                                                                      M&E system
+
+                           Improved SOE       Component 4: Improving the          Subcomponent 4.1:
+
+                           management         Governance of SOEs (US$5.25         Consolidating the State’s
+
+                           and corporate      million):                           Ownership Role:
+
+                           governance         • Consolidation of state            • Publication of SOE equity
+
+                                                   ownership of parastatals to        study, including SOE
+
+                                                   improve SOE performance            portfolio
+
+                                                   and service delivery           • Drafting of legislation
+
+                                              • More periodic reporting by            related to the SOE single
+
+                                                   the new single entity on           entity
+
+                                                   SOE sector                     • Stakeholder consultations
+
+                                              • Better monitoring of the              to build support for single
+
+
+
+                                                                                                              Page 41
+
+The World Bank
+
+Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+                                                  fiscal risk emanating from       entity
+
+                                                  large SOEs                   Subcomponent 4.2:
+
+                                              •   Improved corporate           Establishing the Single Entity:
+
+                                                  governance at the single     • Establishment of single
+
+                                                  entity and SOE levels            entity, including a board
+
+                                              •   Improve citizen feedback     • Development of an
+
+                                                  mechanisms and oversight         organizational chart of the
+
+                                                  of SOE performance               single entity
+
+                                              •   Improved capacity for SOE    • Development of
+
+                                                  boards to set long-term          compliance M&E tools and
+
+                                                  strategy and priorities          capacity
+
+                                                                               Subcomponent 4.3: Piloting
+
+                                                                               Corporate Governance
+
+                                                                               Improvements in Selected
+
+                                                                               SOEs:
+
+                                                                               • Adoption of corporate
+
+                                                                                   governance policies in five
+
+                                                                                   SOEs
+
+                                                                               • Development of CSO
+
+                                                                                   monitoring mechanisms of
+
+                                                                                   SOEs
+
+                                                                               • Development of training
+
+                                                                                   packages for SOE board
+
+                                                                                   members
+
+
+
+
+
+
+
+
+
+                                                                                                           Page 42
+
+  The World Bank
+
+  Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+                                                   ANNEX 5. EFFICIENCY ANALYSIS
+
+
+
+
+
+
+
+1. The efficiency is evaluated based on financial analysis of two components of the Project: enhanced mobilization of
+
+domestic revenues and SOEs.4
+
+
+
+2. Enhancement to mobilization of domestic revenues brought overwhelming financial returns. In 2021, tax revenue
+
+as a percentage of GDP amounted to 13.4 percent, equivalent to GHC 57,433.38 million. In a without-project-scenario
+
+with a baseline of 9 percent of GDP, the tax revenue is estimated at GHC 38,574.66 million. The difference between the
+
+actual and the without-project-scenario is GHC 18,858.72 million, or USD 3,139.93 million. A conservative assumption
+
+that GRA’s efforts contribute to 0.5 percent of the difference still estimates the financial returns from enhanced
+
+mobilization of domestic revenues in 2021 alone, overweighs the Project cost.
+
+                                                                               2021
+
+         Actual
+
+                 Tax Revenue (GHC million)                                   57,433.38
+
+                 as % of GDP                                                   13.4%
+
+         Without Project Scenario
+
+                 Tax Revenue (GHC million)                                   38,574.66
+
+                 as % of GDP (baseline)                                        9.0%
+
+         Difference
+
+                 GHS million                                                 18,858.72
+
+                 Equivalent in USD million*                                  3,139.93
+
+             *GHC/USD=6.0061 (Bank of Ghana, midrate, 31 December 2021)
+
+
+
+3. Improvements to the governance of SOEs brought financial returns in the form of reduced net losses. Between 2019
+
+and 2022, losses by fully owned SOEs reduced from GHC 5,161 million to GHC 2,611 million, saving GHC 2,550 million or
+
+USD 442 million. Savings from improvement performance of JVCs, OSEs and minority interest total GHC 13,618 million
+
+or USD 2,364 million.
+
+
+
+    Net Profit (GHC million)
+
+                                                                             2019                          2020
+
+           State-Owned Enterprises                                          -5,161                        -2,611
+
+                   (as % of GDP)                                          (-1.45%)                      (-0.67%)
+
+           Joint Venture Companies                                          -1,047                          102
+
+                   (as % of GDP)                                          (-0.29%)                       (0.03%)
+
+           Other Specified Entities                                          2,190                         3,343
+
+                   (as % of GDP)                                           (0.61%)                       (0.85%)
+
+           Minority Interest                                                  -62                         11,254
+
+                   (as % of GDP)                                          (-0.02%)                       (2.87%)
+
+           Memorandum item:
+
+                   GDP (GHC million, current)             356,544                                       391,941
+
+               *GHC/USD=5.7602 (Bank of Ghana, midrate, 31 December 2021)
+
+
+
+
+
+    4   These approaches are chosen, and the analyses are conducted based on availability of reliable source of information.
+
+
+
+                                                                                                                               Page 43
+
+The World Bank
+
+Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+
+
+                                              Page 44
+
+       The World Bank
+
+       Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+                  ANNEX 6. BORROWER, CO-FINANCIER AND OTHER PARTNER/STAKEHOLDER COMMENTS
+
+
+
+The draft ICR was shared with the Government, and comments were received on February 23, 2023. Comments were
+
+primarily editorial and minor changes have been incorporated in the final ICR document, including those provided in
+
+tracked changes.
+
+
+
+The Borrower’s ICR was also shared to the World Bank as a supporting document. A summary is presented below:
+
+
+
+                                              Executive Summary of the Borrower’s ICR
+
+
+
+1.    The Government of the Republic of Ghana through the Ministry of Finance received US$15 million credit from the World Bank to
+
+      implement the Ghana Economic Management Strengthening Technical Assistance Project (GEMS-TA). The project aimed at
+
+      strengthening the Government of Ghana’s institutional capacity for revenue and expenditure management from November 2016 -
+
+      June 2022. This was a complex and overly ambitious project, initially designed for a period of three years, and later extended by
+
+      two (2) years, three (3) months.
+
+
+
+2.    GEMS-TA Project had five components focused on strengthening Ghana Revenue Authority’s (GRA) Business Intelligence Systems;
+
+      improving debt management capacity of the Ministry of Finance; strengthening public investment management capacity;
+
+      improving the governance of State-Owned Enterprises and project management.
+
+
+
+3.    In terms of achievements, the GEMS-TA project progressed relatively well in most of its components. All the components are rated
+
+      satisfactory even though some broad activities were delayed due to the COVID-19 pandemic and initial delays. Some
+
+      outcomes/outputs were achieved through effective collaboration and proactive actions of the component coordinators.
+
+
+
+4.    Notable achievements of the GEMS-TA have been the improvement of debt management with credible annual borrowing plan
+
+      (ABP), development of a Credit Risk Assessment Framework (CRAF), publication of the National Borrowing Guidelines (NBG),
+
+      digitization of loan agreements and related documentations, as well the establishment of the State Interests and Governance
+
+      Authority (SIGA)1, passage of PFM (PIM) Regulations 2020 (L.I.2411), institutionalization of the PIM capacity-building programme
+
+      at the University of Ghana Business School (UGBS) and enhancement in delivery of annual public debt reports and other statutory
+
+      reports. Prior to the implementation of GRA’s Enterprise Data Warehouse solution, a temporal Mini -Data Warehouse environment
+
+      was implemented to streamline GRA’s revenue reporting process and provide data support for tax audits. Despite the performance
+
+      of the project, there were delays in the implementation of some activities, which made it impossible for the Ministry to fully achieve
+
+      the PDO by March 2022. This necessitated a three-month extension to June 2022
+
+
+
+5.    The GEMS-TA Project Completion Report (PCR)is intended to evaluate the performance and results of the operation and to capture
+
+      and disseminate experience from operational design and implementation, to improve the design and implementation of future
+
+      projects. This report covers the period from November 2016 to June 2022 and provides a project completion report which includes
+
+      the lessons leant and recommendations.
+
+
+
+PDO
+
+
+
+6.    The PDO was to strengthen GoG’s institutional capacity for revenue and expenditure management by improving the Government’s
+
+      taxpayer database and enhancing capacity for the management of public debt, public investments, and SOEs. The PDO indicators
+
+      are:
+
+      a. PDO Indicator 1: To increase the ratio of four major taxes (Company Income Tax, Value Added Tax (VAT), PAYE, Import Duties)
+
+           to GDP.
+
+      b. PDO Indicator 2: Deviation of the share of short-term refixing in total debt at the end of the year from the level set out in the
+
+           medium-term debt management strategy (MTDS). (Baseline: 2%, End-line target: 0.5%)
+
+
+
+
+
+                                                                                                                                      Page 45
+
+      The World Bank
+
+      Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+     c.   PDO Indicator 3: Percentage of public investment projects that are prioritized based on published standard criteria for project
+
+          selection (prior to the inclusion in the budget). (Baseline: 0%, End-line target: 30%)
+
+     d.   PDO Indicator 4: Number of SOEs covered by the aggregate annual report on SOE financial and governance performance issued
+
+          no later than six months after the end of the year to the public by the MoF. (Baseline: No report, End-line target: 20 SOEs
+
+          covered in Aggregate Report)
+
+
+
+Project Beneficiaries
+
+
+
+7.   GEMS-TA benefited:
+
+     a. the Ministry of Finance (MoF): (specifically the Debt Management Division (DMD), Public Investment Division (PID), External
+
+        Resources Mobilization Division (ERMD), Budget Division (BD), and the Monitoring and Evaluation (M&E) Unit];
+
+     b. the Ghana Revenue Authority (GRA);
+
+     c. the National Development Planning Commission (NDPC);
+
+     d. all State-Owned Enterprises (SOE)
+
+     e. selected Ministries, Departments, and Agencies (MDAs); and
+
+     f. the citizens of Ghana
+
+
+
+Relevance of PDO
+
+
+
+8.   The development objectives of the GEMS-TA project have remained highly relevant to the strategic priorities outlined in key
+
+     strategic policy documents of the government of Ghana throughout the implementation. The Project Development Objective “to
+
+     strengthen the Government of Ghana’s institutional capacity for revenue and expenditure management” is consistent with the
+
+     government’s medium-term development strategy for Ghana. The PDO advances the vision and medium-term policy objective as
+
+     well as the key strategic anchors and specific goals, broad policy areas, strategies, programmes and initiatives being implemented
+
+     under CPESDP; Medium-Term National Development Policy Framework, 2018-2021 (MTNDPF); and subsequent Budget Statement
+
+     and Economic Policies of Government.
+
+
+
+9.   The interventions of the project reflect and complement some key objectives, strategies and measures implemented within the
+
+     context of the CPESDP and MTNDPF to ensuring improved fiscal performance and sustainability through: (a) strengthening of on-
+
+     going revenue administration reforms; (b) improving public financial management and expenditure rationalization to enhance the
+
+     efficiency of public spending; and (c) implementation of new debt-management strategies.
+
+
+
+10. The project and its interventions directly address some of the key development issues identified under the MTNDPF including
+
+    heavy public debt burden and high debt-service payments; expenditure overruns and accumulated arrears; weak expenditure
+
+    management and budgetary controls, revenue under-performance; and weak revenue management capacity. Finally, there are
+
+    several policy initiatives and measures outlined in the CPESDP, MTNDPF, and 2021 Budget which have been implemented with the
+
+    project support or are currently being implemented under the project.
+
+
+
+11. Rating: Based on the findings, the Relevance of the PDO is rated as HIGH
+
+
+
+Achievements of PDO (Efficacy)
+
+
+
+12. Component 1 did not achieve IR Indicator:1.1 Launch of Data W arehouse (DW) with BI system fully integrated’ though consulting
+
+    services for DW and BI and non-consulting services for hardware and software were procured, the DW has not been fully
+
+    implemented. Neither was IR Indicator 1.2: The usage of the new DW in their auditing and reporting practices as its implementation
+
+    depended on full implementation of IRI 1.1, hence Component 1 is rated Satisfactory.
+
+
+
+13. Component 2 had three Intermediate Results Indicators. All three IRs have been achieved: ‘IR Indicator 2.1: Cont racting of new
+
+    external borrowing does not exceed the borrowing limits for non-concessional borrowing and borrowing from the International
+
+    Capital Markets (ICM), as set in the DSA.’ and ‘IR Indicator 2.2: Public debt data available on MoF’s official website’. IR Indicator
+
+
+
+
+
+                                                                                                                                   Page 46
+
+     The World Bank
+
+     Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+    2.3: An operational risk guideline with a Business Continuity Plan (BCP) and a Disaster Recovery Plan (DRP) approved and reviewed
+
+    biannually. Hence Component 2 is rated Highly, Satisfactory.
+
+
+
+14. Component 3 has four Intermediate Results Indicators, three IRIs were achieved: ‘IR Indicator 3.1: Roll out and operationalization
+
+    of PIM strategy and action plan’; ‘IR Indicator 3.2: New projects reviewed by PIAD team for quality assurance in line with PI M
+
+    guidelines Operations Manual’; and ‘IR Indicator 3.3: Number of civil servants who receive PIM-related trainings (of which female).’
+
+    IR Indicator 3.4: National ICT based M&E system developed with capability to monitor public investment projects was not achieved.
+
+    Hence Component 3 is rated Satisfactory.
+
+
+
+15. Out of the three IRIs of Component 4, one was achieved: IR Indicator 4.2: Implementation of the annual action plans for the five
+
+    SOEs. However, IR Indicator 4.1: Number of SOEs with audited annual financial reports publicly disclosed by the time of SOE Annual
+
+    General Meetings was not achieved as only 10 out of 15 SOEs were able to submit audited financial.IR Indicator 4.3: Number of
+
+    CSOs participating in the annual stakeholder workshop on SOEs governance was not achieved since COVID affected the
+
+    organization of meetings that could involve CSOs. However, based on the establishment of SIGA and the organization’s impact o n
+
+    corporate governance in SOEs, Component 4 is rated Satisfactory.
+
+
+
+16. The key objective of Component 5 (Project Management) was to provide resources, equivalent to approximately 3 percent of the
+
+    overall project amount, to support and defray the costs to the MoF for coordinating the implementation of the project effectively
+
+    and efficiently, including support to build the capacity of the MoF and M&E Unit. Almost all the key activities have been completed
+
+    or are nearing completion with the exception of the NDPC M&E System, GRA DW and the ICR Consultants. Component 5 is rated
+
+    Highly Satisfactory.
+
+
+
+Efficiency
+
+
+
+17. The project was fully mainstream into the institutional structure of the Ministry of Finance without the need for a separate project
+
+    implementation unit. The project built on and fully utilized the existing capacity of MoF. To implement this Project MoF has
+
+    previously and is currently implementing complex reforms supported by World Bank projects such as the GIFMIS, PFMR, and PPP
+
+    projects. On the side of GRA, the Office of Modernization, which was established to drive the reform programmes within GRA, was
+
+    also utilized. The NDPC also had demonstrated capacity to implement technical components of the project that relate directly to
+
+    their mandates. The project was however overseen by a multi-agency project steering committee made up of director level officials
+
+    of the MoF, and Head of Executing Divisions the project steering committee is chaired by a Deputy Minister.
+
+
+
+18. There has been recent improvement in activity implementation; overall project expenditure has been consistent with the approved
+
+    forecast disbursement. The project budgeted about US$15million for the implementation of planned activities up to 31st March,
+
+    2022 of whichUS$11.84 million has been disbursed which is about 78%.
+
+
+
+19. There was a cost-savings in respect of some of the activities. The savings made by the project following a shift in strategy from the
+
+    use of external consultants to the placement of internal expertise and task force for certain activities positively contributed to the
+
+    low expenditure. The use of mainstream staff was also a contributing factor to the low expenditure of the project.
+
+
+
+20. Based on the observed performance of the project, efficiency is rated as substantial.
+
+
+
+Other Outcomes and Impacts
+
+
+
+21. Gender. The project has contributed to gender mainstreaming. Women have participated in achieving the project development
+
+    objectives and the project implementation team made conscious efforts to develop appropriate data collection forms to track the
+
+    participation of women relative to men in all PIM-related events. The gender breakdown of trainees for females was 621. This was
+
+    not the practice prior to project implementation. This would help to promote active women participation and capacity
+
+    strengthening to facilitate gender equality.
+
+
+
+
+
+
+
+                                                                                                                                    Page 47
+
+     The World Bank
+
+     Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+22. Institutional strengthening. Other institutional strengthening has been identified. These include such as institutionalizing the SOE
+
+    governance, including the establishment of SIGA, policy forums beyond what was initially conceptualized at project design, MoF
+
+    has also instituted the MoF-SOEs Breakfast Meeting to create the space for the Minister for Finance to engage the boards and
+
+    senior management of SOEs to address high-level issues prior to the annual SOE governance and policy forum.
+
+
+
+Bank Performance
+
+
+
+23. The flexibility in project implementation arrangement and the complementary relationship between the World Bank Task team
+
+    and the Project Implementation Team in general facilitated operations to a great extent. The composition of the World Bank Task
+
+    Team enabled a good appreciation of the political economy context of project implementation. As a result, the approach to
+
+    resolution of issues was largely constructive.
+
+
+
+Risk to Development Outcome
+
+
+
+24. The risk to the project outcomes is significant. As already indicated, all the four (4) PDO level indicator targets have been achieved
+
+    during the project completion. The timely development of the DW and the BI System of GRA as well as the passage of the PIM
+
+    Regulations have largely reduced the risk to the achievement of the development outcomes.
+
+
+
+Conclusions and Recommendations
+
+
+
+25. Over the past six years, the GEMS-TA project has contributed to strengthening the Government of Ghana’s institutional capacity
+
+    for revenue and expenditure management. Through its five components, the project has contributed to improving the
+
+    government’s tax database, enhanced capacity for public debt management, public sector investment and state-owned
+
+    enterprises.
+
+
+
+26. The project has contributed to a large degree, the achievements of its PDO and Intermediate results as well as its overall impact
+
+    on public revenue and expenditure management in Ghana.
+
+
+
+27. The project experienced several delays in implementation of some components for several reasons including capacity challenges
+
+    of component implementers, lack of comprehensive anticipation of the scope of activities beyond those outlined in the PAD;
+
+    extensive and bureaucratic procurement processes of both the World Bank and PPA as well as an ambitious delivery period for the
+
+    scope of activities being implemented especially for the IT related deliverables.
+
+
+
+28. Nonetheless, as a mainstreamed project of MoF and implemented with other institutions, the project was able to achieve
+
+    significant collaboration and coordination with both internal and external stakeholders to implement its activities. It reinforced the
+
+    coordination role of the ministry and strengthened the ongoing partnerships between the ministry and relevant agencies of the
+
+    state. The project contributed to the birth of the SIGA, which will go a long way in improving public sector governance and reforms
+
+    as well as protecting state interests in SOEs. Again, the project strengthened the National Development Planning Commission
+
+    (NDPC).
+
+
+
+29. Future potential public sector reform and capacity building technical assistance like GEMS-TA could consider the following
+
+    recommendations:
+
+        a. A multi-institutional steering committee made up of the highest decision makers constituted by the project could meet
+
+            frequently (semi-annually or annually) to provide strategic oversight and fast-track implementation challenges. This would
+
+            foster accountability of the beneficiary institutions and provide a platform for addressing common implementation
+
+            challenges where more than one institution is involved.
+
+        b. The project had a strong capacity building component which was very helpful. It will be helpful to continue to involve
+
+            institutions of higher learning in developing, and delivery of future training on the topics to enhance local capacity and
+
+            sustainability. This implies that capacity building delivered by the bank could be developed and delivered in conjunction
+
+            with resources persons from a selected universities in Ghana that will play host to future training and research.
+
+
+
+
+
+                                                                                                                                    Page 48
+
+The World Bank
+
+Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+  c.   It seemed almost every IT related delivery faced delays in implementation. Reasons for this could include the evolving
+
+       scope of IT related services and infrastructure, appropriate scope, cost and time for delivery and the inability to
+
+       forecast/predict the possible trends in IT developments/solutions. That is, at the time of design, a solution may be suitable,
+
+       however, two to three years later, that solution may not be suitable or may become obsolete. To address this challenge,
+
+       it is recommended that:
+
+               i. IT related deliverables should have extensive consultation with internal IT departments and external IT experts
+
+                  to consider both the institutional implementation capacity as well expertise from outside the organization on the
+
+                  potential and emerging trends to the proposed solution. These external consultations could include the Ministry
+
+                  of Communications and Digitalization, Data Protection Commission and National Information Technology
+
+                  Agency.
+
+              ii. IT deliverables should balance scope, cost and time viz-a-viz the project duration. This could imply that scope
+
+                  could be defined in modular form to enable gradual development of the solution instead of an outright complete
+
+                  development of the solution. The modular format will allow for ongoing development, testing and usage of the
+
+                  solution while additional components are added based on user feedback and needs.
+
+  d.   The project had a good number of procurement activities supported by the procurement team of the project. This is
+
+       commendable. In addition, the components also made contributions to the procurement process through development
+
+       of TORs for consulting and non-consulting services. It seemed capacity (knowledge, skills and time) were lacking within
+
+       the components to draft appropriate TORs within the required timelines. Moreover, internal reviews of the TORs
+
+       alongside processes at the Bank and PPA affected the timelines for deliverables. It is recommended that component leads,
+
+       and team members be equally trained in aspects of WB procurement processes to improve capacity. Where possible
+
+       short-term expertise in procurement could be utilized to speed up the procurement processes.
+
+  e.   As indicated earlier, staff working on the project had additional responsibilities in their institutions. It is recommended
+
+       that additional financial incentives be considered for such staff and more so for those who meet key deliverables of their
+
+       components.
+
+
+
+
+
+
+
+
+
+                                                                                                                               Page 49
+
+The World Bank
+
+Economic Management Strengthening (P152171)
+
+
+
+
+
+
+
+                               ANNEX 7. SUPPORTING DOCUMENTS (IF ANY)
+
+
+
+•   Project Appraisal Document - Economic Management Strengthening – P152171; Project Appraisal Document
+
+    PAD1619; August 9, 2016
+
+
+
+•   Disclosable Restructuring Paper - Economic Management Strengthening - P152171; Project Paper RES50588;
+
+    March 29, 2022
+
+•   Disclosable Restructuring Paper - Economic Management Strengthening - P152171; Project Paper RES40408;
+
+    March 24, 2020
+
+
+
+•   Financing Agreement for Credit 5896-GH; October 15, 2016
+
+•   Disclosable Version of the ISR - Economic Management Strengthening - P152171 - Sequence No: 10;
+
+    Implementation Status and Results Report ISR50597; April 04, 2022
+
+•   Disclosable Version of the ISR - Economic Management Strengthening - P152171 - Sequence No: 09;
+
+    Implementation Status and Results Report ISR47753; August 17, 2021
+
+•   Disclosable Version of the ISR - Economic Management Strengthening - P152171 - Sequence No: 08;
+
+    Implementation Status and Results Report ISR44895; December 22, 2020
+
+
+
+•   Disclosable Version of the ISR - Economic Management Strengthening - P152171 - Sequence No: 07;
+
+    Implementation Status and Results Report ISR41904; June 02, 2020
+
+•   Disclosable Version of the ISR - Economic Management Strengthening - P152171 - Sequence No: 06;
+
+    Implementation Status and Results Report ISR39903; December 27, 2019
+
+•   Disclosable Version of the ISR - Economic Management Strengthening - P152171 - Sequence No: 05;
+
+    Implementation Status and Results Report ISR37466; June 20, 2019
+
+
+
+•   Disclosable Version of the ISR - Economic Management Strengthening - P152171 - Sequence No: 04;
+
+    Implementation Status and Results Report ISR34477; December 05, 2018
+
+•   Disclosable Version of the ISR - Economic Management Strengthening - P152171 - Sequence No: 03;
+
+    Implementation Status and Results Report ISR31302; March 26, 2018
+
+
+
+•   Disclosable Version of the ISR - Economic Management Strengthening - P152171 - Sequence No: 02;
+
+    Implementation Status and Results Report ISR27990; July 13, 2017
+
+•   Disclosable Version of the ISR - Economic Management Strengthening - P152171 - Sequence No: 01;
+
+    Implementation Status and Results Report ISR26120; January 07, 2017
+
+
+
+
+
+
+
+
+
+                                                                                                             Page 50
+
+

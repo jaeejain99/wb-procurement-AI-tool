@@ -1,0 +1,1257 @@
+Official Use Only
+Report No: ICR00698
+IMPLEMENTATION COMPLETION AND RESULTS REPORT
+(IDA-70650, IDA-75820, IDA-75810)
+ON A
+SERIES OF TWO CREDITS
+IN THE AMOUNT OF US$250 MILLION AND US$500 MILLON
+TO THE
+People's Republic of Bangladesh
+FOR
+Bangladesh Recovery and Resilience DPC Series
+June 30, 2026
+The ICR replaces the version published in the Board Operating System on June 30, 2026. The text has been updated on page 20.
+Macroeconomics, Trade and Investment
+South Asia
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT
+Official Use Only
+CURRENCY EQUIVALENTS
+(Exchange Rate Effective—May 18, 2026})
+Currency Unit = Taka
+BDT 122.7 = US$1
+US$1.41 = SDR 1
+FISCAL YEAR
+July 1 – June 30
+Regional Vice President: Johannes Zutt
+Country Director: Jean Pesme
+Regional Director: Sebastian Eckardt
+Practice Manager: Hoon Sahib Soh
+Task Team Leader (s): Bernard James Haven, Angela Prigozhina
+ICR Main Contributor: Nazmus Sadat Khan
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT
+Official Use Only
+ABBREVIATIONS AND ACRONYMS
+BB Bangladesh Bank MSME Micro, Small, and Medium Enterprises
+BBRA Bangladesh Building Regulatory Authority MW Megawatt
+BDT Bangladeshi Taka NBR National Board of Revenue
+BNBC Bangladesh National Building Code NDC Nationally Determined Contributions
+BPPA Bangladesh Public Procurement Authority NHD National Household Database
+CPF Contributory Provident Fund NID National Identification
+DPC Development Policy Credit NPL Non-Performing Loans
+DSS Department of Social Services NSC National Savings Certificates e-GP e-Government Procurement PA Prior Actions
+FY Fiscal Year PCA Prompt Corrective Action
+G2P Government-to-Person PDO Program Development Objectives
+GDP Gross Domestic Product PSSA Payment and Settlement Systems Act
+GPF General Provident Fund R&R Recovery and Resilience
+ICR Implementation Completion and Results Report RI Result Indicators
+IDA International Development Association SDR Special drawing rights
+IMF International Monetary Fund SGIR Strengthening Governance, Institutions and
+Resilience
+ISPMIS Integrated Social Protection Management
+Information System
+SME Small and Medium Enterprises
+JCAP Joint Capital Markets Program US$ United States Dollar
+MoC Ministry of Commerce VAT Value-added Tax
+MCPP Mujib Climate Prosperity Plan WTO World Trade Organization
+MFS Mobile Financial Services
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT
+Official Use Only
+TABLE OF CONTENTS
+DATA SHEET ................................................................................................................................................. i
+I. PROGRAM CONTEXT AND DEVELOPMENT OBJECTIVES .................................................................................2
+II. ASSESSMENT OF KEY PROGRAM DESIGN AND OUTCOMES ...........................................................................5
+Overall Outcome Rating and Justification.......................................................................................................................18
+III. OTHER OUTCOMES AND IMPACTS .............................................................................................................18
+IV. BANK PERFORMANCE................................................................................................................................19
+V. RISK TO SUSTAINABILITY OF DEVELOPMENT OUTCOMES............................................................................21
+VI. LESSONS AND NEXT PHASE........................................................................................................................22
+ANNEX 1. RESULTS FRAMEWORK ......................................................................................................................24
+ANNEX 2. BANK LENDING AND IMPLEMENTATION SUPPORT/SUPERVISION.......................................................26
+ANNEX 3. BORROWER, CO-FINANCIERS, AND OTHER DEVELOPMENT PARTNERS’/STAKEHOLDERS’ COMMENTS
+................................................................................................................................Error! Bookmark not defined.
+ANNEX 4. SECTORS AND THEMES......................................................................................................................35
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT i
+Official Use Only
+DATA SHEET
+@#&OPS~Doctype~OPS^dynamics@icrdpfseriesbasicdata#doctemplate
+PROGRAM SERIES
+Program Information
+Operation ID Position in series Status
+Operation Short
+Name
+Operation Name
+P174892 First Closed
+First Recovery and Resilience
+DPC
+Bangladesh First Recovery and Resilience DPC
+P178481 Last Closed
+Second
+Recovery and
+Resilience DPC
+Bangladesh Second Recovery and Resilience
+DPC
+Program Series Amounts (USD)
+Operation ID Ln/Cr/TF Approved Amount Disbursed Amount
+P174892 IDA-70650 242,652,069.00 242,652,069.00
+P178481
+IDA-75820 293,437,003.36 293,443,647.02
+IDA-75810 199,905,420.00 199,905,420.00
+Total 735,994,492.36 736,001,136.02
+DPF Options
+P174892 P178481
+Crisis or Post Conflict No No
+Regular Deferred Drawdown Option No No
+Catastrophe Deferred Drawdown Option No No
+Sub-National Lending No No
+Special Development Policy Lending No No
+CLIENTS
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT ii
+Official Use Only
+Operation ID Borrower/Recipient Implementing Agency
+P174892 People's Republic of Bangladesh Finance Division, Ministry of Finance
+P178481 People's Republic of Bangladesh Finance Division, Ministry of Finance
+PROGRAM DEVELOPMENT OBJECTIVE
+Program Development Objective
+The program's development objectives are to (i) strengthen fiscal and financial sector policies to sustain growth and
+(ii) enhance resilience to future shocks, including climate change.
+@#&OPS~Doctype~OPS^dynamics@icrdpfseriesfinancing#doctemplate
+FINANCING
+Financing Source Operation in series
+Original Amount
+(US$)
+Revised Amount
+(US$)
+Actual Disbursed
+(US$)
+World Bank Financing 750,000,000.00 740,324,940.29 740,324,940.29
+IDA-70650 P174892 250,000,000.00 243,157,695.00 243,157,695.00
+IDA-75810 P178481 200,000,000.00 205,863,570.00 205,863,570.00
+IDA-75820 P178481 300,000,000.00 291,303,675.29 291,303,675.29
+Total 750,000,000.00 740,324,940.29 740,324,940.29
+KEY DATES
+P174892 P178481
+Concept Review 20-Dec-2021 12-Dec-2023
+Decision Review 01-Mar-2022 25-Apr-2024
+Approval 30-Mar-2022 21-Jun-2024
+Effectiveness 20-Apr-2022 22-Jun-2024
+Original Closing 30-May-2023 29-Jun-2025
+Actual Closing 30-May-2023 29-Jun-2025
+@#&OPS~Doctype~OPS^dynamics@ffiprocessing#doctemplate
+@#&OPS~Doctype~OPS^dynamics@icrdpfratings#doctemplate
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT iii
+Official Use Only
+RATINGS SUMMARY
+Overall Outcome Relevance of Prior Actions Achievement of Objectives (Efficacy)
+Moderately Unsatisfactory Moderately Satisfactory Moderately Unsatisfactory
+Bank Performance
+Moderately Satisfactory
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT
+Page 1
+Official Use Only
+ADM STAFF
+At ICR
+Practice Manager Hoon Sahib Soh
+Regional Director Sebastian Eckardt
+Global Director Manuela Francisco
+Practice Group Vice President Pablo Saavedra
+Country Director Jean Pesme
+Regional Vice President Johannes Zutt
+ADM Responsible Team Leader Bernard James Haven
+Co-Team Leader(s) Angela Prigozhina
+At Approval of P178481
+Practice Manager Hoon Sahib Soh
+Regional Director Mathew A. Verghis
+Global Director Manuela Francisco
+Practice Group Vice President Pablo Saavedra
+Country Director Abdoulaye Seck
+Regional Vice President Martin Raiser
+ADM Responsible Team Leader Bernard James Haven
+Co-Team Leader(s) Souleymane Coulibaly, Angela Prigozhina
+At Approval of P174892
+Practice Manager
+Regional Director
+Global Director
+Practice Group Vice President
+Country Director
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT
+Page 2
+Official Use Only
+Regional Vice President
+ADM Responsible Team Leader Bernard James Haven
+Co-Team Leader(s) Yutaka Yoshino, Angela Prigozhina
+I. PROGRAM CONTEXT AND DEVELOPMENT OBJECTIVES
+A. Context at Appraisal
+At the time of appraisal in early 2022, Bangladesh was emerging from the shock of the COVID-19 pandemic into a fragile recovery. Pre-pandemic, the country had enjoyed robust GDP growth averaging about 6 percent annually since 2000 and substantial poverty reduction. This progress was threatened when COVID-19 hit: FY20 growth fell to 3.5 percent (from 7.9 percent in FY19) and the poverty rate rose from 11.9 percent to an estimated 12.9 percent. The government responded with a stimulus package (mainly bank-mediated credit programs) that helped manufacturing capacity and supported an initial rebound in FY21 (GDP growth 5.0 percent). By appraisal, signs of recovery included revived exports and stable remittances, but the economic situation remained vulnerable. Financial sector weaknesses – such as high non-performing loans (NPLs), thin bank capital, and poor governance and oversight of the banking sector – predated COVID and were exacerbated by pandemic forbearance measures (e.g. loan moratoriums). Also, low tax revenues constrained fiscal space for investments recovery.
+Given this context, there was a clear rationale for World Bank support through a Development Policy Credit (DPC) series.
+The government’s reform agenda – as articulated in the 8th Five-Year Plan (FY20–25) and longer-term Perspective Plan to
+2041 – focused on balancing immediate recovery needs with structural reforms for sustainable growth and resilience. Key priorities included: (i) boosting domestic revenue by shifting from import tariffs to broader-based taxes, (ii) strengthening financial sector stability and depth (in line with Basel III standards) to finance private investment, (iii) expanding and modernizing social protection for the poor, and (iv) advancing climate and energy actions (e.g. more renewables, less coal).
+The Recovery and Resilience (R&R) DPC series was designed to directly support this program. It provided $500 million in fast-disbursing budget support (through two programmatic operations) to help Bangladesh finance its COVID-19 response and recovery, while supporting policy and institutional reforms aligned with the government’s strategy. Importantly, using a DPC instrument allowed the World Bank to engage across multiple sectors – fiscal policy, finance, social protection, and climate – in a coordinated manner, complementing parallel investment projects and technical assistance. The operation also built on the prior Jobs DPC series (FY20–21), which had supported immediate COVID relief measures, but shifting focus to medium-term reforms for resilience and growth.
+At appraisal of R&R DPC1 (March 2022), Bangladesh’s macroeconomic framework was deemed adequate but with some risks. At appraisal, Bangladesh's macroeconomic policy framework was assessed as adequate for the operation, underpinned by a track record of fiscal prudence and price stability. The government had responded decisively to stabilize the economy in response to the COVID-19 pandemic. The fiscal deficit had widened in the preceding years due to the pandemic response, but the government was committed to gradually reducing the deficit and the risk of public external
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT
+Page 3
+Official Use Only debt distress was assessed to be low. Accommodative monetary policies, implemented in response to pandemic, would remain in place in the near term, but Bangladesh Bank remained vigilant to monitoring inflation trends which had stabilized. External buffers were considered adequate, with reserves covering 5.6 months of imports, but there were concerns that the exchange rates needed to become more flexible. Exchange rate flexibility became a major concern during the preparation of DPC2.
+Original Program Development Objective(s) (PDO) (as approved)
+The Program Development Objectives (PDOs) of the two-operation series, as approved, were “(i) to strengthen fiscal and financial sector policies to sustain growth, and (ii) to enhance resilience to future shocks, including climate change.”
+Original Policy Areas/Pillars Supported by the Program (as approved)
+The R&R DPC series was structured around three mutually reinforcing pillars aimed at supporting Bangladesh’s post-COVID economic recovery while strengthening resilience to future shocks. The policy areas supported under the first operation were fully aligned with the Government’s Eighth Five Year Plan and the World Bank’s Green, Resilient, and
+Inclusive Development (GRID) framework.
+Pillar A: Fiscal Policies for Recovery and Resilience
+This pillar supported reforms related to tariff modernization, revenue mobilization, and public procurement. The program supported approval of a National Tariff Policy to reduce and simplify tariffs and para-tariffs, eliminate minimum import values, and align duties with WTO commitments, aiming to reduce anti-export bias and support export diversification. Reforms also targeted widening of the tax net and improved payment systems, including non-resident VAT registration and nationwide rollout of the A-Challan system, enabling direct payments into the Treasury Single Account.
+The pillar also aimed at institutionalizing procurement reforms by expanding the e-GP system and establishing the
+Bangladesh Public Procurement Authority (BPPA) with a legal mandate. Together, these actions aim to strengthen revenue mobilization and improve expenditure efficiency.
+Pillar B: Financial Sector Policies for Recovery and Resilience
+This pillar supported reforms related to government borrowing from the domestic sector, banking sector stability, and financial infrastructure. Measures included rationalizing National Savings Certificates (NSCs) through lower rates and limits on institutional purchases to reduce borrowing costs and support bond market development. Banking sector reforms introduced recovery plans for all banks, amendments to the Bank Company Act to strengthen supervision, and a Prompt
+Corrective Action (PCA) framework for undercapitalized banks. The pillar also modernized financial infrastructure through payment system legislation and the Secured Transactions Act, with an aim to introduce the use of movable assets as collateral. These reforms aimed to strengthen financial stability and expand access to finance, particularly for SMEs.
+Pillar C: Strengthening Resilience to Future Shocks
+This pillar supported policies to strengthen resilience to economic and climate shocks through social protection reforms and climate policy actions. Social protection measures enabled rapid scale-up of cash transfers, mandated the use of the
+G2P platform, improved expenditure classification and reporting, and introduced NID-linked mobile account verification
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT
+Page 4
+Official Use Only to enhance targeting, transparency, and financial inclusion, particularly for women. Climate-related reforms included canceling planned coal-fired power projects, adopting the National Building Code to improve resilience and energy efficiency, and approving the Mujib Climate Prosperity Plan to guide climate investment. Together, these reforms aimed to improve shock responsiveness, protect vulnerable groups, and support a transition to climate-resilient growth.
+Overall, programmatic engagement allowed for the gradual deepening of reforms, particularly for addressing more complex or politically sensitive actions. DPC1 laid the groundwork by establishing critical institutional frameworks and legal mandates across fiscal, financial, and resilience pillars — such as approving the National Tariff Policy framework, requiring banks to prepare recovery plans, and mandating digital social protection systems. DPC2 then deepened and consolidated these reforms by moving from frameworks to implementation and legislation: advancing Cabinet approval of the National Tariff Policy, enacting amendments to the Bank Company Act to strengthen banking supervision, and embedding resilience measures such as the National Household Database — translating DPC1's foundational actions into binding, structural change.
+B. Significant Changes During Implementation
+The R&R DPC series was implemented over a period that saw major changes in the macroeconomic context. Although the PDO, the three policy pillars, and structure of the program remained unchanged in the second operation, Bangladesh faced new economic stresses in 2022–2023. In particular, the recovery was disrupted by the global commodity price spike and financial tightening following Russia’s invasion of Ukraine in February 2022. These external shocks led to a widening balance-of-payments deficit and accelerating inflation in Bangladesh. Import costs surged (especially for fuel and fertilizer), contributing to year-on-year inflation reaching around 9-10 percent by early 2023. At the same time, export growth slowed and remittance inflows softened, straining the foreign exchange position. Foreign reserves fell sharply (from approximately
+US$46 billion in end-FY21 to about US$25 billion by end-FY23) and Taka depreciation pressures mounted.
+These macroeconomic developments prompted important policy responses during program implementation. In January
+2023, Bangladesh entered an IMF-supported program to restore macroeconomic stability, which complemented the R&R
+DPC objectives. Under this reform program, the authorities moved to unify the multiple exchange rates and allow a gradual depreciation – adopting a crawling-peg exchange rate regime by May 2024. This exchange rate reform was also required by the World Bank as a prerequisite for macroeconomic adequacy of the program. The Bangladesh Bank also began tightening monetary policy, including by phasing out the longstanding 9 percent cap on bank lending rates (lifted in stages by March–May 2024) to improve monetary transmission and curb inflation. These policy shifts signified a significantly changed macroeconomic landscape between the first and second DPC operations. However, they did not alter the fundamental aims of the R&R DPC series – if anything, the program gained relevance as Bangladesh’s post-COVID challenges evolved. Coordination with partners intensified – the World Bank’s program was closely coordinated with the
+IMF-supported reforms and a parallel World Bank Green and Climate Resilient Development DPC series.
+There were several modifications to the triggers for DPC2, including two that were dropped. Several changes to the triggers between DPC1 and DPC2 were driven by practical implementation challenges encountered during program execution. Indicative Trigger #4 — originally designed to link National Savings Certificate issuance to National ID cards —
+was replaced with a cap on provident fund assets invested in NSCs, as the NID-based control mechanism proved institutionally unfeasible. Similarly, the National Household Database trigger was replaced with NID-based phone verification for mobile money accounts, as the NHD was found not yet ready for deployment. Two triggers were canceled:
+the State-Owned Bank governance trigger, where reforms were still in progress and deferred to a 12-month LDP commitment, and the power sector PPP policy trigger, which required deeper technical work beyond the DPC's timeline.
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT
+Page 5
+Official Use Only
+In some cases, such as the A-Challan system, the scope was actually broadened to amplify reform impact. Results indicator targets were similarly refined — for example, the NSC sales reduction target was tightened from BDT 200 billion to BDT
+100 billion, reflecting stronger reform ambition. Other targets were adjusted to account for real-time implementation data and updated baselines.
+II. ASSESSMENT OF KEY PROGRAM DESIGN AND OUTCOMES
+
+The FY2025 NPR that includes Advance Income Tax (AIT) and Advance Tax (AT) is 34.4%. The FY2025 NPR reported above excludes
+AIT and AT, consistent with the FY2021 definition.
+
+Table 1: Prior Actions and Status of Results Indicators
+Prior Actions for DPC1 Indicative Triggers from
+DPC1
+Prior Actions for DPC2 Results Indicators (RI)
+Pillar A – Fiscal Policies for Recovery and Resilience
+PA1: The Ministry of
+Commerce (MoC) has approved the Framework for the Formulation of the
+National Tariff Policy, including institutional responsibilities and implementation arrangements.
+Trigger 1: Cabinet approves a National
+Tariff Policy to reduce tariffs and simplify the tariff structure.
+PA1: The Cabinet has approved a National Tariff Policy to reduce tariffs and simplify the tariff structure.
+RI-1 – Not Achieved: Average nominal protection rate on imports.
+(percent)
+Baseline (June 2020): 29.6
+Target: 25.0
+Current Status (June 2025): 27.71
+PA2: The National Board of
+Revenue has published a
+Statutory Regulatory Order
+(SRO) to allow non-resident
+VAT registration and
+Bangladesh Bank has issued a Circular to domestic banks on reporting non-resident
+VAT withholdings.
+Trigger 2: The Ministry of Finance has rolled out the A-Challan system for at-source income tax withholding in all tax zones across the country.
+PA2: The Ministry of Finance has adopted the A-Challan
+Payment System in all tax zones, for tax and non-tax payments, with mandatory use for personal income tax payments.
+RI-2 - Achieved: Total income tax and domestic VAT revenue collected by the National Board of Revenue.
+(BDT billions)
+Baseline (June 2021): 1,486.8
+Target: 2,442.0
+Current Status (June 2025): 2625.8
+(Domestic VAT: 1415.8 and income tax: 1290.9)
+PA3: The Central
+Procurement Technical Unit
+(CPTU) has established the
+Direct Procurement module in the national e-
+Trigger 3: The Recipient has enacted the
+Bangladesh Public
+Procurement Authority
+(BPPA) Act to
+PA3: Publication in the
+Bangladesh Gazette of the BPPA
+Act consolidating the
+RI-3 – Achieved: Average procurement lead time using e-GP system in selected public sector
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT
+Page 6
+Official Use Only
+
+The current status indicates that net sales of National Savings Certificates (NSCs) are negative, implying that interest payments on existing NSCs have exceeded new issuances.
+
+Table 1: Prior Actions and Status of Results Indicators
+Prior Actions for DPC1 Indicative Triggers from
+DPC1
+Prior Actions for DPC2 Results Indicators (RI)
+Government Procurement
+(e-GP) system.
+consolidate the responsibilities and authorities of the BPPA, including in emergency situations.
+responsibilities and authorities of procurement in the BPPA.
+organizations. (days from invitation to contract award)
+Baseline (June 2021): 70.0
+Target: 55.0
+Current Status (January 2026): 47.3
+Pillar B – Financial Sector Policies for Recovery and Resilience
+PA4: The Ministry of Finance has reduced the interest rates on National Savings
+Certificates (NSCs), the
+General Provident Fund
+(GPF), and the Contributory
+Provident Fund (CPF).
+Trigger 4: The
+Department of National
+Savings adopts an automated system to link issuance of GPF and
+CPF instruments to national identity cards.
+PA4: The Department of
+National Savings has limited purchases of National Savings
+Certificates (NSCs) to 50 percent of provident fund asset and ended automatic reinvestment of manually issued NSCs.
+RI-4 – Achieved: Net sales of
+National Savings Certificates.
+(Annual, BDT billions)
+Baseline (June 2021): 419.6
+Target (2022): 100.0
+Current Status: -60.6 (end- FY25)2
+PA5: Bangladesh Bank has issued a circular requiring all
+Scheduled Banks to prepare recovery plans by June 30,
+2022, and to update them on a regular basis.
+Trigger 5: The Recipient has enacted amendments to the
+Bank Company Act
+(BCA) to strengthen the supervisory framework in line with good international practice.
+Trigger 6: Bangladesh
+Bank has issued a circular Prompt
+Corrective Action (PCA)
+for all undercapitalized banks, including state-
+owned banks.
+Trigger 7: The Ministry of Finance has issued a circular with strengthened corporate
+PA5: Publication in the Official
+Gazette of the amendments to the Bank Company Act (BCA)
+strengthening the supervisory framework in line with good international practice.
+RI-5 - Achieved: Banks with recovery plans prepared in line with
+Bangladesh Bank requirements.
+(percent)
+Baseline (December 2021): 0.0
+Target (2022): 100.0
+Current Status (April 2026): 100.0
+PA6: Bangladesh Bank has issued a circular on Prompt
+Corrective Action (PCA) for all undercapitalized banks, including state-owned banks.
+RI-6 – Not Achieved: Proportion of undercapitalized banks with Prompt
+Corrective Actions. (percent)
+Baseline (December 2021): 0.0
+Target: 100.0
+Current Status (April 2026): 24.0
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT
+Page 7
+Official Use Only
+
+Table 1: Prior Actions and Status of Results Indicators
+Prior Actions for DPC1 Indicative Triggers from
+DPC1
+Prior Actions for DPC2 Results Indicators (RI)
+governance requirements for SOBs in line with international good practice.
+PA6: The Ministry of Finance has submitted the draft bill,
+Payment and Settlement
+Systems Act, 2021, to the
+Parliament to be introduced in its forthcoming session for approval.
+Trigger 8: The Recipient has enacted the Secured
+Transactions Act and established a notice-
+based security interest registry for movable assets.
+PA7: Publication in the Official
+Gazette of the Secured
+Transactions Act to establish a notice-based security interest registry for movable assets.
+Pillar C – Strengthening Resilience to Future Shocks
+PA7: The Ministry of
+Social Welfare has approved a policy enabling rapid expansion of its cash transfer programs as a shock-
+responsive measure.
+Trigger 9: The
+Ministry of Finance has approved a reclassified list of social protection programs in the FY23 budget.
+PA8: The Ministry of Finance has adopted a circular revising social protection programs reporting with a new classification system.
+RI-7 – Achieved. Women eligible for shock-responsive cash assistance. (number)
+Baseline (June 2021): 12,000
+Target: 7,000,000
+Current Status (December 2025):
+7,268,585
+PA8: The Ministry of Finance has approved a policy mandating use of the government-to-person (G2P)
+payment platform by cash-
+based programs, with uniform fees for all mobile financial services providers.
+Trigger 10: The
+Recipient has approved a policy mandating use of the National
+Household Database
+(NHD) for beneficiary identification by major social protection programs.
+PA9: The Ministry of Finance has approved a policy mandating National
+Identification (NID) verification of phone numbers used to open mobile money accounts to receive benefits under selected cash-based programs.
+RI-8 - Achieved: Cash transfers made using the G2P Platform. (in
+BDT billions)
+Baseline (June 30, 2021): 46.9
+Target: 250.0
+Current Status (June 2025): 250.0
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT
+Page 8
+Official Use Only
+A. Relevance of prior actions
+Rating: Moderately Satisfactory
+The prior actions supported by the R&R DPC series were relevant to the program’s stated objectives, although the strength and effectiveness of some of the prior actions could have been stronger. Bangladesh entered the DPC period having navigated the COVID-19 shock with reasonable resilience, but faced a set of structural vulnerabilities, including a narrow revenue base, a fragile banking sector burdened by non-performing loans, and limited adaptive capacity in its social protection system. The PDO directly addressed these vulnerabilities and was consistent with the World Bank Group's
+Country Partnership Framework for Bangladesh as well as with the Government's own Eighth Five-Year Plan. However, some prior actions relied on non-binding plans, that were not subsequently implemented and were insufficient to address the identified challenges. In addition, two triggers were dropped, including one on corporate governance of the SOBs, which could have had a material impact given the subsequent deterioration in their performance following the DPC. Also, the political economy aspects could have been better incorporated into program design. The program leveraged complementary technical assistance, policy dialogue, and investment support by the World Bank and key development partners.
+
+Table 1: Prior Actions and Status of Results Indicators
+Prior Actions for DPC1 Indicative Triggers from
+DPC1
+Prior Actions for DPC2 Results Indicators (RI)
+PA9: The Ministry of Power,
+Energy and Mineral
+Resources has canceled an estimated 8,451 MW of planned investment in coal-
+fired power generation projects, consistent with
+Bangladesh’s Nationally
+Determined Contributions
+(NDC) 2021.
+Trigger 11: The Ministry of Power, Energy and
+Mineral Resources has adopted a PPP policy for the transmission sector to allow private sector participation in power transmission projects.
+PA10: The Cabinet has adopted the Mujib Climate Prosperity
+Plan, identifying critical adaptation and mitigation investments.
+RI-9 – Achieved: Female-owned mobile financial services accounts.
+(number in millions)
+Baseline (December 2021): 49.9
+Target: 100.0
+Current Status (April 2026): 107.8
+PA10: The Ministry of
+Housing and Public Works, has adopted the National
+Building Code (BNBC) 2020 to improve energy efficiency and strengthen resilience to extreme climate events, and published it in the Official
+Gazette.
+Trigger 12: The
+Recipient adopts the
+Mujib Climate
+Prosperity Plan, which includes retrofitting the built environment to adapt to the impacts of climate change.
+RI-10 – Achieved: Renewable energy capacity enabled. (CRI) (As measured by Sustainable and
+Renewable Energy Development
+Authority, MWs)
+Baseline (November 2021): 777.2
+Target: 1200.0
+Current Status (April 2026): 1696.9
+MW
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT
+Page 9
+Official Use Only
+Pillar A: Fiscal Policies for Recovery and Resilience
+The three prior actions under Pillar A were relevant and collectively addressed two of Bangladesh's most persistent structural weaknesses — a distorted trade regime that penalized exporters, and a chronically low revenue effort — and are assessed as having a strong and logical link to the PDO's growth-sustaining objective.
+• Trade Tariff Reform: PA1 (DPC1) empowered the Ministry of Commerce to lead formulation of a new National
+Tariff Policy, and PA1 (DPC2) was the approval of that Tariff Policy by the Cabinet. Bangladesh historically relied on high import tariffs, which aimed at protecting domestic industries, but which discouraged exports and kept tax revenues overly dependent on trade-related taxes. The average nominal protection rate on imports was as high as 29.6 percent in 2020. By reducing tariff complexity and gradually lowering rates, the National Tariff
+Policy was expected to directly contribute to economic growth by promoting private sector development and a more competitive business environment and diversifying exports. Therefore, the prior actions were relevant and the causal link to the PDO was clear. This linkage was identified in the Systematic Country Diagnostic (SCD) and government plans, making the prior action very pertinent. However, the prior action was weak, as it took the form of a non-binding plan that did not sufficiently commit the authorities to follow through with robust tariff-
+reducing measures.
+• Domestic Revenue Mobilization: To complement tariff reform, PA2 (DPC1) introduced measures to widen the
+VAT and income tax base – specifically, an NBR order enabling VAT registration and payment by non-resident digital services companies (i.e., foreign companies offering digital services in Bangladesh, such as search, social media, and cloud-based services). In DPC2, this was followed up by PA2: nationwide adoption of the A-Challan e-
+payment system for tax and non-tax revenues with mandatory use for personal income tax. As a result of low domestic revenue mobilization — one of the lowest in the world— Bangladesh has been unable to allocate sufficient resources to critical areas such as human capital and physical infrastructure development, constraining the prospects for quality economic growth. These fiscal actions supported the increase in domestic resource mobilization, to expand fiscal space for public investments critical for sustaining economic growth. While the results chain was clear—expanding the tax net to foreign digital service providers and digitizing collection to reduce leakage and improve compliance—the prior actions stopped short of tackling other more politically challenging structural constraints that have weighed on tax collection in Bangladesh for years.
+• Public Procurement Efficiency: PA3 (DPC1) established a direct contracting module in the e-GP (electronic
+procurement) system, and PA3 (DPC2) saw enactment of the Bangladesh Public Procurement Authority (BPPA)
+Act, consolidating procurement regulatory authority (including for emergencies). These reforms were aimed at providing consistent progression toward greater procurement efficiency and institutional consolidation. The causal link to the PDO is clear: enhanced transparency and efficiency in procurement lead to improved public investment outcomes, which in turn support economic growth. In the context of COVID-19 and future disasters,
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT
+Page 10
+Official Use Only having an electronic platform for direct (non-competitive) procurement accelerates emergency response while mitigating risks of opacity.
+Pillar B – Financial Sector Policies for Recovery and Resilience
+The actions under Pillar B addressed the banking sector's growing structural fragility and the distortionary role of National
+Savings Certificates (NSCs) in domestic capital markets — both well-documented risks to stability and development of the financial sector. The prior actions recognized that a healthy financial system is indispensable for sustained private-sector growth, and the relevance of these actions to the PDO is very strong.
+• Domestic Financing: The series tackled costly domestic borrowing practices through PA4 (DPC1), which cut the
+administratively set interest rates on NSCs, and PA4 (DPC2) which imposed additional limits on NSC purchases (50 percent cap for provident funds and ending automatic reinvestment of paper NSCs). NSCs are high-interest government savings bonds; prior to reform, their generous rates (often 3-4 percentage points above market yields) fueled an excessive uptake that drove up government interest costs and crowded out banks’ deposit base.
+By lowering NSC rates and curbing institutional purchases, the government aimed to reduce its debt servicing burden and made way for domestic capital market development. These were meaningful and politically difficult steps toward market rationalization. The DPC2 trigger was originally designed to link NSC issuance to national identity cards to control institutional purchases, but this proved technically unfeasible at that time. It was replaced by a 50 percent cap on provident fund holdings in NSCs and elimination of automatic reinvestment, which also achieved fiscal prudence objective through a practical mechanism.
+• Banking Sector Stability: Requiring all scheduled banks to prepare recovery plans (PA5, DPC1), followed by
+amending the Bank Company Act (PA5, DPC2), and issuing a Prompt Corrective Action (PCA) circular for undercapitalized banks (PA6, DPC2), constituted a coherent and sequenced reform trajectory for banking supervision. These measures aimed to fill critical gaps in regulatory and crisis-management capacity, leading to a more robust framework for dealing with weak banks. The causal link to the PDO is strong: banks with adequate recovery plans and a credible PCA framework are less likely to generate contingent fiscal liabilities, which directly impacts growth and sustainability. Given Bangladesh’s banking sector distress (high NPLs, low capitalization, significant governance issues), these reforms were not only relevant but essential. They also reflected the government’s commitments to adopt Basel III standards and were closely coordinated with the IMF program.
+However, although these PAs were critical financial sector reforms, they were insufficient to ensure impact, as banks did not consistently follow through with the required actions.
+• Financial System Infrastructure: Submitting the Payment and Settlement Systems Act to Parliament (PA6, DPC1)
+aimed at strengthening Bangladesh Bank’s powers to oversee payment systems, including systemically important payment and settlement systems. The (PA6, DPC2 action) — gazetting the Secured Transactions Act to establish a movable assets registry — was a more substantive step, directly linked to improving MSME access to finance. The relevance to the PDO is evident – it addresses the chronic lack of access to finance in Bangladesh by expanding the range of assets that banks can securely lend against, and thereby supporting the financial sector’s growth. The
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT
+Page 11
+Official Use Only trigger on strengthened corporate governance for state-owned banks was dropped in DPC2 as the reform was not yet ripe, which was an unavoidable decision at that time but also reflects a gap in the series — state-owned bank governance remains one of Bangladesh's most significant financial sector risks, and the program could have laid stronger groundwork for this reform.
+Pillar C – Strengthening Resilience to Future Shocks
+The prior actions under Pillar C covered social protection adaptability and climate resilience, two areas central to the
+PDO's second objective.
+• Social Protection: The DPC1 actions enabling rapid expansion of cash transfer programs during shocks (PA7) and
+mandating the G2P payment platform with uniform Mobile Financial Services (MFS) fees (PA8) had a direct and logical link to improving social protection coverage and delivery efficiency, particularly for women. The DPC2 actions — revising social protection reporting classification (PA8) and mandating National Identification (NID)
+verification for mobile money benefit accounts (PA9) — deepened these reforms by improving transparency and reducing fraud. These reforms were firmly aligned with PDO (ii) and the World Bank’s crisis resilience goals. The replacement of the National Household Database trigger (which was not yet operational) with NID verification was a well-judged adaptation that maintained reform relevance without waiting for a system that was not ready.
+• Cancellation of coal-based projects: The cancellation of 8,451 MW of planned coal-fired power investment (PA9,
+DPC1) was among the most significant and high-impact prior actions in the series. Though it’s an unusual prior
+action that focused on ‘not’ implementing a policy, it rightly supported a bold policy signal at a time when
+Bangladesh's energy security was becoming increasingly challenging, and it was politically difficult to move out of these commitments on coal power plants. This action was relevant to the climate resilience objective, particularly important in a country ranked among the most climate-risk-exposed. By dropping expensive coal projects,
+Bangladesh freed up room for renewable energy investments and reduced future carbon emissions. Increased renewable generation (measured by the result indicator target of 1,200 MW of renewable energy capacity by
+FY2026) helps diversify energy sources and improve resilience of the power sector.
+• Climate Resilience: Adopting the Bangladesh National Building Code 2020 (PA10, DPC1) and the MCPP (PA10,
+DPC2) addressed climate resilience from the regulatory and strategic planning angles respectively. These prior
+actions align with Bangladesh’s international commitments (updated NDC, forthcoming National Adaptation Plan)
+and ensured the DPC series contributed to the PDO of resilience to future shocks beyond just social protection.
+The causal path is broad but logical: strategic climate planning now, leading to reduced disaster losses and greener growth path in the future. However, while the MCPP provided an overarching framework for mobilizing climate finance and mainstreaming adaptation across sectors, it can be considered a relatively weak prior action, given
+Bangladesh’s historically uneven track record in translating policy frameworks into effective and sustained implementation.
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT
+Page 12
+Official Use Only
+The R&R DPC series complemented the IMF's Extended Credit Facility/Extended Fund Facility (ECF/EFF) and Resilience and Sustainability Facility (RSF) by supporting a shared macroeconomic stabilization agenda, with both institutions coordinating closely on fiscal, monetary, and financial sector reforms. Common reforms included strengthening banking supervision through the Bank Company Act and a Prompt Corrective Action (PCA) framework to address high non-
+performing loans, rationalization of National Savings Certificate interest rates to support debt sustainability, and the transition toward a market-based exchange rate regime — all underpinned by a jointly prepared Debt Sustainability
+Analysis that rated Bangladesh at low risk of debt distress.
+B. Achievement of Objectives (Efficacy)
+Rating: Moderately Unsatisfactory
+The program achieved most of its result indicator targets but the two unmet results indicators were among the most significant in the operation. Out of ten Results Indicators (RIs), eight were achieved and two were not achieved. Overall, the DPC was most successful in areas where reforms were implementation-oriented and supported by strong institutional or digital systems, notably A-Challan, e-GP procurement, NSC reforms, and G2P payments, all of which delivered clear and measurable results. Social protection and financial market reforms also showed progress, particularly in expanding coverage, improving delivery efficiency, and reducing distortions in government borrowing. However, outcomes were weaker in more politically sensitive or institutionally complex areas, including tariff reform, banking sector supervision
+(PCA), and some climate-related reforms, where implementation lagged or partial policy reversals occurred. The tariff protection indicator fell short due to the non-implementation of the National Tariff Policy. The banking sector indicators were more problematic — recovery plan submission was technically achieved but masked weak follow-through, and the
+Prompt Corrective Action (PCA) indicator target was not met as undercapitalized banks were not formally placed under a
+PCA framework despite Bangladesh Bank directives, and actions that were expected under a PCA framework were applied in a limited and incomplete manner to some of the banks. Across all pillars, some indicators could have been more ambitious or more precisely defined to better capture the direct impact of the supported reforms. The two unmet results indicators were among the most significant in the operation, targeting critical weaknesses in Bangladesh's domestic resource mobilization and banking sector resilience — both central to achieving the PDO of strengthening fiscal and financial sector policies for sustained growth. Given their importance, the failure to meet these indicators is considered sufficiently material to warrant a rating of Moderately Unsatisfactory for the efficacy of the operation's objective achievement.
+In the years following the R&R DPC, domestic resource mobilization and the financial sector have remained key constraints on Bangladesh’s growth prospects. Bangladesh’s revenue-to-GDP ratio remains among the lowest globally, declining from 9.4 percent in FY21 to 7.9 percent in FY25. In the banking sector, asset quality has deteriorated further, with non-performing loans rising to 30.6 percent by end-2025, and the capital adequacy ratio (CRAR) weakened to -2.63 percent in December 2025. These vulnerabilities have weighed on economic activity, with real GDP growth slowing for a third consecutive year to 3.5 percent in FY25.
+Pillar A: Fiscal Policies for Recovery and Resilience
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT
+Page 13
+Official Use Only
+The results indicator on reducing the average nominal protection rate on imports was not achieved, as implementation of the National Tariff Policy (NTP) has been delayed and the average nominal protection rate on imports remained elevated at to 27.7 percent in FY25, above the targeted 25 percent. DPC1 PA1 and DPC2 PA2 supported the adoption of a National
+Tariff Policy, which was gazetted on August 2023 as Bangladesh’s first comprehensive tariff reform framework, committing the government to gradual tariff reduction in line with WTO obligations. While some tariffs were reduced in subsequent budgets, resulting in a marginal decline in the average nominal protection rate from 29.6 percent to 27.7 percent, implementation has largely stalled due to persistent institutional and political economy constraints. Institutional fragmentation remains a key obstacle; although the Ministry of Commerce leads the policy, authority over tariff changes rests with the NBR, complicating coordination. Resistance from domestic industries benefiting from high protection has further slowed progress. In addition, Bangladesh’s continued reliance on trade-based taxes has created fiscal concerns, as tariff reductions without compensating revenue measures risk undermining revenue mobilization. As a result, sustained political commitment will be required to advance implementation, and the efficacy of this prior action in generating measurable outcomes is assessed as incomplete. Available evidence suggests that, despite a decline compared to the FY21 baseline, average collected nominal protection remained elevated over the period, reflecting both changes in the overall duty structure and a reduction in the average exemption rate, although precise comparisons over time should be interpreted with caution due to data and methodological differences.
+The results indicator on total income tax and domestic VAT collection was achieved. By June 2025, total income tax and domestic VAT revenue reached BDT 2625.8 billion, exceeding the baseline (BDT 1486.8 billion) and target (BDT 2442.0 billion). However, the revenue target could have been more ambitious and more narrowly defined to directly link to the relevant prior actions, rather than defined as aggregate VAT and income tax collections. DPC1 PA2 allowed non-resident
+VAT registration for foreign digital platforms. The institutional framework introduced under this prior action helped establish a more systematic approach to taxing digital services. As a result, non-resident digital service providers are now required to register for VAT, appoint a local VAT agent, and file monthly returns even in the absence of a physical presence.
+Major multinational platforms, including Google and Facebook, have registered with the National Board of Revenue.
+However, tax collection from non-resident firms remains modest, reflecting limitations in administrative capacity and enforcement, particularly in auditing large, technically sophisticated multinationals operating across jurisdictions.
+Moreover, overall tax to GDP ratio declined to 6.9 percent of GDP in FY25. Thus, while the reform puts in place the legal and regulatory framework, significant scope remains to strengthen revenue mobilization from digital services.
+DPC2 PA2 supported the Ministry of Finance in adopting the A-Challan payment system for tax and non-tax revenues. This reform was among the most effective under the DPC and was complemented by the World Bank’s Strengthening Public
+Financial Management Program to Enable Service Delivery (SPFMS) program, which supported its implementation. The web-based, end-to-end digital platform enables the direct deposit of government revenues and service fees into the
+Treasury Single Account (TSA), replacing the fragmented, paper-based challan system that was prone to delays, reconciliation issues, and limited real-time oversight. Automated reconciliation between Bangladesh Bank and iBAS++ has reduced processing time and improved the reliability of fiscal reporting. From a service delivery perspective, A-Challan has lowered compliance costs for citizens and businesses by eliminating multiple physical visits, shortening processing times, and providing instant proof of payment. Revenue collection through A-Challan increased sharply from 11 percent of total revenue in FY22 to about 70 percent in FY25.
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT
+Page 14
+Official Use Only
+The results indicator on average procurement lead time using e-GP system was achieved, with the average duration
+(from invitation to contract award) declining from 70 days in June 2021 to 47.3 days in January 2026. PA3 under DPC1 and DPC2 strengthened the Government of Bangladesh’s procurement system by expanding and institutionalizing the e-
+Government Procurement (e-GP) platform. The introduction of a direct procurement module addressed a key accountability gap by bringing a previously offline, non-competitive procurement method into the digital system, reducing risks of delays and corruption. This contributed to measurable efficiency gains: the average time from invitation to contract award declined from 70 days in 2021 (baseline) to 47.3 days by January 2026, comfortably meeting the target of 55 days.
+The time to signing contract also fell to 56.2 days. These improvements were reinforced by the enactment of the BPPA Act in 2023 under DPC2, which established a dedicated legal authority for procurement oversight. Subsequent reforms supported under the Strengthening Governance, Institutions and Resilience (SGIR) DPC further strengthened the framework by mandating full use of e-GP and requiring disclosure of beneficial ownership.
+Pillar B: Financial Sector Policies for Recovery and Resilience
+The result indicator on net sales of National Savings Certificates (NSCs) significantly exceeded its target, making it one of the most successful prior actions under the DPC with sustained impact. PA4 under DPC1 and DPC2 supported the reduction of interest rates on NSCs, while also reducing NSCs use in provident funds. These important reforms, also supported under the IMFs program, intended to reduce the government's high-cost borrowing through these instruments and to limit their market-distorting effects on deposit mobilization and bond market development. Evidence from the period following the operation confirms a decisive shift: net sales of NSCs declined from BDT 419.6 billion FY21 (baseline)
+to negative BDT 60 billion in FY25 and continued the trend in FY26. The target set in DPC2 for reducing net NSC sales to
+BDT 100 billion was exceeded well ahead of the target date. Multiple reinforcing factors contributed to overachieving the target—including high inflation eroding real NSC returns and strict enforcement of buying limits—but the interest rate realignment through this PA was the initial reform signal that catalyzed the process. The difference between the NSC interest rate and average T-bonds rate declined by almost 4 percentage points. Therefore, this prior action has been effective in reducing market distortions, but long-term bond market deepening (an intended downstream effect) will require additional capital market development measures beyond the scope of the PA itself.
+The results indicator targeting banks with recovery plans prepared in line with Bangladesh Bank requirements was achieved, as all the banks submitted their recovery plans on time, compared to the baseline where no banks had such plans in place. This action was supported by DPC1 PA5. However, the achievement should be interpreted with caution, as compliance was measured primarily based on the submission of recovery plans rather than evidence of actual recovery capacity, operational readiness, or the credibility and feasibility of proposed recovery measures. In addition, Bangladesh
+Bank’s capacity to rigorously review, challenge, and monitor implementation of individual recovery plans remains limited.
+As a result, while the formal requirement under the indicator was met, further efforts will be needed to strengthen supervisory assessment and ensure that recovery plans serve as effective tools for crisis preparedness and risk mitigation rather than a largely compliance-based exercise. Moreover, overall banking sector health deteriorated, as non-performing loans remained elevated at 30.6 percent by end-2025, and the capital adequacy ratio (CRAR) weakened to -2.63 percent in December 2025. A more appropriate RI could have been a banking sector health indicator.
+The results indicator requiring undercapitalized banks to undertake Prompt Corrective Actions (PCA) was not achieved.
+DPC2 PA6 required BB to issue a circular on PCA for all undercapitalized banks, including state-owned banks. The circular
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT
+Page 15
+Official Use Only required BB to implement the PCA framework from March 31, 2025, but none of the undercapitalized banks were formally placed under a PCA framework. Moreover, enforcement actions have been taken in a fragmented manner against a limited number of undercapitalized banks to date. Of the 25 undercapitalized banks as of December 2025, Asset Quality Reviews
+(AQRs) were completed for six banks, with five subsequently undergoing mergers, and AQRs are ongoing for three additional banks. Other PCA tools, including actions that would be expected in a PCA framework, such as restrictions on dividend distribution, removal of board members, and close monitoring by BB, were applied in a limited and incomplete manner. The prior action did not achieve its intended objective fully due to a combination of institutional, technical, and political economy constraints. First, mounting stress in the banking sector shifted BB’s supervisory priorities toward urgent crisis-management tasks, including AQRs and the merger of five distressed banks, absorbing significant institutional capacity and delaying the full rollout of the PCA framework within the original timeline. Second, internal coordination challenges within BB contributed to delays. In particular, there was no clear agreement on whether responsibility for PCA implementation should lie with the Banking Regulation and Policy Department (BRPD) or the Department of Offsite
+Supervision, nor on how the PCA framework should align with the broader Risk-Based Supervision (RBS) architecture. This lack of clarity slowed decision-making and operational readiness. Third, several banks likely to fall under PCA are state-
+owned commercial banks (SOCBs), which operate under a distinct supervisory and fiscal context, including expectations of periodic government recapitalization. Applying formal corrective actions to these institutions raises broader policy considerations—particularly regarding the scope, sequencing, and financing of capital restoration—thereby complicating implementation.
+DPC1 PA6 and DPC2 PA7 supported the Payment and Settlement Systems Act (PSSA) and the Secured Transactions Act
+(STA), respectively. DPC1 PA6 required the submission of the PSSA to Parliament, which was achieved in February 2022, thereby fulfilling the prior action. However, parliamentary approval was delayed, and the Act was ultimately enacted more than two years later, in July 2024. The enacted PSSA extends regulatory coverage to non-bank payment service providers
+(PSPs) and mobile financial service (MFS) operators—previously outside a dedicated statutory framework—and introduces stricter compliance and reporting requirements to safeguard customer funds. The Bangladesh Secured Transactions
+(Movable Assets) Act, passed by Parliament in November 2023, established a legal framework enabling businesses—
+particularly SMEs—to use movable assets (such as machinery, inventory, livestock, intellectual property, and receivables)
+as collateral for financing. The Act also provides for the establishment of a Registration Authority to maintain an electronic movable assets registry, improving transparency and strengthening lender priority. However, the framework remains non-
+operational because the institutional infrastructure — including the Registration Authority, the electronic database, valuation frameworks, and enforcement mechanisms — has yet to be established. The IFC supported the design of the Act through technical advisory assistance. No results indicators were associated with these prior actions.
+Pillar C: Strengthening Resilience to Future Shocks
+The results indicator on women eligible for shock-responsive cash assistance was achieved. The number of women eligible for shock-responsive assistance increased significantly from 12,000 in June 2021 (baseline) to 7,268,585 in
+December 2025, above the 7 million targeted. DPC1 PA7 supported the “Guidelines for providing emergency supplementary social assistance in response to shocks/disasters” approved by the Ministry of Social Welfare. The policy enabled the Department of Social Services’ (DSS) Old Age Allowance, Widow Allowance, Disability Allowance and Disabled
+Student Stipend programs to quickly extend emergency support to affected households via (i) top-ups to existing beneficiaries (i.e. “vertical expansion”), and (ii) adding them as new temporary beneficiaries (i.e. “horizontal expansion”).
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT
+Page 16
+Official Use Only
+In case of horizontal expansion, the new temporary beneficiaries would have to fulfil the requirements for the relevant programs. In 2025, with support from the World Bank’s Cash Transfer Modernization Project (P160819), DSS rolled out its upgraded Integrated Social Protection Management Information System (ISPMIS) with a dedicated module, purpose-built to implement its shock-responsive policy. By making DSS programs more adaptive, this PA has directly contributed to enhancing vulnerable populations’ (especially females) access to shock-responsive social assistance. As of December 2025, all DSS cash transfer beneficiaries (over 12 million) are now eligible for shock-responsive social assistance.
+DPC2 PA8 supported the adoption of a circular revising the reporting of social protection program spending with a new classification system. The reclassification is considered an improvement over the previous reporting system because it provides a more accurate, transparent, and internationally aligned picture of social protection spending. Under the earlier system, many expenditures with limited poverty or vulnerability relevance (such as civil service pensions) were reported as social safety net spending, which inflated overall figures and made it difficult to determine how much support actually reached poor and vulnerable populations. The reclassification introduced clearer definitions, inclusion criteria and reorganized programs according to the National Social Security Strategy (NSSS). By aligning Bangladesh’s reporting framework more closely with international social protection standards used by organizations such as the World Bank and
+ILO, the new system also enhances cross-country comparability and supports better evidence-based policymaking, program rationalization (from 121 programs in FY23 to 95 programs in FY26), and assessment of actual pro-poor spending.
+The results indicator on cash transfers made using the G2P platform was achieved. There were BDT 250 billion cash transfers on G2P platforms by June 2025, compared to the baseline of BDT 46.9 million in June 2021, thereby meeting the target of BDT 250 billion cash transfers. DPC1 PA8 supported a policy mandating the use of the G2P payment platform by cash-based programs, with uniform fees for all mobile financial services providers. Overall, the policy has been successful in achieving its objectives, with clear and measurable gains. Data indicates that about BDT 250.0 billion cash transfers under various social protection programs were delivered directly to beneficiaries’ bank / mobile money accounts through the G2P platform in FY25 — more than five times the level in FY21. Based on the FY26 budget, which significantly expands cash transfer programs, total G2P-based disbursements are expected to increase further to over BDT 500 billion, representing 97.3 percent of total transfers. The Cash Transfer Modernization Project complemented the G2P mandate by supporting the digitalization of major cash transfer programs (Old Age Allowance, Widow Allowance, Disability Allowance and Disabled Student Stipend programs) delivery systems, and the adoption of the ISPMIS which manages beneficiary records and payment processes. These cash transfer programs accounted for well over one-third (BDT 94.9 billion) of G2P-
+based payments in FY25.
+The results indicator on female-owned mobile financial services (MFS) accounts was achieved. The latest data from
+Bangladesh Bank (April 2026) indicate there are 107.8 female-owned MFS accounts, exceeding the target of 100 million and baseline of 49.9 million female MFS accounts. DPC2 PA9 supported mandating National Identification (NID) verification of phone numbers used to open mobile money accounts for selected cash-based programs. This PA replaced the original
+DPC1 trigger on the National Household Database (NHD) for social protection targeting, after the NHD failed to operationalize. The PA addressed a specific vulnerability in the G2P payment system: while MFS providers verified registrants' NID, they did not confirm that the SIM card belonged to the NID-holder, as no regulation barred opening mobile money accounts with numbers registered to another individual. This created a risk that beneficiaries could lose access to their benefits if the registered SIM owner reclaimed or deactivated the number. The NID-to-mobile-number-to-MFS-
+account triangulation requirement resolved this gap by leveraging near-universal NID coverage among adult Bangladeshis,
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT
+Page 17
+Official Use Only deepening the focus on last-mile delivery of social assistance. A policy circular mandating this validation was issued to program administrators, though implementation remains ongoing given the rigor of the process.
+It is estimated that the operation contributed to reaching 8.5 million additional women using payment services. The estimate is derived by applying the relevant Global Findex indicator for women who made or received a digital payment
+(at 23 percent) to reported female-owned mobile financial services (MFS) accounts at baseline and completion (34 percent and 23 percent, respectively) and estimating the incremental change in active users over the implementation period. This estimate contributes to the WBG Scorecard Results indicator on usage of financial services. The estimate is informed by the operation’s support for: (i) the policy mandating use of the government-to-person (G2P) payment platform by cash-
+based programs, with uniform fees for all mobile financial services providers (PA8, DPC1); and (ii) the policy mandating
+National Identification (NID) verification of phone numbers used to open mobile money accounts to receive benefits under selected cash-based programs (PA9, DPC2).
+The results indicator on renewable energy capacity was overachieved, but the target lacked ambition and the attribution to the prior action on MCPP was relatively weak. By April 2026, the renewable energy capacity reached
+1696.9 MW, exceeding the target of 1200 MW and the baseline of 777.2 MW in November 2021. DPC1 PA9 supported the cancellation of 8,451 MW of planned coal-fired power generation capacity. Under its updated Nationally Determined
+Contributions (2021), Bangladesh committed to shifting toward lower carbon power generation. In line with this commitment, the Government canceled ten planned coal-fired power plants with a combined capacity of 8,451 MW—
+none of which had yet begun construction. The decision was announced by the then Prime Minister at COP26 in November
+2021, sending a strong policy signal despite concerns over energy security and the political difficulty of reversing large, planned investments, estimated at around US$12 billion. However, the reform’s durability remains uncertain. In May 2025, the interim government signaled a reversal by reviving one of the canceled projects (Phase II of the 1,200 MW Matarbari plant), although it is unclear whether the current government will proceed with this decision. Bangladesh also continues to operate four coal-fired power plants outside the canceled pipeline.
+DPC1 PA10 supported the adoption of the National Building Code (BNBC) 2020. The Bangladesh National Building Code
+(BNBC) 2020 represented the first major revision to Bangladesh's building code in decades which aimed at establishing updated construction standards that account for seismic risk, cyclone exposure, flood hazards, and urban heat. It mandated the formation of a Bangladesh Building Regulatory Authority (BBRA) to oversee implementation of the code. However, the progress of the implementation of BNBC has been slow. The government did not follow through on establishing authority in the subsequent years, which has weakened enforcement of the code. In 2025, the interim government took a step forward by forming an interim committee to initiate the formal process of setting up the BBRA. Subsequently, the BBRA
+Act was passed on April 2026, aimed at enforcing the BNBC 2020 nationwide. This prior action had no specific standalone results indicator in the program's results framework, making ex-post attribution challenging.
+DPC2 PA10, supported the adoption of the Mujib Climate Prosperity Plan (MCPP). The Cabinet's adoption of the MCPP as a state-level strategic document for mobilizing climate finance and scaling renewable energy provided Bangladesh with a comprehensive 2030–2041 climate growth framework. Compared to past development plans, the MCPP is more closely aligned with Bangladesh's international commitments under the Paris Agreement and Sustainable Development Goals
+(SDGs). Even though the results indicator target of 1,200 MW renewable energy capacity was achieved, implementation of other aspects of the plan lagged behind and there is limited basis to conclude that the growth in renewable energy use
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT
+Page 18
+Official Use Only can be attributed to the MCPP. The fate of the MCPP became uncertain following the fall of the Awami League government, and the current BNP government is unlikely to follow the plan as it is.
+Overall Outcome Rating and Justification
+Rating: Moderately unsatisfactory
+Relevance of PAs is rated moderately satisfactory, and the efficacy is rated moderately unsatisfactory. The overall outcome is therefore rated moderately unsatisfactory.
+The moderately satisfactory rating on relevance of prior actions reflects that the prior actions were linked to the PDOs, addressed the right structural vulnerabilities in Bangladesh's fiscal and financial landscape, and were grounded in analytical work. However, some prior actions were weak, relying on plans and policies that were not subsequently implemented, and several critical triggers were also dropped. The Moderately Unsatisfactory efficacy rating — driven by the failure of two critical results indicators, and the deterioration of the revenue-to-GDP ratio and the increased vulnerability of the banking sector— indicates that the most critical and politically sensitive structural reforms did not achieve their intended results on the ground. The moderately unsatisfactory efficacy rating therefore pulls the overall outcome down to moderately unsatisfactory.
+III. OTHER OUTCOMES AND IMPACTS
+A. Poverty, Gender and Social Impacts
+The R&R DPC series had broad-based positive social and poverty impacts, primarily through reforms related to social protection delivery systems and financial inclusion. The program supported a shift toward shock-responsive, digitally enabled social assistance, including expansion of Government-to-Person (G2P) payments that helped the government to improve their support for the poor. These reforms contributed to the increase in the reach of social protection programs, as reflected in the increase in eligible people for shock-responsive assistance and the rapid expansion of digital transfer systems.
+The program contributed to the gains in women’s financial inclusion, particularly through: i) likely expansion of female-
+owned mobile financial service (MFS) accounts, and ii) increased reliance on digital payments linked to individual beneficiaries. These reforms addressed structural barriers identified at appraisal, including limited access to formal accounts and reliance on male intermediaries for benefit receipt. The transition to digital G2P payments yielded concrete time-savings for beneficiaries. Prior to these reforms, women beneficiaries spent longer times in withdrawing benefits in person than via mobile. The digitization of cash transfer programs has resulted in millions of new mobile financial service accounts, particularly belonging to women — directly contributing to the program's gender equity objectives. However, gaps in digital literacy and access to mobile devices, particularly for women, continue to constrain effective utilization of benefits.
+B. Environmental, Forests, and Natural Resource Aspects
+The R&R DPC generated positive environmental outcomes but there has been a partial reversal of the cancelled coal-
+fired power plants. A major reform supported by the program was the cancellation of planned coal-fired power capacity
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT
+Page 19
+Official Use Only
+(8,451 MW), signaling a shift toward lower-carbon development. This was complemented by the adoption of the MCPP, providing a long-term climate investment framework. Overall, the reforms Increased renewable energy capacity, which reached program targets earlier than expected (around 1,200 MW by 2024). However, partial reversal of coal-related decisions (e.g., revival discussions of Matarbari expansion) reflects policy instability and political economy constraints. The
+MCPP was ultimately abandoned by the Interim Government which assumed power in 2024 and will likely be discarded by the newly elected government in 2026. The adoption of the Bangladesh National Building Code (BNBC 2020) was intended to strengthen resilience to natural disasters, but the Implementation of the building code has been limited due to delays in establishing the regulatory authority (BBRA), reducing effectiveness.
+C. Institutional Change/Strengthening
+The R&R DPC made important contributions to institutional development, particularly in public financial management and digital governance. Institutional gains include: i) introduction of A-Challan electronic payments, strengthening treasury management and reducing leakages ii) expansion of VAT systems to cover non-resident digital service providers, and iii)
+establishment of the Bangladesh Public Procurement Authority (BPPA) and digitization of procurement. These reforms improved transparency and efficiency of public expenditure. However, coordination challenges across agencies (e.g., tariff reform involving MoC and NBR) constrained implementation effectiveness. The reforms in the financial sector strengthened the regulatory framework, but implementation remains incomplete, particularly regarding enforcement of
+PCA and resolution of weak banks. The expansion of e-GP procurement, G2P payments, and National ID verification represents a structural shift toward digital governance, which is likely to have lasting institutional effects beyond the life of the program.
+IV. BANK PERFORMANCE
+Rating: moderately satisfactory
+A. Preparation
+The design of the DPC series was underpinned by strong analytical work and closely aligned with Bangladesh’s development priorities. It drew on a wide range of diagnostics—including the Systematic Country Diagnostic, Country
+Partnership Framework, Financial Sector Assessment Program (FSAP), Joint Capital Markets Program (JCAP), Country
+Climate and Development Report (CCDR), Social Protection Public Expenditure Review, and the 2021 Public Expenditure and Financial Accountability (PEFA) assessment—to identify key structural constraints, notably low revenue mobilization, financial sector fragilities, and limited shock-responsive social protection. The selected prior actions targeted these constraints and were well aligned with the Government’s 8th Five-Year Plan and long-term development strategy.
+The Bank also demonstrated strong coordination with development partners during preparation. The program was closely aligned with the IMF-supported reform agenda, particularly in areas such as financial sector stability, exchange rate
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT
+Page 20
+Official Use Only policies, and macroeconomic management. Complementarities with other World Bank operations, including the Green and Climate Resilient DPC series and investment projects, enhanced coherence and avoided duplication.
+The program design incorporated lessons from earlier operations, particularly the Jobs DPC series. Unlike the Jobs DPC, which covered fourteen ministries and agencies and posed implementation challenges, the R&R DPC series focused on a smaller set of eight key institutions, improving coherence and manageability. Reforms were generally well sequenced to reflect institutional capacity and readiness, and the two-operation programmatic structure enabled a clear and logical progression of policy actions across the series.
+Though some of the prior actions could have been stronger, the overall program design and structure effectively addressed Bangladesh’s post-COVID structural vulnerabilities. Some prior actions—particularly those based on plans and policies—were non-binding and therefore inherently weaker. Nevertheless, the operation correctly focused on the areas
+(i.e., fiscal policy, financial sector, and resilience to future shocks) that were crucial for post COVID recovery. A notable strength of the program was the systematic integration of digital governance tools—such as the A-Challan electronic payment platform, the e-GP procurement system, the G2P payment platform, and the National ID (NID) verification infrastructure—across multiple prior actions, which enhanced both accountability and inclusion. The program also played a key role in expediting the critical reform on exchange rate management as a pre-condition for the program. The use of the DPC instrument was appropriate, given the need for fast disbursing budget support following the pandemic and the government’s established track record of sound macro-fiscal management at the time of preparation.
+The identification and assessment of risks in the program documents were broadly appropriate but mitigation measures were at times insufficient. The DPC1 overall risk rating was assessed as Moderate, while DPC2 upgraded this to Substantial, reflecting the deteriorating macroeconomic environment following the start of the invasion. The program documents identified key risks including macroeconomic volatility, high NPLs and potential fiscal contingencies from bank recapitalization, political economy resistance from vested interests in protected industries and the financial sector, and weak inter-ministerial coordination for multi-sectoral reforms. In retrospect, the risk identification was broadly accurate:
+the macroeconomic deterioration and political economy constraints materialized as significant implementation challenges, particularly for tariff reform and banking sector governance. Extensive analytical work, technical assistance, and close coordination with the IMF were identified as key risk mitigation measures. However, these proved insufficient, as several of the anticipated risks materialized. The institutional fragmentation risk — especially the coordination gap between the
+Ministry of Commerce and the National Board of Revenue on the National Tariff Policy — could have been more explicitly addressed through stronger institutional arrangements during design. Moreover, the financial sector actions do not appear sufficiently robust to address the identified challenges.
+B. Implementation
+The Bank maintained close policy dialogue with the authorities and provided effective support in navigating a significantly changing macroeconomic environment. A strong in-country presence of the implementation team in the
+Dhaka office enabled the provision of continuous and responsive support to the authorities. When the macroeconomic environment shifted dramatically following the invasion — with Bangladesh experiencing balance-of-payments pressures, foreign exchange shortages, inflation surging to 9–10 percent, and currency depreciation — the Bank responded by intensifying its engagement and aligning the DPC2 design with the IMF-supported stabilization program approved in
+January 2023. This coordination ensured that the DPC's reform agenda remained consistent with the broader
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT
+Page 21
+Official Use Only macroeconomic adjustment trajectory, including exchange rate unification, monetary policy tightening, and revenue mobilization.
+In most cases, the Bank appropriately used the programmatic structure to adapt the reform program to evolving technical constraints and government priorities. Several triggers from DPC1 were refined in DPC2 to enhance feasibility while preserving reform objectives. For instance, the planned linkage of NSC issuance to national ID cards proved technically infeasible and was replaced by a 50 percent cap on provident fund holdings and the elimination of automatic reinvestment, achieving a similar objective through a different mechanism. The requirement to use the National Household
+Database for beneficiary identification was replaced with NID-based verification, reflecting operational readiness constraints. At the same time, some reforms were appropriately strengthened, such as broadening the A-Challan system from income tax to all tax and non-tax payments, thereby expanding its impact. However, one of the more substantive reform areas—strengthening corporate governance of state-owned banks (trigger for DPC2)—was dropped because the authorities were not yet ready to advance it. They made a commitment in the Letter of Development Policy to revisit the reform within 12 months. This ultimately represented a missed opportunity to address a critical vulnerability in the financial sector, as no major reforms materialized in the subsequent period and state-owned banks continued to underperform, with rising non-performing loans.
+Several TAs supported the project. Throughout the series, the Bank complemented the DPF instrument with analytical and technical support. This included TA for the Medium and Long-Term Revenue Strategy (MLTRS), support for the National
+Tariff Policy through training on the World Bank’s Tariff Reform Impact Simulation Tool (TRIST), and JCAP support for capital market development and the Secured Transactions Act implementation. The DPC was also coordinated with a parallel
+Green and Climate Resilient DPC series and several investment projects, strengthening the overall coherence of the Bank's engagement in Bangladesh.
+However, the lack of follow-up implementation undermined the impact of some of the key reforms supported by the
+DPC series. Political economy constraints—particularly around implementation of the NTP—proved more challenging than initially anticipated. Similarly, prompt corrective actions for undercapitalized banks were not enforced, reflecting limited political commitment. In both areas, appropriate follow-up actions could have supported more effective reform implementation. In addition, some reforms—particularly those related to climate policy frameworks—relied on broad strategic commitments without sufficiently robust implementation mechanisms. Finally, in a few areas, including building code enforcement under Pillar C, the results framework lacked dedicated indicators, making ex-post attribution of outcomes more challenging. No Implementation Status and Results Reports (ISRs) were prepared for the operation, as it was not mandatory.
+Fiduciary and safeguards compliance was reasonable. The program maintained fiduciary controls through a dedicated foreign currency account for disbursements, with the Bank reserving audit rights over this account. The operations were assessed as aligned with the Paris Agreement's mitigation and adaptation goals, consistent with the Bank's climate commitments. No significant fiduciary or safeguards issues were reported during implementation.
+V. RISK TO SUSTAINABILITY OF DEVELOPMENT OUTCOMES
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT
+Page 22
+Official Use Only
+The sustainability of development outcomes under the R&R DPC faces several interconnected risks. Structurally embedded reforms — particularly those anchored in digital systems such as A-Challan, e-GP, and G2P payments — are relatively resilient, given their integration into operational government infrastructure. However, broader reform sustainability is threatened by political economy resistance from vested interests, particularly in tariff reforms and banking, where entrenched beneficiaries of protectionist tariffs and weak bank governance have slowed or reversed progress.
+While the government elected in 2026 has expressed interest in continuing reforms related to fiscal and financial sector stability, the durability of politically sensitive structural reforms remains uncertain and will depend heavily on the new administration's reform commitment and institutional capacity to resist vested interest pressures.
+VI. LESSONS AND NEXT PHASE
+A. Lessons Learned
+The experience of the R&R DPC series underscores the importance of adopting a programmatic approach to reform in order to sustain momentum and support necessary follow-up actions. While individual prior actions helped initiate critical policy changes, many reforms—particularly those based on frameworks, plans, or initial legal steps—required subsequent measures to translate into tangible outcomes. A sequenced, programmatic engagement allows for the gradual deepening of reforms, supports institutional capacity building, and provides a structured pathway for addressing more complex or politically sensitive actions over time. This operation illustrates that a programmatic series may not generate reform momentum if the underlying political economy constraints remain unresolved.
+Strong political economy analysis and institutional coordination mechanisms are critical for reforms that cut across agencies or affect entrenched interests. Several reforms, most notably tariff rationalization and banking sector reforms, faced implementation constraints due to institutional fragmentation and resistance from vested interests. For example, coordination challenges between the Ministry of Commerce and the NBR slowed tariff reform implementation, while politically sensitive financial sector reforms (particularly relating to state-owned banks) were either delayed or dropped.
+These experiences underscore that for multisectoral DPCs, reform success depends not only on technical design but also on explicit arrangements to manage coordination and political economy risks, including clearer institutional mandates.
+A key lesson from the R&R DPC is the value of strong in-country presence for effective implementation. Having most of the implementation team based in the Dhaka office facilitated close engagement with the authorities, enabled timely policy dialogue, and allowed for more responsive troubleshooting during implementation. This proximity helped sustain reform momentum, improved coordination across stakeholders, and ensured that emerging challenges were addressed promptly. Having a presence in the country office helped to expedite complementary technical assistance (TA) programs, such as TAs to support the Tariff Reform Impact Simulation Tool (TRIST) and the Medium and Long-Term Revenue Strategy consultations. When the National Household Database proved operationally unready, the in-country team was well-
+positioned to rapidly identify a workable alternative (i.e., NID-based verification) and negotiate its adoption as a revised trigger without losing reform momentum. Having a presence on-the-ground significantly reduced coordination friction, enabling real-time communication and spontaneous engagement.
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT
+Page 23
+Official Use Only
+Prior actions relying on plans or frameworks are not effective. Prior actions based on a plan or framework depend on subsequent implementation step to have an impact. The National Tariff Policy provided a framework for tariff rationalization, but it failed to have an impact because the subsequent implementation steps did not take place. The Mujib
+Climate Prosperity Plan experienced lagging implementation, and its status has become uncertain following a change in the government. The experience underscores that prior actions based on plans or frameworks should be avoided.
+B. Next phase
+The Strengthening Governance, Institutions and Resilience (SGIR) DPC continued the reform momentum following the
+R&R DPC. The follow-on engagement through the SGIR DPC has built on the foundations laid by the R&R series by deepening reforms in core areas of domestic resource mobilization, financial sector, and institutional strengthening.
+Looking ahead, the newly elected government in February 2026 has expressed interest in a potential new DPC series that would continue to support sustained structural reforms, particularly in domestic resource mobilization, financial sector stability and the business environment.
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT
+Page 24
+Official Use Only
+ANNEX 1. RESULTS FRAMEWORK
+@#&OPS~Doctype~OPS^dynamics@icrdpfresultframework#doctemplate
+A. RESULTS FRAMEWORK
+Indicators by Pillars
+Pillar A - Fiscal Policies for Recovery and Resilience
+Indicator Name
+Baseline Closing Period (Current) Actual Achieved at Completion
+Value Month/Year Value Date Value Month/Year
+Average nominal protection rate on imports. (Percentage)
+29.60 May/2020 25.00 Jun/2026 27.70 Jun/2025
+Comments on achieving targets Not achieved
+Total income tax and domestic VAT revenue collected by the National
+Board of Revenue. (BDT billions)
+(Number)
+1,486.80 May/2021 2,442.00 Jun/2026 2,625.80 Jun/2025
+Comments on achieving targets Achieved. Out of the total domestic VAT is 1415.8 and income tax is 1290.9
+Average procurement lead time using e-GP system in selected public sector organizations. (days from invitation to contract award) (Days)
+70.00 May/2021 55.00 Jun/2026 47.30 Jan/2026
+Comments on achieving targets Achieved
+Pillar B - Financial Sector Policies for Recovery and Resilience
+Indicator Name
+Baseline Closing Period (Current) Actual Achieved at Completion
+Value Month/Year Value Date Value Month/Year
+419.60 May/2021 100 Jun/2026 -60.60 Aug/2026
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT
+Page 25
+Official Use Only
+Net sales of National Savings
+Certificates. (Annual, BDT billions)
+(Number)
+Comments on achieving targets Achieved
+Banks with recovery plans prepared in line with Bangladesh Bank requirements. (Percentage)
+0 Dec/2021 100 Jun/2026 100 Apr/2026
+Comments on achieving targets Achieved
+Proportion of undercapitalized banks with Prompt Corrective Actions.
+(Percentage)
+0 Dec/2021 100 Jun/2026 24.00 Apr/2026
+Comments on achieving targets Not achieved.
+Pillar C - Strengthening Resilience to Future Shocks
+Indicator Name
+Baseline Closing Period (Current) Actual Achieved at Completion
+Value Month/Year Value Date Value Month/Year
+Women eligible for shock-responsive cash assistance (Number of people)
+12,000 Jun/2021 7,000,000 Jun/2026 7,268,585 Dec/2025
+Comments on achieving targets Achieved
+Female-owned mobile financial services accounts. (millions)
+(Number)
+49.90 Dec/2021 100.00 Jun/2026 107.80 Apr/2026
+Comments on achieving targets Achieved
+Cash transfers made using the G2P
+Platform. (in BDT billions) (Number)
+46.90 Jun/2021 250.00 Jun/2026 250 Jun/2025
+Comments on achieving targets Achieved
+Renewable energy capacity enabled
+(Megawatt)
+777.20 Nov/2021 1,200 Jun/2026 1,696.90 Apr/2026
+Comments on achieving targets Achieved
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT
+Page 26
+Official Use Only
+ANNEX 2. BANK LENDING AND IMPLEMENTATION SUPPORT/SUPERVISION
+A. TASK TEAM MEMBERS
+Operation ID Name Role
+P174892
+Bernard James Haven Team Leader
+Angela Prigozhina Co-Team Leader
+Yutaka Yoshino Co-Team Leader
+Winston Percy Onipede Cole Financial Management Specialist
+A.N.M. Mustafizur Rahman Procurement Specialist
+Suiko Yoshijima Environmental Specialist
+Eun Joo Allison Yi Environmental Specialist
+Jayati Sethi Social Specialist
+Samera Chowdhury Social Specialist
+Maya Boulos Social Specialist
+Atsuko Okubo Counsel
+Rocio M. Malpica Counsel
+Gabi George Afram Program Manager
+Nora Carina Dihel Team Member
+Sabah Moyeen Team Member
+A.K.M. Abdullah Team Member
+Bipulendu Narayan Singh Team Member
+Ashiq Aziz Team Member
+Md. Faruk Hossain Team Member
+Mohammad Anis Team Member
+Satish Shivakumar Team Member
+Ifedolapo Mary Borisade Team Member
+Ishtiak Siddique Team Member
+Erisha Singh Suwal Team Member
+Mohammed Atikuzzaman Team Member
+Nusrat Nahid Babi Team Member
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT
+Page 27
+Official Use Only
+Ana Luisa Gomes Lima Team Member
+Kenichi Nishikawa Chavez Team Member
+Md Ali Team Member
+Robert Beyer Team Member
+Tanuja Bhattacharjee Team Member
+Nazmus Sadat Khan Team Member
+Selvia Arshad Team Member
+Sadia Afrin Team Member
+Mostafa Amir Sabbih Team Member
+Bibhuti Chakma Team Member
+Mehar Khan Team Member
+Ahsan Ali Team Member
+Alexander Pankov Team Member
+Aline Coudouel Team Member
+Jari Vayrynen Team Member
+Swarna Kazi Team Member
+Rajesh Rohatgi Team Member
+Ignacio Urrutia Team Member
+P178481
+Bernard James Haven Team Leader
+Angela Prigozhina Co-Team Leader
+Mohammed Atikuzzaman Financial Management Specialist
+Arafat Istiaque Procurement Specialist
+Eun Joo Allison Yi Environmental Specialist
+Ana Luisa Gomes Lima Environmental Specialist
+Samera Chowdhury Social Specialist
+Erisha Singh Suwal Social Specialist
+Jyostna Subramaniam Social Specialist
+Mirai Maruo Social Specialist
+Sabah Moyeen Social Specialist
+Elsa Suzanne Gilberte Le Groumellec Counsel
+Gabi George Afram Program Manager
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT
+Page 28
+Official Use Only
+Nazmus Sadat Khan Team Member
+Ashiq Aziz Team Member
+Md. Faruk Hossain Team Member
+Satish Shivakumar Team Member
+M Towhid Nawaz Mowla Team Member
+Sharmin Akter Jahan Team Member
+Souleymane Coulibaly Team Member
+Robert Yungu Team Member
+Syed Khaled Ahsan Team Member
+Rizwana Tabassum Team Member
+Md Kamruzzaman Team Member
+Rumana Islam Team Member
+Suhail Kassim Team Member
+Miah Rahmat Ali Team Member
+Ifedolapo Mary Borisade Team Member
+Nagaraju Duthaluri Team Member
+Nusrat Nahid Babi Team Member
+Mbuso Gwafila Team Member
+Md Ali Team Member
+Jayati Sethi Team Member
+Tanuja Bhattacharjee Team Member
+Sadia Afrin Team Member
+Mostafa Amir Sabbih Team Member
+Bibhuti Chakma Team Member
+Mehar Khan Team Member
+Alexander Pankov Team Member
+Jari Vayrynen Team Member
+Swarna Kazi Team Member
+Ignacio Urrutia Team Member
+Nora Carina Dihel Team Member
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT
+Page 29
+Official Use Only
+@#&OPS~Doctype~OPS^dynamics@icrannexstafftime#doctemplate
+B. STAFF TIME & COST
+Operation ID : P178481
+Stage of Project Cycle
+Staff Time & Cost
+No. of Staff Weeks US$ (including travel and consultant costs)
+Preparation
+FY23 30.525 0.23
+FY24 52.183 0.39
+Total 0.00 0.62
+Supervision/ICR
+FY23 0.000 0.01
+Total 0.00 0.01
+Operation ID : P174892
+Stage of Project Cycle
+Staff Time & Cost
+No. of Staff Weeks US$ (including travel and consultant costs)
+Preparation
+FY21 22.598 0.14
+FY22 61.220 0.30
+FY23 0.000 0.00
+Total 0.00 0.44
+Supervision/ICR
+FY23 15.957 0.11
+FY24 0.200 0.00
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT
+Page 30
+Official Use Only
+Total 0.00 0.11
+ANNEX 3. BORROWER, CO-FINANCIERS, AND OTHER DEVELOPMENT PARTNERS’/STAKEHOLDERS’ COMMENTS
+Comments from Ministry of Finance
+Observations on ICR
+First, it appears a disconnection between the results framework and the justification for the overall outcome rating. The report acknowledges that 8 out of 10 Results Indicators were achieved, including major indicators on revenue collection, procurement efficiency, NSC reforms, G2P payments, female financial inclusion, and renewable energy capacity. However, the justification for the Moderately Unsatisfactory outcome relies heavily on broader macroeconomic developments such as the decline in the revenue-to-GDP ratio, deterioration of NPLs, weakening capital adequacy, and slower GDP growth.
+These indicators are important, but they are not part of the agreed results framework and are influenced by many factors beyond the DPC-supported reforms. The report may therefore include a clearer explanation of why the two unmet indicators are considered sufficiently critical to outweigh the achievement of the remaining eight indicators and justify a
+Moderately Unsatisfactory outcome.
+Second, the discussion of tariff reform contains a degree of internal inconsistency. The report states that implementation of the National Tariff Policy largely stalled and therefore the tariff reform objective was not achieved. At the same time, the results indicator show that the average nominal protection rate declined from 29.6 percent to 27.7 percent, indicating movement in the intended direction, although the target of 25 percent was not reached. Furthermore, the report notes methodological differences between the FY2021 and FY2025 measures and mentions that nominal protection including AIT and AT would be substantially higher. Given these caveats, it would be useful for the report to explain more clearly whether the observed decline reflects partial reform implementation, routine budget measures, changes in exemptions, or methodological differences.
+Third, in several places, the report states that the fate of some climate-related plans became uncertain after the change of government and that the current government is unlikely to follow the plan in its existing form. Similarly, the discussion of the coal power pipeline emphasizes possible reversals of earlier policy decisions. While these observations may be reasonable, they are forward-looking assessments rather than evidence of completed outcomes during the implementation period covered by the ICR. Since ICRs are generally expected to focus on achieved results and documented implementation experience, it may be preferable to frame these points more cautiously.
+These three issues, in our view, are major observations that merit consideration before finalization of the ICR. They concern
+(i) the consistency between evidence and ratings, (ii) the interpretation of tariff reform results, and (iii) the neutrality and evidentiary basis of the discussion on climate and political developments.
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT
+Page 31
+Official Use Only
+ANNEX 4. SECTORS AND THEMES
+@#&OPS~Doctype~OPS^dynamics@icrdpfsectortheme#doctemplate
+SECTORS AND THEMES
+Operation ID : P178481
+Sectors
+Major Sector Sector %
+Adaptation
+Co-benefits
+(%)
+Mitigation
+Co-benefits (%)
+FY17 - Financial Sector
+FY17 - Banking Institutions 20 0 0
+FY17 - Capital Markets 20 0 0
+FY17 - Industry, Trade and Services
+FY17 - Trade 10 0 0
+FY17 - Public
+Administration
+FY17 - Central Government (Central
+Agencies)
+20 0 0
+FY17 - Other Public Administration 10 50 50
+FY17 - Social Protection FY17 - Social Protection 20 10 0
+Themes
+Major Theme Theme (Level 2) Theme (Level 3) %
+FY17 - Economic Policy
+FY17 - Fiscal Policy FY17 - Tax policy 10
+FY17 - Trade FY17 - Trade Policy 10
+FY17 - Environment and
+Natural Resource
+Management
+FY17 - Climate change
+FY17 - Adaptation 7
+FY17 - Mitigation 5
+FY17 - Energy FY17 - Energy Efficiency 10
+FY17 - Environmental policies and institutions
+
+FY17 - Finance
+FY17 - Finance for Development
+FY17 - Infrastructure
+Finance
+
+FY17 - Financial Infrastructure and
+Access
+FY17 - Credit
+Infrastructure
+
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT
+Page 32
+Official Use Only
+FY17 - MSME Finance 10
+FY17 - Payment &
+markets infrastructure
+
+FY17 - Financial Stability
+FY17 - Financial Sector oversight and policy/banking regulation &
+restructuring
+
+FY17 - Human
+Development and
+Gender
+FY17 - Gender 20
+FY17 - Private Sector
+Development
+FY17 - Public Private Partnerships 10
+FY17 - Public Sector
+Management
+FY17 - Public Administration
+FY17 - E-Government, incl. e-services
+
+FY17 - Public Finance Management
+FY17 - Domestic
+Revenue Administration
+
+FY17 - Public
+Expenditure
+Management
+
+FY17 - Social
+Development and
+Protection
+FY17 - Social Protection
+FY17 - Social protection delivery systems
+
+FY17 - Social Safety Nets 20
+FY17 - Urban and Rural
+Development
+FY17 - Disaster Risk Management
+FY17 - Disaster
+Preparedness
+
+Operation ID : P174892
+Sectors
+Major Sector Sector %
+Adaptation
+Co-benefits
+(%)
+Mitigation
+Co-benefits (%)
+FY17 - Energy and
+Extractives
+FY17 - Other Energy and Extractives 20 25 25
+FY17 - Financial Sector
+FY17 - Banking Institutions 10 0 0
+FY17 - Capital Markets 20 0 0
+FY17 - Industry, Trade and Services
+FY17 - Trade 10 0 0
+FY17 - Public
+Administration
+FY17 - Central Government (Central
+Agencies)
+20 0 0
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT
+Page 33
+Official Use Only
+FY17 - Social Protection FY17 - Social Protection 20 18 0
+Themes
+Major Theme Theme (Level 2) Theme (Level 3) %
+FY17 - Economic Policy FY17 - Trade FY17 - Trade Policy 10
+FY17 - Environment and
+Natural Resource
+Management
+FY17 - Climate change
+FY17 - Adaptation 9
+FY17 - Mitigation 5
+FY17 - Energy FY17 - Energy Efficiency 10
+FY17 - Environmental policies and institutions
+
+FY17 - Finance
+FY17 - Financial Infrastructure and
+Access
+FY17 - Credit
+Infrastructure
+
+FY17 - Financial inclusion
+
+FY17 - Payment &
+markets infrastructure
+
+FY17 - Financial Stability
+FY17 - Financial Sector oversight and policy/banking regulation &
+restructuring
+
+FY17 - Human
+Development and
+Gender
+FY17 - Disease Control
+FY17 - Pandemic
+Response
+
+FY17 - Gender 30
+FY17 - Private Sector
+Development
+FY17 - Public Private Partnerships 10
+FY17 - Public Sector
+Management
+FY17 - Public Administration
+FY17 - E-Government, incl. e-services
+
+FY17 - Public Finance Management
+FY17 - Domestic
+Revenue Administration
+
+FY17 - Social
+Development and
+Protection
+FY17 - Social Protection
+FY17 - Social protection delivery systems
+
+FY17 - Social Safety Nets 10
+FY17 - Urban and Rural
+Development
+FY17 - Disaster Risk Management
+FY17 - Flood and
+Drought Risk
+Management
+
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT
+Page 34
+Official Use Only
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT
+Page 35
+Official Use Only
+ANNEX 4. SECTORS AND THEMES
+@#&OPS~Doctype~OPS^dynamics@icrdpfsectortheme#doctemplate
+SECTORS AND THEMES
+Operation ID : P178481
+Sectors
+Major Sector Sector %
+Adaptation
+Co-benefits
+(%)
+Mitigation
+Co-benefits (%)
+FY17 - Financial Sector
+FY17 - Banking Institutions 20 0 0
+FY17 - Capital Markets 20 0 0
+FY17 - Industry, Trade and Services
+FY17 - Trade 10 0 0
+FY17 - Public
+Administration
+FY17 - Central Government (Central
+Agencies)
+20 0 0
+FY17 - Other Public Administration 10 50 50
+FY17 - Social Protection FY17 - Social Protection 20 10 0
+Themes
+Major Theme Theme (Level 2) Theme (Level 3) %
+FY17 - Economic Policy
+FY17 - Fiscal Policy FY17 - Tax policy 10
+FY17 - Trade FY17 - Trade Policy 10
+FY17 - Environment and
+Natural Resource
+Management
+FY17 - Climate change
+FY17 - Adaptation 7
+FY17 - Mitigation 5
+FY17 - Energy FY17 - Energy Efficiency 10
+FY17 - Environmental policies and institutions
+
+FY17 - Finance
+FY17 - Finance for Development
+FY17 - Infrastructure
+Finance
+
+FY17 - Financial Infrastructure and
+Access
+FY17 - Credit
+Infrastructure
+
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT
+Page 36
+Official Use Only
+FY17 - MSME Finance 10
+FY17 - Payment &
+markets infrastructure
+
+FY17 - Financial Stability
+FY17 - Financial Sector oversight and policy/banking regulation &
+restructuring
+
+FY17 - Human
+Development and
+Gender
+FY17 - Gender 20
+FY17 - Private Sector
+Development
+FY17 - Public Private Partnerships 10
+FY17 - Public Sector
+Management
+FY17 - Public Administration
+FY17 - E-Government, incl. e-services
+
+FY17 - Public Finance Management
+FY17 - Domestic
+Revenue Administration
+
+FY17 - Public
+Expenditure
+Management
+
+FY17 - Social
+Development and
+Protection
+FY17 - Social Protection
+FY17 - Social protection delivery systems
+
+FY17 - Social Safety Nets 20
+FY17 - Urban and Rural
+Development
+FY17 - Disaster Risk Management
+FY17 - Disaster
+Preparedness
+
+Operation ID : P174892
+Sectors
+Major Sector Sector %
+Adaptation
+Co-benefits
+(%)
+Mitigation
+Co-benefits (%)
+FY17 - Energy and
+Extractives
+FY17 - Other Energy and Extractives 20 25 25
+FY17 - Financial Sector
+FY17 - Banking Institutions 10 0 0
+FY17 - Capital Markets 20 0 0
+FY17 - Industry, Trade and Services
+FY17 - Trade 10 0 0
+FY17 - Public
+Administration
+FY17 - Central Government (Central
+Agencies)
+20 0 0
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT
+Page 37
+Official Use Only
+FY17 - Social Protection FY17 - Social Protection 20 18 0
+Themes
+Major Theme Theme (Level 2) Theme (Level 3) %
+FY17 - Economic Policy FY17 - Trade FY17 - Trade Policy 10
+FY17 - Environment and
+Natural Resource
+Management
+FY17 - Climate change
+FY17 - Adaptation 9
+FY17 - Mitigation 5
+FY17 - Energy FY17 - Energy Efficiency 10
+FY17 - Environmental policies and institutions
+
+FY17 - Finance
+FY17 - Financial Infrastructure and
+Access
+FY17 - Credit
+Infrastructure
+
+FY17 - Financial inclusion
+
+FY17 - Payment &
+markets infrastructure
+
+FY17 - Financial Stability
+FY17 - Financial Sector oversight and policy/banking regulation &
+restructuring
+
+FY17 - Human
+Development and
+Gender
+FY17 - Disease Control
+FY17 - Pandemic
+Response
+
+FY17 - Gender 30
+FY17 - Private Sector
+Development
+FY17 - Public Private Partnerships 10
+FY17 - Public Sector
+Management
+FY17 - Public Administration
+FY17 - E-Government, incl. e-services
+
+FY17 - Public Finance Management
+FY17 - Domestic
+Revenue Administration
+
+FY17 - Social
+Development and
+Protection
+FY17 - Social Protection
+FY17 - Social protection delivery systems
+
+FY17 - Social Safety Nets 10
+FY17 - Urban and Rural
+Development
+FY17 - Disaster Risk Management
+FY17 - Flood and
+Drought Risk
+Management
+
+The World Bank
+Bangladesh Second Recovery and Resilience DPC (P178481) ICR DOCUMENT
+Page 38
+Official Use Only

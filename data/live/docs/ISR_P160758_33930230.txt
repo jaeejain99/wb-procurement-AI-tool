@@ -1,0 +1,941 @@
+            The World Bank                                                                                         Implementation Status & Results Report
+
+            Digitizing Implementation Monitoring and Public Procurement Project (P160758)
+
+
+
+
+
+
+
+Digitizing Implementation Monitoring and Public Procurement Project (P160758)
+
+
+
+
+
+ SOUTH ASIA | Bangladesh | Governance Global Practice |
+
+ IBRD/IDA | Investment Project Financing | FY 2018 | Seq No: 10 | ARCHIVED on 02-Nov-2022 | ISR53499 |
+
+
+
+
+
+ Implementing Agencies: Implementation Monitoring and Evaluation Division, People's Republic of Bangladesh
+
+
+
+
+
+
+
+ Key Dates
+
+
+
+
+
+  Key Project Dates
+
+
+
+   Bank Approval Date: 28-Jul-2017                                                Effectiveness Date: 08-Oct-2017
+
+   Planned Mid Term Review Date: --                                               Actual Mid-Term Review Date:
+
+   Original Closing Date: 30-Jun-2022                                             Revised Closing Date: 31-Dec-2023
+
+ pdoTable
+
+
+
+ Project Development Objectives
+
+
+
+  Project Development Objective (from Project Appraisal Document)
+
+  The project development objective is to improve public procurement performance and enhance capacity for implementation monitoring of
+
+  development programs/projects.
+
+
+
+  Has the Project Development Objective been changed since Board Approval of the Project Objective?
+
+  No
+
+
+
+
+
+ Components Table
+
+
+
+ Name
+
+ Restructuring CPTU and Policy Reform:(Cost $11.50 M)
+
+ Enhancing Digitization of Public Procurement:(Cost $63.00 M)
+
+ Professionalizing Procurement and Citizen Engagement:(Cost $22.50 M)
+
+ Digitizing Project Implementation Monitoring:(Cost $8.00 M)
+
+
+
+ Overall Ratings
+
+
+
+ Name                                                                           Previous Rating                            Current Rating
+
+
+
+ Progress towards achievement of PDO                                            Satisfactory                              Satisfactory
+
+ Overall Implementation Progress (IP)                                           Satisfactory                              Satisfactory
+
+ Overall Risk Rating                                                            Moderate                                  Moderate
+
+
+
+
+
+ Implementation Status and Key Decisions
+
+
+
+  The satisfactory momentum of the Project for achieving all six Project Development Objectives (PDO) has been observed and CPTU/IMED made a
+
+  continuous effort to attain the high impactful milestones under different components. The project has progressed so far to achieve all six Project
+
+  Development Objective (PDO) indicators - (i) reduction of procurement lead time for NCB using electronic government procurement (e-GP) has
+
+  already exceeded the project end target – it takes an average of 57 days to complete procurement (invitation to contract award) against the end
+
+  target of 70 days; (ii) newly selected 28 Public Sector Organization [27 NSPSOs + 1 NSPSO (LGIs) consist of 893 Public Sector Organizations
+
+  covering municipalities, zilla parishads (district councils), upazila parishads (sub-district councils), and city corporations but excluding two large city
+
+  corporations of Dhaka under the Local Government Division)] invited over 90% of their NCB procurement through e-GP against the PDO’s current
+
+  target of 90% and project end target of 100%; (iii) citizen monitoring in contract implementation is ongoing in 48 upazilas (sub-districts) under 16
+
+  districts of 8 divisions are in place, against the target of 45; (iv) Since the last mission the most notable progress has been achieved by completing
+
+
+
+
+
+11/2/2022                                                                                                                           Page 1 of 8
+
+            The World Bank                                                                                     Implementation Status & Results Report
+
+            Digitizing Implementation Monitoring and Public Procurement Project (P160758)
+
+
+
+
+
+
+
+  the development of transformational digitization process of Annual Development Project Management Information system known as e-PMIS
+
+  for IMED; (v) commencing e-GP’s flagship module Electronic Contract Management system (e-CMS) has been ‘rolled-out’ successfully covering all
+
+  SPSOs by mapping it mandatory in the e-GP system; and (vi) International Competitive Bidding (ICB) module of Goods for GOB and Development
+
+  Partners has been developed. Few agencies including CPTU, BWDB have started using the e-GP platform for international competitive bidding
+
+  (ICB).
+
+  The project has launched an online training portal for the introductory procurement training which can be accessed by anyone free of cost. The
+
+  project has also introduced a Citizen Portal (https://citizen.cptu.gov.bd/) providing public access to procurement and contract implementation data
+
+  following the Open Contracting Data Standard (OCDS) with facilities for data analytics.
+
+
+
+
+
+
+
+
+
+  Risks
+
+
+
+
+
+ Systematic Operations Risk-rating Tool
+
+
+
+
+
+  Risk Category                                              Rating at Approval              Previous Rating               Current Rating
+
+
+
+  Political and Governance                                   Moderate                       Substantial                  Substantial
+
+  Macroeconomic                                              Low                            Low                          Low
+
+  Sector Strategies and Policies                             Low                            Low                          Low
+
+  Technical Design of Project or Program                     Moderate                       Low                          Low
+
+  Institutional Capacity for Implementation and
+
+                                                             Substantial                    Substantial                  Substantial
+
+  Sustainability
+
+  Fiduciary                                                  Substantial                    Moderate                     Moderate
+
+  Environment and Social                                     Low                            Low                          Low
+
+  Stakeholders                                               Substantial                    Moderate                     Moderate
+
+  Other                                                      Substantial                    Moderate                     Moderate
+
+  Overall                                                    Substantial                    Moderate                     Moderate
+
+
+
+
+
+
+
+  Results
+
+
+
+
+
+ PDO Indicators by Objectives / Outcomes
+
+
+
+
+
+
+
+   To improve public procurement performance and enhance capacity for implementation monitoring of deve
+
+
+
+    IN01204631
+
+    ►NSPSOs procurement lead time reduced in NCB using e-GP system (invitation to contract award) (Days, Custom)
+
+
+
+                                        Baseline                    Actual (Previous)           Actual (Current)           End Target
+
+
+
+    Value                              100.00                       57.00                      57.00                       70.00
+
+
+
+    Date                               31-Mar-2017                  31-Mar-2022                30-Sep-2022                30-Jun-2022
+
+
+
+    IN01204632
+
+
+
+
+
+
+
+
+
+11/2/2022                                                                                                                     Page 2 of 8
+
+            The World Bank                                                                                 Implementation Status & Results Report
+
+            Digitizing Implementation Monitoring and Public Procurement Project (P160758)
+
+
+
+
+
+
+
+
+
+    ►NSPSOs invite bids in National Competitive Bidding (NCB) through e-GP system (Percentage, Custom)
+
+
+
+                                        Baseline                   Actual (Previous)         Actual (Current)          End Target
+
+
+
+    Value                              2.00                        80.00                     90.00                     100.00
+
+
+
+    Date                               31-Mar-2017                 31-Mar-2022               30-Sep-2022              31-Dec-2023
+
+
+
+    IN01204633
+
+    ►Selected sub-districts engage citizen monitoring in contract implementatiion (Number, Custom)
+
+
+
+                                        Baseline                   Actual (Previous)         Actual (Current)          End Target
+
+
+
+    Value                              4.00                        48.00                     48.00                     45.00
+
+
+
+    Date                               31-Mar-2017                 31-Mar-2022               30-Sep-2022              30-Jun-2022
+
+
+
+    IN01204634
+
+    ►SPSOs’ projects implementation monitored on-line by IMED (Percentage, Custom)
+
+
+
+                                        Baseline                   Actual (Previous)         Actual (Current)          End Target
+
+
+
+    Value                              0.00                        0.00                      0.00                      25.00
+
+
+
+    Date                               31-Mar-2017                 31-Mar-2022               30-Sep-2022              31-Dec-2023
+
+
+
+    IN01204635
+
+    ►SPSOs conduct contract management using e-GP system (Percentage, Custom)
+
+
+
+                                        Baseline                   Actual (Previous)         Actual (Current)          End Target
+
+
+
+    Value                              0.00                        5.00                      15.00                     50.00
+
+
+
+    Date                               30-Sep-2020                 31-Mar-2022               30-Sep-2022              31-Dec-2023
+
+
+
+    IN01204636
+
+    ►Invitation of International Competitive Bidding (ICB) through e-GP system (Number, Custom)
+
+
+
+                                        Baseline                   Actual (Previous)         Actual (Current)          End Target
+
+
+
+    Value                              0.00                        0.00                      3.00                      100.00
+
+
+
+    Date                               30-Sep-2020                 31-Mar-2022               30-Sep-2022              31-Dec-2023
+
+
+
+
+
+
+
+ Intermediate Results Indicators by Components
+
+
+
+
+
+
+
+   Restructuring CPTU and Policy Reform
+
+
+
+    IN01204637
+
+    ►Draft bill establishing the proposed Authority and amending the PPA 2006 placed in Parliament (Yes/No, Custom)
+
+
+
+                                        Baseline                   Actual (Previous)         Actual (Current)          End Target
+
+
+
+    Value                              No                          No                        No                        Yes
+
+
+
+
+
+11/2/2022                                                                                                                 Page 3 of 8
+
+            The World Bank                                                                                 Implementation Status & Results Report
+
+            Digitizing Implementation Monitoring and Public Procurement Project (P160758)
+
+
+
+
+
+
+
+
+
+    Date                               31-Mar-2017                 31-Mar-2022               30-Sep-2022              31-Dec-2021
+
+
+
+    IN01204640
+
+    ►Government approved organogram with staffing of the proposed Authority (Yes/No, Custom)
+
+
+
+                                        Baseline                   Actual (Previous)         Actual (Current)          End Target
+
+
+
+    Value                              No                          No                        No                        Yes
+
+
+
+    Date                               31-Mar-2017                 31-Mar-2022               30-Sep-2022              30-Jun-2022
+
+
+
+    IN01204643
+
+    ►Authority's officials in place compared with the staffing plan (Percentage, Custom)
+
+
+
+                                        Baseline                   Actual (Previous)         Actual (Current)          End Target
+
+
+
+    Value                              0.00                        0.00                      0.00                      70.00
+
+
+
+    Date                               31-Mar-2017                 31-Mar-2022               30-Sep-2022              30-Jun-2023
+
+
+
+    IN01204646
+
+    ►Develop sustainable procurement policy and implementation roadmap (Yes/No, Custom)
+
+
+
+                                        Baseline                   Actual (Previous)         Actual (Current)          End Target
+
+
+
+    Value                              No                          No                        Yes                       Yes
+
+
+
+    Date                               30-Sep-2020                 31-Mar-2022               30-Sep-2022              30-Jun-2022
+
+
+
+     IN01204651
+
+     Develop mechanism to identify and track procurement performance of the women-led/owned enterprises (Yes/No, Custom Breakdown)
+
+
+
+                                      Baseline                   Actual (Previous)          Actual (Current)          End Target
+
+
+
+     Value                            No                         Yes                        Yes                       Yes
+
+
+
+     Date                             30-Sep-2020                31-Mar-2022                30-Sep-2022               30-Jun-2023
+
+
+
+    IN01204652
+
+    ►Strengthen country’s emergency procurement and contract management framework (Yes/No, Custom)
+
+
+
+                                        Baseline                   Actual (Previous)         Actual (Current)          End Target
+
+
+
+    Value                              No                          No                        No                        Yes
+
+
+
+    Date                               30-Sep-2020                 31-Mar-2022               30-Sep-2022              31-Dec-2021
+
+
+
+
+
+
+
+   Enhancing Digitization of Public Procurement
+
+
+
+    IN01204642
+
+    ►e-contract magement module in e-GP system updated (Yes/No, Custom)
+
+
+
+                                        Baseline                   Actual (Previous)         Actual (Current)          End Target
+
+
+
+    Value                              No                          Yes                       Yes                       Yes
+
+
+
+
+
+
+
+
+
+11/2/2022                                                                                                                 Page 4 of 8
+
+            The World Bank                                                                                 Implementation Status & Results Report
+
+            Digitizing Implementation Monitoring and Public Procurement Project (P160758)
+
+
+
+
+
+
+
+
+
+    Date                               31-Mar-2017                 31-Mar-2022               30-Sep-2022              30-Jun-2019
+
+
+
+    IN01204645
+
+    ►e-GP system generated procurement performance reports of SPSOs published in CPTU/ Authority's website (Percentage, Custom)
+
+
+
+                                        Baseline                   Actual (Previous)         Actual (Current)          End Target
+
+
+
+    Value                              0.00                        100.00                    100.00                    100.00
+
+
+
+    Date                               31-Mar-2017                 31-Mar-2022               30-Sep-2022              30-Jun-2023
+
+
+
+    IN01204648
+
+    ►e-GP module for international procurement under development partner funded projects developed (Yes/No, Custom)
+
+
+
+                                        Baseline                   Actual (Previous)         Actual (Current)          End Target
+
+
+
+    Value                              No                          Yes                       Yes                       Yes
+
+
+
+    Date                               30-Sep-2020                 31-Mar-2022               30-Sep-2022              30-Jun-2021
+
+
+
+    IN01204650
+
+    ►e-GP modules for direct procurement and framework agreement developed (Yes/No, Custom)
+
+
+
+                                        Baseline                   Actual (Previous)         Actual (Current)          End Target
+
+
+
+    Value                              No                          Yes                       Yes                       Yes
+
+
+
+    Date                               30-Sep-2020                 31-Mar-2022               30-Sep-2022              30-Jun-2021
+
+
+
+
+
+
+
+   Professionalizing Procurement and Citizen Engagement
+
+
+
+    IN01204638
+
+    ►Procuring entities of NSPSOs have at least one trained/certified procurement professional (Percentage, Custom)
+
+
+
+                                        Baseline                   Actual (Previous)         Actual (Current)          End Target
+
+
+
+    Value                              5.00                        73.00                     73.00                     80.00
+
+
+
+    Date                               31-Mar-2017                 31-Mar-2022               30-Sep-2022              31-Dec-2023
+
+
+
+    IN01204641
+
+    ►Core procurement unit operationalized in each of the selected public sector organizations (SPSOs); (Percentage, Custom)
+
+
+
+                                        Baseline                   Actual (Previous)         Actual (Current)          End Target
+
+
+
+    Value                              0.00                        87.00                     87.00                     80.00
+
+
+
+    Date                               31-Mar-2017                 31-Mar-2022               30-Sep-2022              30-Jun-2023
+
+
+
+    IN01204644
+
+    ►Procurement professionalization/accreditation certificates issued (Number, Custom)
+
+
+
+                                        Baseline                   Actual (Previous)         Actual (Current)          End Target
+
+
+
+    Value                              0.00                        0.00                      0.00                      1,000.00
+
+
+
+
+
+
+
+11/2/2022                                                                                                                 Page 5 of 8
+
+            The World Bank                                                                                 Implementation Status & Results Report
+
+            Digitizing Implementation Monitoring and Public Procurement Project (P160758)
+
+
+
+
+
+
+
+
+
+    Date                               31-Mar-2017                 31-Mar-2022               30-Sep-2022              31-Dec-2023
+
+
+
+    IN01204647
+
+    ►Open contracting module developed and made functional (Yes/No, Custom)
+
+
+
+                                        Baseline                   Actual (Previous)         Actual (Current)          End Target
+
+
+
+    Value                              No                          Yes                       Yes                       Yes
+
+
+
+    Date                               31-Mar-2017                 31-Mar-2022               30-Sep-2022              30-Jun-2020
+
+
+
+    IN01204649
+
+    ►Citizen portal developed and made functional (Yes/No, Custom)
+
+
+
+                                        Baseline                   Actual (Previous)         Actual (Current)          End Target
+
+
+
+    Value                              No                          Yes                       Yes                       Yes
+
+
+
+    Date                               31-Mar-2017                 31-Mar-2022               30-Sep-2022              30-Jun-2020
+
+
+
+    IN01204653
+
+    ►Disposal policy drafted and issued (Yes/No, Custom)
+
+
+
+                                        Baseline                   Actual (Previous)         Actual (Current)          End Target
+
+
+
+    Value                              No                          No                        No                        Yes
+
+
+
+    Date                               31-Mar-2017                 31-Mar-2022               30-Sep-2022              30-Jun-2022
+
+
+
+    IN01204654
+
+    ►Officials trained in reference to the training plan (Percentage, Custom)
+
+
+
+                                        Baseline                   Actual (Previous)         Actual (Current)          End Target
+
+
+
+    Value                              0.00                        66.00                     76.60                     75.00
+
+
+
+    Date                               31-Mar-2017                 31-Mar-2022               30-Sep-2022              31-Dec-2023
+
+
+
+     IN01204655
+
+     Female officials level of participation in training (Percentage, Custom Breakdown)
+
+
+
+                                      Baseline                    Actual (Previous)         Actual (Current)          End Target
+
+
+
+     Value                            0.00                        17.50                     17.50                     20.00
+
+
+
+     Date                             31-Mar-2017                 31-Mar-2022               30-Sep-2022               31-Dec-2023
+
+
+
+    IN01204656
+
+    ►Officials trained on contract management (Number, Custom)
+
+
+
+                                        Baseline                   Actual (Previous)         Actual (Current)          End Target
+
+
+
+    Value                              0.00                        2,617.00                  2,617.00                  600.00
+
+
+
+    Date                               30-Sep-2020                 31-Mar-2022               30-Sep-2022              30-Dec-2023
+
+
+
+
+
+
+
+
+
+11/2/2022                                                                                                                 Page 6 of 8
+
+            The World Bank                                                                                          Implementation Status & Results Report
+
+            Digitizing Implementation Monitoring and Public Procurement Project (P160758)
+
+
+
+
+
+
+
+
+
+   Digitizing Project Implementation Monitoring
+
+
+
+    IN01204639
+
+    ►IMED’s on-line project implementation monitoring module developed (Yes/No, Custom)
+
+
+
+                                        Baseline                      Actual (Previous)               Actual (Current)          End Target
+
+
+
+    Value                               No                           Yes                              Yes                       Yes
+
+
+
+    Date                                31-Mar-2017                  31-Mar-2022                      30-Sep-2022              30-Jun-2022
+
+
+
+
+
+
+
+ Performance-Based Conditions
+
+
+
+
+
+
+
+ Data on Financial Performance
+
+
+
+
+
+ Disbursements (by loan)
+
+
+
+ Project        Loan/Credit/TF     Status       Currency        Original   Revised        Cancelled      Disbursed       Undisbursed               % Disbursed
+
+
+
+
+
+ P160758        IDA-60770          Effective    USD               55.00       55.00            0.00          50.99              4.95                      91%
+
+
+
+ P160758        IDA-68270          Effective    USD               40.00       40.00            0.00          11.29             25.32                      31%
+
+
+
+
+
+ Key Dates (by loan)
+
+
+
+ Project         Loan/Credit/TF     Status      Approval Date       Signing Date      Effectiveness Date        Orig. Closing Date      Rev. Closing Date
+
+
+
+ P160758         IDA-60770          Effective   28-Jul-2017         29-Aug-2017       08-Oct-2017               30-Jun-2022             31-Dec-2023
+
+ P160758         IDA-68270          Effective   05-Feb-2021         11-Apr-2021       05-May-2021               31-Dec-2023             31-Dec-2023
+
+
+
+
+
+Cumulative Disbursements
+
+
+
+
+
+
+
+
+
+11/2/2022                                                                                                                            Page 7 of 8
+
+            The World Bank                                                                              Implementation Status & Results Report
+
+            Digitizing Implementation Monitoring and Public Procurement Project (P160758)
+
+
+
+
+
+
+
+
+
+  Restructuring History
+
+
+
+
+
+  There has been no restructuring to date.
+
+
+
+
+
+  Related Project(s)
+
+
+
+
+
+ P174056-Additional Financing for Digitizing Implementation Monitoring and Public Procurement Project
+
+
+
+
+
+
+
+
+
+11/2/2022                                                                                                              Page 8 of 8
+
+

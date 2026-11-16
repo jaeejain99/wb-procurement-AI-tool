@@ -1,0 +1,1928 @@
+                                                                                              Report No: ICR00113
+
+                            IMPLEMENTATION COMPLETION AND RESULTS REPORT
+                                             IDA-61930
+                                                     ON A
+                                                    CREDIT
+
+
+
+
+                                     IN THE AMOUNT OF SDR 10.3 MILLION
+                                         (US$ 15 MILLION EQUIVALENT)
+
+
+
+                                                    TO THE
+
+                                        People's Republic of Bangladesh
+
+
+
+                                                      FOR
+
+                     National Strategy for Development of Statistics Implementation Support
+
+                                              September 20, 2024
+
+
+
+
+Poverty and Equity
+South Asia
+The World Bank
+National Strategy for Development of Statistics Implementation Support (P157987)           ICR DOCUMENT
+
+
+                                        CURRENCY EQUIVALENTS
+
+                              (Exchange Rate Effective July 09, 2024)
+
+
+                                           Currency Unit =        Bangladesh Takas (BDT)
+
+                                            BDT 117.50 =      US$1
+
+                                            US$ 1.32   =      SDR 1
+
+                                                FISCAL YEAR
+                                               July 1 - June 30
+
+
+
+
+             Regional Vice President:       Martin Raiser
+                    Country Director:       Abdoulaye Seck
+                   Regional Director:       Mathew A. Verghis
+                   Practice Manager:        Ximena Vanessa Del Carpio
+               Task Team Leader (s):        Ayago Esmubancha Wambile
+               ICR Main Contributor:       Rumana Islam, Igor Kecman
+         The World Bank
+         National Strategy for Development of Statistics Implementation Support (P157987)                 ICR DOCUMENT
+
+
+
+ABBREVIATIONS AND ACRONYMS
+
+BBS            Bangladesh Bureau of Statistics               NSS    National Statistical System
+BLS            Bureau of Labor Statistics (BLS)              ONS    Office of National Statistics
+CAPI           Computer-Assisted Personal Interviews         OPHI   Oxford Poverty and Human
+                                                                    Development Initiative
+CCGP           Cabinet Committee on Government               OPM    Oxford Policy Management
+               Purchase
+CEA            Country Environmental Analysis                PAD    Project Appraisal Document
+COICOP         Classification of Individual Consumption      PDO    Project Development Objective
+               According to Purpose
+CPF            Country Partnership Framework                 POM    Project Operations Manual
+DA             Designated Account                            PIU    Project Implementation Unit
+DP             Development Partner                           QLFS   Quarterly Labor Force Survey
+FM             Financial Management                          PSC    Project Steering Committee
+FYP            Five-Year Plans                               SCD    Systematic Country Diagnostic
+FY             Fiscal Year                                   SDG    Sustainable Development Goal
+GDP            Gross Domestic Product                        SGS    Strengthening Gender Statistics
+GOB            Government of Bangladesh                      SID    Statistics and Informatics Division
+HIES           Household Income and Expenditure Survey       STEP   Systematic Tracking of Exchanges in
+                                                                    Procurement
+IDA            International Development Association         TA     Technical Assistance
+ICT            Information and Communication                 TP     Twinning Partner
+               Technology
+KOSTAT         Statistics Korea                              USS    User Satisfaction Survey
+IFR            Interim Financial Report                      US$    United States Dollars
+IMF            International Monetary Fund                   WB     World Bank
+MOU            Memorandum of Understanding
+MTR            Mid-Term Review
+NA             National Accounts
+NACS           National Advisory Council on Statistics
+NSCC           National Statistics Coordination Council
+NSDS           National Strategy for the Development of
+               Statistics
+NSO            National Statistics Office
+            The World Bank
+            National Strategy for Development of Statistics Implementation Support (P157987)                                                                      ICR DOCUMENT
+
+
+
+
+                                               TABLE OF CONTENTS
+DATA SHEET ................................................................................................................................................ ii
+   I. PROJECT CONTEXT AND DEVELOPMENT OBJECTIVES ............................................................................................2
+   A.    CONTEXT AT APPRAISAL .............................................................................................................................................. 2
+   B.    SIGNIFICANT CHANGES DURING IMPLEMENTATION .................................................................................................. 6
+   II. OUTCOME ..........................................................................................................................................................8
+   A.    RELEVANCE OF PDO ..................................................................................................................................................... 8
+   B.    ACHIEVEMENT OF PDOs (EFFICACY) ............................................................................................................................ 9
+   C.    EFFICIENCY ................................................................................................................................................................. 14
+   D. OTHER OUTCOMES AND IMPACTS ............................................................................................................................ 15
+   III. KEY FACTORS AFFECTED IMPLEMENTATION AND OUTCOME ............................................................................ 17
+   A.    KEY FACTORS DURING PREPARATION ....................................................................................................................... 17
+   B.    KEY FACTORS DURING IMPLEMENTATION ................................................................................................................ 17
+   IV. BANK PERFORMANCE, COMPLIANCE ISSUES, AND RISK TO DEVELOPMENT OUTCOME ...................................... 18
+   A.    QUALITY OF MONITORING AND EVALUATION (M&E) .............................................................................................. 18
+   B.    ENVIRONMENTAL, SOCIAL, AND FIDUCIARY COMPLIANCE ...................................................................................... 19
+   C.    BANK PERFORMANCE ................................................................................................................................................ 20
+   V. LESSONS AND RECOMMENDATIONS ................................................................................................................. 21
+   ANNEX 1. RESULTS FRAMEWORK AND KEY OUTPUTS ............................................................................................ 22
+   ANNEX 2. BANK LENDING AND IMPLEMENTATION SUPPORT/SUPERVISION .......................................................... 30
+   ANNEX 3. PROJECT COST BY COMPONENT ............................................................................................................ 33
+   ANNEX 4. PDO level Indicator 4: Increased User Satisfaction ................................................................................. 34
+   ANNEX 5. Theory of Change (ex-post) ................................................................................................................... 34
+   ANNEX 6. List of selected core statistics improved. ................................................................................................ 35
+   ANNEX 7. List of core surveys to be anonymized and made accessible. .................................................................. 36
+   ANNEX 8. Significant Activities Carried Out Under the Project ............................................................................... 36
+
+
+
+
+                                                                                                                                                                                       i
+             The World Bank
+             National Strategy for Development of Statistics Implementation Support (P157987)                ICR DOCUMENT
+
+
+
+    DATA SHEET
+
+    @#&OPS~Doctype~OPS^dynamics@icrbasicdata#doctemplate
+    BASIC DATA
+
+    Product Information
+
+    Operation ID                                                  Operation Name
+                                                                  National Strategy for Development of Statistics
+    P157987
+                                                                  Implementation Support
+    Product                                                       Operation Short Name
+    Investment Project Financing (IPF)                            Bangladesh NSDS Implementation Support
+
+    Operation Status                                              Approval Fiscal Year
+    Closed                                                        2018
+
+    Original EA Category                                          Current EA Category
+                                                                  Not Required (C) (Restructuring Data Sheet - 02 Feb
+    Not Required (C) (Approval package - 22 Mar 2018)
+                                                                  2023)
+
+    CLIENTS
+
+
+    Borrower/Recipient                                            Implementing Agency
+    People's Republic of Bangladesh                               Bangladesh Bureau of Statistics
+
+
+    DEVELOPMENT OBJECTIVE
+
+    Original Development Objective (Approved as part of Approval Package on 21-Mar-2018)
+    The Project aims to improve the capacity of the Bangladesh Bureau of Statistics (BBS) to produce quality core statistics
+    and make them accessible in a timely manner to policy makers and the public.
+
+s
+s
+s
+s
+s
+s
+
+
+
+
+    @#&OPS~Doctype~OPS^dynamics@icrfinancing#doctemplate
+    FINANCING
+
+    Financing Source               Original Amount (US$)         Revised Amount (US$)           Actual Disbursed (US$)
+    World Bank Financing                       15,000,000.00               15,000,000.00                      13,100,896.42
+    IDA-61930                                  15,000,000.00               15,000,000.00                      13,100,896.42
+    Total                                      15,000,000.00               15,000,000.00                      13,100,896.42
+
+                                                                                                                          ii
+          The World Bank
+          National Strategy for Development of Statistics Implementation Support (P157987)              ICR DOCUMENT
+
+
+
+
+RESTRUCTURING AND/OR ADDITIONAL FINANCING
+
+                                            Amount Disbursed
+     Date(s)                   Type                                                   Key Revisions
+                                            (US$M)
+  09-May-2020         Portal                              2.72   • Loan Closing Date Extension
+                                                                 •   Results
+  15-Nov-2021         Portal                              7.41   •   Loan Closing Date Extension
+                                                                 •   Implementation Schedule
+                                                                 •   Results
+  02-Feb-2023         Portal                              9.74   •   Loan Closing Date Extension
+                                                                 •   Implementation Schedule
+
+@#&OPS~Doctype~OPS^dynamics@icrkeydates#doctemplate
+KEY DATES
+
+
+                        Key Events                                    Planned Date                    Actual Date
+
+Concept Review                                                         26-Jul-2016                    12-Aug-2016
+
+Decision Review                                                       07-Jun-2017                     07-Jun-2017
+
+Authorize Negotiations                                                08-Jan-2018                     05-Jan-2018
+
+Approval                                                              22-Mar-2018                     29-Mar-2018
+
+Signing                                                               28-Jun-2018                     28-Jun-2018
+
+Effectiveness                                                          31-Jul-2018                    12-Sep-2018
+
+ICR/NCO                                                                                               20-Sep-2024
+
+Restructuring Sequence.01                                            Not Applicable                   09-May-2020
+
+Restructuring Sequence.02                                            Not Applicable                   15-Nov-2021
+
+Restructuring Sequence.03                                            Not Applicable                   02-Feb-2023
+
+ICR Sequence.01 (Final)                                                     --                        19-Sep-2024
+
+Mid-Term Review No. 01                                                04-Mar-2021                     04-Mar-2021
+
+Operation Closing/Cancellation                                        27-Feb-2024                     27-Feb-2024
+
+
+@#&OPS~Doctype~OPS^dynamics@icrratings#doctemplate
+RATINGS SUMMARY
+
+
+                                                                                                                    iii
+        The World Bank
+        National Strategy for Development of Statistics Implementation Support (P157987)                  ICR DOCUMENT
+
+
+
+
+              Outcome                            Bank Performance                            M&E Quality
+
+
+
+
+ISR RATINGS
+
+                                                                                                   Actual Disbursements
+ No.        Date ISR Archived              DO Rating                       IP Rating
+                                                                                                          (US$M)
+01        21-Jun-2018             Satisfactory                    Satisfactory                                        0.00
+02        20-Dec-2018             Moderately Satisfactory         Moderately Satisfactory                             0.00
+03        25-Jun-2019             Satisfactory                    Satisfactory                                        2.37
+04        30-Dec-2019             Moderately Satisfactory         Moderately Satisfactory                             2.57
+05        30-Jun-2020             Moderately Satisfactory         Moderately Satisfactory                             3.19
+06        19-Jan-2021             Moderately Satisfactory         Moderately Satisfactory                             4.36
+07        29-Apr-2021             Moderately Satisfactory         Moderately Satisfactory                             4.76
+08        06-Dec-2021             Satisfactory                    Satisfactory                                        7.41
+09        06-Jun-2022             Satisfactory                    Satisfactory                                        8.22
+10        01-Dec-2022             Satisfactory                    Satisfactory                                        9.28
+11        30-Aug-2023             Satisfactory                    Satisfactory                                    10.58
+
+
+@#&OPS~Doctype~OPS^dynamics@icrsectortheme#doctemplate
+SECTORS AND THEMES
+
+
+Sectors
+                                                                                  Adaptation          Mitigation
+       Major Sector                       Sector                      %
+                                                                                 Co-benefits (%)    Co-benefits (%)
+
+Themes
+       Major Theme                    Theme (Level 2)                     Theme (Level 3)                 %
+
+
+
+
+                                                                                                                        iv
+       The World Bank
+       National Strategy for Development of Statistics Implementation Support (P157987)              ICR DOCUMENT
+
+
+
+ADM STAFF
+
+
+Role                                 At Approval                           At ICR
+Practice Manager                                                           Ximena Vanessa Del Carpio
+
+Regional Director                                                          Mathew A. Verghis
+
+Global Director                                                            Luis-Felipe Lopez-Calva
+
+Practice Group Vice President                                              Pablo Saavedra
+Country Director                                                           Abdoulaye Seck
+Regional Vice President                                                    Martin Raiser
+
+ADM Responsible Team Leader          Ayago Esmubancha Wambile              Ayago Esmubancha Wambile
+Co-Team Leader(s)
+
+ICR Main Contributor                 Rumana Islam and Igor Kecman
+
+
+
+
+                                                                                                          Page 1
+      The World Bank
+      National Strategy for Development of Statistics Implementation Support (P157987)                      ICR DOCUMENT
+
+
+
+I. PROJECT CONTEXT AND DEVELOPMENT OBJECTIVES
+
+
+  A. CONTEXT AT APPRAISAL
+
+
+  Country Context
+
+  1.       At the time of appraisal, Bangladesh, one of the world’s most populous countries with an estimated
+  population of 165 million people, in a geographical area of about 144,415 sq.-km had a per capita income of
+  US$1,480 in 2017, well above the lower middle income country category threshold which it crossed in fiscal year
+  (FY) 14. During the same period, economic conditions improved in the country with headline inflation declining to 5.4
+  percent in FY17 from 5.9 percent in FY16, while the fiscal deficit was contained at around 3 percent of Gross Domestic
+  Product (GDP) in FY17. The FY18 budget targets 5 percent deficit with 26.2 percent growth in expenditures. The
+  current account balance turned into a deficit equivalent to 0.6 percent of GDP in FY17. The GDP grew well above the
+  average for developing countries in recent years, averaging 6.5 percent since 2010, with an officially reported growth
+  of 7.24 percent in FY17, driven by manufacturing and services.
+
+  2.      Progress on reducing extreme poverty and boosting shared prosperity through human development and
+  employment generation had continued to improve. The poverty incidence based on the international $1.90 per
+  capita per day poverty line (measured based on the 2011 Purchasing Power Parity exchange rate) declining from 44.2
+  percent in 1991 to a 13.8 percent in 2016 (latest available poverty data). Bangladesh’s performance against the
+  Millennium Development Goals was impressive against the South Asia Region average. Such progress
+  notwithstanding, the pace of poverty reduction and the rate of job creation had slowed since 2010. Bangladesh
+  needed more effort in improving its growth rate to meet its target of moving up the middle-income rankings by 2021
+  and eliminating poverty by 2030. For accelerating private sector-led growth with improved investment climate, the
+  key challenges were the need for increased infrastructure and power, with much improved quality in public resources
+  spending, better regulations, and enhanced skills of country’s vast and rapidly increasing labor force.
+
+   Sectoral and Institutional Context
+
+  3.       The Government’s Seventh Five Year Plan (FY16–FY20, the 7th Five Year Plan) aims to develop strategies,
+  policies, and institutions to accelerate inclusive growth, reduce poverty, empower citizens, and promote
+  sustainable development. It adopted the United Nations Sustainable Development Goals (SDGs), to which the
+  Government of Bangladesh (GOB) has shown strong commitment. The GOB has expressed commitment to monitor
+  progress towards the achievement of goals and acknowledges the importance of and is committed to the timely
+  availability of reliable statistics for evidence-based planning and policy making, as reflected in its National Strategy
+  for the Development of Statistics (NSDS).
+
+  4.       The GOB has taken significant steps to improve the availability, quality, and reliability of statistics. In 2007,
+  the Bangladesh Bureau of Statistics (BBS), under the Ministry of Planning, responsible for providing statistical
+  information to guide decision making and the development process, embarked upon a three-stage process to improve
+  statistics, with support from the World Bank. The first stage, from 2007 to 2009, was limited to improving the coverage
+  and quality of statistics in key areas. The second stage, completed in 2011, involved the preparation of the first NSDS,
+  which maps out a development path for the National Statistical System (NSS) to have a world-class system by 2021.
+
+
+
+
+                                                                                                                   Page 2
+             The World Bank
+             National Strategy for Development of Statistics Implementation Support (P157987)                                 ICR DOCUMENT
+
+
+        The GOB approved the NSDS 1 in 2013, together with the Statistics Act 2013, that envisages an “integrated,
+        professional, efficient, and effective NSS, under the guidance and leadership of the BBS and to produce official
+        statistics that meet the current and evolving needs of national and international users in a transparent and timely
+        fashion using international standards”. The Statistics Act 2013 confers on the BBS the function of “preparing and
+        preserving correct, accurate, and up-to-date statistics.” Other agencies may also produce statistics “following the
+        regulations established by the bureau and upon getting no objection and approval from the bureau.”2 The third stage
+        (2013–2023) of the process is putting the NSDS into effect.
+
+        5.     The NSDS Implementation Support Project (the proposed project) aimed to support the GOB in the
+        implementation of key elements of the NSDS. The NSDS is a ten-year reform plan (2013–2023) costed at around
+        US$600 million with four priority areas:
+
+                I.         Improving the quality, coverage, and use of core statistics required for national planning and
+                           economic management and for monitoring progress towards national goals.
+                II.        Strengthening the professionalism of the NSS, which involves, among others, increasing the skills and
+                           expertise of the workforce, enhancing the leadership capacity of the BBS, and strengthening
+                           procedures and internal processes to make the statistical system more open and accountable.
+               III.        Building capacity to collect, compile, disseminate, and, especially, use statistics at the local level,
+                           providing statistical information to help empower citizens.
+               IV.         Promoting and strengthening access to and the use of official statistics at all levels of the society,
+                           based on an ‘open-data strategy’.
+
+        6.      The project, consistent with the priorities of the NSDS, aimed to focus on: (a) improving data collection and
+        the quality of data in several areas, including gender disaggregation where appropriate and (b) strengthening capacity
+        of the BBS for better management and dissemination of improved statistics. The proposed project will build on the
+        progress made thus far in some reform areas of the NSDS while complementing investments by the GOB and other
+        development partners (DPs).
+
+        Higher Level Objectives to which the Project aimed to Contribute.
+
+        7.       There was a strong rationale for World Bank engagement. The World Bank had a mandate to support
+        statistical capacity activities, which was central for monitoring of World Bank Group’s twin goals of eradicating poverty
+        and boosting shared prosperity and to measuring progress towards the newly endorsed SDGs. 3 This priority was
+        reflected in the IDA15 Results Measurement System that requires all Country Assistance or Partnership Frameworks
+        to include a review of national statistical systems and an identification of what is needed to strengthen capacity.
+        Further, ‘better governance in 30 countries through improved statistical capacity’ was one of the action items in the
+        IDA18 commitments.
+
+        8.      The project was also in line with the Country Partnership Framework (CPF) for Bangladesh FY16–FY20 which
+        highlighted World Bank’s support for the NSDS. In particularly, support for the NSDS responded directly to the CPF’s
+
+1
+  In preparing the NSDS, the BBS organized workshops in which stakeholders identified strengths and weakness within the statistical
+system.
+2
+  The act has been in effect since 2013 but does not automatically confer on the BBS the right to access administrative data from other
+agencies for statistical purposes.
+3   Country Assistance Strategy Statistical Capacity Building Guidance Note, June 2009: http://go.worldbank.org/6LH1D7DUH0.
+
+                                                                                                                                   Page 3
+           The World Bank
+           National Strategy for Development of Statistics Implementation Support (P157987)                                    ICR DOCUMENT
+
+
+      (FY16–FY20) first and second pillars–-Growth and Competitiveness and Social Inclusion–both of which, in a fast-
+      growing economy, require quality, timely, and reliable data for the achievement of their objectives.
+
+
+      Theory of Change (Results Chain)
+
+      9.      The project’s results chain4 built on the need to strengthen the NSS by building the capacity of BBS to
+      produce quality core statistics and make them accessible in a timely manner to policy makers and the public. The
+      project activities sought to build BBS capacity by acting on three levels (Figure 1). First, there was need for an enabling
+      environment where the statistical system has the necessary legal and institutional support to conduct its business.
+      This entailed updating statistical legislation, policies, and institutional arrangements. Second, it was key to improve
+      BBS’s organization and the production of statistics by strengthening management systems, improving human and ICT
+      resources, and the statistical infrastructure. Third, the project sought to focus on strengthening user-producer
+      dialogue so that statistics are used and users’ feedback into the production cycle.
+
+      10.      Although the NSDS ISP project encountered delays at the start, it has made considerable contributions.
+      Among other supported activities, BBS was able to conduct functional review of BBS to strengthen management
+      systems, implement several trainings following the development of a training plan and policy, conducted and released
+      data as well as relevant reports from the 2022 Population and Housing Census (PHC), the 2022 Household Income
+      and Expenditure Survey, and the 2022 quarterly LFS survey. The PHC, HIES, and LFS were the first major census and
+      surveys to utilize the Computer Assisted Personal Interview (CAPI) method for data collection. The project further
+      supported preparation of the ICT Plan and Roadmap to improve human and ICT resources and the statistical
+      infrastructure, and the improvement in data collection, production, and dissemination through the implementation
+      of other household surveys, improvement of national accounts and price statistics, health statistics, and agriculture
+      statistics. Project established the National Advisory Council on Statistics (NACS) to provide guidance and set national
+      priorities on statistics and signed five MoU’s with national and international data producers, including Statistics Korea
+      (KOSTAT) to enhance coordination.
+
+      11.      These initiatives contributed to the achievement of the PDO by improving core survey methodologies in
+      filling data gaps. In addition, the project strengthened user-producer dialogue and supported the improvement of
+      data access and dissemination by financing the (a) BBS’ first ever user satisfaction survey, (b) design of the new BBS
+      website with an advance release calendar and protocols for the timely release of survey statistics and (c) formulation
+      and adoption of Data Dissemination Policy and Microdata Anonymization Manual access policies, an aspect that is
+      key to enabling evidence-based policy making and social accountability. The project further provided other technical
+      support, including survey documentation, microdata anonymization, data visualization, metadata documentation,
+      preparation of codes and syntaxes, and produced reports and documentation on administrative data, report on HR
+      recruitment, training Policy, training Plan, training inventory, dissemination policy, and protocol for advance release
+      calendar, among others.
+
+
+
+
+4For this Implementation Completion and Results Report (ICR) and for clarity, the ICR team also constructed a detailed Theory of Change (ToC) ex-
+post and retrofitted the details from the PAD and the project Results Framework and its detailed descriptions (See Annex 5).
+
+
+
+                                                                                                                                        Page 4
+           The World Bank
+           National Strategy for Development of Statistics Implementation Support (P157987)                             ICR DOCUMENT
+
+
+                                                  Figure 1: Results Chain (at Project Appraisal)5
+
+
+
+
+     Project Development Objectives (PDOs)
+
+     12.     The project aimed to improve the capacity of BBS to produce quality core statistics and make them
+     accessible in a timely manner to policy makers and the public.
+
+     Key Expected Outcomes and Outcome Indicators
+
+     13.     The accomplishment and critical steps to achieving the PDO outcomes on quality, timeliness, and data
+     accessibility are reflected in the results framework (Annex 1). Following the NSDS priorities, the key expected
+     outcome indicators based on the PDO statement are as follows:
+                  • Outcome 1: Increase the capacity of BBS to produce quality statistics.
+                  • Outcome 2: Increase the capacity of BBS to make statistics accessible in a timely manner.
+
+     14.     Progress towards the Project Development Objective (PDO) was monitored through the following
+     indicators:
+                 (a) Core statistics are improved in line with international standards.
+                 (b) Core statistics are released according to a pre-defined calendar.
+                 (c) Core surveys' microdata anonymized made accessible.
+                 (d) Increased user satisfaction
+
+     15.      At the intermediate level, progress and accomplishments were to be measures by the following:
+                  (a) Introduction of an effective and clear dissemination policy.
+                  (b) Implementation of training policy to develop human resources.
+
+
+5
+ The additional specificity including detailed account of core statistics intended to be aligned with international standards are
+provided in annex 5.
+
+                                                                                                                                Page 5
+           The World Bank
+           National Strategy for Development of Statistics Implementation Support (P157987)               ICR DOCUMENT
+
+
+                  (c) Investments in ICT infrastructure to support data collection and management.
+                  (d) Mechanisms are put in place to enhance coordination.
+                  (e) Conducting assessments and training for better management systems.
+
+     Components
+
+     16.     Component A: Improving the Coordination and Management of Statistical Activities. This component
+     focused on improving coordination among other data producers and strengthening statistical management systems
+     of BBS. To improve coordination, existing Memorandum of Understandings (MOUs) between the BBS and other
+     government agencies on data sharing and access were reviewed and a Report on Memorandum of Understanding
+     (MOU) was produced, suggesting areas where improvements are needed to enhance coordination.
+
+     17.      Component B: Developing Human Resources and ICT Infrastructure to Produce and Manage Date. This
+     component aimed at strengthening the role of the Statistical Staff Training Institute of the BBS and developing a
+     training policy to deliver systematic training for BBS staff.
+
+     18.      Component C: Improving the Coverage and Quality of Core Statistics Required for Policy Making. This
+     component supported the improvement of the design, implementation, and information generated by high priority;
+     core statistical operations identified in the NSDS. The core statistical operations included national accounts, price
+     statistics, social statistics, and agricultural statistics.
+
+     19.     Component D: Promoting and Strengthening Access and the Use of Official Statistics. This component
+     promoted and strengthened access to official statistics, contributing to priority area 4 of the NSDS by implementing
+     a dissemination policy, improving access to statistical products and metadata, and enhancing user-producer dialogue.
+     Other activities included staff training on metadata preparation, adhering to international standards, anonymizing
+     microdata, and providing wide access to data.
+
+     20.     Component E: Project Management. This component supported the establishment of the Project
+     Implementation Unit (PIU) at the BBS, responsible for ensuring the day-to-day coordination, implementation, and
+     management in accordance with the Project Operations Manual (POM), including fiduciary aspects, monitoring,
+     evaluation, and reporting. The PIU prepared annual work plans and budgets, managed disbursements and
+     procurement activities, consolidated progress reports, and monitored and evaluated project activities.
+
+     B. SIGNIFICANT CHANGES DURING IMPLEMENTATION
+
+
+21.     The project was approved on March 29, 2018, signed on June 28, 2018, declared effective on September 12, 2018,
+and closed on February 27, 2024.
+
+     Revised PDOs and Outcome Targets
+
+     22.      The PDO and outcome targets were not revised throughout the duration of the project.
+
+     Revised PDO Indicators
+
+     23.      The PDO indicators were not revised throughout the duration of the project.
+
+                                                                                                                  Page 6
+      The World Bank
+      National Strategy for Development of Statistics Implementation Support (P157987)                  ICR DOCUMENT
+
+
+Revised Components
+
+24.      The project’s components were not revised throughout the duration of the project.
+
+Other Changes
+
+25.      The project was restructured three times during implementation.
+
+26.     The project’s first restructuring was approved by the World Bank on March 22, 2020. The restructuring aimed
+to extend the closing date of the project from February 28, 2022, to August 31, 2022.
+
+27.     The project’s second restructuring was approved by the World Bank on September 19, 2021. The
+restructuring aimed to extend the closing date of the project from August 31, 2022, to June 30, 2023, and introduce
+changes to the Results Framework.
+
+28.    The project’s third restructuring was approved by the World Bank on January 29, 2023. The restructuring
+aimed to extend the closing date of the project from June 30, 2023, to February 27, 2024, and introduce changes to
+the Results Framework.
+
+Rationale for Changes and Their Implication on the Original Theory of Change
+
+29.      The rationale for the first restructuring: The overall progress of the project was slow, which was attributed
+to delays in: (i) hiring consultants for the Project PIU; and (ii) the procurement of the Twinning Partner (TP). The BBS
+faced considerable challenges in finding the right candidates for the positions of the Procurement Specialist and
+Financial Management Specialist in the PIU, with the latter being a disbursement condition in the Project. There were
+also delays in the hiring of consultants to carry out key activities identified in the annual work plan. This was mainly
+due to the long processes BBS needed to follow for hiring international consultants, including getting approval from
+the Economic Relations Division (ERD) and the Ministry of Planning. The six-month extension of the closing date was
+supposed to provide time for the TP to perform all the activities in the contract and, thereby, help BBS achieve timely
+results towards the Project Development Objective, which remained the same.
+
+30.    The rationale for the second restructuring: As part of the findings of the Mid-Term Review (MTR) as well as
+the GoB request, two key changes were addressed under the restructuring:
+
+         (i)     Extension of project closing date - The project experienced initial delays in some of the foundational
+                 activities including hiring of project consultants for the PIU and hiring of the Twinning Partner (TP).
+                 Although implementation gained momentum once the TP was onboarded, COVID-19 pandemic
+                 slowed down the pace of progress considerably. Three national lockdowns imposed by the GOB from
+                 March-May 2020, from April-May 2021, and June-July 2021 put a hold to the implementation.
+                 Movement of key project staff and consultants, both domestic and international, were severely
+                 curtailed. These factors reduced the PIU’s implementation and supervision capacity, resulting in
+                 slower progress. Therefore, the 10-month extension to compensate for the initial delays and
+                 subsequent COVID-19 disruptions would allow the PIU to complete the implementation of ongoing
+                 activities, revise implementation schedule and fully achieve the Project’s objectives.
+
+         (ii)    Revision of the Results Framework (RF) – The proposed changes in the RF were aimed to improve
+
+
+                                                                                                                Page 7
+           The World Bank
+           National Strategy for Development of Statistics Implementation Support (P157987)                  ICR DOCUMENT
+
+
+                       measurement and tracking of progress and project outcomes. The restructuring specified the matrix
+                       for measuring improvements in core statistics (see Annex 6) and the number of core statistics and
+                       surveys to be improved under each statistics domain (Indicator 1: Core statistics are improved in line
+                       with international standards). Given unpredictability in conducting the surveys and lack of an
+                       approved pre-defined calendar, restructuring further revised the end target of key PDO level Indicator
+                       2: Core statistics are released according to a pre-defined calendar).
+
+       31.     The rational for the third restructuring: A no cost extension was approved due to delays in key elements of
+       the project. Restructuring allowed for revision of the results framework and update of the end target for the
+       Intermediate Level Indicator 4: Mechanisms are put in place to enhance coordination from “4 MOUs signed and
+       operational; 2 Meetings held by National Statistics Coordination Council (NSCC)” to “4 MOUs signed and operational;
+       2 Meetings held by National Advisory Council on Statistics (NACS)”. The change from “National Statistical Coordination
+       Committee (NSCC)” to the “National Advisory Committee on Statistics (NACS)” was to ensure that the coordination
+       mechanism have the backing of the higher authority and ministerial representation as it is to be chaired by the
+       Honorable Planning Minister, Ministry of Planning.
+
+       32.    There was no implication on the project Results Chain or on the Theory of Change (ToC) constructed ex post
+       (see Annex 5).
+
+
+
+II. OUTCOME
+
+
+       A. RELEVANCE OF PDO
+
+
+Rating: High
+
+ Assessment of Relevance of PDOs and Rating
+
+ 33.     At project closing, the PDO supported by the operation continues to be highly relevant. Having strong statistical
+ capacity is critical to producing quality core statistics and making them accessible in a timely manner to policy makers and
+ the public. The project aligns with the country CPFs (2023-2027), the SCD 2021 Update and the national development
+ plans emphasizing the capacity needs for BBS to ensure the availability, accessibility, and timely release of quality data
+ and survey information.
+
+ 34.      The Country Partnership Framework (CPF 2023-2027) highlights the need for World Bank’s support and
+ proactive focus for evidence-based reform dialogue and strengthening the quality and the integrity of statistical data.
+ The CPF, developed during the implementation of the project, stated that a strong national statistical system will help the
+ government and other stakeholders better monitor and evaluate the implementation of its development programs and
+ projects while also helping the government strengthen citizen engagement. The project was also in line with the previous
+ CPF (FY16–FY20) which highlighted World Bank’s support for the NSDS. In particularly, support for the NSDS responded
+ directly to the CPF’s (FY16–FY20) first and second pillars–-Growth and Competitiveness and Social Inclusion–both of
+ which, in a fast-growing economy, require quality, timely, and reliable data for the achievement of their objectives.
+
+ 35.       The 2021 Systematic Country Diagnostic (SCD) Update for Bangladesh emphasized the need for building
+
+                                                                                                                     Page 8
+          The World Bank
+          National Strategy for Development of Statistics Implementation Support (P157987)                     ICR DOCUMENT
+
+
+ effective and efficient public institutions. It focused on the need of building a strong statistical capacity that would boost
+ efficiency and transparency, with statistics being a crucial public good for effective decision making by policymakers,
+ businesses, and households. The project is also aligned with the new World Bank Evolution Roadmap and its mission of
+ ending extreme poverty and boosting prosperity on a livable planet, including the cooperate score card and other
+ measurement tools.
+
+ 36.      The project has also stayed highly relevant to the national development plans and the international
+ commitments. In particular, the project objectives are strongly in line with NSDS 2013-2023, the 8th Five Year Plan (8FYP),
+ the Bangladesh Delta Plan 2100 (BDP2100), the Mujib Climate Prosperity Plan and its Nationally Determined Contribution
+ (NDC), the Perspective Plan for Bangladesh 2021-2041 (PP2041), and the Sustainable Development Goals (SDGs). Good
+ quality and reliable statistics are a prerequisite for better and more targeted decision-making, which the proposed
+ program will try to achieve. The NSDS ISP therefore, focused on this agenda of improving the quantity and quality of
+ statistics and ensuring that they are produced, analyzed, and disseminated widely using international best practices,
+ standards and with latest tools.
+
+ 37.      Considering the information above, the relevance of the PDO is rated High.
+
+       B. ACHIEVEMENT OF PDOs (EFFICACY)
+
+
+38.     The two key outcomes in the PDO were substantially achieved. This was assessed based on data and information
+drawn from the User Satisfaction Surveys (baseline and end-line surveys), the project Mid-Term Review (MTR) and the
+latest NSDS (2013-2023) review. The assessment was further informed by two separate Implementation Completion
+assessments by the Twinning Partner (TP) and by the Borrower, the latest ISR, and by information gathered during the ICR
+mission and in consultation with the PMU. The outcomes reflect the NSS’s long-term efforts to producing and
+disseminating data for evidence-based policymaking. The project built on previous Bank intervention on the development
+of the National Strategy for the Development of Statistics (2013-2023) by strengthening BBS’s capacity in the production
+and dissemination of official statistics through the implementation the statistics strategy.
+
+Outcome 1: Increase the capacity of BBS to produce quality statistics.
+
+39.     To increase BBS capacity to produce quality statistics the project focused on two objectives: a) creating an
+enabling environment through strengthening coordination mechanisms and review of by-laws and regulations, and b)
+improving BBS as an organization and the production of statistics through improving management systems, human and
+physical capital, and the statistical infrastructure.
+
+   (a) Creating an enabling environment through strengthening coordination mechanisms and review of by-laws and
+       regulations.
+
+40.      The NSDS ISP played a significant role in creating an enabling environment by supporting enhanced
+coordination among data producers and users. The efforts helped in reducing redundancies and ensures that data
+collected across agencies are in line with international standards. Notably, the project supported formation and
+operationalization of the National Advisory Council on Statistics (NACS) a high-level coordinating body chaired by the
+Planning Minister, Ministry of Planning. The Gazette notification for the establishment of National Advisory Council on
+Statistics (NACS) was officially published on January 12, 2021, by the Cabinet Division. NACS has been consistently
+providing advice and guidelines on various matters of statistics, including setting statistical priorities of BBS.
+
+
+                                                                                                                      Page 9
+          The World Bank
+          National Strategy for Development of Statistics Implementation Support (P157987)                     ICR DOCUMENT
+
+
+
+41.      The project effectively set in place mechanisms to enhance cooperation and coordination with other national
+and international data producers. At project closing BBS has signed and operationalized at least 5 MoUs with key data
+producing government agencies which has significantly improved data exchanges across institutions, including with the
+Bangladesh Bank (BB), the Finance Division (Ministry of Finance), the Federation of Bangladesh Chambers of Commerce
+and Industry (FBCCI), the National Board of Revenue (NBR), Bangladesh Space Research and Remote Sensing Organization
+(SPARSO) and Statistics Korea (KOSTAT). Through the project support, BBS has also produced a report on Memorandum
+of Understanding (MoUs) following international standards and best practices, which will be extremely useful for drafting
+MoUs in the future in order to strengthen coordination and collaboration between BBS and other data producers. The
+report analyzes the existing MoUs between BBS and other data producers, states the principles for collaboration based
+on the UN Fundamental Principles of Official Statistics and the UN National Data Quality Assurance Framework, and
+proposes improved templates that have been used to renew and establish a new partnership between Bangladesh Bureau
+of Statistics and other institutions.
+
+      (b) Improving BBS as an organization and the production of statistics through improving management systems,
+          human and physical capital, and the statistical infrastructure.
+
+42.      The Functional Review of BBS prepared by the Project, provides a methodology for the functional assessment
+of statistical operations in improving business processes and introducing quality management guidelines involving
+enterprise resource planning systems. It focused on the description and workflow of statistical work processes and
+proposed an Implementation Plan to align these with international standards such as the Generic Statistical Business
+Process Model (GSBPM), and the General Activity Model of Statistical Organizations (GAMSO). Compliance was assessed
+in accordance with the UN National Quality Assurance Framework. This Functional Review enhanced BBS’s quality
+assurance system through in-depth analysis of the operational aspects of statistical processes.
+
+43.      Project produced the BBS Glossary, which provides a brief introduction on more than two thousand concepts
+and definitions that are commonly used by the NSO for conducting various statistical operations such as censuses and
+surveys. The Glossary is a living document which serves as a user-friendly ready reference for the statistical personnel as
+well as data users. Since its publication, this document has been guiding all users to remove ambiguity and misconception
+for any statistical operation in terms of concepts and definitions.
+
+44.      Project produced a manual with recommendations on improvement to the recruitment process. A Training
+Policy, Plan and inventory were developed for the systematic capacity development of BBS officials. In the rapidly changing
+scenario of official statistics, this policy will substantially contribute to enhancing the knowledge and skill development of
+all levels of skill categories of staff of BBS. These efforts are expected to benefit both the individual staff member as well
+as BBS as a whole. A total of 6,455 staff of BBS had been trained under this project in various fields of statistics and the
+capacity building of statistical activities.
+
+45.      A comprehensive ICT Plan was developed to guide BBS in modernizing its ICT infrastructure. The Plan and
+Roadmap introduce automated data collection, processing, and dissemination for all surveys and censuses. It proposes to
+significantly contribute to increasing efficiency in statistical production and data dissemination, including extended use of
+Computer-Assisted Personal Interviews (CAPI) and other multi-modal data collection platforms.
+
+Outcome 2: Increase the capacity of BBS to make statistics accessible in a timely manner.
+
+46.      Under outcome 2 the project aimed at improving user-producer dialogue by developing a Data Dissemination
+
+                                                                                                                     Page 10
+          The World Bank
+          National Strategy for Development of Statistics Implementation Support (P157987)                    ICR DOCUMENT
+
+
+Policy and protocols for metadata and microdata sharing. With the goal of making data available and accessible in a
+timely manner the project developed new BBS website with anonymized micro data and hosts an advance release calendar
+and protocols for the timely release of official statistics of different national surveys and censuses. All data from core
+surveys are uploaded on the BBS website following appropriate microdata anonymization, including definitions of codes
+and syntaxes in frequently used languages and methodological information.
+
+47.     Project improved survey documentation and metadata and developed a Data Dissemination Policy and
+Microdata Anonymization Manual in compliance with the key principles of the UN National Quality Assurance
+Framework on managing metadata and assuring accessibility and clarity. While the approval of the SID and
+operationalization of the Data Dissemination Policy is still pending, the preparation of the policy and approval by the BBS
+management is an important first step to enhancing access to data in Bangladesh.
+
+48.      With the support of the project, BBS conducted the first User Satisfaction Survey (USS) in seven divisional
+districts including Dhaka and eight Upazilas of Bangladesh. BBS reached out to all-GoB Ministries, selected agencies,
+directors, development partners, research organizations, educational institutions, distinguished dignitaries, field level
+administrations, the mass media, and general users of BBS data. An endline USS was conducted prior to project completion
+to measure project achievement on improving user-producer dialogue.
+
+ Assessment of Achievement of Each Objective/Outcome
+
+ 49.     PDO: The Project aims to improve the capacity of the Bangladesh Bureau of Statistics (BBS) to produce quality
+ core statistics and make them accessible in a timely manner to policy makers and the public.
+
+     •    PDO-level indicator 1 - Core statistics are improved in line with international standards: This indicator is fully
+          met and surpassed. Seven out of eight (87.5 percent) identified core statistics have been improved in line with
+          international standards and best practices.
+
+     •    PDO-level indicator 2 - Core statistics are released according to a predefined calendar: This indicator was fully
+          met as the advanced release calendar has been updated in consultation with the different BBS Wings. In addition,
+          survey and indicator release dates have been incorporated on the new BBS website
+          (http://nsds.bbs.gov.bd/en/release-calendar)
+
+     •    PDO-level indicator 3 - Core surveys’ microdata anonymized and made accessible: This indicator was fully met.
+          Microdata for five of the core surveys have been anonymized and shared on the BBS website. Training on micro
+          data anonymization, survey documentation and metadata generation has also been provided to BBS officials.
+
+     •    PDO-level indicator 4 - Increased user satisfaction: this is indicator is fully met with over 84.6% percent of the
+          indicators showing improvements on satisfaction with use of official statistics.
+
+         Achievements of PDO and Intermediate Results Indicators by Components
+               Table 1. Component-wise Assessment of Achievement under Each PDO and Intermediate Indicators
+                    Indicator                                          Achievement
+             Component C: Improving the Coverage and Quality of Core Statistics required for Policy
+
+
+
+
+                                                                                                                     Page 11
+          The World Bank
+          National Strategy for Development of Statistics Implementation Support (P157987)                              ICR DOCUMENT
+
+
+             PDO Indicator 1: Core      Target fully achieved and surpassed. Seven out of the eight identified core
+             statistics are improved in statistics have been improved apart from Fisheries Statistics6.
+             line with international
+             standards                  Baseline: 0%; End Target: 50%; Actual: 87.5%
+             Component D: Promoting and Strengthening Access to and the Use of Statistics
+             PDO Indicator 2: Core      Target fully achieved. Four out of eight identified Core Statistics were
+             statistics are released    conducted and the data and reports are released as per an advance release
+             according to a pre-defined calendar, and made available on BBS’s new website. The advance release
+             calendar.                  calendar contains a timetable of when data and indicators will be released to
+                                        the public The New BBS website: http://nsds.bbs.gov.bd/en
+
+                                            Baseline: No formal release calendar was in place.
+                                            End Target: 40% of the core statistics are disseminated on time as announced
+                                            in the release calendar.
+                                            Actual: 50%. Formal release calendar prepared and is available on BBS
+                                            website
+             PDO Indicator 3: Core          Target fully achieved. The selected five core surveys’ microdata has been
+             surveys' microdata             anonymized and made accessible7.
+             anonymized and made
+             accessible.                    Baseline: 0%; End Target: 40%; Actual: 100%
+             PDO Indicator 4: Increased     Target fully achieved and surpassed. Two User Satisfaction Surveys (USS)
+             user satisfaction              were conducted.
+
+                                            Baseline: No formal strategy to gather users’ satisfaction;
+                                            End Target: 50% of indicators in the survey show improvement in user
+                                            satisfaction compared to baseline calculated from first user-satisfaction
+                                            survey.
+                                            Actual: 84.6% of indicators on satisfaction of use of official statistics show
+                                            improvement between the two USS Surveys.
+             Intermediate Indicator 1:      Target partially achieved. The Data Dissemination Policy including clear
+             Introduction of an effective   guidelines on how data will be shared with different users has been prepared
+             and clear dissemination        and approved by BBS management. The policy is yet to be approved by SID
+             policy                         before operationalization.
+
+                                       Baseline: No formal dissemination policy in place.
+                                       End Target: Approval of dissemination policy for core statistics.
+                                       Actual: Formal dissemination policy was prepared and approved by BBS
+                                       management but awaiting approval by SID for operationalization.
+             Component B: Developing Human Resources and ICT Infrastructure to produce and manage data
+
+
+
+
+6
+  Core statistics is considered improved if all the elements in the matrix are met, including the for methodological improvement,
+generating manual, piloting, and training (for details see Annex 6. The target for the fisheries statistics was not fully achieved given
+that the Department of Fisheries has the mandate, and that coordination is required to fully realized the methodological and quality
+improvement of fisheries statistics in line with the international standard. The BBS and Department of fisheries have agreed to
+coordinate activities towards improving fisheries statistics.
+7
+  See Annex 7 for the list of selected surveys anonymized and made accessible.
+
+                                                                                                                               Page 12
+        The World Bank
+        National Strategy for Development of Statistics Implementation Support (P157987)                                ICR DOCUMENT
+
+
+           Intermediate Indicator 2:       Target fully achieved. Following the current Training Plan about 6,455 BBS
+           Implementation of training      officials have been trained, of which 17.8% were female officials. Besides BBS,
+           policy to develop human         government officials, from other government agencies, were invited to the
+           resources.                      workshops and training programs conducted by the Project. The project also
+                                           delivered 2 courses for other government officials, and 2 for the media
+                                           personnel.
+
+                                           Baseline: Training done on an ad hoc basis.
+                                           End Target: Following training policy, 500 BBS staff trained (10% women),
+                                           delivery of 2 training courses to government officials, delivery of 2 training
+                                           courses to the media.
+
+           Intermediate Indicator 3:       Target fully achieved. ICT Plan and Roadmap has been prepared and
+           Investments in ICT              approved. The ICT plan includes a concrete implementation plan tailored for
+           infrastructure to support       BBS’s needs along with estimated costing.
+           data collection and
+           management.                     Baseline: Inadequate ICT infrastructure.
+                                           End Target: ICT plan is completed.
+                                           Actual: ICT Plan and Roadmap prepared and approved.
+           Intermediate Indicator 5:       Target fully achieved. Functional Review of BBS has been completed and the
+           Conducting assessments          report along with the Implementation Plan has been approved. About 15 staff
+           and training for better         have been trained on Financial Management and 40 officers have received
+           management systems              training on public procurement.
+
+                                           Baseline: No functional review done, limited procurement and financial
+                                           management skills.
+
+                                           End Target: Completed functional review of BBS, examining its functionality,
+                                           and devised an implementation plan to guarantee its sustainability for the
+                                           intended purpose. At least 4 staff trained on procurement and financial
+                                           management
+           Component A: Improving the Coordination and Management of Statistical Activities
+           Intermediate Indicator 4:  Target fully achieved and surpassed. About 5 MoUs signed and operational.
+           Mechanisms are put in      The National Advisory Committee on Statistics have been formed and 5
+           place to enhance           meetings held already.
+           coordination
+                                      Baseline: Coordination activities mostly on an ad hoc basis.
+                                      End Target: 4 MoUs signed and operational; 2 Meetings held by the National
+                                      Statistics Coordination Council.
+
+
+
+
+Justification of Overall Efficacy Rating
+
+50.     The project achieved its development objective and exceeded the targets of all the four PDO indicators. These
+indicators represented the core goals of the project, and their successful attainment indicates significant progress toward
+the desired outcomes.
+
+51.     The NSDS-ISP also targeted five intermediate-level indicators, four of which have been fully achieved and one
+
+                                                                                                                             Page 13
+        The World Bank
+        National Strategy for Development of Statistics Implementation Support (P157987)                    ICR DOCUMENT
+
+
+partially achieved. The five intermediate-level indicators were crucial steps toward achieving the PDOs. Of the five
+indicators, 4 were fully met and 1 partially met, directly contributing to the successful attainment of the PDOs.
+
+52.    Given the overall performance of NSDS ISP, the overall efficacy of the project is rated Substantial. Following the
+gains made through the implementation, the project results also constitute the baseline for scaling-up successful activities
+through the proposed Public Sector IPF and implementation of reforms proposed under the draft NSDS 2024-2030.
+
+
+
+    C. EFFICIENCY
+
+
+    Assessment of Efficiency and Rating
+
+    Rating: Substantial
+
+    Economic Analysis
+
+    53.     Official statistics, data production, and analysis are assumed to be public goods, and therefore the project
+    does not lend itself to conventional economic cost-benefit analysis. As public goods, official statistics in Bangladesh
+    have historically been financed from Government revenue and through contributions from development partners but
+    with no expected direct financial return.
+
+    54.      The benefits of the project come from the strengthened capacity of the country’s NSS. The NSDS-ISP
+    improved staff capacity to conduct large-scale statistical operations through on-the-job and focused training on
+    statistical methodologies and analysis. BBS through the project now has an improved and upgraded office facility, IT
+    equipment, and software. Field data collection capability was improved and strengthened through refresher trainings
+    for enumerators and building a roster of trained enumerators for future surveys and censuses. BBS through NSDS-ISP
+    technical support to BBS in estimating poverty and living conditions of the population using the 2022 HIES, and the
+    data were used in the release of the HIES survey report by BBS and are being used by the World Bank to conduct the
+    Poverty and Equity Assessment. The Government also benefited from all the data produced and supported through
+    the project including the 2022 HIES, 2022 Census, and Quarterly Labor Force Survey, and can utilize it for planning
+    and make evidence-based decisions. Researchers and students are also benefiting, using the data to conduct research.
+
+    55.    Moreover, expenses devoted to the production of statistics generate a good return on investment.
+    Research in lower middle-income contexts has demonstrated that the availability of quality, transparent, and timely
+    household and census data are crucial for social program targeting for poverty reduction and shared prosperity.
+
+    Aspects in Design and Implementation
+
+    56.     The PDO is relevant, realistic, and clear, and encompasses holistic approach to building capacity of BBS while
+    ensuring that essential data collection, processing, and dissemination. The technical design of the project is based on
+    the needs outlined in the NSDS 2013–2023 and confirmed during consultations with the key stakeholders. The project
+    is built upon lessons learned from similar statistical capacity-building activities in the region. It combined
+    methodological improvements through technical assistance (TA) and training, equipment, and ICT upgrading. The
+    design of the project was in line with international best practices on poverty and living standards survey as well as on
+    prices and national account data improvement. In addition, the project addressed the long-term needs of the BBS by
+    funding staff development, supporting its transition to an autonomous entity, and improving its infrastructure.
+
+                                                                                                                   Page 14
+        The World Bank
+        National Strategy for Development of Statistics Implementation Support (P157987)                   ICR DOCUMENT
+
+
+
+   57.     The project helped the use the CAPI. The NSDS-ISP supported survey pilots and main survey such as the HIES
+   to be carried out by using a CAPI-type collection based on the use of tablets and computers. This helped avoid the use
+   of paper questionnaires and reduce long delays for data entry after field work and data processing. With the adoption
+   of technology and appropriate training to BBS staff the period for data analysis and release of results were shortened.
+   As a result, survey results were disseminated within 1 to 3 months after data collection.
+
+   58.    The project’s key activities were delayed during implementation. NSDS-ISP, which was initially planned to
+   be conducted in 2020, was delayed and was successful in completing all project activities in achievement of the four
+   PDO level indicators by project closing.
+
+   59.     The main causes of delay were the following: (a) delay in setting up the PIU (b) lengthy timeline in attaining
+   the Cabinet Committee on Government Purchase (CCGP) approval on the one the main contract with the joint venture
+   Twinning Partner (TP) firm; and (c) the COVID-19 pandemic and related travel restriction, which caused significant
+   delays in implementing planned TP visits and surveys due to travel restriction.
+
+   60.     Project, with the support of the PIU, the Twinning Partner (TP) and the Bank team adapted quickly to
+   challenges and shifted to a virtual delivery model which enabled completion of all key tasks within due time. Due to
+   government advisory for external trainings and travels for civil servants, the intermediate level trainings that were to
+   be organized by the TP in different countries was dropped from the TP contract and the PIU tasked to organized within
+   the country. Therefore, project efficiency is rated Substantial.
+
+
+JUSTIFICATION OF OVERALL OUTCOME RATING
+
+Rating: Substantial
+
+61.      With the relevance of the PDO being rated High, the efficacy of achievement of PDO rated Substantial, and
+efficiency rated Substantial, the overall outcome of the project is rated Satisfactory. The PDO remains aligned with
+Bangladesh’s and the World Bank’s priorities and was consistent with managing for evidence-based policy making in the
+country. The project provided support to the Government’s NSDS reform plan with the objective of making BBS m ore
+efficient in collecting, producing, and disseminating official statistics.
+
+62.     BBS’s capacity to conduct large-scale statistical operations has improved. The database and results from these
+operations are disseminated and are being used by the Government, development partners, researchers, and students.
+
+   D. OTHER OUTCOMES AND IMPACTS
+
+
+Gender
+
+63.      The project collected poverty, demographic, health, and labor market data that allowed for the disaggregation
+of statistics by gender. The Household Income and Expenditure Survey (HIES) and Quarterly Labor Force Survey (LFS) for
+2022, supported by the project, is a useful source of information for conducting gender analyses and guiding gender
+policies and programs in the country. In addition, female staff benefited from extensive trainings carried out as part of
+the human resource capacity-building activities. The project also partnered with the technical support from the
+
+
+                                                                                                                  Page 15
+             The World Bank
+             National Strategy for Development of Statistics Implementation Support (P157987)                   ICR DOCUMENT
+
+
+     Strengthening Gender Statistics Project to improve collection, analysis, and dissemination of gender disaggregated data
+     in the survey. The NSDS ISP, and the SGS projects also collaborated to conducted different surveys, workshops and
+     knowledge exchange trip to Korea and Washington DC.
+
+     Institutional Strengthening
+
+     64.     NSDS-ISP supported the translation of the, the Statistics Act, 2013 into English, made public through the GoB
+     gazette notification dated September 2, 20208. This enabled the Statistics Act to be accessible by a wider audience
+     engaged in realm of statistical work.
+
+     65.     An assessment of the existing BBS structure and organogram was conducted through the project. This exercise
+     aimed to identify organizational inefficiencies, streamline operations, and optimize resource allocation. It produced
+     recommendations for structural changes, roles, and responsibilities realignment, and the introduction of new processes
+     and roles to enhance the effectiveness and efficiency of the BBS in fulfilling its statistical functions.
+
+     Mobilizing Private Sector Financing
+
+     66.      The project did not mobilize private sector financing. It supported activities for the generation and provision of
+     statistical products that are public in nature. These offer limited opportunities for revenue generation because public
+     funds and official development assistance finance them.
+
+     Poverty Reduction and Shared Prosperity
+
+     67.      The project financed the Household Income and Expenditure Survey for 2022. The poverty lines calculated from
+     the data from the BBS HIES survey plays a key role in identifying vulnerable populations and understanding the root
+     causes of poverty in Bangladesh. It provides the Government of Bangladesh with the right and timely information to
+     design and implement targeted interventions for those in need. The analysis from the HIES is an important resource in
+     informing the formulation of the government’s national plans, vision, and strategies, namely the ongoing Five-Year Plans
+     (FYP), as well as the Poverty GP’s Poverty and Equity Assessment reports.
+
+     68.     Data from the HIES survey serve as a tool to track progress towards poverty reduction goals and measure the
+     effectiveness of interventions. They help understand disparities and inequalities between diverse demographic groups,
+     enabling the formulation of policies that promote inclusive economic growth, ensuring that benefits reach marginalized
+     communities, and contributing to shared prosperity.
+
+     69.     In addition, the data from HIES are crucial to produce poverty maps at the zila and upazila levels of Bangladesh.
+     These maps, based on small area estimation of poverty, are an important tool for policymakers, who rely on the data to
+     allocate transfers and inform policy design. Poverty maps are also an important tool for researchers, who use them to
+     investigate the relationship between distribution within a country and growth or other economic, environmental, or
+     social outcomes.
+
+     Other Unintended Outcomes and Impacts
+
+     70.      In effort to improve coordination and enhance data sharing the project was able to sign and operationalize
+
+
+8
+    http://bdlaws.minlaw.gov.bd/upload/act/2022-01-31-10-31-57-53.The-Statistics-Act,-2013.pdf
+
+                                                                                                                       Page 16
+         The World Bank
+         National Strategy for Development of Statistics Implementation Support (P157987)                        ICR DOCUMENT
+
+
+  more than four originally intended MoUs with key government agencies. In addition, BBS was able sign one external
+  MoU with Statistics Korea (KOSTAT) and further enhance collaboration with US Census Bureau, Bureau of Labor Statistics
+  (BLS), the Office of National Statistics (ONS) in UK, the Oxford Poverty and Human Development Initiative (OPHI) and the
+  Oxford Policy Management (OPM). Through the Twinning Partner (TP), BBS was able also to utilize international expertise
+  from different domain of statistics, improve its efficiency in data collection culminating in first digital census. The project
+  further supported the review and update of the current NSDS (2013-2023) and the preparation of the next NSDS (2024-
+  2030) –through extensive national level dialogue and field consultation and expert review through wide consultation
+  with the international experts.
+
+  71.    The World Bank’s strategic engagement on statistical capacity enhancement and modernization in Bangladesh
+  has been multisectoral, with strong coordination between the WB project team, and the Environment, Natural
+  Resources, and Blue Economy team, pushing the envelope on the data front to end poverty on a livable planet.
+  Together with BBS the team is therefore focusing a larger statistical modernization program. In collaboration with other
+  programs, the project further provided technical assistance to BBS on various activities, including working with the (i)
+  IMF on National Accounts (NA) and (ii) WB through the Country Environmental Analysis (CES) for Building Back a Greener
+  Bangladesh (P175908) and the Strengthening Gender Statistics (SGS) project aimed at strengthening the capacity to
+  address gender data gaps.
+
+
+
+III. KEY FACTORS AFFECTED IMPLEMENTATION AND OUTCOME
+
+
+     A. KEY FACTORS DURING PREPARATION
+
+72.    During preparation, the project assessed the sectoral and institutional context and gaps in data production and
+dissemination and proposed a way forward. Although BBS had experience in data production, there were rooms for
+improvement in quality, coverage and use of core statistics required for national planning and economic management and
+for monitoring progress towards national goals.
+
+73.     Strengthening the professionalism of the NSS was identified as a crucial focus area. This involved, among others,
+increasing the skills and expertise of the workforce, enhancing the leadership capacity of the BBS, extensive trainings at
+the national and local level to build staff capacity.
+
+74.     The project design made it possible to strengthen procedures and internal process to make the statistical system
+more open and accountable. Through the TA support the project was able to enhance BBS’s capacity to collect, compile
+and disseminate official statistics, thus promoting and strengthening access to data at all levels of the society, based on
+an ‘open-data strategy’.
+
+     B. KEY FACTORS DURING IMPLEMENTATION
+
+Factors subject to Control of Government and Implementing Entities
+
+75.     The Government’s commitment to the implementation of the project was strong despite the difficulties at the
+start of the project linked to the weak capacity of BBS to ensure the financial management of the project. The
+government was able to introduce flexibility to implement the project during the COVID-19 pandemic and revise the TAPP
+
+                                                                                                                       Page 17
+         The World Bank
+         National Strategy for Development of Statistics Implementation Support (P157987)                    ICR DOCUMENT
+
+
+when necessary, after each approval of the project restructuring by the Bank.
+
+  Factors Subject to Control by the World Bank
+
+76.     The World Bank task team provided continuous support to the client during project preparation and
+implementation. The working team had extensive knowledge of NSDS, BBS as an institution and its operations, producing
+and disseminating statistics. Therefore, the project was based on the local situation and context, and it contributed to its
+successful design and implementation.
+
+77.      Project benefitted from a smooth transition between the project task team leaders and consultants through
+the project’s duration. The task team leadership and versatility were successfully transferred to the PIU core team working
+on the project from the design phase and remained until the end of the project, allowing retention of the project’s
+institutional memory.
+
+Factors beyond the Control of Government and Implementing Entities
+
+78.      Project implementation faced challenges during the Covid-19 outbreak and related lockdown and travel
+restrictions which hampered implementation of key project activities at the height of the pandemic. The government
+also introduce restriction for foreign travels of government officials due to low foreign currency reserve in the country.
+The PIU, Twinning Partner (TP) and the task team quickly adapted to a virtual modality which was successful in completing
+project deliverables on time.
+
+
+
+IV. BANK PERFORMANCE, COMPLIANCE ISSUES, AND RISK TO DEVELOPMENT OUTCOME
+
+
+     A. QUALITY OF MONITORING AND EVALUATION (M&E)
+
+
+ M&E Design
+
+ 79.    The project’s M&E framework focuses on accountability for results. To track the PDO and outcomes, the project
+ implementation team relied on the project M&E systems and the Results Framework. The Results Framework, as well as
+ the PDO and Intermediate results indicators were very clear. Tracking progress towards the intended outputs and
+ outcomes was supported by the M&E activities. NSDS PIU played an important role for the M&E function.
+
+ M&E Implementation
+
+ 80.     As part of the M&E system, the Bank’s task team, together with the PIU and TP, conducted Implementation
+ Status and Results (ISR) Missions every six-months to evaluate the overall performance and progress against PDO and
+ IP. During these missions the task team followed up on agreed actions with the client based on the ISR technical notes.
+ The various mission reports highlighted key implementation challenges and provided update on all issues,
+ recommendations, and progress on actions agreed upon during previous implementation support mission through Aide
+ Memoires/technical notes.
+
+
+
+
+                                                                                                                    Page 18
+         The World Bank
+         National Strategy for Development of Statistics Implementation Support (P157987)                   ICR DOCUMENT
+
+
+ M&E Utilization
+
+ 81.     The ISRs were utilized to provide management and the client with status and evidence of achievement of
+ project development outcomes. In addition, management Letters and project teams follow-ups provided avenues for key
+ decisions to be taken by BBS and SID and the support needed to successfully achieve project objectives and deliver the
+ implementation.
+
+ Justification of Overall Rating of Quality of M&E
+
+ Rating: Substantial.
+
+ 82.      The M&E system was effective from both the BBS and Bank side and was fully implemented as planned to
+ provide evidence to assess all dimensions of the PDO, and the project carried out periodic reporting. Therefore, the
+ overall quality rating for the quality of the M&E is considered Substantial.
+
+
+
+     B. ENVIRONMENTAL, SOCIAL, AND FIDUCIARY COMPLIANCE
+
+Environmental Compliance
+
+83.     The project is classified as Category C. The environmental performance of the project was deemed satisfactory
+at project closure.
+
+
+Social
+
+84.     Project activities had no negative social impact at the time of appraisal. The project was classified as Category C
+and did not trigger any social safeguard policy.
+
+Fiduciary Compliance
+
+85.     The projects procurement performance was generally rated Satisfactory. Priority was given to competitive
+bidding process in awarded contracts. The project made effective use of the World Bank’s Systematic Tracking of
+Exchanges in Procurement (STEP) tool. Recommendations of the supervision missions were followed up and implemented
+in project progress. The projects registered all the documentation of the contracts, deliverables, invoices, and other
+payment elements regularly in STEP. No critical were noted in implementing activities approved in the Procurement Plan
+during the implementation phase.
+
+86.      Project’s FM performance was rated Satisfactory, with residual FM risk assessed as moderate while it was high at
+the start of the project. The execution rate of the Annual Work Plan and the project disbursement rate were generally
+satisfactory. Throughout the implementation period, the project was compliant in submission of acceptable interim
+financial report (IFR) and audited financial statements with unqualified opinion. NSDS-ISP regularly ensured the full
+implementation of the control recommendations arising from the external audit reports. At the project’s completion, the
+disbursement rate was 92.60%.
+
+                                                                                                                   Page 19
+         The World Bank
+         National Strategy for Development of Statistics Implementation Support (P157987)                    ICR DOCUMENT
+
+
+
+
+      C. BANK PERFORMANCE
+
+
+Quality at Entry
+
+Rating: Satisfactory
+
+87.      The project reflected keen interest and commitment from BBS and the SID to improve the quality, coverage,
+and time release of its data. The project enhanced the capacity of BBS in collecting, managing, and disseminating data,
+promoting a user-centric enabling environment to make relevant data accessible for evidence-based policymaking and
+other uses. The project’s objectives were realistic, and the technical innovation proposed were aligned with the delivery
+of the first-ever digital census and introduction of the CAPI tool which greatly contributed to data quality through real-
+time field monitoring.
+
+88.     The risk assessment during the project preparation and implementation identified mitigation measures, which
+proved highly relevant. Particular attention was paid to GoB’s political support and the risk of duplication of efforts and
+investments by several DP’s financing vertical projects in BBS. The project’s components and activities were also aligned
+with the country’s development objectives and statistical needs. Although there were delays at the start of the project,
+particularly in setting up the PIU and hiring of the PIU staff and the TP, the project was able to support skills development
+to key project staff through retraining on project management, FM, and procurement.
+
+89.     Therefore, the quality at entry of the World Bank is rated Satisfactory.
+
+
+Quality of Supervision
+
+Rating: Satisfactory
+
+90.     The World Bank’s implementation support role was to facilitate effective project implementation and ensure
+value for money, transparency, and accountability. The Bank team provided close supervision to the project
+implementation. The TTL and other key project team members were also based in the country and therefore provided
+closer supervision and support to the project PIU and the implementing agency.
+
+91.      The project team also conducted regular supervision and implementation support missions. As evidenced by
+the series of 12 project ISRs produced over the project’s life, the task team conducted regular supervision missions and
+worked to resolve the issues which were raised. There were at least three implementation support mission per year during
+the project implementation (2018-2024) and one MTR mission. Efforts were made by the task team adapted to changing
+circumstances brough about by the COVID-19 pandemic and conducted virtual supervision missions to maintain support
+for the project implementation through the crisis period.
+
+92.     Therefore, the quality supervision of the World Bank during the implementation and support is rated Satisfactory.
+
+Justification of Overall Rating of Bank Performance
+
+93.     The overall performance of the World Bank is rated Satisfactory. The project was able to achieve the targets of
+
+
+                                                                                                                    Page 20
+         The World Bank
+         National Strategy for Development of Statistics Implementation Support (P157987)                     ICR DOCUMENT
+
+
+ the Results Framework enabled by the satisfactory quality of supervision, and some results exceeded targets, thus going
+ beyond the development objectives, while adhering to the fiduciary policies of the World Bank. The task team worked
+ closely with the client and were available to always provide support and guidance throughout the project’s lifecycle.
+
+ RISK TO DEVELOPMENT OUTCOME
+
+ 94.     The main risk to maintaining development results of the NSS from the start of the project to closure are linked
+ to GoB’s political support to provide the right enabling environment through the necessary legal, administrative, and
+ budgetary framework. Project successfully navigated any loss in political capital by being transparent on methodology to
+ produce statistics, making the methodology and data available in the public domain, and through overall strengthening
+ of BBS.
+
+ 95.      Risks relating to institutional capacity for implementation and sustainability, as well as fiduciary were
+ Substantial. The various project activities enhanced HR capacity and stewardship within BBS to tackle the challenges
+ of day-to-day work. Project undertook the time recruitment and training of FM staff and developed a comprehensive,
+ project specific FM manual as part of the operational manual for effectiveness. The intensive activities designed and
+ implemented through the support of the Twinning Partner will also ensure at least in the medium term the demand and
+ use of statistics. The gains made will however be continued through the support of the government core statistical
+ activities and reforms as proposed under the draft NSDS 2024-2030, and the proposed public sector operation which
+ include a large component on data that focus on improving the capacity of NSS and BBS.
+
+ 96.     On stakeholder risk comprising on the duplication of Development Partner (DP) financing, the PIU through the
+ BBS management organized regular meetings with key development partners around major statistical activities . Some
+ of the major activities around which DPs coordinated efforts include the Population and Housing Census, HIES, LFS, etc.
+
+
+
+V. LESSONS AND RECOMMENDATIONS
+
+97.      One of the lessons learned from the implementation of the NSDS ISP is the importance of close collaboration
+between the World Bank team, the PIU, BBS authority and the SID on the successful attainment of outcomes and
+address the unexpected challenges during the project implementation. Although the NSDS ISP project encountered
+delays at the start, it has made considerable contributions which was only possible as the project quickly adapted and
+addressed delays accession by COVID-19 pandemic, utilization of new and innovative technologies in data collection,
+overcoming some key institutional delays and adapting to change in government advisory in relation to foreign trainings
+by shifting to local subject matter trainings. One other key lesson from the implementation of NSDS ISP is that the quality
+and reliable data needs are large and deeply rooted in Bangladesh. Thus, support to BBS to improve the overall capacity
+is a long-term commitment and warrants a phased approach.
+
+98.      Main recommendation for future operations is that the ownership and the role of the PIU need to be
+strengthened and strategically situated within the NSO. The PIU therefore needs to be empowered and the Wings fully
+involved and supported through eligible budget with an internal prior approval mechanism in place based on workplans
+which does not delay planned activities. There is also need for any future operation to continue the momentum and focus
+on skills, modernization of physical, statistical, and ICT infrastructure both at national and sub-national levels to enhance
+capacity of the NSO and the NSS.
+
+
+                                                                                                                    Page 21
+              The World Bank
+              National Strategy for Development of Statistics Implementation Support (P157987)                                                                               ICR DOCUMENT
+
+
+                                                                   ANNEX 1. RESULTS FRAMEWORK AND KEY OUTPUTS
+
+@#&OPS~Doctype~OPS^dynamics@icrresultframework#doctemplate
+ A. RESULTS FRAMEWORK
+
+
+PDO Indicators by Outcomes
+
+1. Producing Quality Statistics
+           Indicator Name                               Baseline                    Closing Period (Original)              Closing Period (Current)          Actual Achieved at Completion
+                                             Result          Month/Year              Result          Month/Year             Result          Month/Year              Result      Month/Year
+Core statistics are improved in line          0.00            Mar/2018                                                      40.00             Feb/2024               87.50       Feb/2024
+with international standards              Comments on achieving targets         Improvement of Core statistics realized through the baseline review, update in methodology, and preparation
+(Percentage)                                                                    of the survey manuals based on the piloting of 7 out of the 8 identified core statistics.
+Making statistics available on time
+            Indicator Name                              Baseline                    Closing Period (Original)              Closing Period (Current)          Actual Achieved at Completion
+                                               Result              Month/Year        Result          Month/Year               Result          Month/Year            Result         Month/Year
+                                          No formal release         Mar/2018                                            40% of the core         Feb/2024     50%. Formal release     Feb/2024
+                                         calendar is in place.                                                             statistics are                     calendar prepared
+                                                                                                                        disseminated on                       and is available on
+                                                                                                                      time as announced                          BBS website
+Core statistics are released according                                                                                    in the release
+to a pre-defined calendar (Text)                                                                                             calendar.
+                                          Comments on achieving targets         Target fully achieved. Four out of eight identified Core Statistics were conducted and the data and reports are
+                                                                                released as per an advance release calendar, and made available on BBS’s new website. The advance release
+                                                                                calendar contains a timetable of when data and indicators will be released to the public The New BBS website:
+                                                                                http://nsds.bbs.gov.bd/en
+                                              0.00            Mar/2018                                                         40.00            Feb/2024            100.00           Feb/2024
+Core surveys' microdata anonymized        Comments on achieving targets         All the selected core survey microdata have been anonymized and made accessible. Metadata, codes, and
+made accessible (Percentage)                                                    manuals were generated, and the BBS Computer wing staff were trained to continue with the anonymization of
+                                                                                all the other survey data.
+
+
+
+
+                                                                                                                                                                                          Page 22
+              The World Bank
+              National Strategy for Development of Statistics Implementation Support (P157987)                                                                              ICR DOCUMENT
+
+
+                                     No formal strategy        Mar/2018                                           50% of indicators in        Feb/2024          84.60          Feb/2024
+                                      to gather users'                                                              the survey show
+                                        satisfaction                                                                improvement in
+                                                                                                                    user satisfaction
+                                                                                                                      compared to
+Increased user satisfaction (Text)
+                                                                                                                  baseline calculated
+                                                                                                                     from first user-
+                                                                                                                  satisfaction survey.
+                                      Comments on achieving targets         84.6% of indicators on satisfaction of use of official statistics show improvement between the two USS Surveys.
+
+
+
+
+Intermediate Indicators by Components
+
+
+Not Categorized
+           Indicator Name                           Baseline                    Closing Period (Original)              Closing Period (Current)           Actual Achieved at Completion
+                                           Result              Month/Year        Result          Month/Year            Result           Month/Year            Result          Month/Year
+Improving the coordination and management of statistical activities
+           Indicator Name                           Baseline                    Closing Period (Original)              Closing Period (Current)           Actual Achieved at Completion
+                                           Result              Month/Year        Result          Month/Year            Result           Month/Year            Result          Month/Year
+                                        Coordination            Apr/2018                                        4 MOUs Signed and        Feb/2024      5 MoUs signed and       Feb/2024
+                                     activities mostly on                                                        Operational. Two                     operational. About 5
+                                       an ad-hoc basis                                                           meetings held by                     NACS meetings have
+                                                                                                                 National Advisory                      so far been held.
+Mechanisms are put in place to                                                                                  Council on Statistics
+enhance coordination (Text)
+                                      Comments on achieving targets         After forming NACS, 1st meeting of NACS was held on June 27, 2021, and the 2nd meeting was held on April
+                                                                            6th, 2022. Subsequently, three other meetings were held in 2022 and 2023. A report on existing MoUs with
+                                                                            suggestions for improvement and a report on using administrative data for official statistics were prepared to
+                                                                            achieve this result indicator.
+                                        No functional          Mar/2018                                             Completed            Feb/2024         The functional       Feb/2024
+                                    review done, limited                                                        functional review of                    review of BBS has
+Conducting assessments and training
+                                      procurement and                                                            BBS, examining its                     been completed.
+for better management systems ()
+                                          financial                                                              functionality, and                     The report, along
+                                     management skills                                                              devised an                               with the
+
+
+                                                                                                                                                                                       Page 23
+             The World Bank
+             National Strategy for Development of Statistics Implementation Support (P157987)                                                                     ICR DOCUMENT
+
+
+                                                                                                           implementation                      implementation
+                                                                                                        plan to guarantee its                   plan, has been
+                                                                                                        sustainability for the               approved. About 15
+                                                                                                         intended purpose.                      Staff members,
+                                                                                                            At least 4 staff                including those from
+                                                                                                              trained on                      the FA&MIS Wing,
+                                                                                                          procurement and                   have been trained in
+                                                                                                               financial                           Financial
+                                                                                                            management                        Management, and
+                                                                                                                                               40 officials have
+                                                                                                                                                been trained in
+                                                                                                                                            Public Procurement.
+                                      Comments on achieving targets   Target fully achieved. Functional Review of BBS has been completed and the report along with the
+                                                                      Implementation Plan has been approved. About 15 staff have been trained on Financial Management and 40
+                                                                      officers have received training on public procurement.
+                                                                                                        4 MOUs signed and        Feb/2024   After forming NACS,        Apr/2023
+                                                                                                          operational; 2                    1st meeting of NACS
+                                                                                                         Meetings held by                      was held on June
+                                                                                                         National Statistics                  27, 2021, and the
+                                                                                                           Coordination                     2nd meeting held on
+                                                                                                              Council                          April 6th, 2022.
+                                                                                                                                              Report on Existing
+                                                                                                                                                  MoUs with
+Mechanisms are put in place to                                                                                                                  suggestions for
+enhance coordination ()                                                                                                                       improvement and
+                                                                                                                                            Report on the use of
+                                                                                                                                             administrative data
+                                                                                                                                             for official statistics
+                                                                                                                                               was prepared for
+                                                                                                                                            achieving this Result
+                                                                                                                                               Indicator. Three
+                                                                                                                                              MoUs were signed
+                                                                                                                                            and are operational.
+                                        No functional      Mar/2018                                          Completed           Feb/2024        Report on             Apr/2023
+Conducting assessments and training review done, limited                                                functional review of                Functional review of
+for better management systems ()      procurement and                                                       the BBS and                      BBS was prepared
+                                                                                                          implementation
+
+
+                                                                                                                                                                             Page 24
+             The World Bank
+             National Strategy for Development of Statistics Implementation Support (P157987)                                                                                 ICR DOCUMENT
+
+
+                                           financial                                                               plan developed to                         as draft final
+                                       management skills                                                            ensure fitness of                        deliverables.
+                                                                                                                   purpose. At least 4
+                                                                                                                     staff trained on
+                                                                                                                    procurement and
+                                                                                                                         financial
+                                                                                                                      management.
+Developing human resources and ICT infrastructure to produce and manage data
+           Indicator Name                             Baseline                     Closing Period (Original)             Closing Period (Current)           Actual Achieved at Completion
+                                             Result              Month/Year        Result           Month/Year            Result           Month/Year           Result            Month/Year
+                                       Training done on an        Apr/2018                                         Following training       Feb/2024          Following the        Feb/2024
+                                           ad-hoc basis                                                           policy, 500 BBS staff                     current Training
+                                                                                                                      trained (10%                          Plan about 6,455
+                                                                                                                  women), delivery of                      BBS officials have
+                                                                                                                  2 training courses to                     been trained, of
+                                                                                                                       government                          which 17.8% were
+                                                                                                                  officials, delivery of                    female officials.
+                                                                                                                  2 training courses to                        Besides BBS,
+                                                                                                                        the media.                             government
+                                                                                                                                                          officials, from other
+                                                                                                                                                               government
+                                                                                                                                                             agencies, were
+Implementation of training policy to                                                                                                                          invited to the
+develop human resources (Text)                                                                                                                               workshops and
+                                                                                                                                                           training programs
+                                                                                                                                                           conducted by the
+                                                                                                                                                          Project. The project
+                                                                                                                                                            also delivered 2
+                                                                                                                                                           courses for other
+                                                                                                                                                               government
+                                                                                                                                                           officials, and 2 for
+                                                                                                                                                         the media personnel
+                                        Comments on achieving targets         Target fully achieved. Following the current Training Plan about 6,455 BBS officials have been trained, of which
+                                                                              17.8% were female officials. Besides BBS, government officials, from other government agencies, were invited
+                                                                              to the workshops and training programs conducted by the Project. The project also delivered 2 courses for
+                                                                              other government officials, and 2 for the media personnel
+
+
+                                                                                                                                                                                         Page 25
+              The World Bank
+              National Strategy for Development of Statistics Implementation Support (P157987)                                                                              ICR DOCUMENT
+
+
+                                           Inadequate ICT           Apr/2018                                      ICT Plan along with       Feb/2024    ICT Plan completed        Feb/2024
+                                            infrastructure                                                        Roadmap has been                      along with roadmap
+Investments in ICT infrastructure to
+                                                                                                                     prepared and                       has been completed
+support data collection and
+                                                                                                                       approved.                           and approved.
+management (Text)
+                                          Comments on achieving targets         Target achieved. ICT Plan and roadmap prepared, completed, and approved.
+
+                                         Training done on an       Mar/2018                                        Following training       Feb/2024       Manual for HR          Apr/2023
+                                             ad-hoc basis                                                         policy, 500 BBS staff                     Management,
+                                                                                                                      trained (10%                         Training policy,
+                                                                                                                  women), delivery of                    Training Plan and
+                                                                                                                  2 training courses to                 Training Inventory-
+Implementation of training policy to
+                                                                                                                       government                             these 04
+develop human resources ()
+                                                                                                                  officials, delivery of                 deliverables were
+                                                                                                                  2 training courses to                 developed as draft
+                                                                                                                          media                           final. More than
+                                                                                                                                                         2500 BBS officials
+                                                                                                                                                         received training.
+                                           Inadequate ICT          Mar/2018                                            ICT plan is          Feb/2024     Draft ICT Plan and       Apr/2023
+                                            infrastructure                                                             completed                        roadmap prepared.
+Investments in ICT infrastructure to
+                                                                                                                                                         The final version
+support data collection and
+                                                                                                                                                         addressing initial
+management ()
+                                                                                                                                                           comments on
+                                                                                                                                                         August 29, 2023.
+Promoting and strengthening access to and the use of official statistics
+           Indicator Name                               Baseline                    Closing Period (Original)            Closing Period (Current)          Actual Achieved at Completion
+                                               Result              Month/Year       Result           Month/Year          Result            Month/Year          Result            Month/Year
+                                              No formal             Apr/2018                                           Approval of          Feb/2024    Data Dissemination        Feb/2024
+                                         dissemination policy                                                     dissemination policy                     policy for core
+                                               in place                                                            for core statistics.                  statistics has been
+Introduction of an effective and clear                                                                                                                     prepared and
+dissemination policy (Text)                                                                                                                               approved by BBS
+                                                                                                                                                          management but
+                                                                                                                                                            has not been
+                                                                                                                                                        operationalized. It is
+
+
+
+
+                                                                                                                                                                                        Page 26
+              The World Bank
+              National Strategy for Development of Statistics Implementation Support (P157987)                                                                       ICR DOCUMENT
+
+
+                                                                                                                                                    awaiting SID's
+                                                                                                                                                      approval.
+                                          Comments on achieving targets    Data Dissemination policy has been prepared, approved by BBS management, and under consideration for
+                                                                           approval by the SID management.
+                                              No formal         Mar/2018                                          Approval of        Feb/2024    Data policy is under   Apr/2023
+                                         dissemination policy                                                dissemination policy                   review. Existing
+                                               in place                                                        for core statistics                    Micro data
+                                                                                                                                                 dissemination policy
+Introduction of an effective and clear
+                                                                                                                                                        of BBS is
+dissemination policy ()
+                                                                                                                                                  incorporated into
+                                                                                                                                                  data policy, and to
+                                                                                                                                                 form dissemination
+                                                                                                                                                         policy.
+
+
+
+
+                                                                                                                                                                                  Page 27
+         The World Bank
+         National Strategy for Development of Statistics Implementation Support (P157987)                                              ICR DOCUMENT
+
+
+B. KEY OUTPUTS
+
+    Selected key project outputs by components.
+
+COMPONENT                                    SUB-COMPONENTS                                    OUTPUTS
+COMPONENT A: IMPROVING THE                   A.1. Improving the coordination with other data   Report on MoUs
+COORDINATION AND MANAGEMENT OF               producers                                         Report on Administrative Data
+STATISTICAL ACTIVITIES                       A.2. Strengthening Management Systems             Report on Functional Review of BBS
+                                                                                               Report on HR Recruitment
+                                                                                               Training on Quality Management
+COMPONENT B: DEVELOPING HUMAN                Component B1: Developing Human Resources          Training Policy
+RESOURCES AND ICT INFRASTRUCTURE                                                               Training Plan
+TO PRODUCE AND MANAGE DATA                                                                     Training Inventory
+                                                                                               Training Materials
+                                                                                               Basic Training (500)
+                                             Component B2: Developing ICT Infrastructure to    Website Development
+                                             produce and manage data                           ICT Plan
+
+COMPONENT C: IMPROVING THE COVERAGE          C.1 Improving the Coverage and Quality of Core    Baseline Review of Core Statistics
+AND QUALITY OF CORE STATISTICS REQUIRED      Statistics Required for Policy and Planning       Improvements in Core Statistics
+FOR POLICY AND PLANNING                                                                        Manuals on Improved Methodologies
+
+COMPONENT D: PROMOTING AND                   D.1. Implementing an effective and clear          Advance Release Calendar
+STRENGTHENING ACCESS TO AND THE USE OF       dissemination policy
+OFFICIAL STATISTICS                                                                            Protocol for Advance Release Calendar
+                                             D.2. Documenting statistical activities and       Data Visualization
+                                             providing better access to metadata               Metadata Documentation
+                                                                                               Codes and Syntaxes
+                                                                                               Survey Documentation
+COMPONENT D: PROMOTING AND                   D.3. Expanding access to microdata for further    Data Policy
+
+
+                                                                                                                                              Page 28
+         The World Bank
+         National Strategy for Development of Statistics Implementation Support (P157987)                        ICR DOCUMENT
+
+
+STRENGTHENING ACCESS TO AND THE USE OF       research and analysis
+OFFICIAL STATISTICS
+                                                                                            Data Anonymization
+
+
+
+
+                                                                                                                        Page 29
+         The World Bank
+         National Strategy for Development of Statistics Implementation Support (P157987)                 ICR DOCUMENT
+
+
+
+ANNEX 2. BANK LENDING AND IMPLEMENTATION SUPPORT/SUPERVISION
+
+    A. TASK TEAM MEMBERS
+
+
+  Name                                                        Role
+  Ayago Esmubancha Wambile                                    Team Leader
+  Mohammed Atikuzzaman                                        Financial Management Specialist
+  Arafat Istiaque                                             Procurement Specialist
+  Iqbal Ahmed                                                 Environmental Specialist
+  Sabah Moyeen                                                Social Specialist
+  Utz Johann Pape                                             Peer Reviewer
+  Kathleen G. Beegle                                          Peer Reviewer
+  Olga Shabalina                                              Peer Reviewer
+  Nafisa Rusmila                                              Procurement Team
+  Shourov Kumar Sharma                                        Procurement Team
+  Mir Rahman                                                  Procurement Team
+  Shahnun Nima Tania                                          Procurement Team
+  Bibhuti Chakma                                              Team Member
+  Amparo Lezama Manta                                         Team Member
+  Vidya Venugopal                                             Team Member
+  Sergio Daniel Olivieri                                      Team Member
+  Rumana Islam                                                Team Member
+  Igor Kecman                                                 Team Member
+  Satish Kumar Shivakumar                                     Team Member
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@icrannexstafftime#doctemplate
+    B. STAFF TIME & COST
+
+
+                                                                         Staff Time & Cost
+ Stage of Project Cycle
+                                         No. of Staff Weeks                   US$ (including travel and consultant costs)
+
+ Preparation
+
+
+                                                                                                                    Page 30
+        The World Bank
+        National Strategy for Development of Statistics Implementation Support (P157987)   ICR DOCUMENT
+
+
+FY16                                                            19.665                      126,557.72
+
+FY17                                                            31.695                      181,102.32
+
+FY18                                                            32.566                      179,377.41
+
+FY19                                                             0.000                           12.17
+
+Total                                                             83.93                     487,049.62
+
+Supervision/ICR
+FY18                                                            13.475                       70,437.95
+
+FY19                                                            29.292                      137,457.18
+
+FY20                                                            37.226                      185,893.87
+
+FY21                                                            41.702                      149,689.71
+
+FY22                                                            31.623                      233,244.53
+
+FY23                                                            56.192                      352,586.08
+
+FY24                                                            23.679                      112,510.47
+
+FY25                                                             0.333                         2,402.09
+
+Total                                                            233.52                    1,244,221.88
+
+
+
+
+                                                                                                   Page 31
+The World Bank
+National Strategy for Development of Statistics Implementation Support (P157987)   ICR DOCUMENT
+
+
+
+
+                                                                                          Page 32
+         The World Bank
+         National Strategy for Development of Statistics Implementation Support (P157987)             ICR DOCUMENT
+
+
+
+ANNEX 3. PROJECT COST BY COMPONENT
+
+ Component                                Amount at Approval (US$M)          Actual at Project Closing (US$M)
+
+ Improving the coordination and
+                                                                       1.0
+ management of statistical activities
+
+ Developing human resources and
+ ICT infrastructure to produce and                                     5.0
+ manage data
+
+ Improving the coverage and quality
+ of core statistics required for policy                                7.0
+ making
+
+ Promoting and strengthening access
+                                                                       0.8
+ to and the use of official statistics
+
+ Project Management                                                    1.2
+
+
+
+
+                                                                                                                Page 33
+          The World Bank
+          National Strategy for Development of Statistics Implementation Support (P157987)                  ICR DOCUMENT
+
+
+
+ANNEX 4. PDO level Indicator 4: Increased User Satisfaction
+
+  Two USS surveys were conducted – the first round in 2022 and the second round in 2024. The table below provides
+proportion of respondents indicating satisfaction with their use of official statistics across the two surveys.
+             Name of the official statistics          1st User            2nd User satisfaction
+                                                satisfaction survey- survey-2024 (End line-
+                                                 2022 (Baseline-1st             2nd Round)           Improvement
+                                                       Round)
+                                                                              Percentage of
+                                                   Percentage of               respondents
+                                                    respondents          reporting– Useful and
+                                                 reporting – Useful               above
+                                                     and above
+                     1. Agriculture Statistics          81.82                      84.05                    ✓
+                       2. National Accounts             85.08                      84.84                    ×
+                                     Statistics
+                           3. Price Statistics          77.33                      81.14                    ✓
+                  4. Foreign Trade Statistics           87.18                      79.7                      ×
+                        5. Industry Statistics          77.78                      78.34                    ✓
+                         6. Labour Statistics           76.56                      81.44                    ✓
+                     7. Income and Poverty              79.52                      82.71                    ✓
+                                     Statistics
+                8. Population, Demographic,             84.24                      84.46                    ✓
+                           and Vital Statistics
+                     9. Health and Nutrition            74.22                      83.14                    ✓
+                                     Statistics
+                         10. Gender Statistics           80                        82.08                    ✓
+                      11. Education Statistics          82.98                      84.67                    ✓
+                   12. Environment Statistics           73.85                      82.87                    ✓
+                  13. Crime/Judicial Statistics          75                        76.19                    ✓
+
+
+
+ANNEX 5. Theory of Change (ex-post)
+For this Implementation Completion and Results Report (ICR), the ICR team also constructed a detailed Theory of Change
+(ToC) ex-post and retrofitted the details from the PAD and the project Results Framework and its detailed descriptions. The
+project activities, outputs, outcomes, and its expected impact have been schematized. Activities under project
+management had an overall impact on all outcomes/objectives and contributed to the attainment of the Project
+Development Objective (PDO).
+
+
+
+
+                                                                                                                      Page 34
+          The World Bank
+          National Strategy for Development of Statistics Implementation Support (P157987)               ICR DOCUMENT
+
+
+
+
+ANNEX 6. List of selected core statistics improved.
+
+                                                             Matrix to improve Core Statistics in line
+                                                                                                         Completed
+                                                                  with International Standards
+Selected Core                                                                           Manual on
+                                     Survey           Baseline
+Statistics                                                               Improved       Sampling
+                                                      review of Core
+                                                                         methodology Design with
+                                                      Statistics
+                                                                                        pilot testing
+                          Health and Mortality
+Health Statistics                                             Yes              Yes               Yes        Yes
+                          Survey
+Labor Statistics          Labor Force Survey                  Yes               Yes              Yes        Yes
+                          Survey of Manufacturing
+Industry Statistics                                           Yes               Yes              Yes        Yes
+                          sector
+Price Statistics          Consumer Price Index                Yes              Yes               Yes        Yes
+                          Quarterly National
+National Accounts                                             Yes              Yes               Yes        Yes
+                          Accounts
+Agricultural statistics   Crop Statistics                     Yes               Yes              Yes        Yes
+Agricultural statistics   Fisheries statistics                Yes               No               No         No
+Poverty / Welfare         Household Income and
+                                                              Yes               Yes              Yes        Yes
+Statistics                Expenditure Survey
+
+
+
+                                                                                                                  Page 35
+          The World Bank
+          National Strategy for Development of Statistics Implementation Support (P157987)                ICR DOCUMENT
+
+
+
+
+ANNEX 7. List of core surveys to be anonymized and made accessible.
+
+                                                                                                Microdata anonymized
+                                                                                                and made accessible on
+   Sn    Core Statistics                                         Survey                              the website
+   1     Health Statistics                 Multiple indicator cluster survey                             Yes
+   2     Health Statistics                 Health and morbidity survey                                   Yes
+   3     Labor Statistics                  Labor Force Survey                                            Yes
+   4     Industry Statistics               Survey of Manufacturing Industry (SMI)                        Yes
+   5     Poverty / Welfare Statistics      Household Income and Expenditure Survey                       Yes
+
+
+
+ANNEX 8. Selected significant Activities Carried Out Under the Project
+
+   •    A large-scale Consultation workshop was organized on February 24, 2019, titled "Bangladesh: Role of Statistics
+        towards the Development Journey".
+   •    Launching Workshops were organized on 23rd June 2019 at Pan Pacific Sonargaon Hotel and on 24th June 2019 at
+        the conference room of BBS.
+   •    Under this project, the Statistics Act, 2013, translated into English (Statistics Act, 2013) which was gazette on
+        September 08, 2020.
+   •    During Covid Pandemic - the Perception Survey on Livelihood 2020 was conducted from 13 September 2020 to 19
+        September 2020 with the support of NSDS-ISP
+   •    A high-level Council ‘National Advisory Council on Statistics (NACS)’ was formed.
+   •    Prepare and publish BBS Glossary (Concepts and Definitions) with 2041 standardized concepts and definitions.
+   •    Two rounds of User Satisfaction Survey (USS) were conducted (Base line in 2022 and End line in 2024).
+   •    Financial and technical assistance were provided to Household Income & Expenditure Survey (HIES) 2022, Labor
+        Force Survey (LFS) 2022, Population and Housing census 2022 and background work of National Population Register
+        (NPR).
+   •    Pre-test and Piloting activities of Annual Crop Production Survey (ACPS), Health and Morbidity Status Survey
+        (HMSS) and Survey of Manufacturing (SMI) were conducted.
+   •    Four Memorandum of Understanding (MoU) were signed between Bangladesh Bureau of Statistics (BBS) and
+        Bangladesh Bank, Finance Division, National Board of Revenue (NBR) and Federation of Bangladesh Chambers of
+        Commerce and Industry (FBCCI) to enrich the statistical system and to establish institutional relationship.
+
+
+
+
+                                                                                                                    Page 36
+

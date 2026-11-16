@@ -1,0 +1,2480 @@
+                                                  FOR OFFICIAL USE ONLY
+                                                                                                         Report No: PADHI00394
+
+
+                           INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT
+
+                                                              AND
+
+                                      INTERNATIONAL DEVELOPMENT ASSOCIATION
+
+                                              PROJECT APPRAISAL DOCUMENT
+
+                                                               ON
+
+                                                   ON A PROPOSED CREDIT
+
+                                            IN THE AMOUNT OF US$120 MILLION
+
+                                                            TO THE
+
+                                                    REPUBLIC OF RWANDA
+
+                                                            FOR THE
+
+   RWANDA HEALTH EMERGENCY PREPAREDNESS, RESPONSE AND RESILIENCE PROJECT USING THE MULTIPHASE
+                              PROGRAMMATIC APPROACH (PHASE 4)
+
+APPROVED BY THE BOARD ON SEPTEMBER 29, 2023, WITH AN OVERALL IDA ENVELOPE OF US$1 BILLION EQUIVALENT
+
+                                                              AND
+
+                              PROPOSED TO BE INCREASED TO US$1.5 BILLION EQUIVALENT
+
+                                                          May 3, 2024
+
+
+
+   Health, Nutrition & Population Global Practice
+   Eastern And Southern Africa Region
+
+
+ This document has a restricted distribution and may be used by recipients only in the performance of their official duties. Its
+ contents may not otherwise be disclosed without World Bank authorization.
+                      CURRENCY EQUIVALENTS
+
+              Exchange Rate Effective March 31, 2024
+
+   Currency Unit Rwandan Franc = RWF.
+                            1,286.00 RWF = US$1.00
+
+                            FISCAL YEAR
+                      January 1 – December 31
+
+
+
+
+Regional Vice President: Victoria Kwakwa
+     Regional Director: Daniel Dulitzky
+      Country Director: Keith E. Hansen
+     Practice Manager: Francisca Ayodeji Akala
+                         Ramesh Govindaraj, Amparo Elena Gordillo-Tobar, Joao Verissimo
+    Task Team Leaders:
+                         Figueiredo Rodrigues E Pires, Nkosinathi Vusizihlobo Mbuya
+                         ABBREVIATIONS AND ACRONYMS
+
+AFE       Eastern and Southern Africa
+AFRO      Regional Office for Africa
+AWPB      Annual Work Plan and Budget
+CERC      Contingent Emergency Response Component
+CHW       Community Health Worker
+DRC       Democratic Republic of Congo
+E&S       Environment and Social
+ESS       Environmental and Social Standards
+ECSA-HC   East, Central, and Southern Africa Health Community
+ESMF      Environmental and Social Management Framework
+FM        Financial Management
+GHG       Greenhouse Gas
+GRS       Grievance Redress Service
+HE        Health Emergencies
+HEPRR     Health Emergency Preparedness, Response and Resilience
+IDA       International Development Association
+IGAD      Intergovernmental Authority on Development
+JEE       Joint External Evaluation
+MCH       Maternal and Child Health
+MPA       Multiphase Programmatic Approach
+MTR       Mid-Term Review
+MWMP      Medical Waste Management Plan
+NCD       Noncommunicable disease
+NHEROP    National Health Emergency Response Operations Plan
+PAD       Project Appraisal Document
+PDO       Project Development Objective
+PrDO      Program Development Objective
+PIM       Project Implementation Manual
+RBC       Rwanda Biomedical Centre
+MNCH      Maternal Neonatal Children Health
+SDG       Sustainable Development Goal
+SLIPTA    Stepwise Laboratory Improvement Process
+SPIU      Single Project Implementation Unit
+TA        Technical Assistance
+WHO       World Health Organization
+          The World Bank
+          Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+          Approach (P504764)
+
+
+
+                                                            TABLE OF CONTENTS
+
+DATASHEET ........................................................................................................................... ii
+I.    STRATEGIC CONTEXT ...................................................................................................... 9
+      A. Country Context ................................................................................................................................ 9
+      B. Sectoral and Institutional Context .................................................................................................... 9
+      C. Relevance to Higher Level Objectives ............................................................................................. 10
+      D. Multiphase Programmatic Approach.............................................................................................. 11
+II.   PROJECT DESCRIPTION.................................................................................................. 15
+      A. Project Development Objective ...................................................................................................... 15
+      B. Project Components ....................................................................................................................... 15
+      C. Project Beneficiaries ....................................................................................................................... 18
+      D. Rationale for Bank Involvement and Role of Partners ................................................................... 18
+      E. Lessons Learned .............................................................................................................................. 18
+III. IMPLEMENTATION ARRANGEMENTS ............................................................................ 19
+      A. Institutional and Implementation Arrangements ........................................................................... 19
+      B. Results Monitoring and Evaluation Arrangements ......................................................................... 19
+      C. Sustainability ................................................................................................................................... 19
+      D. Alignment with Corporate Commitments ...................................................................................... 20
+IV. PROJECT APPRAISAL SUMMARY ................................................................................... 21
+      A. Technical, Economic and Financial Analysis .................................................................................. 21
+      B. Fiduciary .......................................................................................................................................... 22
+      C. Legal Operational Policies ............................................................................................................... 23
+      D. Environmental and Social ............................................................................................................... 23
+V.    GRIEVANCE REDRESS SERVICES ..................................................................................... 24
+VI. KEY RISKS...................................................................................................................... 24
+VII. RESULTS FRAMEWORK AND MONITORING ................................................................... 26
+ANNEX 1: Implementation Arrangements and Support Plan ................................................. 33
+ANNEX 2: Climate Change .................................................................................................... 35
+
+
+
+
+                                                                                                                                                                   i
+      The World Bank
+      Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+      Approach (P504764)
+
+
+@#&OPS~Doctype~OPS^dynamics@padbasicinformation#doctemplate
+DATASHEET
+
+
+BASIC INFORMATION
+
+
+Project
+                         Operation Name
+Beneficiary(ies)
+                         Rwanda Health Emergency Preparedness, Response and Resilience Project Using the
+Rwanda
+                         Multiphase Programmatic Approach
+                                                   Environmental and Social Risk
+Operation ID             Financing Instrument
+                                                   Classification
+                         Investment Project
+P504764                                            Substantial
+                         Financing (IPF)
+
+@#&OPS~Doctype~OPS^dynamics@padmpaprocessing#doctemplate
+Financing & Implementation Modalities
+[✓] Multiphase Programmatic Approach (MPA)                    [✓] Contingent Emergency Response Component (CERC)
+[ ] Series of Projects (SOP)                                  [ ] Fragile State(s)
+[ ] Performance-Based Conditions (PBCs)                       [ ] Small State(s)
+[ ] Financial Intermediaries (FI)                             [ ] Fragile within a non-fragile Country
+[ ] Project-Based Guarantee                                   [ ] Conflict
+[ ] Deferred Drawdown                                         [✓] Responding to Natural or Man-made Disaster
+[ ] Alternative Procurement Arrangements (APA)                [ ] Hands-on Expanded Implementation Support (HEIS)
+
+
+Expected Approval Date                Expected Closing Date                    Expected Program Closing Date
+21-May-2024                           31-Mar-2030                              30-Sep-2030
+Bank/IFC Collaboration
+No
+
+
+@#&OPS~Doctype~OPS^dynamics@padmpa#doctemplate
+MPA Program Development Objective
+The MPA Program Development Objective (PrDO) is to strengthen health system resilience and multisectoral
+preparedness and response to health emergencies in Eastern and Southern Africa.
+
+MPA FINANCING DATA (US$, Millions)
+
+                                                                                                                    ii
+     The World Bank
+     Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+     Approach (P504764)
+
+
+MPA Program Financing Envelope                                              1,500.00
+
+        with an additional request to IBRD                                    190.00
+
+        with an additional request to IDA                                     310.00
+
+Proposed Development Objective(s)
+The PDO is to strengthen health system resilience and multisectoral preparedness and response to health emergencies
+in the Republic of Rwanda.
+
+Components
+ Component Name                                                                                         Cost (US$)
+ Component 1: Strengthening the Preparedness and Resilience of the Health
+                                                                                                    65,600,000.00
+ System to manage HEs
+ Component 2: Improving early detection of and response to HEs through a
+                                                                                                    49,400,000.00
+ multisectoral approach
+ Component 3: Project Management                                                                     5,000,000.00
+ Component 4: Contingent Emergency Response                                                                   0.00
+
+
+Organizations
+Borrower:                       The Republic of Rwanda
+Implementing Agency:            Rwanda Biomedical Centre
+
+
+MPA FINANCING DETAILS (US$, Millions)
+
+Board Approved MPA Financing Envelope                                       1,000.00
+MPA Financing Envelope:                                                     1,500.00
+
+     of which Bank Financing (IBRD):                                          190.00
+
+     of which Bank Financing (IDA):                                         1,310.00
+
+     of which Other Financing sources:                                          0.00
+
+
+@#&OPS~Doctype~OPS^dynamics@padfinancingsummary#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                  No
+
+                                                                                                                 iii
+        The World Bank
+        Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+        Approach (P504764)
+
+
+
+Is this project Private Capital Enabling (PCE)?                 No
+
+SUMMARY
+
+  Total Operation Cost                                                                                        120.00
+
+  Total Financing                                                                                             120.00
+               of which IBRD/IDA                                                                               120.00
+
+  Financing Gap                                                                                                  0.00
+
+DETAILS
+
+ World Bank Group Financing
+   International Development Association (IDA)                                                                 120.00
+
+        IDA Credit                                                                                             120.00
+
+
+IDA Resources (US$, Millions)
+
+                                                                                            Guarantee
+                             Credit Amount        Grant Amount        SML Amount                          Total Amount
+                                                                                              Amount
+
+National
+Performance-Based                   120.00                   0.00            0.00                0.00           120.00
+Allocations (PBA)
+
+Total                               120.00                   0.00            0.00                0.00           120.00
+
+
+@#&OPS~Doctype~OPS^dynamics@paddisbursementprojection#doctemplate
+Expected Disbursements (US$, Millions)
+WB Fiscal
+Year                 2024           2025             2026            2027           2028         2029          2030
+
+Annual               20.00          35.00            20.00           20.00          10.00        10.00         5.00
+Cumulative           20.00          55.00            75.00           95.00      105.00           115.00       120.00
+
+
+@#&OPS~Doctype~OPS^dynamics@padclimatechange#doctemplate
+PRACTICE AREA(S)
+
+
+
+                                                                                                                       iv
+      The World Bank
+      Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+      Approach (P504764)
+
+
+Practice Area (Lead)                                          Contributing Practice Areas
+Health, Nutrition & Population                                Gender
+
+CLIMATE
+
+
+Climate Change and Disaster Screening
+Yes, it has been screened and the results are discussed in the Operation Document
+
+
+@#&OPS~Doctype~OPS^dynamics@padrisk#doctemplate
+SYSTEMATIC OPERATIONS RISK- RATING TOOL (SORT)
+
+
+Risk Category                                                               Rating
+1. Political and Governance                                                  Moderate
+2. Macroeconomic                                                             Moderate
+3. Sector Strategies and Policies                                            Moderate
+4. Technical Design of Project or Program                                    Substantial
+5. Institutional Capacity for Implementation and Sustainability              Substantial
+6. Fiduciary                                                                 Moderate
+7. Environment and Social                                                    Substantial
+8. Stakeholders                                                              Substantial
+9. Overall                                                                   Substantial
+Overall MPA Program Risk                                                     Substantial
+
+
+@#&OPS~Doctype~OPS^dynamics@padcompliance#doctemplate
+POLICY COMPLIANCE
+
+
+Policy
+Does the project depart from the CPF in content or in other significant respects?
+[ ] Yes      [✓] No
+
+Does the project require any waivers of Bank policies?
+[ ] Yes [✓] No
+
+
+
+                                                                                                                v
+      The World Bank
+      Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+      Approach (P504764)
+
+
+
+ENVIRONMENTAL AND SOCIAL
+
+
+Environmental and Social Standards Relevance Given its Context at the Time of Appraisal
+E & S Standards                                                                       Relevance
+ESS 1: Assessment and Management of Environmental and Social Risks and
+                                                                                      Relevant
+Impacts
+ESS 10: Stakeholder Engagement and Information Disclosure                             Relevant
+ESS 2: Labor and Working Conditions                                                   Relevant
+ESS 3: Resource Efficiency and Pollution Prevention and Management                    Relevant
+ESS 4: Community Health and Safety                                                    Relevant
+ESS 5: Land Acquisition, Restrictions on Land Use and Involuntary Resettlement        Not Currently Relevant
+ESS 6: Biodiversity Conservation and Sustainable Management of Living Natural
+                                                                                      Not Currently Relevant
+Resources
+ESS 7: Indigenous Peoples/Sub-Saharan African Historically Underserved
+                                                                                      Not Currently Relevant
+Traditional Local Communities
+ESS 8: Cultural Heritage                                                              Relevant
+ESS 9: Financial Intermediaries                                                       Not Currently Relevant
+NOTE: For further information regarding the World Bank’s due diligence assessment of the Project’s potential
+environmental and social risks and impacts, please refer to the Project’s Appraisal Environmental and Social Review
+Summary (ESRS).
+
+@#&OPS~Doctype~OPS^dynamics@padlegalcovenants#doctemplate
+LEGAL
+Legal Covenants
+Sections and Description
+Section I.D. 1 and 5 of Schedule 2 to the Financing Agreement and Section I.D of the Schedule to the Project Agreement:
+The Recipient shall, through the Project Implementing Entity, prepare and furnish to the Association not later than
+March 31 of each Fiscal Year during the implementation of the Project, a consolidated work plan and budget containing
+inter alia: (i) all activities proposed to be implemented under the Project during the following Fiscal Year; (ii) a proposed
+financing plan for expenditures required for such activities, setting forth the proposed amounts and sources of
+financing therefor and disbursement schedule; and (iii) the training plan for such period. […] Without limitation on the
+provisions of this Section, the Recipient shall prepare and furnish to the Association the first proposed Annual Work
+Plan and Budget required under the Project not later than one month after the Effective Date.
+Section I.G of Schedule 2 to the Financing Agreement: In order to maximize the benefits of regional harmonization for
+purposes of the Project, no later than three months after the Effective Date, the Recipient shall enter into a separate
+memorandum of understanding with each of the Regional Bodies (the “MOU”, or in the case of separate memoranda,
+each an “MOU”), in form and substance satisfactory to the Association, as such MOU shall include provisions to the
+
+                                                                                                                          vi
+       The World Bank
+       Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+       Approach (P504764)
+
+
+effect of ensuring that the Recipient shall participate in any activity carried out by the Regional Bodies under the MPA,
+including inter alia training events, workshops, data collection and analysis or knowledge-sharing.
+
+@#&OPS~Doctype~OPS^dynamics@padconditions#doctemplate
+Conditions
+Type                           Citation                       Description                     Financing Source
+                                                              Section 4.01 of Article IV of
+                                                              the Financing Agreement:
+                                                              The Additional Conditions
+                                                              of Effectiveness consist of
+                                                              the following: (a) The
+                                                              Subsidiary Agreement has
+                                                              been executed on behalf of
+                                                              the Recipient and the
+                                                              Project Implementing
+                                                              Entity and all conditions
+                                                              precedent to its
+                                                              effectiveness, save for the
+Effectiveness                  Effectiveness Conditions                                       IBRD/IDA
+                                                              effectiveness of this
+                                                              Agreement, shall have
+                                                              been met; and (b) The
+                                                              Recipient, through the
+                                                              Project Implementing
+                                                              Entity, has adopted the
+                                                              Project Implementation
+                                                              Manual in accordance with
+                                                              Section I.C of Schedule 2 to
+                                                              this Agreement and in form
+                                                              and substance satisfactory
+                                                              to the Association.
+                                                              Section III.B of Schedule 2
+                                                              to the Financing
+                                                              Agreement:
+                                                              Notwithstanding the
+                                                              provisions of Part A of this
+                                                              Section, no withdrawal
+Disbursement                   Disbursement Conditions        shall be made: (a) for          IBRD/IDA
+                                                              payments made prior to
+                                                              the Signature Date or; (b)
+                                                              for Emergency
+                                                              Expenditures under
+                                                              Category (2), unless and
+                                                              until all of the following
+                                                                                                                       vii
+The World Bank
+Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+Approach (P504764)
+
+
+                                                   conditions have been met
+                                                   in respect of said
+                                                   expenditures: (i) (A) the
+                                                   Recipient has determined
+                                                   that an Eligible Crisis or
+                                                   Emergency has occurred,
+                                                   and has furnished to the
+                                                   Association a request to
+                                                   withdraw Financing
+                                                   amounts under Category
+                                                   (2); and (B) the Association
+                                                   has agreed with such
+                                                   determination, accepted
+                                                   said request and notified
+                                                   the Recipient thereof; and
+                                                   (ii) the Recipient has
+                                                   adopted the CERC Manual
+                                                   and Emergency Action
+                                                   Plan, in form and substance
+                                                   acceptable to the
+                                                   Association.
+
+
+
+
+                                                                                                      viii
+      The World Bank
+      Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+      Approach (P504764)
+
+
+I. STRATEGIC CONTEXT
+
+Introduction
+1. This project document seeks the approval of the Executive Directors on a proposed credit in the amount of US$120
+million to the Republic of Rwanda as part of Phase 4 of the Health Emergency Preparedness, Response and Resilience
+Program using a Multiphase Programmatic Approach (MPA). The MPA was approved by the World Bank’s Board of
+Directors on September 29, 2023, with an overall IDA envelope of US$1 billion equivalent. The request also seeks the
+approval to increase the MPA financing envelope to US$1.5 billion equivalent for nine new countries that have expressed
+interest in the program, adding up to US$0.5 billion to the program financing envelope. The Program Development
+Objective (PrDO) for the MPA remains unchanged and is “to strengthen health system resilience and multisectoral
+preparedness and response to health emergencies (HEs) in Eastern and Southern Africa (AFE). Likewise, MPA
+Components, PrDO indicators, and the menu of activities and of results indicators, will not change.
+
+A. Country Context
+
+2. With a resilient economy and significant progress on the health-related Sustainable Development Goals (SDGs),
+Rwanda is committed to health system strengthening and doing more to manage HEs. The economy grew by 7.6 percent
+in the first three quarters of 2023, in the face of global monetary stringency, challenging financial conditions, and
+downturns in international trade. This was fueled by a resurgence in investment and steady household consumption.
+Growth is expected to regain momentum, increasing by 7.2 percent on average in 2024–26.
+3. Rwanda, ranked 112 out of 185 countries in the 2021 Notre Dame-Global Adaptation Index2, is recognized as
+vulnerable to climate change and is suffering from a range of health impacts as a result. The country is particularly
+vulnerable to flooding, high heat, drought, and landslides which are expected to increase in frequency and severity. The
+country has already experienced a temperature increase of 1.4°C since 1970, higher than the global average; and an
+increase of up to 2.0°C is expected by the 2030s. The temperature rise is expected to be consistent across the country
+and seasons—although the increase during the long dry season may be slightly higher than in other seasons. Severe
+flooding and landslides in early May 2023 claimed many lives and damaged provincial health care and water, sanitation,
+and hygiene (WASH) infrastructure, resulting in a wide range of negative health outcomes. Climate change is expected
+to increase the prevalence of water and vector-borne diseases (for example, malaria, dengue). Malaria is the third leading
+cause of death and disability in Rwanda and one of the leading causes of under-five mortality. Changes in heat and
+precipitation will make previously malaria-free highlands more susceptible to outbreaks.
+
+B. Sectoral and Institutional Context
+
+4. Rwanda continues to advance toward the SDGs targets, showcasing improvements in most health and wellbeing
+indicators. The country’s life expectancy increased from 51.2 years in 2002 to 69.6 years in 2022. National maternal and
+child survival outcomes surpass the sub-Saharan averages by almost half, with under-five child mortality estimated at
+39.4 per 1,000 live births, and maternal mortality at 259 per 100,000 live births in 2021. Coverage of at least one antenatal
+care visit can be regarded as universal (98 percent); similarly, nearly all pregnant women are tested for HIV, 94 percent
+of deliveries take place in health facilities, and more than 96 percent of infants and toddlers ages 12 to 23 months are
+vaccinated. Additionally, the use of modern contraception, especially among married women, has increased to almost
+60 percent, while the proportion of women benefiting from postnatal care has risen to 70 percent.
+5. Despite notable achievements, Rwanda's public health system still faces critical gaps in quality of care, and access
+in remote locations. Although the SDG target on acute malnutrition (wasting) has already been met, and some declines
+
+                                                                                                                       Page 9
+          The World Bank
+          Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+          Approach (P504764)
+
+
+    in chronic malnutrition (stunting) have been recorded, the stunting rate remains stubbornly high at 33 percent, with
+    children of ages 24–35 months of age worst affected. A higher proportion of children in rural areas (36 percent) and in
+    the lowest wealth quintile (49 percent) are stunted, as compared with 20 percent of children in urban areas and 11
+    percent in the highest quintile. The proportion of children ages 6–59 months who are anemic stagnated at 37 percent,
+    and exclusive breastfeeding declined from 87 to 81 percent over the last five years. Additionally, an estimated 39 percent
+    of women in unions (that is, cohabiting) have an unmet need for family planning services. Access to these services among
+    adolescent girls remains suboptimal, with an estimated 32 births per 1,000 among girls ages 15–19 in 2021. While Gavi-
+    supported Human papillomavirus vaccination programs reported a coverage of 98 percent of eligible girls between 2011
+    and 2018, cervical cancer ranks as the second most frequent cancer among women in Rwanda and the most frequent
+    cancer among women between 15 and 44 years of age with a crude incidence rate of 18.7 cases per 100,000 population,
+    associated with the deaths of 829 women per year. Furthermore, Rwanda—like other countries—faces an increasing
+    burden of other noncommunicable diseases (NCDs) such as diabetes, hypertension, and mental health conditions.
+    Delivery models for these conditions are not as well developed, as became evident during the COVID-19 pandemic.
+    6. Epidemics, emerging and re-emerging diseases, and climate change significantly impact the well-being of the
+    population and are of great concern to the government. During the COVID-19 pandemic, utilization of routine maternal
+    and child health services declined on 13 indicators across all five provinces in Rwanda. Severe floodings and landslides in
+    early May 2023 claimed 135 lives and caused significant damage to provincial health care and WASH infrastructure,
+    resulting in a wide range of negative health outcomes. In addition, these climate events damaged roads and bridges,
+    limiting and, in some cases, completely interrupting the provision of services due to inability to maintain health
+    equipment and distribute medication and health supplies. Climate change is expected to increase the prevalence of water
+    and vector-borne diseases such as malaria and dengue. Malaria is already the third leading cause of death and disability
+    in Rwanda and one of the leading causes of under-five mortality. Changes in heat and precipitation will make the
+    previously malaria-free highlands more susceptible to outbreaks during the coming decades.
+    7. Rwanda’s vision 2050 is in alignment with the Wealth Health Organization’s (WHO) assessment of the Africa
+    region. WHO- Regional Office for Africa (AFRO) has worked closely with Member States and international partners to
+    develop the human resources and logistical capabilities necessary to rapidly identify and effectively respond to disease
+    risks. This involves streamlining public health institutional arrangements to enhance coordination and response
+    capabilities. The country’s approach includes innovations in health care delivery and the establishment of the National
+    Public Health Institute, signaling its commitment to a robust and integrated health system to respond as well as a One
+    Health approach 1, bridging gaps in the existing fragmented public health system. Rwanda has recently launched a “4 x 4”
+    strategy that seeks to quadruple the number of health workers in four years and close gender gaps in the health care
+    workforce. Rwanda recognizes the need to improve its capabilities for laboratory work and research and in doing so to
+    reduce reliance on imported health products. Ongoing initiatives focus on strengthening local manufacturing capacities,
+    particularly in messenger Ribonucleic Acid (mRNA) vaccine production. This aligns with Rwanda's commitment to health
+    security and self-sufficiency.
+
+    C. Relevance to Higher Level Objectives
+
+    8. The objectives and design of the project (Phase 4 of the MPA) are consistent with: (i) the priority areas articulated
+    in the country’s Health Sector Policy in Rwanda’s Fourth Health Sector Strategic Plan (2018–2024) 2, and the new Health
+    Sector Strategic Plan under preparation (2024–2029) which prioritizes building health security and a resilient system; and
+
+1Based on a One Health Policy prepared on March 2021 from the lessons learned in the prevention and response to Ebola and COVID-19
+2Fourth Health Sector Strategic Plan. July 2018-June 2024. Ministry of Health. Republic of Rwanda.
+https://www.minecofin.gov.rw/index.php?eID=dumpFile&t=f&f=15856&token=7aabf4f0ec53ed2685b9bd0a1f9df78a60651a35
+
+                                                                                                                                     Page 10
+          The World Bank
+          Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+          Approach (P504764)
+
+
+    (ii) the implementation of Rwanda’s Five-Year National Action Plan for Health Security (NAPHS: 2020–2024) 3, whose goal
+    is to address holistically health security and emergencies capabilities within the country using a “One Health Concept.”
+    The One Health approach will ensure that there is timely preparedness, rapid detection, and a consistent and coordinated
+    response to health risks. Here, the emergence and re-emergence of zoonotic diseases—resulting from a broader interface
+    between humans and animals—will pull together the efforts of key ministries in health, agriculture, livestock,
+    environment, among others. The project will also complement the implementation of the National Health Emergency
+    Response Operations Plan (NHEROP), which offers the health sector comprehensive guidance, enlisting key stakeholders,
+    communities—and political support—to promote immediate, cohesive action under clearly defined leadership across
+    systems and sectors. In addition, the objectives are consistent with the World Bank Group Country Partnership
+    Framework for Rwanda for Fiscal Year (FY) 21–26, discussed by the Board on July 9, 2020 (Report No. 148876-RW). The
+    project will contribute to the Country Partnership Framework - Objective 1 (Improving Human Capital), which recognizes
+    that “a healthy, and well-educated and skilled labor force is essential to Rwanda’s future prospects and inclusive growth.”
+    9. The project is aligned with the World Bank’s mission, and key World Bank regional and global strategies. Phase 4
+    is aligned with the IDA20 commitments, the AFE Regional priorities, and the World Bank’s Africa Regional Integration and
+    Cooperation Assistance Strategy (FY21–FY23), whose December 2020 update underscored “preparing for pandemics and
+    disease outbreaks” and “reinforcing resilience to shocks and promoting effective management of challenges that cut
+    across boundaries.” Phase 4 will contribute to the World Bank’s Climate Change Action Plan 2021–2025, which lays the
+    foundation for the World Bank’s Green, Resilient, and Inclusive Development approach.
+    10. Phase 4 is consistent with both the adaptation and mitigation goals of the Paris Agreement, and Rwanda’s
+    Nationally Determined Contribution (NDC, updated 2020). The updated NDC sets out a target of a 38 percent (4.6 million
+    tCO2e) reduction in greenhouse gas (GHG) emissions by 2030 in comparison to a business-as-usual scenario. The project
+    is expected to make a considerable contribution to improving climate adaptation and resilience in line with the Paris
+    Agreement and is not expected to contribute to GHG emissions. The project is therefore aligned with Rwanda’s
+    commitment to reduction of GHG as outlined in the country’s NDC, National Environment and Climate Change Policy
+    (2019), National Strategy on Climate Change and Low Carbon Development for Rwanda (2011), and Strategic Programme
+    for Climate Resilience (2017). Furthermore, the project is consistent with the Fourth Health Sector Strategic Plan (2018–
+    2024), and the National Adaptation Plan (2021), which stress the impacts of climatic hazards on escalating the prevalence
+    and burden of climate-sensitive diseases (water and vector-borne diseases), and damage to critical infrastructure, and
+    outline adaptation measures accordingly.
+
+    D. Multiphase Programmatic Approach
+
+    11. Phase 4 of the Health Emergency Preparedness, Response and Resilience Program using a Multiphase
+    Programmatic Approach (MPA) will support the Republic of Rwanda with a credit in the amount of US$120 million. In
+    addition, the MPA approved by the World Bank’s Board of Directors on September 29, 2023, with an overall IDA envelope
+    of US1 billion equivalent will be increased to US$1.5 billion equivalent.
+       a) The first phase of the MPA (P180127) provided financing to Kenya, Ethiopia, São Tomé and Príncipe, the East,
+          Central and Southern Africa Health Community (ECSA-HC), and the Intergovernmental Authority on Development
+          (IGAD). Both phase 2 (IDA credit in the amount of US$250 million to Democratic Republic of Congo - DRC)
+          (P504532) and phase 3 (IDA grant to Burundi in the amount of US$50 million equivalent) (P504531) were approved
+
+
+
+3National Action Plan for Health Security. 2020-2024. Rwanda Biomedical Centre. Ministry of Health. Republic of Rwanda.
+https://www.rbc.gov.rw/fileadmin/user_upload/report23/NAPHS%202020-2024.pdf
+
+                                                                                                                          Page 11
+       The World Bank
+       Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+       Approach (P504764)
+
+
+        on March 30, 2024. Phase 4 will add Rwanda and nine new countries 4 to the program and significantly expand the
+        World Bank support for health emergency preparedness in the region. The original MPA financing envelope is
+        insufficient to respond to the immediate needs of countries under the program. Additionally, the geographical
+        expansion will bring to fruition the regional learning agenda and increase regional integration through policy
+        harmonization, peer-to-peer learning/South-South knowledge exchange, and improved research coordination.
+    b) There will be no changes to the MPA Components, PrDO indicators, and the menu of activities and results
+       indicators. The new country projects will choose relevant activities from the approved Program components
+       (menu of activities) for their country projects. To measure country-level progress, country projects will identify
+       relevant indicators from the list of approved program indicators. They will add others as needed but within the
+       scope of the program’s results chain. The MPA is progressing in phases; the sequencing reflects the needs,
+       requests, and readiness of countries under the program (Table 1).
+
+
+
+
+4
+ The following nine countries have expressed interest in the MPA: Angola, Botswana, Lesotho, Malawi, Mozambique, Rwanda,
+South Sudan, Tanzania, and Zambia.
+                                                                                                                       Page 12
+          The World Bank
+          Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic Approach (P504764)
+
+
+                                Table 1. Health Emergency Preparedness, Response and Resilience Program (HEPRR) Framework Overview
+                                                                                                                      Estimated     Estimated
+                                                                                                                      IBRD          IDA          Estimated    Estimated
+MPA                                                                                    Sequential or         IPF or
+            Operation ID           Phase’s Proposed DO*                                                               Amount        Amount       Approval     Environmental &
+Phase #                                                                                Simultaneous          PforR
+                                                                                                                      (US$          (US$         Date         Social Risk Rating
+                                                                                                                      Million)      Million)
+
+            P180127
+                                   Phase I MPA: “To strengthen health system
+            (Ethiopia, Kenya,
+                                   resilience and multisectoral preparedness and
+   1        São Tomé and                                                               Simultaneous           IPF            0.00       359.00   09/29/2023      Substantial
+                                   response to health emergencies in Eastern and
+            Príncipe, ECSA-HC
+                                   Southern Africa.” ( PAD5376)
+            and IGAD)
+                                   Phase 2 MPA: Congo Democratic Republic (ZR):
+                                   “To strengthen health system resilience and
+            P504532
+   2                               multisectoral preparedness and response to          Simultaneous           IPF            0.00       250.00   03/29/2024      Moderate
+            (DRC)
+                                   health emergencies in the Democratic Republic
+                                   of the Congo” (PADHI00392)
+                                    Phase 3 MPA: Burundi (BI): “To strengthen
+                                   health system resilience and multisectoral
+   3        P504531 (Burundi)      preparedness and response to health                 Simultaneous           IPF            0.00        50.00   03/29/2024      Moderate
+                                   emergencies in the Republic of Burundi”
+                                   (PADHI00379)
+
+                                   Phase 4 MPA: Rwanda:” To strengthen Rwanda's
+                                   health system resilience, multisectoral
+   4        P504764 (Rwanda)                                                           Simultaneous           IPF            0.00       120.00   05/21/2024      Substantial
+                                   preparedness, and response to health
+                                   emergencies.
+                                   Angola (US$150 million), Botswana (US$40
+                                   million), Lesotho (US$11 million), Malawi
+                                   (US$100 million), Mozambique (US$100 million),
+            New Borrowers*                                                             Simultaneous                        190.00       531.00
+                                   Rwanda (US$120 million), South Sudan (US$20
+                                   million), Tanzania (US$150 million), and Zambia
+                                   (US$100 million)
+
+                                                       Total amount financing for participanting countries                 190.00        1,310
+
+
+                                                                                                                                                                                   Page 13
+          The World Bank
+          Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic Approach (P504764)
+
+
+                                                                      Original Board approved financing envelope    US$1,000 million
+
+                                                                              Additional financing amount for MPA    US$500 million
+
+                                                                     Total revised overall MPA financing envelope   US$1,500 million
+
+* Financing and their sources, including from IDA will be determined during preparation/appraisal.
+
+
+
+
+                                                                                                                                       Page 14
+           The World Bank
+           Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+           Approach (P504764)
+
+
+    II. PROJECT DESCRIPTION
+
+
+    A. Project Development Objective
+
+            (i) Project Development Objective (PDO) Statement
+
+    12. The PDO is to strengthen health system resilience and multisectoral preparedness and response to health
+    emergencies in the Republic of Rwanda.
+
+            (ii) PDO-Level Indicators
+    13. The PDO will be measured through the following key indicators that are picked from the menu of results indicators
+    of the AFE HEPRR Program:
+
+                                                                  Table 2. PDO Indicators
+                                             PDO level Indicators                                            Baseline          End Target
+       The average score of 3.5 in at least 3 JEE core capacity area in the Prevent axis (Number)                 2.5                3.5
+       The average score of 3.5 in at least 3 JEE core capacity areas in the Detect axis (Number)                 1.5                3.5
+       The average score of 3.5 in at least 3 JEE core capacity areas in the Respond axis (Number)                2.5                3.5
+       The detected health events, where the country met the 7-1-7 target (Percentage)                            70                 95
+       Project-supported laboratories that have achieved a 3-star rating or higher during a Stepwise              30                  90
+       Laboratory Improvement Process (SLIPTA) audit (Percentage)
+
+
+    B. Project Components
+
+    14. The project comprises four complementary components:
+    15. Component 1: Strengthening the Preparedness and Resilience of the Health System to manage Health Emergencies
+    (HEs) (US$65.6 million). The Component comprises four subcomponents and will support multisectoral collaboration
+    between health and other line ministries:
+    16. Subcomponent 1.1: Multisectoral cross-border planning, financing, and governance for improved resilience to
+    HEs. 5 This subcomponent will: (i) strengthen the existing One Health Multisectoral Coordination Mechanism; (ii) develop
+    a costed and financed national multisectoral action plan for One Health; (iii) strengthen cross-border response, including
+    the expansion of the cross-border functional surveillance systems at points of entry with the corresponding training
+    (climate change is a primary impetus and focus of these activities); and (iv) strengthen infection prevention and control
+    initiatives that ensure appropriate guidance and measures at health facilities within districts at the borders to better
+    address the antimicrobial resistance burden.
+    17. Subcomponent 1.2: Health workforce skills development. This subcomponent aims to strengthen existing
+    capabilities, harmonizing knowledge and skills and building specialized diagnostic skills and capacity among the health
+    workforce for advanced technologies while addressing gender gaps. It will seek to: (i) establish a gender- sensitive training
+
+
+
+
+5
+    The health and non-health line ministries involved in the implementation of this component are described in the implementation section.
+
+                                                                                                                                              Page 15
+         The World Bank
+         Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+         Approach (P504764)
+
+
+ program to ensure gender inclusivity in Science, Technology, Engineering, and Mathematics (STEM); 6 (ii) establish a
+ specialized training program to offer state-of-the-art training on advanced biomedical sciences and instrumentation used
+ in cutting-edge diagnostics including bioengineering, molecular and immunological techniques and using energy-efficient
+ and climate-adaptive building designs as well as local materials; (iii) develop project-based mentorship initiatives led by
+ university-affiliated faculty who will provide selected graduate students (keeping in mind inclusion of female graduate
+ students and students from climate-vulnerable areas as feasible) with hands-on opportunities to develop diagnostic
+ assays responding to unmet clinical needs; (iv) train additional professionals such as field epidemiologists, data scientists,
+ bioinformaticians and laboratory professionals, under an equity lenses for gender and inclusion of professionals from
+ climate-vulnerable areas as feasible; (v) develop and execute a focused climate and health emergency preparedness and
+ response training; and (vi) develop a system for health workforce surge capacity during climate shocks and HEs to ensure
+ health workers are distributed adequately where most needed without leaving essential services unattended.
+ 18. Subcomponent 1.3: Building capacity for the National Health Institute and improving access to quality health
+ commodities. This subcomponent aims to strengthen Rwanda’s capacity to develop, produce, and deploy quality
+ diagnostics for priority health threats. Key investments will include: (i) the expansion of the Rwanda Biomedical Centre
+ as the National Health Institute of the country 7 into the Diagnostics Development and Research Centre using energy
+ efficient and climate and gender-adaptive building designs as well as local materials. It will drive innovation of affordable
+ diagnostic solutions targeting leading regional infectious disease threats including emerging/re-emerging epidemics like
+ Rift Valley fever, typhoid, Ebola, and vaccine-preventable diseases like measles. It will support the translation of
+ promising technologies into quality-assured diagnostic products for domestic use and export; (ii) the expansion of the
+ National Health Institute to include the One Health Laboratory and Biobank facility for testing emerging and re-emerging
+ pathogens, including development of national reference standards to manage climate- sensitive disease outbreaks; (iii)
+ technical assistance (TA) to review national laws and other applicable rules on storage, distribution, and control, to
+ determine the adequacy of the technical, legal and regulatory frameworks and its consistency with international best
+ practice; identify any gaps, and implement measures for filling those gaps; (iv) TA on the development of a One Health
+ laboratory in Rwanda including risk management and human resource development; (v) strengthening the capacity of
+ the National Regulatory Agencies and Regional Centers of Regulatory Excellence; and (vi) TA to develop a five-year
+ roadmap, plans of action, and strategy to guide the functioning of the centers (Diagnostics Development and Research
+ Center, One Health Laboratory and Biobank facility) and lead the implementation of enhanced quality laboratory
+ protocols.
+ 19. Subcomponent 1.4: Information systems for HEs and the digitalization of the health sector. This subcomponent
+ aims to strengthen real time surveillance and decision support capabilities, leveraging artificial intelligence and advanced
+ analytics. Key activities include: (i) establishing digital disease surveillance platforms across institutions that include
+ village-based registries of health risks from human, animal, and environmental sources, incorporating gender-specific
+ demographics (age, sex, pregnancy status) to enable early outbreak detection, establishing and updating them on an
+ annual basis. In addition, establishing climate change risks is a primary impetus and focus of this activity; (ii) building
+ interactive data visualization tools for policymakers that overlay predictive models with assets and resources data to aid
+ risk communication and response planning that can be gender-specific as relevant, such that modelling of climate change
+ impacts remains a primary impetus and focus of this activity; (iii) improving the quality and reliability of data and
+ geographic coverage of existing digital health information platforms; this includes ensuring complete and accurate data
+ on key demographics such as sex, age and (for women 15–49 years of age) pregnancy status, and ensuring coverage of
+
+6 That  is, one which will ensure an equitable sex ratio of participants in computational diagnostics to develop expertise in leveraging artificial
+intelligence (AI), big data, bioinformatics, and machine learning to design high-performance diagnostics tailored to health emergencies, specifically
+priority diseases and climate change induced shocks.
+7 “Project Implementing Entity”, “Rwanda Biomedical Centre” or “RBC” means the Recipient’s national health institute.
+
+
+                                                                                                                                              Page 16
+        The World Bank
+        Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+        Approach (P504764)
+
+
+ the most remote and vulnerable areas of the country; (iv) establishing real-time monitoring systems of facility service
+ availability and readiness to monitor the disruption to essential health services; and (v) integrating meteorologic and air-
+ quality related data into the surveillance and health information system.
+ 20. Component 2: Improving early detection of and response to HEs through a multisectoral approach (US$49.4
+ million). This component will support operational readiness and capacities across critical subsystems to effectively detect
+ and respond to national, regional, and global HEs. The component has three subcomponents.
+ 21. Subcomponent 2.1: Collaborative multisectoral gender-responsive surveillance and laboratory diagnostics. Major
+ investment under this subcomponent will include: (i) establishing an emergency operations center on a permanent basis
+ to coordinate health security efforts with integrated data dashboards for gender-disaggregated surveillance to prepare
+ for and respond to climate shocks or other sources of HEs. It includes developing capacity to quickly reorganize and utilize
+ alternative service-delivery platforms to prevent service disruption during emergencies, and the development of facility-
+ level climate emergency preparedness and response plans; (ii) expanding multipathogen testing and sequencing abilities
+ to better characterize and monitor the dynamics of public health threats; and (iii) strengthening environmental
+ surveillance systems to monitor wastewater for emerging and re-emerging public health threats like COVID-19, polio,
+ mpox, cholera, and so forth.
+ 22. Subcomponent 2.2: Emergency management, coordination, and essential service continuity. This subcomponent
+ will ensure the readiness and quality of essential services provided to the population and the continuity of services and
+ coordination across levels of care to respond to HEs. The primary focus will be on service continuity during climate shocks
+ and HEs given their level of disruption to health services. Under this subcomponent, the project will finance the following
+ activities: (i) Improving the quality of maternal, newborn, child and adolescent health services, including the optimization
+ of existing Maternal Neonatal Children Health (MNCH) 8 interventions, as well as the adoption and implementation of
+ MNCH bundles and innovations. It includes supporting, rehabilitating, renovating and upgrading eight existing health
+ centers to “Medicalized Health Center” level facilities in selected remote areas and hard-to-access district hospitals,
+ equipment and implementation of norms and procedures for Maternal and Child Health (MCH), NCDs, Mental Health
+ and HE; and (ii) Strengthening mental health preparedness and response capacity for public HEs, including the case
+ management for referral systems for standard and HE cases including the transfer system for MNCH emergencies,
+ worsening NCD cases and quick assistance to suspected cases of pandemic-prone diseases. It includes well-equipped
+ ambulances and staff trained in emergency neonatal care, obstetric care, and basic life support.
+ 23. Subcomponent 2.3: Risk communication and community engagement, empowerment, and social protection for all
+ HEs. Communication on climate change and health risks is a primary impetus and focus of this component. Key activities
+ include: (i) leveraging community health workers (CHWs) to drive public health emergency protection awareness and
+ behaviors among communities; (ii) developing gender sensitive public health risk communications with appropriate
+ media including mass media (TV and radio) and community level platforms (village meetings, school health clubs, and so
+ forth); (iii) developing a national climate and health adaptation plan with the community; (iv) assessment of health
+ system performance during climate shocks; and (v) execution of climate shock response simulation exercises.
+ 24. Component 3: Project Management (US$5.0 million). This component will ensure efficient and effective
+ management and implementation of the project by the Rwanda Biomedical Centre (RBC). It will finance: (i) strengthening
+ project monitoring and evaluation (M&E); (ii) providing need-based TA and facilitating data-based cross-border learning
+ initiatives, and the learning agenda in collaboration with WHO, IGAD and ECSA-HC; and (iii) supporting other aspects of
+ project management such as recruitment of staff, procurement, financial management, environmental and social risk
+
+
+
+8 MNCH defined under the Women Children Adolescent Health Strategy which includes services for the wellbeing of these population.
+
+                                                                                                                                    Page 17
+           The World Bank
+           Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+           Approach (P504764)
+
+
+    management, and reporting under the project through the provision of technical advisory services, training, operating
+    costs, and acquisition of goods.
+    25. Component 4: Contingent Emergency Response (CERC) (US$0). This component will facilitate access to rapid
+    financing by allowing for the reallocation of uncommitted project funds in the event of a natural disaster in a country,
+    either by a formal declaration of a national emergency or upon a formal request from the government. Following an
+    eligible crisis or emergency, the government may request that the World Bank reallocates project funds to support
+    emergency response and reconstruction. A CERC Manual, a CERC ESMF and an Emergency Action Plan acceptable to the
+    World Bank, will be prepared and constitute a disbursement condition for this component.
+
+    C. Project Beneficiaries
+
+    26. This project is of national scope and will benefit the 14 million inhabitants of the country. It will also directly benefit
+    about 100,000 people who are expected to cross the borders from the neighboring countries. In particular, the project
+    will benefit women of reproductive age, including adolescents and children and people with NCDs. In addition, the
+    beneficiaries also include livestock farmers and the general population, who benefit from less exposure to a disease which
+    can be transmitted to humans from animals, condition known as zoonoses. Finally, all new and existing health workers
+    and staff of public health, veterinary services and laboratories involved in health emergencies preparedness and response
+    will benefit from the training and continuous support.
+
+    D. Rationale for Bank Involvement and Role of Partners
+
+    27. The project will enable extensive technical coordination between relevant government institutions and public and
+    private development partners. The One Health Committee 9 will become a One Health Multisectoral Coordination
+    Mechanism, set up, with the involvement of external specialists, to provide domain-specific guidance around focus areas
+    like communicable diseases surveillance and diagnostics, the antimicrobial resistance testing, health workforce skilling,
+    community engagement platforms and so forth. The country will benefit from support from the regional entities ECSA-
+    HC and IGAD under the MPA, as well as from advanced peer-to-peer learning opportunities available to all countries
+    participating in the HEPRR MPA. In addition, the project will build upon existing public–private partnerships such as with
+    the University of Wisconsin – Madison Global Health Institute and Abbott Labs, among others, and establish strategic
+    partnerships with United Nations agencies and other development partners based in Rwanda to align activities with
+    global health security norms, standards and best practices, alert threshold setting, and data gathering, among others.
+
+    E. Lessons Learned
+
+    28. No lessons learned have yet been drawn from Phase 1 of the MPA as it is in its first few months of implementation.
+    However, the COVID-19 pandemic, natural disasters, and other emergencies that have exacerbated health system
+    challenges have taught us important lessons in the response to HEs, such as: the need for multisectoral collaboration
+    fostering a multidisciplinary engagement and building on existing national capacity and partnerships are crucial
+    components to achieve efficient results; the need to implement the One Health principles and reach regional
+    collaboration for a more effective response to pandemics; and the value of informing, communicating, and educating the
+    population so that people are responsive and adopt the necessary behaviors to constrain HEs.
+
+
+
+
+9
+    Existing structure as described in the One Health Policy dated March 2021.
+
+                                                                                                                            Page 18
+      The World Bank
+      Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+      Approach (P504764)
+
+
+
+
+III. IMPLEMENTATION ARRANGEMENTS
+A. Institutional and Implementation Arrangements
+
+29. RBC as the implementer will have overall responsibility for the oversight, coordination, management, and
+supervision of all components of the project by providing leadership and guidance. Five more institutions will support
+implementation activities with technical oversight, namely: Rwanda Agriculture and Animal Resources Development
+Board, for animal health surveillance and response to zoonotic diseases; Rwanda Development Board (RDB) for wildlife
+surveillance and environmental activities; Rwanda Environment Management Authority, to facilitate coordination and
+oversight of the implementation of national environmental policy; Gender Monitoring office (GMO), to ensure gender
+aspects of HE are well addressed at all levels of the project implementation; and the National Child Development Agency
+(NCDA), for integrated early childhood development (ECD) service delivery. An inter-ministerial and inter-agency One
+Health Multisectoral Coordination Mechanism with representatives from Ministries of Finance, Health, Agriculture,
+Environment, and other social and economic clusters institutions will serve as the apex governance body for providing
+high-level oversight, steering and policy direction to the project. This will enable holistic guidance aligned to national
+health priorities while also assessing complex issues, trade-offs and interlinkages across the human health, livestock,
+wildlife, and environment domains. The project implementation arrangements will be described in detail in the Project
+Implementation Manual (PIM).
+30. Rwanda will be part of the Regional Advisory Committee (RAC) that will serve as the bridge between the MPA and
+the overall regional agenda and priorities. The RAC will consist of representatives of all participating countries and
+regional bodies that support project implementation, as well as global experts, representatives of the International
+Development Association, and other entities, to be described in the PIM. The RAC will provide a forum for broader
+technical and regional engagement beyond the MPA's focus, with emphasis on ensuring program alignment with the
+broader regional agenda and strategic direction.
+
+B. Results Monitoring and Evaluation Arrangements
+
+31. The project’s results framework includes both PDO-level and intermediate results indicators that follow the
+indicators proposed under the MPA. Indicators have been judiciously selected and added to assess the effectiveness and
+impact of project interventions. They contribute to the Scorecard indicators of Healthier Lives with the 14 million people
+benefitting from strengthened capacity to prevent, detect, and respond to health emergencies. The single project
+implementation unit (SPIU) will be responsible for: (i) compiling data; (ii) monitoring and tracking results and to propose
+course corrections; and (iii) reporting results to the One Health Multisectoral Coordination Mechanism, Prime Ministers’
+offices and to the World Bank. Further, independent external program evaluations by select partner institutes will
+promote cross-learning, protocol optimization and uptake acceleration based on user feedback, technology acceptance
+levels and impact metrics across target communities and cohorts intended to benefit and contribute toward the program.
+The emphasis on continual technical coordination between on-ground executors and guidance from specialized
+collaborators is designed to maximize suitability, receptivity and efficacy of the public health security initiatives being
+rolled out.
+
+C. Sustainability
+
+32. All the proposed interventions are designed to have a lasting impact. The project's design is premised on the need
+to ensure sustainability and maximize the impact of limited resources by combining a focus on traditional HE
+preparedness and response with core elements of health systems strengthening (HSS). Project interventions have been
+
+                                                                                                                    Page 19
+         The World Bank
+         Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+         Approach (P504764)
+
+
+ designed to align with global standards for pandemic preparedness and response, including a selection of interventions
+ that link directly to the WHO Joint External Evaluation (JEE) technical areas, which strengthen national capacities in 19
+ technical areas including gender in preparedness response. In addition to being closely aligned with the country’s Five-
+ Year National Action Plan for Health Security and the NHEROP, the proposed interventions will bolster the country’s
+ systems and capacities to sustainably prepare, prevent, detect, and respond to disease outbreaks. In HSS, the focus on
+ training and capacity (especially laboratories), and the quality of health services, including maternal and child health and
+ nutrition services, will enhance the sustainability of the project.
+
+ D. Alignment with Corporate Commitments
+ 33. Climate change and climate shocks are among the core public health emergencies that the MPA addresses; building
+ climate change resilience and preparedness are fundamental program activities. Refer to Annex 2 for a summary of the
+ project’s Climate Disaster Risk Screening, Climate Vulnerability Context, and Climate Financing.
+ 34. Data. The project will maximize the use of available data and will collect additional data only to fill any gaps as
+ required to implement activities under Component 2. No personal data will be managed by the World Bank. When
+ gathering personal data, prior consent will be secured from the participants. Data collection will be carried out in
+ accordance with local laws and international human rights conventions and covenants, respecting cultural sensitivities,
+ such as: differences in culture, local behaviors and norms, religious beliefs and practices, sexual orientation, gender roles,
+ disability, age and ethnicity and other social differences. The sourced data will be classified accordingly to ensure there
+ is no misuse or misinterpretation of the data. Data collected under the project will be processed only for the purposes
+ defined in the project and will be held in the Development Data Hub which is the World Bank’s official one-stop shop for
+ the latest development data procured, acquired or used by the World Bank in accordance with the World Bank Procedure
+ for Development Dataset Acquisition, Archiving and Dissemination. Where needed, the Development Data Hub will serve
+ as a data storage repository, providing secure and managed, long-term storage for the gathered data. Rwanda already
+ has in place a data protection law for the protection of personal data and to ensure privacy of individuals. This is Law No
+ 058/2021 of 13/10/2021 10 officially gazetted on October 15, 2021, which is the World Bank’s official resource of reference
+ for the latest development data procured, acquired, or used by the World Bank in accordance with the World Bank
+ Procedure for Development Dataset Acquisition, Archiving and Dissemination.
+ 35. Citizen Engagement. The project will build on the MPA Stakeholder Engagement Plan (SEP) and align with activities
+ of subcomponent 2.3 of the project to engage communities in all stages of project cycle by sanctioning continuous
+ engagement, information dissemination, and feedback to ensure inclusion and last-mile connectivity. Local networks and
+ frontline actors with knowledge and organizational capacity will promote localized readiness, through quicker reporting
+ and data gathering, to trigger socially appropriate protective actions that expedite resilience in response to HEs. Age and
+ gender related vulnerabilities will be addressed as a matter of the highest priority. Continuous engagement will be found
+ on IGAD-linked 11 country-specific websites with an online feedback feature that will enable readers to leave comments.
+ Although newspaper columns will be the basic information sharing tool, information will also be disclosed through
+ dedicated radio and television channels and the above-mentioned websites, taking into consideration special accessibility
+ needs of citizens who have disabilities or are unable to read. Consultation will form a part of the preparation phase; later,
+ beneficiary satisfaction surveys will be deployed twice (Mid-term Review [MTR] and implementation completion report
+ review stages) to seek citizen feedback during the project's lifetime (under the indicator Percentage of beneficiaries who
+ are satisfied with project activities).
+
+
+10
+   Rwanda’s law on the protection of personal data and privacy (DPP Law). Data Protection Office. Republic of Rwanda - https://dpo.gov.rw/dpp-
+law/
+11
+   IGAD Resilience Portal. https://resilience.igad.int
+
+                                                                                                                                         Page 20
+             The World Bank
+             Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+             Approach (P504764)
+
+
+ 36. Paris Alignment. The operation is aligned with the adaptation and mitigation goals of the Paris Agreement. It
+ focuses on activities aimed at strengthening resilience of the health system. Subcomponents 1.1 and 1.3 will include
+ construction, while subcomponent 2.1 will include building rehabilitation. Construction and rehabilitation will include
+ climate resiliency measures, with a focus on resilience to floods, landslides, and high heat. Under subcomponent 2.2, the
+ project will support the transfer system for MCH emergencies, NCDs cases and suspected cases of pandemic-prone
+ disease—this activity may be exposed to Rwanda’s climate shocks. Climate-sensitive planning will therefore be integrated
+ to reduce any such impact. Subcomponent 2.3 will support risk communication and community engagement through
+ leveraging CHWs to enhance community emergency protection awareness. A module on the climate vulnerability of
+ Rwanda, climate, and health links (including impacts on climate-sensitive diseases) and climate emergency preparedness
+ and response will be included in the training material for CHWs. The project is expected to have only limited activities
+ that are vulnerable to Rwanda’s climatic hazards (intense rainfall, heatwaves, extreme floods, landslides).
+ 37. Adaptation and mitigation risk reduction measures. Most project activities are universally aligned for climate change
+ mitigation and do not contribute to GHG emissions. Building construction under subcomponents 1.1 and 1.3, and
+ rehabilitation under subcomponent 2.1, will meet EDGE 12 energy efficiency standards; the project will hire a consultant
+ to support meeting these standards and at least a 20 percent reduction in energy use.
+ 38. Gender. In line with the overall PAD for the HEPRR MPA, the Rwanda HEPRR project fulfils the gender-related
+ corporate requirements. The project will focus on two key areas by addressing: (a) gender disparities in the health
+ workforce by supporting the recently launched a 4 x 4 strategy that seeks to quadruple the number of health workers in
+ four years closing gender gaps among health care workers. The project will encourage women to participate in STEM
+ training for HE by: establishing a training program in computational diagnostics—with as equitable a sex ratio in trainees
+ as is feasible; and training additional field epidemiologists, data scientists, and laboratory professionals with a focus on
+ gender equity in training and subsequent employment in these fields as feasible; and, (b) gender gaps in essential
+ services, addressed by ensuring inclusion of essential Reproductive Maternal Neonatal Child Adolescent Health supplies
+ and services as part of the essential services package and maintenance of adequate Reproductive Maternal Neonatal
+ Child Adolescent care during HEs. Activities to fulfill these two areas are described in the subcomponents 1.2 and 2.2
+ respectively. Gender-specific intermediate indicators to measure closing these gaps have been included in the results
+ framework of the project (for example of two indicators: Percentage of female professionals with specialized training for
+ delivering health security functions including the One Health approach at the national and intermediate levels; and
+ Percentage of pregnant women receiving four antenatal care visits).
+
+ IV. PROJECT APPRAISAL SUMMARY
+
+ A. Technical, Economic and Financial Analysis
+         (i) Technical
+ 39. The design of the HEPRR Program was guided by global evidence showing that simultaneous investments in
+ pandemic preparedness response are critical for countries to build ‘emergency-ready health systems’, which will
+ improve health security and safeguard the lives and livelihoods of the entire region’s population, including Rwanda.
+ The technical design of the HEPRR Rwanda project introduces the One Health agenda to strengthens links between
+ human, animal, and environmental health ensuring engagement at all levels in the human–animal–environment health
+ continuum. Additionally, this project’s design includes support on preparedness and excellence to the surveillance,
+ laboratory and human resources that will further improve the readiness, ability to respond and resilience interventions.
+
+
+12
+     Excellence in Design for Greater Efficiencies
+
+                                                                                                                      Page 21
+      The World Bank
+      Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+      Approach (P504764)
+
+
+Furthermore, this design will build strength in the health system on the provision of essential health services that
+underpin preparedness, protecting the population against HEs and climate shocks.
+    (ii) Economic
+40. In the case of Rwanda, a cost-benefit analysis was conducted to estimate the project’s economic return on
+investment. Under the base-case scenario of a 3 percent discount rate, the project is estimated to yield a benefit-cost
+ratio of 1.83, suggesting that for every US$1 invested, the project will yield an economic return of US$1.83. Over the five
+years of project implementation, the net economic benefits generated by the projects’ inputs would result in a positive
+net present value (NPV) of US$61.12 million. The estimated benefit is based on the potential impact of investing in
+preparedness, prevention, and resilience on mortality and morbidity only, also considering the prevention of potential
+losses if essential health provision of services is discontinued or scarcely provided. It also includes the loss due to lost
+work time due to disease and the loss due to mental health effects of pandemic effects. It does not include the potential
+impact of a pandemic on the economy due to restricted mobilities and a slowdown of commercial business (Annex 2).
+
+B. Fiduciary
+
+    (i) Financial Management (FM)
+41. The FM assessment was carried out for the project in accordance with the World Bank Policy and Directives on
+Investment Project Financing (IPF). The assessment was carried out on the lead implementing entity, RBC, to determine
+whether it has acceptable FM arrangements, which will ensure that: (i) funds are used for the intended purposes in an
+effective, efficient, and economical way; (ii) financial reports will be prepared in a reliable, accurate, and timely manner;
+and (iii) project assets will be appropriately safeguarded. Based on this assessment, the FM risk for the project is rated
+Moderate. Key risks identified for this project are: (i) inadequate preparation of an Annual Work Plan and Budget (AWPB)
+which could lead to irregularities in spending and accountability of resources; (ii) lack of evidence to verify internal and
+external audit review by the audit committee; and (iii) delayed action on internal control gaps noted on audit reports.
+These will be mitigated by placing adequate staff in the SPIU; and capacity building and training on the World Bank-
+financed operations and using internal audit functions and follow-up of audit committees for timely action on audit report
+findings. An action plan has been prepared to help mitigate these risks and which will be monitored throughout
+implementation.
+42. The FM arrangement of the project will be the following. An AWPB will be prepared for each of the components
+with the detail of the credit resources and that will be submitted to the World Bank for approval. The SPIU at RBC will be
+adequately staffed and will receive training on managing the World Bank-financed projects. RBC will have its own
+designated account and will implement the project with technical input from other implementers; it will submit quarterly
+financial reports and annual audit reports to the World Bank. The internal audit units of RBC will audit the project and
+make their reports available to the World Bank as required. RBC will be responsible for taking timely action on the audit
+report findings and for notifying the World Bank. Detailed FM arrangements will be captured as part of the PIM.
+    (ii) Procurement
+43. Procurement will be carried out in accordance with the World Bank Procurement Regulations for IPF Borrowers
+(Borrowers Regulations), dated September 2023; the Guidelines on Preventing and Combating Fraud and Corruption in
+projects financed by IBRD Loans and IDA Credits and Grants, revised July 1, 2016; beneficiary disclosure arrangements,
+and the provisions stipulated in the Financing Agreement. The Procurement Plan, as agreed between the World Bank and
+the Recipient, specifies procurement methods and their applicable thresholds, and activities subject to the World Bank
+review. Once effective, the implementing agency shall submit the Procurement Plan through the Systematic Tracking of
+Exchanges in Procurement (STEP), and it will be disclosed to the public. The Project Procurement Strategy for
+
+                                                                                                                      Page 22
+       The World Bank
+       Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+       Approach (P504764)
+
+
+Development sets out the selection methods to be followed by the Recipient during project implementation in the
+procurement of goods, works, non-consulting and consulting services financed by the World Bank. The Procurement Plan
+will be updated annually. Rated Criteria will be used for all international competitive procurements, with the exception
+of procurement of pharmaceuticals, vaccines, off-the-shelf goods and educational materials, commodities and other
+exceptions cleared by the World Bank on a fit-for-purpose basis, where use of Rated Criteria is not mandatory.
+44. Based on risks and gaps identified, the project procurement risk rating is Moderate. The concept stage Procurement
+Risk Assessment and Management System (PRAMS) with the Moderate procurement performance was validated during
+the appraisal, with the following key risks identified: (i) likelihood of occurrence of corruption, collusion, and conflicts of
+interest; (ii) contract price increase due to inflation, currency instability, and interest rates; (iii) unexpected extreme
+weather, intense rainfall, that can affect project timelines; and (iv) limited skills in the World Bank’s procurement
+framework. SPIU has five procurement staff implementing more than 20 projects, but only one, the head of procurement,
+is familiar with the World Bank’s procurement framework. The recommended mitigation measures are: (i) improve the
+complaint management system, strengthen internal and external audits, and disclosure of information and procurement
+data to the public; (ii) make sure provision for price adjustment is included in contract documents; and, (iii) conduct
+training in the World Bank’s procurement framework. Additionally, a dedicated procurement specialist is expected for
+the project.
+
+C. Legal Operational Policies
+
+
+@#&OPS~Doctype~OPS^dynamics@padlegalpolicy#doctemplate
+Legal Operational Policies                                                               Triggered?
+Projects on International Waterways OP 7.50                                              No
+Projects in Disputed Area OP 7.60                                                        No
+
+
+D. Environmental and Social
+
+45. The environmental risks are related to medical supplies, waste management associated with health care, and
+hazardous waste handling, disposal and transfer, correlated to occupational health and safety for project workers, and
+health care workers at hospitals or health care facilities addressed under Environmental and Social Standards 2 (ESS2),
+community health and safety risks (addressed under ESS4), and limited pollution risk (addressed under ESS3). Risk and
+impacts related to the civil works— including health and safety risks for workers and communities, construction waste
+management, and within-facility air pollution—are expected to be site-specific, reversible, and of low magnitude that
+can be mitigated following appropriate measures. The social risks under ESS1 pertain to social exclusion of vulnerable
+groups from access to project benefits (for example, persons with disabilities, the elderly, women headed households
+and widows, children without parents and so forth). To mitigate the project risks, the implemeting agencies, namely RBC,
+will develop an Enviromental and Social (E&S) screening template, as part of the project Environmental and Social
+Management Framework (ESMP). Every implementing agency will use that framework to assess the E&S risks of their
+respective project activities, and identify proportionate mitigation measures in the form of activity-specific E&S
+management measures (that is, ESMP checklist, or environmental, social health and safety mitigation measures/clauses
+to be included in the bidding documents, templates for mitigation measures, and other E&S mitigation tools). The
+project's E&S risks and mitigation measures are included in its Environmental and Social Management Framework (ESMF)
+that will be prepared, consulted, disclosed and will be adopted not later than three months after the Effectiveness Date
+
+                                                                                                                        Page 23
+           The World Bank
+           Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+           Approach (P504764)
+
+
+ and shall thereafter be implemented throughout project implementation. The Environment and Social Commitment Plan
+ (ESCP) was published on April 29, 2024. 13The project’s ESMF will include, among other aspects, a Medical Waste
+ Management Plan (MWMP) to address relevant identified risks under the project. The MWMP will be prepared by RBC
+ in accordance with Rwanda’s regulations, and consistent with ESS3, and relevant the World Bank Group’s Environmental,
+ Health and Safety Guidelines (World Bank Group EHS Guidelines). The MWMP will be prepared as part of the project
+ ESMF which will be reviewed and cleared by the World Bank and disclosed prior to implementation of relevant activities.
+ Risks of social exclusion and sexual exploitation and abuse or sexual harrassment (SEA/SH) will be addressed, as
+ appropriate, in the design of project activities and through relevant mitigation measures included in the E&S
+ documentation prepared during implementation including the project ESMF, Code of Conduct for workers, and through
+ availability of effective stakeholder engagement and grievance redress mechanisms (GRM).
+
+ V. GRIEVANCE REDRESS SERVICES
+
+     46. Grievance Redress. Communities and individuals who believe that they are adversely affected by a project
+     supported by the World Bank may submit complaints to existing project-level grievance mechanisms or the World
+     Bank’s Grievance Redress Service (GRS). The GRS ensures that complaints received are promptly reviewed in order to
+     address project-related concerns. The project-affected communities and individuals may submit their complaint to the
+     World Bank’s independent Accountability Mechanism. The AM houses the Inspection Panel, which determines
+     whether harm occurred, or could occur, as a result of World Bank noncompliance with its policies and procedures, and
+     the Dispute Resolution Service, which provides communities and borrowers with the opportunity to address
+     complaints through dispute resolution. Complaints may be submitted to the AM at any time after concerns have been
+     brought directly to the attention of World Bank Management and after Management has been given an opportunity
+     to respond. For information on how to submit complaints to the World Bank’s Grievance Redress Service (GRS), visit
+     http://www.worldbank.org/GRS. For information on how to submit complaints to the World Bank’s Accountability
+     Mechanism, visit https://accountability.worldbank.org.
+ VI. KEY RISKS
+
+ 47. Overall risk for the project in Rwanda is Substantial. The risks associated with technical design, institutional capacity
+ for implementation and sustainability, stakeholders, and environmental and social factors are all rated Substantial. The
+ overall program risk remains substantial because of the fragile contexts and limited institutional capacities in several
+ countries in AFE seeking to join the MPA; the post-COVID-19 socio-economic recovery challenges and uncertainties; the
+ program’s complexity and multisectoral dimensions; and the community health, safety, and occupational risks from
+ proposed project activities.
+ 48. Technical design of the project risk is Substantial. The project will support investments in health systems and in
+ approaches to HE preparedness and response that are complex and will require significant coordination and political will
+ to maximize benefits at both the country and regional levels. Furthermore, the project requires multisectoral and
+ intersectoral collaboration to achieve the PDO. This approach deviates from the standard practice of a siloed sectoral
+ focus, which then presents some unique coordination challenges. These risks are mitigated by capacitating strong
+ conveners at the national level, capable of bringing sectors together to forge a consensus on sectoral and multisectoral
+ priorities and approaches for implementation of interventions. The residual risk, however, remains substantial even after
+
+
+13
+     https://rbc.gov.rw/fileadmin/user_upload/report_2024/Annex_8_-_Environmental_and_Social_Commitment_Plan__ESCP__HERRP_P-
+504764_NEGOCIATED.pdf
+
+
+                                                                                                                               Page 24
+      The World Bank
+      Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+      Approach (P504764)
+
+
+mitigation measures because of the complexity and ambition of the project, which will require dedicated hands-on
+support to sectors, and implementing bodies, to achieve the PDO of the project.
+49. Institutional capacity for implementation and sustainability risk is Substantial. RBC, as the lead implementing
+agency, has substantial experience and expertise in planning and delivering interventions, including HEs and pandemic
+preparedness and response. Despite that experience, its capacity to manage a complex, multi-level and multisectoral
+project of this nature represents an additional challenge. Risk mitigation measures will include capacity building during
+project implementation and additional support within RBC as well as consolidation of existing policies and laws
+supporting the Emergency Response in the country.
+50. Environmental and social risks are rated Substantial. Rwanda is experiencing an increasing trend of climate-induced
+loss and damage, most recently from landslides and flooding in May 2023. Such events can result in HEs that snowball
+into severe and large-scale environmental degradation. To address risks related to the Biosafety Level-3 laboratory in the
+Diagnostics Development and Research Center, appropriate instruments will be prepared and implemented, guided by
+the project’s ESMF, stipulating material measures to safeguard against exposure and other Environmental, Health and
+Safety risks. Overall, the ESMF will guide the project’s team in the preparation of the necessary Environmental and Social
+risk management instruments for each subproject, to comply with the relevant Rwanda laws and the World Bank’s ESS
+under the Environmental and Social Framework (ESF). According to the World Bank Environmental and Social Framework,
+seven of the 10 are ESSs relevant to the project (ESS1, ESS2, ESS3, ESS4, ESS6, ESS8 and ESS10).
+51. Stakeholders' risk is rated Substantial. There is a risk of inefficiency, duplication, and possible exclusion, especially
+of vulnerable and disadvantaged groups. To mitigate the inherent risk, the HEPRR project will ensure that RBC is
+responsible for coordinating all the technical activities under the HEPRR Program. RBC will facilitate consistent
+engagement of all the key stakeholders. Additionally, at the country level, national platforms or coordinating bodies—at
+the highest level of government, such as the Ministry of Health (MoH)—will help coordinate actions across the different
+program implementers. The project will be encouraged to ensure civil society engagement, including opportunities for
+the voice and representation of the private sector. The results framework also includes indicators to measure and track
+the level of citizen engagement in the project.
+
+
+
+
+                                                                                                                      Page 25
+       The World Bank
+       Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+       Approach (P504764)
+
+
+
+                                                                  VII. RESULTS FRAMEWORK AND MONITORING
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padannexresultframework#doctemplate
+PDO Indicators by PDO Outcomes
+
+   Baseline                                                      Period 1                                              Closing Period
+                          Strengthen health system resilience and multisectoral preparedness and response to health emergencies in the Republic of Rwanda
+   The average score of 3.5 in at least 3 JEE core capacity area in the Prevent axis. (Number)
+   Feb/2024                                                      Mar/2027                                              Mar/2030
+   2.5                                                           3.0                                                   3.5
+   The average score of 3.5 in at least 3 JEE core capacity areas in Detect axis. (Number)
+   Feb/2024                                                      Mar/2027                                              Mar/2030
+   1.5                                                           3.0                                                   3.5
+   The average score of 3.5 in at least 3 JEE core capacity areas in Respond axis (Number)
+   Jan/2024                                                      Mar/2027                                              Mar/2030
+   2.5                                                           3.0                                                   3.5
+   The detected health events, where the country met the 7-1-7 targets (Percentage)
+   Feb/2024                                                      Mar/2027                                              Mar/2030
+   70                                                            80                                                    95
+   Project-supported laboratories that have achieved a 3-star rating or higher during a Stepwise Laboratory Improvement Process (SLIPTA) audit (Percentage)
+   Feb/2024                                                      Mar/2027                                              Mar/2030
+   30                                                            60                                                    90
+
+
+Intermediate Indicators by Components
+
+   Baseline                                                      Period 1                                                   Closing Period
+                                             Component 1: Strengthening the Preparedness and Resilience of the Health System to manage HEs
+   Professionals with specialized training for delivering health security functions including the One Health approach at the national and intermediate levels (Percentage)
+   Feb/2024                                                      Mar/2027                                                   Mar/2030
+   10                                                            40                                                         70
+
+
+
+                                                                                                                                        Page 26
+   The World Bank
+   Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+   Approach (P504764)
+
+
+Female professionals with specialized training for delivering health security functions including the One Health approach at the national and intermediate levels (Percentage)
+Feb/2024                                                      Mar/2027                                                   Mar/2030
+0                                                             20                                                         30
+Laboratories that have mandatory licensing in line with basic quality requirements of national laboratory standards (Percentage)
+Feb/2024                                                      Mar/2027                                                   Mar/2030
+10                                                            15                                                         50
+A national multisectoral costed plan for One Health that is developed/updated and under implementation (Number)
+Feb/2024                                                      Mar/2027                                                   Mar/2030
+0                                                             1                                                          1
+                                          Component 2: Improving early detection of and response to HEs through a multisectoral approach
+Health facilities with risk assessments for climate shocks conducted in project coverage area (Climate indicator) (Percentage)
+Feb/2024                                                      Mar/2027                                                   Mar/2030
+0                                                             30                                                         80
+Pregnant women receiving four antenatal care visits (Percentage)
+Feb/2024                                                      Mar/2027                                                   Mar/2030
+0                                                             0                                                          0
+Health centers with a referral strategy in place (Percentage)
+Feb/2024                                                      Feb/2027                                                   Mar/2030
+5                                                             40                                                         70
+Infants receiving Pentavalent 3 vaccine (Percentage)
+Feb/2024                                                      Mar/2027                                                   Mar/2030
+60                                                            70                                                         85
+The joint field missions between national laboratory of public health and the national veterinary laboratory to collect and analyze samples related to zoonotic diseases (Number)
+Feb/2024                                                      Mar/2027                                                   Mar/2030
+0                                                             4                                                          6
+                                                                         Component 3: Project Management
+Beneficiaries who are satisfied with project activities (Percentage)
+Feb/2024                                                      Mar/2027                                                   Mar/2030
+0                                                             70                                                         80
+Women beneficiaries who are satisfied with project activities (Percentage)
+Feb/2024                                                      Mar/2024                                                   Mar/2030
+0                                                             70                                                         80
+                                                                    Component 4: Contingent Emergency Response
+
+
+                                                                                                                                    Page 27
+        The World Bank
+        Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+        Approach (P504764)
+
+
+
+
+Monitoring & Evaluation Plan: PDO Indicators by PDO Outcomes
+Strengthen health system resilience and multisectoral preparedness and response to health emergencies in the Republic of Rwanda
+The average score of 3.5 in at least 3 JEE core capacity areas in Prevent axis. (Number)
+Description                The score is calculated by choosing 3 technical areas with highest scores in prevent axis and averaging the score
+Frequency                  Project reporting will be done annually. JEE assessment will be conducted once before country project close.
+Data source                JEE
+Methodology for Data
+                           JEE Methodology (3rd edition).
+Collection
+Responsibility for Data
+                           Government is responsible for organizing and executing the JEE assessment, and for reporting results.
+Collection
+The average score of 3.5 in at least 3 JEE core capacity areas in Detect axis. (Number)
+Description                The score is calculated by choosing 3 technical areas with highest scores in detect axis and averaging the score.
+Frequency                  Project reporting will be done annually. JEE assessment will be conducted once before country project close.
+Data source                JEE
+Methodology for Data
+                           JEE Methodology (3rd edition).
+Collection
+Responsibility for Data
+                           Government is responsible for organizing and executing the JEE assessment, and for reporting results.
+Collection
+The average score of 3.5 in at least 3 JEE core capacity areas in Respond axis (Number)
+Description                The score is calculated by choosing 3 technical areas with highest scores in respond axis and averaging the score.
+Frequency                  Project reporting will be done annually. JEE assessment will be conducted once before country project close.
+Data source                JEE
+Methodology for Data
+                           JEE Methodology (3rd edition).
+Collection
+Responsibility for Data
+                           Government is responsible for organizing and executing the JEE assessment, and for reporting results.
+Collection
+The detected health events, where the country met the 7-1-7 targets (Percentage)
+                           Among all health events (i.e. confirmed signals that require a public health response) that were detected in the 12
+Description
+                           months prior to reporting, 60% met all three of the following: detected within 7 days, notified within 1 day, and
+
+
+                                                                                                                                            Page 28
+        The World Bank
+        Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+        Approach (P504764)
+
+
+                          responded to within 7 days.
+Frequency                 Every year.
+Data source               The administrative records maintained by the government PLUS third-party verification.
+                          Government maintains documentation of detected outbreaks and the timing of detection, notification, and response.
+Methodology for Data
+                          This can include clinical records, correspondence, or other documentary evidence. A third-party monitor then confirms
+Collection
+                          the veracity of the documentation.
+Responsibility for Data
+                         Government maintains documentation. Third-party monitor performs verification.
+Collection
+Project-supported laboratories that have achieved a 3-star rating or higher during a SLIPTA audit (Percentage)
+                         Laboratories were supported through project funds. All project-supported laboratories underwent a SLIPTA audit based
+Description              on the WHO/AFRO Methodology; 90% of project-supported laboratories scored a 3-star rating or higher in the SLIPTA
+                         audit.
+Frequency                Annually; and SLIPTA assessment will be conducted before country project close.
+Data source              SLIPTA audit.
+Methodology for Data
+                         SLIPTA methodology according to WHO/AFRO.
+Collection
+Responsibility for Data
+                         Government is responsible for organizing and executing the SLIPTA assessment, and for reporting results.
+Collection
+
+
+Monitoring & Evaluation Plan: Intermediate Results Indicators by Components
+
+Component 1: Strengthening the Preparedness and Resilience of Health Systems to manage HEs
+Professionals with specialized training for delivering health security functions including the One Health approach at the national and
+intermediate levels (Percentage)
+                           Professionals that have completed any of the specialized training within the program and allocated to the national and
+Description
+                           intermediate levels of Health Emergency response.
+Frequency                  Every year.
+Data source                The project report based on the government data set.
+Methodology for Data
+                           Administrative system collecting the information and reporting each year. The World Bank verification of the data.
+Collection
+Responsibility for Data
+                           The government is responsible for maintaining records of personnel.
+Collection
+Female professionals with specialized training for delivering health security functions including the One Health approach at the national and
+intermediate levels (Percentage)
+Description                Professional women that have completed any of the specialized training within the program and allocated to the national
+
+
+                                                                                                                                         Page 29
+        The World Bank
+        Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+        Approach (P504764)
+
+
+                             and intermediate levels of Health Emergency response.
+Frequency                    Every year.
+Data source                  The project report based on the government data set.
+Methodology for Data
+                             Administrative system collecting the information and reporting each year. The World Bank verification of the data.
+Collection
+Responsibility for Data
+                             The government is responsible for maintaining records of personnel.
+Collection
+Laboratories that have mandatory licensing in line with basic quality requirements of national laboratory standards (Percentage)
+Description                  Laboratories that have fulfilled the mandatory licensing requirements.
+Frequency                    Every year.
+Data source                  The project report based on the government information system.
+Methodology for Data
+                             Administrative system collecting the information and reporting each year. The World Bank verification of the data.
+Collection
+Responsibility for Data
+                             The government is responsible for maintaining records of the licensing status of laboratories.
+Collection
+A national multisectoral costed plan for One Health that is developed/updated and under implementation (Number)
+Description                  A fully developed national multisectoral plan with the corresponding costing and plan of action is prepared
+Frequency                    Once and then annual updates.
+Data source                  The project records, government administrative data and the information system in place.
+Methodology for Data
+                             Administrative system collecting the information and reporting each year. The World Bank verification of the data.
+Collection
+Responsibility for Data
+                             The government is responsible for ensuring that the plan is updated.
+Collection
+Component 2: Improving early detection of and response to HEs through a multisectoral approach
+Health facilities with risk assessments for climate shocks conducted in project coverage area (Climate indicator) (Percentage)
+                             The denominator is the total number of health facilities in the project coverage areas (at the borders); the numerator is
+Description
+                             the number of health facilities with risks assessments for climate shocks.
+Frequency                    Every year.
+Data source                  The project report based on the government data set.
+Methodology for Data
+                             Administrative system collecting the information and reporting each year. The World Bank verification of the data.
+Collection
+Responsibility for Data
+                             The government is responsible for maintaining records of the assessments.
+Collection
+Pregnant women receiving four antenatal care visits (Percentage)
+Description                  Number of women with four antenatal care visits out of the total number of women registered for prenatal care.
+Frequency                    Every year.
+
+
+                                                                                                                                               Page 30
+        The World Bank
+        Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+        Approach (P504764)
+
+
+Data source                The government administrative data.
+Methodology for Data
+                           Administrative system collecting the information and reporting each year. The World Bank verification of the data.
+Collection
+Responsibility for Data
+                           The government is responsible for maintaining the administrative records.
+Collection
+Health centers with a referral strategy in place (Percentage)
+                           Number of Health centers with a health emergency and transfer referral strategy in place out of the total of health
+Description
+                           centers at the borders that are part of the project.
+Frequency                  Every year.
+Data source                The project report based on the government data.
+Methodology for Data
+                           Administrative system collecting the information and reporting each year. The World Bank verification of the data.
+Collection
+Responsibility for Data
+                           The government is responsible for maintaining the administrative records.
+Collection
+Infants receiving Pentavalent 3 vaccine (Percentage)
+                           Total number of children under one year of age that have been vaccinated with the pentavalent vaccine over the total
+Description
+                           number of children under one year of age as reported in the birth certificate emission.
+Frequency                  Every year.
+Data source                The national Health Information System.
+Methodology for Data       The indicator measures the number of fully immunized children. Administrative system collecting the information and
+Collection                 reporting each year. The World Bank verification of the data.
+Responsibility for Data
+                           The government is responsible for maintaining the administrative records.
+Collection
+The joint field missions between national laboratory of public health and the national veterinary laboratory to collect and analyze samples
+related to zoonotic diseases (Number)
+                           Joint field missions between national laboratory of public health and the national veterinary laboratory carried out to
+Description
+                           collect and analyze samples related to zoonotic diseases.
+Frequency                  Every year.
+Data source                The project technical unit.
+Methodology for Data       The indicator measures the number of field missions between national laboratory of public health and the national
+Collection                 veterinary laboratory carried out to collect and analyze samples related to zoonotic diseases.
+Responsibility for Data
+                           The project technical unit.
+Collection
+Component 3: Project Management
+Beneficiaries who are satisfied with project activities (Percentage)
+Description                The level of satisfaction of the various beneficiaries of the project is collected.
+
+
+
+                                                                                                                                          Page 31
+        The World Bank
+        Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+        Approach (P504764)
+
+
+Frequency               Twice during the lifecyle of the project: MTR and end of the project.
+Data source             The government report.
+Methodology for Data
+                        A mechanism to collect the level of satisfaction of the various beneficiaries of the project is implemented.
+Collection
+Responsibility for Data
+                        The project technical unit.
+Collection
+Women beneficiaries who are satisfied with project activities (Percentage)
+Description             The level of satisfaction of the beneficiaries of the project, who are female, is collected.
+Frequency               Twice during the lifecycle of the project: MTR and end of the project.
+Data source             The government report.
+Methodology for Data    A mechanism to collect the level of satisifaction of the various beneficiaries of the project, disaggregated by gender, is
+Collection              implemented.
+Responsibility for Data
+                        The project technical unit.
+Collection
+Component 4: Contingent Emergency Response
+
+
+
+
+                                                                                                                                          Page 32
+      The World Bank
+      Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+      Approach (P504764)
+
+
+                             ANNEX 1: Implementation Arrangements and Support Plan
+
+  Financial management
+
+1. Planning and budgeting. RBC shall follow the government’s planning and budgeting procedures. The project
+budgets shall also be presented to the One Health Multisectoral Coordination Mechanism for approval and included in
+the overall Country budgets approved by Parliament. The approved budgets will be monitored on a monthly and
+quarterly basis by the preparation and analysis of budget execution reports including: (a) budget for the period and for
+the year; (b) actual expenditure for the period and to date; (c) future expenditure commitments; and (d) balance of
+period budget remaining (actual expenditure and commitments together compared to period budget). The consolidated
+annual workplan and budget that clearly show planned activities under each component and implementing entity shall
+be submitted to the World Bank for no-objection. Table 1.1 shows the Financial Management Plan (FM) action plan.
+
+2. Accounting and staffing. RBC uses the Integrated Financial Management Information System to record their
+transactions. There is a well-established SPIU at RBC. There will be a comprehensive start-up workshop where all
+implementing entities will be sensitized on FM requirements for the project to build on capacity on managing the World
+Bank-financed operations. Regular training will thereafter be provided for continuous improvement during project
+implementation.
+
+3. Internal control and internal audit. All implementing entities are governed by the legal frameworks and manuals
+of the government. The project involves financing from credit and has multiple components and subcomponents which
+will involve specific arrangements such as CERC. Therefore, RBC shall develop a PIM that will reflect the FM
+arrangements under this project, covering all the implementing agencies and arrangements under each of the
+components. The PIM will reflect detailed internal control arrangements for the project, including the extent of
+segregation of functions in payment processing and internal check mechanisms, in addition to payment approval and
+authorization arrangements. To enhance internal control arrangements for the project, the internal audit unit will review
+project activity, in accordance with the Annual Risk Assessment and Internal Audit Plan and submit reports to the project
+management team and to the World Bank during implementation support missions. The audit committee should also
+follow up on the implementation of audit recommendations.
+
+4. Financial reporting. RBC will prepare and submit quarterly interim financial reports (IFRs) to the World Bank within
+45 days after the end of the quarter end. The interim financial reports will be used to monitor project financial progress,
+including the rate of budget execution and level of disbursements. Financial reports for the project shall at a minimum
+include sources and uses of funds (revenues and expenditures statement); financial position statement; cash flow
+statement; budget execution report; cash forecast; designated account activity statement for each designated account;
+and notes on accounting policies and appendices. Experience from other projects implemented by the entities noted
+reporting quality gaps. Training will be provided to avoid such risks in this project.
+
+5. External audit. Based on experience from other projects implemented by RBC, audit reports were submitted on
+time with unqualified (clean) audit opinions on the financial statement and compliance with laws and regulations and
+guidelines, with improvements recommended on realizing value for money under the COVID-19 emergency project. The
+reports also revealed weaknesses in internal control with gaps in management of assets, procurement, and delay in
+
+
+
+
+                                                                                                                     Page 33
+          The World Bank
+          Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+          Approach (P504764)
+
+
+    project implementation. Follow-up on the audit findings also needs to be strengthened. 1 The project shall be subject to
+    external audit by the Office of the Auditor General (OAG) who has been auditing other World Bank-funded projects
+    implemented by the Government of Rwanda. Should the OAG seek to outsource the audit, the firm must be acceptable
+    to the IDA. The audit reports and management letters will be submitted to the World Bank within six months after the
+    end of the financial year. The audit reports will be publicly disclosed in accordance with the World Bank Access to
+    Information Policy. Upon receipt of the audit reports, RBC will be expected to prepare an action plan to address the
+    audit findings.
+
+    6. Funds flow arrangements. The project will maintain one segregated designated account for RBC, which shall be
+    maintained at the National Bank of Rwanda and shall be denominated in US dollars. It will also maintain a Project
+    Account at National Bank of Rwanda denominated in Rwanda francs for any transfer that may be needed from the DA.
+    Disbursements will follow the report-based disbursement method whereby advances will be made based on two quarter
+    forecasts to be prepared by the implementing entities. The project may also use direct payments, advances to the DA,
+    reimbursement and special commitments depending on the case. Upon effectiveness, the project will submit to the
+    World Bank a request for withdrawal of funds based on the initial six-month expenditure forecast. The detailed
+    modalities will be presented in the PIM and the Disbursement and Financial Information Letter. The project has a CERC
+    component too, and the most effective funds flow mechanism for CERC activities would be assessed and determined
+    should this component be activated.
+
+                                                 Table 1.1. FM Action Plan
+
+               No.                          Action                                    Timeline               Responsibility
+           1         Prepare AWPB with clarity on components,                Not later than March 31 of          RBC
+                     categories, and financiers                                    each Fiscal Year
+           2         Prepare FM section of the PIM to detail internal          Effectiveness condition            RBC
+                     control processes and roles and responsibilities of
+                     entities
+           3         Internal audit (IA) to be conducted based on the risk   As per the annual audit plan         RBC
+                     assessment, and report shared with the World Bank
+           4         Audit committee at RBC to meet regularly and                      ongoing                    RBC
+                     supervise the implementation of audit findings
+           5         Provide a plan for implementation of                    Within a month after receipt         RBC
+                     recommendations of internal and external audit              of the audit report
+                     findings
+
+
+
+
+1
+ For FY June 2023, Rwanda Stunting Prevention and Reduction Project had implemented 75% of audit recommendations; Rwanda COVID-19
+Emergency Response Project implemented 50% of the recommendations.
+
+
+                                                                                                                                    Page 34
+          The World Bank
+          Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+          Approach (P504764)
+
+
+                                                           ANNEX 2: Climate Change
+
+    Vulnerability Context
+
+    1. The Project has been screened for short and long-term climate disasters and risks and has been found to be highly
+    exposed, while the potential risk to project activities is low. Rwanda is a landlocked, hilly country with a tropical
+    climate. Its four main climatic regions are the Lake Kivu region and environs, the highlands, the central plateau, and the
+    eastern plains. The mean annual temperature of Rwanda is currently 19.1°C with monthly temperatures ranging
+    between 18.5°C (July), and 19.5°C (September). But mean annual temperature is projected to increase by 1.9°C by the
+    2050s and 3.9°C by the end of the century, with increases in temperature across all seasons. These increased
+    temperatures are likely to extend the duration of heatwaves by at least 85 days by the 2090s, while reducing cold spells.
+    Rainfall is experienced year-round, though most significantly from September to May (annual precipitation is 1,170.2
+    mm). Most rainfall is received in the western Highlands (Congo-Nile Ridge and Virunga volcanic chain: 1,300 mm to
+    1,600 mm), around Lake Kivu (1,200 mm), and the Bugarama plains in the southwestern region (1,500 mm).
+
+    2. Over the past three decades, Rwanda has experienced more frequent droughts, and intense rainfall triggering
+    floods and landslides, especially in the northern and western provinces, resulting in damage and losses. The eastern
+    province has experienced more severe droughts than the rest of the country. The frequency of heavy rainfall episodes
+    is expected to increase from nine percent to 60 percent and the intensity of rainfall events is projected to increase from
+    three percent to 17 percent. Droughts have historically had the widest geographical reach in Rwanda. For example, the
+    1996 drought affected 12 percent of the population. 2 In the northern and western provinces, the rainy seasons are
+    becoming shorter and more intense, which has heightened the risk of soil erosion in these mountainous areas. As a
+    result, the country ranks among those most severely affected by landslides worldwide, with two events among the 15
+    worst landslides of all time. In 2023, landslides caused 135 deaths and, along with floods and rainstorms, damaged up
+    to 5,963 houses, 58 schools, four health centers, 48 bridges, many national and district roads, numerous voltage lines,
+    12 power stations, eight water treatment plants, and 100 water supply systems. 3
+
+    3. Climate change has significant impacts on health in Rwanda. The increase in the frequency and severity of climate
+    events such as severe droughts, heatwaves, wildfires, intense rainfall, extreme flooding, and landslides have significant
+    direct physical impacts on the health of citizens through vector- and water-borne diseases, heat-related illnesses,
+    noncommunicable diseases, food insecurity and malnutrition, in addition to impacts on the health system and health
+    service delivery. Malaria is the third most prevalent cause of death and disability combined; it is also a leading cause of
+    under-five mortality. 4 Evidence from Rwanda shows that overall, the incidence of malaria increases with precipitation
+    and air temperature—coupled with other environmental factors such as topography, land cover, and land use (especially
+    irrigation usage). 5 Projected increases in climate variability are expected to facilitate the spread of malaria in the
+
+
+
+2 World Bank Group. 2022. Rwanda Country Climate and Development
+Report. https://openknowledge.worldbank.org/bitstream/handle/10986/38067/MainReport.pdf
+3 Ministry in charge of Emergency Management (MINEMA). Disaster Effects Situation Report from 3 to 22 May 2023.
+
+https://www.minema.gov.rw/publications
+4 Gupta, N., Hirschhorn, L. R., Rwabukwisi, F. C., Drobac, P., Sayinzoga, F., Mugeni, C., ... & Amoroso, C. (2018). Causes of death and predictors of
+
+childhood mortality in Rwanda: a matched case-control study using verbal social autopsy. BMC public health, 18(1), 1-9.
+5 Colón-González, F. J., Tompkins, A. M., Biondi, R., Bizimana, J. P., & Namanya, D. B. (2016). Assessing the effects of air temperature and rainfall on
+
+malaria incidence: an epidemiological study across Rwanda and Uganda. Geospatial health, 11(s1).
+
+
+                                                                                                                                                  Page 35
+          The World Bank
+          Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+          Approach (P504764)
+
+
+    Rwandan highlands where malaria is non-endemic. 6 Diarrheal diseases are a major public health burden in Rwanda and
+    are the third most prevalent cause of death among children under five years of age. 7 According to the Rwanda
+    Demographic Health Survey (2019–20), 25.0 percent of children 12–23 months of age and 22.9 percent of children 6–
+    11 months of age had diarrhea during the fortnight preceding the survey. 8 Studies from Rwanda have shown a strong
+    association between rainfall and unsafe water sources—and inadequate sanitation. Heavy rains, flooding, and landslides
+    in early 2020, led to over 53 deaths and 84 injuries, especially in the western and northern provinces. 9 Projected
+    increases in rainfall intensity and frequency will likely lead to more rainfall events and severe flooding, with significant
+    implications for water-borne disease transmission (drinking water sources being contaminated by floodwater), and
+    damage to critical infrastructure.
+
+    4. Further, climate change has a substantive negative impact on health service delivery. Frequent torrential rains,
+    extreme floods and landslides have already caused severe damage to health facilities and other critical infrastructure
+    including roads, bridges, and power lines. For example, heavy rains during early May 2023 caused significant damage to
+    eight health facilities, six water treatment plants, 17 roads and 26 bridges, particularly in the northern, western and
+    southern parts of the country, hindering health service delivery and posing risks to health workers and patients alike. 10
+    Similarly, heavy rains, flooding, and landslides in early 2020, lead to over 53 deaths and 84 injuries especially in the
+    western and northern provinces. 11
+
+    5. Agriculture is highly vulnerable to climate change, which thus threatens food security and nutrition in Rwanda. 12
+    Increasingly unpredictable weather patterns including droughts and floods currently impact food security in the country,
+    and this is expected to further deteriorate with climate change. 13 Research in the country shows a direct relationship
+    between climate change and food production, and then between reduced food production and stunting. 14, 15, 16 For
+    example, a study found that crop failure led to increased stunting in Rwandan girls; conversely, another study in the
+
+
+
+
+6 Maniragaba, A., Muse, S. G., Benjamin, M. N., & Kato, N. J. (2018). Impact of Climate Variation on Malaria Incidence in Rwandan Highland. East
+African Journal Science, 8(8), P56-75.
+7 Claudine, U., Kim, J. Y., Kim, E. M., & Yong, T. S. (2021). Association between sociodemographic factors and diarrhea in children under 5 years in
+
+Rwanda. The Korean Journal of Parasitology, 59(1), 61.
+8 The 2019-20 Rwanda Demographic and Health Survey (RDHS) | National Institute of Statistics Rwanda
+9 CGTN (2020, May 08) Death toll rises to 65 in Rwanda heavy rains. Death toll rises to 65 in Rwanda heavy rains - CGTN
+10 IFRC (2023, August 24) Rwanda: Floods and Landslides – Operational Update (MDRRWO22). https://reliefweb.int/report/rwanda/rwanda-floods-
+
+and-landslides-operational-update-mdrrw022
+11 CGTN (2020, May 08) Death toll rises to 65 in Rwanda heavy rains. Death toll rises to 65 in Rwanda heavy rains - CGTN
+12 J.R. Gapusi and G. Otieno, “Climate-resilient seed systems and access and benefit sharing in Rwanda,” ISSD Africa, Thematic Working Group 3
+
+(2017), https://cgspace.cgiar.org/bitstream/handle/10568/96095/ISSD_Rwanda_2017.pdf?sequence=1&isAllowed=y.
+13 Food and Agriculture Organization (FAO), “Climate Change, Food Security, and Nutrition,” learning panel at the Global Forum on Food Security
+
+and Nutrition (2015), http://www.fao.org/fsnforum/activities/discussions/climate-change-and-fsn.
+14 World Bank, Rwanda Economic Update (Washington, DC: World Bank Group, 2018),
+
+https://documents1.worldbank.org/curated/en/360651529100512847/pdf/127256-NWP-P164510-PUBLIC-Rwanda-Economic-Update-ed-no-12-
+June-2018.pdf.
+15 Malcolm Jacob, “An Analysis of the Impacts of Climate Change on Food Security in the Albertine Rift of East Africa” (masters dissertation,
+
+International Development, Community and Environment (IDCE), Clarke University, 2021), https://commons.clarku.edu/idce_masters_papers/248.
+16 Kemen G. Austin, Robert H. Beach, Daniel Lapidus, Marwa E. Salem, Naomi J. Taylor, Mads Knudsen, and Noel Ujeneza, “Impacts of Climate
+
+Change on Potential Productivity of Eleven Staple Crops in Rwanda” Sustainability 12, no. 10(2020): 4116, https://www.mdpi.com/2071-
+1050/12/10/4116.
+
+
+
+                                                                                                                                              Page 36
+           The World Bank
+           Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+           Approach (P504764)
+
+
+     country found lower stunting during periods of high agricultural production. 17, 18 Further, a significant increase in the
+     number of days with temperatures in excess of 25°C is expected to occur between October and May. Because this
+     coincides with the rainy and planting season, it will hit crop yields, aggravating associated food insecurity and
+     malnutrition, particularly among children, women, and the elderly.
+
+     6. The project intends to implement measures to adapt to the impacts of climate change, primarily floods. Climate
+     shocks are a major driver of HEs in the country. Flooding comprised 47.83 percent of all natural hazards in the country
+     between 1980 and 2020. Droughts comprised 10.87 percent, storms 4.35 percent, and landslides, which are largely
+     flooding driven, 10.87 percent. These climate shocks are becoming more frequent and severe with climate change. In
+     total, 73.92 percent of natural hazards are directly driven by climate change. Epidemics make up another 21.74 percent
+     of all natural hazards. 19 Climate-sensitive diseases—increasing in intensity and severity—such as malaria, dengue,
+     diarrhea, and cholera lie behind a large proportion of the epidemics and are the leading causes of morbidity and
+     mortality in the country. 20, 21, 22, 23 Further, epidemic-prone climate-sensitive diseases comprise a substantial proportion
+     10.24 percent of the total burden of disease, with diarrheal diseases making up 5.39 percent and malaria comprising
+     5.85 percent. Taken together, it is conservatively estimated that shocks driven by climate change make up well above
+     70 percent of all HEs in the country. To address the substantial impacts that climate change has on health and the health
+     system in the country, the project will incorporate actions to address the impact of climate change on the health system,
+     deal with the additional burden of disease from climate-sensitive diseases and prepare for and respond to climate
+     related HEs. Specific details of how climate change is incorporated in the project are outlined in the table below.
+
+                                     Table 2.1 Climate Adaptation and Mitigation
+           Component Name                                             Climate Action
+ Component 1: Strengthening the Preparedness and Resilience of the Health Systems to Manage HEs (US$65.6
+ million).
+ Subcomponent 1.1: Multisectoral       This subcomponent will finance activities to strengthen HE planning,
+ cross-border planning, financing,     financing, and governance for multisectoral cross-border resilience to HEs,
+ and governance for improved           in the context of climate-driven HEs comprising well above 70 percent of all
+ resilience to HEs (US$0.45 million)   HEs. These activities will help the country deal with the additional burden
+                                       of disease from climate-sensitive diseases and the additional impacts of
+                                       more frequent and intense climate shocks on the health system. Climate
+                                       change will be integrated with specific materials and modules throughout
+
+
+
+17 Richard Akresh, Philip Verwimp, and Tom Bundervoet, “Civil war, crop failure, and child stunting in Rwanda,” Economic Development and Cultural
+Change Vol. 59, No.4 (2011): pp. 777-810 https://www.journals.uchicago.edu/doi/epdf/10.1086/660003.
+18 Revati Phalkey, Clara Aranda-Jan, Sabrina Marx, Bernhard Hofle, and Rainer Sauerborn, “Systematic review of current efforts to quantify the
+
+impacts of climate change on undernutrition,” Proceedings of the National Academy of Sciences (PNAS) 112, no. 33(2015): E4522–4529,
+https://www.pnas.org/doi/epdf/10.1073/pnas.1409769112.
+19 World Bank. (2021) CCKP – Historical Hazards – Rwanda
+20 Gupta, N., Hirschhorn, L. R., Rwabukwisi, F. C., Drobac, P., Sayinzoga, F., Mugeni, C., ... & Amoroso, C. (2018). Causes of death and predictors of
+
+childhood mortality in Rwanda: a matched case-control study using verbal social autopsy. BMC public health, 18(1), 1-9.
+21 Colón-González, F. J., Tompkins, A. M., Biondi, R., Bizimana, J. P., & Namanya, D. B. (2016). Assessing the effects of air temperature and rainfall
+
+on malaria incidence: an epidemiological study across Rwanda and Uganda. Geospatial health, 11(s1).
+22 Claudine, U., Kim, J. Y., Kim, E. M., & Yong, T. S. (2021). Association between sociodemographic factors and diarrhea in children under 5 years in
+
+Rwanda. The Korean Journal of Parasitology, 59(1), 61.
+23 The 2019-20 Rwanda Demographic and Health Survey (RDHS) | National Institute of Statistics Rwanda
+
+
+
+
+                                                                                                                                               Page 37
+            The World Bank
+            Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+            Approach (P504764)
+
+
+                                                   all of the activities within the subcomponent. Climate change is a primary
+                                                   driver for the following activities:
+                                                        • Guiding documents for the One Health implementation committee
+                                                            will closely outline a primary focus on climate change impacts on
+                                                            human and animal health, and the additional burden of disease
+                                                            from climate-sensitive diseases and impacts of climate shocks on
+                                                            the health system. Climate change and climate-sensitive diseases
+                                                            are a core part of the committee’s training materials.
+                                                        • The costed and financed national multisectoral plan for One Health
+                                                            will have specific components on climate-sensitive diseases and the
+                                                            impact of climate change on animal and human health, including
+                                                            zoonotic diseases. Climate change will encompass a large
+                                                            proportion of the costed plan.
+                                                        • Strengthening cross-border response will have a primary focus on
+                                                            response to climate shocks and outbreaks of climate-sensitive
+                                                            diseases. Specific materials and modules in the trainings will be
+                                                            included on climate-sensitive disease and the impact of climate
+                                                            change on health, reflecting a primary focus on climate change in
+                                                            this activity. Further, operational materials will have specific
+                                                            components on climate change and health. (adaptation)
+ Subcomponent 1.2: Health                          This subcomponent aims to improve the skills and capacity of the health
+ workforce skills development                      sector for diagnostics, with a strong focus on diagnostics for climate-
+ (US$3.00 million)                                 sensitive disease and response to outbreaks during climate shocks. These
+                                                   activities will help the health system respond to the extra burden of climate-
+                                                   sensitive diseases and changing transmission patterns due to climate
+                                                   change as well as climate shocks which are increasing in frequency and
+                                                   intensity due to climate change. The following activities have a primary
+                                                   focus on climate change i 24:
+
+                                                        •    Developing project-based mentorship initiatives will prioritize
+                                                             students from climate-sensitive areas. Climate vulnerability maps
+                                                             will be used to identify climate-vulnerable locations. Vulnerability
+                                                             levels will be graded and used in application scoring to give priority
+                                                             to people from climate vulnerable areas. Mentorship guiding
+                                                             materials will include substantive modules on climate-sensitive
+                                                             diseases, climate shocks, and use of meteorologic data against
+                                                             health data. Training additional field epidemiologists will prioritize
+                                                             students from climate sensitive areas. Climate vulnerability maps
+                                                             will be used to identify climate vulnerable locations. Vulnerability
+                                                             levels will be graded and used in application scoring to give priority
+                                                             to people from climate vulnerable areas. Training materials will
+
+
+24   The subcomponent will not finance construction or rehabilitation.
+
+
+                                                                                                                                      Page 38
+       The World Bank
+       Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+       Approach (P504764)
+
+
+                                            include substantive modules on climate sensitive diseases, climate
+                                            shocks, and use of meteorologic data against health data.
+
+                                    The following activities are entirely focused on and driven by the effects of
+                                    climate change. They aim to improve the resilience of the health system
+                                    and population to climate change in Rwanda:
+
+                                        •   The subcomponent will finance the development and execution of
+                                            climate and HE preparedness and response training. This activity
+                                            will be entirely focused on climate change and will include materials
+                                            and modules on climate-sensitive diseases and climate change and
+                                            health adaptation alongside the primary focus on climate
+                                            emergency preparedness and response.
+                                        •   The subcomponent will also finance the development of a health
+                                            workforce surge capacity system to respond to climate change. This
+                                            activity will support rapid response to climate shocks. The system
+                                            will include plans and mechanisms to be deployed, including
+                                            housing health workers to respond to climate shocks and outbreaks
+                                            of climate-sensitive diseases while maintaining service delivery
+                                            throughout the country. Systems for worker safety during the
+                                            shocks will also be included.
+
+                                    Climate will also be incorporated in the following activity:
+
+                                        •   Specific modules on climate emergency preparedness, climate
+                                            change adaptation, and climate-sensitive diseases will be
+                                            incorporated into the gender-sensitive training program.
+                                            (adaptation)
+
+Subcomponent 1.3: Building          This subcomponent will support strengthening of Rwanda’s capacity to
+capacity for the National Health    develop, produce and deploy high-quality health commodities. This capacity
+Institute and improving access to   will allow the country to adapt to the extra burden of disease and changing
+quality health commodities          transmission dynamics associated with climate change.
+(US$62.00 million)
+                                    The following activity is primarily focused on and driven by climate change:
+                                        • Support the Integration of a One Health Laboratory and Biobank
+                                            quality management systems for testing of in-process/finished
+                                            products, including development of national reference standards to
+                                            manage zoonotic and climate-sensitive disease outbreaks. This will
+                                            include specific mechanisms for collecting and testing climate-
+                                            sensitive disease samples, as well as zoonotic diseases, whose
+                                            transmission dynamics are linked to climate change. Climate-
+                                            sensitive diseases are one of two primary focal areas of this activity.
+
+
+
+                                                                                                                      Page 39
+The World Bank
+Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+Approach (P504764)
+
+
+                             Climate change will also be integrated in the following activities:
+                                 • Technical assistance on the development of a One Health
+                                     Laboratory will include specific content and training modules on the
+                                     testing and handling of climate-sensitive disease specimens.
+                                     Development of this laboratory and the capacity will help the
+                                     country deal with the increased prevalence and changing
+                                     transmission dynamics of climate-sensitive diseases.
+                                 • Strengthening the capacity of the National Regulatory Agencies and
+                                     Regional Centers of Regulatory Excellence will include focused
+                                     content to support review and approval of pharmaceuticals and
+                                     diagnostics to treat and test climate-sensitive diseases (particularly
+                                     malaria and diarrheal diseases) to help the country respond to
+                                     changing transmission dynamics and the increased prevalence of
+                                     the diseases.
+                                 • The five-year road map plans of action, and strategy for the National
+                                     Regulatory Agencies and Regional Centers of Regulatory Excellence
+                                     will include specific content and sections on accelerating quality
+                                     approvals of pharmaceuticals for climate-sensitive diseases. Data
+                                     and modelling will be used to identify which climate-sensitive
+                                     diseases are the priority in the context.
+                                 • Technical assistance to review national laws and other applicable
+                                     rules on storage, distribution, and control—to determine the
+                                     adequacy of the technical, legal, and regulatory frameworks for
+                                     storage of health commodities—will include specific reviews of the
+                                     documents for their applicability to storage to preserve the quality
+                                     and integrity of pharmaceuticals during climate shocks (primarily
+                                     floods and landslides) as well as during extreme heat. (adaptation)
+                                     The technical assistance will also include a dedicated focus on
+                                     reviewing the frameworks to reduce greenhouse gas (GHG)
+                                     emissions of pharmaceutical storage. This will focus primarily on
+                                     mechanisms to reduce the use of hydrofluorocarbon refrigerants,
+                                     moving to refrigerants with non-fluorinated gases as well as low
+                                     GHG emissions transport options for the pharmaceutical supply
+                                     chain. (mitigation)
+
+                             The expansion of the National Health Institute to include the Diagnostics
+                             Development and Research Center and development of a One Health
+                             Laboratory will include a dedicated focus on climate change resilience and
+                             reducing GHG emissions to improve the country’s ability to adapt to the
+                             changing burden of disease from climate change:
+                                • Climate-shock-resilient building design will be used for the
+                                    construction of the buildings (National Health Institute and One
+                                    Health Laboratory). The project will finance technical assistance to
+                                    develop climate-shock-resilient designs to ensure the building can
+
+
+                                                                                                              Page 40
+             The World Bank
+             Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+             Approach (P504764)
+
+
+                                                  withstand the impacts of floods, storms, and landslides and is built
+                                                  in a location to minimize climate shocks. Climate resiliency
+                                                  measures, such as ensuring extra drainage, additional securing of
+                                                  windows and roofs, and measures to reduce the impacts of
+                                                  groundwater on buildings will go beyond standard practice.
+                                              •   The operations of the National Health Institute will include a
+                                                  dedicated focus on climate-sensitive diseases and understanding
+                                                  the links between climate change and zoonotic and other diseases
+                                                  in this context. This will include dedicated research subjects in these
+                                                  areas. (adaptation)
+                                              •   Aligned with Criteria 9.1 of the ‘Buildings, public installations and
+                                                  end-use energy efficiency’ section of the of the Multilateral
+                                                  Development Bank Mitigation Finance Methodology 25, the Project
+                                                  commits to adopting measures that substantially reduce net energy
+                                                  consumption, resource consumption, and CO2e emissions of the
+                                                  National Health Institute. Aligned with criteria 9.2 “Energy
+                                                  efficiency, renewable energy, CO2e emission reduction, and carbon
+                                                  sinks in green buildings” the project commits to securing post-
+                                                  construction EDGE level 1 certification for the Construction of the
+                                                  National Health Institute. As there are currently no energy
+                                                  efficiency standards in Rwanda, this goes beyond national
+                                                  standards for an estimated total of US$25.2 million. The project will
+                                                  finance technical assistance for energy efficiency assessments and
+                                                  implementing the EDGE building criteria, which will center around
+                                                  low embedded greenhouse gas emissions in the building materials
+                                                  used, thermal protection and low emissivity of the building
+                                                  envelope and glazing and passive energy design with active or
+                                                  passive façade shading elements as appropriate for the National
+                                                  Health Institute. The design and construction of the energy-efficient
+                                                  National Health Institute will contribute to reductions in
+                                                  greenhouse gas emissions.
+                                              •   Aligned with Criteria 9.1 of the ‘Buildings, public installations and
+                                                  end-use energy efficiency’ section of the of the Multilateral
+                                                  Development Bank Mitigation Finance Methodology, the project
+                                                  commits to adopting measures that substantially reduce net energy
+                                                  consumption, resource consumption, and CO2e emissions of the
+                                                  One Health Laboratory. Aligned with criteria 9.2 “Energy efficiency,
+                                                  renewable energy, CO2e emission reduction, and carbon sinks in
+                                                  green buildings” the project commits to securing post-construction
+                                                  EDGE level 1 certification for the construction of the One Health
+                                                  Laboratory. As there are currently no energy efficiency standards in
+
+25   AfDB et al. 2023.
+
+
+                                                                                                                            Page 41
+       The World Bank
+       Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+       Approach (P504764)
+
+
+                                              Rwanda, this goes beyond national standards for an estimated total
+                                              of US$15 million. The project will finance technical assistance for
+                                              energy efficiency assessments and implementing the EDGE building
+                                              criteria, which will center around low embedded greenhouse gas
+                                              emissions in the building materials used, thermal protection and
+                                              low emissivity of the building envelope and glazing and passive
+                                              energy design with active or passive façade shading elements as
+                                              appropriate for the One Health Laboratory. The design and
+                                              construction of the energy efficient One Health Laboratory will
+                                              contribute to reductions in greenhouse gas emissions.
+                                          •   Aligned with Criteria 9.5 of the Multilateral Development Bank
+                                              Mitigation Finance Methodology, electrical laboratory equipment
+                                              purchased through this subcomponent for the One Health Lab and
+                                              National Health Institute will apply energy efficiency standards to
+                                              ensure substantial reduction of energy consumption, resource
+                                              consumption, or CO2e emissions compared to the current context
+                                              in Rwanda, where such guidelines are absent. The cost of this
+                                              electrical laboratory equipment will be an estimated US$5.01
+                                              million from IDA for the One Health Laboratory and US$9.65 million
+                                              for the National Health Institute. This demonstrates the greenhouse
+                                              gas substantiality of this project component in line with Box F.4 of
+                                              the World Bank’s interim guidance on demonstrating substantial
+                                              net greenhouse gas emissions reduction (internal draft), as this
+                                              introduces, and thereby surpasses, national standards. By
+                                              introducing energy efficiency requirements into equipment
+                                              specifications, the project goes above and beyond current
+                                              technology performance benchmarks. Energy Star efficiency
+                                              standards, IEC energy efficiency standards, and similar viable
+                                              standards for medical equipment will be used, exceeding
+                                              mandatory minimum energy performance standards set in Rwanda,
+                                              with particular reference to IEC 60601-1-9, ‘Medical Equipment –
+                                              General requirements for basic safety and essential performance –
+                                              Collateral Standard: Requirements for environmentally conscious
+                                              design’. Rated criteria will be used in the procurement process to
+                                              ensure the highest energy efficiency rating or labelling that allows
+                                              the performance of quality laboratory and research services will be
+                                              pursued (mitigation)
+Subcomponent 1.4: Information         Strengthened digital disease surveillance platforms are essential to
+systems for HEs and the               effectively collect data on climate-sensitive diseases and thereby address
+digitalization of the health sector   the additional climate change attributable burden of these diseases; this will
+(US$0.15 million)                     help the country deal with the increased frequency and intensity of climate
+                                      shocks by allowing for more effective use of health data during climate
+                                      shocks.
+
+
+                                                                                                                       Page 42
+The World Bank
+Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+Approach (P504764)
+
+
+
+                             Accordingly, the following activities are primarily climate change focused
+                             and driven:
+                                • Interactive data visualization tools and predictive models will focus
+                                     primarily on tools and modelling for climate-sensitive diseases, the
+                                     impacts of climate shocks on the health system and health service
+                                     delivery and understanding the impact of climate change on other
+                                     diseases (such as zoonotic diseases) in Rwanda. This will help the
+                                     country deal with the additional burden of disease and changing
+                                     transmission dynamics due to climate change.
+                                • Due to the role of climate change in driving HEs in Rwanda, disease
+                                     surveillance digital platforms will be established to strengthen
+                                     consistent data sharing on climate-sensitive disease outbreaks
+                                     (human, animal, zoonotic, and environmental factors); data on
+                                     climate shocks across multiple sectors and institutions to enhance
+                                     rapid response.
+                                • District-based health risk registries and profiles will be established
+                                     and updated annually, highlighting risks of climate-sensitive
+                                     diseases and climate shocks. Specific content and modules on these
+                                     diseases and shocks will be within the risk registries and profiles.
+                                • Establishing digitalized facility service availability and readiness of
+                                     real-time monitoring will have a primary focus on monitoring
+                                     climate shocks and climate sensitive disease outbreaks. This activity
+                                     also intends to allow the country to use data effectively during
+                                     climate shocks, when accessibility to climate-impacted areas is
+                                     limited.
+
+                             The following activity is entirely focused on and driven by climate change.
+                             It intends to support the resilience of health systems to climate change:
+
+                                 •   This subcomponent will finance the integration of meteorologic
+                                     data into the digital surveillance system (also financed by this
+                                     subcomponent) to better understand the relationships between
+                                     health and climate change and more effectively respond to the
+                                     health impacts of climate change. The subcomponent will finance:
+                                     i) technical assistance; ii) software and hardware to facilitate data
+                                     systems integration.
+
+                             Climate change will be integrated into the following activities in the
+                             subcomponent:
+                                 • Establishment of digital disease surveillance platforms are essential
+                                     to effectively collect data on climate-sensitive diseases to address
+                                     the additional burden of these diseases. This activity also intends to
+                                     allow the country to use data effectively during climate shocks,
+
+
+                                                                                                              Page 43
+      The World Bank
+      Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+      Approach (P504764)
+
+
+                                              when accessibility to climate-impacted areas is limited. The activity
+                                              forms the basis of the digitized surveillance system into which
+                                              meteorologic data integration will be financed under this
+                                              subcomponent.
+                                          •   Improvement of quality, reliability and geographic coverage of
+                                              digital platforms covering key demographics will include measures
+                                              on climate vulnerability of geographic areas to support the use of
+                                              data to better understand the impact of climate change on health
+                                              in Rwanda and adjust to the additional burden of disease and
+                                              changing transmission dynamics. (adaptation)
+
+Component 2: Improving early detection of and response to HEs through a multisectoral approach (US$49.4
+million)
+Subcomponent 2.1: Collaborative     To respond to and manage the increasing disease burden and changing
+multisectoral gender-responsive     transmission dynamics associated with climate change, this subcomponent
+surveillance and laboratory         will finance the expansion of emergency response, testing, and diagnostic
+diagnostics (US$19 million)         capacity with close attention to the expanding incidence and prevalence of
+                                    climate-sensitive diseases, particularly water- and vector-borne diseases in
+                                    the country.
+
+                                      The following activity is primarily climate change driven and focused:
+                                          • Re-establishment of the emergency operations center is being
+                                              undertaken primarily to respond to climate shocks and outbreaks of
+                                              climate-sensitive diseases, given their growing incidence and the
+                                              changing transmission dynamics of climate-sensitive diseases.
+                                              Guiding materials will include a dedicated focus on climate shocks
+                                              and climate-sensitive disease outbreaks and response to these; the
+                                              integrated data dashboards will monitor climate-sensitive diseases
+                                              and climate shocks (landslides, extreme heat, floods, etc.) and will
+                                              include meteorologic data.
+
+                                      Climate change is integrated into the following activities:
+                                          • This subcomponent will finance the expansion of multipathogen
+                                              testing and sequencing abilities to improve characterization and
+                                              monitoring of the impact of climate change on disease transmission
+                                              and spread, pathogen biogeography, and new populations at risk.
+                                              This will include a dedicated look at known climate-sensitive
+                                              diseases (malaria and diarrheal diseases) and will explore changing
+                                              transmission patterns of diseases with strong evidence for links with
+                                              climate change (i.e., zoonotic diseases).
+                                          • Strengthen environmental surveillance systems to monitor
+                                              wastewater for emerging and re-emerging public health threats;
+                                              this will include monitoring of climate-sensitive diseases (cholera,
+                                              bacterial diarrhea, typhoid fever) with specific protocols and time
+
+
+                                                                                                                      Page 44
+       The World Bank
+       Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+       Approach (P504764)
+
+
+                                              periods for monitoring these, including during climate shocks, such
+                                              as flooding.
+                                          •   The subcomponent will support the development of predictive
+                                              gender- sensitive models integrating data on climate change and
+                                              climate-sensitive diseases to better understand disease
+                                              transmission and spread and inform targeted measures.
+                                              (adaptation)
+                                          •   Climate-shock-resilient building design will be used for the
+                                              rehabilitation of the EOC. The project will finance technical
+                                              assistance to develop climate-shock-resilient designs to ensure the
+                                              building can withstand the impacts of floods, storms, and landslides
+                                              and is built in a location to minimize climate shocks. Climate
+                                              resiliency measures, such as ensuring extra drainage, additional
+                                              securing of windows and roofs, and measures to reduce the impacts
+                                              of ground water on buildings will go beyond standard practice.
+                                              (adaptation)
+                                          •   Aligned with Criteria 9.1 of the ‘Buildings, public installations and
+                                              end-use energy efficiency’ section of the of the Multilateral
+                                              Development Bank Mitigation Finance Methodology, the project
+                                              commits to adopting measures that substantially reduce net energy
+                                              consumption, resource consumption, and CO2e emissions of the
+                                              Emergency Operations Center. Aligned with criteria 9.2 “Energy
+                                              efficiency, renewable energy, CO2e emission reduction, and carbon
+                                              sinks in green buildings” the project commits to securing post-
+                                              construction EDGE level 1 certification for the rehabilitation of the
+                                              Emergency Operations Center. As there are currently no energy
+                                              efficiency standards in Rwanda, this goes beyond national
+                                              standards for an estimated total of US$17.5 million. The project will
+                                              finance technical assistance for energy efficiency assessments and
+                                              implementing the EDGE building criteria, which will center around
+                                              low embedded greenhouse gas emissions in the building materials
+                                              used, thermal protection and low emissivity of the building
+                                              envelope and glazing and passive energy design with active or
+                                              passive façade shading elements as appropriate for the Emergency
+                                              Operations Center. The design and construction of the energy-
+                                              efficient Emergency Operations Center will contribute to reductions
+                                              in greenhouse gas emissions. (mitigation)
+
+Subcomponent 2.2: Emergency           This subcomponent will support the strengthening of HE management,
+management, coordination, and         coordination, and essential service continuity— in the context of climate
+essential service continuity (US$27   change being the primary impetus and key driver of over 70 percent of all
+million)                              HEs in Rwanda.
+
+                                      The following activities will have a primary focus on climate change:
+
+
+                                                                                                                      Page 45
+The World Bank
+Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+Approach (P504764)
+
+
+                                 •   Strengthening the quality of care by supporting the review of the
+                                     quality-of-care provision; the ability to reorganize services during a
+                                     HE will have a primary focus on the ability of health services to
+                                     respond and reorganize during climate shocks and outbreaks of
+                                     climate-sensitive diseases, given their primacy amongst HEs in the
+                                     country.
+                                 •   Strengthening the referral system for HE cases will include specific
+                                     materials on referrals of climate-sensitive diseases and a strong
+                                     focus throughout on referrals during HEs. This will help the country
+                                     deal with the increased incidence of climate-sensitive diseases and
+                                     climate shocks and changing transmission dynamics of climate-
+                                     sensitive diseases.
+                                 •   The implementation of updated threat and climate vulnerability
+                                     mapping and risk identification will have a primary focus on risks
+                                     and threats of climate-sensitive diseases and climate shocks; it will
+                                     also assess risks to specific climate-vulnerable geographic locations
+                                     and vulnerable groups including women and girls.
+                                 •   Developing capacity to quickly re-organize and utilize alternative
+                                     service-delivery platforms to prevent service disruption during
+                                     emergencies will have a primary focus on preventing service
+                                     disruptions during climate shocks (primarily) as well as outbreaks of
+                                     climate sensitive diseases. Specific operational plans for continuity
+                                     of services during climate shocks will be covered and will comprise
+                                     most of this activity.
+                                 •   Integrated community level nutrition services will help the country
+                                     respond to the impacts of climate shocks on food security and
+                                     undernutrition in Rwanda, which are directly linked. Services will be
+                                     provided at the community level to more effectively identify
+                                     children who are impacted by climate change and work with
+                                     mothers and children on the nutritional impacts of climate change.
+                                     This activity will cost US$1 million.
+                                 •   Assessing and expanding the capacity of the national emergency
+                                     operating centers will have a primary focus on assessing the centers
+                                     ability to respond to climate shocks and identifying gaps to improve
+                                     capacity. This is a primary focus of this activity, which will inform
+                                     reestablishment of the EOC in Subcomponent 2.1.
+                                 •   Climate-shock-resilient building design will be used for renovations
+                                     of eight health centers. The project will finance technical assistance
+                                     to develop climate-shock-resilient designs to ensure the building
+                                     can withstand the impacts of floods, storms, and landslides and is
+                                     built in an appropriate location to minimize climate shocks. Climate
+                                     resiliency measures, such as ensuring extra drainage, additional
+                                     securing of windows and roofs, and measures to reduce the impacts
+
+
+
+                                                                                                              Page 46
+The World Bank
+Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+Approach (P504764)
+
+
+                                     of groundwater on the health centers will go beyond standard
+                                     practice. (adaptation)
+                                 •   Aligned with Criteria 9.1 of the ‘Buildings, public installations and
+                                     end-use energy efficiency’ section of the of the Multilateral
+                                     Development Bank Mitigation Finance Methodology, the project
+                                     commits to adopting measures that substantially reduce net energy
+                                     consumption, resource consumption, and CO2e emissions of the
+                                     eight health centers. Aligned with criteria 9.2 “Energy efficiency,
+                                     renewable energy, CO2e emission reduction, and carbon sinks in
+                                     green buildings” the project commits to securing post-construction
+                                     EDGE level 1 certification for the rehabilitation of the eight health
+                                     centers. As there are currently no energy efficiency standards in
+                                     Rwanda, this goes beyond national standards for an estimated total
+                                     of US$2.45 million. The project will finance technical assistance for
+                                     energy efficiency assessments and implementing the EDGE building
+                                     criteria, which will center around low embedded greenhouse gas
+                                     emissions in the building materials used, thermal protection and
+                                     low emissivity of the building envelope and glazing and passive
+                                     energy design with active or passive façade shading elements as
+                                     appropriate for the eight health centers. The design and
+                                     construction of the energy-efficient eight health centers will
+                                     contribute to reductions in greenhouse gas emissions.
+                                 •   Aligned with Criteria 9.5 of the Multilateral Development Bank
+                                     Mitigation Finance Methodology, electrical medical equipment
+                                     purchased through this subcomponent for health facilities will apply
+                                     energy efficiency standards to ensure substantial reduction of
+                                     energy consumption, resource consumption, or CO2e emissions
+                                     compared to the current context in Rwanda, where such guidelines
+                                     are absent. The cost of this electrical medical equipment will be an
+                                     estimated US$0.50 million from IDA. This demonstrates the
+                                     greenhouse gas substantiality of this project component in line with
+                                     Box F.4 of the World Bank’s Interim guidance on demonstrating
+                                     substantial net greenhouse gas emissions reduction (internal draft),
+                                     as this introduces, and thereby surpasses, national standards. By
+                                     introducing energy efficiency requirements into equipment
+                                     specifications, the project goes above and beyond current
+                                     technology performance benchmarks. Energy Star efficiency
+                                     standards, IEC energy efficiency standards, and similar viable
+                                     standards for medical equipment will be used exceeding mandatory
+                                     minimum energy performance standards set in Rwanda, with
+                                     particular reference to IEC 60601-1-9, ‘Medical Equipment –
+                                     General requirements for basic safety and essential performance –
+                                     Collateral Standard: Requirements for environmentally conscious
+                                     design’. The highest energy efficiency rating or labelling that allows
+                                     the performance of quality medical and laboratory services
+
+                                                                                                              Page 47
+      The World Bank
+      Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+      Approach (P504764)
+
+
+                                           adequately will be pursued. In the procurement process, rated
+                                           criteria will be used. The highest energy efficiency rating or labelling
+                                           that allows the performance of quality laboratory services
+                                           adequately will be pursued. (mitigation)
+
+                                   The following activities are entirely focused on and driven by climate
+                                   change:
+
+                                       •    Health facility level climate emergency preparedness and response
+                                            plans will be developed for each facility to support adaptation to
+                                            the increased incidence of climate shocks. (adaptation)
+Subcomponent 2.3: Risk             The subcomponent will finance activities on the development of risk
+Communication and Community        communication, community engagement, empowerment and social
+Engagement, empowerment, and       protection for HEs. Given that over 70 percent of all HEs in Rwanda are
+Social Protection for all HEs      driven by climate change—including climate-sensitive diseases, climate-
+(US$0.40 million)                  related health risks (direct injuries and mortalities, heat-related illnesses)
+                                   and climate shocks—the community engagement and communications
+                                   activities in this subcomponent are primarily focused on community
+                                   engagement on the health impacts of climate shocks and climate-sensitive
+                                   diseases.
+
+                                   These primarily climate change focused activities are:
+                                      • Community health workers to create community awareness on
+                                          climate change, climate shocks and related health risks including
+                                          impacts on worsening water- and vector-diseases in the country;
+                                          health promotion behavior such as hand washing and proper
+                                          hygiene to reduce the spread of diarrheal diseases, and climate
+                                          shocks protection awareness.
+                                      • Development of appropriate public health risk communication will
+                                          focus primarily on climate change and its impacts. Plans for these
+                                          communication exercises will be structured to reflect this primary
+                                          focus. All climate awareness programs will target vulnerable
+                                          populations, and vulnerable communities in remote and rural areas
+                                          of the country. (adaptation)
+
+                                   The following activities are entirely focused on climate change:
+
+                                       •   A national climate and health adaptation plan will be developed to
+                                           guide the design and prioritization of strategies to address climate
+                                           change health risks, including a guide for involvement of relevant
+                                           stakeholders and a plan of action.
+
+
+
+                                                                                                                      Page 48
+      The World Bank
+      Rwanda Health Emergency Preparedness, Response and Resilience Project Using the Multiphase Programmatic
+      Approach (P504764)
+
+
+                                        •   Support of the assessment of health system performance during
+                                            climate shocks to identify gaps in service continuity during climate
+                                            shocks and climate HEs—and to design measures to bridge these
+                                            gaps.
+                                        •   Execution of climate shock response simulation exercises focusing
+                                            on the impacts of climate change (floods, landslides, droughts) and
+                                            on the increasing the burden of climate sensitive diseases now and
+                                            in the future to inform adaptation measures. (adaptation)
+
+Component 3: Project Management (US$5.0 million)
+Subcomponent 3.1 Strengthening      This subcomponent will monitor the project’s climate activities and so
+project monitoring and evaluation   should be assessed at the same rate as the project’s other activities.
+(M&E) (US$0.50 million)
+Subcomponent 3.2: Providing need-   This subcomponent will provide technical assistance for and generate
+based technical assistance and      learning on the project’s climate activities and so should be assessed at the
+facilitating learning agenda        same rate as the project’s other activities.
+(US$1.50 million)
+Subcomponent 3.3: Strengthening     This subcomponent will provide strengthen management for the project’s
+project management through          climate activities and so should be assessed at the same rate as the
+support of the implementing         project’s other activities.
+institutions and multisectoral
+collaboration (RBC, RAB, RDB,
+REMA, GMO) (US$3.00 million)
+
+
+
+
+                                                                                                                    Page 49
+

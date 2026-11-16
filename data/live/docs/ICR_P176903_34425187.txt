@@ -1,0 +1,4079 @@
+                                                                                           Report No: ICR00093
+
+                            IMPLEMENTATION COMPLETION AND RESULTS REPORT
+
+
+
+
+
+                                                     ON A
+
+                               LOAN IN THE AMOUNT OF US$230 MILLION AND
+
+
+
+                                CREDIT IN THE AMOUNT OF US$1,270 MILLION
+
+
+
+                                                   TO THE
+
+                                               Republic of Kenya
+
+
+
+                                                      FOR
+
+                        Accelerating Reforms for an Inclusive and Resilient Recovery DPF
+
+
+
+                                              November 19, 2024
+
+
+
+
+
+
+
+
+
+Macroeconomics, Trade and Investment
+
+Eastern And Southern Africa
+
+The World Bank
+
+Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)         ICR DOCUMENT
+
+
+
+
+
+                                        CURRENCY EQUIVALENTS
+
+
+
+                             (Exchange Rate Effective {July 31, 2024})
+
+
+
+                                            Currency Unit = Kenya Shilling (KES)
+
+
+
+                                              KES 129.00 = US$1
+
+
+
+                                            US$ 1.328420= SDR 1
+
+
+
+                                             FISCAL YEAR
+
+                                           July 1 - June 30
+
+
+
+
+
+
+
+
+
+             Regional Vice President:      Victoria Kwakwa
+
+                   Country Director:       Keith E. Hansen
+
+                   Regional Director:      Hassan Zaman
+
+                   Practice Manager:       Abha Prasad
+
+               Task Team Leader (s):       Alexis Sienaert, Allen Curtis K. Dennis
+
+               ICR Main Contributor:       Naomi Mathenge, Jorge Tudela Pye
+
+      The World Bank
+
+      Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)               ICR DOCUMENT
+
+
+
+
+
+
+
+ABBREVIATIONS AND ACRONYMS
+
+
+
+MDAs                                       Ministries, Departments & Agencies
+
+CBK                                        Central Bank of Kenya
+
+MoWSI                                      Ministry of Water, Sanitation & Irrigation
+
+COVID-19                                   Coronavirus Disease 2019
+
+MW                                         Megawatts
+
+CPF                                        Country Partnership Framework
+
+NAWASIP                                    National Water Sector Investment Program
+
+CPS                                        Country Partnership Strategy
+
+NHIF                                       National Hospital Insurance Fund
+
+DPF                                        Development Policy Financing
+
+NPHI                                       National Public Health Institute
+
+DSA                                        Debt Sustainability Analysis
+
+NT                                         National Treasury
+
+DSSI                                       Debt Service Suspension Initiative
+
+E-GP                                       Electronic Government Procurement
+
+P4R                                        Program for Results
+
+EPRA                                       Energy & Petroleum Regulatory Authority
+
+PFM                                        Public Financial Management
+
+ERS                                        Economic Recovery Strategy
+
+PIM                                        Public Investment Management
+
+EU                                         European Union
+
+PPA                                        Power Purchase Agreement
+
+FAO                                        Food & Agriculture Organization
+
+PPAD                                       Public Procurement & Asset Disposal
+
+                                           Financial Sector Strengthening Facility Project for
+
+FIRST                                      Infrastructure Finance
+
+PPP                                        Public Private Partnership
+
+FiT                                        Feed-in-Tariff
+
+FY                                         Fiscal Year
+
+GDP                                        Gross Domestic Product
+
+RCF                                        Rapid Credit Facility
+
+GEMLOC                                     Global Emerging Markets in Local Currency Program
+
+RFP                                        Request for Proposal
+
+GHG                                        Greenhouse Gas
+
+RFQ                                        Request for Quotation
+
+SCD                                        Systematic Country Diagnostic
+
+HCI                                        Human Capital Index
+
+HDI                                        Human Development Index
+
+SDR                                        Special Drawing Rights
+
+     The World Bank
+
+     Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)   ICR DOCUMENT
+
+
+
+
+
+ICT                                       Information & Communications Technology
+
+SOE                                       State-Owned Entity
+
+IDA                                       International Development Association
+
+SSA                                       Sub-Saharan Africa
+
+IFC                                       International Finance Corporation
+
+TA                                        Technical Assistance
+
+IHR                                       International Health Regulations
+
+TOR                                       Terms of Reference
+
+IMF                                       International Monetary Fund
+
+UHC                                       Universal Health Coverage
+
+IPF                                       Investment Project Financing
+
+UN                                        United Nations
+
+UNDP                                      United Nations Development Program
+
+KES                                       Kenyan Shilling
+
+US                                        United States
+
+USD                                       United States Dollar
+
+VAT                                       Value-Added Tax
+
+WASREB                                    Water Services Regulatory Board
+
+KPLC                                      Kenya Power & Lighting Company
+
+WBG                                       World Bank Group
+
+kWh                                       Kilowatt Hour
+
+LCPDP                                     Least Cost Power Development Plan
+
+WRA                                       Water Resources Authority
+
+LDP                                       Letter of Development Policy
+
+WSS                                       Water Supply & Sanitation
+
+LIC                                       Low-Income Country
+
+            The World Bank
+
+            Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)                                                   ICR DOCUMENT
+
+
+
+
+
+
+
+
+
+                                                    TABLE OF CONTENTS
+
+
+
+DATA SHEET ................................................................................................................................................. i
+
+      I.    PROGRAM CONTEXT AND DEVELOPMENT OBJECTIVES .................................................................................2
+
+      II.   ASSESSMENT OF KEY PROGRAM DESIGN AND OUTCOMES ...........................................................................6
+
+      III. OTHER OUTCOMES AND IMPACTS ............................................................................................................. 20
+
+      IV. BANK PERFORMANCE................................................................................................................................ 21
+
+      V.    RISK TO SUSTAINABILITY OF DEVELOPMENT OUTCOMES ............................................................................ 23
+
+      VI. LESSONS AND NEXT PHASE ........................................................................................................................ 24
+
+      ANNEX 1. RESULTS FRAMEWORK ...................................................................................................................... 26
+
+      ANNEX 2. BANK LENDING AND IMPLEMENTATION SUPPORT/SUPERVISION ....................................................... 29
+
+      ANNEX 3. BORROWER, CO-FINANCIERS, AND OTHER DEVELOPMENT PARTNERS’/STAKEHOLDERS’ COMMENTS . 33
+
+      ANNEX 4. SECTORS AND THEMES ...................................................................................................................... 34
+
+      ANNEX 5. SUPPORTING DOCUMENTS ................................................................................................................ 38
+
+      ANNEX 6. BORROWER, CO-FINANCIERS, AND OTHER DEVELOPMENT PARTNERS’/STAKEHOLDERS’ COMMENTS . 39
+
+        The World Bank
+
+        Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)                   ICR DOCUMENT
+
+
+
+
+
+
+
+
+
+DATA SHEET
+
+
+
+@#&OPS~Doctype~OPS^dynamics@icrdpfseriesbasicdata#doctemplate
+
+PROGRAM SERIES
+
+
+
+Program Information
+
+
+
+                                                       Operation Short
+
+  Operation ID       Position in series      Status                                    Operation Name
+
+                                                           Name
+
+                                                       KE:
+
+                                                                         Accelerating Reforms for an Inclusive and
+
+ P175251             First                  Closed     ACCELERATING
+
+                                                                         Resilient Recovery DPF
+
+                                                       REFORMS DPF
+
+                                                       KE:
+
+                                                                         Accelerating Reforms for an Inclusive and
+
+ P176903             Last                   Closed     ACCELERATING
+
+                                                                         Resilient Recovery DPF 2
+
+                                                       REFORMS DPF2
+
+
+
+Program Series Amounts (USD)
+
+
+
+ Operation ID          Ln/Cr/TF                             Approved Amount                      Disbursed Amount
+
+ P175251               IDA-69100                              750,000,000.00                        750,000,000.00
+
+                       IBRD-93430                             230,000,000.00                        230,000,000.00
+
+ P176903
+
+                       IDA-70510                              520,000,000.00                        520,000,000.00
+
+                                    Total                   1,500,000,000.00                       1,500,000,000.00
+
+
+
+DPF Options
+
+
+
+                                                           P176903                             P175251
+
+ Crisis or Post Conflict                                      No                                  No
+
+ Regular Deferred Drawdown Option                             No                                  No
+
+ Catastrophe Deferred Drawdown Option                         No                                  No
+
+ Sub-National Lending                                         No                                  No
+
+ Special Development Policy Lending                           No                                  No
+
+
+
+
+
+CLIENTS
+
+
+
+
+
+Operation ID                      Borrower/Recipient                     Implementing Agency
+
+
+
+
+
+                                                                                                                      i
+
+       The World Bank
+
+       Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)                       ICR DOCUMENT
+
+
+
+
+
+
+
+P175251                          The National Treasury                     The National Treasury
+
+
+
+P176903                          The Republic of Kenya                     The National Treasury and Planning
+
+
+
+
+
+PROGRAM DEVELOPMENT OBJECTIVE
+
+
+
+Program Development Objective
+
+Contributing to Kenya’s inclusive and resilient recovery from the COVID-19 crisis by strengthening (1) fiscal management,
+
+(2) operational efficiency in the electricity sector while placing Kenya on an efficient green energy path, and (3) the
+
+governance framework for Kenya’s natural and human capital (environment, land, water and healthcare).
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@icrdpfseriesfinancing#doctemplate
+
+FINANCING
+
+
+
+                                                 Original Amount         Revised Amount            Actual Disbursed
+
+Financing Source        Operation in series
+
+                                                 (US$)                   (US$)                     (US$)
+
+World Bank Financing                             1,500,000,000.00        1,500,000,000.00          1,500,000,000.00
+
+IDA-69100            P175251                     750,000,000.00          750,000,000.00            750,000,000.00
+
+IBRD-93430           P176903                     230,000,000.00          230,000,000.00            230,000,000.00
+
+IDA-70510            P176903                     520,000,000.00          520,000,000.00            520,000,000.00
+
+                                         Total   1,500,000,000.00        1,500,000,000.00          1,500,000,000.00
+
+
+
+KEY DATES
+
+
+
+
+
+                                                            P176903                                P175251
+
+ Concept Review                                           08-Dec-2021                           07-Apr-2021
+
+ Decision Review                                          27-Jan-2022                           27-Apr-2021
+
+ Approval                                                 15-Mar-2022                           09-Jun-2021
+
+ Effectiveness                                            24-Mar-2022                           15-Jun-2021
+
+ Original Closing                                         28-Feb-2023                           29-Jun-2022
+
+ Actual Closing                                           28-Feb-2023                           29-Jun-2022
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@icrdpfratings#doctemplate
+
+RATINGS SUMMARY
+
+Overall Outcome                        Relevance of Prior Actions                Achievement of Objectives (Efficacy)
+
+Satisfactory                           Satisfactory                              Satisfactory
+
+
+
+                                                                                                                        ii
+
+       The World Bank
+
+       Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)   ICR DOCUMENT
+
+
+
+
+
+
+
+Bank Performance
+
+Satisfactory
+
+
+
+
+
+
+
+
+
+                                                                                               iii
+
+          The World Bank
+
+          Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)   ICR DOCUMENT
+
+
+
+
+
+
+
+ADM STAFF
+
+
+
+
+
+At ICR
+
+
+
+Practice Manager                        Abha Prasad
+
+
+
+Regional Director                       Hassan Zaman
+
+
+
+Global Director                         Maria Manuela Do Rosario Francisco
+
+
+
+Practice Group Vice President           Pablo Saavedra
+
+
+
+Country Director                        Keith E. Hansen
+
+
+
+Regional Vice President                 Victoria Kwakwa
+
+
+
+ADM Responsible Team Leader             Alexis Sienaert
+
+
+
+Co-Team Leader(s)                       Allen Curtis K. Dennis
+
+
+
+
+
+At Approval of P175251
+
+
+
+ Practice Manager                     Vivek Suri
+
+
+
+ Regional Director                    Asad Alam
+
+ Global Director                       Marcello Estevao
+
+
+
+ Practice Group Vice President         Indermit S. Gill
+
+
+
+ Country Director                      Keith Hansen
+
+
+
+ Regional Vice President               Hafez M. H. Ghanem
+
+
+
+ ADM Responsible Team Leader           Allen Curtis K. Dennis
+
+
+
+ Co-Team Leader(s)                     Alexis Sienaert
+
+
+
+
+
+At Approval of P176903
+
+
+
+ Practice Manager                      Vivek Suri
+
+
+
+ Regional Director                     Asad Alam
+
+
+
+ Global Director                       Marcello Estevao
+
+
+
+ Practice Group Vice President         Indermit S. Gill
+
+
+
+ Country Director                      Keith Hansen
+
+
+
+
+
+
+
+                                                                                                Page 1
+
+           The World Bank
+
+           Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)                   ICR DOCUMENT
+
+
+
+
+
+
+
+Regional Vice President                    Hafez M. H. Ghanem
+
+
+
+ADM Responsible Team Leader                Alexis Sienaert
+
+
+
+Co-Team Leader(s)                          Allen Curtis K. Dennis
+
+
+
+
+
+
+
+
+
+I.     PROGRAM CONTEXT AND DEVELOPMENT OBJECTIVES
+
+
+
+
+
+     A. CONTEXT AT APPRAISAL
+
+
+
+     Context
+
+     1.    This Implementation Completion and Results Report (ICR) reviews the performance and results of the
+
+     programmatic series of development policy financing operations (DPFs) on accelerating reforms for inclusive
+
+     growth and resilient recovery to the Republic of Kenya. The programmatic series consisted of one tranche
+
+     operation of US$750 million in IDA financing, and a second operation of US$520 million in IDA financing and US$230
+
+     million in IBRD financing, for a total of US$1.5 billion. The operations were approved by the Executive Board of
+
+     Directors in May 2021 and February 2022, respectively.
+
+     2.    The Kenyan economy was growing before the COVID-19 crisis, but fiscal imbalances were mounting. Real
+
+     gross domestic product (GDP) grew by 4.6 percent on average between 2011-2019, while poverty fell by 13
+
+     percentage points between 2005 and 2019. For most of this period, economic growth was ‘pro-poor’ as poorer
+
+     households saw a great consumption increase than richer households, and thus inequality decreased. Progress in
+
+     other non-monetary dimensions accompanied these indicators. Kenya’s Human Development Index (HDI) which
+
+     aggregates education, life-expectancy, and income indicators rose from 0.55 in 2010 to 0.60 in 2019, while access
+
+     to electricity almost doubled in the last decade, to 75 percent of households in 2018. Government finances were,
+
+     however, increasingly challenged. The fiscal deficit averaged 7.8 percent of GDP between 2015-19 as infrastructure
+
+     spending rose, with revenues remaining relatively flat as a percent of GDP. As a consequence, the government debt
+
+     burden sharply increased, from 42.9 percent of GDP in 2014 to 64.2 percent in 2019; over 20 percentage points of
+
+     GDP in only five years. Rising interest rate costs accompanied the rise in public debt, which went from 2.7 percent
+
+     of GDP in 2014 to 4.1 percent in 2019.
+
+     3.    The 2020 global pandemic exposed Kenya’s economic vulnerabilities, making it urgent to support the
+
+     country and addressing key structural issues. The economy was severely affected through mobility, trade, and
+
+     travel disruption, including the ones implemented by the government’s containment measures. As a consequence,
+
+     at the onset of the pandemic, domestic external demand sharply fell, unemployment rates increased, wage workers
+
+     reduced their working hours, and many household-run businesses had to close. Overall, GDP in 2020 fell by 0.3
+
+     percent, while the poverty rate increased by four percentage points (additional two million poor), erasing five years
+
+     of progress in poverty reduction. Even if livelihoods had recovered substantially by the end of 2020, new waves of
+
+     COVID-19 variants triggered partial lockdown policies, which caused renewed economic pressures. At the time of
+
+     preparation of this DPO, vaccinations had already begun, and the government’s vaccination strategy aimed to
+
+     inoculate all 26 million adult individuals by June 2022.
+
+     4.    At the time of preparation, the Government of Kenya (GoK) paused its fiscal consolidation efforts to address
+
+     the pandemic. Prior to the pandemic, the government was pursuing a broad-based reform program to address long-
+
+     term, structural development challenges, as well as fiscal adjustment to reduce debt vulnerabilities. Recognizing
+
+
+
+                                                                                                                    Page 2
+
+                The World Bank
+
+                Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)                    ICR DOCUMENT
+
+
+
+
+
+        the need to address fiscal vulnerabilities, Kenya’s National Treasury begun implementing a fiscal consolidation plan,
+
+        and expected to reduce the fiscal deficit from 7.6 percent of GDP in FY2018/19 to 6.0 percent in FY2019/20.
+
+        However, because of the COVID-19 outbreak, tax revenues fell below target as the economy slowed down, as well
+
+        as from tax cuts to support households and firm liquidity. The GoK increased public spending to support the
+
+        healthcare system, and the most vulnerable households and firms. The planned fiscal consolidation had to be put
+
+        on pause and the fiscal deficit increased to 7.8 percent of GDP, with government debt rising to 65.9 percent of GDP
+
+        in FY2019/20. The Joint WB-IMF Debt Sustainability Analysis (DSA) was published in April 2021, stating that Kenya’s
+
+        risk of debt distress remained high. Kenya participated in the Debt Service Suspension Initiative (DSSI) as part of a
+
+        G20 initiative to support countries concentrate their resources to fighting the COVID-19 pandemic and safeguard
+
+        lives, which provided relief through an estimated deferment of payments of US$639 million from January to June
+
+        2021.
+
+        5.    Longer-term development challenges in the electricity, climate, and human capital sectors remained,
+
+        despite progress. Kenya Power and Lighting Company (KPLC) was on declining operational and financial
+
+        performance path, threatening the financial sustainability of the sector and affecting overall fiscal stability.
+
+        Inadequate budget transfer to fund the country’s ambitious last-mile electrification program, which saw its access
+
+        rate almost doubling during the 2010s decade, and slow growth in electricity consumption caused liquidity
+
+        constraints for KPLC, forcing it to resort to high-cost, short-term debt to finance long-term assets. Moreover, with
+
+        floods and droughts increasing in frequency and severity, there was ample space to continue strengthening
+
+        environmental governance and climate change adaptations strategies, including leveraging on Kenya’s vast natural
+
+        capital. For example, water and sanitation management had become an increasing challenge due to the scarcity of
+
+        the resource in Kenya as urbanization rates increased. Further, the onset of the COVID-19 pandemic revealed
+
+        shortcomings in Kenya’s capacity to prepare for and respond to public health emergencies.
+
+        6.     At the time of preparation of the operation, the Government was in its last two years in office, and the
+
+        economic outlook remained uncertain. The government, which came into office in 2017, had prioritized four main
+
+        pillars as part of its five-year medium-term plans, referred to as the Big Four. These include: (i) food and nutritional
+
+        security, (ii) at least 500,000 affordable housing units, (iii) universal health coverage, and (iv) raising the share of
+
+        manufacturing to 15 percent of GDP. Although the political environment had improved following the 2017 elections,
+
+        political and governance risks remained substantial. By the time of preparation of this operation, the COVID-19
+
+        pandemic had slowed the progress in the government’s agenda, while the political environment was becoming
+
+        increasingly heated as the August 2022 Presidential elections were near. Although vaccinations had already begun,
+
+        Kenya still faced health and socioeconomic risks from the pandemic. The base case was for the economy to partially
+
+        recover in the near-term, with real GDP projected to grow by 4.5 percent in 2021 and 4.7 percent in 2022.1
+
+        7.    In April 2021, the IMF Board approved a 38-month, SDR 1.66 billion (approximately US$2.34 billion)
+
+        program under the Extended Credit Facility (ECF) and the Extended Fund Facility (EFF), which was a key
+
+        complement to the government and World Bank efforts. The program was aimed at supporting fiscal consolidation
+
+        and the economic recovery from the COVID-19 crisis. The last IMF financing prior to the new program was US$739
+
+        million under the May 2020 RCF to address the impact of COVID-19.
+
+        Rationale for this DPF
+
+        8.    In this context, the rationale of this programmatic DPF series was to support Kenya’s inclusive and resilient
+
+        recovery from the COVID-19 pandemic and address key long-term structural challenges, supporting policy and
+
+        institutional reforms which were critical to the government’s efforts in the wake of the crisis. The DPF supported
+
+
+
+
+
+
+
+1   For additional data, please refer to the selected economic indicators tables in the Program Documents.
+
+
+
+                                                                                                                          Page 3
+
+               The World Bank
+
+               Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)                                    ICR DOCUMENT
+
+
+
+
+
+      the objectives of the WBG Country Partnership Strategy (CPS) FY14–-FY20 for Kenya and was underpinned by
+
+      Kenya’s Vision 2030 agenda. Consultations had informed the associated policy changes supported by the operation.
+
+      9.      Original Program Development Objective(s) (PDO) (as approved)
+
+      The original Program Development Objective (PDO), as approved: Accelerating reforms for a resilient and
+
+      sustainable recovery from the COVID-19 shock, and the continued advancement of Kenya's inclusive growth
+
+      agenda.
+
+      10.     Original Policy Areas/Pillars Supported by the Program (as approved)
+
+      The original policy areas or pillars supported by the program, as approved:
+
+             i.    Fiscal sector reforms to make spending more transparent and efficient and enhance debt management;
+
+            ii.    Electricity sector reforms to strengthen the cornerstone utility (Kenya Power and Lighting Company
+
+                   [KPLC]) and keep Kenya on an efficient, green energy path;
+
+            iii.   Natural capital reforms to strengthen environmental governance, combat climate change, and make
+
+                   land- and water-resource use more efficient, equitable and sustainable; and
+
+            iv.    Human capital reforms to strengthen Kenya’s health and education sectors and lift inclusive growth.
+
+
+
+      11. Both the PDO and the pillars were aligned and relevant for the ongoing country context . As described, the
+
+      COVID-19 pandemic had severe effects in the economy, and it was key to accelerate reforms to avoid a more severe
+
+      hit on Kenyan citizens. Returning to a fiscal consolidation path was a priority for the government (pillars 1 and 2);
+
+      as part of its COVID-19 response, the central government raised spending on social programs by 9.9 percent in
+
+      nominal terms in FY2019/20 and introduced new programs to support households and firms. Moreover, supporting
+
+      the medium-term development agenda to secure a resilient recovery was key to continue the advancements on the
+
+      country’s inclusive growth agenda (pillars 2, 3, and 4).2
+
+      12. In addition, several reform actions strengthen the governance framework through systems and institutional
+
+      mechanisms that contribute to the fight against corruption. These included prior actions as the new e-
+
+      procurement systems, PIM regulations improved land valuation legislation, and improving the governance of the
+
+      National Hospital Insurance Fund (NHIF).
+
+
+
+
+
+      B. SIGNIFICANT CHANGES DURING IMPLEMENTATION
+
+
+
+      13. At the time of appraisal of the second operation of the programmatic series, the Kenyan economy was
+
+      recovering faster than expected from the COVID-19 crisis. The economy was recovering fast and real GDP was
+
+      estimated to have increased by 7.5 percent in 2021. Domestic demand for industrial supplies rose which, in addition
+
+      to higher global energy prices, drove higher import growth. Moreover, increased global demand in 2021 supported
+
+      merchandise exports, particularly in horticulture and manufacturing. On the fiscal side, government revenues had a
+
+      stronger than expected rebound, and thus fiscal consolidation efforts resumed. Overall, GDP growth was now
+
+      projected at 5.8 percent for 2022, as wage and household incomes grew, and improved consumer confidence drove a
+
+      recovery in private consumption.
+
+
+
+
+
+2Pillar selection was supported by analytical underpinnings including: Kenya Public Expenditure Review (2020), a cost of service study supported by
+
+a Bank project in 2018 provided the energy regulator the basis for determining the reasonable costs of service, the Country Environmental Analysis
+
+for Kenya (2019), a 2017 report (Report No: ACS22683) produced by the Bank on issues related to land acquisition challenges, among others. For
+
+additional details, please refer to the DPF1 Program Document, Table 4.
+
+
+
+                                                                                                                                          Page 4
+
+         The World Bank
+
+         Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)                   ICR DOCUMENT
+
+
+
+
+
+14. However, despite the improved economic outlook, the environment remained subject to elevated
+
+uncertainty. Scenarios of potential intensification of the pandemic at a domestic and global levels, where the economy
+
+recovered at a slower phase, were still possible at this stage.
+
+
+
+Revised Program Development Objectives (PDOs)
+
+
+
+15. In this context, the PDO of the operation was refined and streamlined to better reflect the ongoing policy
+
+priorities and changing context. The PDO looked to greater reflect the breath of the program and medium-term policy
+
+priorities rather than mostly focusing on the COVID-19 recovery.
+
+16. The PDO in the second operation changed to: Contributing to Kenya’s inclusive and resilient recovery from the
+
+COVID-19 crisis by strengthening (1) fiscal management, (2) operational efficiency in the electricity sector while placing
+
+Kenya on an efficient green energy path, and (3) the governance framework for Kenya’s natural and human capital
+
+(environment, land, water and healthcare).
+
+Revised Policy Areas/Pillars supported by the Program
+
+17. Pillars 3 and 4 from the first operation were merged, as the indicative trigger on the new University Law was
+
+dropped. As such, there was a relatively stronger focus on the health sector within human capital enhancement.
+
+18.     The policy areas or pillars for the second operation were reduced to three:
+
+       i.    Fiscal and debt reforms to make spending more transparent and efficient, and enhance domestic debt
+
+             market performance;
+
+      ii.    Electricity sector and public private partnership (PPP) reforms to strengthen the cornerstone utility (Kenya
+
+             Power and Lighting Company, KPLC), place Kenya on an efficient, green energy path, and boost private
+
+             infrastructure investment;
+
+      iii.   Strengthen environmental and natural resource governance, combat climate change, and improve
+
+             healthcare including pandemic response.
+
+19. Despite the changes, the overall nature of the program didn’t change. It continued to target the same policy
+
+areas that were the focus of the first part of the series, adjusting mostly to a highly uncertain and changing context.
+
+In that regard, it was adequate that the second part of the series continue being part of the initial operation rather
+
+than becoming a standalone.
+
+
+
+
+
+
+
+
+
+                                                                                                                 Page 5
+
+              The World Bank
+
+              Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)                            ICR DOCUMENT
+
+
+
+
+
+
+
+  II.     ASSESSMENT OF KEY PROGRAM DESIGN AND OUTCOMES
+
+
+
+The matrix below shows the status of each Result indicator and achievement of the targets. Where targets have not been
+
+achieved, the government is committed to achieving them as detailed.
+
+
+
+TABLE 1: RESULTS MATRIX
+
+                                                    DPO RESULTS AND IMPACT
+
+                                                                                                          Indicator, Baseline, Target
+
+               Prior Actions for DPF1                           Prior Actions for DPF2
+
+                                                                                                                 and Results
+
+        Pillar 1: Fiscal and debt reforms to make spending more transparent and efficient, and enhance domestic debt market
+
+                                                            performance
+
+                                                                                                         Results Indicator 1: Number
+
+                                                                                                         of Government Ministries,
+
+                                                                                                         Departments and Agencies
+
+                                                                                                         (MDAs) procuring all of their
+
+                                                                                                         goods and services on the E-
+
+                                                                                                         GP platform.
+
+                                                   Prior Action 1: To strengthen the transparency        Baseline: (2020): 0
+
+ Prior Action 1: To establish the legal            of public procurement and reduce                      Target (2023): 5
+
+ framework for government procurement to           opportunities for corruption, the National            Actual: RI1 Target not
+
+ move to a transparent electronic platform (E-     Treasury has approved the E-GP policy                 achieved.
+
+ GP), the Recipient has issued the Public          framework, which includes the E-GP: (i)               However, the completed
+
+ Procurement and Asset Disposal Regulations        Strategy (ii) Implementation Roadmap (iii)            E_GP models have been
+
+ 2020.                                             Business Model and (iv) Business Processes            piloted in 12 MDAs
+
+                                                   and Specifications                                    (Ministries, Counties,
+
+                                                                                                         Departments and Agencies).
+
+                                                                                                         Follow-up actions to ensure
+
+                                                                                                         complete roll out of the E-GP
+
+                                                                                                         system have been included in
+
+                                                                                                         the FY24 DPO.
+
+
+
+
+
+ Prior Action 2: To strengthen public investment   Prior Action 2: The Cabinet has taken a               Results Indicator 2: Number
+
+ management, the Recipient’s Cabinet has           decision for rationalizing the public investment      of projects complying with
+
+ approved the Public Finance Management            project portfolio, using criteria that include: (i)   PIM Regulations
+
+ (Public Investment Management) Regulations        the completion progress of the project, (ii) the      Baseline (2020): 0
+
+ of 2021, covering all phases of the public        adequacy of financing needed to complete the          Target (2023): 30
+
+ investment project cycle, including the           project beyond the current budget cycle, (iii)        Actual (December 2023): 146.
+
+ provisions relating to the identification,        the priority status of the project considering        Target fully achieved.
+
+ economic appraisal, selection, implementation,    development priorities, and (iv) the availability     Further, the rationalization
+
+ and monitoring and evaluation of all proposed,    of sufficient data on the project to measure          program was to be
+
+ active and completed projects.                    implementation progress and impact.                   completed in February 2024
+
+
+
+
+
+                                                                                                                                  Page 6
+
+           The World Bank
+
+           Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)                            ICR DOCUMENT
+
+
+
+
+
+                                                                                                      and this was because of lack
+
+                                                                                                      of capacity.
+
+                                                                                                      Results Indicator 3:
+
+                                                                                                      Minimum benchmark bond
+
+                                                                                                      size
+
+                                                                                                      Baseline (2020): N/A
+
+                                                                                                      Target (2023): i) Bonds with
+
+                                                                                                      remaining maturity up to 5
+
+                                                                                                      years KES 50 million
+
+                                                                                                      ii) Bonds with remaining
+
+                                                     Prior Action 3: To strengthen the domestic       maturity ranging from 10-25
+
+                                                     bond yield curve and increase secondary          years KES 75 billion
+
+Prior Action 3: The Recipient’s central bank         market liquidity through a transparent and       Actual: Target 95% achieved.
+
+(CBK) has approved and issued the auction            active structured issuance strategy that         The Government has
+
+rules and guidelines for the issuance of Kenyan      ensures regular, predictable benchmark-bond      continued to implement the
+
+government securities, to add clarity and            issuances linked with active liability           Treasury Bonks Benchmark
+
+transparency in the primary domestic debt            management, the Central Bank of Kenya has        program and launched the
+
+market.                                              adopted and published the Guidelines for, and    DhowCSD portal to enhance
+
+                                                     is implementing, the Treasury Bonds              transparency and
+
+                                                     Benchmark program                                accountability:
+
+                                                                                                       i) Bonds with remaining
+
+                                                                                                      maturity up to 5 years KES 60
+
+                                                                                                      billion ii) Bonds with
+
+                                                                                                      remaining maturity ranging 5
+
+                                                                                                      -10 years KES 62 billion
+
+                                                                                                      iii) Bonds with remaining
+
+                                                                                                      maturity ranging 10 -25 years
+
+                                                                                                      KES 66 billion
+
+   Pillar 2: Electricity sector and PPP reforms to strengthen the cornerstone utility (KPLC), place Kenya on an efficient, green
+
+                                      energy path, and boost private infrastructure investment
+
+                                                                                                      Results Indicator 4:
+
+Prior Action 4: To move closer to electricity
+
+                                                                                                      Proportion of KPLC total
+
+sector cost-recovery, i) the Recipient’s Energy      Prior Action 4: To improve the operational and
+
+                                                                                                      revenues to the total revenue
+
+and Petroleum Regulatory Authority (EPRA) has        financial performance of KPLC: (i) a
+
+                                                                                                      requirements computed by
+
+allowed the following in the retail tariff: a)       competitive selection process for the
+
+                                                                                                      KPLC and agreed with EPRA.
+
+higher system loss provision for pass-through        Managing Director of KPLC has been
+
+                                                                                                      Baseline (2020): 87 percent
+
+items (fuel cost, foreign exchange, inflation) for   introduced with the process initiated for the
+
+                                                                                                      Target (2023): 90 percent
+
+KPLC; and b) full pass-through of power              currently vacant position, (ii) a revenue
+
+purchase costs from new capacity PPAs; and ii)       protection program (RPP) covering high value     Actual 2023: 90.65 percent.
+
+The Recipient’s National Treasury has                consumers is being implemented.                  Target Achieved.
+
+provisioned for KSh5 billion in the
+
+
+
+
+
+
+
+
+
+                                                                                                                             Page 7
+
+           The World Bank
+
+           Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)                            ICR DOCUMENT
+
+
+
+
+
+supplementary FY2020/21 budget for partial
+
+                                                                                                      The Utility reported post Tax
+
+clearance of outstanding receivables against
+
+                                                                                                      profit by December 2023
+
+the last mile electrification program
+
+                                                                                                      Result Indicator 5: Pipeline
+
+Prior Action 5: To allow competitive
+
+                                                                                                      electricity capacity (MW)
+
+procurement of renewable energy and to
+
+                                                                                                      terminated or deferred to
+
+reduce the cost of supply, the Recipient’s
+
+                                                                                                      better match supply and
+
+Ministry of Energy has approved and published       Prior Action 5: The Ministry of Energy has
+
+                                                                                                      demand by 2025.
+
+                                                    approved a five-year power generation and
+
+a) a Feed in Tariffs (FiT) policy to include only                                                     Baseline (2020): N/A
+
+                                                    transmission development plan (2021-2026) to
+
+small hydro, biomass and biogas technologies
+
+                                                    guide the competitive procurement of clean        Target (2023): 400 MW
+
+and restricted the generation pipeline to
+
+                                                    energy, at least-cost and aligned with demand.
+
+include only projects that have a signed PPA as
+
+of March 29, 2021;                                                                                    Actual (2023): 522 MW.
+
+b) a Renewable Energy Auctions Policy for solar                                                       Target fully achieved
+
+and wind.
+
+                                                                                                      Result Indicator 6:
+
+                                                                                                      Percentage of electricity
+
+Prior Action 6: To prevent a build-up of excess                                                       generated from fossil fuels.
+
+capacity and support the transition to a                                                              Baseline (2019): 11 percent
+
+greener energy system, the Recipient’s                                                                Target (2023): 5 percent
+
+Ministry of Energy has updated the Least Cost
+
+Power Development Plan (LCPDP) 2021-2030                                                              Actual: 9.74 percent. Target
+
+                                                                                                      partially achieved
+
+
+
+                                                                                                      Results Indicator 7: Number
+
+                                                                                                      of PPP projects that have
+
+                                                                                                      achieved at least one
+
+                                                                                                      additional milestone (RFQ,
+
+                                                    Prior Action 6: The Borrower has enacted the      RFP, negotiations or contract
+
+                                                    Public Private Partnerships Act (2021), to        signing) under the new PPP
+
+                                                    enhance project selection and implementation      Directorate
+
+                                                    processes, and clarify the roles and              Baseline (2020): 0
+
+                                                    responsibilities of key participants in the PPP   Target (2023): 10
+
+                                                    cycle, for efficient and timely delivery of PPP   Actual (2023): 26. target was
+
+                                                    projects.                                         fully achieved, and
+
+                                                                                                      Government has been able to
+
+                                                                                                      raise substantive resources
+
+                                                                                                      from private sector for PPP
+
+                                                                                                      programs.
+
+
+
+
+
+
+
+
+
+                                                                                                                              Page 8
+
+           The World Bank
+
+           Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)                        ICR DOCUMENT
+
+
+
+
+
+
+
+ PDO3/PILLAR 3: STRENGTHEN ENVIRONMENTAL AND NATURAL RESOURCE GOVERNANCE, COMBAT CLIMATE CHANGE, AND
+
+                             IMPROVE HEALTHCARE INCLUDING PANDEMIC RESPONSE
+
+                                                                                               Result Indicator 8: Number of
+
+                                                                                               Counties with County Climate
+
+Prior Action 7: The Recipient has
+
+                                                                                               Change Action Plans developed
+
+approved its updated NDC, with increased    Prior Action 7: In order to enhance
+
+                                                                                               through participatory
+
+and accelerated mitigation commitments      environmental management and mainstream
+
+                                                                                               methodologies endorsed by
+
+by 2030 (with 2025 milestones) and          climate change governance, the Cabinet has
+
+                                                                                               county governments.
+
+submitted it to the secretariat of the      approved the Environmental Management &
+
+                                                                                               Baseline (2020): 8
+
+United Nations Framework Convention on      Coordination Bill (2022).
+
+                                                                                               Target (2023): 25
+
+Climate Change.
+
+                                                                                               Actual (2023): 45. Target fully
+
+                                                                                               achieved.
+
+
+
+                                                                                               Results Indicator 9: Number of
+
+                                                                                               County Value Maps prepared
+
+                                                                                               and submitted to Parliament.
+
+
+
+                                                                                               Baseline (2020); 0
+
+
+
+                                            Prior Action 8: To equip county governments to     Target (2023): 15
+
+                                            mobilize own-source revenues based on property     Actual (2023): 27 maps
+
+                                            and to improve land price transparency, the        prepared but not submitted to
+
+                                            Cabinet has approved the National Rating Bill.     Parliament.
+
+
+
+                                                                                               The remaining 20 county maps
+
+                                                                                               are under preparation.
+
+
+
+
+
+                                                                                               Moderately achieved.
+
+
+
+                                                                                               Results Indicator 10: Number of
+
+                                            Prior Action 9: To enhance access to water and     people gaining access to
+
+Prior Action 8: To ensure prudent           sanitation services and improve the management     improved water and sanitation
+
+management and development of               and conservation of water resources: (i) the       services under the program.
+
+Kenya’s scarce water resources, the         MoWSI has approved the medium-term                 Baseline (2020): 0
+
+Recipient has through its Cabinet           framework for a National Water and Sanitation      Target (2023): 300,000
+
+approved (i) a new National Water Policy;   Investment Program (NAWASIP); (ii) the Water       Actual 2023: 230,731. Target is
+
+and (ii) regulations for the                Resources Authority has designated six basin       substantially achieved due to
+
+implementation of the Water Act 2016        areas under section 24 of the Water Act 2016;      inadequate water supply and
+
+and the Irrigation Act 2019.                and (iii) the MoWSI has stipulated new water use   delay in approving County
+
+                                            charges and water conservation levies.             Government Additional
+
+                                                                                               Allocation Act (CGAAA)
+
+
+
+
+
+
+
+
+
+                                                                                                                          Page 9
+
+           The World Bank
+
+           Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)                          ICR DOCUMENT
+
+
+
+
+
+
+
+
+
+                                                                                                Results Indicator 11: National
+
+                                                                                                data and information system
+
+                                                                                                capturing gender disaggregated
+
+                                                                                                WSS data annually
+
+                                                                                                Baseline (2020): Not in place
+
+                                                                                                Target (2023): In place
+
+
+
+                                                                                                Actual (2023): Information is
+
+                                                                                                available for WASREB regulated
+
+                                                                                                facilities. Target fully achieved.
+
+
+
+                                                                                                Results Indicator 12: Proportion
+
+                                                                                                of the Water Resources
+
+                                                                                                Authority's annual operating
+
+                                                                                                costs financed through water
+
+                                                                                                abstraction revenues.
+
+                                                                                                Baseline (2020): 20 percent
+
+                                                                                                Target (2023): 70 percent
+
+                                                                                                Actual (2023): 58 Percent.
+
+                                                                                                Target is substantially achieved
+
+                                                                                                due to court case challenging
+
+                                                                                                the water abstraction charges.
+
+                                                                                                The regulations have been
+
+                                                                                                developed and are at the AGs
+
+                                                                                                office for publication
+
+                                                                                                Results Indicator 13; Number of
+
+                                                                                                poor and vulnerable households
+
+                                                                                                covered through government-
+
+Prior Action 9: The Recipient has
+
+                                                                                                financed health insurance
+
+submitted to its Parliament the National    Prior Action 10: To strengthen Kenya’s infectious
+
+                                                                                                subsidies.
+
+Hospital Insurance Fund (Amendment)         and non-infectious disease prevention and
+
+                                                                                                Baseline (2020) :223, 968
+
+Bill, 2021 which seeks to align the         response capabilities, including by consolidating
+
+                                                                                                Target (2023): 1,000,00
+
+National Hospital Insurance Fund’s          existing public health emergency preparedness
+
+                                                                                                Actual (2023): 1,696,624. Target
+
+mandate with the goal of universal health   and response functions under one authority, the
+
+                                                                                                fully achieved.
+
+coverage (UHC), and strengthen its          Borrower has c
+
+governance and performance.                                                                     Results Indicator 14: Capacity
+
+                                                                                                to respond to public health
+
+                                                                                                events and emergencies based
+
+
+
+
+
+
+
+
+
+                                                                                                                           Page 10
+
+           The World Bank
+
+           Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)                   ICR DOCUMENT
+
+
+
+
+
+                                                                                          on IHR States Parties Annual
+
+                                                                                          Reporting Tool.
+
+                                                                                          Baseline (2019): 43 percent
+
+                                                                                          Target (2023): 65 percent
+
+                                                                                          Actual (2023): 57 percent.
+
+                                                                                          Target is substantially achieved
+
+                                                                                          (57% vs 65%) due to challenges
+
+                                                                                          faced which are inadequate
+
+                                                                                          capacity.
+
+
+
+
+
+
+
+
+
+      A. RELEVANCE OF PRIOR ACTIONS
+
+Rating: Satisfactory
+
+20. The PDO of this operation is relevant to tackling country-specific development constraints, identified in its
+
+development strategy and set as priorities for the World Bank. The PDO is looking to directly address short- and long-
+
+term challenges faced by the Kenyan economy, which were identified both in the Government’s Big four agenda and the
+
+World Bank Country Partnership Framework. As previously argued, the ongoing COVID-19 pandemic allowed for the
+
+support of the World Bank, with an adequate level of depth and scope of the reforms supported.
+
+21. Relevance of Prior Actions has been rated Satisfactory as all prior actions have a strong and direct link to the
+
+achievement of the PDO. All reforms supported a resilient and sustainable recovery from the COVID-19 shock, and an
+
+inclusive growth agenda (objectives of the PDO). Policy reforms under the DPF were aligned to the government’s priorities
+
+at the time of the operation. Given the COIVD-19 pandemic hit the country during implementation of the Big Four agenda,
+
+the prior actions in the DPF series were aimed to not only support these development goals but to also to accelerate
+
+reforms for a green, resilient, and sustainable recovery from the COVID-19 shock. Recognizing the need to address the
+
+pandemic, the government launched a post-COVID Economic Recovery Strategy (ERS), designed to mitigate its adverse
+
+socioeconomic effects and facilitate opening of the economy, accelerate the economic recovery, and attain higher and
+
+sustained economic growth. Consequently, the DPF pillars were selected based on the need to strengthen fiscal
+
+management to restore fiscal space, enhance operational efficiency in the electricity sector aimed at placing Kenya on an
+
+efficient green energy path, and support governance framework to leverage on the country’s natural and human capital,
+
+including support to its healthcare system.
+
+Pillar 1. Rating: Satisfactory. Fiscal and debt reforms to make spending more transparent and efficient and enhance
+
+domestic debt market performance.
+
+22.    The prior actions under pillar 1 were organized as follows:
+
+              •   Transparent procurement process: Assessment of DPF 1, PA1 and DPF 2, PA1
+
+              •   Strengthening public investment management: Assessment of DPF 1 PA2 and DPF 2 PA2
+
+              •   Ensuring clarity and transparency in the primary debt market: Assessment of DPF 1 PA3 and DPF 2 PA3
+
+23. This set of Prior Actions is: i) clearly and credibly linked to the PDO, and ii) meaningfully address and contribute
+
+to solving one of the country’s key constraints. There is a clear and credible result chain link between the prior actions,
+
+the PDO, and the country’s key constraints, grounded in analytical work at the country level. Moreover, the PAs make a
+
+
+
+
+
+
+
+                                                                                                                   Page 11
+
+              The World Bank
+
+              Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)                                    ICR DOCUMENT
+
+
+
+
+
+    major contribution to the achievement of the PDO. In particular, the PAs are directly linked to strengthening fiscal
+
+    management, contributing to its achievement and to addressing one of the country’s central challenges.
+
+    24. DPF 1, PA1 and DPF 2, PA1: The government’s procurement budget accounted for an average of 9 percent of GDP
+
+    at the time of preparing the operation. Despite efforts to make the procurement process transparent through executive
+
+    order (E.O.) #2 (2018), aimed at strengthening the public procurement systems, little progress has been achieved. 3
+
+    Regulations to establish the legal framework for government procurement to move to an electronic platform were
+
+    approved in 2020 but not issued, and there was a need for an e-GP policy framework. Notably, implementation of the w-
+
+    GP system and processes was also being supported through the World Bank Program for Results (P4R), Program to
+
+    Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK, P161387).
+
+    25. DPF 1 PA2 and DPF 2 PA2: In addition, non-performing projects of the development budget called for the need to
+
+    streamline them. This was informed by a World Bank Public Expenditure Review report, that identified the need to
+
+    streamline non-performing projects in the budget. 4 The report noted the need for fiscal consolidation and spurring
+
+    economic development through improving efficiency in the economy, encouraging more private sector participation to
+
+    make it more responsive to market forces and competition.
+
+    26. DPF 1 PA3 and DPF 2 PA3: Enhancing domestic debt market performance required stronger transparency, price
+
+    discovery, and increased liquidity in the domestic debt market. At the time of preparing the operation, the government’s
+
+    domestic debt portfolio was large - about 48 percent as of the end of 2020, equivalent to 33.1 percent of GDP - and was
+
+    comprised mainly of treasury bills and bonds. There was, therefore, scope to strengthen the domestic debt market
+
+    functioning and efficiency, thereby reducing government’s debt costs and risks, by boosting transparency and confidence
+
+    in the primary and secondary markets.
+
+    Pillar 2. Rating: Satisfactory. Electricity sector and PPP reforms to strengthen the cornerstone utility (KPLC), place Kenya
+
+    on an efficient, green energy path, and boost private infrastructure investment.
+
+    27.   The prior actions under pillar 2 were organized as follows:
+
+                  •   Strengthening the energy sector through good governance and improved performance: Assessment of
+
+                      DPF 1 PA4 and DPF 2 PA4
+
+                  •   Ensuring competitive procurement of renewable energy and reduction of cost of supply by government:
+
+                      assessment of DPF 1 PA5 and DPF 2 PA5
+
+                  •   Boosting private infrastructure investment: Assessment of DPF 2 PA6
+
+    28. This set of Prior Actions is: i) clearly and credibly linked to the PDO, and ii) meaningfully address and contribute
+
+    solving one of the country’s key constraints. There is a clear and credible result chain link between them, the PDO, and
+
+    the country’s key constraints, grounded in analytical work at the country level. Moreover, the PA(s) makes a major
+
+    contribution to the achievement of the PDO. In particular, the PAs are directly linked to strengthen the operational
+
+    efficiency in the electricity sector while placing Kenya on an efficient green energy path, contributing to its achievement
+
+    and to addressing one of the country’s key challenges.
+
+    29. DPF 1 PA4 and DPF 2 PA4: Despite Kenya being one of the first countries in SSA to institute market reforms in the
+
+    energy sector, the sector faced several challenges. The sector saw surplus supply through increasing private sector
+
+    participation and the last-mile electrification program, which brough electricity access rates to almost doubling in the past
+
+    decade to more than 70 percent. However, there was a continuous decline in the operational and financial performance
+
+
+
+
+
+3Please refer to: https://ppra.go.ke/download/executive-order-2-of-2018/
+
+4World Bank. 2020. Kenya - Public Expenditure Review: Options for Fiscal Consolidation after the COVID-19 Crisis. Public Expenditure Review (PER).
+
+Washington, D.C. : World Bank Group.
+
+
+
+                                                                                                                                         Page 12
+
+          The World Bank
+
+          Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)                   ICR DOCUMENT
+
+
+
+
+
+of Kenya Power and Lighting Company (KPLC) - the cornerstone distribution utility -, which threatened the financial
+
+sustainability of the sector. Inadequate budget transfers to fund the last mile electrification program coupled with slow
+
+growth in electricity consumption - despite the aggressive connection campaign - also caused liquidity constraints for
+
+KPLC, forcing it to resort to high-cost, short-term debt to finance long-term assets.
+
+30. DPF 1 PA5, PA6, and DPF 2 PA5, PA6: Moreover, there was need to provide a sound enabling environment for
+
+private investment in renewables. While PPP’s span the entire economy, there was need to improve their legal and
+
+institutional setup and enable them to fulfil their potential to crowd in private infrastructure investment. This would
+
+strengthen risk-sharing mechanisms between the public and private sectors, leverage more private sector capital and
+
+expertise to efficiently operate and maintain infrastructure, and support private sector-led growth by opening up
+
+investment and revenue-generating opportunities for businesses.
+
+Pillar 3. Rating: Satisfactory. Strengthen environmental and natural resource governance, combat climate change, and
+
+improve healthcare including pandemic response.
+
+31.   The prior actions under pillar 3 were organized as follows:
+
+              •   Institutionalize climate change mitigation and adaptation: assessment of DPF 1 PA7 and DPF 2 PA7
+
+              •   Enhancing County Own Source Revenues (OSR) and improvement of land price transparency: DPF 2 PA8
+
+              •   Supporting the management and conservation of Kenya’s water resources: Assessment of DPF 1 PA 8
+
+                  and DPF 2 PA9
+
+              •   Improving the country’s healthcare system: Assessment of DPF 1 PA9 and DPF 2 PA 10
+
+32. This set of Prior Actions is: i) clearly and credibly linked to the PDO, and ii) meaningfully address and contribute
+
+solving one of the country’s key constraints. There is a clear and credible result chain link between them, the PDO, and
+
+the country’s key constraints, grounded in analytical work at the country level. Moreover, the PA(s) makes a major
+
+contribution to the achievement of the PDO. In particular, PAs support the strengthening the governance framework for
+
+Kenya’s natural and human capital framework in the environment, land, water and healthcare sectors.
+
+33. DPF 1 PA7 and DPF 2 PA7: Kenya’s economy depends heavily on environmental goods and services. Natural capital
+
+accounts for 35 percent of total wealth in Kenya, while 42 percent of GDP and almost 70 percent of total employment are
+
+generated by natural resource-related sectors. Therefore, a critical aspect of the environmental policy reform agenda is
+
+to mainstream climate change mitigation and adaptation considerations both at the county and national government
+
+levels.
+
+34. DPF 2 PA8: At the time of preparation, Kenya lacked standardized land value information. This was a critical
+
+shortcoming in the transparency of the market for land, and resulted in speculative activity in public infrastructure
+
+projects, increasing their costs. The Rating Act and Rating Valuation Act, which provided the legal basis for counties to
+
+determine ratings for land valuation, was outdated. The reform supported the development of a national land value index,
+
+which aimed to overcome these shortcomings.
+
+35. DPF 1 PA 8 & DPF 2 PA9: Kenya is a water-scarce country, with low and declining freshwater resources. In Kenya,
+
+rainfall is unevenly distributed, both spatially and temporally, and over 80 percent of land is arid or semi-arid. Critical
+
+watersheds are degrading fast due to poor land-use practices, deforestation, and encroachment on riparian lands.
+
+Moreover, over 30 percent of the population in Kenya lacked access to basic water services, 35 million people lacked
+
+access to basic sanitation, and four million had no sanitation access at all and practice open defecation. Reforms under
+
+these PAs also supported significant health and climate change adaptation benefits.
+
+36. DPF 1 PA9 & DPF 2 PA 10: The healthcare sector has been severely impacted by the COVID-19 pandemic. For
+
+ensuring more progress is made, this programmatic DPF series supports measures to enhance health sector governance,
+
+
+
+                                                                                                                  Page 13
+
+                 The World Bank
+
+                 Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)                ICR DOCUMENT
+
+
+
+
+
+    make more progress towards universal health coverage, and address institutional shortcomings revealed by COVID-19,
+
+    directly linked to the PDO and addressing one of the country’s key constraints.
+
+
+
+
+
+          B. ACHIEVEMENT OF OBJECTIVES (EFFICACY)
+
+
+
+    Rating: Satisfactory
+
+    37. Efficacy is rated as satisfactory on the basis that most objectives were achieved with few shortcomings in the
+
+    targeted results. Most result indicators are rated substantial or better, with no RI rated as negligible. Shortcomings on
+
+    the achievement of indicators include delays or deviations from fully achieving the targeted results.
+
+    Pillar 1: Fiscal and debt reforms to make spending more transparent and efficient and enhance domestic debt market
+
+    performance.
+
+
+
+    Measured by RI.1 (rating: substantial), RI.2 (rating: high), RI.3 (rating: substantial).
+
+    38. The objectives under this pillar were threefold – (i) improve transparency in public procurement; (ii) strengthen the
+
+    quality of public investment spending; and (iii) strengthen the performance of the domestic debt market. The results
+
+    indicators for the prior actions under pillar 1 were:
+
+
+
+             •    RI.1. Number of Government Ministries, Departments and Agencies (MDAs) procuring all of their goods and
+
+                  services on the E-GP platform
+
+             •    RI.2. Number of projects complying with PIM Regulations
+
+             •    RI.3. Minimum benchmark bond size
+
+    39. R.1 was substantially achieved. To improve transparency in public procurement, at least 5 MDAs were expected to
+
+    start procuring all their goods and services on the E-GP system by December 2023. Implementation of the E-GP policy and
+
+    regulations was expected to lead to transparency in procurement of goods and services and adherence to project cycle
+
+    requirements by MDAs and thus better utilization of available resources thus increasing fiscal space for social protection.
+
+    The roll-out was to be done in two phases, with 14 modules expected to be developed and rolled-out in phase 1. Thus,
+
+    the RI was appropriate for the intended objective and with an adequate measurement design.
+
+    40. The full implementation of E-GP was delayed due to reallocations of the budget towards addressing the impacts
+
+    of the COVID-19 pandemic. Out of the 14 phase 1 modules that were to be developed and piloted, 13 were developed
+
+    and piloted in 12 MDAs (including 3 counties5). The pilot phase has since been extended and is planned for completion by
+
+    December 2024 including the last module of contract management. Development of phase 2 modules is expected to start
+
+    in January 2025 with roll-out expected to begin in July 2025.
+
+    41.    In addition, both phase 1 and 2 modules have integration points namely as shown below.
+
+
+
+
+
+
+
+
+
+5   Makueni, Elgeyo Marakwet and Busia.
+
+
+
+                                                                                                                      Page 14
+
+          The World Bank
+
+          Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)                      ICR DOCUMENT
+
+
+
+
+
+TABLE 1: E-GP MODULES AND INTEGRATION POINTS
+
+
+
+ #    Phase 1                                 Phase 2                              e-GP Integration Points
+
+ 1    Registration- buyer                     System triggered notification        Business Registration Service (BRS)
+
+ 2    Registration supplier                   Reporting and data analytics         Kenya Revenue Authority (KRA - iTax)
+
+ 2    Annual Procurement Plan                 Procurement management               Access to Government Procurement
+
+                                              information                          Opportunities (AGPO)
+
+ 4    Annual disposal plan                    Open contract data standards         National Construction Authority (NCA)
+
+                                              (OCDS)
+
+ 5    Initiation of procurement process/                                           Integrated Population Registration
+
+      requisition                                                                  System (IPRS)
+
+ 6    Template library – procurement                                               IFMIS Hyperion
+
+      methods
+
+ 7    Tender preparation, approval, and                                            IFMIS Ledger
+
+      publishing
+
+ 8    e-tender submission                                                          Public Procurement Information Portal
+
+                                                                                   (PPIP):
+
+ 9    Evaluation committee creation                                                E-Citizen/Payment Gateway
+
+ 10 Tender opening
+
+ 11 Tender evaluation
+
+ 12 Negotiation
+
+ 13 Award notification/Purchase
+
+    order
+
+ 14 Contract management
+
+
+
+42. RI.2 was fully achieved. To strengthen the quality of public investment spending, the National Treasury
+
+disseminated the PIM regulations to MDAs, developed investment models, and subjected projects and programs to PIM
+
+requirements as detailed in the regulations. The government was able to identify projects that were behind schedule in
+
+implementation, those that had not started, and those that had delays to facilitate rationalization of the projects which
+
+is still ongoing. However, most of the projects were found to be on-going or completed despite a few that are yet to be
+
+investigated. Still, the RI was appropriate for the intended objective and with an adequate measurement design.
+
+43. RI.3 was substantially achieved. The Central Bank of Kenya (CBK) developed and issued auction rules and guidelines
+
+and is implementing the Treasury Bonds Benchmark program. It has also launched the DhowCSD to enhance transparency
+
+and predictability of the Government bonds. RI.3 targets were 95 percent achieved. The RI was appropriate for the
+
+intended objective and with an adequate measurement design.
+
+44. Pillar 2: Electricity sector and PPP reforms to strengthen the cornerstone utility (KPLC), place Kenya on an
+
+efficient, green energy path, and boost private infrastructure investment.
+
+
+
+Measured by RI.4 (rating: high), RI.5 (rating: high), RI.6 (rating: substantial), RI.7 (rating: high).
+
+45. The objectives under this pillar were: (i) Improvement in the efficiency of operations, phasing out costly excess
+
+supply, and new electricity generation based on clean technologies aligned with realistic demand forecasts; and (ii)
+
+
+
+                                                                                                                    Page 15
+
+            The World Bank
+
+            Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)                     ICR DOCUMENT
+
+
+
+
+
+Improve the legal and institutional setup for PPPs, to enable PPPs to fulfil their potential to crowd in private infrastructure
+
+investment. The results indicator for the prior actions under pillar 2 were:
+
+        •    RI.4. Cost-recovery embodied in retail electricity tariffs: proportion of KPLC total revenues to the total
+
+             revenue requirements computed by KPLC and agreed with the Electricity and Petroleum Regulatory
+
+             Authority (EPRA)
+
+        •    RI.5. Pipeline electricity capacity (MW) terminated or deferred to better match
+
+        •    RI.6. Percentage of electricity generated from fossil fuels
+
+        •    RI.7. Number of PPP projects that have achieved at least one additional milestone
+
+46. RI4 was fully achieved. The PAs was related to strengthening its operational and financial performance, improving
+
+its governance structure, reviewing the retail tariff to include higher system losses, and reducing outstanding receivables
+
+through budget provision for last mile electrification. This required the National Treasury to partially clear outstanding
+
+receivables and adjustment of the retail electricity tariff, and initiate the selection of the entity Managing Director. The RI
+
+was appropriate for the intended objective and with an adequate measurement design.
+
+47. RI.5 and RI.6 were fully and substantially achieved, respectively. The government deferred the procurement of
+
+522MW to 2025 to better align electricity supply and demand, which was beyond the agreed target of 400MW (RI.5).
+
+However, the reduction of electricity generated from fossil fuels (RI.6) was substantially achieved due to the frequent
+
+droughts experienced in the country during the period. Despite this, KPLC was able to experience profits by December
+
+2023 due to improved performance and governance. The RIs were appropriate for the intended objective and with an
+
+adequate measurement design.
+
+48. RI.7 was fully achieved. On PPP reforms, the Public Private Partnership Act 2021 was enacted to facilitate a speedy
+
+revision of private sector investment proposal, as stakeholders better understood their roles and responsibilities under
+
+PPP programs. The enactment of the PPP Act enabled the government to raise substantive resources from private sector
+
+and speed up revisions and processing of PPP proposals. Thus, RI7 was appropriate for the intended objective and with
+
+an adequate measurement design.
+
+Pillar 3: Strengthen environmental and natural resource governance, combat climate change, and improve healthcare
+
+including pandemic response.
+
+Measured by RI.8 (rating: high), RI.9 (rating: moderate), RI.10 (rating: substantial), RI.11 (rating: high), RI.12 (rating:
+
+substantial), RI.13 (rating: high), RI.14 (rating: substantial)
+
+The objectives included: (i) strengthening environmental and climate governance, (ii) making Kenya’s land market more
+
+transparent and equipping counties to mobilize own-source revenues based on property taxes, (iii) more sustainable
+
+water resource management, and (iv) strengthening public health emergency preparedness and response. The results
+
+indicators under this pillar included:
+
+       •    RI.8: Number of Counties with County Climate Change Action Plans developed through participatory
+
+            methodologies endorsed by county governments.
+
+       •    RI.9: Number of County Value Maps prepared and submitted to Parliament.
+
+       •    RI.10: Number of people gaining access to improved water and sanitation services under the program.
+
+       •    RI.11: National data and information system capturing gender disaggregated water supply and sanitation data
+
+            annually.
+
+       •    RI.12: Proportion of the Water Resources Authority’s annual operating costs financed through water
+
+            abstraction revenue.
+
+       •    RI.13: Number of poor and vulnerable households covered through government-financed health insurance
+
+            subsidies.
+
+
+
+                                                                                                                     Page 16
+
+             The World Bank
+
+             Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)                  ICR DOCUMENT
+
+
+
+
+
+         •   RI.14: Capacity to respond to public health events and emergencies based on IHR States Parties Annual
+
+             Reporting Tool.
+
+49. RI.8 and RI.9 were fully and moderately achieved, respectively. RI.8 was fully achieved. Regarding RI.9, the GoK
+
+submitted the National Rating Bill to Parliament for enactment, was approved by it, and sent to the Senate for
+
+consideration in November 2023. The Senate collected information and clarifications from government stakeholders in
+
+February 2024 and the Bill is following the due process for enactment. The Ministry of Lands and Physical Planning,
+
+through the State Department for Lands, has prepared 27 value map indices, while the preparation of the remaining 20
+
+is on-going and at various stages of completion. Still, the maps have not yet been submitted to Parliament due to lack of
+
+clarity on processing steps and budgetary constraints. The target was to submit to Parliament 15 value indices maps by
+
+June 2023. Overall, the RIs were appropriate for the intended objectives and with an adequate measurement design.
+
+50. RI.10 was substantially achieved, while RI.11 was fully achieved. Increasing the number of people with access to
+
+improved water and sanitation services required approval of the National Water policy, the medium-term framework for
+
+a National Water and Sanitation Investment Program, and issuance of regulations. This would lead to prudent
+
+conservation, management, and development of Kenya’s scare water resources, as well as enhance access to improved
+
+water and sanitation service. Overall, 77 percent of the target population (230,731 of the 300,000) gained access to
+
+improved water and sanitation services under the program (RI.10). Moreover, the Government has developed and rolled
+
+out the National Data and Information system to enable WASREB capture gender disaggregated WSS data annually. The
+
+RIs were appropriate for the intended objectives and with an adequate measurement design (RI.11).
+
+51. RI.12 was substantially achieved; the implementation of water use and conservation levies was challenged by the
+
+Senate. Still, new regulations have been developed and submitted to office of Attorney General for publication after
+
+intensive consultation with stakeholders. While the target was to ensure that 70 percent of the annual operating costs of
+
+the Water Resources Authority (WRA) are financed through water abstraction revenues, only 58 percent of the WASREB
+
+annual cost is financed through water charges. The RI was appropriate for the intended objective and with an adequate
+
+measurement design.
+
+52. RI.13 and RI.14 were fully and substantially achieved, respectively. The NHIF bill was replaced with the National
+
+Social Health Fund Act 2023, which is aligned to UHC. For RI.13, the target was to reach one million people, which was
+
+this was exceeded. The number of people supported through various programs is shown in table 2 below. For RI.14, the
+
+target is substantially achieved (57 percent vs. 65 percent) due to insufficient State capacity and lack of funding.
+
+53.   The RIs were appropriate for the intended objectives and with an adequate measurement design.
+
+
+
+TABLE 2: NUMBER OF PEOPLE SUPPORTED UNDER THE UNIVERSAL HEALTH CARE
+
+ Description                                                                     Number of
+
+                                                                                 households
+
+ Health Insurance Subsidy Programme (HISP)                                        254,368
+
+ Govt sponsored indigents - UHC                                                   456,354
+
+ Older persons and persons with severe disability (OPSD)                           58,800
+
+
+
+ Linda Mama                                                                       927,102
+
+ Total                                                                            1,696,624
+
+
+
+54. Other programs to strengthen provision of universal healthcare were implemented. These are either completed
+
+or on-going, such as Kenya Health Human resource Advisory Council, with the objective to improve the quality,
+
+affordability and accessibility of healthcare across the nation, and the enactment of the Social health Insurance Act, whose
+
+objective is to promote access and affordability of healthcare service to all. In addition, the establishment of the National
+
+
+
+                                                                                                                    Page 17
+
+          The World Bank
+
+          Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)                  ICR DOCUMENT
+
+
+
+
+
+Public Health Institute has enabled the government to consolidate the coordination of emergency, prevention, and
+
+response to diseases. For effective delivery of its mandate, the Institute has adopted a Joint Work Planning with
+
+development partners this year, which has leveraged on financial and technical resources available thus reducing
+
+redundancies and increasing efficiency in carrying out activities. The results indicator is substantially achieved.
+
+55. In conclusion, efficacy is rated as Satisfactory. As described, the evidence shows that their appropriateness,
+
+measurability, and realization were achieved, with a few indicators not fully achieved (or rated as ‘high’) in cases where
+
+delays were experienced for the approval of additional pre-requisites or there were challenges in garnering the required
+
+funds due to the need to address the effects of COVID-19 pandemic. As described in the context section, the situation
+
+faced by the GoK was of high uncertainty. The program was designed to cover a wide range of issues and sectors, all aimed
+
+at deepening the impact of the previous program and addressing the negative effects of the COVID-19. It also enabled
+
+support to the Government’s Big Four agenda and spur inclusive growth. Overall, the reform program was developed with
+
+consensus between the World Bank and Government on the country’s needs, and thus the GoK had strong ownership of
+
+it. All corresponding Ministries, Departments and Agencies were engaged in the development of the reform package and
+
+its objectives.
+
+
+
+Table 3: Summary of achievement of Results Indicators
+
+ Result Indicator                                                                 Rating
+
+ PDO1/Pillar 1: Fiscal and debt reforms to make spending more
+
+ transparent and efficient, and enhance domestic debt market
+
+ performance
+
+ RI1: Number of Government Ministries, Departments and Agencies (MDAs) Substantial
+
+ procuring all of their goods and services on the E-GP platform
+
+ RI2. Number of projects complying with PIM Regulations                High
+
+ RI3:. Minimum benchmark bond size                                                Substantial
+
+ PDO2/Pillar 2: Electricity sector and PPP reforms to strengthen the
+
+ cornerstone utility (KPLC), place Kenya on an efficient, green energy
+
+ path, and boost private infrastructure investment.
+
+
+
+ RI4:. Cost-recovery embodied in retail electricity tariffs: proportion of KPLC   High
+
+ total revenues to the total revenue requirements computed by KPLC and
+
+ agreed with EPRA
+
+ RI5: Pipeline electricity capacity (MW) terminated or deferred to better High
+
+ match
+
+ RI6: Percentage of electricity generated from fossil fuels                       Substantial
+
+                                                                                  High
+
+ RI7. Number of PPP projects that have achieved at least one additional
+
+     milestone
+
+ PDO3/Pillar 3: Strengthen environmental and natural resource
+
+ governance, combat climate change, and improve healthcare including
+
+ pandemic response
+
+
+
+
+
+                                                                                                                 Page 18
+
+            The World Bank
+
+            Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)                ICR DOCUMENT
+
+
+
+
+
+ RI8: Number of Counties with County Climate Change Action Plans                 High
+
+ developed through participatory methodologies endorsed by county
+
+ government
+
+                                                                                 Moderate
+
+ RI9: Number of County Value Maps prepared and submitted to Parliament,
+
+ RI10: Number of people gaining access to improved water and sanitation          Substantial
+
+ services under the program
+
+ RI11: National data and information system capturing gender                     High
+
+ disaggregated WSS data annually
+
+ RI12: Proportion of the Water Resources Authority's annual operating            Substantial
+
+ costs financed through water abstraction revenues.
+
+
+
+ RI13: Number of poor and vulnerable households covered through                  High
+
+ government-financed health insurance subsidies
+
+                                                                                 Substantial
+
+ RI14: Capacity to respond to public health events and emergencies based
+
+     on IHR States Parties Annual Reporting Tool
+
+
+
+
+
+
+
+      C. OVERALL OUTCOME RATING AND JUSTIFICATION
+
+Rating: Satisfactory
+
+56. The overall outcome rating for this DPF series is derived through a combination of the rating of the relevance of
+
+prior actions, and the rating of efficacy in achieving the development objectives, both rated satisfactory.
+
+57.    The satisfactory rating of the program rests on:
+
+        ▪   The relevance of the PDO to tackle short- and long-term development constraints in the context of the
+
+            COVID-19 pandemic.
+
+        ▪   The PAs are directly linked to the achievement of the PDO and, therefore, the support to solving the
+
+            country’s current development constraints, grounded in several analytical pieces.
+
+        ▪   The PAs make major contributions to the achievement of the PDO.
+
+        ▪   Most RIs were rated as ‘Substantial’ or ‘High’ as they were realized by the target date.
+
+58. An additional strength of the program rested on the breadth of the reforms that it encompassed. This reflected
+
+reform ambition in the sectors most affected by COVID-19, as well as in addressing shortcomings in the existing policy
+
+frameworks, bottlenecks, and distortions in the economy. The programmatic series required a multi-sectoral approach at
+
+times of high uncertainty, which led to design and implementation challenges due to the significant number of
+
+government agencies that were involved and budget constraints. Overall, the prior actions covered a wide range of topics
+
+including public investment management, procurement, debt management, performance and governance of the KPLC,
+
+electricity generation, renewable energy supply and procurement, private sector investment, combating climate change,
+
+natural resource conservation and management, healthcare provision and pandemic response. These addressed many of
+
+the constraints the economy had been experiencing.
+
+
+
+
+
+
+
+                                                                                                                   Page 19
+
+            The World Bank
+
+            Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)                    ICR DOCUMENT
+
+
+
+
+
+
+
+  III. OTHER OUTCOMES AND IMPACTS
+
+
+
+     A. POVERTY, GENDER AND SOCIAL IMPACTS
+
+59. Overall, the PSIA of this operation was well prepared, having assessed the poverty, gender, and social impacts of
+
+all pillars and prior actions, when appropriate. The overall poverty and social impacts of the policy and institutional
+
+reforms under this proposed programmatic DPF series are expected to be positive through the entire programmatic series.
+
+60. Negative impacts on poverty would be either small or contained. Regarding pillar 1, strengthening fiscal
+
+governance through more transparent and efficient procurement as well as rationalizing public investment management
+
+would free fiscal space for pro-poor spending and improved service delivery in the medium to long term. Regarding the
+
+potential adjustments of retail electricity tariffs of pillar 2 from the operation, the poor were also expected to benefit in
+
+the medium term, despite potential short-term negative impacts. Reforms under the operation not directly linked to the
+
+ongoing protests at the time of the writing of this ICR.
+
+61. Pillar three on strengthening environmental and natural resource governance, combating climate change, and
+
+improving healthcare including pandemic response had positive impact on gender and poverty reduction . About
+
+230,731 people gained access to improved water and sanitation services under the program. Over 1.5 million poor and
+
+vulnerable households were covered through government-financed health insurance subsidies, of which above 900,000
+
+households were supported by “Linda mama”, a free maternity policy in all public healthcare facilities, which reduced OPP
+
+expenditures and improved access to healthcare. In addition, on gender, the focus of the prior actions DPF 1 PA8 and DPF
+
+2 PA9 was to put in place national data and information system capturing gender disaggregated water sanitation services,
+
+which was fully achieved.
+
+
+
+
+
+     B. ENVIRONMENTAL, FORESTS, AND NATURAL RESOURCE ASPECTS
+
+
+
+62. The environment and natural resource impacts of this DPF series were assessed as positive. Pillar two reforms in
+
+energy sector had positive benefits on environment. The Ministry of Energy approved policies to promote a renewable
+
+energy mix that includes solar and wind that are climate-resilient including a Renewable Energy Auctions Policy and a five-
+
+year power generation and transmission development plan (2021-2026) to guide competitive procurement of clean
+
+energy. These have supported the increased share of green power generation on the electricity generation market and
+
+are expected to contribute to GHG emission reduction. Under pillar three, the wide range of policies adopted by the
+
+government of Kenya including the environmental management and coordination bill (2022), institutional reforms and
+
+regulations to support water sanitation and irrigation are favorable for management of climate change effects and
+
+resilience.
+
+
+
+
+
+
+
+
+
+                                                                                                                    Page 20
+
+            The World Bank
+
+            Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)                        ICR DOCUMENT
+
+
+
+
+
+
+
+                                Figure 1: The share of green energy in electricity generation increased
+
+                                              Percent Share of Total Electricity Generation
+
+
+
+                              100
+
+
+
+                              80
+
+                                                                                               Wind and solar
+
+                              60
+
+                    Percent
+
+
+
+
+
+
+
+
+
+                                                                                               Geothermal
+
+                              40                                                               Thermal
+
+
+
+                              20                                                               Hydro
+
+
+
+                               0
+
+                                       2020           2021          2022          2023
+
+
+
+
+
+         Source: Kenya National Bureau of Statistics.
+
+
+
+
+
+      C. INSTITUTIONAL CHANGE/STRENGTHENING
+
+
+
+63. Strengthening institutions was an important focus of this DPF series . The institutional framework for improved
+
+procurement has been established through the electronic procurement portal (e-GP) and an improved system to support
+
+public investment management. Governance and performance in the electricity sector was strengthened through cost
+
+reflective retail tariff adjustment, initiation of selection process of MD. The institutional framework for improved domestic
+
+debt market has resulted in a more transparent and predictable process that is more inclusive because of implementation
+
+of benchmark program by Central Bank and other online system, establishment of National Public Health Institute has
+
+improved disease prevention and response in Kenya by enhancing coordination.
+
+
+
+      D. OTHER UNINTENDED OUTCOMES AND IMPACTS
+
+
+
+64.   The program did not have additional unintended outcomes or impacts.
+
+
+
+  IV. BANK PERFORMANCE
+
+ Rating: Satisfactory
+
+
+
+ Design and Preparation
+
+ 65. The rating is assessed as Satisfactory. Analytical underpinnings supported the design of this operation, as well as an
+
+ appropriate discussion regarding the lessons learned, and identification and mitigation of risks to achievement of the PDO,
+
+ support this rating. Morevoer, the operation was strongly informed by consultation with major stakeholders, including
+
+ alignment with the GoK priorities, and coordination with development partners such as the IMF.
+
+ 66. Both analytical and operational underpinnings supported the design of the DPFs. The two operations benefitted
+
+ from a substantial number of economic and advisory services, both through the World Bank and the IFC. Pillar 1 benefited
+
+ from inputs from the Kenya Public Expenditure Revies (2020) and complementary TA and operations since 2011, including
+
+ the Efficient Securities Market Institutional Development (ESMID) Program, WBG Government Bond Markets Advisory
+
+ Services Program (formerly GEMLOC - Global Emerging Markets in Local Currency Program) and IFPPP (P121019), among
+
+
+
+
+
+                                                                                                                      Page 21
+
+                The World Bank
+
+                Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)                 ICR DOCUMENT
+
+
+
+
+
+    others. For Pillar 2, a cost-of-service study supported by a Bank project in 2018 provided the energy regulator the basis
+
+    for determining the reasonable costs of service to be passed on to consumers through the tariff, as well as a detailed
+
+    strategy including options and a bidding framework for solar and wind energy developed with support from Bank-
+
+    executed trust funds (P173040). Support was mobilized under bank-executed trust funds to support the cross-sectoral
+
+    least cost power development team in technical analysis for updating the LCPDP. Finally, for both Pillars 3 and 4 (Pillar 3
+
+    in DPF 2), the Country Environmental Analysis for Kenya (2019) illustrated the significant environmental challenges
+
+    emanating from natural capital degradation and the impacts of climate change, in addition to WB support on reviewing
+
+    the policies, legal and regulatory framework for pandemic preparedness and advisory.6
+
+    67. Lessons learned from previous operations were implemented. For example, lessons learnt from the ICR of the
+
+    Kenya Inclusive Growth and Fiscal Management Development Policy Operation included the strong use of analytical
+
+    foundations for the development of the prior actions. As evidenced in Table 4 from the PD of DPF1, the team used a vast
+
+    set of past ASAs and projects to design the prior actions and overall program.
+
+    68. Ex-ante risks were identified accordingly. Overall risk was evaluated as Substantial under the two parts of the
+
+    operation. The program identified and discussed major risks that could affect the achievement of the PDO and articulated
+
+    credible mitigating measures. The program was being undertaken in a context of high uncertainty generated by the COVID-
+
+    19 pandemic, in addition to a complex macroeconomic, political, and institutional environment. environment.
+
+    69. There was a close World Bank – IMF collaboration for the preparation of this operation. The World Bank and the
+
+    IMF closely coordinated efforts to support the COVID-19 response and recovery, the government’s reform agenda and to
+
+    bolster Kenya’s inclusive growth. Specific areas of collaboration included measures to achieve fiscal consolidation and
+
+    reduce fiscal and debt risks by enhancing domestic revenue mobilization and public financial management, strengthening
+
+    the financial and operational performance of key SOEs, and improving governance and anti-corruption frameworks.
+
+    70. The design of the series was well aligned with government priorities . There was extensive consultation with the
+
+    government, development partners, the private sector, and with civil society. A noteworthy feature of Bank performance
+
+    was that it responded to the government’s strong commitment for reform following the development of its medium-term
+
+    reform program, otherwise known as the “Big Four” agenda that aimed to raise the economic growth rate and to make
+
+    the economy more inclusive and the stimulus program aimed at revamping the economy and creating employment. The
+
+    goals of the DPF series were designed to be complementary to the government’s priorities.
+
+    Implementation
+
+    71. The program adjusted in response to changing circumstances, reflected in a reformed PDO and pillars. As
+
+    discussed, the PDO of the operation was refined and streamlined to better reflect the ongoing policy priorities and
+
+    uncertain context due to the COVID-19 pandemic. Moreover, pillars 3 and 4 from the first operation were merged, as the
+
+    indicative trigger on the new University Law was dropped. As such, there was a relatively stronger focus on the health
+
+    sector within human capital enhancement.
+
+    72. The implementation of the operation, which was supported by advisory services and technical assistance,
+
+    contributed towards the program meeting its goals, including risks identified at the design stage. The series showed a
+
+    high degree of response to the negative effects of COVID-19 to the economy. The supervision of the operation was
+
+    strongly supported by World Bank staff in the field and Global Practices. The World Bank team worked closely with
+
+    government official from various ministries, including the National Treasury, CBK, EPRA, KPLC, Ministry of Education,
+
+    Ministry of Energy, Ministry of Environment, Ministry of Health, Ministry of Lands and Physical Planning, Ministry of Water
+
+    and irrigation, National Lands Commission, National Treasury and Planning, NHIF, and the Public Procurement and
+
+    Regulatory Agency. However, the National Treasury and Planning coordinated all the participating ministries and agencies
+
+
+
+
+
+6   For further reference, please refer to Table 4 in the Program Document of DPF1.
+
+
+
+                                                                                                                      Page 22
+
+              The World Bank
+
+              Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)                              ICR DOCUMENT
+
+
+
+
+
+    during the implementation and monitoring of results indicators. Furthermore, following the closure of the project,
+
+    additional DPFs were prepared in consultation with the government to support Kenya’s objectives of fiscal consolidation,
+
+    promote more competitive and inclusive product and labor markets, as well as foster climate actions.
+
+    73. The size of the operation was an advantage to achieving its intended objectives during the implementation phase.
+
+    Both parts of the series had 19 prior actions in total, 9 in the first and 10 in the second. Although this can be considered
+
+    as a big policy matrix and thus potentially bring coordination difficulties within and between the client, the World Bank,
+
+    and different stakeholders, it was actually an advantage as it pushed policy reforms in different sectors which the World
+
+    Bank had already been working on for some time. The operation managed to bring these stakeholders together despite
+
+    the challenging and uncertain environment of the COVID-19 pandemic. This supported the overall implementation of the
+
+    reform agenda and engagement between the government and the World Bank, not losing a reform momentum which
+
+    had just recently been strengthened after DPOs were muted in Kenya for a few years.7 Moreover, given the political
+
+    context and upcoming presidential elections, it was also seen as an opportunity to speedy the implementation of key
+
+    reforms.
+
+    74. In addition, the operation was complemented other World Bank investment operations which also supported the
+
+    Big Four agenda. This includes the following projects: Program to Strengthen Governance for Enabling Service Delivery
+
+    and Public Investment in Kenya (GESDeK, P161387); Kenya Electricity Modernization Project (P120014); Kenya
+
+    Infrastructure Finance and Public-Private Partnerships (IFPPP) Project (P121019); Marine Fisheries and Socio-Economic
+
+    Development Project (P163980); Water and Sanitation Development Project (P156634); Kenya Water Security and
+
+    Climate Resilience Project (P117635); Kenya Financing Locally-Led Climate Action Program-for-Results (P173065);
+
+    Transforming Health Systems for Universal Care Project (P152394); Kenya Secondary Education Quality Improvement
+
+    Project (P160083); Eastern and Southern Africa Higher Education Centers of Excellence Project (P151847); Kenya COVID-
+
+    19 Health Emergency Response Project (P173820); and East Africa Skills for Transformation and Regional Integration
+
+    Project (P163399).
+
+
+
+
+
+     V.    RISK TO SUSTAINABILITY OF DEVELOPMENT OUTCOMES
+
+75. Risks to sustainable development outcomes of this operation arise mostly from economic and environmental
+
+considerations. The operation successfully achieved most of its objectives, as represented by the results indicators.
+
+However, there are still risks for the maintenance of achievement of the programmatic series development outcomes and
+
+potential impacts to the PDO. First, macroeconomic volatility and the weakening of domestic and international demand
+
+might dampen the government’s fiscal consolidation trajectory, increasing the likelihood of affecting pillar #1 of the
+
+operation. Before the February 2024 Eurobond repurchase, Kenya’s ability to access global financial markets was
+
+restrained. Global and local supply shocks, rapid interest rate hikes in advance economies, and global monetary conditions
+
+led to a substantial increase in borrowing costs. Given the lack of diversified sources of foreign exchange inflow the country
+
+has, Kenya experienced severe liquidity challenges during 2023 and the beginning of 2024, which pressured the exchange
+
+rate and pushed inflation upwards, constraining domestic demand. As of Q2.2023/24 of the fiscal year, the government
+
+was missing its fiscal revenue targets which, if persistent, could risk its fiscal consolidation objectives.
+
+76. Moreover, there are risks that increased climate hazards might affect the overall PDO of this operation . Kenya is
+
+highly exposed to climate change. Precipitation fluctuates significantly on an annual basis, and it seems that Kenya will get
+
+wetter over the next few years, affecting its primarily rainfed agricultural sector. Poor, and vulnerable workers will be
+
+differentially impacted by climate shocks, as they rely more on agriculture and less productive jobs as their main source
+
+of income. Climate shocks are compounded by natural resource challenges, with about 85 percent of Kenya’s land area
+
+
+
+7This was the second programmatic series after a programmatic series of development policy operations (DPOs) on Inclusive Growth and Fiscal
+
+Management, approved by the Executive Board of Directors in April 2019 and May 2020 respectively (P168204 and P172321).
+
+
+
+                                                                                                                                  Page 23
+
+            The World Bank
+
+            Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)                      ICR DOCUMENT
+
+
+
+
+
+classified as a fragile arid and semi-arid ecosystem, which is largely pastoral. Increased droughts and floods, as the ones
+
+the country is experiencing by the time of the development of this report, pose a significant risk. Climate shocks demand
+
+unplanned government spending to protect the livelihood of citizens, and thus dampen efforts to strengthen fiscal
+
+management and continue on a fiscal consolidation path. Moreover, they severely affect water provision and sanitation,
+
+particularly for the poor and vulnerable, which is detrimental to objectives set under Pillar #3 of this operation.
+
+77. Political, social, and governance risks were reduced after the August 2022 elections, although challenges
+
+remained. Kenya’s political environment heated up after the approval of the second operation of this series, as the country
+
+held elections in August 2022. However, the new administration continued to implement several of the reform pillars of
+
+the previous one, as shown with the later enactment of the National Rating Bill. Moreover, there was a renewed high-
+
+level commitment to tackle corruption and learn from past mistakes. However, further political and social tensions could
+
+complicate the reform path, particularly if fiscal consolidation efforts run into resistance.
+
+
+
+   VI. LESSONS AND NEXT PHASE
+
+
+
+
+
+     A. LESSONS LEARNED
+
+
+
+Key lessons that emerge from the program experience:
+
+78. Remaining flexible in a highly uncertain environment was key for the success of the operation. While this
+
+operation was being prepared, the world was experiencing a high degree of economic, political, and social uncertainty
+
+due to the COVID-19 pandemic. Even after the initial 2021 recovery and as vaccines being applied, new strains of the
+
+disease were appearing. In this environment, the team adjusted the operation to reflect new government priorities, while
+
+at the same time keeping the focus on building a stronger healthcare system. For example, as described, pillars were
+
+modified as well as some triggers which became prior actions. With regards to health, indicative trigger #9 of the first
+
+operation went from establishing a center for disease control to having a greater mandate as a national public health
+
+institute in prior action #10 of the second operation.
+
+79. Although the size of the policy matrix raised initial concerns, it was an opportunity to build consensus around
+
+policy reforms which had already reached a point of maturity. Given the highly uncertain environment, concerns were
+
+initially raised due to the size of the policy matrix and if the operation was overly ambitious. Still, and adding that prior
+
+actions were successfully met, the proposed reforms brought consensus on policy areas which were already at a point of
+
+maturity and leveraged from both the previous DPO series and strong analytical underpinnings. For example, indicative
+
+trigger #7 and prior action #8 of the first and second part of the operation, respectively, built on a policy area (land reform)
+
+which was less frequently used in DPOs at the time but had been significantly studied and key for Kenya’s environmental
+
+governance framework. Discussions about the reform brought government and non-governmental stakeholders together
+
+to a point of consensus, and the team was able to achieve its objectives.
+
+80. Prioritize the policy dialogue around difficult reform areas. Between the two operations, indicative trigger #4 was
+
+modified due to updated reform priorities from the counterpart, from a comprehensive tariff review to reducing costs and
+
+cutting inefficiencies. At the time, embarking on a full tariff review could have required an upward adjustment to achieve
+
+a full cost-reflective tariff, which was part of the envisaged trigger but still challenging to implement due to ongoing COVID-
+
+19 effects. Going forward and recognizing the high degree of uncertainty, teams could consider prioritizing the dialogue
+
+around sensitive and difficult reform areas upfront, which could support the realization of the proposed policy areas.
+
+    81. It is key to involve key stakeholders throughout of the operation. The GoK was involved throughout the policy
+
+discussion throughout the operation. However, initially, there was a rejection of the implementation of the water reform
+
+
+
+
+
+
+
+                                                                                                                       Page 24
+
+           The World Bank
+
+           Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)                   ICR DOCUMENT
+
+
+
+
+
+package, and a court case was filed which affected the achievement of the intended results. With the involvement of key
+
+stakeholders, additional constraints were solved through cross-institutional collaboration.
+
+82. The June 2024 youth-led protests opposing tax reforms under the proposed FY2024/25 budget highlight the need
+
+to further strengthen the political and social risk evaluation of reforms supported by future operations. Although not
+
+directly related to WBG operations in this case, these events pose the need to strengthen and confirm the public
+
+consultation process by Government for future reforms and maximize the assent from the population. This is not restricted
+
+to DPFs and could extend to other World Bank financing instruments including PforRs and IPFs. The protests have
+
+strengthened the awareness for greater accountability on needed reforms, such as expenditure control and anti-
+
+corruption measures that could contribute to the achievement of results indicators agreed upon in future DPFs.
+
+
+
+     B. NEXT PHASE
+
+
+
+83. Successful implementation of reforms will require political and social buy-in as demonstrated by protests calling
+
+for the rejection of the revenue raising measures proposed in the FY24 Finance Bill. The protests were triggered by the
+
+Finance Bill, but extended to calls for scrutiny of conditionalities from multilateral organizations tied to funding. While
+
+strong government ownership was instrumental in the successful implementation of the reforms supported by the DPF,
+
+recent events in the country point to a growing scrutiny from the public, especially the youth on proposals from
+
+government that impact on the wellbeing of the population. DPFs have relied on strong coordination within the
+
+government involving Ministries, Departments and Agencies (MDAs), which has been a key driver of government
+
+ownership. Going forward, there will be need to foster trust from the public on the criticality and necessity of reforms
+
+supported through DPFs.
+
+84. An important factor in the successful execution of the reform program was the strong technical capacity that
+
+exists among the policy making civil servant cadre in the MDAs. There was also a strong analytical foundation for the
+
+choice of prior actions and the benefits of complementary support from Bank operations ( ASA, IPF’s and PFoRs. Going
+
+forward, the strong cooperation and dialogue between the Bank and the government builds a track record of trust that
+
+strengthens the foundation for further policy dialogue and reform.
+
+
+
+
+
+
+
+
+
+                                                                                                                   Page 25
+
+          The World Bank
+
+          Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)                                                             ICR DOCUMENT
+
+
+
+
+
+
+
+
+
+                                                               ANNEX 1. RESULTS FRAMEWORK
+
+
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@icrdpfresultframework#doctemplate
+
+A. RESULTS FRAMEWORK
+
+
+
+
+
+Indicators by Pillars
+
+
+
+Pillar 1: Fiscal and debt reforms to make spending more transparent and efficient and enchance domestic debt market performance
+
+                                                         Baseline                         Closing Period (Current)                Actual Achieved at Completion
+
+           Indicator Name
+
+                                                 Value              Month/Year            Value                 Date                   Value           Month/Year
+
+RI 1. Number of Government             0                             Jun/2021    5                           Feb/2023        5                            Jul/2024
+
+Ministries, Departments and Agencies       Comments on achieving targets          Target not achieved.
+
+(MDAs) procuring all of their goods                                               However, the completed E_GP models have been piloted in 12 MCDAs
+
+and services on the E-GP platform.                                                (Ministries, Counties, Departments and Agencies). The E-GP will be rolled to
+
+(Number)                                                                          all MDAs in July 2024
+
+                                       0                             Jun/2021    30                        Feb/2023      30                           Jul/2024
+
+
+
+RI 2. Number of projects complying         Comments on achieving targets             Actual (December 2023): 146. Target fully achieved.
+
+with PIM Regulations (Number)                                                        Further, the rationalization program was to be completed in February 2024
+
+                                                                                     and this was because of lack of capacity.
+
+
+
+                                       N/A                           Jun/2021    5                           Feb/2023        95                           Jul/2024
+
+                                           Comments on achieving targets             Target 95% achieved. The Government has continued to implement the
+
+RI 3. Minimum benchmark bond size                                                    Treasury Bonks Benchmark program and launched the DhowCSD portal to
+
+(Percentage)                                                                         enhance transparency and accountability:
+
+                                                                                     i) Bonds with remaining maturity up to 5 years KES 60 billion ii) Bonds with
+
+                                                                                     remaining maturity ranging 5 -10 years KES 62 billion
+
+
+
+                                                                                                                                                               Page 26
+
+         The World Bank
+
+         Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)                                                           ICR DOCUMENT
+
+
+
+
+
+
+
+                                                                                  iii) Bonds with remaining maturity ranging 10 -25 years KES 66 billion.
+
+Pillar 2: Electricity sector and PPP reforms to strengthen the cornerstone utility (KPLC), place Kenya on an efficient, green energy path, and boost
+
+private infrastructure investment
+
+                                                         Baseline                      Closing Period (Current)                Actual Achieved at Completion
+
+          Indicator Name
+
+                                                 Value              Month/Year         Value                 Date                   Value           Month/Year
+
+RI 4. Proportion of KPLC total           87                       Mar/2022 90                         Jun/2024        90.65                    Jun/2024
+
+revenues to the total revenue              Comments on achieving targets     Target Achieved.
+
+requirements computed by KPLC and                                            The Utility reported post Tax profit by December 2023
+
+agreed with EPRA. (Percentage)
+
+RI 5. Pipeline electricity capacity (MW) N/A                      Mar/2022 400                        Feb/2023        522                      Jun/2024
+
+terminated or deferred to better           Comments on achieving targets     Target fully achieved
+
+match supply and demand by 2025.
+
+(Megawatt)
+
+RI 6. Percentage of electricity          11                       Mar/2022 5                          Feb/2023        9.74                     Jun/2024
+
+generated from fossil fuels.               Comments on achieving targets     Target partially achieved
+
+(Percentage)
+
+RI 7. Number of PPP projects that        0                        Mar/2022 10                         Feb/2023        26                       Jun/2024
+
+have achieved at least one additional      Comments on achieving targets     Target was fully achieved, and Government has been able to raise substantive
+
+milestone (RFQ, RFP, negotiations or                                         resources from private sector for PPP programs.
+
+contract signing) under the new PPP
+
+Directorate (Number)
+
+Pillar 3: Strengthen Environmental and Natural Resource Governance, Combat Climate Change, and Improve Healthcare Including Pandemic Response
+
+                                                         Baseline                      Closing Period (Current)                Actual Achieved at Completion
+
+          Indicator Name
+
+                                                 Value              Month/Year         Value                 Date                   Value           Month/Year
+
+RI 8: Number of Counties with County   8                             Jun/2021    25                        Feb/2023       45                           Jul/2024
+
+Climate Change Action Plans                Comments on achieving targets          Target fully achieved.
+
+developed through participatory
+
+
+
+
+
+
+
+
+
+                                                                                                                                                            Page 27
+
+         The World Bank
+
+         Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)                                                         ICR DOCUMENT
+
+
+
+
+
+
+
+methodologies endorsed by county
+
+governments. (Number)
+
+                                       0                          Jun/2021   15                        Feb/2023        27                            Jul/2024
+
+RI 9. Number of County Value Maps
+
+prepared and submitted to                  Comments on achieving targets      Actual (2023): 27 maps prepared but not submitted to Parliament.
+
+Parliament. (Number)                                                          The remaining 20 county maps are under preparation.
+
+                                                                              Moderately achieved.
+
+RI 10. Number of people gaining        0                          Jun/2021   300,000                  Feb/2023      230,730                    Jul/2024
+
+access to improved water and               Comments on achieving targets      Target is substantially achieved due to inadequate water supply and delay in
+
+sanitation services under the                                                 approving County Government Additional Allocation Act (CGAAA)
+
+program. (Number)
+
+RI 11. National data and information   Not in place               Jun/2021   In place                  Feb/2023        WASREB                        Jul/2024
+
+system capturing gender                    Comments on achieving targets      ): Information is available for WASREB regulated facilities. Target fully
+
+disaggregated WSS data annually                                               achieved.
+
+(Yes/No)
+
+RI 12. Proportion of the Water         20                         Jun/2021   70                        Feb/2023        58                            Jul/2024
+
+Resources Authority's annual               Comments on achieving targets      Target is substantially achieved due to court case challenging the water
+
+operating costs financed through                                              abstraction charges. The regulations have been developed and are at the AGs
+
+water abstraction revenues.                                                   office for publication
+
+(Percentage)
+
+RI 13: Number of poor and vulnerable   223, 968                   Jun/2021   1,000,00                  Feb/2023        1,696,624                     Jul/2024
+
+households covered through                 Comments on achieving targets      Target fully achieved.
+
+government-financed health
+
+insurance subsidies. (Number)
+
+RI 14. Capacity to respond to public   43                         Jun/2021   65                        Feb/2023        57                            Jul/2024
+
+health events and emergencies based        Comments on achieving targets      Target is substantially achieved due to challenges faced which are inadequate
+
+on IHR States Parties Annual                                                  capacity.
+
+Reporting Tool. (Percentage)
+
+
+
+
+
+
+
+
+
+                                                                                                                                                          Page 28
+
+        The World Bank
+
+        Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)                ICR DOCUMENT
+
+
+
+
+
+
+
+ANNEX 2. BANK LENDING AND IMPLEMENTATION SUPPORT/SUPERVISION
+
+
+
+
+
+   A. TASK TEAM MEMBERS
+
+
+
+
+
+  Operation ID              Name                                         Role
+
+                            Alexis Sienaert                              Team Leader
+
+                            Allen Curtis K. Dennis                       Team Leader
+
+                            Frederick Yankey                             Financial Management Specialist
+
+                            Jeffrey Allen Chelsky                        Peer Reviewer
+
+                            Mona Prasad                                  Peer Reviewer
+
+                            Roberta Malee Bassett                        Team Member
+
+                            Kimberly Vilar                               Team Member
+
+                            Abdu Muwonge                                 Team Member
+
+                            Josses Mugabi                                Team Member
+
+                            George Ferreira Da Silva                     Team Member
+
+                            Lucy Anyango Musira                          Team Member
+
+                            Sarah Ruth Ochieng                           Team Member
+
+                            Vinay Kumar Vutukuru                         Team Member
+
+  P175251
+
+                            Jane Chuma                                   Team Member
+
+                            Leonard Mutuku Matheka                       Team Member
+
+                            Pascaline Wanjiku Ndungu                     Team Member
+
+                            Hope Nanshemeza                              Team Member
+
+                            Sheila W. Kamunyori                          Team Member
+
+                            Onur Erdem                                   Team Member
+
+                            Umutesi Angelique                            Team Member
+
+                            Christine Anyango Owuor                      Team Member
+
+                            Laurencia Karimi Njagi                       Team Member
+
+                            Jose Antonio Gragnani                        Team Member
+
+                            Ben Okindo Ayako Miranga                     Team Member
+
+                            Hadija Rahama Diba Kamayo                    Team Member
+
+                            James Muli Musinga                           Team Member
+
+
+
+
+
+                                                                                                           Page 29
+
+     The World Bank
+
+     Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)                ICR DOCUMENT
+
+
+
+
+
+                         Hisham Mohammed Salih Osman
+
+                                                                      Team Member
+
+                         Mohammed
+
+                         Ndiga Akech Odindo                           Team Member
+
+                         Banu Setlur                                  Team Member
+
+                         Kanta K. Rigaud                              Team Member
+
+                         Enos E. Esikuri                              Team Member
+
+                         Anne Khatimba                                Team Member
+
+                         Lydie Ahodehou                               Team Member
+
+                         Zubair K.M. Sadeque                          Team Member
+
+                         Hans Shrader                                 Team Member
+
+                         Philip M. Schuler                            Team Member
+
+                         Shyamala Shukla                              Team Member
+
+                         Gael J. R. F. Raballand                      Team Member
+
+                         Evarist F. Baimu                             Team Member
+
+                         Ruth Karimi Charo                            Team Member
+
+                         Gabi George Afram                            Team Member
+
+                         Alexis Sienaert                              Team Leader
+
+                         Allen Curtis K. Dennis                       Team Leader
+
+                         Frederick Yankey                             Financial Management Specialist
+
+                         Vivek Suri                                   Program Manager
+
+                         Vinay Kumar Vutukuru                         Team Member
+
+                         Laurencia Karimi Njagi                       Team Member
+
+                         Jose Antonio Gragnani                        Team Member
+
+
+
+P176903                  Adrian Howard Cutler                         Team Member
+
+                         Sohee Gu                                     Team Member
+
+                         Swee Ee Ang                                  Team Member
+
+                         Jane Chuma                                   Team Member
+
+                         Ben Okindo Ayako Miranga                     Team Member
+
+                         Hadija Rahama Diba Kamayo                    Team Member
+
+                         Kenneth Munge Kabubei                        Team Member
+
+                         Hisham Mohammed Salih Osman
+
+                                                                      Team Member
+
+                         Mohammed
+
+
+
+                                                                                                        Page 30
+
+       The World Bank
+
+       Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)   ICR DOCUMENT
+
+
+
+
+
+                           Alastair Peter Francis Haynes                Team Member
+
+                           Anne Khatimba                                Team Member
+
+                           Tasneem Alam Ghauri                          Team Member
+
+                           Leonard Mutuku Matheka                       Team Member
+
+                           Naomi Muthoni Mathenge                       Team Member
+
+                           Hope Nanshemeza                              Team Member
+
+                           Sheila W. Kamunyori                          Team Member
+
+                           Onur Erdem                                   Team Member
+
+                           Karima Laouali Ladjo                         Team Member
+
+                           Umutesi Angelique                            Team Member
+
+                           Precious Zikhali                             Team Member
+
+                           Lydie Ahodehou                               Team Member
+
+                           Zubair K.M. Sadeque                          Team Member
+
+                           Hans Shrader                                 Team Member
+
+                           Philip M. Schuler                            Team Member
+
+                           Shyamala Shukla                              Team Member
+
+                           Nistha Sinha                                 Team Member
+
+                           Sangeeta Kumari                              Team Member
+
+                           Gael J. R. F. Raballand                      Team Member
+
+                           Evarist F. Baimu                             Team Member
+
+                           Ruth Karimi Charo                            Team Member
+
+                           Roberta Malee Bassett                        Team Member
+
+                           Josses Mugabi                                Team Member
+
+                           George Ferreira Da Silva                     Team Member
+
+                           Joel Buku Munyori                            Team Member
+
+                           Lucy Anyango Musira                          Team Member
+
+                           Sarah Ruth Ochieng                           Team Member
+
+
+
+@#&OPS~Doctype~OPS^dynamics@icrannexstafftime#doctemplate
+
+   B. STAFF TIME & COST
+
+
+
+
+
+
+
+
+
+                                                                                             Page 31
+
+        The World Bank
+
+        Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)                    ICR DOCUMENT
+
+
+
+
+
+
+
+
+
+Operation ID : P175251
+
+
+
+                                                                     Staff Time & Cost
+
+Stage of Project Cycle
+
+                                     No. of Staff Weeks                 US$ (including travel and consultant costs)
+
+
+
+Preparation
+
+
+
+   FY21                                                     57.269                                             0.34
+
+
+
+   FY22                                                      0.110                                             0.03
+
+Total                                                          0.00                                             0.37
+
+
+
+Supervision/ICR
+
+
+
+
+
+
+
+Total                                                          0.00                                             0.00
+
+
+
+
+
+
+
+Operation ID : P176903
+
+
+
+                                                                     Staff Time & Cost
+
+Stage of Project Cycle
+
+                                     No. of Staff Weeks                 US$ (including travel and consultant costs)
+
+
+
+Preparation
+
+
+
+   FY22                                                     32.064                                             0.33
+
+Total                                                          0.00                                             0.33
+
+
+
+Supervision/ICR
+
+
+
+   FY24                                                       8.803                                             0.02
+
+Total                                                          0.00                                             0.02
+
+
+
+
+
+
+
+
+
+                                                                                                                 Page 32
+
+        The World Bank
+
+        Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)   ICR DOCUMENT
+
+
+
+
+
+
+
+ANNEX 3. BORROWER, CO-FINANCIERS, AND OTHER DEVELOPMENT PARTNERS’/STAKEHOLDERS’ COMMENTS
+
+N/A
+
+
+
+
+
+
+
+
+
+                                                                                              Page 33
+
+          The World Bank
+
+          Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)                    ICR DOCUMENT
+
+
+
+
+
+
+
+ANNEX 4. SECTORS AND THEMES
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@icrdpfsectortheme#doctemplate
+
+SECTORS AND THEMES
+
+
+
+
+
+Operation ID : P175251
+
+
+
+Sectors
+
+                                                                                     Adaptation
+
+                                                                                                        Mitigation
+
+          Major Sector                          Sector                   %          Co-benefits
+
+                                                                                                      Co-benefits (%)
+
+                                                                                    (%)
+
+  Agriculture, Fishing and
+
+                               Irrigation and Drainage                        4                13                 12
+
+  Forestry
+
+                               Energy Transmission and Distribution          22                   0               75
+
+  Energy and Extractives
+
+                               Other Energy and Extractives                  11                   0              100
+
+
+
+  Health                       Health                                        11                   0                 0
+
+                               Central Government (Central
+
+                                                                             33                   0                 0
+
+  Public Administration        Agencies)
+
+                               Other Public Administration                   11                25                 75
+
+
+
+  Water, Sanitation and        Sanitation                                     4                12                 13
+
+  Waste Management             Water Supply                                   4                13                 13
+
+
+
+Themes
+
+
+
+       Major Theme                          Theme (Level 2)                  Theme (Level 3)                %
+
+
+
+                                                                       Adaptation                                   4
+
+                               Climate change
+
+                                                                       Mitigation                                 38
+
+
+
+                                                                       Access to Energy                           33
+
+  Environment and                                                      Energy Efficiency                          33
+
+                               Energy
+
+  Natural Resource
+
+                                                                       Energy Policies &
+
+  Management                                                                                                      33
+
+                                                                       Reform
+
+                               Environmental policies and
+
+                                                                                                                  11
+
+                               institutions
+
+                               Renewable Natural Resources Asset       Watershed
+
+                                                                                                                  11
+
+                               Management                              Management
+
+
+
+
+
+
+
+                                                                                                                    Page 34
+
+          The World Bank
+
+          Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)                   ICR DOCUMENT
+
+
+
+
+
+                                                                       Water Institutions,
+
+                               Water Resource Management                                                         11
+
+                                                                       Policies and Reform
+
+                               Disease Control                         Pandemic Response                        100
+
+
+
+                                                                       Health Finance                            11
+
+  Human Development                                                    Health Service Delivery                   11
+
+                               Health Systems and Policies
+
+  and Gender
+
+                                                                       Health System
+
+                                                                                                                 11
+
+                                                                       Strengthening
+
+                               Nutrition and Food Security             Food Security                             11
+
+  Private Sector
+
+                               ICT                                     ICT Solutions                             11
+
+  Development
+
+                                                                       E-Government, incl. e-
+
+                                                                                                                 11
+
+                                                                       services
+
+                                                                       Public Assets and
+
+                                                                       Investment                                11
+
+                               Public Administration
+
+                                                                       Management
+
+                                                                       Transparency,
+
+  Public Sector                                                        Accountability and Good                   22
+
+  Management                                                           Governance
+
+                                                                       Debt Management                           11
+
+                                                                       Domestic Revenue
+
+                               Public Finance Management                                                         11
+
+                                                                       Administration
+
+                                                                       Public Expenditure
+
+                                                                                                                 22
+
+                                                                       Management
+
+Operation ID : P176903
+
+
+
+Sectors
+
+                                                                                   Adaptation
+
+                                                                                                       Mitigation
+
+          Major Sector                        Sector                     %        Co-benefits
+
+                                                                                                     Co-benefits (%)
+
+                                                                                  (%)
+
+  Agriculture, Fishing and
+
+                               Irrigation and Drainage                        2                  0               27
+
+  Forestry
+
+                               Energy Transmission and Distribution          10                  0              100
+
+  Energy and Extractives
+
+                               Other Energy and Extractives                  10                  0               50
+
+
+
+  Health                       Health                                        10              10                    0
+
+                               Central Government (Central
+
+                                                                             40                  0                 0
+
+  Public Administration        Agencies)
+
+                               Other Public Administration                   20              19                  19
+
+
+
+
+
+                                                                                                                   Page 35
+
+         The World Bank
+
+         Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)               ICR DOCUMENT
+
+
+
+
+
+
+
+ Water, Sanitation and        Sanitation                                    2                   0         27
+
+ Waste Management             Water Supply                                  6               69             0
+
+
+
+Themes
+
+
+
+      Major Theme                          Theme (Level 2)                Theme (Level 3)            %
+
+
+
+                                                                      Adaptation                           9
+
+                              Climate change
+
+                                                                      Mitigation                          20
+
+
+
+                                                                      Access to Energy                    20
+
+
+
+                              Energy                                  Energy Efficiency                   20
+
+ Environment and
+
+                                                                      Energy Policies &
+
+ Natural Resource                                                                                         20
+
+                                                                      Reform
+
+ Management
+
+                              Environmental policies and
+
+                                                                                                          10
+
+                              institutions
+
+                              Renewable Natural Resources Asset       Watershed
+
+                                                                                                          10
+
+                              Management                              Management
+
+                                                                      Water Institutions,
+
+                              Water Resource Management                                                   10
+
+                                                                      Policies and Reform
+
+                              Disease Control                         Pandemic Response                  100
+
+
+
+                                                                      Health Finance                      10
+
+ Human Development
+
+ and Gender                   Health Systems and Policies             Health Service Delivery             10
+
+                                                                      Health System
+
+                                                                                                          10
+
+                                                                      Strengthening
+
+ Private Sector
+
+                              Public Private Partnerships                                                 10
+
+ Development
+
+                                                                      E-Government, incl. e-
+
+                                                                                                          10
+
+                                                                      services
+
+                                                                      Public Assets and
+
+                                                                      Investment                          10
+
+                              Public Administration
+
+                                                                      Management
+
+                                                                      Transparency,
+
+ Public Sector                                                        Accountability and Good             30
+
+ Management                                                           Governance
+
+                                                                      Debt Management                     10
+
+                                                                      Domestic Revenue
+
+                              Public Finance Management                                                   10
+
+                                                                      Administration
+
+                                                                      Public Expenditure
+
+                                                                                                          10
+
+                                                                      Management
+
+
+
+                                                                                                           Page 36
+
+     The World Bank
+
+     Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)           ICR DOCUMENT
+
+
+
+
+
+                                                                  Flood and Drought Risk
+
+                          Disaster Risk Management                                                 3
+
+                                                                  Management
+
+                                                                  Land Administration and
+
+                                                                                                  10
+
+Urban and Rural                                                   Management
+
+                          Rural Development
+
+Development                                                       Rural Water and
+
+                                                                                                  10
+
+                                                                  Sanitation
+
+                                                                  Urban Water and
+
+                          Urban Development                                                       10
+
+                                                                  Sanitation
+
+
+
+
+
+
+
+
+
+                                                                                                   Page 37
+
+       The World Bank
+
+       Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)   ICR DOCUMENT
+
+
+
+
+
+
+
+
+
+ANNEX 5. SUPPORTING DOCUMENTS
+
+
+
+N/A
+
+
+
+
+
+
+
+
+
+                                                                                             Page 38
+
+        The World Bank
+
+        Accelerating Reforms for an Inclusive and Resilient Recovery DPF 2 (P176903)   ICR DOCUMENT
+
+
+
+
+
+
+
+
+
+ANNEX 6. BORROWER, CO-FINANCIERS, AND OTHER DEVELOPMENT PARTNERS’/STAKEHOLDERS’ COMMENTS
+
+
+
+N/A
+
+
+
+
+
+
+
+
+
+                                                                                              Page 39
+
+

@@ -1,0 +1,3623 @@
+                                         FOR OFFICIAL USE ONLY
+
+                                                                                   Report No: PAD5179
+
+
+
+                             INTERNATIONAL DEVELOPMENT ASSOCIATION
+
+
+
+                                    PROJECT APPRAISAL DOCUMENT
+
+                                               ON A
+
+                                          PROPOSED CREDIT
+
+
+
+                                 IN THE AMOUNT OF SDR 158 MILLION
+
+                                    (US$ 210 MILLION EQUIVALENT)
+
+
+
+                                                  TO THE
+
+
+
+                                  PEOPLE'S REPUBLIC OF BANGLADESH
+
+
+
+                                                 FOR THE
+
+
+
+        BANGLADESH ENHANCING INVESTMENTS AND BENEFITS FOR EARLY YEARS (BEIBEY)
+
+                                     PROJECT
+
+
+
+                                             October 9, 2023
+
+
+
+
+
+
+
+
+
+Social Protection & Jobs Global Practice
+
+South Asia Region
+
+
+
+
+
+
+
+ This document has a restricted distribution and may be used by recipients only in the performance of
+
+ their official duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+
+
+
+
+
+
+
+
+                                                                                                        i
+
+The World Bank
+
+                   CURRENCY EQUIVALENTS
+
+
+
+           (Exchange Rate Effective August 31, 2023)
+
+
+
+                        Currency Unit = BDT
+
+                          BDT 109.25 = US$1
+
+                             US$ 1.33 = SDR 1
+
+
+
+                         FISCAL YEAR
+
+                        July 1 - June 30
+
+
+
+
+
+
+
+
+
+Regional Vice President: Martin Raiser
+
+      Country Director: Abdoulaye Seck
+
+     Regional Director: Nicole Klingen
+
+     Practice Manager: Cem Mete
+
+    Task Team Leaders: Aneeka Rahman, Zaineb Majoka
+
+                           ABBREVIATIONS AND ACRONYMS
+
+
+
+AM         Accountability Mechanism
+
+BBS        Bangladesh Bureau of Statistics
+
+BEIBEY     Bangladesh Enhancing Investments and Benefits for Early Years
+
+CCDR       Country Climate and Development Report
+
+CERC       Contingent Emergency Response Component
+
+COVID-19   Coronavirus Disease 2019
+
+CPF        Country Partnership Framework
+
+CRI        Core Results Indicator
+
+DIP        Detailed Implementation Plan
+
+DWA        Department of Women Affairs
+
+ECD        Early Childhood Development
+
+EEP        Eligible Expenditure Program
+
+E&S        Environmental and Social
+
+ESCP       Environmental and Social Commitment Plan
+
+FD         Finance Division
+
+FY         Fiscal Year
+
+G2P        Government-to-Person
+
+GBV        Gender Based Violence
+
+GDP        Gross Domestic Product
+
+GNI        Gross National Income
+
+GoB        Government of Bangladesh
+
+GRM        Grievance Redress Mechanism
+
+GRS        Grievance Redress System
+
+HLO        Higher Level Objective
+
+HNP        Health, Nutrition and Population
+
+IBAS       Integrated Budget and Accounting System
+
+IDA        International Development Association
+
+IFMIS      Integrated Financial Management Information System
+
+IMF        International Monetary Fund
+
+IPF        Investment Project Financing
+
+IUFR       Interim Unaudited Financial Report
+
+KAP        Knowledge, Attitude, and Practice
+
+MCBP       Mother and Child Benefit Programme
+
+M&E        Monitoring & Evaluation
+
+MIS        Management Information System
+
+MoWCA      Ministry of Women and Child Affairs
+
+NAP        National Adaption Plan
+
+NID        National Identification Database
+
+NSSS       National Social Security Strategy
+
+NIPORT     National Institute of Population Research and Training
+
+PBC        Performance Based Condition
+
+PDO      Project Development Objective
+
+PIC      Project Implementation Committee
+
+PIU      Programme Implementation Unit
+
+PMMCU    Project Management, Monitoring, and Coordination Unit
+
+POM      Project Operations Manual
+
+PSC      Project Steering Committee
+
+SEA/SH   Sexual Exploitation and Abuse/Sexual Harassment
+
+SSAD     Social Security Audit Directorate
+
+ToR      Terms of Reference
+
+WFP      World Food Programme
+
+The World Bank
+
+Bangladesh Enhancing Investments and Benefits for Early Years (BEIBEY) Project (P178133)
+
+
+
+
+
+
+
+                                                         TABLE OF CONTENTS
+
+
+
+  DATASHEET ............................................................................................................................ i
+
+  I.    STRATEGIC CONTEXT ...................................................................................................... 1
+
+        A. Country Context................................................................................................................................ 1
+
+        B. Sectoral and Institutional Context .................................................................................................... 2
+
+        C. Relevance to Higher Level Objectives............................................................................................... 5
+
+  II.   PROJECT DESCRIPTION.................................................................................................... 6
+
+        A. Project Development Objective ....................................................................................................... 6
+
+        B. Project Components ......................................................................................................................... 6
+
+        C. Project Beneficiaries ......................................................................................................................... 8
+
+        E. Rationale for Bank Involvement and Role of Partners ..................................................................... 8
+
+        F. Lessons Learned and Reflected in the Project Design ...................................................................... 9
+
+  III. IMPLEMENTATION ARRANGEMENTS ............................................................................ 10
+
+        A. Institutional and Implementation Arrangements .......................................................................... 10
+
+        B. Results Monitoring and Evaluation Arrangements......................................................................... 10
+
+        C. Sustainability................................................................................................................................... 10
+
+  IV. PROJECT APPRAISAL SUMMARY ................................................................................... 11
+
+        A. Technical, Economic and Financial Analysis ................................................................................... 11
+
+        B. Fiduciary.......................................................................................................................................... 12
+
+        C. Legal Operational Policies ............................................................................................................... 14
+
+        D. Environmental and Social ............................................................................................................... 15
+
+  V. GRIEVANCE REDRESS SERVICES ..................................................................................... 17
+
+  VI. KEY RISKS ..................................................................................................................... 17
+
+  III. RESULTS FRAMEWORK AND MONITORING ................................................................... 18
+
+        ANNEX 1: Implementation Arrangements and Support Plan .......................................... 28
+
+DATASHEET
+
+
+
+BASIC INFORMATION
+
+BASIC_INFO_TABLE
+
+Country(ies)                   Project Name
+
+
+
+Bangladesh                     Bangladesh Enhancing Investments and Benefits for Early Years (BEIBEY) Project
+
+
+
+Project ID                     Financing Instrument        Environmental and Social Risk Classification
+
+
+
+                               Investment Project
+
+P178133                                                    Moderate
+
+                               Financing
+
+
+
+
+
+Financing & Implementation Modalities
+
+
+
+[ ] Multiphase Programmatic Approach (MPA)                    [✓] Contingent Emergency Response Component (CERC)
+
+[ ] Series of Projects (SOP)                                  [ ] Fragile State(s)
+
+
+
+[✓] Performance-Based Conditions (PBCs)                       [ ] Small State(s)
+
+[ ] Financial Intermediaries (FI)                             [ ] Fragile within a non-fragile Country
+
+
+
+[ ] Project-Based Guarantee                                   [ ] Conflict
+
+
+
+[ ] Deferred Drawdown                                         [ ] Responding to Natural or Man-made Disaster
+
+
+
+[ ] Alternate Procurement Arrangements (APA)                  [ ] Hands-on Enhanced Implementation Support (HEIS)
+
+
+
+
+
+
+
+Expected Approval Date            Expected Closing Date
+
+
+
+31-Oct-2023                       31-Oct-2028
+
+
+
+Bank/IFC Collaboration
+
+
+
+No
+
+
+
+Proposed Development Objective(s)
+
+
+
+The Project Development Objective is to provide consumption support to vulnerable households with pregnant
+
+women and mothers of children under 4 years of age and increase knowledge of nurturing care services that
+
+contribute to early childhood development (ECD).
+
+
+
+Components
+
+
+
+Component Name                                                                                    Cost (US$, millions)
+
+
+
+
+
+
+
+
+
+                                                                                                                   i
+
+      The World Bank
+
+      Bangladesh Enhancing Investments and Benefits for Early Years (BEIBEY) Project (P178133)
+
+
+
+
+
+
+
+Expanding Coverage of the Mother and Child Benefit Programme and Strengthening
+
+                                                                                                     875.24
+
+Programme Systems
+
+Supporting Implementation of the Mother and Child Benefit Programme                                    9.71
+
+
+
+Contingency Emergency Response                                                                         0.00
+
+
+
+ Organizations
+
+
+
+Borrower:                                    People's Republic of Bangladesh
+
+Implementing Agency:                         Ministry of Women and Children Affairs
+
+
+
+
+
+ PROJECT FINANCING DATA (US$, Millions)
+
+
+
+SUMMARY                 -NewFin1
+
+
+
+
+
+
+
+
+
+Total Project Cost                                                                                       884.95
+
+Total Financing                                                                                          884.95
+
+
+
+                 of which IBRD/IDA                                                                       210.00
+
+Financing Gap                                                                                              0.00
+
+
+
+DETAILS   -NewFinEnh1
+
+
+
+
+
+
+
+
+
+World Bank Group Financing
+
+
+
+   International Development Association (IDA)                                                           210.00
+
+     IDA Credit                                                                                          210.00
+
+
+
+Non-World Bank Group Financing
+
+   Counterpart Funding                                                                                   674.95
+
+
+
+     Borrower/Recipient                                                                                  674.95
+
+
+
+
+
+IDA Resources (in US$, Millions)
+
+                                                                                       Guarantee
+
+                                   Credit Amount   Grant Amount        SML Amount                  Total Amount
+
+                                                                                         Amount
+
+Bangladesh                                210.00             0.00               0.00        0.00         210.00
+
+
+
+
+
+
+
+                                                                                                                  ii
+
+         The World Bank
+
+         Bangladesh Enhancing Investments and Benefits for Early Years (BEIBEY) Project (P178133)
+
+
+
+
+
+
+
+   National
+
+   Performance-Based                210.00            0.00              0.00                    0.00            210.00
+
+   Allocations (PBA)
+
+ Total                              210.00            0.00              0.00                    0.00            210.00
+
+
+
+ Expected Disbursements (in US$, Millions)
+
+
+
+ WB Fiscal Year                                               2024     2025        2026     2027        2028     2029
+
+
+
+ Annual                                                      42.00     7.07        29.60    37.10       29.60    64.63
+
+ Cumulative                                                  42.00    49.07        78.67   115.77      145.38   210.00
+
+
+
+
+
+
+
+ INSTITUTIONAL DATA
+
+
+
+ Practice Area (Lead)                                Contributing Practice Areas
+
+ Social Protection & Jobs
+
+
+
+ Climate Change and Disaster Screening
+
+ This operation has been screened for short and long-term climate change and disaster risks
+
+
+
+
+
+ SYSTEMATIC OPERATIONS RISK-RATING TOOL (SORT)
+
+
+
+
+
+Risk Category                                                                          Rating
+
+
+
+1. Political and Governance                                                            ⚫ Moderate
+
+
+
+2. Macroeconomic                                                                       ⚫ Moderate
+
+
+
+3. Sector Strategies and Policies                                                      ⚫ Low
+
+
+
+4. Technical Design of Project or Program                                              ⚫ Moderate
+
+
+
+5. Institutional Capacity for Implementation and Sustainability                        ⚫ Substantial
+
+
+
+6. Fiduciary                                                                           ⚫ Substantial
+
+
+
+7. Environment and Social                                                              ⚫ Moderate
+
+
+
+8. Stakeholders                                                                        ⚫ Low
+
+
+
+9. Other
+
+
+
+                                                                                                                         iii
+
+      The World Bank
+
+      Bangladesh Enhancing Investments and Benefits for Early Years (BEIBEY) Project (P178133)
+
+
+
+
+
+
+
+10. Overall                                                                           ⚫ Moderate
+
+
+
+
+
+ COMPLIANCE
+
+
+
+Policy
+
+Does the project depart from the CPF in content or in other significant respects?
+
+[ ] Yes   [✓] No
+
+
+
+Does the project require any waivers of Bank policies?
+
+[ ] Yes   [✓] No
+
+
+
+
+
+Environmental and Social Standards Relevance Given its Context at the Time of Appraisal
+
+
+
+E & S Standards                                                                     Relevance
+
+
+
+Assessment and Management of Environmental and Social Risks and Impacts             Relevant
+
+
+
+Stakeholder Engagement and Information Disclosure                                   Relevant
+
+
+
+Labor and Working Conditions                                                        Relevant
+
+
+
+Resource Efficiency and Pollution Prevention and Management                         Relevant
+
+
+
+Community Health and Safety                                                         Relevant
+
+
+
+Land Acquisition, Restrictions on Land Use and Involuntary Resettlement             Not Currently Relevant
+
+
+
+Biodiversity Conservation and Sustainable Management of Living Natural              Not Currently Relevant
+
+Resources
+
+Indigenous Peoples/Sub-Saharan African Historically Underserved Traditional         Relevant
+
+Local Communities
+
+Cultural Heritage                                                                   Not Currently Relevant
+
+
+
+Financial Intermediaries                                                            Not Currently Relevant
+
+
+
+
+
+NOTE: For further information regarding the World Bank’s due diligence assessment of the Project’s potential
+
+environmental and social risks and impacts, please refer to the Project’s Appraisal Environmental and Social Review
+
+Summary (ESRS).
+
+
+
+                                                                                                                      iv
+
+      The World Bank
+
+      Bangladesh Enhancing Investments and Benefits for Early Years (BEIBEY) Project (P178133)
+
+
+
+
+
+
+
+Legal Covenants
+
+
+
+Sections and Description
+
+(Section I.A of Schedule 2 to the Financing Agreement, Institutional Arrangements)
+
+
+
+The Recipient shall establish within three (3) months of the Effective Date and maintain throughout the period of
+
+implementation of the Project, the Project Management, Monitoring, and Coordination Unit (PMMCU) at the
+
+MoWCA, with the composition, mandate, functions, staffing and resources satisfactory to the Association.
+
+
+
+Sections and Description
+
+(Section I.A of Schedule 2 to the Financing Agreement, Institutional Arrangements)
+
+
+
+The Recipient shall establish within three (3) months of the Effective Date and maintain throughout the period of
+
+implementation of the Project, a Project Steering Committee (PSC)with the composition, mandate, functions,
+
+staffing and resources satisfactory to the Association.
+
+
+
+Sections and Description
+
+(Section I.A of Schedule 2 to the Financing Agreement, Institutional Arrangements)
+
+
+
+The Recipient shall establish within three (3) months of the Effective Date and maintain throughout the period of
+
+implementation of the Project, the Project Implementation Committee (PIC) with the composition, mandate,
+
+functions, staffing and resources satisfactory to the Association.
+
+
+
+Sections and Description
+
+(from Section I.C of Schedule 2 to the Financing Agreement, Project Operations Manual)
+
+
+
+The Recipient, through MoWCA, shall prepare and adopt a Project Operations Manual for the Project, in form and
+
+substance satisfactory to the Association within six (6) months of the Effective Date.
+
+
+
+Sections and Description
+
+(section I.E of Schedule 2 to the Financing Agreement, Contingent Emergency Response)
+
+
+
+In order to ensure the proper implementation of contingent emergency response activities under Part 3 of the
+
+Project (“Contingent Emergency Response Part”), the Recipient shall ensure that a manual (“CERC Manual”) is
+
+prepared and adopted in form and substance acceptable to the Association, which shall set forth detailed
+
+implementation arrangements for the Contingent Emergency Response Part.
+
+
+
+Sections and Description
+
+(section I.F of Schedule 2 to the Financing Agreement, Expenditures to be Financed with Counterpart Funds)
+
+
+
+The Recipient shall provide, promptly as needed, the resources needed for this purpose: (i) all costs associated with
+
+land and land use rights required for the purposes of the Project; (ii) procurement of vehicles, recurrent
+
+expenditures for the purpose of attending meetings, conferences, seminars, workshops and study visits (sitting
+
+allowances / cash per diems / honoraria, notwithstanding eligible expenditures under Incremental Operating Costs
+
+                                                                                                                        v
+
+      The World Bank
+
+      Bangladesh Enhancing Investments and Benefits for Early Years (BEIBEY) Project (P178133)
+
+
+
+
+
+
+
+and Training), and recurrent expenditures for fuel, under the Project and salaries of the Recipient’s civil servants;
+
+and (iii) taxes exceeding fifteen (15) percent of the total amount of Financing.
+
+
+
+
+
+Conditions
+
+
+
+Type                    Financing source          Description
+
+Disbursement            IBRD/IDA                  (from Section III.B. of Schedule 2 to the Financing Agreement,
+
+                                                  Withdrawal Conditions)
+
+
+
+                                                  "No withdrawal shall be made for payments made prior to the
+
+                                                  Signature Date, except that withdrawals up to an aggregate amount
+
+                                                  not to exceed SDR 31,600,000 may be made for payments made
+
+                                                  prior to this date but on or after January 31, 2023, for Eligible
+
+                                                  Expenditures under category (2)
+
+
+
+                                                  No withdrawal shall be made for Emergency Expenditures under
+
+                                                  Category (4), unless and until all of the following conditions have
+
+                                                  been met in respect of said expenditures:
+
+                                                  (i)    (A) the Recipient has determined that an Eligible Crisis or
+
+                                                  Emergency has occurred, and has furnished to the Association a
+
+                                                  request to withdraw Financing amounts under Category (4); and (B)
+
+                                                  the Association has agreed with such determination, accepted said
+
+                                                  request and notified the Recipient thereof; and
+
+                                                  (ii)   the Recipient has adopted the CERC Manual and Emergency
+
+                                                  Action Plan, in form and substance acceptable to the Association."
+
+
+
+
+
+
+
+
+
+                                                                                                                        vi
+
+      The World Bank
+
+      Bangladesh Enhancing Investments and Benefits for Early Years (BEIBEY) Project (P178133)
+
+
+
+
+
+
+
+I. STRATEGIC CONTEXT
+
+
+
+A. Country Context
+
+
+
+      1.      Bangladesh experienced rapid social and economic progress in recent decades, reaching lower middle-
+
+      income status in 2015. Stable macroeconomic conditions drove 6.7 percent average annual real Gross Domestic
+
+      Production (GDP) growth between 2010 and 2019. The national poverty rate fell from 48.9 to 24.5 percent
+
+      between 2000 and 2016, supported by labor market gains. However, poverty reduction has recently slowed,
+
+      particularly in urban areas and in the west of the country.1 Annual consumption growth of the bottom 40 percent
+
+      (1.2 percent) trailed the overall population (1.6 percent) from 2010 to 2016.
+
+      2.      Rising global commodity prices and global monetary policy tightening disrupted the economic
+
+      recovery from COVID-19. Government stimulus programs supported a rapid economic recovery in FY21 as
+
+      movement restrictions ended. However, the current account deficit surged in the second half of FY22 amidst
+
+      rising commodity and intermediate goods prices, which contributed to accelerating inflation. Import price
+
+      moderation and rationing narrowed trade deficit in FY23, supported by resilient export growth. However, this
+
+      was offset by a sharp contraction in trade credit and lower medium- and long-term lending in the financial
+
+      account. The balance of payments deficit reached US$8.2 billion by end FY23. Authorities requested support to
+
+      restore external balance, including an International Monetary Fund (IMF) program approved in January 2023.
+
+      3.      The fiscal deficit widened to an estimated 4.4 percent of GDP in FY23. Tax revenues remained among
+
+      the lowest in the world at an estimated 7.6 percent of GDP in FY23. Expenditure growth accelerated with higher
+
+      subsidy spending as a result of elevated commodity prices, while revenues declined with lower imports. Capital
+
+      expenditure was led by infrastructure megaprojects, with rationalization of other projects in FY23 to slow the
+
+      growth of the budget deficit.
+
+      4.       Real GDP growth is expected to reach 6.2 percent in FY24 before accelerating to its long-term trend.
+
+      Growth is expected to converge to 6.5 percent over the medium term as inflationary pressure eases, depending
+
+      on the depth of reforms implemented. The fiscal deficit is expected to gradually narrow with accelerating
+
+      economic activity, higher incomes, and tax administration reform implementation. The Current Account Deficit
+
+      will narrow as imports normalize with moderating commodity prices. Remittance inflows are expected to rise,
+
+      supported by strong external demand for migrant workers. The financial account deficit is projected to moderate
+
+      in FY24.
+
+      5.      Structural reforms are needed to support a faster pace of growth over the medium term. Priorities to
+
+      reach upper middle-income status by 2031 include building a competitive business environment, diversifying
+
+      exports, increasing human capital, building efficient infrastructure, deepening the financial sector, and attracting
+
+      private investment. These reforms will support international competitiveness as Bangladesh prepares for
+
+      graduation from the Least Developed Country status in 2026, which will gradually lead to reduced concessional
+
+      financing and preferential market access for its exports.
+
+      6.      Bangladesh is at low risk of overall and external debt distress in the January 2023 joint IMF-World
+
+      Bank Debt Sustainability Assessment. Bangladesh is not currently subject to Debt Limits Conditionality under
+
+      the Sustainable Development Finance Policy. In its most recent Staff Report, the IMF stressed the need for
+
+
+
+
+
+
+
+      1   Bangladesh Systematic Country Diagnostic Update (2021) and Bangladesh Bureau of Statistics (BBS).
+
+
+
+                                                                                                                  Page 1 of 28
+
+      The World Bank
+
+      Bangladesh Enhancing Investments and Benefits for Early Years (BEIBEY) Project (P178133)
+
+
+
+
+
+
+
+      Bangladesh to accelerate its ambitious reform agenda to achieve a more resilient, inclusive, and sustainable
+
+      growth, requiring substantial investments in human capital and infrastructure.
+
+      7.      Bangladesh faces a high level of vulnerability to the effects of climate change, which poses a further
+
+      risk to growth and development. The Global Climate Risk Index ranks Bangladesh as the world’s seventh most-
+
+      affected country in 2000-2019.2 Rising temperatures leading to more intense and unpredictable rainfalls during
+
+      the monsoon season and the already high probability of cyclones is expected to further increase, resulting in
+
+      increased tidal inundation. Flooding in Bangladesh is a near-constant phenomenon, recurring with varying
+
+      magnitude and intensity, affecting a greater population than any other natural hazard. Floods and riverbank
+
+      erosion in Bangladesh affect about one million people annually and can be substantially higher.3 Once every
+
+      three to five years, up to two-thirds of Bangladesh is inundated by floods. In addition, the country is projected
+
+      to have 13.3 million internal climate refugees by 2050.4 The Bangladesh Country Climate and Development
+
+      Report (CCDR) highlights internal climate migration as a pressing issue for urban areas. Urban centers, especially
+
+      Dhaka, have been a destination for those trying to escape rural poverty and climate change is accelerating the
+
+      race to the cities. For the urban poor, the exposure to climate and/or economic risk, is exacerbated by limited
+
+      access to services: only 11 percent of urban households benefit from at least one social protection program
+
+      compared to 36 percent of rural households.5 Addressing these risks will be critical to support sustainable
+
+      economic development, ensuring that the vulnerable populations are not left behind.
+
+
+
+      8.     Evidence from the last decade shows that the parts of Bangladesh exposed to multiple overlapping
+
+      shocks have witnessed relatively slower poverty reduction. In the years ahead, climate change is likely to
+
+      continue to slow the progress on poverty reduction. With higher frequency of climate related shocks and
+
+      disasters, vulnerable populations and the chronically poor will face long lasting and multigenerational effects,
+
+      resulting in costly coping strategies such as divesting productive assets and curtailing investments in human
+
+      capital. Strong, adaptive social protection measures can enable poorer households to reduce negative coping
+
+      strategies and build resilience.
+
+
+
+B. Sectoral and Institutional Context
+
+
+
+      9.     Together with poverty reduction, Bangladesh has made significant progress in child and maternal
+
+      health outcomes. Between 2011 and 2017-18, the estimated under-five mortality rate declined from 53 to 45
+
+      per 1,000 live births while estimated maternal mortality ratio declined from 248 to 174 per 100,000 births.
+
+      Similarly, prevalence of stunting among under-five children improved from 41 to 24 percent; child wasting
+
+      declined from 16 percent to 11 percent, and the rate of child underweight declined from 36 percent to 22
+
+      percent.6 These improvements signify important gains with short- and long-term impact on poverty and shared
+
+      prosperity.
+
+
+
+      10. In spite of this notable progress, malnutrition remains prevalent, potentially worsened by COVID-19
+
+      lockdowns, which has long term implications for cognitive development, adult outcomes, and economic
+
+
+
+      2 German Watch (2021) Global Climate Risk Index 2021.
+
+      3 The World Bank: Climate Change Knowledge Portal.
+
+      4 Clement, V.; Rigaud, K.; de Sherbinin, A.; Jones, B.; Adamo, S.; Schewe, J.; Sadiq, N.; Shabahat, E. 2021. Groundswell Part 2: Acting on
+
+
+
+      Internal Climate Migration. World Bank, Washington, DC. © World Bank. https://openknowledge.worldbank.org/handle/10986/36248
+
+      5 World Bank (2021). Bangladesh Social Protection Public Expenditure Review.
+
+      6 National Institute of Population Research and Training (NIPORT), and ICF. (2021). Bangladesh Demographic and Health Survey 2021: Key
+
+
+
+      Indicators. Dhaka, Bangladesh, and Rockville, Maryland, USA: NIPORT, and ICF.
+
+
+
+                                                                                                                                     Page 2 of 28
+
+The World Bank
+
+Bangladesh Enhancing Investments and Benefits for Early Years (BEIBEY) Project (P178133)
+
+
+
+
+
+
+
+productivity. The World Bank Human Capital Index 2020 suggests that under current health and education
+
+conditions, a child born in Bangladesh today will only be 46 percent as productive as s/he could potentially be.
+
+Early childhood is a critical stage for human capital accumulation: a weak start in the first 1,000 days followed
+
+by inadequate investments in early childhood education limits children’s cognitive and non-cognitive
+
+development. This lowers their school readiness and leads to poor school enrollment, retention, completion,
+
+and learning outcomes, leading to lower lifelong earnings, creating a vicious cycle. Low-income households in
+
+Bangladesh are particularly vulnerable, as nutrition and health outcomes are twice as worse in the poorest
+
+quintile as compared to the richest quintile. In the wake of COVID-19, low-income households were also more
+
+likely to be food insecure and experienced higher levels of stunting and wasting, which has direct impact on their
+
+long-term outcomes.7
+
+
+
+11. Other than income, unhealthy household environment, inadequate feeding practices, and lack of home
+
+stimulation significantly affect developmental outcomes. While household income affects purchase and
+
+consumption of various food groups and thereby implicitly impacts the nutrient intake of households, diets do
+
+not improve automatically with higher incomes and lower prices. Similarly, improved household diets do not
+
+necessarily translate into better diets for women and children. For example, women’s diets are lacking despite
+
+access to nutritious diets at the household level, and children’s diets are poor in quality regardless of household
+
+income. This suggests that other factors matter, such as women’s empowerment and awareness of feeding
+
+practices.8
+
+
+
+12. Underutilization of key health and education services is one of the key causes of lagging human capital
+
+outcomes particularly among low-income households. Lack of awareness, high out of pocket expenses, and
+
+restrictive social norms contribute to the underutilization of services. Getting permission to go to the doctor is
+
+also one of the most cited barriers to accessing healthcare by women aged 15-49 in Bangladesh. Given mobility
+
+and financial constraints faced by women, almost 70 percent of women of reproductive age report difficulties
+
+in accessing healthcare.9 As a result, less than one in five women take up on the four recommended antenatal
+
+care visits throughout pregnancy. This is also reflected in the percentage of child deliveries at health facilities,
+
+with only one quarter of poor households attending a health facility, compared to 76 percent of households in
+
+the wealthier quintiles. Home stimulation also plays a fundamental role in children’s developmental outcomes,
+
+but this is more prevalent in richer households: only 50 percent of children aged 2-4 years in poor households
+
+have parents that engage in early stimulation activities that promote learning and school readiness, compared
+
+to 80 percent in rich households. Consequently, only 17 percent of children aged 3-4 years in the poorest quintile
+
+are developmentally on track in literacy and numeracy, compared to 43 percent in the richest quintile.10 High
+
+prevalence of gender-based violence (GBV) is also linked to chronic malnutrition and underweight rates in
+
+women and their children through reduced physical capacity, increased psychological stress, and possibly diet
+
+deprivation. A high percentage of married women report facing GBV or find it acceptable.11 Despite the wide
+
+prevalence and severity of impacts on mothers and children, lack of information on already scarce GBV services
+
+
+
+7 Karim, K.M. and Tasnim, T. (May 2022). Impact of lockdown due to COVID-19 on nutrition and food insecurity of the selected low-income
+
+households in Bangladesh. Heliyon 2022. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9072750/.
+
+8 World Bank. (2019). Food for Improved Nutrition in Bangladesh.
+
+9 National Institute of Population Research and Training (NIPORT), and ICF. (2019). Bangladesh Demographic and Health Survey 2017-18:
+
+
+
+Key Indicators. Dhaka, Bangladesh, and Rockville, Maryland, USA: NIPORT, and ICF.
+
+10 World Bank (2020). The Landscape of Early Childhood Education in Bangladesh.
+
+11 BBS and UNICEF Bangladesh. 2019. Progotir Pathey, Bangladesh Multiple Indicator Cluster Survey 2019, Survey Findings Report. Dhaka,
+
+
+
+Bangladesh. More than 80 percent of surveyed married women report facing intimate partner violence and over a quarter of surveyed
+
+women find violence from their partners acceptable.
+
+
+
+                                                                                                                            Page 3 of 28
+
+The World Bank
+
+Bangladesh Enhancing Investments and Benefits for Early Years (BEIBEY) Project (P178133)
+
+
+
+
+
+
+
+among GBV survivors, together with the fear of stigma and backlash and acceptance of violence prevent women
+
+from seeking essential lifesaving services.12
+
+
+
+13. Climate shocks pose an additional threat to development and wellbeing, particularly for children. The
+
+poor face a disproportionate impact because they generally live in higher-risk areas, rely on agriculture and
+
+other climate-sensitive natural resources for income and livelihoods, and have limited coping mechanisms.
+
+Progress in alleviating undernourishment has also been relatively slow because of climate change. The World
+
+Food Programme (WFP) estimates that without adaptation, the risk of hunger and child malnutrition on a global
+
+scale could increase by 20 percent respectively by the 2050s.13 Higher drinking water salinity from rising sea
+
+levels will increase the prevalence of diarrhea and cardiovascular disease as well as affect the usability of
+
+groundwater, while more frequent extreme heat events will increase mortality rates among the elderly,
+
+children, chronically ill, socially isolated, and at-risk occupational groups.14 Extreme weather events brought on
+
+by climate change have also been attributed as one of the triggers of a host of psychological issues, including
+
+depression, anxiety, and post-traumatic stress disorder. Rising temperatures and humidity make respiratory
+
+illnesses, waterborne diseases, and dengue more likely. A wide range of climate change fallouts are experienced
+
+differently by men, women, and children due to lack of access to healthcare facilities, late diagnosis, reduced
+
+awareness of diseases, and restrictions in decision-making processes.15
+
+
+
+14. Achieving stronger human capital outcomes requires overcoming multiple constraints simultaneously
+
+starting as early as possible in the lifecycle. Food insecurity, low parental education, lack of stimulation at home,
+
+and parental distress are key risks that jeopardize children’s optimal development. Weak support for children
+
+and youth could limit Bangladesh’s economic and demographic potential as investments in early childhood are
+
+more efficient when they start as early as possible, beginning at conception to ensure pregnant women are
+
+consuming nutritious food and receiving appropriate health support and continues through the child’s earliest
+
+years when there is a rapid phase of growth involving physical, neurodevelopmental, and socioemotional
+
+changes. Positive development during early childhood will have lasting effects for the rest of the individual’s life.
+
+To reach their full potential, children need all components of nurturing care, which include good health,
+
+adequate nutrition, responsive caregiving, opportunities for early learning, and safety and security.16 This is also
+
+reflected in the country’s Comprehensive Early Childhood Care and Development Policy 2013, which lays out an
+
+integrated and holistic system of child development from survival, protection, care and development through
+
+family, community, learning and school-based programs. The Policy designates the Ministry of Women and Child
+
+Affairs (MoWCA) as the lead ministry to coordinate and oversee implementation of the Policy, in collaboration
+
+with various ministries, non-governmental organizations, and international organizations.
+
+
+
+15. The National Social Security Strategy (NSSS, 2015) commits to establishing a nationwide comprehensive
+
+child benefit program. While Bangladesh spends almost US$4 billion, or 3 percent of GDP, annually on social
+
+
+
+12 World Bank. 2021. Bangladesh Country Gender Assessment. The 2015 BBS Violence Against Women Survey found that 70 percent of
+
+surveyed married women and girl survivors of violence never told anyone, and only 2.6 percent took any legal action.
+
+13 World Food Programme (2015). Two minutes on climate change and hunger: A zero hunger world needs climate resilience.
+
+
+
+https://docs.wfp.org/api/documents/WFP-0000009143/download/.
+
+14 World Bank Group. 2022. Bangladesh Country Climate and Development Report.
+
+
+
+https://openknowledge.worldbank.org/handle/10986/38181.
+
+15 United Nations Asia and Pacific Office (2022). State of Gender Equality and Climate Change in Bangladesh.
+
+
+
+https://wedocs.unep.org/20.500.11822/40845.
+
+16 World Health Organization, UNICEF, World Bank. Nurturing care for early childhood development: a framework for helping children
+
+
+
+survive and thrive to transform health and human potential. Geneva: World Health Organization; 2018.
+
+
+
+                                                                                                                          Page 4 of 28
+
+      The World Bank
+
+      Bangladesh Enhancing Investments and Benefits for Early Years (BEIBEY) Project (P178133)
+
+
+
+
+
+
+
+      protection, less than 2 percent of expenditures are directed at children under five, although they represent 9
+
+      percent of the population, and as much as 13 percent of the poor.17, 18 The importance of investments in this
+
+      age group has been underlined in the NSSS and 8th Five Year Plan, and the Government of Bangladesh (GoB)
+
+      took positive steps in increasing beneficiary coverage by 20 percent and consolidating two of its maternal and
+
+      child health programs (Maternity Allowance and Urban Lactating Mothers Allowance) into the Mother and Child
+
+      Benefit Programme (MCBP) in 2022 in order to reduce fragmentation and build upon digital program systems.
+
+      Implemented by the Department of Women Affairs (DWA), under the MoWCA, the MCBP provides monthly cash
+
+      transfers of BDT 800 (US$7) to pregnant women and mothers of children under four years from vulnerable
+
+      households. Applicants self-enroll by submitting an online application, which is verified by local committee
+
+      members, and once approved, the benefit is transferred on a monthly basis directly to beneficiary accounts
+
+      using the national Government-to-Person (G2P) platform. Assessment of the eligibility criteria indicates a high
+
+      level of targeting efficiency, with 75 percent of beneficiaries belonging to the bottom two expenditure quintiles.
+
+
+
+      16. The MCBP makes good use of existing platforms and systems, including on-demand enrollment,
+
+      verification with the National Identity Database (NID), and regular electronic payments. This linkage has also
+
+      enabled increased NID ownership and financial inclusion in cases where applicants did not possess these.
+
+      However, there still remain significant gaps, including inadequate beneficiary coverage and insufficient payment
+
+      tenure of 36 months from pregnancy due to limited budgetary allocation; integration with service delivery
+
+      systems, including health, family planning, nutrition, and birth registration services, among others, which limit
+
+      effective monitoring and follow up with households, as well as the need to enhance social and behaviour change
+
+      counseling to encourage regular service utilization and appropriate nurturing care for their children.19
+
+
+
+C. Relevance to Higher Level Objectives
+
+
+
+      17.    The project is in line with the World Bank Group’s Country Partnership Framework (CPF) FY23-27 (No.
+
+      181003-BD), discussed by the World Bank Group Board of Executive Directors on April 27, 2023 . The CPF’s
+
+      primary objective is to help Bangladesh progress in its transition to the upper middle-income country level as a
+
+      more competitive, resilient, inclusive, and greener economy. Specifically, it contributes to Objective 3 (Improved
+
+      effectiveness of public institutions to deliver better services to citizens and businesses) under Higher Level
+
+      Objective (HLO) A (Increased private sector jobs), and Objective 4 (Improved quality and equitable access for
+
+      human capital development services) under HLO B (Improved socioeconomic inclusion) by promoting
+
+      investments in early years and delivery systems to expand access to early childhood development (ECD) services,
+
+      particularly for poor and vulnerable households.
+
+
+
+      18. Project interventions are anchored in the country’s vision to become a developed country by 2041 and
+
+      aligned with the NSSS that commits to establishing a nationwide comprehensive child benefit program. The
+
+      Perspective Plan 2021-2041, which lays out the country’s vision and roadmap for accelerated growth through
+
+      eradication of poverty, inequality, and human deprivation, recognizes that adequate investment in human
+
+      capital formation of the poor is one of the most pressing policy challenges facing Bangladesh. In supporting this
+
+      vision, the 8th Five Year Plan takes a pro-poor and inclusive growth strategy, which rests on key policy areas
+
+      including ECD, universal health coverage, universal access to quality education, and cash transfers to poor
+
+      families.
+
+
+
+      17 Finance Division annual budget data. https://mof.gov.bd/site/page/32220b73-846f-4a33-b4c0-a6650c918e25/nolink/SafetyNet
+
+      18  World Bank. (2021). Social Protection Public Expenditure Review.
+
+      19 Government of Bangladesh (2022). Mother and Child Benefit Programme: Detailed Implementation Plan.
+
+
+
+
+
+
+
+                                                                                                                            Page 5 of 28
+
+      The World Bank
+
+      Bangladesh Enhancing Investments and Benefits for Early Years (BEIBEY) Project (P178133)
+
+
+
+
+
+
+
+      19. The project is consistent with Bangladesh’s Nationally Determined Contributions 2021. It promotes use
+
+      of energy efficient appliances both at the household-level and office use.20 The project is also consistent with
+
+      the National Adaptation Plan (NAP) of Bangladesh (2023‐2050) through its linkage to at least three out of six
+
+      goals set by the NAP, specifically ensuring protection of women, socially disadvantaged and other vulnerable
+
+      groups.
+
+
+
+II. PROJECT DESCRIPTION
+
+
+
+A. Project Development Objective
+
+    PDO Statement
+
+
+
+       The Project Development Objective is to provide consumption support to vulnerable households with pregnant
+
+       women and mothers of children under 4 years of age and increase knowledge of nurturing care services that
+
+       contribute to early childhood development (ECD).
+
+
+
+      PDO Level Indicators
+
+
+
+      Outcome 1: Provide consumption support to vulnerable households with pregnant women and mothers of
+
+      children under 4 years of age
+
+      •       Beneficiaries of social safety net programs (number)
+
+      •       Tenure of cash transfer payments (months)
+
+
+
+      Outcome 2: Increase knowledge of nurturing care practices that contribute to ECD
+
+      •     Participants able to recall at least three key ECD messages (of which, female) (percent)
+
+
+
+B. Project Components
+
+
+
+      20. The project will contribute to ECD by expanding beneficiary coverage and strengthening Programme
+
+      quality, including enhanced counseling services focused on maternal and child wellbeing . Financial resources
+
+      and capacity support will be provided to (i) scale up MCBP coverage and (ii) strengthen MCBP institutional and
+
+      monitoring capacity. The lending instrument will be Investment Project Financing (IPF) with Performance Based
+
+      Conditions (PBC) and the project will be implemented over five years. The choice of instrument is intended to
+
+      ensure concrete results in the form of increased program coverage and sustained improvements in program
+
+      systems and capacity. PBCs will be disbursed against the achievement of targets related to scaled up cash
+
+      transfer coverage and tenure, strengthened program systems, enhanced monitoring and evaluation. Evidence
+
+      of target achievement will be provided by the implementing agency, validated by the World Bank, and
+
+      complemented by spot check findings, according to the protocols detailed in the Results Framework and the
+
+      Project Operations Manual (POM).
+
+
+
+      Component 1: Expanding Coverage of the Mother and Child Benefit Programme and Strengthening
+
+      Programme Systems (US$875.24 million, of which IDA US$202.00 million equivalent)
+
+
+
+
+
+      20Government of Bangladesh (2021). Nationally Determined Contributions 2021. Ministry of Environment, Forest, and Climate Change.
+
+      https://unfccc.int/sites/default/files/NDC/2022-06/NDC_submission_20210826revised.pdf.
+
+
+
+                                                                                                                               Page 6 of 28
+
+The World Bank
+
+Bangladesh Enhancing Investments and Benefits for Early Years (BEIBEY) Project (P178133)
+
+
+
+
+
+
+
+21.     This component will support the expansion of the MCBP and strengthening of the Programme systems.
+
+Retroactive financing of up to US$42 million and annual PBC targets of up to US$160 million will ensure that
+
+critical actions on Programme systems and institutional strengthening are implemented (Table 1). PBC results
+
+also address climate change adaptation goals (i.e., addressing food insecurity, malnutrition, compromised
+
+livelihoods, and income) for vulnerable households.
+
+
+
+ Table 1: PBCs for Component 1
+
+            Results Indicator                                                                          (US$ mill)
+
+ PBC 1      MCBP operational guidelines approved                                                          5.0
+
+ PBC 2      Strengthened capacity for effective Programme implementation and monitoring                  28.5
+
+ PBC 3      Number of MCBP beneficiaries receiving cash transfer support increased over                  90.5
+
+            previous FY
+
+ PBC 4      Annual review of MCBP and stakeholder consultations conducted                                15.0
+
+ PBC 5      Increase monthly coverage of MCBP cash transfers to 48 months                                21.0
+
+            Total                                                                                        160.0
+
+
+
+Component 2: Supporting Implementation of the Mother and Child Benefit Programme (US$9.71 million, of
+
+which IDA US$8.00 million equivalent)
+
+
+
+Sub-component 2.1: Enhancing MCBP outreach and monitoring (US$7.61 million, of which IDA US$6.29 million
+
+equivalent)
+
+
+
+22.    This sub-component will support MCBP outreach and monitoring systems, including (i) expanding
+
+training and capacity building activities at the central and field levels; (ii) upgrading the management information
+
+system (MIS) for MCBP and developing interoperable interface; (iii) strengthening the MIS unit through
+
+dedicated staff; and (iv) conducting regular program assessments, including spot checks and surveys.
+
+
+
+23. Effective beneficiary management and program monitoring will be enhanced through three key
+
+pathways. Technical support will be provided to build administrative and stakeholder capacity to implement
+
+activities, including those addressing malnutrition, GBV, early marriage, and climate change adaptation and
+
+resilience. The existing MIS will be upgraded in line with recommendations emerging from the MIS
+
+interoperability assessment, including linkages with a comprehensive range of ECD services such as birth
+
+registration and health, and assessment of personal data privacy and appropriate mechanisms to ensure
+
+alignment with international good practice. 21 Finally, a robust monitoring & evaluation (M&E) framework
+
+comprising annual process reviews and spot checks, knowledge, attitude, and practice surveys, and beneficiary
+
+satisfaction surveys, will establish a feedback mechanism that contributes to effective program management by
+
+diagnosing bottlenecks and facilitating necessary program adjustments, including updates to eligibility criteria.
+
+
+
+Sub-component 2.2: Project implementation, monitoring, and coordination (US$2.10 million, of which IDA
+
+US$1.71 million equivalent)
+
+
+
+24.   This sub-component will support day-to-day administration, management, monitoring, and
+
+coordination of project activities by the Project Management, Monitoring, and Coordination Unit (PMMCU).
+
+
+
+21   Government of Bangladesh. Report on MCBP MIS Interoperability Assessment. June 2022.
+
+
+
+                                                                                                            Page 7 of 28
+
+       The World Bank
+
+       Bangladesh Enhancing Investments and Benefits for Early Years (BEIBEY) Project (P178133)
+
+
+
+
+
+
+
+       This would include financial management, environmental and social risk management, procurement, and
+
+       monitoring, evaluation, and reporting. Financing will be provided for (i) consultant fees; (ii) technical assistance
+
+       and capacity building activities; (iii) goods and equipment, and (iv) incremental operating costs. Any office
+
+       equipment and electrical accessories would consider use of energy efficient and renewal energy sources.
+
+
+
+       Component 3: Contingent Emergency Response (US$0 million)
+
+
+
+       25. This component is included for situations of urgent need of assistance. In the event of an eligible crisis
+
+       or emergency, the component will contribute to providing an immediate and effective response. A zero-value
+
+       component will ensure rapid reallocation of project funds in the event of future natural or man-made disaster
+
+       or crisis that has caused or is likely to imminently cause a major adverse economic and/or social impact during
+
+       the life of the project.
+
+
+
+C. Project Beneficiaries
+
+
+
+       26. The proposed project will directly benefit up to 1.7 million pregnant women, mothers, and young
+
+       children (aged 0-4 years) through cash transfers, counseling on maternal and child wellbeing, and linkage to
+
+       services. Enhanced counseling services provided to beneficiaries and community members will also serve to
+
+       benefit the larger population, including fathers and families with older children.
+
+
+
+D. Results Chain
+
+
+
+
+
+
+
+
+
+E. Rationale for Bank Involvement and Role of Partners
+
+
+
+       27. The proposed project builds on a longstanding partnership between the GoB and the World Bank on
+
+       investments in the early years. In addition to analytical work, policy dialogue, and financing on a broad range
+
+       of education and health issues, the Income Support Program for the Poorest (P146520) project and Shombhob
+
+       pilot (P123629) demonstrated the value and modalities for improving ECD. The project will take advantage of
+
+
+
+
+
+                                                                                                                   Page 8 of 28
+
+      The World Bank
+
+      Bangladesh Enhancing Investments and Benefits for Early Years (BEIBEY) Project (P178133)
+
+
+
+
+
+
+
+      synergies with ongoing investments, including the Health Sector Support Program (P160846), which supports
+
+      strengthened health, nutrition and population (HNP) core management systems and delivery of essential HNP
+
+      services, with particular focus on maternal and child health services; the Quality Learning for All Program
+
+      (P162619), which seeks to improve the quality of and enhance equitable access to education from pre-primary
+
+      to grade 5, and the Rural Water, Sanitation & Hygiene (WASH) for Human Capital Development (P169342), which
+
+      supports improved access to ‘safely-managed’ water supply and sanitation in selected areas. The World Bank’s
+
+      global expertise in the area of ECD and social protection systems also afford a unique position to offer strong
+
+      implementation and technical support, with significant public and private returns for years to come.
+
+
+
+      28. The World Bank will continue to work in partnership with development partners (DP), notably the
+
+      Delegation of the European Union, the United Nations Children’s Fund, and WFP. The project builds on
+
+      intensive DP support in the form of budget financing and technical assistance to the Government to increase
+
+      MCBP coverage and strengthen program systems, including assessments, development of implementation
+
+      plans, and monitoring arrangements. Coordination efforts to support the early years agenda have been ongoing
+
+      through the MCBP DP Coordination Group and project preparation undertook various consultations with
+
+      partners to ensure priorities and investments are aligned.
+
+
+
+F. Lessons Learned and Reflected in the Project Design
+
+
+
+      29.     The proposed project builds on global evidence of the importance of an integrated approach to
+
+      improve human capital investments. Social safety nets can play a powerful role in combating poverty,
+
+      inequality, and vulnerability as well as contributing to improved human development outcomes. Global reviews
+
+      of cash transfers have found unambiguous improvements in dietary diversity and uptake of health and nutrition
+
+      services, both crucial elements of better nutritional outcomes, as well as significant positive impacts on stunting
+
+      among children.22, 23 The combination of cash transfers with behavior change communication (BCC) has shown
+
+      to be more effective in improving nutrition outcomes, parenting practices, and other behaviours, globally and
+
+      in Bangladesh. In Indonesia, stunting among children aged 0-5 years fell by up to 10 percentage points by using
+
+      this combined approach. This is also substantiated by findings of the Transfer Modality Research Initiative in
+
+      Bangladesh, which notes that the combination of cash transfers with BCC led to significant improvements in
+
+      nutrition knowledge and stunting.24 Moreover, cash transfer programs can also address GBV. A mixed-method
+
+      review of 21 studies in low- and middle-income countries identified that most studies have evidence that cash
+
+      transfers decreased GBV.25 Evidence from Bangladesh indicates that when cash is combined with BCC, the
+
+      reduction of GBV continues even after project closure.26
+
+
+
+      30. The proposed project design reflects lessons from several operations. In particular, the Shombhob
+
+      project (P123629) indicated that robust targeting, communication, payments, and monitoring of cash transfers
+
+      to the target population led to increase in monthly household food consumption and significant impact on the
+
+
+
+      22 Bastagli, F. et al, 2016. “Cash transfers: what does the evidence say?” https://cdn.odi.org/media/documents/11316.pdf.
+
+      23 Manley, J. et al, BMJ 2020. “Cash transfers and child nutritional outcomes: a systematic review and meta-analysis”.
+
+      https://gh.bmj.com/content/bmjgh/5/12/e003621.full.pdf.
+
+      24 Quisumbing, A. et al, 2020. “Randomized controlled trials of multi -sectoral programs: lessons from development research”. World
+
+
+
+      Development, 127, p.104822.
+
+      25 Buller, A. et al, 2018. “A Mixed-Method Review of Cash Transfers and Intimate Partner Violence in Low- and Middle-Income Countries”.
+
+
+
+      https://doi.org/10.1093/wbro/lky002.
+
+      26 Roy, S. et al, 2017. “Transfers, behavior change communication, and intimate partner violence: Post-program evidence from rural
+
+
+
+      Bangladesh”. http://ebrary.ifpri.org/cdm/ref/collection/p15738coll2/id/131411.
+
+
+
+                                                                                                                                  Page 9 of 28
+
+        The World Bank
+
+        Bangladesh Enhancing Investments and Benefits for Early Years (BEIBEY) Project (P178133)
+
+
+
+
+
+
+
+        incidence of wasting. Similarly, the Income Support Program for the Poorest (P146520) supported local
+
+        government capacity to deliver safety nets by providing technical and financial resources to identify and poor
+
+        pregnant women and mothers of young children and connect them to child nutrition and cognitive development
+
+        services, monitor service provision and utilization, manage payment camps, and support grievance redress
+
+        processes. Findings from a beneficiary assessment showed that BCC sessions provided a platform for positive
+
+        behavioral change. Evaluation of Indonesia’s Program Keluarga Harapan (P160665) found that the program
+
+        continued to have a substantial impact on increased utilization of health services, even after six years, while very
+
+        large impacts were found on children’s propensity to be stunted or severely stunted in the six-year follow up.
+
+
+
+ III.      IMPLEMENTATION ARRANGEMENTS
+
+
+
+A. Institutional and Implementation Arrangements
+
+
+
+        31.    The proposed project will be implemented by MoWCA in close coordination with the Finance Division
+
+        (FD) and MCBP Programme Implementation Unit (PIU). The PMMCU will be set up at MoWCA, comprising a full-
+
+        time Project Director, Deputy Project Director, Programme Coordinator and specialized technical and fiduciary
+
+        support, which will be responsible for overall project management and will work in full coordination with the FD
+
+        and the existing MCBP PIU.
+
+
+
+        32. The PMMCU will be guided by a Project Steering Committee headed by the MoWCA Secretary. The Project
+
+        Steering Committee (PSC) will be responsible for approving annual work plans; monitoring implementation
+
+        progress; providing strategic and policy guidance, and supporting communication and dissemination of project
+
+        outcomes. A Project Implementation Committee (PIC), headed by the Additional Secretary, will guide the PMMCU
+
+        on implementation, including guidance, monitoring, and overall supervision.
+
+
+
+B. Results Monitoring and Evaluation Arrangements
+
+
+
+        33. The primary tool to monitor and evaluate project results will be the Results Framework . The PMMCU
+
+        will be responsible for preparing six-monthly progress reports, covering (a) progress toward achievement of
+
+        targets in the Results Framework; (b) component-wise implementation progress of activities, including
+
+        verification of PBCs; (c) status in achieving expected outputs and outcomes and factors constraining
+
+        achievement; (d) component-wise disbursement; (e) Environmental and Social Standards, and (f) information
+
+        about any grievances and feedbacks received, accidents and incidents that occurred, and actions taken
+
+        concerning them.
+
+
+
+        34. PBCs will be verified based on submitted documentation and independent verification, as detailed in the
+
+        Verification Protocol Table for PBCs under the Project’s Result Framework.
+
+
+
+        35. Third party monitoring will also be conducted as a regular part of project monitoring. Process
+
+        evaluations, spot checks, and beneficiary feedback surveys would help identify what is working, where
+
+        corrective measures need to be taken, and beneficiary satisfaction levels.
+
+
+
+C. Sustainability
+
+
+
+
+
+
+
+                                                                                                                   Page 10 of 28
+
+      The World Bank
+
+      Bangladesh Enhancing Investments and Benefits for Early Years (BEIBEY) Project (P178133)
+
+
+
+
+
+
+
+      36. Sustainability of project interventions is underpinned by several factors. Firstly, the MCBP is an existing
+
+      cash transfer program that will be sustained beyond the project period and the Government’s commitment is
+
+      underscored in the NSSS. The project’s support to the MCBP is primarily on strengthening coverage and quality
+
+      that would lead to efficiency gains, and represents a small proportion of Government’s overall resource
+
+      allocation to the Programme. Secondly, the project’s institutional and implementation arrangements are
+
+      integrated into existing government institutions and systems. The focus on systems development and
+
+      strengthening is intended to ensure that the Programme and interventions supported by the project are
+
+      sustainable and scalable. Finally, capacity building, training, and technical assistance would enhance institutional
+
+      capacity at both central and local levels.
+
+
+
+
+
+
+
+IV. PROJECT APPRAISAL SUMMARY
+
+
+
+A. Technical, Economic and Financial Analysis
+
+
+
+      37. The operation is aligned with the goals of the Paris Agreement on both mitigation and adaptation.
+
+      Regarding the Project’s Mitigation risk assessment, all supported activities are currently considered universally
+
+      aligned with the Paris Agreement’s mitigation goals on account of not having material risk of negative impact
+
+      on a low greenhouse gas emissions pathway. Regarding Adaptation risks, the Project’s assessment did not reveal
+
+      any material risks from climate hazards and hence all Project activities are considered aligned with the
+
+      adaptation and resilience goals of the Paris Agreement, and do not need further assessment and mitigation.
+
+
+
+      38.     The MCBP design is grounded in analytical and program evidence, including assessment of a
+
+      predecessor pilot, the Improved Maternity and Lactating Mothers Allowance.27 Findings from the assessment
+
+      note that the on-demand self-enrollment system through an online application minimizes exclusion error, while
+
+      objective and verifiable eligibility criteria ensure inclusion errors are also limited. The MCBP MIS is linked to the
+
+      NID, which allows for verification of identity and provides an opportunity to uniquely identify beneficiaries’
+
+      service utilization through the MIS, while electronic fund transfers directly to beneficiary accounts minimizes
+
+      scope for leakage. Project interventions address the recommendations emerging from the assessment, including
+
+      field level capacity and limited monitoring. To quantify the potential impact – both direct and indirect – of the
+
+      proposed activities, and to assess their effectiveness, the analysis below presents global evidence on the impact
+
+      of similar interventions and the cost-benefit ratio of the project.
+
+
+
+      39. A large body of literature emphasizes that the costs of inaction in addressing human capital challenges
+
+      particularly during the early years especially first 1,000 days are substantial. For instance, Leroy et al. (2014)
+
+      finds that almost 70 percent of stunting occurs during the first 1,000 days and has a long-term impact on future
+
+      educational and economic outcomes, cognitive development and material reproductive outcomes. The impact
+
+      of stunting and wasting on loss of productivity could be as high as 11 percent of GDP. 28 At the individual level,
+
+      Galasso and Wagstaff (2018) estimate that per capita income in developing countries would have been 7 percent
+
+
+
+      27 Technical Assistance to Social Security Reforms (2020). Learnings from Programmes Relevant to the Mother and Child Benefit
+
+      Programme: Review of Programme Design, Implementation and Field Learnings on Maternity Allowance, Lactating Mothers Allowance,
+
+      Improved Maternity and Lactating Mothers Allowance, Income Support Program for the Poorest, and Demand Side Financing – Maternity
+
+      Health Voucher Scheme.
+
+      28 Leroy, J. L., Ruel, M. T., Habicht, J. P., and Frongillo, E. A. (2014). “Linear growth deficit continues to accumulate beyond the first 1000
+
+
+
+      days in low- and middle-income countries: global evidence from 51 national surveys,” Journal of Nutrition 144, no. 9 (2014): 1460–66.
+
+
+
+                                                                                                                                        Page 11 of 28
+
+      The World Bank
+
+      Bangladesh Enhancing Investments and Benefits for Early Years (BEIBEY) Project (P178133)
+
+
+
+
+
+
+
+      higher if the current workforce had no incidence of stunting.29
+
+
+
+      40. In addition to directly supporting utilization of health services, increased resources from cash transfers
+
+      can indirectly contribute to nutrition outcomes by ensuring food security, which can be further enhanced by
+
+      awareness campaigns. Both rich and poor Bangladeshis increase their consumption of food with any increase
+
+      in their incomes, which is consistent with findings from Shombhob pilot, where 85 percent of increase in
+
+      beneficiary consumption was due to increased spending on food.30 There is also an impact on quality of foods
+
+      consumed: beneficiary households in conditional cash transfer programs increased their consumption of
+
+      protein-rich items such as eggs, meat, and milk as well as fruits and vegetables vis-à-vis staples. When cash
+
+      transfers are combined with workshops on nutritional education with vaccinations and regular health checkups,
+
+      it leads to improved nutritional knowledge and food consumption behavior.
+
+
+
+      Cost Benefit Analysis
+
+
+
+      41.     The cost benefit analysis attempts to quantify the benefit of project components and compare it with the
+
+      total program cost (US$210 million) to develop reasonable conclusions about the feasibility of the project. Each
+
+      eligible pregnant and lactating woman will receive a monthly transfer of BDT 800 until their child is 4 years old.
+
+      While the project will also invest in strengthening systems, which is expected to improve the efficiency and
+
+      effectiveness of the Programme, this analysis will only focus on the 1.7 million direct MCBP beneficiaries. The
+
+      impact of this support is calculated on individual welfare captured by lifelong earnings. This analysis only looks
+
+      at the impact on child survival rates due to uptake in health services and calculates the net benefit by comparing
+
+      it to the counterfactual i.e., earnings if there was no improvement in child survival rates.
+
+
+
+      42.     The net gain in lifetime earnings per beneficiary is BDT 87,748. Whereas the economy wide gain in
+
+      earnings is BDT 193 billion, which is calculated after applying a multiplier effect of 1.3 and assuming that the
+
+      benefit will reach 1.7 million individuals. Combining the total cost and benefit, we get a benefit-cost ratio of
+
+      8.47, indicating a high cost-effectiveness. When the program uptake rate is assumed to be 75 percent (1,275,000
+
+      beneficiaries), the cost-benefit ratio falls to 6.35.31
+
+
+
+B. Fiduciary
+
+
+
+      (i) Financial Management
+
+
+
+      43.      Flow of funds: MoWCA will open and maintain one Designated Account (DA) in a commercial bank
+
+
+
+
+
+      29 Galasso, E. and Wagstaff, A. (2018). “The aggregate income loses from childhood stunting and the returns to a nutrition intervention
+
+      aimed at reducing stunting”, World Bank Policy Research Working Paper WPS 8536, World Bank Group, Washington, DC.
+
+      30 Ahmad and Dizon (2019). Food for Improved Nutrition in Bangladesh.
+
+
+
+       https://documents1.worldbank.org/curated/en/689051571053857824/pdf/Food-for-Improved-Nutrition-in-Bangladesh.pdf.
+
+      31 We use the following equation to calculate lifetime earnings for each individual, assuming 45 productive years on average: Life-time
+
+
+
+      earnings = Pr (<5 survival) * Pr (Adult survival) *((L*LEL) + (H*LEH)), where Pr (<5 survival) is the under 5 child survival rate, Pr (Adult
+
+      survival) is the adult survival rate, H denotes the likelihoods of the individual turning out to be low and high productivity person, yielding
+
+      the present value of lifetime earnings of LEL (low) and LEH (high), respectively. The baseline figure refers to the discounted present value
+
+      of potential earnings calculated in a way that the annual earning is equal to per capita gross national income (GNI) assuming no change in
+
+      income over the years [Given life expectancy in Bangladesh is 71, lifelong earnings are estimated for 45 productive years using gross GNI
+
+      per capita in 2021 (TK 219,419) with a discount rate of 3 percent, Bangladesh’s real interest rate as per World Development Indicators.]
+
+      Then each of these parameters are adjusted depending on whether the affected individuals received the income support or not.
+
+
+
+                                                                                                                                         Page 12 of 28
+
+The World Bank
+
+Bangladesh Enhancing Investments and Benefits for Early Years (BEIBEY) Project (P178133)
+
+
+
+
+
+
+
+acceptable to the World Bank where IDA funds for Component 2 will flow under agreed terms and conditions.
+
+The DA will be in Bangladeshi Taka. Reimbursement of cash transfer expenditures under the MCBP (the Eligible
+
+Expenditure Program, EEP) will use the existing country system. Eligible beneficiaries will receive their transfers
+
+directly in their bank or mobile account through the national payment switch using the G2P platform, which will
+
+record receipt of payment. Actual expenditures will be recorded in the Integrated Financial Management
+
+Information System (IFMIS). The project will reimburse based on the report directly generated from IFMIS and
+
+interim unaudited financial report (IUFR). The cumulative expenditures until signing under retroactive financing
+
+and after signing to the project’s closing date will remain eligible for reimbursement.
+
+
+
+44. Financial reporting: Separate books of accounts will be maintained for PBC, non-PBC, and parallel
+
+government financing. MoWCA will be responsible for preparing quarterly financial reports using the agreed
+
+reporting template and to be generated directly from accounting software for non-PBC expenditures. Quarterly
+
+IUFRs shall be submitted to the World Bank within 45 days of the close of each calendar quarter and will form
+
+the basis for disbursements from the IDA Credit. The IUFR will include documentation generated directly from
+
+IFMIS for the MCBP economic code as evidence of cash transfers eligible for reimbursement. Disbursement will
+
+be based on the lower of (i) the total amount allocated for each of the PBC targets, which are met and verified
+
+in the reporting period, and (ii) the total EEP incurred and paid by the Government. Retroactive financing of up
+
+to US$42 million will be provided for cash transfer expenditures incurred on or after January 31, 2023, as
+
+documented in the IFMIS report.
+
+
+
+45. Staffing and capacity building: The PMMCU will be responsible for managing project funds. A qualified
+
+Financial Management Specialist with adequate experience on Bank and GoB systems and procedures will be
+
+hired as a consultant in the PMMCU. This full-time specialist will be hired based on an agreed Terms of Reference
+
+(ToR), with procurement prior reviewed by the Bank.
+
+
+
+46. Internal audit: MoWCA would conduct an internal audit on an annual basis to evaluate the adequacy and
+
+effectiveness of internal controls, with a report submitted by December 31 each year. The internal audit will be
+
+carried out by professional auditing firm(s) on the basis of a ToR and selection process acceptable to the Bank,
+
+with procurement prior reviewed by the Bank.
+
+
+
+47.    External audit: The external audit will be carried out by the Social Security Audit Directorate (SSAD) and
+
+the Foreign Aided Projects Audit Directorate (FAPAD) under the Comptroller and Auditor General of Bangladesh.
+
+The final project audit report(s) shall be submitted to the Bank by December 31 of each year until the financial
+
+closure of the project. There are currently no outstanding audit reports.
+
+
+
+48. Country financing parameter: GoB’s financing will cover fuel, vehicles, workshop allowances, sitting
+
+allowances; cash per diems and honoraria, and taxes over 15 percent of the overall project financing. Financing
+
+by component is detailed in Table 2 and will be inclusive of taxes that are assessed to be less than 15 percent.
+
+IDA financing percentage for cash transfer reimbursements (Component 1) will be up to 40 percent of the first
+
+GoB’s annual expenditure up to the available IDA allocation, with the remaining from GoB. Government
+
+contributions to all other components will be in the form of parallel financing.
+
+
+
+
+
+
+
+
+
+                                                                                                          Page 13 of 28
+
+       The World Bank
+
+       Bangladesh Enhancing Investments and Benefits for Early Years (BEIBEY) Project (P178133)
+
+
+
+
+
+
+
+        Table 2: Project Costs by Component and Contribution (US$ million)
+
+                 Component                                                 IDA                  GoB              Total
+
+        1        Expanding Coverage of the MCBP and Strengthening         202.00               673.24           875.24
+
+                 Programme Systems (of which, PBC)                       (160.00)
+
+        2        Supporting Implementation of the MCBP                     8.00                 1.71             9.71
+
+        2.1      Enhancing MCBP outreach and monitoring                    6.29                 1.32             7.61
+
+        2.2      Project Implementation, Monitoring, and Coordination      1.71                 0.39             2.10
+
+        3        Contingency Emergency Response                            0.00                 0.00             0.00
+
+                 Total                                                    210.00               674.95           884.95
+
+
+
+      (ii) Procurement
+
+
+
+       49. All goods, works, and consulting and non-consulting services required for this project and to be financed
+
+       out of the proceeds of the IDA credit will be procured in accordance with the World Bank Procurement
+
+       Regulations for IPF Borrowers for Goods, Works, Non-Consulting and Consulting Services, dated September
+
+       2023, and provisions of the Financing Agreement. Procurement will also be subject to the World Bank’s
+
+       Anticorruption Guidelines, dated October 15, 2006, revised in January 2011, and as of July 1, 2016.
+
+
+
+       50. The Project Procurement Strategy for Development , including a draft Procurement Plan, has been
+
+       prepared by MoWCA. The major share of fund allocation is for results-based financing against the achievement
+
+       of PBCs. The key areas of procurement will be (i) consulting services, including individual consultants and firms,
+
+       for strengthening Programme capacity, and (ii) goods and information technology equipment.
+
+
+
+       51. The residual project procurement risk based on the risk factors and after adoption of the agreed
+
+       mitigation measures is moderate. Factors contributing to the procurement risk rating include, among others,
+
+       the absence of an established core procurement unit for managing project procurement and weak technical
+
+       capacity of the implementing agency. These procurement risks will be addressed through: (i) assignment of
+
+       qualified MoWCA staff to act as focal persons for monitoring, supporting, and reporting on project
+
+       procurement; (ii) procurement planning at all levels (in accordance with the POM), which will be monitored
+
+       and reported on by the PMMCU; (iii) detailing in the POM the procurement procedures and time standards for
+
+       bid validity periods, evaluation of bids, review by the World Bank; (iv) hands on training and capacity building
+
+       of stakeholders to ensure familiarity and adherence with World Bank guidelines and processes; (v) use of the
+
+       Government’s electronic procurement system; (vi) regular World Bank reviews of project-related procurement
+
+       activities; and (vii) use of the Systematic Tracking of Exchanges in Procurement (STEP) for all procurement
+
+       activities.
+
+
+
+.C. Legal Operational Policies
+
+.
+
+                                                                                       Triggered?
+
+Projects on International Waterways OP 7.50                                             No
+
+Projects in Disputed Areas OP 7.60                                                      No
+
+.
+
+
+
+
+
+
+
+
+
+                                                                                                                 Page 14 of 28
+
+      The World Bank
+
+      Bangladesh Enhancing Investments and Benefits for Early Years (BEIBEY) Project (P178133)
+
+
+
+
+
+
+
+
+
+D. Environmental and Social
+
+
+
+      52.     The Environmental and Social (E&S) risk of the project is rated moderate. Environmental risk is low
+
+      considering the project will screen out activities which could cause significant negative impacts on the
+
+      environment, while also enhancing capacity of the implementing agency to manage E&S risks. The social risk is
+
+      expected to be moderate as the potential risks related to the exclusion of intended beneficiaries, labor, and
+
+      community health and safety issues related to Sexual Exploitation and Abuse/Sexual Harassment (SEA/SH) and
+
+      COVID can be managed through the application of the mitigation measures. The project may support some
+
+      minor refurbishment activities and procurement of IT equipment, which would entail issues related to end-of-
+
+      life disposal of the e-waste and other limited quantities of waste. However, based on the nature of proposed
+
+      activities, it is expected that the E&S impacts will be localized and minor such as causing noise, dust, both solid,
+
+      liquid and limited electronic wastes that will come from the minor refurbishment works. SEA/SH screening of
+
+      the project using the Social Protection Tool and Major Civil Works and additional qualitative assessment based
+
+      on location, the primary focus on women, and large scale of project that may extend to ethnic minorities,
+
+      interaction of project actors with communities (such as during counselling sessions) suggests a moderate rating.
+
+      Given the nature and large scope of the project, the SEA/SH risk can be reassessed through the project period.
+
+
+
+      53. The project will not finance any activities that require land acquisition, resettlement, or have negative
+
+      impacts on livelihood or restrict land use. MoWCA has prepared a Stakeholder Engagement Plan that lays out
+
+      a strategy for engaging various stakeholders associated with or impacted by the project. To manage labor and
+
+      worker occupational health and safety issues, a simplified labor management procedure outlines the grievance
+
+      redress mechanism (GRM) for project workers. The POM will include actions and measures to be adopted to
+
+      identify and address E&S risks and impacts, and will also include a negative list that will set out activities that
+
+      will not be funded by the project. An Environmental and Social Commitment Plan (ESCP) has been prepared and
+
+      agreed with the Bank spelling out the measures and actions required to ensure compliance with the
+
+      Environmental and Social Standards. The ESCP entails timebound commitments concerning the preparation of
+
+      E&S instruments and adequate organizational structure and capacity building measures for effective
+
+      implementation of the Project. The E&S documents have been disclosed in country and Bank websites and will
+
+      be reviewed and updated as and when required in consultation with the World Bank.32
+
+
+
+      Gender
+
+
+
+      54.    The project has identified high prevalence of GBV as a critical factor that affects women’s and children’s
+
+      health in the early years of child development. Moreover, many GBV survivors do not seek help for multiple
+
+      reasons, including limited information about services, fear of stigma and backlash, and lack of trust in existing
+
+      mechanism and services. Given the scope of the project, activities aimed at tackling GBV awareness and reducing
+
+      its impacts on ECD will focus on building capacity of frontline workers and linking GBV survivors to essential
+
+      services through information dissemination. These measures will be implemented under Component 2, which
+
+      include (i) training resource pool and other project actors on screening GBV and providing linkages to service
+
+      providers; (ii) building linkages with MoWCA’s Multisectoral Programme on Violence against Women; and (iii)
+
+      dissemination of information on available GBV services among beneficiaries and the community. This will be
+
+      measured through two intermediate indicators: (i) resource pool workers with knowledge to recognize and refer
+
+
+
+      32   Disclosed on May 24, 2023, on World Bank website and July 31, 2023, on DWA website (http://dwa.gov.bd).
+
+
+
+                                                                                                                     Page 15 of 28
+
+The World Bank
+
+Bangladesh Enhancing Investments and Benefits for Early Years (BEIBEY) Project (P178133)
+
+
+
+
+
+
+
+GBV survivors to appropriate services (percentage), and (ii) eligible reported GBV cases that are referred to at
+
+least one service (percentage).
+
+
+
+Climate
+
+
+
+55.     The project has been screened to identify and address any potential climate and disaster risks and
+
+follows recommendations of the Bangladesh CCDR. The CCDR highlights the importance of shock responsive
+
+social protection to strengthen resilience, including (i) integrated gender aspects to ensure access to support
+
+services and reduce potential for GBV and other vulnerabilities; (ii) leveraging existing digital payment
+
+infrastructure to transfer cash electronically in the event of a shock; (iii) streamlining data to rapidly identify
+
+recipients of income support, before or after shocks and natural disasters; and (iv) increasing coordination to
+
+improve efficiency across multiple social programs.
+
+
+
+56. Certain regions of Bangladesh are assessed to be vulnerable to floods, cyclones, and storm surges, and
+
+the whole country is highly susceptible to extreme climate events due to its position as a low-lying delta. As
+
+already detailed in paragraphs 7, 8, and 13, the poor in particular bear the brunt of climate events and internal
+
+climate migrants are predicted to become a pressing issue for urban areas due to their heightened exposure to
+
+economic and climate related risks.
+
+
+
+57. Project activities will enhance households' adaptation and resilience to climate-induced shocks. The
+
+Project will enhance adaptive capacity of households, in particular women and children, through expansion and
+
+strengthening of the MCBP. Operational guidelines are set to be approved to enhance the Programme’s
+
+scalability and inclusivity, emphasizing climate vulnerability in the targeting strategy. Specifically, cash transfers
+
+to poor mothers, awareness building and behaviour change counseling, and enhanced program guidelines will
+
+address food insecurity through consumption smoothing and encouraging utilization of critical healthcare
+
+services. Effective M&E systems would allow program officials to gather relevant feedback and adjust processes
+
+to strengthen inclusion and respond to the needs of climate vulnerable populations. The project will also explore
+
+shock-responsive measures, ensuring swift response during extreme climate events and fostering community
+
+resilience through improved health systems and disease prevention strategies.
+
+
+
+Citizen Engagement
+
+
+
+58. Citizen engagement is integrated into project implementation through a number of mechanisms. Public
+
+information and outreach would be a key process throughout implementation to ensure community members
+
+are aware of ECD issues and services. Community engagement and beneficiary feedback mechanisms, which will
+
+be further detailed in the POM, would track satisfaction on implementation, relevance, and quality of services
+
+to enable information-gathering directly related to the interventions, as well as inform other line ministries on
+
+service quality issues. In addition, the project’s GRM system would be tailored to receive citizen feedback in
+
+addition to resolving potential grievances, including GBV and SEA/SH. Multiple channels, including digital
+
+platforms, will be put in place to receive complaints and concerns, with feedback incorporated into
+
+implementation, as required. These identified citizen engagement indicators are duly included in the project’s
+
+results framework. Details on the GRM will be laid out in the POM.
+
+
+
+
+
+
+
+
+
+                                                                                                             Page 16 of 28
+
+          The World Bank
+
+          Bangladesh Enhancing Investments and Benefits for Early Years (BEIBEY) Project (P178133)
+
+
+
+
+
+
+
+    V.     GRIEVANCE REDRESS SERVICES
+
+
+
+
+
+           59. Grievance Redress. Communities and individuals who believe that they are adversely affected by a
+
+           project supported by the World Bank may submit complaints to existing project-level grievance mechanisms
+
+           or the Bank’s Grievance Redress Service (GRS). The GRS ensures that complaints received are promptly
+
+           reviewed in order to address project-related concerns. Project affected communities and individuals may
+
+           submit their complaint to the Bank’s independent Accountability Mechanism (AM). The AM houses the
+
+           Inspection Panel, which determines whether harm occurred, or could occur, as a result of Bank non-
+
+           compliance with its policies and procedures, and the Dispute Resolution Service, which provides communities
+
+           and borrowers with the opportunity to address complaints through dispute resolution. Complaints may be
+
+           submitted to the AM at any time after concerns have been brought directly to the attention of Bank
+
+           Management and after Management has been given an opportunity to respond. For information on how to
+
+           submit complaints to the Bank’s GRS, please visit http://www.worldbank.org/GRS. For information on how
+
+           to     submit    complaints       to    the    Bank’s     Accountability     Mechanism,       please  visit
+
+           https://accountability.worldbank.org.
+
+
+
+
+
+    VI.    KEY RISKS
+
+
+
+          60. The overall rating for the project is rated moderate. This reflects substantial risks on the following two
+
+          dimensions:
+
+
+
+          61. Institutional Capacity for Implementation and Sustainability. This risk reflects the implementing agency’s
+
+          limited experience with implementing World Bank and other donor-funded projects, primarily as a coordination
+
+          partner or in donor-supported technical assistance interventions. To mitigate this risk, the project will establish
+
+          the PMCCU with adequate staffing and expertise in project management, procurement, and financial
+
+          management, while capacity building, training, and hands on support will be provided to MoWCA and other
+
+          relevant partners throughout implementation, including targeted training and guidance on technical,
+
+          procurement, financial management, and environmental and social aspects of project management.
+
+
+
+          62.    Fiduciary. The risk is specific to financial management: while the majority of project funds will be towards
+
+          reimbursing cash transfers to beneficiaries made through the national digital payment platform, the
+
+          implementing agency has no prior experience with managing Bank funds. The key financial management risks
+
+          are noted to be (i) accuracy and timeliness in accounting and financial reporting of eligible expenditures under
+
+          PBCs; (ii) insufficient audit capacity of the SSAD to cover program audit under Component 1; (iii) weak internal
+
+          control systems; (iv) limited interoperability between MIS; and (v) inefficient reconciliation procedures for
+
+          incremental cash transfer expenditures. These risks will be mitigated throughout project implementation
+
+          through substantial capacity building, technical support, and intensive supervision.
+
+.
+
+
+
+
+
+
+
+
+
+                                                                                                                    Page 17 of 28
+
+                         The World Bank
+
+                         Bangladesh Enhancing Investments and Benefits for Early Years (BEIBEY) Project (P178133)
+
+
+
+
+
+
+
+                                                                                III.    RESULTS FRAMEWORK AND MONITORING
+
+                                                                                          Results Framework
+
+                                                                                         COUNTRY: Bangladesh
+
+                                                              Bangladesh Enhancing Investments and Benefits for Early Years (BEIBEY) Project
+
+
+
+Project Development Objectives(s)
+
+The Project Development Objective is to provide consumption support to vulnerable households with pregnant women and mothers of children under 4
+
+years of age and increase knowledge of nurturing care services that contribute to early childhood development (ECD).
+
+
+
+Project Development Objective Indicators
+
+RESULT_FRAME_TBL_ PD O
+
+
+
+
+
+
+
+
+
+                                       Indicator Name                            PBC    Baseline                                   End Target
+
+
+
+
+
+Provide consumption support to vulnerable households with pregnant women and mothers of children<4
+
+
+
+Beneficiaries of social safety net programs (CRI, Number)                        PBC 3 1,254,000.00                                1,708,241.00
+
+
+
+                   Beneficiaries of social safety net programs - Female (CRI,
+
+                                                                                       1,245,000.00                                1,708,241.00
+
+                   Number)
+
+
+
+Tenure of cash transfer payments (Months)                                        PBC 5 36.00                                       48.00
+
+
+
+Increase knowledge of nurturing care practices that contribute to early childhood development
+
+
+
+Participants able to recall at least three key ECD messages
+
+                                                                                       0.00                                        75.00
+
+(Percentage)
+
+
+
+                   of which, female (Percentage)                                       0.00                                        90.00
+
+
+
+  PDO Table SPACE
+
+
+
+
+
+
+
+
+
+                                                                                                                                                  Page 18 of 28
+
+                       The World Bank
+
+                       Bangladesh Enhancing Investments and Benefits for Early Years (BEIBEY) Project (P178133)
+
+
+
+
+
+
+
+Intermediate Results Indicators by Components
+
+RESULT_FRAME_TBL_ IO
+
+
+
+
+
+
+
+
+
+                              Indicator Name             PBC    Baseline                                  Intermediate Targets      End Target
+
+                                                                                                   1
+
+Expanding Coverage of the Mother and Child Benefit Programme and Strengthening Programme Systems
+
+MCBP operational guidelines approved (Yes/No)            PBC 1 No                                Yes                               Yes
+
+Locations with MCBP MIS monitoring service
+
+utilization (Percentage)                                 PBC 2 0.00                              50.00                             80.00
+
+
+
+Annual program review conducted and
+
+stakeholder consultations held to review findings PBC 4 No                                                                         Yes
+
+(Yes/No)
+
+Supporting Implementation of the Mother and Child Benefit Programme
+
+Training and orientation conducted on MCBP
+
+                                                               No                                                                  Yes
+
+operational guidelines (Yes/No)
+
+Grievances recorded and addressed in timely
+
+manner (Yes/No)                                                Yes                                                                 Yes
+
+
+
+Resource pool workers with knowledge to
+
+recognize and refer GBV survivors to appropriate               0.00                                                                80.00
+
+services (Percentage)
+
+Eligible reported GBV cases that are referred to at
+
+                                                               0.00                                                                100.00
+
+least one service (Percentage)
+
+  IO Table SPACE
+
+
+
+  UL Table SPACE
+
+
+
+
+
+                                                                        Monitoring & Evaluation Plan: PDO Indicators
+
+                                                                                                                       Methodology for Data     Responsibility for Data
+
+Indicator Name                                             Definition/Description      Frequency         Datasource
+
+                                                                                                                       Collection               Collection
+
+                                                                                       Annual            MCBP MIS      Administrative           PMMCU
+
+Beneficiaries of social safety net programs
+
+                                                                                                         report        reporting
+
+
+
+
+
+                                                                                                                                            Page 19 of 28
+
+     The World Bank
+
+     Bangladesh Enhancing Investments and Benefits for Early Years (BEIBEY) Project (P178133)
+
+
+
+
+
+
+
+
+
+                                                                                         MCBP MIS       Administrative
+
+    Beneficiaries of social safety net                                    Annual                                                   PMMCU
+
+                                                                                         report         reporting
+
+    programs - Female
+
+                                                                                         MCBP MIS       Administrative
+
+                                             Number of months of cash     Annual                                                   PMMCU
+
+Tenure of cash transfer payments                                                         report         reporting
+
+                                             transfers to beneficiaries
+
+                                                                                         Spot checks    Knowledge, Attitude,
+
+Participants able to recall at least three   Measures awareness and       Annual                                                   PMMCU
+
+                                                                                         report         and Practice survey
+
+key ECD messages                             knowledge on ECD issues
+
+                                             Measures women's                            Spot checks    Knowledge, Attitude,
+
+                                                                          Annual                                                   PMMCU
+
+    of which, female                         awareness and knowledge                     report         and Practice surveys
+
+                                             on ECD issues.
+
+ME PDO Table SPACE
+
+
+
+
+
+                                                  Monitoring & Evaluation Plan: Intermediate Results Indicators
+
+                                                                                                       Methodology for Data     Responsibility for Data
+
+Indicator Name                               Definition/Description       Frequency    Datasource
+
+                                                                                                       Collection               Collection
+
+                                                                                       Progress
+
+                                                                                       report and
+
+                                             Approval of the MCBP         Once                         Administrative data      PMMCU
+
+MCBP operational guidelines approved                                                   government
+
+                                             Operational Guidelines
+
+                                                                                       notification
+
+
+
+                                                                                       Progress
+
+Locations with MCBP MIS monitoring           Locations covered by MCBP    Annual                       MIS reports              PMMCU
+
+                                                                                       report
+
+service utilization                          MIS
+
+                                                                                       Program
+
+Annual program review conducted and
+
+                                             Program reviews conducted Annual          review          Document review          PMMCU
+
+stakeholder consultations held to review
+
+                                             and findings disseminated                 reports
+
+findings
+
+
+
+
+
+                                                                                                                               Page 20 of 28
+
+                  The World Bank
+
+                  Bangladesh Enhancing Investments and Benefits for Early Years (BEIBEY) Project (P178133)
+
+
+
+
+
+
+
+Training and orientation conducted on                    Training provided on MCBP     Annual      DWA            Progress report         PMMCU
+
+MCBP operational guidelines                              guidelines
+
+                                                                                                   Progress
+
+Grievances recorded and addressed in                                                   Annual                     Administrative data     PMMCU
+
+                                                         Strengthened GRM                          report
+
+timely manner
+
+Resource pool workers with knowledge to                                                            Programme
+
+                                        Resource pool trained on                       Annual                    Spot checks              PMMCU
+
+recognize and refer GBV survivors to                                                               review report
+
+                                        GBV
+
+appropriate services
+
+                                                                                                   GRM and
+
+                                                                                                                 GRM and spot checks
+
+Eligible reported GBV cases that are                     GBV survivor referred to at   Annual      Programme                              PMMCU
+
+                                                                                                                 survey
+
+referred to at least one service                         least one service                         review report
+
+
+
+     ME IO Table SPACE
+
+
+
+
+
+                                                                          Performance-Based Conditions Matrix
+
+DLI_TBL_MATRI X
+
+
+
+
+
+
+
+
+
+ PBC 1                                     MCBP operational guidelines approved
+
+
+
+ Type of PBC                               Scalability                     Unit of Measure      Total Allocated Amount (USD)   As % of Total Financing Amount
+
+
+
+ Process                                   No                              Yes/No                                5,000,000.00 0.31
+
+ Period                                    Value                                                      Allocated Amount (USD) Formula
+
+Baseline                                   No
+
+
+
+June 30, 2024                              Yes                                                                   5,000,000.00 4% of MCBP cash transfer
+
+                                                                                                                              expenditure
+
+
+
+June 30, 2025                              Yes                                                                           0.00 Achieved in FY2024
+
+
+
+June 30, 2026                              Yes                                                                           0.00 Achieved in FY2024
+
+
+
+
+
+
+
+                                                                                                                                        Page 21 of 28
+
+                  The World Bank
+
+                  Bangladesh Enhancing Investments and Benefits for Early Years (BEIBEY) Project (P178133)
+
+
+
+
+
+
+
+June 30, 2027                              Yes                                                                        0.00 Achieved in FY2024
+
+
+
+June 30, 2028                              Yes                                                                        0.00 Achieved in FY2024
+
+DLI_TBL_MATRI X
+
+
+
+
+
+
+
+
+
+ PBC 2                                     Strengthened capacity for effective Programme implementation and monitoring
+
+
+
+ Type of PBC                               Scalability                  Unit of Measure     Total Allocated Amount (USD)     As % of Total Financing Amount
+
+
+
+ Intermediate Outcome                      No                           Yes/No                               28,500,000.00
+
+ Period                                    Value                                                   Allocated Amount (USD) Formula
+
+Baseline                                   No
+
+
+
+June 30, 2024                              No                                                                         0.00 No allocation
+
+
+
+June 30, 2025                              Yes                                                                5,000,000.00 4% of MCBP cash transfer
+
+                                                                                                                           reimbursement provided against
+
+                                                                                                                           training on operational guidelines
+
+
+
+June 30, 2026                              Yes                                                                7,500,000.00 7% of MCBP cash transfer
+
+                                                                                                                           reimbursement provided against
+
+                                                                                                                           MIS monitoring service utilization in
+
+                                                                                                                           50% of locations
+
+
+
+June 30, 2027                              No                                                                         0.00 No target
+
+
+
+June 30, 2028                              Yes                                                               16,000,000.00 14% of MCBP cash transfer
+
+                                                                                                                           reimbursement provided against
+
+                                                                                                                           approval of DWA field-level
+
+                                                                                                                           organogram
+
+
+
+
+
+
+
+
+
+                                                                                                                                       Page 22 of 28
+
+                  The World Bank
+
+                  Bangladesh Enhancing Investments and Benefits for Early Years (BEIBEY) Project (P178133)
+
+
+
+
+
+DLI_TBL_MATRI X
+
+
+
+
+
+
+
+
+
+ PBC 3                                     Number of MCBP beneficiaries receiving cash transfer support increased over previous FY
+
+
+
+ Type of PBC                               Scalability                  Unit of Measure      Total Allocated Amount (USD)     As % of Total Financing Amount
+
+
+
+ Outcome                                   Yes                          Percentage                            90,500,000.00 4.53
+
+ Period                                    Value                                                    Allocated Amount (USD) Formula
+
+Baseline                                   0.00
+
+
+
+June 30, 2024                              0.00                                                                         0.00 No allocation
+
+
+
+June 30, 2025                              10.00                                                              22,625,000.00 Progressive: Proportion achieved
+
+                                                                                                                            (P)*Max allocation (M) if P=1. If
+
+                                                                                                                            0.5<P<1, then P*M*0.75
+
+
+
+June 30, 2026                              7.00                                                               22,625,000.00 Progressive: Proportion achieved
+
+                                                                                                                            (P)*Max allocation (M) if P=1. If
+
+                                                                                                                            0.5<P<1, then P*M*0.75
+
+
+
+June 30, 2027                              6.00                                                               22,625,000.00 Progressive: Proportion achieved
+
+                                                                                                                            (P)*Max allocation (M) if P=1. If
+
+                                                                                                                            0.5<P<1, then P*M*0.75
+
+
+
+June 30, 2028                              5.00                                                               22,625,000.00 Progressive: Proportion achieved
+
+                                                                                                                            (P)*Max allocation (M) if P=1. If
+
+                                                                                                                            0.5<P<1, then P*M*0.75
+
+
+
+
+
+
+
+
+
+                                                                                                                                       Page 23 of 28
+
+                  The World Bank
+
+                  Bangladesh Enhancing Investments and Benefits for Early Years (BEIBEY) Project (P178133)
+
+
+
+
+
+DLI_TBL_MATRI X
+
+
+
+
+
+
+
+
+
+ PBC 4                                     Annual review of MCBP and stakeholder consultations conducted
+
+
+
+ Type of PBC                               Scalability                  Unit of Measure     Total Allocated Amount (USD)      As % of Total Financing Amount
+
+
+
+ Intermediate Outcome                      No                           Yes/No                                15,000,000.00 0.01
+
+ Period                                    Value                                                   Allocated Amount (USD) Formula
+
+Baseline                                   No
+
+
+
+June 30, 2024                              No                                                                         0.00 No allocation
+
+
+
+June 30, 2025                              No                                                                         0.00 No allocation
+
+
+
+June 30, 2026                              Yes                                                                 5,000,000.00 4% of MCBP cash transfer
+
+                                                                                                                            expenditure reimbursement
+
+                                                                                                                            provided
+
+
+
+June 30, 2027                              Yes                                                                 5,000,000.00 4% of MCBP cash transfer
+
+                                                                                                                            expenditure reimbursement
+
+                                                                                                                            provided
+
+
+
+June 30, 2028                              Yes                                                                 5,000,000.00 4% of MCBP cash transfer
+
+                                                                                                                            expenditure reimbursement
+
+                                                                                                                            provided
+
+DLI_TBL_MATRI X
+
+
+
+
+
+
+
+
+
+ PBC 5                                     Increase monthly coverage of MCBP cash transfers up to 48 months
+
+
+
+ Type of PBC                               Scalability                  Unit of Measure     Total Allocated Amount (USD)      As % of Total Financing Amount
+
+
+
+ Intermediate Outcome                      Yes                          Months                                21,000,000.00
+
+ Period                                    Value                                                   Allocated Amount (USD) Formula
+
+Baseline                                   36.00
+
+
+
+
+
+                                                                                                                                       Page 24 of 28
+
+    The World Bank
+
+    Bangladesh Enhancing Investments and Benefits for Early Years (BEIBEY) Project (P178133)
+
+
+
+
+
+
+
+June 30, 2024                36.00                                                                          0.00 No allocation
+
+
+
+June 30, 2025                36.00                                                                          0.00 No allocation
+
+
+
+June 30, 2026                36.00                                                                          0.00 No allocation
+
+
+
+June 30, 2027                36.00                                                                          0.00 No allocation
+
+
+
+June 30, 2028                48.00                                                                21,000,000.00 $1.75 million for each additional
+
+                                                                                                                month beyond 36 months.
+
+
+
+
+
+
+
+
+
+                                               Verification Protocol Table: Performance-Based Conditions
+
+
+
+ PBC 1                       MCBP operational guidelines approved
+
+                            Guidelines for the MCBP have been drafted, laying out the standard operating protocols for program implementation and
+
+                            administration, including program objectives; beneficiary eligibility criteria and selection process; payment process;
+
+ Description
+
+                            conditions for inclusion or exclusion of beneficiaries in special circumstances; provision of social and behavioural change
+
+                            counseling, and role of committees, resource pool, administrative staff, and other stakeholders.
+
+ Data source/ Agency        PMMCU
+
+
+
+ Verification Entity        MoWCA
+
+                            The PMMCU will submit approved guidelines to the World Bank as evidence of PBC achievement. World Bank reviews the
+
+ Procedure                  submitted operational guidelines and confirms acceptance of the evidence.
+
+
+
+
+
+ PBC 2                       Strengthened capacity for effective Programme implementation and monitoring
+
+                            FY25: Training on MCBP operational guidelines conducted at the central and field levels to orient stakeholders on the
+
+ Description
+
+                            Programme objectives and standard operating protocols for Programme implementation and administration. FY26: Rollout
+
+
+
+
+
+                                                                                                                              Page 25 of 28
+
+   The World Bank
+
+   Bangladesh Enhancing Investments and Benefits for Early Years (BEIBEY) Project (P178133)
+
+
+
+
+
+
+
+                           of MIS interoperability and monitoring. FY28: DWA organogram updated to include posts and job duties of central and field
+
+                           level personnel that form a core function of DWA programs.
+
+Data source/ Agency        FY25: PMMCU FY26: PMMCU FY28: PMMCU
+
+
+
+Verification Entity        MoWCA and third party monitoring firm
+
+                           1. PMMCU will send report of completed training. (FY2024-25).
+
+                           2. PMMCU will share MIS-generated report on beneficiary service utilization. Third party monitoring firm will verify validity
+
+                           and accuracy of documentation (FY2025-26).
+
+Procedure
+
+                           3. PMMCU will send approved organogram (FY2027-28).
+
+                           4. World Bank reviews the submitted documents and decides on acceptance of the evidence.
+
+
+
+
+
+PBC 3                       Number of MCBP beneficiaries receiving cash transfer support increased over previous FY
+
+                           The MCBP targets covering up to six million beneficiaries as described in the NSSS and the Detailed Implementation Plan
+
+Description                (DIP). In order to move towards achieving national targets, this indicator measures increased beneficiary coverage each
+
+                           year.
+
+Data source/ Agency        MCBP administrative data FD IBAS reports
+
+
+
+Verification Entity        FD
+
+                           PMMCU submits list of program beneficiaries and FD verifies through IBAS expenditure report. World Bank reviews the
+
+Procedure                  submitted documents and confirms acceptance of the evidence.
+
+
+
+
+
+PBC 4                       Annual review of MCBP and stakeholder consultations conducted
+
+                           A third-party monitoring firm/agency will be hired to carry out reviews in at least 20 percent of all locations where full
+
+Description                program systems are operational. Findings from the review will be discussed and disseminated on an annual basis through a
+
+                           stakeholder workshop and program website updates.
+
+Data source/ Agency        PMMCU
+
+
+
+Verification Entity        MoWCA
+
+
+
+
+
+                                                                                                                             Page 26 of 28
+
+   The World Bank
+
+   Bangladesh Enhancing Investments and Benefits for Early Years (BEIBEY) Project (P178133)
+
+
+
+
+
+
+
+                           PMMCU will send annual program review reports, including minutes of workshop discussions to the World Bank as evidence
+
+Procedure                  of PBC achievement. World Bank reviews submitted documents and decides on acceptance of evidence.
+
+
+
+
+
+PBC 5                       Increase monthly coverage of MCBP cash transfers up to 48 months
+
+                           The NSSS and DIP propose child benefit coverage up to a child’s fourth birthday to ensure children are adequately provided
+
+                           for up until their enrolment in the education system. MCBP cash transfers currently cover 36 months of payments (6
+
+Description                months of pregnancy + 30 months of child’s life). This indicator targets increasing tenure of payments to at least 48 months
+
+                           (6 months of pregnancy + 42 months of child’s life) to reflect progress towards achieving Programme mandate and
+
+                           objectives.
+
+Data source/ Agency        PMMCU
+
+
+
+Verification Entity        MoWCA
+
+                           PMMCU will submit approval of increased program tenure as reflected in gazette notification or other government order.
+
+Procedure                  MoWCA verifies budget. World Bank reviews the submitted documents and confirms acceptance of the evidence.
+
+
+
+
+
+
+
+
+
+                                                                                                                            Page 27 of 28
+
+  The World Bank
+
+  Bangladesh Enhancing Investments and Benefits for Early Years (BEIBEY) Project (P178133)
+
+
+
+
+
+
+
+
+
+                         ANNEX 1: Implementation Arrangements and Support Plan
+
+
+
+                                          COUNTRY: Bangladesh
+
+                   Bangladesh Enhancing Investments and Benefits for Early Years (BEIBEY)
+
+
+
+Implementation Arrangements
+
+    1.        Component 1 will provide reimbursement to GoB against cash transfer expenditures through PBCs that
+
+    will support expansion of beneficiary coverage as well as quality improvements to the Programme. These will
+
+    include approval of the MCBP operational guidelines (PBC 1); strengthened capacity for effective Programme
+
+    implementation and monitoring (PBC 2); increasing beneficiary coverage (PBC 3) and expanding tenure of support
+
+    (PBC 5); and enhancing program monitoring through regular program reviews and beneficiary surveys to identify
+
+    areas of improvement on targeting effectiveness and implementation processes, including integrated climate risk
+
+    considerations in the M&E system (PBC 4). PBC achievement will be supported through technical support provided
+
+    under Component 2.
+
+
+
+    2.        A PMMCU to be housed in the Ministry of Women and Children Affairs will be primarily responsible for
+
+    implementing the project in close consultation and coordination with the Finance Division, Department of Women
+
+    Affairs, and the MCBP Programme Implementation Unit. Regular PSC and PIC meetings, with membership from
+
+    relevant partners and stakeholders, will provide strategic and policy guidance, and guide implementation.
+
+
+
+Implementation Support Plan
+
+    3.        The Implementation Support Plan has been developed based on the specific nature of project activities
+
+    and lessons learned from past operations in the country and sector. The plan will be reviewed annually to ensure
+
+    that it continues to meet the implementation support needs of the project. Key elements of the World Bank’s
+
+    approach to providing implementation support are:
+
+
+
+    a.     A core task team led by the Task Team Leader and co-Task Team Leader will ensure regular dialogue with
+
+    implementing agencies. The core team will provide intensive supervision and handholding on project
+
+    management, particularly in the first two years, as well as conduct regular technical meetings. The task team
+
+    will also conduct at least two implementation support missions every year to review progress, including
+
+    achievement of PBCs, identify implementation challenges, and suggest options for addressing emerging issues.
+
+
+
+    b.    Regular E&S, procurement, and financial management reviews and financial audits to ensure compliance
+
+    with E&S and fiduciary requirements. In addition, intensive capacity building will be provided throughout
+
+    implementation to ensure the implementing agency carries out the project in full accordance with Bank
+
+    guidelines and processes.
+
+
+
+    c.    The Mid-Term Review (MTR), expected to take place in July 2026, will review project arrangements and
+
+    progress, identify any bottlenecks to implementation or emerging priorities, and recommend measures to
+
+    address them.
+
+
+
+
+
+
+
+
+
+                                                                                                           Page 28 of 28
+
+

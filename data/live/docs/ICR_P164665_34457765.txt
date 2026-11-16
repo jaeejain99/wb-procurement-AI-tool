@@ -1,0 +1,4821 @@
+                                                                              Report No: ICR00279
+
+                             IMPLEMENTATION COMPLETION AND RESULTS REPORT
+
+                                             IDA 6323-GH
+
+                                                    ON A
+
+                                                   CREDIT
+
+
+
+                                    IN THE AMOUNT OF SDR 25 MILLION
+
+                                       (US$35 MILLION EQUIVALENT)
+
+
+
+                                                 TO THE
+
+                                             Republic of Ghana
+
+
+
+                                                   FOR THE
+
+                                   Public Sector Reform for Results Project
+
+                                              February 18, 2025
+
+Institutions Department
+
+Western And Central Africa
+
+The World Bank
+
+Public Sector Reform for Results Project (P164665)                       ICR DOCUMENT
+
+
+
+
+
+                                        CURRENCY EQUIVALENTS
+
+
+
+                              (Exchange Rate Effective {Dec 30, 2024})
+
+
+
+
+
+                                Currency Unit = Ghanaian Cedis (GHS)
+
+
+
+                                   GHS 15.35 = US$1
+
+
+
+                                          US$1 = SDR 0.76
+
+
+
+
+
+                                              FISCAL YEAR
+
+                                        January 1 - December 31
+
+
+
+
+
+
+
+
+
+             Regional Vice President:       Ousmane Diagana
+
+                    Country Director:       Robert R. Taliercio
+
+                   Regional Director:       Abebe Adugna Dadi
+
+                   Practice Manager:        Tracey M. Lane
+
+                  Task Team Leader:         Smile Kwawukume
+
+               ICR Main Contributor:        Runyararo Gladys Senderayi
+
+      The World Bank
+
+      Public Sector Reform for Results Project (P164665)                                          ICR DOCUMENT
+
+
+
+
+
+
+
+ABBREVIATIONS AND ACRONYMS
+
+
+
+     BDR                  Births and Deaths Registry
+
+     CHRAJ                Commission on Human Rights and Administrative Justice
+
+     CPF                  Country Partnership Framework
+
+     CPS                  Country Partnership Strategy
+
+     CSC                  Client Service Charter
+
+     CTRC                 Central Tender Review Committee
+
+     DLI                  Disbursement-Linked Indicator
+
+     DVLA                 Driver and Vehicle Licensing Authority
+
+     EEP                  Eligible Expenditures Program
+
+     EPA                  Environmental Protection Agency
+
+     ERR                  Economic Rate of Return
+
+     FM                   Financial Management
+
+     GDP                  Gross Domestic Product
+
+     GIS                  Ghana Immigration Service
+
+     GoG                  Government of Ghana
+
+     GRM                  Grievance Redress Mechanism
+
+     ICR                  Implementation Completion and Results Report
+
+     ICT                  Information and Communication Technologies
+
+     IDA                  International Development Association
+
+     IMF                  International Monetary Fund
+
+     IRI                  Intermediate Results Indicator
+
+     IRR                  Internal Rate of Return
+
+     ISR                  Implementation Status and Results Report
+
+     IT                   Information Technology
+
+     IVA                  Independent Verification Agency
+
+     M&E                  Monitoring and Evaluation
+
+     MDAs                 Ministries, Departments, and Agencies
+
+     MES                  Monitoring and Evaluation Secretariat
+
+     MESTI                Ministry of Environment, Science, Technology, and Innovation
+
+     MFA & RI             Ministry of Foreign Affairs and Regional Integration
+
+     MLGRD                Ministry of Local Government, Decentralization, and Rural Development
+
+     MMDAs                Metropolitan, Municipal and District Assemblies
+
+     MoF                  Ministry of Finance
+
+     MoI                  Ministry of Interior
+
+     MoME                 Ministry of Monitoring and Evaluation
+
+     MoT                  Ministry of Transport
+
+     MoU                  Memorandum of Understanding
+
+     MSMEs                Micro, Small and Medium Enterprises
+
+     MTR                  Mid-Term Review
+
+     NDPC                 National Development Planning Commission
+
+     NITA                 National Information Technology Agency
+
+     NPSRS                National Public Sector Reform Strategy
+
+ The World Bank
+
+ Public Sector Reform for Results Project (P164665)                          ICR DOCUMENT
+
+
+
+
+
+NPV                  Net Present Value
+
+OHCS                 Office of the Head of the Civil Service
+
+OSM                  Office of the Senior Minister
+
+OSPA                 Office of the Senior Presidential Advisor
+
+PAD                  Project Appraisal Document
+
+PBC                  Performance-Based Condition
+
+PDO                  Project Development Objective
+
+PFM                  Public Financial Management
+
+PIT                  Personal Income Tax
+
+PMU                  Project Management Unit
+
+PO                   Passport Office
+
+PPA                  Project Preparation Advance
+
+PRAAD                Public Records and Archives Administration Department
+
+PSC                  Public Services Commission
+
+PSRRP                Public Sector Reform for Results Project
+
+RF                   Results Framework
+
+ToC                  Theory of Change
+
+TTL                  Task Team Leader
+
+             The World Bank
+
+             Public Sector Reform for Results Project (P164665)                                                                                     ICR DOCUMENT
+
+
+
+
+
+
+
+
+
+                                                       TABLE OF CONTENTS
+
+
+
+DATA SHEET ................................................................................................................................................. i
+
+      I.     PROJECT CONTEXT AND DEVELOPMENT OBJECTIVES ...................................................................................1
+
+      II.    OUTCOME ..................................................................................................................................................8
+
+      III.   KEY FACTORS AFFECTED IMPLEMENTATION AND OUTCOME ...................................................................... 16
+
+      IV. BANK PERFORMANCE, COMPLIANCE ISSUES, AND RISK TO DEVELOPMENT OUTCOME ............................... 18
+
+      V.     LESSONS AND RECOMMENDATIONS .......................................................................................................... 21
+
+      ANNEX 1. RESULTS FRAMEWORK AND KEY OUTPUTS ........................................................................................ 23
+
+      ANNEX 2. BANK LENDING AND IMPLEMENTATION SUPPORT/SUPERVISION ....................................................... 34
+
+      ANNEX 3. PROJECT COST BY COMPONENT ......................................................................................................... 36
+
+      ANNEX 4. EFFICIENCY ANALYSIS ........................................................................................................................ 37
+
+      ANNEX 5. BORROWER, CO-FINANCIER AND OTHER PARTNER/STAKEHOLDER COMMENTS ................................. 41
+
+      ANNEX 6. TABLES REFLECTING CHANGES DURING THE RESTRUCTURINGS .......................................................... 43
+
+               The World Bank
+
+               Public Sector Reform for Results Project (P164665)                                               ICR DOCUMENT
+
+
+
+
+
+
+
+
+
+    DATA SHEET
+
+
+
+    @#&OPS~Doctype~OPS^dynamics@icrbasicdata#doctemplate
+
+    BASIC DATA
+
+
+
+    Product Information
+
+
+
+    Operation ID                                                    Operation Name
+
+    P164665                                                         Public Sector Reform for Results Project
+
+
+
+    Product                                                         Operation Short Name
+
+    Investment Project Financing (IPF)                              Public Sector Reform for Results
+
+
+
+    Operation Status                                                Approval Fiscal Year
+
+    Closed                                                          2019
+
+
+
+    Original EA Category                                            Current EA Category
+
+    Not Required (C) (Approval package - 23 Oct 2018)               Not Required (C) (Restructuring Data Sheet - 19 Jun 2024)
+
+
+
+
+
+    CLIENTS
+
+
+
+
+
+    Borrower/Recipient                                              Implementing Agency
+
+    Ministry of Finance                                             Office of the Senior Presidential Advisor
+
+
+
+
+
+    DEVELOPMENT OBJECTIVE
+
+
+
+    Original Development Objective (Approved as part of Approval Package on 23-Oct-2018)
+
+    The objective of the project is to improve efficiency and accountability in the delivery of selected services by Selected
+
+    Entities.
+
+    PDO as stated in the legal agreement
+
+    The objective of the Project is to improve efficiency and accountability in the delivery of Selected services by Selected
+
+    Entities
+
+
+
+s
+
+s
+
+s
+
+s
+
+s
+
+s
+
+s
+
+s
+
+s
+
+s
+
+s
+
+
+
+
+
+
+
+
+
+    @#&OPS~Doctype~OPS^dynamics@icrfinancing#doctemplate
+
+
+
+                                                                                                                            i
+
+       The World Bank
+
+       Public Sector Reform for Results Project (P164665)                                             ICR DOCUMENT
+
+
+
+
+
+
+
+FINANCING
+
+
+
+Financing Source              Original Amount (US$)         Revised Amount (US$)         Actual Disbursed (US$)
+
+World Bank Financing                      35,000,000.00               21,755,001.11                    21,215,188.70
+
+IDA-63230                                 35,000,000.00               21,755,001.11                    21,215,188.70
+
+Total                                     35,000,000.00               21,755,001.11                    21,215,188.70
+
+
+
+RESTRUCTURING AND/OR ADDITIONAL FINANCING
+
+
+
+                                         Amount Disbursed
+
+     Date(s)                Type                                                    Key Revisions
+
+                                         (US$M)
+
+                                                               •   Components
+
+                                                               •   Results
+
+                                                               •   Disbursement Estimates
+
+                                                               •   Clients
+
+  30-Jun-2022      Portal                              7.92
+
+                                                               •   Loan Cancellations
+
+                                                               •   Reallocations
+
+                                                               •   Institutional Arrangement
+
+                                                               •   Implementation Schedule
+
+                                                               •   Results
+
+                                                               •   Risks
+
+  26-Dec-2023      Portal                             15.08    •   Disbursement Estimates
+
+                                                               •   Loan Closing Date Extension
+
+                                                               •   Implementation Schedule
+
+                                                               •   Components
+
+                                                               •   Results
+
+                                                               •   Risks
+
+  19-Jun-2024      Portal                             21.23
+
+                                                               •   Disbursement Estimates
+
+                                                               •   Loan Cancellations
+
+                                                               •   Reallocations
+
+
+
+@#&OPS~Doctype~OPS^dynamics@icrkeydates#doctemplate
+
+KEY DATES
+
+
+
+
+
+                       Key Events                                   Planned Date                    Actual Date
+
+
+
+Concept Review                                                      21-Nov-2017                     21-Nov-2017
+
+
+
+Decision Review                                                     08-Aug-2018                     09-Aug-2018
+
+
+
+Authorize Negotiations                                              23-Aug-2018                     28-Aug-2018
+
+
+
+
+
+                                                                                                                  ii
+
+          The World Bank
+
+          Public Sector Reform for Results Project (P164665)                                            ICR DOCUMENT
+
+
+
+
+
+
+
+Approval                                                             23-Oct-2018                      23-Oct-2018
+
+
+
+Signing                                                                                              12-Nov-2018
+
+
+
+Effectiveness                                                        01-Jan-2019                     08-May-2019
+
+
+
+ICR/NCO                                                              20-Jan-2025                            --
+
+
+
+Restructuring Sequence.01                                           Not Applicable                    30-Jun-2022
+
+
+
+Restructuring Sequence.02                                           Not Applicable                   26-Dec-2023
+
+
+
+Restructuring Sequence.03                                           Not Applicable                    19-Jun-2024
+
+
+
+Mid-Term Review No. 01                                               01-Nov-2022                     29-Nov-2022
+
+
+
+Operation Closing/Cancellation                                       20-Jun-2024                      20-Jun-2024
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@icrratings#doctemplate
+
+RATINGS SUMMARY
+
+
+
+
+
+                Outcome                          Bank Performance                             M&E Quality
+
+
+
+Moderately Unsatisfactory               Moderately Unsatisfactory               Modest
+
+
+
+
+
+ISR RATINGS
+
+
+
+                                                                                                 Actual Disbursements
+
+ No.         Date ISR Archived               DO Rating                      IP Rating
+
+                                                                                                        (US$M)
+
+01         14-Feb-2019              Moderately Satisfactory         Moderately Satisfactory                       0.00
+
+02         11-Aug-2019              Moderately Satisfactory         Moderately Satisfactory                       4.35
+
+03         21-Feb-2020              Moderately Satisfactory         Moderately Satisfactory                       4.35
+
+04         02-Sep-2020              Moderately Satisfactory         Moderately Satisfactory                       4.35
+
+                                                                    Moderately
+
+05         17-Mar-2021              Moderately Unsatisfactory                                                     4.35
+
+                                                                    Unsatisfactory
+
+                                                                    Moderately
+
+06         05-Nov-2021              Moderately Unsatisfactory                                                     4.35
+
+                                                                    Unsatisfactory
+
+07         20-Jun-2022              Moderately Satisfactory         Moderately Satisfactory                       5.92
+
+08         21-Mar-2023              Moderately Satisfactory         Moderately Satisfactory                      13.75
+
+09         18-Dec-2023              Moderately Satisfactory         Moderately Satisfactory                      15.08
+
+
+
+
+
+
+
+
+
+                                                                                                                    iii
+
+      The World Bank
+
+      Public Sector Reform for Results Project (P164665)                                            ICR DOCUMENT
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@icrsectortheme#doctemplate
+
+SECTORS AND THEMES
+
+
+
+
+
+Sectors
+
+                                                                            Adaptation
+
+                                                                                                 Mitigation
+
+     Major Sector                           Sector               %         Co-benefits
+
+                                                                                               Co-benefits (%)
+
+                                                                           (%)
+
+FY17 - Information and
+
+Communications             FY17 - ICT Services                        4                    0                 0
+
+Technologies
+
+FY17 - Public              FY17 - Central Government (Central
+
+                                                                     96                    0                 0
+
+Administration             Agencies)
+
+
+
+Themes
+
+     Major Theme                        Theme (Level 2)              Theme (Level 3)                 %
+
+FY17 - Human
+
+Development and            FY17 - Gender                                                                   66
+
+Gender
+
+FY17 - Private Sector
+
+                           FY17 - ICT                           FY17 - ICT Solutions                         8
+
+Development
+
+                                                                FY17 - Administrative
+
+                                                                                                           40
+
+                                                                and Civil Service Reform
+
+                                                                FY17 - Civil Registration
+
+                                                                                                           35
+
+                                                                and Identification
+
+FY17 - Public Sector
+
+                           FY17 - Public Administration         FY17 - E-Government,
+
+Management                                                                                                 67
+
+                                                                incl. e-services
+
+                                                                FY17 - Transparency,
+
+                                                                Accountability and Good                    96
+
+                                                                Governance
+
+FY17 - Social
+
+                                                                FY17 - Participation and
+
+Development and            FY17 - Social Inclusion                                                         32
+
+                                                                Civic Engagement
+
+Protection
+
+
+
+
+
+
+
+
+
+                                                                                                                 iv
+
+           The World Bank
+
+           Public Sector Reform for Results Project (P164665)                                                               ICR DOCUMENT
+
+
+
+
+
+
+
+    ADM STAFF
+
+
+
+
+
+    Role                                       At Approval                                   At ICR
+
+    Practice Manager                           Hisham Ahmed Waly                             Tracey M. Lane
+
+
+
+    Regional Director                          Edward Olowo-Okere                            Abebe Adugna Dadi
+
+
+
+    Global Director                            Deborah L. Wetzel                             Arturo Herrera
+
+
+
+    Practice Group Vice President              Ceyla Pazarbasioglu                           Pablo Saavedra
+
+    Country Director                           Henry G.R. Kerali                             Robert R. Taliercio
+
+
+
+    Regional Vice President                    Hafez M.H Ghanem                              Ousmane Diagana
+
+
+
+    ADM Responsible Team Leader                Amithaba Mukherjee                            Smile Kwawukume
+
+    Co-Team Leader(s)                          Miki Matsuura, Raymond Muhula
+
+
+
+    ICR Main Contributor                                                                     Runyararo Gladys Senderayi
+
+
+
+
+
+    I. PROJECT CONTEXT AND DEVELOPMENT OBJECTIVES
+
+
+
+           A. CONTEXT AT APPRAISAL
+
+
+
+      Country Context
+
+
+
+      1.      In 2018, Ghana was among the ten fastest-growing economies in the world, despite persistent structural
+
+      weaknesses. Annual economic growth was at 6.3 percent on the back of oil production, the inflation rate was down to 9.9
+
+      percent in August 2018, 1 and fiscal consolidation efforts were succeeding. Ghana’s macroeconomic situation had
+
+      improved under the International Monetary Fund’s US$918 million Extended Credit Facility. Following the December 2016
+
+      elections, the new administration demonstrated some early results with macroeconomic reforms. However, economic
+
+      growth was undermined by challenges pertaining to institutional quality and government effectiveness. Specifically,
+
+      reforms to improve the quality of public sector performance and service delivery had not yet yielded results.
+
+
+
+      Sector Context
+
+
+
+      2.       At appraisal, the public sector was contending with structural, institutional, and governance challenges that
+
+      had hindered the efficient and accountable delivery of public services. The public sector was vast, complex, and suffered
+
+      from ineffective coordination among Ministries, Departments, and Agencies (MDAs), some of which had overlapping
+
+      functions and mandates, as well as differing conditions of service — despite being in the same sector. This occurred most
+
+      notably in the transport sector, which was served by five separate ministries. Over the previous two decades, the state’s
+
+      capacity to deliver public services had weakened, as had accountability structures. According to the Mo Ibrahim Index of
+
+      African Governance, all of Ghana’s governance indicators declined in the decade ending in 2015. The delivery of basic
+
+
+
+1Michael Tobias Geiger, Kwabena Gyan Kwakye, Carlos Leonardo Vicente, Barbara Monica Wiafe, and Nana Yaa Boakye Adjei. Fourth Ghana Economic
+
+Update: Enhancing Financial Inclusion - Africa Region. Ghana Economic Update, No. 4, Washington, D.C.: World Bank Group.
+
+
+
+                                                                                                                                     Page 1
+
+           The World Bank
+
+           Public Sector Reform for Results Project (P164665)                                                                  ICR DOCUMENT
+
+
+
+
+
+     administrative services was encumbered by bureaucratic processes that caused excessive delays. For instance, it took over
+
+     a year to obtain a passport. At the same time, citizens faulted the Government’s performance in providing a “reliable
+
+     supply of electricity, water and sanitation services, basic health services, educational needs, and maintenance of
+
+     roads and bridges”2. According to Afrobarometer (2014), approximately 82 percent of citizens reported not having
+
+     any contact with a government official for the purposes of obtaining basic services. 3 Furthermore, despite
+
+     automation of some processes, citizens faced constraints in accessing administrative services. Finally, Ghana did not
+
+     have effective monitoring and evaluation (M&E) systems to facilitate accountability, transparency and the effective
+
+     delivery of results.
+
+
+
+     3.       The Government of Ghana (GoG) recognized the need to improve governance and launched a new strategy for
+
+     reforming the public sector. The National Public Sector Strategy (NPSRS) for 2018-2023 was launched in 2018. The strategy
+
+     acknowledged that Ghana’s public sector performance “had deteriorated in recent years”, citing factors such as weak
+
+     institutional and human capacity, inadequate resources, lack of accountability, and poor coordination as barriers to
+
+     past reform efforts. The NPSRS served as a foundation for the Public Sector Reform for Results Project (PSRRP), which
+
+     aimed to enhance the speed and quality of service delivery. Two of the strategy’s three pillars anchored the PSRRP:
+
+     Pillar 1 focused on restructuring internal service delivery processes and management frameworks to prioritize
+
+     citizen-cantered approaches. It sought to mainstream delivery models and monitoring and evaluation (M&E)
+
+     systems across Ministries, Departments, and Agencies (MDAs), emphasizing results-oriented reform Pillar 3
+
+     emphasized revising Client Service Charters (CSCs), institutionalizing service delivery standards, and strengthening
+
+     the regulatory framework for public services.4 By aligning these pillars with its objectives, the GoG aimed to create a
+
+     more accountable, efficient, and citizen-focused public sector.
+
+
+
+     Bank Rationale
+
+
+
+     4.       The PSSRP was aligned with the World Bank’s Country Partnership Strategy (CPS) for fiscal years (FY) 2013–
+
+     16, which was extended to FY18 (Report No. 76369-GH). The CPS had three pillars: (i) improving economic
+
+     institutions; (ii) enhancing competitiveness and job creation; and (iii) protecting the poor and vulnerable. The PSRRP
+
+     supported these objectives by improving upstream public sector performance through strengthened national M&E
+
+     systems and enhancing downstream performance by improving the quality of administrative service delivery.
+
+
+
+     5.       The Government’s NPSRS provided a strategic opportunity for the World Bank to support the GoG’s agenda
+
+     to reform and improve public administrative services, which had been in decline. The reforms also aligned with
+
+     the National Coordinated Program for Economic and Social Development Policies (2017-2024), which emphasized
+
+     “deepening democratic governance; reforming and transforming public institutions; and effective management of
+
+     public policy.” 5 The World Bank’s analytical work over the preceding five years highlighted weaknesses in public
+
+     sector management, which negatively impacted human development outcomes and public expenditure. 6 These
+
+     reforms were intended to complement ongoing operations to strengthen the institutional capacity in revenue and
+
+     expenditure management, such as the Ghana Economic Management Strengthening Project (P152171) and the
+
+     Public Financial Management Reform and Improvement Project (P151447).
+
+
+
+
+
+2 Afrobarometer. “Ghanaians’ evaluations of public service delivery: Findings from the Afrobarometer Round 6.” (2014, online).
+
+3 Ibid.
+
+4 Governance of Ghana. National Public Sector Reform Strategy (NPSRS) 2018-2023. (Accra: Government of Ghana, 2018).
+
+5 Republic of Ghana. National Co-ordinated Programme for Economic and Social Development Policies (2017-2024). (Accra: Office of the President,
+
+
+
+2017), p. 85
+
+6 See for example the following World Bank reports: Public Expenditure Review (P151519); Wage Bill Study (P151473); and a Service Delivery
+
+
+
+Assessment (P161651).
+
+
+
+                                                                                                                                        Page 2
+
+     The World Bank
+
+     Public Sector Reform for Results Project (P164665)                                                   ICR DOCUMENT
+
+
+
+
+
+Theory of Change (Results Chain)
+
+
+
+6.      The PSRRP aimed to address two primary challenges: (i) inefficiency in the delivery of selected services by
+
+selected entities; and (ii) limited accountability in the delivery of selected services by selected entities. The Theory
+
+of Change (ToC) at Appraisal was based on the implicit assumption that addressing organizational weaknesses,
+
+introducing performance and accountability tools such as Service Delivery Standards and Client Service Charters, and
+
+strengthening M&E systems across selected entities would enhance accountability and improve the efficiency of
+
+service delivery. Service delivery improvement was to be measured primary by (see figure1). However, Key
+
+weaknesses in the ToC were evident in the implicit assumptions underlying its design. These assumptions failed to
+
+adequately account for significant challenges, including capacity constraints, coordination issues, and the which were
+
+not cognizant of the organizational characteristics of the targeted entities. These factors posed substantial
+
+constraints during implementation, yet the ToC did not incorporate measures to address or mitigate these
+
+constraints effectively. As a results, overcoming these structural and operational barriers was not factored into the
+
+project’s design, limiting its effectiveness during execution.
+
+
+
+
+
+
+
+
+
+                                                                                                                  Page 3
+
+      The World Bank
+
+      Public Sector Reform for Results Project (P164665)                                                                                                                                                         ICR DOCUMENT
+
+
+
+
+
+
+
+
+
+Figure 1: Theory of Change
+
+
+
+         Key Activities                          Intermediate Results                        Outcomes             PDO
+
+ 1. Strengthening Organizational                                                               Service users
+
+ Performance                                                                                   provided with
+
+
+
+
+
+
+
+
+
+                                                                                                                               To improve efficiency in the delivery of selected services by selected entities
+
+                                             • Formats and templates for Client Service
+
+ • Improve organizational performance                                                        selected services
+
+                                               Charters (CSCs) updated and published.
+
+   and service delivery in selected                                                              within the
+
+   entities
+
+                                             • Complaints about administrative                prescribed time
+
+ • Improve citizen consultation and
+
+   beneficiary feedback                        services filed and resolved within the      limits, as published
+
+                                               stipulated timeline.                          in Client Service
+
+ • Strengthen the capacity for rapid
+
+   appraisal and impact evaluation                                                           Charters/Service
+
+ • Strengthen grievance redress and          • Selected entities that have published,      Standards, updated
+
+   complaints handling for                     been consulted, and are implementing a
+
+                                                                                           under the PSRRP (of
+
+   administrative services                     Gender Strategy and Action Plan.
+
+                                                                                              which women)
+
+ • Develop the Gender Strategy and
+
+   Action Plan
+
+ • Implement the NPSRS.
+
+
+
+ 2. Improving Efficiency, Accountability     • Regular-service applicants issued
+
+                                               passport within 21 days.                      Reduced time to
+
+ and Citizen Engagement in Delivery of
+
+                                             • Births and deaths registered within 3          deliver selected
+
+ Selected Services
+
+                                               months.                                     services by selected
+
+ • Expand access to selected services,       • EPA permits for individuals and MSMEs            entities, as
+
+   especially in remote and underserved        issued within specified period.
+
+   areas.                                                                                   illustrated by time
+
+                                             • Inspectorate Division of MLGRD
+
+ • Reduce turnaround time to obtain            receiving financial information.
+
+                                                                                            taken to register a
+
+   selected services (BDR, DVLA, EPA, GIS,   • Selected entities with signed Service              vehicle.
+
+   PO)                                         Level Agreements with NITA.
+
+ • Conduct an independent review of          • Semi-annual public meetings held by         Annual conduct of
+
+   organizational functions, structures,       OSM where selected entities report on
+
+   business processes and ICT systems                                                      Citizen Assessment
+
+                                               results and implementation plans for
+
+ • Implement organizational management         next 6 months.                              Survey and
+
+   and performance improvements                                                            publication of
+
+ • Implement the NPSRS                                                                     results.
+
+
+
+ 3. Improving M&E
+
+                                             • M&E Units in selected entities collecting
+
+ • M&E institutional strengthening
+
+                                               data and monitoring annual
+
+ • Develop and monitor performance
+
+                                               performance targets.
+
+   targets                                                                                 Selected entities
+
+                                                                                                                  To improve accountability in the delivery of
+
+
+
+
+
+
+
+
+
+ • Strengthen the MDA and MMDA M&E                                                         that publish data
+
+   capacity
+
+                                                                                                                   selected services by selected entities
+
+
+
+
+
+
+
+
+
+                                                                                           semi-annually on
+
+ • Undertake stakeholder engagement,
+
+   including through annual citizen                                                        the number of
+
+   assessment surveys.                                                                     complaints received,
+
+                                                                                           resolved, and
+
+ 4. Project Management, Coordination,                                                      pending.
+
+ and Public Reporting                        • Independent Verification Agent (IVA)
+
+ • Independent verification of DLI             verifying DLI attainment on a semi-
+
+   attainment                                  annual basis.
+
+ • Third-party entity for (i) grievance
+
+   redressal and complaint handling and
+
+   (ii) beneficiary feedback
+
+ • Project-level communication and public
+
+   reporting
+
+
+
+
+
+
+
+                                                                                                                                                                                                                      Page 4
+
+             The World Bank
+
+             Public Sector Reform for Results Project (P164665)                                                                                               ICR DOCUMENT
+
+
+
+
+
+     Source: PAD.
+
+     Note: BDR= Births and Deaths Registry; DLI= Disbursement-Linked Indicator; DVLA= Driver and Vehicle Licensing Authority; EPA= Environmental Protection Agency; GIS= Ghana
+
+     Immigration Service; ICT= Information and Communication Technologies; IVA= Independent Verification Agency; MDA= Ministries, Departments, and Agencies; M&E= Monitoring
+
+     and Evaluation; MMDA= Metropolitan, Municipal and District Assemblies; MSMEs= Micro, Small, Medium Enterprises; NITA= National Information Technology Agency;
+
+     NPSRS=National Public Sector Reform Strategy; OSM= Office of the Senior Minister; PDO= Project Development Objective; PO= Passport Office.
+
+
+
+
+
+     Project Development Objective (PDO)
+
+
+
+     7.      The PDO was to enhance efficiency and accountability in the delivery of selected services by selected
+
+     entities. The project had two outcomes, namely to: (i) improve efficiency in the delivery of selected services by
+
+     targeted entities; and (ii) improve accountability in the delivery of selected services by targeted entities. Each
+
+     outcome areas were associated with two indicators, as detailed in Table 1.
+
+
+
+     Table 1. Key Expected Outcomes and Outcome Indicators
+
+       Outcomes                                                                          Outcome Indicators
+
+
+
+       Improve efficiency in the delivery of selected services by                        Service users provided selected services within the
+
+       selected entities.                                                                prescribed time limits, as published in the CSCs/ CSSs and
+
+                                                                                         updated under the PSRRP (Number, Thousand)
+
+
+
+                                                                                               •    Women service users provided with selected
+
+                                                                                                    services within the prescribed time limits as
+
+                                                                                                    published in the CSCs/ CSSs and updated under the
+
+                                                                                                    PSRRP (number, thousand).
+
+                                                                                         Time to deliver selected services by selected entities
+
+                                                                                         illustrated by the time taken to register a vehicle.
+
+
+
+       Improve accountability in the delivery of selected services by                    Annual conduct of Citizen Assessment Survey (Listen to
+
+       selected entities.                                                                Ghana) and publication of results (number).
+
+
+
+                                                                                         Selected entities that publish data semi-annually regarding
+
+                                                                                         the number of complaints received, resolved, and pending
+
+                                                                                         (number).
+
+
+
+     Note: CSC= Client Service Charter; CSS= Client Service Standard; PSRRP= Public Sector Reform for Results Project.
+
+
+
+
+
+     Components
+
+
+
+     The PSRRP aimed to improve service delivery and enhance accountability in the delivery of public services. The
+
+     project scope primary targeted eight service delivery agencies and their parent ministries, structured under four
+
+     components 7:
+
+
+
+     8.       Component 1: Strengthening Organizational Performance (Estimated Cost US$7.43 million, Actual Cost
+
+     US$3.71 million). This component sought to: (i) strengthen the performance of selected entities, including the Office
+
+     of the Head of the Civil Service [OHCS] and the Public Service Commission [PSC], to achieve their key objectives and
+
+     results; (ii) Enhance the capacity of the Commission on Human Rights and Administrative Justice (CHRAJ) to handle
+
+
+
+
+
+7These agencies include: the Births and Deaths Registry and its “parent” Ministry of Local Government, Decentralization and Rural Development;
+
+Driver and Vehicle Licensing Authority and its “parent” Ministry of Transport[ Environmental Protection Agency and its “parent” Ministry of
+
+Environment, Science, Technology and Innovation; Ghana Immigration Service and “parent” Ministry of the Interior; the Passport Office and “parent”
+
+Ministry of Foreign Affairs and Regional Integration; the Ministry of Monitoring and Evaluation, National Information Technology Agency, Office of
+
+Head of Civil Service, Office of the Senior Minister, the Public Services Commission and the Commission on Human Rights and Administrative Justice.
+
+
+
+                                                                                                                                                                         Page 5
+
+     The World Bank
+
+     Public Sector Reform for Results Project (P164665)                                                   ICR DOCUMENT
+
+
+
+
+
+grievances and complaints related to administrative services delivery; and (iii) support the implementation of the
+
+NPSRS.
+
+
+
+9.       Component 2: Improving Efficiency, Accountability, and Citizen Engagement in the Delivery of Selected
+
+Services (Estimated Cost US$20.19 million, Actual Cost US$8.31 million). This component addressed key challenges,
+
+including: (i) the lack of streamlined and standardized systems and processes for service delivery and results tracking,
+
+coupled with inadequate and unpredictable budget releases for goods and services; (ii) limited access points and
+
+insufficient institutional capacity within MDAs to formulate and manage efficient, accountable service delivery
+
+processes for citizens and firms; (iii) limited coordination between sector MDAs; and (iv) delays, corruption, the lack
+
+of complaints handling and tracking mechanisms and a general lack of accountability and citizen engagement
+
+concerning key public services across MDAs. Bank support covered: the Driver and Vehicle Licensing Authority
+
+(DVLA); the Ministry of Transport (MoT); the Births and Deaths Registry (BDR); the Ministry of Local Government,
+
+Decentralization and Rural Development (MLGRD); the Environmental Protection Agency (EPA); the Ministry of
+
+Environment, Science, Technology, and Innovation (MESTI); the Passport Office (PO); the Ministry of Foreign Affairs
+
+and Regional Integration (MFA&RI); the Ghana Immigration Service (GIS); the Ministry of Interior (MoI); and the
+
+National Information Technology Agency (NITA).
+
+
+
+10.     Disbursement under the project included disbursements based on results referred to as disbursement-
+
+linked indicators (DLIs) or performance-based conditions (PBCs):
+
+
+
+        DLI/PBC 1. BDR takes measures to meet the targeted number of births registered within 3 months of the
+
+        event.
+
+        DLI/PBC 2. EPA takes measures for environmental permit issuance and renewal, as well as complaints
+
+        handling for individuals and MSMEs.
+
+        DLI/PBC 3. DVLA takes measures for driver licensing and vehicle registration.
+
+        DLI/PBC 4. Service-Level Agreements are signed between NITA and relevant selected entities.
+
+        DLI/PBC 5. Client Service Charters/Client Service Standards are updated and published on the selected
+
+        entities websites.
+
+        DLI/PBC 6. Prepare and implement a Gender Strategy and Action Plan applicable to all entities under the
+
+        PSC and Office of the Head of the Civil Service (OHCS) and train selected entities to implement it.
+
+        DLI/PBC 7. Complaints received by independent, third-party project-level complaint handling entity, and
+
+        selected entities that have resolved such complaints within the specified times.
+
+        DLI/PBC 8. Semi-annual public meetings held by the Office of the Senior Minister.
+
+
+
+
+
+11.      Component 3: Improving Monitoring and Evaluation (Estimated Cost US$3.5 million, Actual Cost US$2.07
+
+million). This component was designed to improve M&E across the government by: (i) preparing and implementing
+
+M&E policy and performance measurement of the government’s results framework (RF) for priority programs; (ii)
+
+developing and monitoring real-time performance of the MDAs and MMDAs; (iii) strengthening M&E capacity across
+
+MDAs and MMDAs; (iv) implementing activities to enable stakeholders to interact with citizens and civil society; and
+
+(v) conducting annual citizen assessment surveys and publishing the results.
+
+
+
+12.     Component 4: Project Management, Coordination and Public Reporting (Estimated Cost US$2.55 million,
+
+Actual Cost US$5.38 million). A Project Management Unit (PMU) was established to oversee day-to-day project
+
+implementation, including coordination and the delivery. Key activities included conducting surveys; recruiting
+
+independent verification agent; ensuring fiduciary compliance and management; managing project-level
+
+
+
+                                                                                                                  Page 6
+
+            The World Bank
+
+            Public Sector Reform for Results Project (P164665)                                                                                         ICR DOCUMENT
+
+
+
+
+
+     communications and public outreach; collecting citizen and firms feedback on PSRRP improvements; and instituting
+
+     a third-party, project-level grievance redress and complaints handling mechanism.
+
+
+
+     13.      An estimated amount of US$1,330,000 was tagged as unallocated to cover exchange rate fluctuations and
+
+     just-in-time activities that could have arisen during implementation. There was a loss of US$ 1,756,304.17 8due to
+
+     the foreign exchange loss between the Special Drawing Rights and the US dollar. 9
+
+
+
+          B. SIGNIFICANT CHANGES DURING IMPLEMENTATION (IF APPLICABLE)
+
+
+
+     Revised PDOs and Outcome Targets
+
+
+
+     14.     The PDO remained unchanged throughout the project’s duration. However, the outcome targets were
+
+     revised in June 2022 when the PDO indicators were update, as described below.
+
+
+
+     Revised PDO Indicators
+
+
+
+    15.    All four PDO indicators were revised during the June 2022 restructuring (see table 2).10 These revised PDO
+
+    indicators remained the unchanged until the project’s closing date. Additionally, intermediate results indicators (IRI)
+
+    were adjusted during the first project restructuring in 2022 and further revised during the third and final project
+
+    restructuring in 2024, six months before the project closure.
+
+
+
+    Table 2: Revisions to PDO Indicators
+
+     Original PDO Indicator                                                Revised PDO Indicator 2022
+
+     Service users provided selected services within the prescribed        Sixty percent of regular service passport applicants notified and issued with passports
+
+     time limits published in Client Service Charters/Client Service       within 21 working days of application after biodata capture for each calendar year.
+
+     Standards as updated under the PSRRP [Target: 750,000]
+
+
+
+     Women service users provided with selected services within            Deleted.
+
+     the prescribed time limits, as published in Client Service
+
+     Charters/Service Standards updated under the PSRRP [Target:
+
+     250,000].
+
+     Time to deliver selected services by selected entities,               Sixty percent of applicants notified and issued with drivers’ licenses within 45 days of
+
+     illustrated by time taken to register a vehicle) [Target: 2 hours].   passing the driving test.
+
+     Annual conduct of citizen assessment survey (Listen to Ghana)         Deleted.
+
+     and publication of results [Target: 4].
+
+     Selected entities that publish data semi-annually regarding the       For at least 5 selected public services, 90 percent of service users are sent a text message
+
+     number of complaints received, resolved, and pending [Target:         with the receipt number/tracker numbers, and the date of delivery of service for
+
+     10].                                                                  feedback.
+
+                                                                           New Indicator
+
+                                                                           Implementation of five institutional gender strategy action plans.
+
+
+
+
+
+
+
+
+
+    Revised Components
+
+
+
+8 A total of US$21,231,804. 10 of the revised US$24,000,000 was disbursed. US$2,768,196 remained undisbursed.
+
+9 According to the GoG’s records, the exchange rate difference when the project closed was US$1,271,697.03. The GoG’s records also reflect that a
+
+total of US$1,772, 904.09 was transferred back to the World Bank in November 2024.
+
+10 The request was received in January 2022, but the project restructuring was only finalized in June 2022 because there was a reluctance from the
+
+
+
+Environmental Protection Agency and the Ministry of Interior to be dropped from the project.
+
+
+
+                                                                                                                                                                 Page 7
+
+       The World Bank
+
+       Public Sector Reform for Results Project (P164665)                                                ICR DOCUMENT
+
+
+
+
+
+
+
+16.     The objectives of the components remained consistent throughout project implementation. However,
+
+during the June 2022 restructuring, sub-components related to the EPA, GIS, and MoI were dropped, and the costs
+
+allocated to each component were adjusted.
+
+
+
+Rationale for Changes and Their Implication on the Original Theory of Change
+
+
+
+17.      The first restructuring aimed to improve PDO indicators to better measure progress under the project in
+
+alignment with the ToC. However, the restructuring did not fully address the capacity constraints and coordination
+
+challenges identified early in implementation. For instance, the project retained the parent ministries, MLGRD and
+
+MESTI, despite their activities being tangential to achieving the PDO. This exacerbated the PMU’s coordination
+
+challenges faced. Additionally, revisions to PBC 2 introduced complexities by requiring the Passport Office (PO) to
+
+issue passports and ensure their delivery or collection - tasks that exceeded the PO’s legal mandate. Nonetheless,
+
+the restructuring helped simplify the project and accelerate progress, as evidenced by increased disbursements
+
+following the changes.
+
+
+
+18.     The second and third restructurings were justified by the need to extend key procurement processes and
+
+cancel that could not be committed before the project’s closure. The restructurings did not affect the ToC. The
+
+primary reason for extending the project’s closing date by six months — from December 31, 2023, to June 20, 2024
+
+— was to recover almost two years of implementation time lost between May 2019 and the first restructuring, when
+
+project implementation had been slow. The extension allowed the client to complete activities that were already
+
+underway and deemed feasible within the short timeframe. Historically, disbursements under the PSRRP were slow.
+
+The cancellation of the US$8 million became necessary when it became clear that the client could not absorb
+
+additional funds within the remaining project period, even with the extension. Key activities, such as procuring
+
+biometric passport printers faced significant delays and were no longer feasible. Dropping certain PBCs and
+
+cancelling associated funds became unavoidable, especially given that by May 2024, no PBC disbursements had been
+
+made.
+
+
+
+      II. OUTCOME
+
+
+
+
+
+      A. RELEVANCE OF PDO
+
+
+
+
+
+ Assessment of Relevance of PDOs and Rating
+
+
+
+ Rating: Substantial
+
+
+
+ 19.       The relevance of the PDO was relevant at the time of preparation and remained relevant at the time of this
+
+ Implementation Completion and Results Report (ICR), with a rating of “Substantial”. Ghana Ghana’s Country
+
+ Partnership Framework (CFP) for FY2013-FY 2016 which was extended to FY18 (Report No. 76369-GH) had three
+
+ pillars: (i) improving economic institutions; (ii) enhancing competitiveness and job creation; and (iii) protecting the
+
+ poor and vulnerable. The objectives of the PSRSP which focused on improved service delivery to support people and
+
+ firms were anchored by these CPF pillars. Similarly, the CPF for FY2022-26 (Report No. 157249-GH) in effect at the
+
+ time of the ICR supports a recovery pathway based on Green, Resilient and Inclusive Development principles
+
+ structured around three mutually reinforcing areas: (i) Enhancing Conditions for Private Sector Development and
+
+ Quality Job Creation, (ii) Improving Service Delivery, and (iii) Promoting Resilient and Sustainable Development. The
+
+
+
+                                                                                                                 Page 8
+
+             The World Bank
+
+             Public Sector Reform for Results Project (P164665)                                                    ICR DOCUMENT
+
+
+
+
+
+       PSRRP aligns with Focus Area 2, which emphasizes improving inclusive service delivery. Enhancing public sector
+
+       performance contributed to better service delivery across critical sectors, including health, education, and social
+
+       protection. At closing, the PSRRP remained relevant to government’s priorities, as reflected in the continued use of
+
+       its public sector reform strategy, pending the development of a new one.
+
+
+
+             B. ACHIEVEMENT OF PDOs (EFFICACY)
+
+
+
+        20.      The assessment of the PDO is organized around two outcomes: (i) Improved efficiency in the delivery of
+
+        selected services by selected entities; and (ii) Improved accountability in the delivery of selected services by selected
+
+        entities. Tables 3 and 4 summarize the achievement status of the original and revised PDO indicators at closure. Two
+
+        of the four outcomes’ indicators exceed their targets, while the other two fell short (see table 3). Of the four PBCs
+
+        (PBCs 1, 3, 5, and 6), all were partially achieved.
+
+
+
+        21.      A split rating approach assesses both project outcomes. The PDO remained unchanged throughout the
+
+        project, but the first restructuring deleted one sub-PDO indicator, a PDO indicator, revised 3 PDO indicators,
+
+        introduced a new PDO indicator, and reduced the number of selected entities from 16 to 13. Additionally, US$3
+
+        million was cancelled. Subsequent restructuring extended the project’s closing date and dropped three of seven
+
+        PBCs, but these changes did not significantly impact project focus or ambition. Accordingly, the split rating applied
+
+        only to the first restructuring, consistent with ICR guidelines.
+
+
+
+        22.      For both project outcomes, efficacy is accordingly analyzed in line with: (a) the original project design with
+
+        original targets; and (b) the revised targets.
+
+
+
+        Assessment of Achievement of Each Objective/Outcome
+
+
+
+        Project efficacy under the original targets: Negligible
+
+
+
+        Achievement of Outcome 1: Improved efficiency in the delivery of selected services by selected entities
+
+
+
+        Rating: Negligible
+
+
+
+       23.        None of the three original PDO level indicators and DLIs/ PBCs for efficiency improvements were
+
+       achieved. Although some activities had been initiated, the pace of implementation was very slow.11 There was also
+
+       the challenge of measuring results, as most of the baselines had not yet been verified and historic data was being
+
+       used because the PMU had not yet provided updated data for the PDO indicators. Of 750,000 targeted service users,
+
+       only 32,200 received service within the prescribed time limits. Of 250,000 targeted women service users, only 12,500
+
+       received timely services. The time taken to register a vehicle remained six hours, despite a target reduction to two
+
+       hours. Additionally, the absence of an Independent Verification Agency (IVA) prevented the implementation of
+
+       verification protocols. Achievement of Outcome 2: Improved accountability in the delivery of selected services by
+
+       selected entities
+
+
+
+
+
+
+
+
+
+                  Rating: Negligible
+
+
+
+11   World Bank, Implementation Status Report No. 6, archived on November 5, 2021.
+
+
+
+                                                                                                                          Page 9
+
+     The World Bank
+
+     Public Sector Reform for Results Project (P164665)                                                          ICR DOCUMENT
+
+
+
+
+
+
+
+24.      Neither of the two PDO-level indicators nor the DLIs/ PBCs intended to measure improvements in the
+
+accountability of selected entities in the delivery of services was achieved. The MoME was expected to design and
+
+implement an annual citizen assessment survey (Listen to Ghana), with results representative at both regional and
+
+national levels. These findings were to be published annually. However, the survey was neither designed nor
+
+implemented. Out of the target of ten entities, only one published semi-annual data on the number of complaints
+
+received, resolved, and pending. Additionally, none of the 14 original intermediate results indicators (IRIs) related
+
+to improving efficiency and accountability were achieved.
+
+
+
+ Table 3. Achievement Status of PDO Indicators at Closing under Original Targets
+
+
+
+                    PDO Indicators                          Baseline   Original   Restructured     Actual         Status
+
+                                                             2018        End       End-Target    Results at
+
+                                                                       Target                     Closure
+
+                                                                        (PAD)                    (June 20,
+
+                                                                         2023                      2024)
+
+  Improved efficiency in the delivery of selected
+
+  services by selected entities
+
+    Service users provided selected services within          0.00      750.000      Revised      32.20        Not achieved
+
+    the prescribed time limits published in the Client
+
+    Service Charters (CSCs)/ Client Service Standards
+
+    (CSS) (number (thousand))
+
+
+
+  Women service users provided with selected                 0.00      250.000      Revised      12.30        Not achieved
+
+  services within the prescribed time limits and
+
+  published in Client Service Charters (CSCs)/ Client
+
+  Service Standards (CSS) (number (thousand))
+
+
+
+
+
+    Time to deliver selected services by selected            6.00       2.00        Revised      6.00         Not achieved
+
+    entities, illustrated by the time taken to register
+
+    a vehicle (hours)
+
+  Improved accountability in the delivery of selected
+
+  services by selected entities
+
+    Annual Conduct of Citizen Assessment Survey              0.00       4.00        Revised      0.00         Not achieved
+
+    (Listen to Ghana) and the publication of the
+
+    results (number)
+
+     Selected entities that publish data semi-annually on    0.00        10.00      Revised      0.00         Not achieved
+
+  number of complaints received, resolved, and pending
+
+  (number)
+
+
+
+     Project efficacy under the revised targets: Modest
+
+
+
+ Achievement of Outcome 1: Improved efficiency in the delivery of selected services by selected entities
+
+
+
+ Rating: Substantial
+
+
+
+ 25.    Two of the three indicators exceeded their targets following the project restructuring. Performance
+
+ improved significantly, with the target number of applicants notified of their driving license application in a timely
+
+ manner being surpassed. Additionally, the number of actions completed under the gender action plan exceed
+
+ expectations. However, efficiency improvements in passport issuance were hindered due to significant
+
+
+
+                                                                                                                           Page 10
+
+           The World Bank
+
+           Public Sector Reform for Results Project (P164665)                                                                       ICR DOCUMENT
+
+
+
+
+
+      procurement challenges for biometric passport printers, which were essential to addressing delays. Despite efforts,
+
+      the project closed without the printers being procured.12 The project aimed to enhance service delivery efficiency
+
+      for selected entities, including the BDR, OHCS, PSC, DVLA, BDR, PO and MoT, by deploying technology, increasing
+
+      service access, and integrating gender considerations into internal processes. Specifically, the project financed:
+
+
+
+           •    Procedural Reforms: Enhancing transparency in births and deaths registrations, enabling online applications
+
+                and payments, digitalizing records and reviewing administrative structures.
+
+           •    DVLA Interventions: Business process re-engineering, implementing a queue management system and
+
+                mobile service, and launching the Tertiary Education Drive (TertDrive) to conduct driving tests on university
+
+                campuses. Training and capacity-building initiatives for DVLA staff were also included.
+
+           •    Passport Office Reforms: Revising procedures and policies, providing IT equipment, developing web- and
+
+                mobile-based applications for passport applications, engaging a courier service to deliver 40,000
+
+                uncollected passports, and raising public awareness of streamlined processes.
+
+           •    OHCS Improvements: Deploying ICT and videoconferencing equipment, updating the website, and
+
+                launching an annual civil service week to motivate reformers and recognize high-performing officials.
+
+           •    Gender Action Plans: Institutionalizing gender scorecards; updating CSCs templates; publishing them
+
+                online; developing a compliance monitoring framework; and updating the Public Services Commission Act,
+
+                1994 (Act 482).
+
+           •    MoT Digitalization: Strengthening document management systems through record digitalization.
+
+
+
+      26.      The PSRRP partly achieved its objective of improving efficiency in service delivery. Significant gains were
+
+      made in licensing efficiency at the DVLA, where daily license printing increased from 700 to 2,500, and 70 percent
+
+      of applicants received licenses within 45 days, surpassing the 60 percent target. The backlog of unprinted licenses
+
+      was reduced from 76,000 to 7,130. Additionally, the TertDrive initiative issued 14,933 licenses to students from 13
+
+      tertiary institutions between July 2022 and September 2024.
+
+
+
+      27.      Efficiency improvements were also evident at the BDR, where birth registrations within three months
+
+      rose from zero to 730,000, surpassing the target of 600,000. This success resulted from intensive field registration
+
+      efforts and online service access, complemented by other donor initiatives. However, death registrations fell
+
+      significantly short of the 400,000 targets, with only 91,000 recorded. Faith-based organizations, which conduct
+
+      burials without requiring death certificates, posed a significant challenge, particularly in rural areas. Efforts to
+
+      engage religious leaders were initiated but lacked a formalized memorandum of understanding (MOU) by the
+
+      project's end.13
+
+
+
+      28.      The OHCS improved efficiency by reducing travel time for applicants through ICT and videoconferencing
+
+      equipment investments. Recruitment and promotion interviews are now conducted online regardless of location.
+
+      Gender action plans with scorecards were implemented in eight entities, surpassing the target of six. A key project
+
+      outcome is the increased efficiency in vetting passport applications and biometric data capture. This has resulted
+
+      in a significant reduction in the backlog of unprocessed passport applications from 60,000 to 4,300 as of June 20,
+
+      2024. By the time the project closed, only 15.60 percent of regular service passport applicants were notified and
+
+      issued passports within 21 working days of application after biodata capture, falling short of the 60 percent target.
+
+
+
+
+
+
+
+12 The printers that the vendor provided, which the passport office did not accept, were not consistent with the technical specifications and did
+
+not have biometric capabilities.
+
+13 Unlike birth certificates, which are required for school registration, and so on.
+
+
+
+
+
+
+
+                                                                                                                                            Page 11
+
+    The World Bank
+
+    Public Sector Reform for Results Project (P164665)                                                    ICR DOCUMENT
+
+
+
+
+
+The digitalization of MoT records has enhanced document management, enabled easier retrieval and contributed
+
+to overall efficiency.
+
+
+
+
+
+
+
+
+
+Achievement of Outcome 2: Improved accountability in the delivery of selected services by selected entities
+
+
+
+         Rating: Negligible
+
+
+
+29.      The objective of improving accountability in the delivery of selected services by selected entities was
+
+minimally achieved. BDR Grievance Redress Mechanism: A grievance redress mechanism was established on the
+
+BDR website, through which 414 complaints were lodged, with 386 resolved by the time of the ICR. CHRAJ Electronic
+
+Case Management System: CHRAJ developed an electronic case management system intended to enhance
+
+accountability by enabling public engagement, analyzing case statistics, reviewing and sharing disaggregated data,
+
+and holding staff accountable. However, the system is not yet operational. Performance Management System: The
+
+implementation of the performance management system introduced a standardized performance evaluation
+
+system for civil servants improved accountability in performance management. M&E Training for MDAs: While 25
+
+MDAs submitted M&E reports to the MES, there is no evidence that the training provided to MDAs and the MES
+
+directly contributed to improved accountability in service delivery. Beneficiary Feedback Mechanism: The enhanced
+
+beneficiary feedback mechanism was neither developed nor institutionalized due to delays in recruiting consultants
+
+to implement it. Consequently, the PDO indicator — achieving at least 90 percent of service users receiving text
+
+messages with receipt/tracker numbers and service delivery dates for feedback — was not achieved.
+
+
+
+Table 4. PDO Indicators Status of Achievement of PDO Indicators at the End of the Project under the Revised Targets
+
+
+
+                         PDO Indicators                             Baseline   Target   Actual           Status
+
+                                                                     2020       2024     2024
+
+ Improved efficiency in the delivery of selected services by
+
+ selected entities
+
+   Regular service passport applicants notified and issued with      20.00     60.00    15.60       Not achieved
+
+   passports within 21 working days of application after
+
+   biodata capture, each calendar year (%)
+
+   Applicants notified and issued with drivers’ licenses within      20.00     60.00    70.00       Exceeded
+
+   45 days of passing driving test ( %)
+
+   Implementation of institutional gender strategy action plan       0.00      6.00      8.00       Exceeded
+
+   (number)
+
+ Improved accountability in the delivery of selected services
+
+ by selected entities
+
+   For at least 5 selected public services, 90 percent of service    0.00      90.00     0.00       Not achieved
+
+   users are sent a text message with the receipt
+
+   number/tracker numbers, and the date of delivery of
+
+   service for feedback (%)
+
+
+
+
+
+
+
+
+
+                                                                                                                   Page 12
+
+    The World Bank
+
+    Public Sector Reform for Results Project (P164665)                                                    ICR DOCUMENT
+
+
+
+
+
+Justification of Overall Efficacy Rating
+
+
+
+Rating: Modest
+
+
+
+30.      The PSRRP partly achieved its objectives. Of the four PDO indicators, two were achieved and exceeded
+
+their targets. They both were related to improving efficiency in the delivery of selected services by selected entities.
+
+Additionally, there was significant progress in birth registration, which achieved its target and represents a
+
+foundational service provided by the State.
+
+
+
+C. EFFICIENCY
+
+
+
+
+
+Assessment of Efficiency and Rating
+
+
+
+Rating: Modest
+
+
+
+31.       The project’s benefits were not quantified in monetary terms during the design stage. Neither the original
+
+PAD nor the restructured documents included a calculation of the expected net financial and economic benefits,
+
+such as the Internal Rate of Return (IRR) or Economic Rate of Return (ERR). However, the PAD cited an Economy-
+
+Wide Rate of Return (EWRR) of 12 percent as the benchmark for anticipated financial and economic returns. Based
+
+on this benchmark, the project was expected to generate comparable benefits. An ex-post evaluation confirmed a
+
+positive Net Present Value (NPV) and an IRR exceeding the benchmark rate of 12 percent (see Annex 4 for calculation
+
+details).
+
+
+
+32.       Following three restructurings, US$21.23 million was disbursed under the PSRRP, compared to the
+
+originally approved US$35.0 million. The shortfall was due to the partial cancellation of the loan and low absorption
+
+capacity. The loan cancellation enhanced project efficiency to some extent by narrowing its focus to critical activities
+
+aligned with the PDO. Additionally, reallocation of funds to the PMU increased its share of total disbursement costs
+
+to 24 percent, compared to the original estimate of 7.8 percent in the PAD. This adjustment aimed to strengthen
+
+the PMU’s capacity, which was identified as needing improvement.
+
+
+
+33.     Under Component 1, the Project aimed to strengthen the organizational performance of the PSC, OHCS
+
+and CHRAJ, which in turn was expected to result in improved efficiency and a reduction in administrative costs.
+
+The activities supported under this component comprised increasing access to improved ICT infrastructure
+
+platforms, establishing video conference facilities, developing and rolling out mobile applications to ensure
+
+improved access to the flow of information to citizens. These activities were expected to result in the reduction of
+
+administrative costs of the Selected Entities. Secondly, the Selected Entities were expected to improve
+
+accountability to citizens by publishing updated CSCs, implementing institutional gender strategy action plans and
+
+providing citizens with an opportunity to give feedback on the services they received.
+
+
+
+34.     The economic and financial analysis excluded the estimation of the returns on activities under
+
+Component 1, because of the lack of relevant data and non-achievement of the PDO target on accountability.
+
+Rolling out the updated CSCs increased operational costs; however, this was likely offset by lower administrative
+
+costs to the Selected Entities, due to efficiency improvements. However, 6 (including PSC and OHCS) out of the
+
+planned 25 Selected Entities updated and published CSCs on their websites. Additionally, the impact on turnaround
+
+times and cost savings for service delivery by the compliant Selected Entities, were not documented during project
+
+implementation because the economic benefits of implementing measures under Component 1 were neither
+
+
+
+                                                                                                                 Page 13
+
+    The World Bank
+
+    Public Sector Reform for Results Project (P164665)                                                  ICR DOCUMENT
+
+
+
+
+
+tracked nor quantified during the project implementation. Additionally, the revised PDO indicator on accountability
+
+“for at least 5 selected public services, 90 percent of service users are sent a text message with the receipt
+
+number/tracker numbers, and the date of delivery of service” was not achieved.
+
+
+
+35.     Cost savings to citizens were expected to be significant because of expected improvements in operational
+
+efficiency to Selected Entities such as the DVLA, BDR, and PO. Their services included the issuance of birth and
+
+death certificates, driver’s licenses, and passport issuance and renewal. The PSRRP-supported activities to improve
+
+PO service delivery were intended to reduce formal payments and other out-of-pocket costs for applicants and
+
+greater certainty and predictability in service delivery times, contributing to cost savings. Cost and time savings
+
+were also achieved through services provided by the BDR and DVLA where a total of 700,000 were issued a timely
+
+birth certificate and an additional 50 percentage points of driving license applicants were issued a license within 45
+
+days. Additionally, almost 70,000 were issued their driving license which had been lack-logged, and 55,000 had their
+
+passport issued from the backlog.
+
+
+
+36.      Adhering to service standards as envisaged in the updated CSCs and improved customer orientation of
+
+existing public services reduced applicants’ time and travel costs (by reducing the number of visits to multiple
+
+offices/agencies to access), particularly for those living in remote areas and from low-income groups. Economic
+
+costs for citizens also declined as it was no longer necessary to pay informal fees to intermediaries and other agents
+
+to access services. As a growing number of applicants accessed services within the prescribed timeframes specified
+
+in CSCs, the payment of facilitation fees and bribes became unnecessary. The distorting impact of bribes causes
+
+lower rates in the use of formal services forms the real economic cost (the value of the reduced services received
+
+by individuals and firms relative to the economic cost of the resources used to supply these services). Thus,
+
+eliminating or reducing bribes represented a substantial improvement in the economic welfare of individuals and
+
+firms. Individuals also benefitted from improved transparency and access to information for better decision-making.
+
+
+
+37.      Under Component 2, project activities aimed at improving the efficiency and accountability of selected
+
+entities (BDR, DVLA, and PO) are expected to yield positive economic benefits for citizens. First, improved
+
+efficiency through streamlined business processes and adherence to the CSCs is expected to increase cost savings
+
+due to increased use of online platforms to access services, reduced travel costs, avoidance of non-official payments
+
+and increased turnaround time for service delivery. All the above could also contribute to an increase in income by
+
+freeing up time to engage in productive and income generating activities. Second, the Selected Entities were
+
+expected to improve accountability to citizens by publishing updated CSCs, updating and implementing gender
+
+strategy action plans as well as obtaining feedback from service users.
+
+
+
+38.     An ex-post financial assessment evaluates the viability of the Project by estimating NPV and IRR using
+
+the benchmark discount rate of 12 percent. Project interventions resulted in an increase in the number of service
+
+users and revenue for the Selected Entities (BDR, DVLA and PO). The incremental case scenario estimates that
+
+between 2019-2024, 3.1 million citizens benefitted from the project and revenue of Ghs 232 million was generated
+
+over the same period. The total investment cost is equivalent to Ghs 120 million (US$21.23 million). The NPV and
+
+IRR (based on the discounted rate of 12 percent) were Ghs 10.3 million and 24 percent respectively. This confirms
+
+that the project was financially viable.
+
+
+
+39.      The PSRRP had several challenges that led to slow implementation during the first half of the project’s
+
+life cycle (2019-2022). This was largely due to the delay in effectiveness, the limited capacity of the PMU and the
+
+participating entities, and project management challenges at the Bank and GoG. After the first 2.5 years of project
+
+
+
+                                                                                                               Page 14
+
+     The World Bank
+
+     Public Sector Reform for Results Project (P164665)                                                                    ICR DOCUMENT
+
+
+
+
+
+ implementation, disbursement was only 16.9 percent of originally approved US$35 million. Restructuring the
+
+ project helped to fast-track project implementation during the second half of the project. This was achieved by:
+
+ removing three Selected Entities, reducing project funds by US$11million, and extending the closing date by six
+
+ months. Total disbursements reached Ghs120 million (US$21.23 million), representing a disbursement rate of 98.7
+
+ percent compared to total restructured funds available, at the close of the project.
+
+40.     The impact of implementation performance on efficiency is assessed by comparing the IRR under
+
+different scenarios to the benchmark discount rate of 12 percent. The financial analysis indicates that the project
+
+was viable, when the actual disbursement of US$21.23 million at closing is used to calculate the efficiency ratios.
+
+The NPV and IRR are Ghs 8.9 million and 29 percent respectively.
+
+
+
+ 41.      Overall, efficiency is rated as Modest. The incremental economic gains attributable to the Project are
+
+ mixed: The delay in project implementation during the first half of the project cycle undermined the optimal
+
+ efficiency level the project could have generated. Activities aimed at improving the efficiency of the Selected Entities
+
+ partly contributed to the achievement of the PDO, while activities aimed at improving the accountability of Selected
+
+ Entities had limited impact on the achievement of the PDO. The DVLA and BDR contributed the most to achieving
+
+ the project targets and ensuring that the IRR of the project exceeded the minimum benchmark discount rate of 12
+
+ percent.
+
+
+
+     D. JUSTIFICATION OF OVERALL OUTCOME RATING
+
+
+
+42.     The overall outcome rating for the project is Moderately Unsatisfactory. This assessment reflects the
+
+relevance of the PDO, the achievement of outcomes, and efficiency (see Table 5). A split rating methodology was
+
+applied due to formal revisions of the PDO indicators. The final rating is determined using the methodology outlined
+
+in Appendices H and I of the updated World Bank Guidance Note for Implementation Completion and Results Reports
+
+for Investment Project Financing Operations, issued on December 9, 2021.
+
+                                 Table 5: Calculation of the Overall Project Outcome Rating
+
+
+
+                                                     Original Targets without                  Revised Targets with
+
+                                                     Restructuring                             Restructuring
+
+               Relevance of PDO                      Substantial
+
+               Efficacy of PDO                       Negligible                                Modest
+
+               Outcome A                             Negligible                                Substantial
+
+               Outcome B                             Negligible                                Negligible
+
+               Efficiency                            Modest
+
+            1. Outcome Ratings                       Unsatisfactory                            Moderately Unsatisfactory
+
+            2. Numerical value of the outcome        1                                         2
+
+               ratings
+
+            3. Disbursements                         US$5,920,000.00                           US$15,311, 804, 10
+
+            4. Share of Disbursements                0.28 (27.88 percent)                      0.72 (72.11 percent)
+
+            5. Weighted value of the                 0.28                                      1.44
+
+               outcome rating (Row 2 X Row 4)
+
+            6. Final Outcome Rating                  Moderately Unsatisfactory
+
+                                                     (0.28+1.44) =1.72 rounding it off to 2.
+
+
+
+
+
+
+
+
+
+                                                                                                                               Page 15
+
+    The World Bank
+
+    Public Sector Reform for Results Project (P164665)                                                 ICR DOCUMENT
+
+
+
+
+
+E. OTHER OUTCOMES AND IMPACTS (IF ANY)
+
+
+
+
+
+Gender
+
+
+
+43.      The project did not have a specific gender tag, as this was not required at the time of preparation.
+
+However, the implementation of the gender action plans promoted gender equality. In the eight entities that
+
+implemented these plans, significant efforts were made to address gender inequalities and redefine gender roles
+
+and relations. For instance, gender mainstreaming has become a core strategy for achieving gender equality within
+
+the PSC and selected entities, in alignment with their institutional gender policies. Financial and time investments
+
+were also allocated to create knowledge and build gender capacity at all levels and across all personnel within the
+
+entities. Additionally, training programs and peer learning activities prioritized gender equality and diversity.
+
+Beyond these efforts, the project’s overall activities were gender-neutral in nature, with no discernible gender-
+
+differentiated impacts or risks were identified during appraisal.
+
+
+
+Institutional Strengthening
+
+
+
+44.      PSRRP activities were inherently designed to strengthen the institutional frameworks of the selected
+
+entities. The project laid Key foundations to: (i) improve efficiency and accountability in the delivery of select
+
+services through business process reengineering; (ii) establish and consistently implement a performance
+
+management system; (iii) leverage digital solutions for enhance service delivery; and (iv) upgrade and ensure
+
+compliance with the CSCs. Overall, the project introduced fundamental institutional reforms that require expansion
+
+and consolidation over time to sustain the institutional capacity built through its implementation.
+
+
+
+45.      Fostering Cross-institutional learning and coordination. The PSRRP significantly strengthened cross-
+
+institutional learning and coordination. The project effectively facilitated platforms where entities could exchange
+
+ideas, share lessons, and discuss what worked and what did not Quarterly progress reviews, attended by technical
+
+teams and heads of entities, enhanced communication and fostered collaboration. These reviews promoted healthy
+
+competition as entities sought to emulate good practices, creating a spirit of continuous improvement and
+
+maximizing the benefits of the reforms. Additionally, the cross-institutional dialogue enabled entities to understand
+
+the political economy of common challenges and collaborate on solutions. If sustained, the improved coordination
+
+under the PSRRP has the potential to deliver long-term benefits for the country’s institutional and governance
+
+capacity.
+
+
+
+
+
+
+
+
+
+III. KEY FACTORS AFFECTED IMPLEMENTATION AND OUTCOME
+
+
+
+A. KEY FACTORS DURING PREPARATION
+
+
+
+46.      The three key factors that affected implementation and outcome are as follows: First is the delay in
+
+effectiveness. The project was prepared over a twelve-month period and approved by the Executive Board of the
+
+World Bank on November 23, 2018. However, the project did not become effective until May 8, 2019, almost six
+
+months later. This delay in effectiveness was compounded by subsequent implementation delays, from which the
+
+project never fully recovered. Second, the GoG had an opportunity to access a project preparation advance (PPA).
+
+Although the GoG was aware of the option to access a PPA, the request was not submitted early in the preparation
+
+
+
+                                                                                                              Page 16
+
+           The World Bank
+
+           Public Sector Reform for Results Project (P164665)                                                                ICR DOCUMENT
+
+
+
+
+
+      phase. As a result, the GoG did not secure a PPA. This missed opportunity meant that anticipated implementation
+
+      challenges, particularly those related to procurement and capacity identified during the Bank’s preparation
+
+      assessments were not addressed early. If a PPA had been acquired and used effectively, it could have mitigated
+
+      these challenges by initiating critical procurement activities ahead of time. Finally, there was a high TTL turnover.
+
+      The project experienced multiple changes in TTLs, starting with the replacement of the initial TTL during the
+
+      preparation phase. The new TTL finalized preparation and appraised the project. Several subsequent TTL changes
+
+      occurred during implementation. While turnover is not uncommon in Bank operations, these transitions caused
+
+      disruptions. Counterparts needed time to establish trust with incoming TTLs, and the new TTLs required time to
+
+      understand the implementation context and the political economy dynamics. These factors adversely affected
+
+      project implementation and may have ultimately impacted project outcomes.
+
+
+
+      B. KEY FACTORS DURING IMPLEMENTATION
+
+
+
+     (a) Factors subject to the control of the government/ and or implementing entities
+
+
+
+     47. First, the GoG did not provide the strong leadership and coordination necessary to rally the implementing
+
+     entities to and ensure the delivery of agreed commitments. A different implementation mechanism with sufficient
+
+     and lasting authority could have guaranteed stronger coordination and management of the reform, leading to better
+
+     outcomes. During the project preparation, it was understood that the OSM, (later OSPA), possessed adequate
+
+     political capital and policy leverage needed to lead the transformation of the public sector. The OSM had led the
+
+     preparation of the National Public Sector Reform Strategy (NPSRS) and was seen as the custodian of the reforms.
+
+     However, the anticipated coordination and supervision role that the OSM was expected to carry out did not
+
+     materialize, partly due to capacity issues. Over time, the OSM's power began to dwindle, and the political capital
+
+     associated with this office continued to decrease, culminating in a shift to the role of Senior Presidential Advisor
+
+     (SPA). This reorganization significantly affected the OSM’s ability to lead the expected reforms and, in turn, impacted
+
+     the success of the project.
+
+
+
+     48. Second, procurement delays at the Central Tender Review Committee (CTRC) level adversely affected
+
+     implementation. Ghana’s local procurement processes are cumbersome and led to delays in project implementation.
+
+     By law, procurements above a threshold of 1 million Ghanaian Cedis (US$ equivalent) are referred to the CTRC for
+
+     review and approval. Because of the low threshold nearly all procurement items required the approval of the CTRC.14
+
+     The CTRC’s sittings were conducted on an ad hoc basis, creating uncertainty about the timeline for the completion
+
+     of the approval process. This in turn was exacerbated by the fact that the CTRC had a backlog of reviews. For instance,
+
+     the consultancy for the gender action plans was approved by the CTRC after a 7-months delay.
+
+
+
+     (b) Factors subject to World Bank control
+
+
+
+     49. The World Bank could have controlled three factors that adversely affected project implementation and
+
+     outcomes. First, the high TTL turnover. The project experienced several changes in Task Team Leaders (TTLs) during
+
+     both preparation and implementation. These frequent changes interrupted implementation as new TTLs took time
+
+     to understand the dynamics of the context. Similarly, counterparts took time to build trust and confidence in the new
+
+     TTLs, each of whom brought a different management style. Second, the Bank could have been more proactive in
+
+     addressing implementation challenges. Issues were identified early after effectiveness, but no action was taken to
+
+
+
+14With the changes in the exchange rate between the Ghana Cedi and the US$, the threshold, originally equivalent to US$250,000 at the time of
+
+the law amendment in 2016, was about US$60,000 at the time of project implementation.
+
+
+
+                                                                                                                                     Page 17
+
+             The World Bank
+
+             Public Sector Reform for Results Project (P164665)                                                   ICR DOCUMENT
+
+
+
+
+
+       address them. For example, the Task Team recognized the need to restructure the project in February 2020, just a
+
+       few months after effectiveness, but the first restructuring did not occur until two years later. Finally, implementation
+
+       support was inadequate for a variety of reasons. Formal implementation missions were not conducted regularly, and
+
+       aide memoires were not always prepared and filed as required. While Implementation Status Reports (ISRs) were
+
+       completed diligently and key issues were documented, no follow-up was conducted to address the challenges
+
+       identified. Although in-person missions were affected by COVID-19, the Bank had the opportunity to use virtual tools
+
+       to continue supporting implementation and document findings in formal aide-memoires.
+
+
+
+       (c) Factors outside the control of government and/ implementing agencies
+
+
+
+       50. The onset of the COVID-19 pandemic in early 2020, approximately eight months after project effectiveness,
+
+       significantly undermined full and proper implementation. Additionally, the political climate in the second half of
+
+       2020, with attention focused on the upcoming elections, further slowed progress. The few gains the project had
+
+       made were almost entirely stalled. The December 2020 elections also resulted in key institutional changes, such as
+
+       the replacement of the OSM with the OSPA and the MoME with the MES. 15 In general, it takes a considerable amount
+
+       of time to reconstitute government after elections in Ghana, given the number of positions that must be filled. As a
+
+       result, significant implementation time was lost in the first half of 2021. Combined with the delay in project
+
+       effectiveness, the project had only about two full years of implementation.
+
+
+
+       IV. BANK PERFORMANCE, COMPLIANCE ISSUES, AND RISK TO DEVELOPMENT OUTCOME
+
+
+
+
+
+        A. QUALITY OF MONITORING AND EVALUATION (M&E)
+
+
+
+
+
+        M&E Design
+
+
+
+        51.      The project’s Results Framework (RF) formed the foundation for monitoring results. Each implementing
+
+        entity was responsible for providing the PMU with data and information about implementation progress and results.
+
+        This data was collated by a dedicated M&E specialist within the PMU, whose overall responsibility was to track and
+
+        report on the status of results indicators. Additionally, an Independent Verification Agent (IVA) was contracted to
+
+        confirm and verify the results of the PBCs. The RF had four revised PDO indicators. However, some indicators were
+
+        repeated at the Intermediate Results Indicators (IRI) level and were also reflected as PBCs, creating overlaps and
+
+        inconsistencies. For instance, an entity could achieve a PDO-level indicator (which had a lower target) but fail to
+
+        achieve the corresponding IRI and PBC (which had higher targets). For example, at the PDO level, the target for
+
+        issuing driver’s licenses within 45 days of passing the driving test was 60 percent, which was achieved. However,
+
+        the same indicator at the IRI and PBC levels had a target of 90 percent, which was not achieved. Furthermore,
+
+        certain indicators were misaligned with the mandates of the implementing entities. For example, the Passport
+
+        Office (PO) was evaluated on the issuance of passports, but the indicator conflated issuance with delivery or
+
+        collection, responsibilities that do not fall under the PO's mandate. Similarly, a complaints-related indicator required
+
+        service users to file grievances about administrative services with the Commission on Human Rights and
+
+        Administrative Justice (CHRAJ), whereas CHRAJ clarified during ICR discussions that such complaints should be
+
+        directed to the respective service entities, not CHRAJ.
+
+
+
+        52.   The RF lacked provisions for monitoring g and evaluating key aspects of the project beyond results. Also,
+
+        the M&E design did not effectively integrate the RF, the entities’ existing M&E systems, planned surveys, and
+
+
+
+15   However, the personnel remained the same.
+
+
+
+                                                                                                                         Page 18
+
+    The World Bank
+
+    Public Sector Reform for Results Project (P164665)                                                    ICR DOCUMENT
+
+
+
+
+
+support to the MoME, later the MES. This fragmented approach meant that the overall M&E system could not
+
+comprehensively draw on or leverage available data to assess progress effectively. Consequently, the project’s M&E
+
+efforts were limited to snapshots of results while neglecting critical "softer" process-oriented aspects that could
+
+have provided valuable insights for monitoring and evaluation.
+
+
+
+M&E Implementation
+
+
+
+53.      The implementation of M&E faced significant challenges, with data being scarce, difficult to collect, and
+
+challenging to analyze. In the early stages of project implementation, up to 2021, the PMU failed to provide
+
+adequate data on progress toward RF targets. The World Bank had to collect data directly from implementing
+
+entities to populate the Implementation Status Reports (ISRs). The PMU often submitted progress reports late, and
+
+these reports focused on general updates rather than specific results. Delays in formal implementation support
+
+missions also hampered the ability to address M&E challenges effectively. High-level communication about M&E
+
+shortcomings, such as the delayed contracting of the IVA and its subsequent impact on verifying PBC results, could
+
+have improved outcomes.
+
+
+
+M&E Utilization.
+
+
+
+54.       The utilization of the M&E framework was weak. It was not systematically used to inform decision-making,
+
+adjust the pace of implementation, or address project performance issues identified early on. M&E implementation
+
+was largely limited to occasional reporting on progress or lack thereof against indicators. While the PMU developed
+
+and shared results stories for achieved indicators and milestones with stakeholders, including the public, there is
+
+little evidence in project documentation to suggest that M&E data was strategically or operationally utilized. The
+
+data was not leveraged to guide project implementation, influence policymaking, or engage clients in meaningful
+
+ways.
+
+
+
+Justification of Overall Rating of Quality of M&E
+
+
+
+Overall Rating of Quality of M&E: Modest
+
+
+
+55.     Although the Bank team was diligent about updating the RF, the information in the project documents
+
+about the entire M&E system is not comprehensive, and there is little evidence to demonstrate that the full M&E
+
+system was implemented and utilized. Given the significant shortcomings in the M&E system, the overall rating of
+
+the quality of M&E is Modest.
+
+
+
+    B. ENVIRONMENTAL, SOCIAL, AND FIDUCIARY COMPLIANCE
+
+
+
+56.          The PSRRP was rated as Category C for environmental and social factors at appraisal. Therefore, no
+
+environmental and social standards policies were triggered. The project did not include activities that could cause
+
+social risk or negatively affect the population, or any activities that required land acquisition or caused any physical
+
+or economic displacement.
+
+
+
+57.         The PMU’s procurement capacity was assessed at appraisal and deemed to be insufficient, and the
+
+procurement risk for the project was rated High. This was due to largely to the PMU’s lack of experience and
+
+inadequate knowledge of the Bank’s procurement procedures and the numerous procurement packages under the
+
+project. To mitigate the risks, measures were put in place to provide continuous capacity building for the PMU,
+
+including formal procurement training at the Ghana Institute of Management and Public Administration, as well as
+
+
+
+                                                                                                                Page 19
+
+           The World Bank
+
+           Public Sector Reform for Results Project (P164665)                                                                      ICR DOCUMENT
+
+
+
+
+
+      World Bank-organized training and seminars. However, despite this, there were various procurement-related
+
+      challenges during implementation that negatively affected the project. Some of these have already been
+
+      documented in previous sections of the ICR. They include: (i) the PMU’s poor track record of preparing quality
+
+      procurement documents and leading the implementation of the procurement process; (ii) opaque procurement
+
+      processes that often disregarded the Bank’s policies and procedures; and (iii) poor procurement planning, including
+
+      not publishing contract awards; inordinate delays in launching and finalizing procurements; insufficient
+
+      transparency and competition in procurement (as evidenced by the low number of bids and expressions of
+
+      interests); ineffective record keeping; and challenges with coordination between the procurement specialist and
+
+      project management. In the end, two key procurements the purchase of the biometric passport printers and the
+
+      recruitment of consultants to establish the beneficiary feedback mechanism were never completed, thus
+
+      compromising the achievement of the PDO.
+
+
+
+      58.     Financial management (FM) performance was mostly unsatisfactory during the implementation of the
+
+      project. There were challenges with: (i) internal controls; (ii) insufficient documentation; (iii) delays in the
+
+      submission of Interim unaudited Financial Report (IFRs); (iv) slow disbursements; (v) delayed retirement of funds by
+
+      the beneficiary agencies; and (vi) significant variances between actual and budgeted expenditures, and fixed asset
+
+      management which were never fully resolved, thereby justifying the high-risk rating that was provided at appraisal.
+
+      FM staffing was somewhat adequate, and the external audit function was strong, despite some delays in submitting
+
+      reports. The 2024 external audit report will be submitted no later than June 30, 2025.
+
+
+
+      C. BANK PERFORMANCE
+
+
+
+
+
+      Quality at Entry
+
+
+
+      59.      The PSSRP, which was aligned with the CPS at the time, was credibly informed by analytical work. The
+
+      project’s strategic relevance was justified by the GoG’s own strategic documents, including the NPSRS which
+
+      underscored the need for reforms in the public sector to improve service delivery. Preparation involved
+
+      consultations with various stakeholders. Effort was made to embed the implementation arrangements under the
+
+      auspices of a high-level government official- Office of the Senior Minister- reflecting the Bank’s understanding of
+
+      the reform context at the time and the need for strategic stewardship. All the required assessments including
+
+      environment and social, procurement and financial management assessments, were conducted to confirm the
+
+      availability of the necessary structures for implementation and the Bank gave recommendations to remedy
+
+      shortcomings, including in those related to capacity for procurement and financial management. The GoG did not
+
+      implement some of Bank’s suggestions, including the need to hire outside professionals where there was limited
+
+      capacity. The GoG preferred to use civil servants in project implementation roles.
+
+
+
+      Quality of supervision
+
+
+
+      60.     The quality of supervision was weak in the beginning, but it improved over time. Although the initial ISRs
+
+      noted the need to provide intensive implementation support, there is no documentation as to how or if such
+
+      support was provided until the second half of 2021 when a new TTL and co-TTL relocated to Ghana. The project was
+
+      restructured on the heels of their arrival and implementation began to improve.16 The ground Task Team held
+
+      weekly check-in meetings and quarterly progress workshops to improve performance and address implementation
+
+
+
+
+
+16In essence, there had barely been any implementation of the core project activities before the 2022 restructuring. Therefore, the project was only
+
+implemented in earnest for 2 years, that is, between June 2022 and June 2024.
+
+
+
+                                                                                                                                           Page 20
+
+    The World Bank
+
+    Public Sector Reform for Results Project (P164665)                                                ICR DOCUMENT
+
+
+
+
+
+challenges. One of the workshops included a three-day working session where the entities developed the technical
+
+notes for the PBCs, thus significantly improving their understanding of the PBC model and what was required to
+
+achieve the PBCs. The Bank team was proactive in identifying threats to the achievement of the development
+
+objectives and reported these threats candidly and in a timely manner. However, action was not taken to address
+
+implementation delays. Even though the project was restructured several times, these efforts did not reorient the
+
+project to make the PDO achievable. The Midterm Review was ill-timed, and its recommendations were not
+
+ambitious. The recommendations were also inconsequential because the project was about to close.
+
+
+
+Justification of Overall Rating of Bank Performance
+
+
+
+Moderately Unsatisfactory
+
+
+
+61.      There were significant shortcomings in the Bank’s performance. The frequent changes in TTLs affected
+
+the performance of the Bank during implementation. This proved disruptive in terms of understanding the dynamics
+
+of the implementation context. Moreover, counterparts were slow to build trust with new TTLs and TTLs were slow
+
+to earn the confidence of the counterparts-- in part of due to different management styles-- thus undermining quick
+
+decisions, such as the rationale for restructuring in the early days of the project. Bank supervision was also weak,
+
+with the Task Team ignoring early signs of implementation problems. Given the circumstances, the Bank’s overall
+
+performance is rated Moderately Unsatisfactory.
+
+
+
+D. RISK TO DEVELOPMENT OUTCOME
+
+
+
+
+
+62.    The modest outcomes achieved under the project in pursuit of the development objective are at high risk.
+
+The project only laid the foundation for the achievement of the development objective. Many key activities that
+
+were envisaged under the PSRRP remain unimplemented and/or incomplete. In fact, during the ICR discussions,
+
+almost all the entities requested funds and time to complete the activities and the sustainability plans that were
+
+shared seemed to be centered around completing the activities, as opposed to sustaining or building on the
+
+outcomes or impacts that these activities should have had under the PSRRP.
+
+
+
+63.      The reforms under the PSRRP are not one-shot reforms, and more work is needed. Structural reforms —
+
+such as the streamlining of processes, reorganizing key functions, and establishing a performance management
+
+system — take time to yield tangible results. Furthermore, they need to be sustained and enhanced over time. It is
+
+hoped that the catalytic effects of these reforms are harnessed as the GoG moves forward with improving efficiency
+
+and accountability in service delivery. Training provided under the project strengthened the capacities of key
+
+personnel in the public sector administration. However, training and capacity building need to be continuously
+
+updated to keep pace with new technologies and changes. With funds from other development partners and indeed,
+
+using its own budget, it is possible for the GoG to capitalize on key reform elements initiated under the PSRRP.
+
+
+
+      V.    LESSONS AND RECOMMENDATIONS
+
+
+
+64.    Project design should include sufficient lead time for implementation and anticipate delays that the Bank
+
+does not have control over. The project was designed to be implemented within a five-year period. The project was
+
+later affected by implementation delays resulting from delays in effectiveness and the impact of an election.
+
+Additionally, procurement delay is widely known as a problem across the portfolio. These problems could have been
+
+anticipated and measures built in to ensure lower impact on project implementation and outcomes. Secondly,
+
+
+
+
+
+                                                                                                             Page 21
+
+    The World Bank
+
+    Public Sector Reform for Results Project (P164665)                                                 ICR DOCUMENT
+
+
+
+
+
+selection of participating entities should be undertaken systematically within a strong methodology that ensures
+
+that only entities that are ready to implement are included. Such a methodology should include strict and
+
+transparent selection criteria to ensure that selected entities have the desire and capacity to drive change and that
+
+proposed changes are part of institutional plans. A national strategy for reform does not substitute agency level
+
+ownership and commitment to reform. Prioritizing and sequencing activities appropriately based on the operating
+
+environment and the client’s capacity is also key. Implementing entities under the project were selected based on
+
+functions rather than demand from the institution. The lack of commitment was evident in the low level of
+
+outcomes. Thirdly, Task Team should be realistic an introduce restructuring as soon as it is clear that there are
+
+implementation challenges related to the design on the reform context. Leverage restructuring opportunities to
+
+salvage poorly performing projects can help turn around struggling project in good time. The PSRRP showed signs
+
+of struggle very early on during implementation, but the Task Team did not initiate restructuring until two years
+
+later. Fourth, PPAs can be strategically used to strengthen project preparation and lay the foundations for strong
+
+implementation. While the Bank offered the opportunity for a PPA, the GoG was reluctant to, and ultimately did
+
+not, take advantage of the PPA. The PPA would have been useful to initiate the procurement packages such as
+
+those for passport printers earlier or to support capacity building of implementation teams.
+
+
+
+
+
+
+
+
+
+                                                                                                              Page 22
+
+              The World Bank
+
+              Public Sector Reform for Results Project (P164665)                                                                                                                 ICR DOCUMENT
+
+
+
+
+
+                                                                ANNEX 1. RESULTS FRAMEWORK AND KEY OUTPUTS
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@icrresultframework#doctemplate
+
+ A. RESULTS FRAMEWORK
+
+
+
+
+
+PDO Indicators by Outcomes
+
+
+
+1. To improve the efficiency of Selected Entities in the delivery of selected services
+
+           Indicator Name                             Baseline                       Closing Period (Original)               Closing Period (Current)           Actual Achieved at Completion
+
+                                            Result          Month/Year                Result          Month/Year               Result          Month/Year             Result    Month/Year
+
+i. Sixty percent (60%) regular service       20.00           Oct/2020                                                          60.00             Jun/2024             15.60      Jun/2024
+
+passport applicants notified and         Comments on achieving targets          Not achieved. The biometric passport printers required were not procured. Also, there was no consensus
+
+issued with passports within 21                                                 between the World Bank and the GoG on what "issued" means, with the passport office contending that legally,
+
+working days of application after                                               it is only expected to issue i.e. grant the passport to the applicant and not to deliver.
+
+biodata capture, each calendar year
+
+(Percentage)
+
+Sixty percent (60%) of applicants            20.00           Oct/2020                                                     60.00             Jun/2024               70.00            Jun/2024
+
+notified and issued with drivers’        Comments on achieving targets          Exceeded. 70 percent of applicants were notified and issued with drivers' licenses within 45 days of passing a
+
+licenses within 45 days of passing                                              driving test.
+
+driving test (Percentage)
+
+                                             0.00            Nov/2021                                                            6.00             Jun/2024               8.00             Jun/2024
+
+Implementation of institutional
+
+                                         Comments on achieving targets          Exceeded. 8 institutional gender strategies and action plans were implemented. ((i. PSC, ii. Ghana Immigration
+
+gender strategy action plan
+
+                                                                                Service, iii. Ghana Health Service, iv. Lands Commission, v. DVLA, vi. Ministry of Gender, Children and Social
+
+(Number)
+
+                                                                                Protection, vii. Ministry of Health, and viii . Office of the Head of the Civil Service.
+
+2. To improve the accountability of Selected Entities in the delivery of selected services
+
+           Indicator Name                            Baseline                        Closing Period (Original)                  Closing Period (Current)             Actual Achieved at Completion
+
+                                            Result          Month/Year                Result          Month/Year          Result          Month/Year           Result         Month/Year
+
+iii. For at least 5 selected public          0.00            Oct/2021                                                      90.00           Jun/2024             0.00           Jun/2024
+
+services, 90 percent of service users    Comments on achieving targets          Not achieved. The procurement to recruit the consultants who would establish the enhanced feedback
+
+are sent a text message with the                                                mechanism was never completed.
+
+receipt number/tracker numbers,
+
+
+
+
+
+
+
+                                                                                                                                                                                              Page 23
+
+              The World Bank
+
+              Public Sector Reform for Results Project (P164665)                                                                                                               ICR DOCUMENT
+
+
+
+
+
+and the date of delivery of service for
+
+feedback (Percentage)
+
+
+
+
+
+Intermediate Indicators by Components
+
+
+
+
+
+1. Strengthening Organizational Performance
+
+           Indicator Name                              Baseline                     Closing Period (Original)              Closing Period (Current)            Actual Achieved at Completion
+
+                                              Result              Month/Year        Result           Month/Year            Result           Month/Year             Result          Month/Year
+
+PSC and OHCS publish updated                    No                 Jun/2018                                                  Yes             Jun/2024               Yes              Jun/2024
+
+templates and formats for Client          Comments on achieving targets        Achieved. Both the PSC and the OHCS published updated templates and CSCs on their websites. 1. OHCS:
+
+Service Charters (CSC)/Client Service                                          https://ohcs.gov.gh/documents/ 1. PSC, - https://psc.gov.gh/public-services-commission-service-charter/
+
+Standards (CSS) applicable to
+
+Selected Entities on their websites
+
+(Yes/No)
+
+Complaints about administrative                0.00                Jun/2018                                                 70.00            Jun/2024               0.00             Jun/2024
+
+services filed in the CHRAJ by service    Comments on achieving targets        Not achieved. CHRAJ did not receive or resolve any complaints about administrative services.
+
+users, which are resolved within the
+
+stipulated timeline (Percentage)
+
+                                               0.00                Jun/2018                                                 12.00            Jun/2024               6.00             Jun/2024
+
+                                          Comments on achieving targets        Not Achieved. The ICR team only validated compliance against 6 CSCs published on a website. 1. PSC, -
+
+Compliance against 12 number of                                                https://psc.gov.gh/public-services-commission-service-charter/ 2. (Ghana Immigration Service, 3. Ghana Health
+
+Client Service Charters (CSC)/Client                                           Service, 4. Lands Commission 5. Drivers and Vehicles Licensing Authority https://www.dvla.gov.gh/files/DVLA-
+
+Service Standards (CSS) is published                                           SERVICE-DELIVERY-CHARTER-OCTOBER-2023.pdf 6. Social Security and National Insurance Trust (SSNIT). OHCS
+
+on a website. (Number) Component                                               Institutions 1. OHCS: https://ohcs.gov.gh/documents/ see page 2 of the page at the bottom right 2. Ministry of
+
+                                                                               Health: https://www.moh.gov.gh/wp-content/uploads/2021/04/MOH-CHARTER.pdf 3. MLGDRD:
+
+                                                                               http://www.mlgrd.gov.gh/index.php/media2/2021-orientation-downloads 4. Ministry of Food and Agriculture,
+
+                                                                               5. Ministry of Children, Gender, and Social Protection, and 6. MESTI
+
+                                               0.00                Jun/2018                                                 6.00             Jun/2024               8.00             Jun/2024
+
+Implementation of institutional
+
+gender strategy action plan               Comments on achieving targets        Exceeded. The following entities implemented a gender strategy action plan (i. PSC, ii. Ghana Immigration
+
+(Number) Component                                                             Service, iii. Ghana Health Service, iv. Lands Commission, v. DVLA, vi. Lands Commission, vii. Social Security and
+
+                                                                               National Insurance Trust, and viii .
+
+2. Improving Efficiency, Accountability and Citizen Engagement in the Delivery of Selected Services
+
+
+
+
+
+
+
+                                                                                                                                                                                            Page 24
+
+              The World Bank
+
+              Public Sector Reform for Results Project (P164665)                                                                                                               ICR DOCUMENT
+
+
+
+
+
+           Indicator Name                            Baseline                     Closing Period (Original)               Closing Period (Current)            Actual Achieved at Completion
+
+                                            Result              Month/Year        Result           Month/Year             Result           Month/Year             Result           Month/Year
+
+Passport Office: Regular-service             0.00                Jun/2018                                                 40.00             Jun/2024              15.60             Jun/2024
+
+passport applicants issued passport    Comments on achieving targets         Not achieved. The biometric passports that were required were never procured. There was no agreement on
+
+within 21 working days of                                                    the definition of "issued" with the passport office contending that it did not have a legal responsibility to deliver
+
+application, each calendar year                                              passports to applicants.
+
+(Percentage)
+
+                                             0.00                Jun/2018                                                 600.00            Jun/2024              731.00            Jun/2024
+
+BDR: Births registered within 3        Comments on achieving targets         Exceeded. Registrations were enhanced by using digital means i.e. birth registration could be processed online
+
+months of the event (Number                                                  on the website and on the app, and by increasing registration points in the field - especially in rural
+
+(Thousand))                                                                  communities. The inclusion of the birth notification form in the maternal and child health record book also
+
+                                                                             helped to increase registrations.
+
+                                             0.00                Dec/2017                                                 400.00            Jun/2024              91.00             Jun/2024
+
+BDR: Deaths registered within 3
+
+months of the event (Number            Comments on achieving targets         Not achieved. There were delays in signing an MoU with all the relevant faith based organizations which would
+
+(Thousand))                                                                  have been instrumental in extending death registration coverage and raising awareness of its importance,
+
+                                                                             especially in the rural areas.
+
+                                             No                  Jun/2018                                                   Yes             Jun/2024                No              Jun/2024
+
+MLGRD: Inspectorate Division for
+
+MMDAs is receiving MMDA revenue        Comments on achieving targets         Not achieved. The achievement of the indicator relied on establishing an interface with the Ghana Integrated
+
+and expenditure data and financial                                           Financial Management System. The interface was developed but not rolled out to the relevant MMDAs. Also,
+
+statements (Yes/No)                                                          there were significant delays in the development of the interface, which was eventually only completed at the
+
+                                                                             beginning of 2024.
+
+                                             0.00                Jun/2018                                                  7.00             Jun/2024               0.00             Jun/2024
+
+Enhanced beneficiary feedback          Comments on achieving targets         Not achieved. The procurement for the consultants who were supposed to develop the enhanced beneficiary
+
+(Percentage)                                                                 feedback mechanism was never completed.
+
+
+
+
+
+                                         No specific             Jun/2018                                          Non-cash modes of        Jun/2024           Action Plan          Jun/2024
+
+BDR takes measures to meet the         measures defined                                                             payment for BDR                             prepared
+
+targeted number of births registered                                                                                services are fully
+
+within 3 months of the event                                                                                          operational
+
+(Text) Component                       Comments on achieving targets         Achieved. An action plan and related strategies were developed and implemented and awareness raising
+
+                                                                             initiatives were conducted to increase birth registrations.
+
+                                            45.00                Oct/2021                                                 90.00             Jun/2024              45.00             Jun/2024
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                                            Page 25
+
+              The World Bank
+
+              Public Sector Reform for Results Project (P164665)                                                                                                              ICR DOCUMENT
+
+
+
+
+
+Improved Efficiency in the issuance of Comments on achieving targets          Achieved. An action plan and related strategies were developed and implemented and awareness raising
+
+driver’s license and vehicle licensing.                                       initiatives were conducted to improve efficiency in the issuance of drivers' licenses and vehicle licensing.
+
+(Percentage) Component
+
+                                        Independent Third-    Jun/2018                                              At least 7 Selected     Jun/2024         An enhanced            Jun/2024
+
+Complaints received by independent      Party Project-Level                                                          Entities resolve                         beneficiary
+
+Third-Party Project-level Complaint Complaint Handling                                                                  beneficiary                            feedback
+
+Handling Entity, and Selected Entities, Entity has not been                                                         complaints within                      mechanism is being
+
+of which resolved within specified          contracted                                                               specified times                          developed.
+
+times (Text)                              Comments on achieving targets       Not achieved. An enhanced beneficiary mechanism was never developed because the procurement was not
+
+                                                                              finalized.
+
+3. Improving Monitoring and Evaluation
+
+            Indicator Name                            Baseline                     Closing Period (Original)              Closing Period (Current)            Actual Achieved at Completion
+
+                                             Result              Month/Year        Result           Month/Year            Result           Month/Year             Result          Month/Year
+
+Monitoring and Evaluation Units in            0.00                Jun/2018                                                 20.00            Jun/2024              25.00             Jun/2024
+
+Selected Entities, collecting data and   Comments on achieving targets        Achieved. The MES collected M&E reports from 25 MDAs. However, the quality of monitoring performance
+
+monitoring annual performance                                                 targets has been low in many of the MDAs.
+
+targets (Number)
+
+4. Project Management, Coordination and Public Reporting
+
+            Indicator Name                            Baseline                     Closing Period (Original)              Closing Period (Current)            Actual Achieved at Completion
+
+                                             Result              Month/Year        Result           Month/Year            Result           Month/Year             Result          Month/Year
+
+                                              0.00                Jun/2018                                                 4.00             Jun/2024               5.00             Jun/2024
+
+PBC independent verification agent
+
+reports submitted on a semi-annual       Comments on achieving targets        Not achieved. There were significant delays in the contracting of an IVA and when it was eventually contracted,
+
+basis (Number)                                                                there were delays in the submission of verification reports. In the end, 5 reports were submitted throughout the
+
+                                                                              life of the project.
+
+
+
+
+
+
+
+Performance-based Conditions (PBC)
+
+
+
+
+
+ Period                                                                                                            Period Definition
+
+ Period 1                                                   January 1, 2019 to December 31, 2019
+
+ Period 2                                                   January 1, 2020 to December 31, 2020
+
+ Period 3                                                   January 1, 2021 to December 31, 2021
+
+
+
+
+
+                                                                                                                                                                                             Page 26
+
+            The World Bank
+
+            Public Sector Reform for Results Project (P164665)                                                                                             ICR DOCUMENT
+
+
+
+
+
+Period 4                                                    January 1, 2022 to December 31, 2022
+
+Period 5                                                    January 1, 2023 to December 31, 2023
+
+Period 6                                                    January 1, 2024 to June 20, 2024
+
+
+
+
+
+                              Baseline                         Period 1           Period 2               Period 3            Period 4       Period 5       Period 6
+
+1:BDR takes measures to meet the targeted number of            Achievement Level:
+
+births registered within 3 months of the event (Text )
+
+Original/Revised Value        No specific measures             (A) Deploy           Online and           Non-cash modes
+
+                              defined                          means of             mobile apps to       of payment for
+
+                                                               transport to         access BDR           BDR services are
+
+                                                               increase mobility    services are Fully   fully operational
+
+                                                               of BDR staff; (B)    Operational and
+
+                                                               BDR website is       providing data
+
+                                                               fully operational    and information
+
+                                                                                    as intended
+
+Allocated Amount               0.00                            0.00                 0.00                 0.00                900,000.00     900,000.00     0.00
+
+Actual Value                                                   0.00                 0.00                 0.00                351,000        590,000        730,000
+
+Actual Amount                                                  0.00                 0.00                 0.00                0.00           702,558.00     0.00
+
+2:Improved Efficiency in the issuance of driver’s license      Achievement Level:
+
+and vehicle licensing. (Percentage )
+
+Original/Revised Value         45.00                                                                     70.00
+
+Allocated Amount               0.00                            0.00               0.00                   200,000.00          1,000,000.00   900,000.00     0.00
+
+Actual Value                                                   0.00               0.00                   4 hours             0.00           63             70
+
+Actual Amount                                                  0.00               0.00                   360,000.00          0.00           0.00           555,556.00
+
+3:Compliance against 12 number of Client Service               Achievement Level:
+
+Charters (CSC)/Client Service Standards (CSS) is
+
+published on a website. (Number )
+
+Original/Revised Value         0.00                                                                      4.00
+
+Allocated Amount               0.00                            0.00                 0.00                 0.00                600,000.00     1,200,000.00   0.00
+
+Actual Value                                                                                             0.00                0.00           6              12
+
+Actual Amount                                                                                            0.00                0.00           900,000.00     900,000.00
+
+4:Implementation of institutional gender strategy              Achievement Level:
+
+action plan (Number )
+
+Original/Revised Value         0.00                                                                      2.00
+
+
+
+
+
+
+
+                                                                                                                                                                        Page 27
+
+           The World Bank
+
+           Public Sector Reform for Results Project (P164665)                                           ICR DOCUMENT
+
+
+
+
+
+ Allocated Amount         0.00                    0.00          0.00   0.00   200,000.00   400,000.00   0.00
+
+ Actual Value                                     0.00          0.00   0.00   0.00         5.00         0.00
+
+ Actual Amount                                    0.00          0.00   0.00   0.00         500,000.00   0.00
+
+
+
+
+
+
+
+
+
+B. KEY OUTPUTS
+
+
+
+
+
+
+
+
+
+                                                                                                               Page 28
+
+       The World Bank
+
+       Public Sector Reform for Results Project (P164665)                                                                                        ICR DOCUMENT
+
+
+
+
+
+
+
+tcome 1. To improve the efficiency of Selected Entities in the delivery of selected services
+
+                                                                               1. Sixty percent (60%) regular service passport applicants notified and issued
+
+                                                                               with passports within 21 working days of application after biodata capture,
+
+                                                                               each calendar year
+
+PDO Indicators
+
+                                                                               2. Sixty percent (60%) of applicants notified and issued with drivers’ licenses
+
+                                                                               within 45 days of passing driving test
+
+                                                                               3. Implementation of institutional gender strategy action plan
+
+                                                                               1. Supplied ICT and videoconferencing equipment to OHCS
+
+                                                                               2. Upgraded the OHCS website
+
+                                                                               3. Financed an annual civil service week to recognize high performing chief
+
+                                                                                  directors and directors of the civil service
+
+                                                                               4. PSC - developed and implemented institutional gender action plans with
+
+                                                                                  scorecards
+
+                                                                               5. Updated the template for CSCs and published the templates on the entities’
+
+                                                                                  websites
+
+                                                                               6. Developed and implemented a framework to monitor compliance reporting
+
+                                                                                  on CSCs
+
+                                                                               7. Reviewed and updated the Public Services Commission Act, 1994 (Act 482)
+
+Key Outputs
+
+                                                                               8. Reengineered business processes at the DVLA
+
+(linked to the achievement of the PDO Outcome)
+
+                                                                               9. Developed a queue management system at DVLA
+
+                                                                               10.      Developed a DVLA mobile service
+
+                                                                               11.      Implemented Tertiary Education Drive (TertDrive)
+
+                                                                               12.      Provided training and capacity building on tracking organizational and
+
+                                                                                individual performance
+
+                                                                               13.      Streamlining vehicle inspection and registration processes
+
+                                                                               14.      Developed and implemented a DVLA mobile app,
+
+                                                                               15.      Developed and published procedures for the registration of births
+
+                                                                                and deaths
+
+                                                                               16.      Updated the BDR website to enable citizens to apply and pay for
+
+                                                                                services online
+
+
+
+
+
+                                                                                                                                                            Page 29
+
+       The World Bank
+
+       Public Sector Reform for Results Project (P164665)                                                                                       ICR DOCUMENT
+
+
+
+
+
+                                                                              17.     Digitalized old records at the BDR
+
+                                                                              18.     Developed and implemented mobile and web based applications to
+
+                                                                               support BDR service delivery
+
+                                                                              19.     Trained BDR staff and volunteers on data colelction methods
+
+                                                                              20.     Reviewed the administrative structures, procedures and policies of
+
+                                                                               the passport office
+
+                                                                              21.     Provided ICT equipment, procured biometric passport printers,
+
+                                                                               developed a web and mobile based application for the entire value chain i.e.
+
+                                                                               applying for a passport through to issuance
+
+                                                                              22.     Conducted public awareness of the streamlined passport application
+
+                                                                               procedures
+
+
+
+Outcome 2. To improve the accountability of Selected Entities in the delivery of selected services
+
+                                                                             4. For at least 5 selected public services, 90 percent of service users are sent a
+
+PDO Indicators                                                               text message with the receipt number/tracker numbers, and the date of
+
+                                                                             delivery of service for feedback
+
+                                                                              1. Strengthened the OHCS’ performance management system to evaluate civil
+
+                                                                                 servants
+
+Key Outputs                                                                   2. Strengthened CHRAJ’s policies, procedures and institutional capacity to
+
+(linked to the achievement of the PDO Outcome)                                   handle administrative services-related complaint filing, intake, processing,
+
+                                                                                 and resolution,
+
+                                                                              3. Trained select M&E staff on data collection and analysis.
+
+
+
+
+
+
+
+
+
+                                                                                                                                                            Page 30
+
+       The World Bank
+
+       Public Sector Reform for Results Project (P164665)                                                                                   ICR DOCUMENT
+
+
+
+
+
+
+
+Component 1. Strengthening Orgnizational Performance
+
+                                                                           1. PSC and OHCS publish updated templates and formats for Client Service
+
+                                                                           Charters (CSC)/Client Service Standards (CSS) applicable to Selected Entities
+
+                                                                           on their websites
+
+                                                                           2. Complaints about administrative services filed in the CHRAJ by service
+
+Intermediate Results Indicators
+
+                                                                           users, which are resolved within the stipulated timeline
+
+                                                                           3. Compliance against 12 number of Client Service Charters (CSC)/Client
+
+                                                                           Service Standards (CSS) is published on a website
+
+                                                                           4. Implementation of institutional gender strategy action plan
+
+                                                                           1.Updated and rolling out standardized CSC templates and formats
+
+                                                                           2.Measured compliance with updated CSCs
+
+                                                                           3.Upgraded OHCS website
+
+                                                                           4.Strengthened performance management systems and capacity of leaders
+
+                                                                           responsible for performance evaluation
+
+                                                                           5.Developed and implemented gender strategies and action plans
+
+                                                                           6.Reviewed and strengthened CHRAJ’s policies and procedures
+
+Key Outputs
+
+                                                                           7. Strengthened institutional capacity to efficiently and transparently handle
+
+(linked to the achievement of the Component)
+
+                                                                           administrative services-related complaint filing, processing and resolution
+
+                                                                           8.Developed and implemented web and mobile application based complaints
+
+                                                                           handling
+
+                                                                           9.Strengthened CHRAJ’s capacity to collect, track, and publish data on
+
+                                                                           administrative services related complaints
+
+                                                                           10.Strengthened CHRAJ’s policies, processes, and capacity for public outreach
+
+                                                                           on fairness in the delivery of administrative services
+
+
+
+Component 2. Improving Efficiency, Accountability and Citizen Engagement in the Delivery of Selected Services
+
+                                                                           1.Passport Office: Regular-service passport applicants issued passport within
+
+                                                                           21 working days of application, each calendar year
+
+Intermediate Results Indicators
+
+                                                                           2. BDR: Births registered within 3 months of the event
+
+                                                                           3. BDR: Deaths registered within 3 months of the event
+
+
+
+
+
+                                                                                                                                                       Page 31
+
+       The World Bank
+
+       Public Sector Reform for Results Project (P164665)                                                                                ICR DOCUMENT
+
+
+
+
+
+                                                                      4. MLGRD: Inspectorate Division for MMDAs is receiving MMDA revenue and
+
+                                                                      expenditure data and financial statements
+
+                                                                      5. Enhanced beneficiary feedback
+
+                                                                      6. BDR takes measures to meet the targeted number of births registered
+
+                                                                      within 3 months of the event
+
+                                                                      7. Innovation challenge and commercialization grants launched
+
+                                                                      8. Improved Efficiency in the issuance of driver’s license and vehicle licensing
+
+                                                                      9. Complaints received by independent Third-Party Project-level Complaint
+
+                                                                      Handling Entity, and Selected Entities, of which resolved within specified
+
+                                                                      times
+
+                                                                      1.Trained DVLA staff on tracking individual and organizational performance
+
+                                                                      2.Streamlined vehicle inspection and registration processes
+
+                                                                      3.Conducted public outreach initiatives on DVLA services
+
+                                                                      4.Developed and implemented mobile and web based applications to support
+
+                                                                      BDR service delivery
+
+Key Outputs                                                           5.Trained BDR staff and volunteers on data collection methods
+
+(linked to the achievement of the Component)                          6.Conducted advocacy campagins and created awareness to promote the
+
+                                                                      timely registration of deaths and births
+
+                                                                      7.Introdcued a non-cash payment system for users (BDR)
+
+                                                                      8. Provided equipment to ensure faster issuance of passports
+
+                                                                      9. Independent review of the passport office’s administrative strcutures and
+
+                                                                      procedures
+
+
+
+Component 3. Improving Monitoring and Evaluation
+
+                                                                      1. Monitoring and Evaluation Units in Selected Entities, collecting data and
+
+Intermediate Results Indicators
+
+                                                                      monitoring annual performance targets
+
+                                                                      1. MDAs trained in quality data collection
+
+Key Outputs
+
+                                                                      2.MES collected M&E reports from all 29 MDAs and monitored annual
+
+(linked to the achievement of the Component)
+
+                                                                      performance targets
+
+
+
+Component 4. Project Management, Coordination, and Public Reporting
+
+
+
+                                                                                                                                                     Page 32
+
+       The World Bank
+
+       Public Sector Reform for Results Project (P164665)                                                                 ICR DOCUMENT
+
+
+
+
+
+
+
+Intermediate Results Indicators                             1. PBC independent verification reports submitted on a semi-annual basis
+
+
+
+Key Outputs                                                 1. IVA contracted
+
+(linked to the achievement of the Component)                2. IVA conducted verifications and submitted reports
+
+
+
+
+
+
+
+
+
+                                                                                                                                       Page 33
+
+         The World Bank
+
+         Public Sector Reform for Results Project (P164665)                                               ICR DOCUMENT
+
+
+
+
+
+
+
+ANNEX 2. BANK LENDING AND IMPLEMENTATION SUPPORT/SUPERVISION
+
+
+
+
+
+    A. TASK TEAM MEMBERS
+
+
+
+
+
+  Name                                                        Role
+
+  Smile Kwawukume                                             Team Leader
+
+  Esinam Julia Nduom                                          Financial Management Specialist
+
+  Patrick Kwadwo Ansah                                        Procurement Specialist
+
+  Muhammad Abbass Rahimi                                      Procurement Specialist
+
+  Charles John Aryee Ashong                                   Procurement Specialist
+
+  Buniyaminu Abdul Kadiri                                     Procurement Specialist
+
+  Georgette Baaba Atakorah                                    Environmental Specialist
+
+  Justice Odoiquaye Odoi                                      Environmental Specialist
+
+  George Amoasah                                              Environmental Specialist
+
+  Nneka Okereke                                               Social Specialist
+
+  Kamakshi Nadisha Mubarak                                    Social Specialist
+
+  Sarah Antwi Boasiako                                        Social Specialist
+
+  Lydia Sam                                                   Procurement Team
+
+  Raymond Muhula                                              Team Member
+
+  Kobina Otu Okyne                                            Team Member
+
+  Herimpamonjy Mavoarisoa Ranaivoarivelo                      Team Member
+
+  Tatsuya Iwasaki                                             Team Member
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@icrannexstafftime#doctemplate
+
+    B. STAFF TIME & COST
+
+
+
+
+
+                                                                          Staff Time & Cost
+
+ Stage of Project Cycle
+
+                                         No. of Staff Weeks                   US$ (including travel and consultant costs)
+
+
+
+ Preparation
+
+ FY18                                                            24.780                                     232,268.98
+
+
+
+ FY19                                                            28.660                                     217,365.05
+
+
+
+
+
+                                                                                                                    Page 34
+
+        The World Bank
+
+        Public Sector Reform for Results Project (P164665)            ICR DOCUMENT
+
+
+
+
+
+FY20                                                          0.227        431.07
+
+
+
+Total                                                         53.67    450,065.10
+
+
+
+Supervision/ICR
+
+FY18                                                          0.000            .00
+
+
+
+FY19                                                         10.423     90,552.25
+
+
+
+FY20                                                         40.298    330,701.02
+
+
+
+FY21                                                         35.947    260,319.47
+
+
+
+FY22                                                         34.652    201,212.50
+
+
+
+FY23                                                         58.319    345,180.54
+
+
+
+FY24                                                         39.915    173,168.41
+
+
+
+FY25                                                         10.478     78,307.62
+
+
+
+Total                                                        230.03   1,479,441.81
+
+
+
+
+
+
+
+
+
+                                                                              Page 35
+
+       The World Bank
+
+       Public Sector Reform for Results Project (P164665)                                           ICR DOCUMENT
+
+
+
+
+
+
+
+
+
+     ANNEX 3. PROJECT COST BY COMPONENT
+
+
+
+
+
+
+
+Component                             Amount at Approval ($M)           Actual at Project Closing ($M)
+
+
+
+1. Strengthening Organizational
+
+                                                                7.43.                3 709 472.06
+
+Performance
+
+
+
+2. Improving Efficiency,
+
+Accountability and Citizen
+
+                                                                20.19                8 313 164.68
+
+Engagement in the Delivery of
+
+Selected Services
+
+
+
+3. Improving Monitoring and
+
+                                                                  3.5                2 073 631.13
+
+Evaluation
+
+
+
+4. Project Management,
+
+                                                                 2.55                5 379 232.06
+
+Coordination and Public Reporting
+
+
+
+Unallocated                                                      1.33                     0.0
+
+
+
+
+
+
+
+
+
+                                                                                                           Page 36
+
+     The World Bank
+
+     Public Sector Reform for Results Project (P164665)                                                    ICR DOCUMENT
+
+
+
+
+
+
+
+ANNEX 4. EFFICIENCY ANALYSIS
+
+
+
+The economic analysis employed an incremental approach, which compared scenarios ‘with’ and ‘without’ the
+
+project (counterfactual scenario). The economic analysis considers the direct and indirect benefits and costs
+
+associated with supporting Selected Entities, to improve their organizational efficiency and accountability to the
+
+citizens. The analysis evaluates the net economic benefits to Selected Entities and the citizens, the financial viability
+
+of the project, and the efficiency of project implementation. Where data is available at ICR, the efficiency of the
+
+project is estimated using the discounted cash flow approach to calculate the NPV and IRR of the project.
+
+
+
+Following three restructurings, US$24 million was allocated to the project million, and of this amount US$21.23
+
+was disbursed by the end of the project, representing an overall disbursement rate of 60.7 percent. The shortfall
+
+in the execution rate of project funds was due to part of the loan being cancelled, low capacity of the PMU, and the
+
+weak commitment for implementation. The reallocation of additional funds to Component 4 increased its share of
+
+actual project funding to 25.3 percent compared to the original estimate of 7.8 percent in the PAD. This was intended
+
+to further strengthen the capacity of the Project Management Unit (PMU), to ensure effective implementation.
+
+
+
+The project generated efficiency gains by supporting Selected Entities with ICT infrastructure and simplified
+
+business processes and procedures. The deployment and maintenance of equipment needed for ICT infrastructure
+
+and simplified business procedures due to the e-enabled services and the ability to access services and information
+
+through multiple means (including through mobile applications) resulted in reduced revenue leakages from official
+
+fees for public services, which distort economic behavior. The economic costs of the project involved government
+
+staff time spent on project implementation, as well as training, communications, outreach, complaints handling and
+
+DLI/ PBC verification – all undertaken as part of project implementation. However, the expected economic benefits
+
+are likely to outweigh the economic costs of the project.
+
+
+
+Under Component 1, the Selected Entities (OHCS, PSC, DVLA, BDR, PO) were expected to improve their
+
+accountability to citizens. However, the economic benefits of implementing measures under Component 1, were
+
+not captured in the economic analysis, because of non-implementation of key activities aimed at strengthening the
+
+accountability of SEs and the lack of data on administrative cost savings.
+
+
+
+The economic and financial analysis excluded the estimation of the returns on activities under Component 1,
+
+because of the lack of relevant data and non-achievement of the PDO target on accountability. Rolling out the
+
+updated CSCs increased operational costs; however, this was likely offset by lower administrative costs to the
+
+Selected Entities, due to efficiency improvements. However, only 6 (including PSC and OHCS) out of the planned 25
+
+Selected Entities updated and published CSCs on their websites. Additionally, the impact on turnaround time and
+
+cost savings for service delivery by the compliant Selected Entities, were not documented during project
+
+implementation, since the economic benefits of implementing measures under Component 1, were neither tracked
+
+nor quantified during the project implementation. Additionally, key performance indicator on accountability ̶ for at
+
+least 5 selected public services, 90 percent of service users are sent a text message with the receipt number/tracker
+
+numbers, and the date of delivery of service ̶ was not achieved.
+
+
+
+Under Component 2 DVLA, PO, BDR and were expected to leverage the streamlined business processes and the
+
+provision of e-enabled service to improve organizational efficiency, quick turnaround time and reduction of
+
+informal payments by citizens. The PO was supposed to achieve a target of 60 percent of applicants receiving their
+
+passport within 21 days of submitting their bio data. The DVLA achieved a target of 60 percent of applicants notified
+
+and issued with drivers’ licenses within 45 days of passing the driving test. At the BDR, there was an increase in the
+
+
+
+
+
+                                                                                                                     Page 37
+
+       The World Bank
+
+       Public Sector Reform for Results Project (P164665)                                                                                                                   ICR DOCUMENT
+
+
+
+
+
+number of births registered within 3 months of the event – from a baseline of 0 at the beginning of the project to
+
+730,000 at ICR, exceeding the 600,000-project target.
+
+
+
+The economic analysis is based on the following assumptions: (i) cost savings and indirect income benefits to citizens
+
+is equivalent to 20 percent of the unit value of service delivery and (ii) the incremental volume of citizens participating
+
+in the service delivery is estimated by calculating the difference between the original projected trends in service
+
+delivery (which is the counterfactual) and the actual incremental change in the volume of service delivery due to
+
+interventions by the project. Table A4.1 summarizes the net economic benefits of the Project. The estimated NPV
+
+and IRR of the Project are Ghs 211 million and 66.2 percent respectively.
+
+
+
+Table A4. 1 Economic Analysis
+
+                                                                          Baseline                          Economic Benefits by Citizens
+
+                                                                              2018      2019              2020              2021           2022             2023              2024
+
+                        GDP (GHc)                               308, 587,000,000     356,544,000,000 391,941,000,000 459,131,000,000 610,222,290,000    841,632,931,000   829,946,951,581
+
+              Income of Beneficiary Citizens                                          29,007,890,629 24,512,881,894 26,902,307,192 109,173,736,664      114,449,833,650   118,481,998,755
+
+ Increamental Cash Inflow (Cost saving+ Additional incomes) -        100,630,200          19,596,760      16,849,578         18,215,754   301,660,454       309,809,450       313,968,236
+
+                                                        PV -         100,630,200          17,497,107      13,432,380         12,965,614   191,710,672       175,794,202       159,066,079
+
+                                                       NPV           211,698,992
+
+                                                        IRR                66.2%
+
+                                                (NPV/GDP)                  0.07%
+
+
+
+
+
+There was some cost saving for citizens because of expected improvements in operational efficiency to Selected
+
+Entities such as the DVLA, BDR, and PO. The PSRRP-supported activities to improve PO service delivery were
+
+intended to reduce formal payments and other out-of-pocket costs for applicants and greater certainty and
+
+predictability in service delivery times, contributing to cost savings. Cost savings were also made through services
+
+provided by the BDR and DVLA, but these are unlikely to have the potential scale or impact as services provided by
+
+the PO.
+
+
+
+Adhering to service standards as envisaged in updated CSCs and improved customer orientation of existing public
+
+services reduced applicants’ time and travel costs (by reducing the number of visits to multiple offices/agencies to
+
+access), particularly for those living in remote areas and from low-income groups.
+
+
+
+Economic costs for citizens also declined as it was no longer necessary to pay informal fees to intermediaries and
+
+other agents to access services. As a growing number of applicants had access to services within the prescribed
+
+timeframes specified in CSCs, the payment of facilitation fees and bribes became unnecessary. The distorting impact
+
+of bribes causes lower use of official services which accounts for the real economic cost (the value of the reduced
+
+services received by individuals and firms relative to the economic cost of the resources used to supply these
+
+services). Thus, eliminating or reducing bribes represents a substantial improvement in economic welfare of
+
+individuals and firms. Individuals also benefitted from improved transparency and access to information for better
+
+decision-making.
+
+
+
+Financial Analysis
+
+
+
+The financial analysis of the project considers costs and benefits using a discounted cash flow (DCF) approach for
+
+the period of implementation (2019-2024). The financial benefits accruing directly to Selected Entities (BDR, PO, and
+
+DVLA) comprise: First, (i) savings from the reduction of administrative costs in providing PSRRP-supported services
+
+such as issuance/renewal of passports, drivers’ licenses and vehicle registrations, and registration of births and
+
+
+
+                                                                                                                                                                                            Page 38
+
+       The World Bank
+
+       Public Sector Reform for Results Project (P164665)                                                                                   ICR DOCUMENT
+
+
+
+
+
+deaths and issuance of birth and death certificates. Second, (ii) increases in revenue because of increased volumes
+
+of service delivery from the Selected Entities. These improvements stem from stronger organizational performance
+
+and e-business enabled operations by the three front-line Selected Entities.
+
+
+
+Assumptions: An economy wide rate of return (EWRR) of 12 percent is used as the benchmark for assessing the
+
+viability of the Project. While the PAD did not quantify the efficiency of the Project in terms of IRR and ERR, the ex-
+
+post analysis assumes the EWRR rate of 12 percent as the minimum measure of project viability. Therefore, the PSRRP
+
+was expected to generate similar financial and economic benefits. The analysis relies on the revenue stream from
+
+BDR, DVLA and PO to calculate the IRR. The average unit price for a birth certificate, passport and a driver’s license
+
+are Ghs 35, Ghs100-Ghs500 and Ghs530 respectively; the cost of passport issuance/ renewal was at Ghs 100 per unit
+
+at the inception of the project until it was adjusted to Ghs 500 per unit in 2022.
+
+
+
+The analysis estimates that the total number of citizens benefiting from the services of the Selected Entities (BDR,
+
+DVLA and PO) increased, largely because of improved performance DVLA and BDR. This is largely due to the
+
+expansion in the volume of service delivery arising from improved performance of DVLA and BDR. The incremental
+
+case scenario estimates that the number of beneficiary citizens increased to one million by the close of project,
+
+compared to 388,000 in 2019. The NPV and IRR are Ghs 8.98 million and 29 percent respectively. This confirms that
+
+the project was financially viable (see Table A4.2 below).
+
+
+
+Table A4.2: Discounted Cash flow from Frontline Selected Entities (GHS)
+
+ Selected Entities         Cash Flow       Tot CashFlow       2018        2019          2020          2021          2022         2023          2024
+
+                         Cost of Project                  - 100,630,200
+
+      BDR                Total Revenue       158,803,225                  11,778,340     9,973,040    10,335,710 42,276,115 42,020,020       42,420,000
+
+      DVLA               Total Revenue       316,023,630                  18,126,000     9,310,510    16,443,780 74,322,960 97,120,380      100,700,000
+
+       PO                Total Revenue        36,379,259                   1,700,000     1,785,000     1,874,250    9,839,813 10,331,803     10,848,393
+
+                     Increased Revenue       511,206,114                  31,604,340    21,068,550    28,653,740 126,438,888 149,472,203    153,968,393
+
+                             Trend           352,098,916                  31,604,340    21,068,550    28,653,740 24,158,277 27,716,582       25,905,709
+
+                     Incremental Revenue     251,468,716 - 100,630,200            0.0           0.0           0.0 102,280,611 121,755,621   128,062,685
+
+                               PV                        - 100,630,200    28,218,161    16,795,719    20,395,166 15,353,022 15,727,133       13,124,638
+
+                              NPV              8,983,639
+
+                               IRR            29%
+
+
+
+
+
+The benefits expected from improving accountability in the delivery of services by Selected Entities cannot be
+
+easily quantified because of lack of data. Supporting activities such as filing complaints and grievances by Selected
+
+Entities (BDR, PSC, OHCS and CHRAJ), enhancing the beneficiary feedback mechanism in the selected entities,
+
+strengthening the Civil Service performance management system to evaluate civil servants and introduction of
+
+updated Client Service Charters (CSCs) were aimed at increasing the number of citizens who have access to services,
+
+while reducing the administrative cost per unit of service delivery and the turnaround time for the selected services.
+
+However, the non-achievement of key accountability-related PDO targets coupled with the weak M&E framework
+
+for monitoring the relevant results indicators to track the benefits of the project makes it difficult to quantify the
+
+benefits derived.
+
+
+
+Implementation efficiency
+
+
+
+The PSRRP had several challenges that led to the slow rate of implementation during the first half of the project’s
+
+life cycle (2019-2022). This was largely due to the weak capacity of both the PMU and the implementing entities, the
+
+frequent changes in procurement staff and the task team leadership, on the World Bank’s side. After the first 2.5
+
+years of project implementation, disbursement was only 16.9 percent of originally approved project fund of
+
+
+
+                                                                                                                                                          Page 39
+
+     The World Bank
+
+     Public Sector Reform for Results Project (P164665)                                                 ICR DOCUMENT
+
+
+
+
+
+US$35million. Restructuring of the project helped to fast-track project implementation during the second half of the
+
+project. This is attributable to the following measures: removing three selected entities, reducing project funds by
+
+US$11million and extending the closing date by six months. Total disbursements reached Ghs 120million (US$21.23
+
+million), representing a disbursement rate of 98.7 percent compared to total restructured funds available, at the
+
+close of the project.
+
+
+
+The impact of implementation performance on efficiency is assessed by comparing IRR under different scenarios
+
+to the benchmark discount rate of 12 percent. The financial analysis indicates that the project was viable, if the
+
+actual disbursement of US$21.23 million at closing is used to calculate the efficiency ratios. The NPV and IRR are Ghs
+
+60million and 18 percent respectively. Without the partial cancellation of the loan, the use of the original project
+
+cost of US$35 million yields a lower IRR of 15 percent compared to the base case scenario of 24 percent.
+
+
+
+Overall, efficiency is rated as Modest. The incremental economic gains attributable to the Project are mixed: The
+
+delay in project implementation during the first half of the project cycle undermined the optimal efficiency level the
+
+project could have generated. Activities aimed at improving the efficiency of the Selected Entities partly contributed
+
+to the achievement of the PDO, while activities aimed at improving the accountability of Selected Entities had limited
+
+impact on the achievement of the PDO. The DVLA and BDR contributed the most to achieving the PDO targets and
+
+ensuring that the IRR of the project exceeded the minimum benchmark discount rate of 12 percent. This could have
+
+been higher if the target on the issuance of passports had been achieved.
+
+
+
+
+
+
+
+
+
+                                                                                                                  Page 40
+
+       The World Bank
+
+       Public Sector Reform for Results Project (P164665)                ICR DOCUMENT
+
+
+
+
+
+
+
+ANNEX 5. BORROWER, CO-FINANCIER AND OTHER PARTNER/STAKEHOLDER COMMENTS
+
+
+
+
+
+
+
+
+
+                                                                                Page 41
+
+The World Bank
+
+Public Sector Reform for Results Project (P164665)   ICR DOCUMENT
+
+
+
+
+
+
+
+
+
+                                                            Page 42
+
+          The World Bank
+
+          Public Sector Reform for Results Project (P164665)                                                                         ICR DOCUMENT
+
+
+
+
+
+
+
+ANNEX 6. TABLES REFLECTING CHANGES DURING THE RESTRUCTURINGS
+
+
+
+   First restructuring
+
+
+
+                 Table A6.1. Project Costs and Cancellation by Components, $ millions
+
+    Component                                           Original Allocation              Revised Allocation         Cancelled Amount
+
+    Component 1: Strengthening Organizational                       7.43                              7.43                    0.00
+
+    Performance
+
+    Component 2: Improving Efficiency,                             20.19                          18.52                       1.67
+
+    Accountability and Citizen Engagement in the
+
+    Delivery of Selected Services
+
+    Component 3: Improving Monitoring and                           3.50                              3.50                    0.00
+
+    Evaluation
+
+    Component 4: Project Management,                                2.55                              2.55                    0.00
+
+    Coordination and Public Reporting
+
+    Unallocated                                                     1.33                              0.00                    1.33
+
+                          TOTAL                                    35.00                          32.00                       3.0
+
+
+
+
+
+                                                        Table A6.2. Modifications to PBCs
+
+   Original PBCs and allocations    Modification of PBCs, targets and allocation ($ million)                        Scalability Formula
+
+             ($ million)
+
+  PBC1. BDR takes            1.0    PBC1. Improved           Target 1.1. 500,000 births registered      0.9   $50,000 per every 25,000
+
+  measures to meet the              registration of          within 3 months of the event                     registered within 3 months
+
+  targeted number of                births and deaths        (Number (Thousand))
+
+  births registered within                                   [Baseline: 240,000]
+
+  3 months of the event                                      Target 1.2. 200,000 deaths registered      0.9   $28,000 per every 10,000
+
+                                                             within 3 months of the event                     registered
+
+                                                             (Number (Thousand))
+
+                                                             Baseline: 40,000]
+
+  PBC2 EPA takes              1.0   PBC2. Increased          Target 2.1. 90 percent Regular             1.0   Allocated Amount × [Actual
+
+  measures for                      Coverage and             service passport applicants notified             Improvement / (Target–
+
+  environmental permit              Efficiency in the        and issued with passports within 21              baseline)] less Amount
+
+  issuance and renewal,             issuance of              working days of application and                  disbursed previously under this
+
+  and complaints                    passports to             capture of biometrics, each calendar             DLR
+
+  handling for individuals          citizens                 year (percentage).
+
+  and MSMEs                                                  [Baseline: 60%]
+
+                                                             Target 2.2. Within 10 working days         1.0   Allocated Amount × [Actual
+
+                                                             of application and capture of                    Improvement /(Target–
+
+                                                             biometrics, 60 percent Regular                   baseline)] less Amount
+
+                                                             service passport applicants are                  disbursed previously under this
+
+                                                             notified and issued with passports,              DLR
+
+                                                             each calendar year (days).
+
+                                                             [Baseline: 21 working days]
+
+  PBC3. DVLA takes                  PBC3. Improved           Target 3.1 Strategy and action plan              $40,000 per office
+
+  measures for driver         1.0   Efficiency in the        for reducing time to register vehicles     0.2
+
+  licensing and vehicle             issuance of              from 6 hours to 1 hour is adopted
+
+  registration                      driver’s license         and rolled out to 5 offices.
+
+                                    and vehicle              [Baseline: Zero]
+
+                                    licensing.               Target 3.2 90 percent of applicants        1.0   Allocated Amount × [Actual
+
+                                                             notified and issued with driver’s                Improvement /(Target–
+
+                                                                                                              baseline)] less Amount
+
+
+
+
+
+                                                                                                                                                Page 43
+
+        The World Bank
+
+        Public Sector Reform for Results Project (P164665)                                                                    ICR DOCUMENT
+
+
+
+
+
+                                                        licenses within 45 days of passing the           disbursed previously under this
+
+                                                        driving test.                                    DLR
+
+                                                        [Baseline: 45%]
+
+                                                        Target 3.3 Average time taken to          0.9    $180, 000 per hour
+
+                                                        register a vehicle reduced from 6
+
+                                                        hours to 1hour.
+
+                                                        [Baseline: 6 hours]
+
+PBC4. Service Level        1.0    PBC4. Innovation      Target 4.1 40 science innovation          2.0    $50,000 per grant
+
+Agreements (SLAs)                 Challenge and         projects approved whose grants have
+
+signed between NITA               Commercialization     been fully disbursed.
+
+and relevant Selected             Grants disbursed      [Baseline: zero]
+
+Entities
+
+PBC5. Client Service       1.0    PBC5.                 Target 5.1 Compliance against 121         1.8    $150,000 per compliance report
+
+Charters (CSC)/Client             Strengthened          number of Client Service Charters                published
+
+Service Standards (CSS)           compliance            (CSC)/Client Service Standards (CSS)
+
+are updated and                   reporting on client   is published on a website.
+
+published on the                  service charters      [Baseline: Zero]
+
+Selected Entities’                                      The compliance report is by 12
+
+websites                                                different institutions/CSCs.
+
+PBC6. Prepare and          1.2    PBC6.                 Target 6.1 At least 6 Selected Entities   0.6    $100,000 per institution
+
+implement a Gender                Implementation        implement their Gender Strategy and              implementing the GAP
+
+Strategy and Action               of institutional      Action Plan, as evidenced by
+
+Plan applicable to all            gender strategy       stakeholder consultation and
+
+entities under the PSC            and action plan       reporting on progress, where each
+
+and OHCS and train                                      selected entity scored more than
+
+Selected Entities to                                    70% on the scorecard to be
+
+implement it                                            compliant.
+
+                                                        [Baseline: Zero]
+
+PBC7. Complaints           2.8    PBC7. Enhanced        Target 7.1 For at least 10 selected       1.0
+
+received by                       beneficiary           public services2, 90 percent of service          $100,000 per selected public
+
+independent Third-                feedback              users are sent a text message with               service with 90 percent of
+
+Party Project-level                                     the receipt number/ tracker                      service users sent a text
+
+Complaint Handling                                      numbers, and the expected date of                message
+
+Entity, and Selected                                    delivery of service.
+
+Entities, of which                                      [Baseline: Zero]
+
+resolved within                                         Target 7.2 For at least 10 selected       0.5    $50,000 per selected public
+
+specified times                                         public services, beneficiary feedback            service receiving beneficiary
+
+                                                        is received from at least 15 percent             feedback from at least 15
+
+                                                        of the beneficiaries.                            percent of the beneficiaries.
+
+                                                        [Baseline: Zero]
+
+PBC8. Semi-annual          2.8    Dropped                                                         0
+
+public meetings held by
+
+the Office of the Senior
+
+Minister
+
+TOTAL                      11.8   TOTAL                                                           11.8
+
+
+
+
+
+
+
+
+
+                                                                                                                                           Page 44
+
+         The World Bank
+
+         Public Sector Reform for Results Project (P164665)                                                                     ICR DOCUMENT
+
+
+
+
+
+                                Table A6.III. Changes to the Intermediate Result Indicators (IRI)
+
+    Original IRI                                                        Revised IRI
+
+    Client Service Charters (CSC)/Client Service Standards (CSS)        Compliance against 12 number of Client Service Charters
+
+    are updated and published on the Selected Entities website.         (CSC)/Client Service Standards (CSS) is published on a website
+
+    Prepare and implement a Gender Strategy and Action Plan             Implementation of institutional gender strategy action plan
+
+    applicable to all entities under the PSC and OHCS and train         (also PBC 6)
+
+    Selected Entities to implement it.
+
+    Complaints received by the third-party project-level complaint      Enhanced beneficiary feedback (also PBC 7)
+
+    handling entity and Selected Entities, of which resolved within
+
+    specified times.
+
+    EPA takes measures for environmental permit issuance and            Innovation challenge and commercialization grants launched
+
+    renewal, and complaints handling for individuals and MSMEs.         (also PBC 4)
+
+    DVLA takes measures for driver licensing and vehicle                Improved efficiency in the issuance of driver’s license and
+
+    registration.                                                       vehicle licensing (also PBC 3)
+
+
+
+
+
+    Dropped Indicators                                                  Rationale
+
+    EPA – Individuals and micro, small, medium enterprises              This was because EPA is no longer a beneficiary entity under
+
+    (MSMEs) issued EPA permits within specified period.                 the project.
+
+    MFA&RI – PSRRP financed Asset Register functioning                  This was dropped because it does not contribute to the
+
+    according to specifications.                                        achievement of the PDO.
+
+    MoT – Transport Sector Data Management system is fully              This indicator was dropped because it does not contribute to
+
+    operational and meeting system performance benchmarks.              the achievement of the PDO.
+
+    Service Level Agreements (SLAs) signed between NITA and             This indicator was dropped as the SLAs would not contribute
+
+    relevant Selected Entities.                                         to the achievement of the PDO.
+
+    Semi-annual public meetings held by the Office of the Senior        This indicator was dropped to focus the Results Framework on
+
+    Minister.                                                           service delivery.
+
+
+
+
+
+  Third Restructuring
+
+
+
+                           Table A6. IV: Project Costs and Cancellation by Components, $ millions 
+
+Component                                                       Original Allocation      Revised Allocation    Cancelled amount  
+
+Component 1: Strengthening Organizational Performance           7.43                      4.13                 3.30 
+
+Component 2: Improving Efficiency, Accountability and Citizen 18.52                      13.82                 4.70 
+
+Engagement in the Delivery of Selected Services 
+
+Component 3: Improving Monitoring and Evaluation                3.50                     2.00                  1.50 
+
+Component 4: Project Management, Coordination and Public        2.55                     4.05                  (1.50) 
+
+Reporting 
+
+TOTAL                                                           32.00                    24.00                 8.0 
+
+
+
+
+
+
+
+
+
+                                                                                                                                         Page 45
+
+

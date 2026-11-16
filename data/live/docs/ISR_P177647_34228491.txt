@@ -1,0 +1,952 @@
+           The World Bank                                                                                     Implementation Status & Results Report
+           School Sector Transformation Program Operation (P177647)
+
+
+
+School Sector Transformation Program Operation (P177647)
+
+
+ SOUTH ASIA | Nepal | Education Global Practice | Requesting Unit: SACSN | Responsible Unit: HSAED
+ IBRD/IDA | Program-for-Results Financing | FY 2023 | Team Leader(s): Sachiko Kataoka, Maya Sherpa, Mohan Prasad Aryal
+
+
+ Seq No: 2 | ARCHIVED on 03-Jan-2024 | ISR57420 | Created by: Mohan Prasad Aryal on 23-Jul-2023 | Modified by: Maya Sherpa on 21-Dec-2023
+
+
+ Program Development Objectives
+
+  PDO Table
+  Program Development Objective (from Program Appraisal Document)
+  The proposed Program Development Objective (PDO) is to increase equitable access and improve the quality and governance of school
+  education in Nepal.
+
+ Overall Ratings
+
+ Name                                                                        Previous Rating                           Current Rating
+
+ Progress towards achievement of PDO                                         Satisfactory                             Satisfactory
+ Overall Implementation Progress (IP)                                        Satisfactory                             Moderately Satisfactory
+
+
+ Implementation Status and Key Decisions
+
+  The School Sector Transformation Program (SSTP) Operation was approved on March 24, 2023 by the World Bank's Board of Executive Directors'.
+  The Operation includes financing from International Development Association for an amount of US$120 million, and financing from Global
+  Partnership for Education for an amount of US$19.7 million. The signing of the Financing Agreement and the Grant Agreement was completed on
+  May 31, 2023. The SSTP, together with other Joint Financing Partners (JFPs) and non-JFP development partners supports the implementation of
+  the School Education Sector Plan (SESP) 2022-3023. Overall, the program is making good progress towards achieving the program development
+  objectives to improve literacy and numeracy as measured through the national assessment of reading and numeracy (NARN) and to increase the
+  number of local-level governments that receive performance grants. For the assessment of the progress in terms of equitable access, the final Flash
+  Report is expected to become available in January 2024 to provide the net enrollment rate for grades 9-12. In addition, most intermediate results
+  indicators are on track, while a few await the final Flash Report for the latest data.
+  The absence of the required legal framework to be provided by the Federal Education Act remains one of the main priorities in terms of enabling a
+  full-fledged implementation of the SESP. An Education Bill was submitted to the Parliament in October 2023. The recent Joint Review Meeting for
+  the SESP stressed the importance of its swift enactment to strengthen and institutionalize the coordination and collaboration across the different
+  tiers of government in the school education sector. Capacity building of local-level governments and schools is critical to mitigate the institutional
+  risks, accelerate the project implementation and improve the impacts on students at the school level.
+
+
+
+ Data on Financial Performance
+
+
+ Disbursements (by loan)
+
+ Project       Loan/Credit/TF     Status      Currency        Original   Revised      Cancelled      Disbursed      Undisbursed              % Disbursed
+
+
+ P177647       IDA-72710          Effective   USD             120.00       120.00            0.00          0.00           118.46                      0%
+
+ P177647       TF-C0896           Effective   USD               19.70       19.70            0.00          0.00            19.70                      0%
+
+
+ Key Dates (by loan)
+
+
+
+
+1/3/2024                                                                                                                      Page 1 of 13
+           The World Bank                                                                                   Implementation Status & Results Report
+           School Sector Transformation Program Operation (P177647)
+
+
+
+
+ Project        Loan/Credit/TF     Status      Approval Date    Signing Date     Effectiveness Date      Orig. Closing Date        Rev. Closing Date
+
+ P177647        IDA-72710          Effective   24-Mar-2023      31-May-2023      16-Jun-2023             16-Jul-2027               16-Jul-2027
+ P177647        TF-C0896           Effective   24-Feb-2023      31-May-2023      16-Jun-2023             15-Jul-2026               15-Jul-2026
+
+
+ DLI Disbursement
+
+                                                                                        Achievement     Disbursed amount in         Disbursement % for
+ DLI ID       DLI Type      Description                 Coc           DLI Amount
+                                                                                        Status          Coc                         DLI
+
+ Loan: TFC0896-001
+
+                            Ens Min enab Cndtn
+  1           Regular                                   USD           9,850,000.00      Not Achieved                     0.00
+                            ECED centres
+
+  3           Regular       Strngth Supp to Tchrs       USD           9,850,000.00      Not Achieved                     0.00
+
+ Program Action Plan
+
+                                 Adequate budget for Program activities, including DLI and PAP related activities reflected in ASIP and AWPB every
+  Action Description
+                                 year
+
+  Source                         DLI#                  Responsibility          Timing                  Timing Value                  Status
+
+                                                                                                       Every year -
+                                                                                                       March/April for draft
+  Technical                                            CEHRD/MOEST             Other                   ASIP/AWPB and                 Completed
+                                                                                                       August for final
+                                                                                                       ASIP/AWPB
+
+  Completion Measurement         Approved AWPB and ASIP
+
+  Comments                       The final ASIP/AWPB for FY 2023/24 was shared in September 2023.
+
+
+
+  Action Description             Evaluation of ReAL carried out in Year 4
+
+  Source                         DLI#                  Responsibility          Timing                  Timing Value                  Status
+
+  Technical                                            CEHRD/MOEST             Due Date                15-Jul-2026                   Not Yet Due
+
+  Completion Measurement         Report published on evaluation of ReAL
+
+  Comments
+
+
+
+  Action Description             Evaluation of teacher mentoring system carried out in Year 5
+
+  Source                         DLI#                  Responsibility          Timing                  Timing Value                  Status
+
+  Technical                                            CEHRD/MOEST             Due Date                15-Jul-2027                   Not Yet Due
+
+  Completion Measurement         Report published on evaluation of mentoring system
+
+
+
+
+1/3/2024                                                                                                                       Page 2 of 13
+           The World Bank                                                                                   Implementation Status & Results Report
+           School Sector Transformation Program Operation (P177647)
+
+
+
+
+  Comments
+
+
+
+                                A separate component/activity code established in the LMBIS for the IPF component and maintained throughout
+  Action Description
+                                SSTP period
+
+  Source                        DLI#                  Responsibility           Timing                 Timing Value               Status
+
+                                                                                                      Within one month from
+  Fiduciary Systems                                   CEHRD/MOEST              Other                                             Completed
+                                                                                                      effectiveness
+
+  Completion Measurement        Separate component/activity code for IPF established in the LMBIS and maintained throughout SSTP period
+
+  Comments                      Separate activity code has been established in the AWPB for the IPF component.
+
+
+
+                                (i) Develop a GESI and disaster resilient periodic education sector budget model within the framework of the MTEF
+  Action Description
+                                to be applied by municipalities; and (ii) train municipalities on the budget model.
+
+  Source                        DLI#                  Responsibility           Timing                 Timing Value               Status
+
+                                                                                                      (i) within one month
+  Fiduciary Systems                                   CEHRD/MOEST              Other                  from effectiveness; (ii)   Completed
+                                                                                                      July 2023
+
+  Completion Measurement        Approved model; Training Reports
+
+                                CEHRD has developed the local level education plan guidelines and circulated to LGs. LGs has included GESI and
+                                disaster resilient in their periodic plan. Local level official has been trained.in education and budget preparation
+  Comments                      procedure/model.
+
+
+
+
+  Action Description            Review and revise current conditional grant management arrangement including definition of eligible expenditures
+
+  Source                        DLI#                  Responsibility           Timing                 Timing Value               Status
+
+  Fiduciary Systems                                   MOEST/MOF                Due Date               30-Apr-2024                In Progress
+
+  Completion Measurement        Revised arrangement approved
+
+                                Revisions have been done and the revised arrangements have been reflected in LMBIS, PIM and Budget
+  Comments
+                                implementation guidelines. Discussions are underway for further improvement.
+
+
+
+                                The existing EMF and SMF to be consolidated and harmonized as one document - ESMF, reflecting safeguard
+  Action Description            requirements from all JFPs. ESMF to be summarized in Nepali, endorsed by MOEST and made readily adaptable
+                                and useable by sub-national governments.
+
+  Source                        DLI#                  Responsibility           Timing                 Timing Value               Status
+
+  Environmental and Social
+                                                      CEHRD/MOEST              Due Date               01-Mar-2023                In Progress
+  Systems
+
+
+
+
+1/3/2024                                                                                                                   Page 3 of 13
+           The World Bank                                                                                  Implementation Status & Results Report
+           School Sector Transformation Program Operation (P177647)
+
+
+
+
+                                Approved and endorsed ESMF, including translation summary in Nepali. made readily adaptable and useable by
+  Completion Measurement
+                                provincial and local governments
+
+                                Technical assistance will be provided to the CEHRD to consolidate the Environmental and Social Management
+  Comments
+                                Frameworks by January 31, 2024.
+
+
+
+                                Committee, with representation from planning and infrastructure unit, social development division and education unit
+  Action Description
+                                of the LGs, formed at LG level for environmental and social risk management of the program.
+
+  Source                        DLI#                  Responsibility           Timing                 Timing Value               Status
+
+  Environmental and Social                            MOEST/CEHRD/MO
+                                                                               Due Date               01-Mar-2023                In Progress
+  Systems                                             FAGA/LGs
+
+                                A committee formed. The activities of the committee and cost of environmental and social mitigation plans in sub-
+  Completion Measurement
+                                projects should be covered by the budget allocated for the education activities to LGs
+
+                                The School Physical Facility Development and Implementation Guidelines has a provision of forming a committee.
+  Comments                      Some LGs have initiated forming the committee. LGs are expected to complete this activity by FY2024/25 (i.e. mid-
+                                July 2024).
+
+
+
+                                Enhance the existing GRM mechanism to make it more systemic and digitized including management of SEA/SH and
+  Action Description
+                                VAC related grievances and develop referral mechanism with service providers
+
+  Source                        DLI#                  Responsibility           Timing                 Timing Value               Status
+
+  Environmental and Social                            MOEST/CEHRD/LG
+                                                                               Recurrent              Yearly                     In Progress
+  Systems                                             s
+
+                                (i) GRM guideline strengthening and disseminated : March 1, 2023
+  Completion Measurement        (ii) Implementation progress monitoring and reporting annually: September 31 (prior to JRM)
+
+
+
+                                The Girls inclusive Education Network has been formed by 204 LGs and is being formed in others. A progress report
+  Comments
+                                is yet to be submitted.
+
+
+
+  Action Description            Develop and implement a comprehensive M&E plan to strengthen the M&E system
+
+  Source                        DLI#                  Responsibility           Timing                 Timing Value               Status
+
+  Other                                               CEHRD/MOEST              Other                  Annually, July 16          Delayed
+
+  Completion Measurement        M&E Plan and implementation report
+
+                                Though no comprehensive M&E plan has been developed, the existing EMIS has been strengthened. A field to
+  Comments                      monitor ECED Minimum Enabling Condition related activities has been added. An Budget Monitoring Tracking
+                                System has been developed.
+
+
+
+  Action Description            EMIS system strengthened as per the approved guideline and EMIS verification carried out before MTR.
+
+  Source                        DLI#                  Responsibility           Timing                 Timing Value               Status
+
+
+1/3/2024                                                                                                                  Page 4 of 13
+           The World Bank                                                                                      Implementation Status & Results Report
+           School Sector Transformation Program Operation (P177647)
+
+
+
+
+  Other                                                CEHRD                     Other                  Annually - July 15           In Progress
+
+                                (i) CERHD to prepare EMIS improvement/enhancement plan with yearly targets. Annual progress report on the
+  Completion Measurement
+                                implementation of the improvement plan; (ii) Report on EMIS verification
+
+  Comments                      An EMIS WG has been supporting the annual strengthening of the EMIS has produced draft Flash Reports.
+
+
+
+                                CEHRD will have a dedicated FM staff for the program supplemented by FM consultant(s) to timely resolve the audit
+  Action Description
+                                observations at the federal level, and to coordinate with LGs to settle audit observations at LGs
+
+  Source                        DLI#                   Responsibility            Timing                 Timing Value                 Status
+
+  Fiduciary Systems                                    CEHRD                     Other                  Annually - April 15          In Progress
+
+  Completion Measurement        Annual OAG report
+
+  Comments                      CEHRD has appointed a dedicated FM staff which can be further strengthened.
+
+
+
+  Action Description            Annual Fiduciary Review to be conducted based on jointly agreed TOR
+
+  Source                        DLI#                   Responsibility            Timing                 Timing Value                 Status
+
+                                                       MOEST/CEHRD/JF
+  Fiduciary Systems                                                              Recurrent              Yearly                       In Progress
+                                                       Ps
+
+  Completion Measurement        Annual fiduciary review report
+
+                                A firm will be hired to carry out the review, which is expected to complete by mid-June, 2024, which is in line with the
+  Comments
+                                AFR timeline.
+
+
+
+  Action Description            Implementation of approved Fiduciary Management Action Plan (FMAP) initiated, monitored, and updated annually
+
+  Source                        DLI#                   Responsibility            Timing                 Timing Value                 Status
+
+  Fiduciary Systems                                    CEHRD                     Recurrent              Yearly                       In Progress
+
+                                Approval of FMAP by Steering Committee.
+  Completion Measurement
+                                Annual FMAP monitoring and progress report (to be summitted prior to JRM)
+
+  Comments                      FMAP has been updated. Approval of FMAP by Steering Committee pending
+
+
+
+
+  Risks
+
+
+ Systematic Operations Risk-rating Tool
+
+
+  Risk Category                                             Rating at Approval               Previous Rating                 Current Rating
+
+  Political and Governance                                  Substantial                     Substantial                    Substantial
+
+
+1/3/2024                                                                                                                       Page 5 of 13
+            The World Bank                                                                                      Implementation Status & Results Report
+            School Sector Transformation Program Operation (P177647)
+
+
+
+
+  Macroeconomic                                             Substantial                     Substantial                     Substantial
+  Sector Strategies and Policies                            Moderate                        Moderate                        Moderate
+  Technical Design of Project or Program                    Moderate                        Moderate                        Moderate
+  Institutional Capacity for Implementation and
+                                                            Substantial                     Substantial                     Substantial
+  Sustainability
+  Fiduciary                                                 Substantial                     Substantial                     Substantial
+  Environment and Social                                    Moderate                        Moderate                        Moderate
+  Stakeholders                                              Moderate                        Moderate                        Moderate
+  Other                                                     --                               --                               --
+  Overall                                                   Substantial                     Substantial                     Substantial
+
+
+
+
+  Results
+
+
+ PDO Indicators by Objectives / Outcomes
+
+
+  Improve Quality
+    IN01328220
+    ►Improved literacy and numeracy as measured through NARN (Grade 3) disaggregated by gender (Text, Custom)
+
+                                      Baseline                   Actual (Previous)                Actual (Current)            End Target
+                                                                                                  (On track) The NARN
+                                                                                                  framework was
+                                                                                                                              3 percentage point
+                                                                                                  approved on July 14,
+                                                                 NARN framework is                                            improvement over
+                                      Baseline to be established                                  2023. The preparation
+                                                                 being developed and                                          Year 2 in reading and
+    Value                             in Year 2 (disaggregated                                    is under way for
+                                                                 expected to be approved                                      numeracy
+                                      by gender TBD)                                              conducting the NARN
+                                                                 before July 15, 2023.                                        (disaggregated by
+                                                                                                  and it is scheduled to
+                                                                                                                              gender TBD)
+                                                                                                  take place in May/June
+                                                                                                  2024.
+    Date                              01-Oct-2022                09-May-2023                      01-Dec-2023                 31-Dec-2027
+                                      The NARN refers to assessment of reading and numeracy proficiencies of grade 3 students conducted by
+    Comments                          ERO on a nationally representative sample basis.
+
+
+  Improve equitable access
+    IN01328271
+    ►Improved NER in Grades 9-12 (disaggregated by gender) (Text, Custom)
+
+                                      Baseline                   Actual (Previous)                Actual (Current)            End Target
+                                                                                                  (Unable to assess due
+                                                                                                  to lack of data) Flash
+                                                                                                  report is currently being
+                                                                 Flash report is currently        updated. As per the
+    Value                             T:54 (G: 54.3, B: 53.7)                                                                 T:61.6 (G: 62, B: 61.1)
+                                                                 being updated.                   draft Flash I (Fiscal
+                                                                                                  Year 2023/24), NER in
+                                                                                                  Grades 9-12 is T: 57.9
+                                                                                                  (G:55.8; B: 59.9)
+    Date                              01-Sep-2022                09-May-2023                      01-Dec-2023                 15-Jul-2027
+
+
+
+
+1/3/2024                                                                                                                           Page 6 of 13
+           The World Bank                                                                                        Implementation Status & Results Report
+           School Sector Transformation Program Operation (P177647)
+
+
+
+                                     NER is number of students enrolled who belong to age group that officially corresponds to Grades 9–12,
+    Comments
+                                     divided by total population of the same age group.
+
+  Governance
+   IN01328272
+    ►Increased number of LGs that receive performance grants (Text, Custom)
+
+                                     Baseline                      Actual (Previous)              Actual (Current)             End Target
+                                                                                                  (On track) Performance
+                                                                   No target for Year 1.          grant guideline
+                                                                                                                              150 LGs (cumulative)
+                                                                   Performance grant              (scheme) with indicators
+    Value                            NA                                                                                       receiving performance
+                                                                   guideline will be              is expected to be
+                                                                                                                              grants
+                                                                   developed in next FY.          developed by July 15,
+                                                                                                  2024.
+    Date                             01-Sep-2022                   09-May-2023                    01-Dec-2023                 31-Dec-2027
+                                     The performance grant scheme for LGs needs to be established in alignment with the LG Institutional
+                                     Capacity Self-Assessment (LISA) guidelines of the Ministry of Federal Affairs and General Administration
+                                     (MoFAGA) which is currently being updated. The government plans to establish the scheme and a baseline
+                                     for all 753 LGs by mid-July 2024. Once the scheme is developed, the budget will be allocated to LGs based
+    Comments                         on the achievement of LGs against performance indicators. If the scheme is developed by the budget
+                                     preparation period, i.e. April/May 2024, the budget will be allocated to LGs for FY 2024/25. If delayed, the
+                                     allocation will be done in FY2025/26. Monitoring data will made available through a CEHRD dashboard
+                                     publicly.
+
+
+ Intermediate Results Indicators by Results Areas
+
+
+
+  Improved teacher capacity, assessments and early grade learning
+    IN01328273
+    ►Ensuring minimum enabling conditions (MEC) in ECED centers (Text, Custom)
+
+                                     Baseline                      Actual (Previous)              Actual (Current)             End Target
+                                                                                                  (On track) Baseline and
+                                                                   No target for Year 1.          reporting arrangements
+                                                                                                                              Share of ECED
+                                                                   EMIS is being updated to       have been established
+                                                                                                                              centers meeting at
+                                                                   allow collection of all five   for MEC for ECED
+                                                                                                                              least three MEC
+    Value                            NA                            indicators of MEC.             centers. The collected
+                                                                                                                              increased by 6
+                                                                   Currently EMIS reports         data is being analysed
+                                                                                                                              percentage from
+                                                                   on 3 out of the 5 MEC          and final baseline data
+                                                                                                                              baseline
+                                                                   indicators.                    will be available by
+                                                                                                  February 29, 2024.
+    Date                             01-Sep-2022                   09-May-2023                    01-Dec-2023                 15-Jul-2027
+                                     The minimum enabling conditions include: (a) qualified ECED teacher (with secondary education and 90
+                                     hours of practical training); (b) child friendly tap (for easy access to drinking water); (c) toilet (with soap and
+    Comments
+                                     water); (d) child friendly seating arrangement (preventing children from dirt and cold); and (e) six learning
+                                     areas.
+   IN01328276
+   ►Number of LGs implementing activities to improve foundational proficiency in reading and numeracy as per the integrated approach of the
+   curriculum in grades 1-3 (Text, Custom)
+
+                                     Baseline                      Actual (Previous)              Actual (Current)          End Target
+                                                                                                  (On track) 300 LGs
+                                                                   Budgetary provision has
+                                                                                                  have received budget to
+                                                                   been made to implement
+    Value                            NA                                                           implement integrated      600.00
+                                                                   integrated curriculum in
+                                                                                                  curriculum in the current
+                                                                   300 LGs in next FY
+                                                                                                  FY2023/24. The
+
+
+1/3/2024                                                                                                                         Page 7 of 13
+           The World Bank                                                                                     Implementation Status & Results Report
+           School Sector Transformation Program Operation (P177647)
+
+
+
+                                                                                                implementation
+                                                                                                activities are ongoing
+                                                                                                and is expected to be
+                                                                                                completed by July 15,
+                                                                                                2024.
+    Date                             01-Sep-2022                  09-May-2023                   01-Dec-2023                15-Jul-2027
+                                     Activities include: (i) provide hard copies of the additional learning materials (in addition to the student
+                                     textbooks cum workbooks for grades 1–3) and upload digital copies in the CDC website; (ii) make teacher
+    Comments                         guides accessible to teach the student textbooks; and (iii) 5-days training on the use of additional materials,
+                                     include one teacher per school, and require trained teacher to conduct sharing session in his/her school to
+                                     other teachers.
+    IN01328279
+    ►School-based teacher development through mentorship (Text, Custom)
+
+                                     Baseline                     Actual (Previous)             Actual (Current)           End Target
+                                                                                                (On track) Teacher
+                                                                                                Professional
+                                                                                                Development
+                                                                  no target for Year
+                                                                                                framework and SOP for
+                                                                  1.Teacher Professional
+                                                                                                teacher mentoring have
+                                                                  Developoment                                             150 LGs (cumulative)
+                                                                                                been approved by
+                                                                  framework and SOP for                                    implementing
+                                                                                                MOEST. Preparations
+    Value                            NA                           teacher mentoring has                                    mentoring system in
+                                                                                                are underway for
+                                                                  been developed. These                                    80% of basic
+                                                                                                implementing teacher
+                                                                  documents will be                                        education schools.
+                                                                                                mentoring in 50 LGs.
+                                                                  approved by September
+                                                                                                The mentoring activities
+                                                                  2023.
+                                                                                                in 50 LGs are expected
+                                                                                                to be rolled out by
+                                                                                                December 31, 2023.
+    Date                             01-Sep-2022                  09-May-2023                   01-Dec-2023                15-Jul-2027
+                                     The SOP will be a handbook for the implementation of the Teacher Professional Development framework.
+    Comments                         This will include the adaptation of TEACH (or a comparable observation tool), development of training
+                                     modules, and digitization of results to disseminate through a dashboard.
+    IN01328282
+    ►Share of schools with full complement of subject teachers (English, Math and Science) (Text, Custom)
+
+                                     Baseline                     Actual (Previous)             Actual (Current)           End Target
+                                                                                                (Unable to assess the
+                                     Basic schools, grades 6-8:   No target for Year 1.         progress due to data       Basic schools, grades
+                                     25.8%                        Data will become              availability) Data will    6-8: 37.0%
+    Value
+                                     Secondary schools,           available by November         become available by        Secondary schools,
+                                     grades 9-10: 21%             2023.                         January 2024 in the        grades 9-10: 34.0%
+                                                                                                final Status Report.
+    Date                             01-Sep-2022                  09-May-2023                   01-Dec-2023                15-Jul-2027
+                                     Schools with full complement teachers means they are deployed in accordance with the existing education
+    Comments                         regulations and student teacher ratio norms. If teacher teaches both at basic and secondary levels in the
+                                     same school, he/she is counted for both levels.
+    IN01328284
+    ►Large-scale primary/secondary learning assessments completed (Number, Corporate)
+
+                                     Baseline                     Actual (Previous)             Actual (Current)           End Target
+
+    Value                            0.00                         1.00                          1.00                       4.00
+
+    Date                             01-Sep-2022                  31-Jul-2022                   01-Dec-2023                15-Jul-2027
+    Comments                         The indicator measures the number of Bank-supported completed large-scale assessment rounds at the
+                                     primary or secondary levels. "Completed large-scale assessment rounds" refers to rounds of a large-scale
+
+
+1/3/2024                                                                                                                     Page 8 of 13
+           The World Bank                                                                                    Implementation Status & Results Report
+           School Sector Transformation Program Operation (P177647)
+
+
+
+                                     assessment, for which the results are made publicly available within 2 years of the assessment
+                                     administration. The supported activities could include capacity building, design, administration, analysis,
+                                     reporting, use, publication, and/or dissemination of an assessment. "Large-scale assessment" includes both
+                                     national large-scale assessments (NLSA) and international large-scale assessments (ILSA). Report for the
+                                     following education levels: Primary (ISCED 1) and Secondary (ISCED 2 & 3).
+                                     According to the National Assessment of Reading and Numeracy (NARN) framework, it is expected that a
+                                     NARN will be conducted in April/May 2024.
+
+
+
+  Improved equity in access to basic and secondary education
+    IN01328274
+    ►Pro-poor scholarships implemented in basic and secondary level and inclusion (Text, Custom)
+
+                                     Baseline                     Actual (Previous)            Actual (Current)            End Target
+                                                                                               (On track) Revised draft
+                                                                                               pro-poor scholarship
+                                                                                               guidelines that add
+                                     Scholarship to grades 9-     No target for Year 1. Pro-   lower grades (grades 6-
+                                     12 distributed; enrollment   poor scholarship             8) to the existing grades   Pro-poor scholarship
+    Value                            of CWD in basic              guideline will be revised    9-12 has been               in grades 6–12
+                                     education: 0.52%             next FY to include lower     submitted for               distributed.
+                                     (G:0.45%; B: 0:59%)          grades (grade 6-8).          comments. The
+                                                                                               guidelines are expected
+                                                                                               to be approved by
+                                                                                               March 31, 2024.
+    Date                             01-Sep-2022                  09-May-2023                  01-Dec-2023                 31-Dec-2027
+                                     Number of children receiving pro-poor scholarships. Children with Disabilities (CWD) means students in
+                                     basic education who have a disability based on Schedule to the Act Relating to Rights of Persons with
+    Comments
+                                     Disabilities, 2074 (2017).
+    IN01328277
+    ►Number of students receiving pro-poor scholarships in basic and secondary levels (of which % girls) (Text, Custom)
+
+                                     Baseline                     Actual (Previous)            Actual (Current)            End Target
+                                     Pro-poor scholarship at
+                                     the secondary level                                                                   154,562 (Girls at least
+    Value                                                         No target for Year 1         No target for YR2
+                                     approved and                                                                          50%)
+                                     implemented.
+    Date                             01-Sep-2022                  09-May-2023                  01-Dec-2023                 15-Jul-2027
+
+                                     Number of pro-poor scholarship beneficiaries (of which % girls)
+    Comments
+    IN01328280
+    ►Construction of classrooms (Text, Custom)
+
+                                     Baseline                     Actual (Previous)            Actual (Current)            End Target
+                                                                                               (On track) According to
+                                                                                                                           1,500 (cumulative)
+                                                                  School Physical Facilities   the new guidelines,
+                                                                                                                           classrooms
+                                                                  Development and              criteria for selecting
+    Value                            NA                                                                                    constructed/retrofitted
+                                                                  Implementation               schools/classroom for
+                                                                                                                           in line with new
+                                                                  Guideline’ approved          construction/retrofitting
+                                                                                                                           guideline.
+                                                                                               is being prepared.
+    Date                             01-Sep-2022                  01-Jun-2023                  01-Dec-2023                 15-Jul-2027
+                                     School Physical Facilities Development and Implementation Guideline includes guidance for LGs and
+                                     schools to plan for school-wise infrastructure improvement (minimum standards, school upgrading needs,
+    Comments
+                                     standard costing) and management (reporting, certification, construction requirements, inclusive
+                                     requirements, safeguards compliance, FM, procurement, and maintenance).
+    IN01328283
+
+1/3/2024                                                                                                                     Page 9 of 13
+           The World Bank                                                                                     Implementation Status & Results Report
+           School Sector Transformation Program Operation (P177647)
+
+
+
+
+    ►Students benefiting from direct interventions to enhance learning (Number, Corporate)
+
+                                     Baseline                     Actual (Previous)            Actual (Current)           End Target
+
+    Value                            8,000,000.00                8,000,000.00                  8,000,000.00               8,400,000.00
+
+    Date                             01-Sep-2022                 09-May-2023                   09-May-2023                15-Jul-2027
+                                     To date, no interventions have directly benefited students yet as interventions are still at government and
+    Comments                         teacher training levels.
+
+     IN01328285
+     Students benefiting from direct interventions to enhance learning - Female (Number, Corporate Supplement)
+
+                                    Baseline                    Actual (Previous)             Actual (Current)            End Target
+
+      Value                         4,000,000.00                4,000,000.00                  4,000,000.00                4,200,000.00
+    IN01328286
+    ►Share of girls in science stream at secondary level (Grade 11-12) (Percentage, Custom)
+
+                                     Baseline                     Actual (Previous)            Actual (Current)           End Target
+
+    Value                            13.60                       13.60                         13.60                      18.00
+
+    Date                             01-Sep-2022                 09-May-2023                   01-Dec-2023                31-Dec-2027
+                                     The indicator measures the share of girls enrolled in science stream in Grade 11-12. The YR target was
+                                     14.6, which could not been assessed due to lack of data. There is no YR2 target, and at minimum the YR1
+    Comments
+                                     target is the YR2 target. The data will be available in the Status Report expected in January 2024.
+
+
+
+  Strengthened education governance and system resilience
+    IN01328275
+    ►Increased share of schools accessing online learning portal (Text, Custom)
+
+                                     Baseline                     Actual (Previous)            Actual (Current)           End Target
+                                                                                                                          15,000 schools are
+                                                                 No target for Year 1.
+                                                                                                                          accessing the online
+    Value                            NA                          Learning portal is being      No target for YR2
+                                                                                                                          learning portal ‘Sikai
+                                                                 upgraded.
+                                                                                                                          Chautari’
+    Date                             01-Sep-2022                 09-May-2023                   01-Dec-2023                15-Jul-2027
+                                     Sikai Chautari refers to portal established by MOEST to support learning continuity during COVID-19
+    Comments                         pandemic.
+   IN01328278
+   ►Implementation of a structured recovery and accelerated learning (ReAL) plan to mitigate impact of COVID-19 learning losses (Text,
+   Custom)
+
+                                     Baseline                     Actual (Previous)            Actual (Current)           End Target
+                                                                                               (On track) 150 LGs
+                                                                                               (Year 1 & 2 targets)
+                                                                                               have received budget       150 LGs (cumulative)
+                                                                 ReAL plan has been            for the ReAL plan          have implemented
+    Value                            NA
+                                                                 approved by MoEST.            implementation. The        ReAL in at least 80%
+                                                                                               implementation in these    of the schools
+                                                                                               LGs is ongoing and is
+                                                                                               expected to be
+
+
+
+
+1/3/2024                                                                                                                   Page 10 of 13
+           The World Bank                                                                                     Implementation Status & Results Report
+           School Sector Transformation Program Operation (P177647)
+
+
+
+                                                                                                completed by March 31,
+                                                                                                2024.
+
+    Date                              01-Sep-2022                 09-May-2023                   01-Dec-2023               15-Jul-2027
+
+                                      ReAL will focus both on recovery and accelerated learning. Implementation of ReAL will have two phases,
+    Comments
+                                      with phase 1 focusing on recovery and phase 2 focusing at accelerated learning.
+    IN01328281
+    ►Share of community schools conducting social audit using school report cards (Percentage, Custom)
+
+                                      Baseline                    Actual (Previous)             Actual (Current)          End Target
+
+    Value                             42.00                       42.00                         46.00                     95.00
+
+    Date                              01-Sep-2022                 09-May-2023                   01-Dec-2023               31-Dec-2027
+                                      Social audit will be carried out in accordance with the MOEST guidelines. Flash report is currently being
+    Comments                          updated. YR1 target was 80 and YR target is 85.
+
+
+
+ Disbursement Linked Indicators
+ DLI_IND_TABLE
+    ►DLI 1 Ensuring minimum enabling conditions (MEC) in ECED centers (Intermediate Outcome, 9,850,000.00, 0%)
+
+
+                                 Baseline                       Actual (Previous)            Actual (Current)              FY26-27
+                                                                                             Baseline and reporting
+                                                                                             arrangements have been
+                                 The government is                                           established for MEC for
+                                 analyzing the data and will                                 ECED centers. The
+    Value                                                       No target for Year 1                                       NA
+                                 be submitted the final                                      achievement and
+                                 baseline                                                    verification reports are
+                                                                                             expected to be received
+                                                                                             by February 29, 2024.
+    Date                         --                             01-Jun-2023                  01-Dec-2023                   --
+                                 In the year 2, EMIS has been updated to allow collection of all five indicators of MEC (Reporting
+                                 arrangements). The government is currently analyzing the baseline data. As shared during the Joint Review
+    Comments                     Mission (JRM), based on the preliminary data analysis, the percentage of ECED centers meeting three, four
+                                 and five MEC indicators are 57.91%, 5.59% and 0.12% respectively.
+
+
+
+    ►DLI 2 Strengthening implementation of grades 1-3 curriculum (Intermediate Outcome, 12,000,000.00, 0%)
+
+
+                                 Baseline                       Actual (Previous)            Actual (Current)              FY26-27
+                                                                                             The implementation of this
+                                                                                             activity is ongoing in 300
+                                 Integrated curriculum
+    Value                                                       Data not yet available.      LGs and YR1 and YR2           NA
+                                 launched
+                                                                                             targets are expected to be
+                                                                                             achieved by July 15, 2024.
+    Date                         --                             01-Jun-2023                  01-Dec-2023                   --
+                                 All the LGs have received budget. The implementation is ongoing in 300 LGs and YR1 and YR2 targets are
+    Comments                     expected to be completed by July 15, 2024.
+
+
+
+    ►DLI 3 Strengthened support to teachers (Outcome, 31,850,000.00, 0%)
+
+
+
+1/3/2024                                                                                                                   Page 11 of 13
+           The World Bank                                                                                  Implementation Status & Results Report
+           School Sector Transformation Program Operation (P177647)
+
+
+
+
+                                 Baseline                       Actual (Previous)           Actual (Current)              FY26-27
+                                 No school based teacher                                    The Standard Operating
+                                 development support exists                                 Procedures (SOP) for
+                                 in the federal structure                                   implementation of teacher
+                                                                                                                          Performance gap for
+                                 Basic schools that have full                               mentoring system was
+                                                                                                                          average teacher
+                                 complement of Math,            Standard Operating          approved by MOEST on
+                                                                                                                          performance on the
+                                 Science and English            Procedures (SOP) has        September 29, 2023. The
+                                                                                                                          observation tool
+                                 subject teachers in grades     been drafted and            achievement and
+    Value                                                                                                                 reduced by 5
+                                 6-8: 25.8%                     consultation held. It is    verification reports are
+                                                                                                                          percent for the 50
+                                 Secondary schools that         expected to be approved     expected to be received
+                                                                                                                          LGs implementing
+                                 have full complement of        by September 30, 2023.      by January 31, 2024. The
+                                                                                                                          mentoring program
+                                 Math, Science and English                                  mentoring activities in 50
+                                                                                                                          in Year 2.
+                                 subject teachers in grades                                 LGs are expected to be
+                                 9-10: 21%                                                  rolled out by December
+                                                                                            31, 2023.
+    Date                         --                             01-Jun-2023                 01-Dec-2023                   --
+
+    Comments
+
+
+
+    ►DLI 4 Improved assessment and examination system (Outcome, 12,000,000.00, 0%)
+
+
+                                 Baseline                       Actual (Previous)           Actual (Current)              FY26-27
+                                                                                                                          (i) NARN conducted
+                                                                                            The National Assessment
+                                                                                                                          and three
+                                                                                            of Reading and Numeracy
+                                                                                                                          percentage point
+                                                                                            (NARN) Framework was
+                                                                NARN Framework is                                         improvement over
+                                 NASA policy guidelines                                     approved on July 14,
+    Value                                                       expected to be approved                                   Year 2 in literacy
+                                 approved                                                   2023. Achievement and
+                                                                before July 15, 2023                                      and numeracy ; (ii)
+                                                                                            verification reports are
+                                                                                                                          NASA conducted for
+                                                                                            expected to be received
+                                                                                                                          Grade 5 in line with
+                                                                                            by January 15, 2024.
+                                                                                                                          policy guidelines
+    Date                         --                             01-Jun-2023                 01-Dec-2023                   --
+
+    Comments
+
+
+
+    ►DLI 5 Improved equity and inclusion (Intermediate Outcome, 15,000,000.00, 0%)
+
+
+                                 Baseline                       Actual (Previous)           Actual (Current)              FY26-27
+                                                                                                                          Nationwide
+                                                                                                                          implementation of
+                                                                                            Revised pro-poor              pro-poor scholarship
+                                 Pro-poor scholarships at
+                                                                                            scholarship guideline has     in grade 6 (provided
+                                 secondary level approved.
+                                                                                            been drafted. This            that nationwide
+    Value                        Enrollment of CWD in basic     No target for Year 1
+                                                                                            guideline is expected to be   implementation of
+                                 education: 0.52%
+                                                                                            approved by March 31,         pro-poor
+                                 (G:0.45%; B: 0:59%)
+                                                                                            2024.                         scholarships is
+                                                                                                                          continued for grades
+                                                                                                                          7-12)
+    Date                         --                             01-Jun-2023                 01-Dec-2023                   --
+                                 Pro-poor scholarship guideline has been revised to expand the provision of scholarships to lower grades
+                                 (grades 6-8) and is expected to be approved by March 31, 2024.
+    Comments
+
+
+
+
+1/3/2024                                                                                                                  Page 12 of 13
+           The World Bank                                                                                Implementation Status & Results Report
+           School Sector Transformation Program Operation (P177647)
+
+
+
+
+    ►DLI 6 Construction of green and resilient classrooms (Intermediate Outcome, 24,000,000.00, 0%)
+
+
+                                 Baseline                    Actual (Previous)            Actual (Current)             FY26-27
+
+                                                                                          The School Physical
+                                                             School Physical Facilities   Facilities Development
+                                                             Development and              and Implementation
+                                                             Implementation               Guideline has been
+    Value                        NA                          Guideline’ approved.         approved. This has been      NA
+                                                             Achievement and              achieved and verified.
+                                                             verification report is       Disbursement request has
+                                                             expected to be received      also been submitted. It is
+                                                             in June 2023.                expected to be disbursed
+                                                                                          by December 31, 2023.
+    Date                         --                          31-May-2023                  01-Dec-2023                  --
+
+    Comments
+
+
+
+    ►DLI 7 Strengthened governance and system resilience (Intermediate Outcome, 29,000,000.00, 0%)
+
+
+                                 Baseline                    Actual (Previous)            Actual (Current)             FY26-27
+                                                                                          The ReAL Plan has been
+                                                                                          approved by MOEST.
+                                                                                          Achievement and
+                                                                                          verification reports
+                                                                                          together with
+                                                             ReAL plan has been           disbursement request
+                                                             approved by MOEST.           have been submitted. 150
+                                                             Achievement and              LGs (YR1 and YR2
+    Value                        NA                                                                                    NA
+                                                             verification report is       targets) have already
+                                                             expected to be received      received budget for the
+                                                             in June 2023.                ReAL Plan
+                                                                                          implementation. The field
+                                                                                          level implementation has
+                                                                                          started and is expected to
+                                                                                          be completed by March
+                                                                                          31, 2024.
+    Date                         --                          31-May-2023                  01-Dec-2023                  --
+
+    Comments
+
+
+
+
+1/3/2024                                                                                                               Page 13 of 13
+

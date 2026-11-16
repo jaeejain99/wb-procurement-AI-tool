@@ -1,0 +1,4321 @@
+                                        FOR OFFICIAL USE ONLY
+
+                                                                                   Report No: PAD4199
+
+
+
+
+
+
+
+                            INTERNATIONAL DEVELOPMENT ASSOCIATION
+
+
+
+                                    PROJECT APPRAISAL DOCUMENT
+
+                                               ON A
+
+                                          PROPOSED CREDIT
+
+
+
+                           IN THE AMOUNT OF US$102 MILLION,
+
+  COMPRISING SDR 53.7 MILLION (US$72 MILLION EQUIVALENT) FROM THE SCALE UP WINDOW-
+
+  SHORTER MATURITY LOANS (SUW-SML) AND EUR 27.2 MILLION (US$30 MILLION EQUIVALENT)
+
+                      FROM THE REGULAR SCALE UP WINDOW (SUW)
+
+
+
+                                                 TO THE
+
+
+
+                                 PEOPLE’S REPUBLIC OF BANGLADESH
+
+
+
+                                                  FOR A
+
+
+
+                        JAMUNA RIVER SUSTAINABLE MANAGEMENT PROJECT 1
+
+
+
+                                             August 23, 2023
+
+
+
+
+
+
+
+
+
+Water Global Practice
+
+South Asia Region
+
+
+
+
+
+
+
+
+
+  This document has a restricted distribution and may be used by recipients only in the performance of
+
+  their official duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+                     CURRENCY EQUIVALENTS
+
+
+
+              (Exchange Rate Effective July 31, 2023)
+
+
+
+             Currency Unit = Bangladeshi Taka (BDT)
+
+               BDT 108.52 = US$1
+
+               US$1.34294 = SDR 1
+
+                US$1.1036 = EUR 1
+
+
+
+                            FISCAL YEAR
+
+                          July 1 – June 30
+
+
+
+
+
+
+
+
+
+Regional Vice President: Martin Raiser
+
+      Country Director: Abdoulaye Seck
+
+     Regional Directors: Dina Umali-Deininger
+
+        Global Director: Saroj Kumar Jha
+
+     Practice Manager: Sumila Gulyani (Water), Fei Deng (Transport)
+
+   Task Team Leader(s): Ahmed Shawky M. Abdel Ghany, Antoine Avedis Kunth,
+
+                        A T M Khaleduzzaman, Ye-rin Um, Sumati Rajput
+
+                       ABBREVIATIONS AND ACRONYMS
+
+
+
+ADB       Asian Development Bank
+
+AIIB      Asian Infrastructure Investment Bank
+
+BDP2100   Bangladesh Delta Plan 2100
+
+BIWTA     Bangladesh Inland Water Transport Authority
+
+BoQ       Bill of Quantities
+
+BUET      Bangladesh University of Engineering and Technology
+
+BWDB      Bangladesh Water Development Board
+
+CCDR      Country Climate and Development Report
+
+CPF       Country Partnership Framework
+
+CIA       Cumulative Impact Assessment
+
+DP        Development Partner
+
+DRF       Disaster Risk Financing
+
+DSS       Decision Support Systems
+
+E&S       Environmental and Social
+
+EA        Economic Analysis
+
+ESF       Environmental and Social Framework
+
+ESIA      Environmental and Social Impact Assessment
+
+FM        Financial Management
+
+FRERMIP   Flood and River Erosion Risk Management Investment Program
+
+GDP       Gross Domestic Product
+
+GHG       Greenhouse Gas
+
+GoB       Government of Bangladesh
+
+GSFF      Global Shield Financing Facility
+
+GRS       Grievance Redress Service
+
+IA        Implementing Agency
+
+IDA       International Development Association
+
+IDRA      Insurance Development and Regulatory Authority
+
+IMF       International Monetary Fund
+
+IWT       Inland Water Transport
+
+JRNMP     Jamuna River Navigation Master Plan
+
+LCS       Labor Contracting Societies
+
+M&E       Monitoring and Evaluation
+
+MIS       Management Information System
+
+MoF       Ministry of Finance
+
+MoS       Ministry of Shipping
+
+MoWR      Ministry of Water Resources
+
+MTR       Mid-term Review
+
+NAP       National Adaptation Plan
+
+NBS       Nature-Based Solutions
+
+NDC       Nationally Determined Contribution
+
+NRMMP     National River Management Master Plan
+
+O&M       Operation and Maintenance
+
+PDO       Project Development Objective
+
+PIU       Project Implementation Unit
+
+PoE       Panel of Experts
+
+PPSD      Project Procurement Strategy for Development
+
+PSC       Project Steering Committee
+
+RIS       River Information Services
+
+SBC       Sadharan Bima Corporation
+
+SDFP      Sustainable Development Finance Policy
+
+SEA/SH    Sexual Exploitation and Abuse and Sexual Harassment
+
+SoP       Series of Projects
+
+STEP      Systematic Tracking of Exchanges in Procurement
+
+SUW       Scale-Up Window
+
+SUW-SML   Scale Up Window – Shorter Maturity Loans
+
+TA        Technical Assistance
+
+TBPG      Top Blocked Permeable Groyne
+
+ToR       Terms of Reference
+
+VAT       Value Added Tax
+
+WMGs      Water Management Groups
+
+The World Bank
+
+Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+
+
+                                                         TABLE OF CONTENTS
+
+
+
+  DATASHEET ............................................................................................................................ i
+
+  I.    STRATEGIC CONTEXT ...................................................................................................... 1
+
+        A. Country Context................................................................................................................................ 1
+
+        B. Sectoral and Institutional Context .................................................................................................... 2
+
+        C. Relevance to Higher Level Objectives............................................................................................... 3
+
+        D. Series of Projects .............................................................................................................................. 5
+
+  II.   PROJECT DESCRIPTION.................................................................................................... 5
+
+        A. Project Development Objective ....................................................................................................... 5
+
+        B. Project Components ......................................................................................................................... 5
+
+        C. Project Beneficiaries ......................................................................................................................... 8
+
+        D. Results Chain .................................................................................................................................... 9
+
+        E. Rationale for Bank Involvement and Role of Partners ..................................................................... 9
+
+        F. Lessons Learned and Reflected in the Project Design .................................................................... 10
+
+  III. IMPLEMENTATION ARRANGEMENTS ............................................................................ 11
+
+        A. Institutional and Implementation Arrangements .......................................................................... 11
+
+        B. Results Monitoring and Evaluation Arrangements......................................................................... 11
+
+        C. Sustainability................................................................................................................................... 12
+
+  IV. PROJECT APPRAISAL SUMMARY ................................................................................... 12
+
+        A. Technical Analysis ........................................................................................................................... 12
+
+        B. Economic Analysis........................................................................................................................... 14
+
+        C. Fiduciary.......................................................................................................................................... 14
+
+        D. Legal Operational Policies .............................................................................................................. 15
+
+        E. Environmental and Social ............................................................................................................... 15
+
+  V. GRIEVANCE REDRESS SERVICES ..................................................................................... 17
+
+  VI. KEY RISKS ..................................................................................................................... 18
+
+  VII. RESULTS FRAMEWORK AND MONITORING ................................................................... 20
+
+  ANNEX 1: Implementation Arrangements and Support Plan ................................................. 27
+
+     The World Bank
+
+     Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+
+
+
+
+DATASHEET
+
+
+
+BASIC INFORMATION
+
+BASIC_INFO_TABLE
+
+Country(ies)                Project Name
+
+
+
+Bangladesh                  Jamuna River Sustainable Management Project 1
+
+
+
+Project ID                  Financing Instrument       Environmental and Social Risk Classification
+
+
+
+                            Investment Project
+
+P172499                                                High
+
+                            Financing
+
+
+
+
+
+Financing & Implementation Modalities
+
+[ ] Multiphase Programmatic Approach (MPA)               [✓] Contingent Emergency Response Component (CERC)
+
+[✓] Series of Projects (SOP)                             [ ] Fragile State(s)
+
+
+
+[ ] Performance-Based Conditions (PBCs)                  [ ] Small State(s)
+
+
+
+[ ] Financial Intermediaries (FI)                        [ ] Fragile within a non-fragile Country
+
+
+
+[ ] Project-Based Guarantee                              [ ] Conflict
+
+[ ] Deferred Drawdown                                    [ ] Responding to Natural or Man-made Disaster
+
+
+
+[ ] Alternate Procurement Arrangements (APA)             [ ] Hands-on Enhanced Implementation Support (HEIS)
+
+
+
+
+
+
+
+Expected Approval Date         Expected Closing Date
+
+
+
+19-Sep-2023                    31-Dec-2028
+
+
+
+Bank/IFC Collaboration
+
+
+
+No
+
+
+
+Proposed Development Objective(s)
+
+
+
+The Project Development Objective (PDO) is to increase capacity for flood management and navigation along the
+
+Jamuna River.
+
+
+
+
+
+
+
+
+
+                                                       Page i
+
+     The World Bank
+
+     Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+
+
+
+
+Components
+
+
+
+Component Name                                                                               Cost (US$, millions)
+
+
+
+1. Flood and riverbank erosion management                                                                 69.10
+
+
+
+2. Navigation channel development                                                                         49.00
+
+
+
+3. Financial protection of communities                                                                     7.80
+
+
+
+4. Project management                                                                                     12.30
+
+
+
+5. Contingent emergency response                                                                           0.00
+
+
+
+Organizations
+
+
+
+Borrower:                            People's Republic of Bangladesh
+
+Implementing Agency:                 Bangladesh Inland Water Transport Authority (BIWTA), Ministry of Shipping
+
+                                     (MoS)
+
+                                     Bangladesh Water Development Board (BWDB), Ministry of Water Resources
+
+                                     (MoWR)
+
+                                     Insurance Development and Regulatory Authority (IDRA), Ministry of Finance
+
+                                     (MoF)
+
+
+
+PROJECT FINANCING DATA (US$, Millions)
+
+
+
+SUMMARY                 -NewFin1
+
+
+
+
+
+
+
+
+
+Total Project Cost                                                                                           138.20
+
+
+
+Total Financing                                                                                              138.20
+
+
+
+                 of which IBRD/IDA                                                                           102.00
+
+
+
+Financing Gap                                                                                                  0.00
+
+
+
+DETAILS   -NewFinEnh1
+
+
+
+
+
+
+
+
+
+World Bank Group Financing
+
+
+
+  International Development Association (IDA)                                                                102.00
+
+     IDA Credit                                                                                               30.00
+
+
+
+     IDA Shorter Maturity Loan (SML)                                                                          72.00
+
+
+
+
+
+
+
+
+
+                                                            Page ii
+
+        The World Bank
+
+        Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+
+
+Non-World Bank Group Financing
+
+
+
+   Counterpart Funding                                                                                       30.20
+
+        Borrower/Recipient                                                                                   30.20
+
+
+
+   Trust Funds                                                                                                6.00
+
+
+
+        Global Shield Financing Facility (GSFF)                                                               6.00
+
+
+
+
+
+
+
+
+
+IDA Resources (in US$, Millions)
+
+                                                                                       Guarantee
+
+                           Credit Amount      Grant Amount        SML Amount                         Total Amount
+
+                                                                                         Amount
+
+Bangladesh                           30.00            0.00               72.00               0.00           102.00
+
+   Scale-Up Window
+
+                                     30.00            0.00               72.00               0.00           102.00
+
+   (SUW)
+
+Total                                30.00            0.00               72.00               0.00           102.00
+
+
+
+ Expected Disbursements (in US$, Millions)
+
+
+
+ WB Fiscal Year                                                2024     2025       2026    2027     2028     2029
+
+
+
+ Annual                                                         4.30    18.30      37.70   29.80     8.00     3.90
+
+
+
+ Cumulative                                                     4.30    22.60      60.30   90.10    98.10   102.00
+
+
+
+
+
+
+
+ INSTITUTIONAL DATA
+
+
+
+Practice Area (Lead)                                 Contributing Practice Areas
+
+Water                                                Finance, Competitiveness and Innovation, Transport
+
+
+
+Climate Change and Disaster Screening
+
+This operation has been screened for short and long-term climate change and disaster risks
+
+
+
+
+
+
+
+
+
+                                                             Page iii
+
+      The World Bank
+
+      Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+
+
+ SYSTEMATIC OPERATIONS RISK-RATING TOOL (SORT)
+
+
+
+
+
+Risk Category                                                                       Rating
+
+
+
+1. Political and Governance                                                         ⚫ Moderate
+
+
+
+2. Macroeconomic                                                                    ⚫ Moderate
+
+
+
+3. Sector Strategies and Policies                                                   ⚫ Moderate
+
+
+
+4. Technical Design of Project or Program                                           ⚫ Moderate
+
+
+
+5. Institutional Capacity for Implementation and Sustainability                     ⚫ Substantial
+
+
+
+6. Fiduciary                                                                        ⚫ Substantial
+
+
+
+7. Environment and Social                                                           ⚫ High
+
+
+
+8. Stakeholders                                                                     ⚫ High
+
+
+
+9. Other
+
+
+
+10. Overall                                                                         ⚫ Substantial
+
+
+
+
+
+ COMPLIANCE
+
+
+
+Policy
+
+Does the project depart from the CPF in content or in other significant respects?
+
+[ ] Yes    [✓] No
+
+
+
+Does the project require any waivers of Bank policies?
+
+[ ] Yes    [✓] No
+
+
+
+
+
+
+
+
+
+                                                            Page iv
+
+      The World Bank
+
+      Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+
+
+
+
+Environmental and Social Standards Relevance Given its Context at the Time of Appraisal
+
+
+
+E & S Standards                                                                    Relevance
+
+
+
+Assessment and Management of Environmental and Social Risks and Impacts            Relevant
+
+
+
+Stakeholder Engagement and Information Disclosure                                  Relevant
+
+
+
+Labor and Working Conditions                                                       Relevant
+
+
+
+Resource Efficiency and Pollution Prevention and Management                        Relevant
+
+
+
+Community Health and Safety                                                        Relevant
+
+
+
+Land Acquisition, Restrictions on Land Use and Involuntary Resettlement            Relevant
+
+
+
+Biodiversity Conservation and Sustainable Management of Living Natural             Relevant
+
+Resources
+
+Indigenous Peoples/Sub-Saharan African Historically Underserved Traditional        Not Currently Relevant
+
+Local Communities
+
+Cultural Heritage                                                                  Not Currently Relevant
+
+
+
+Financial Intermediaries                                                           Not Currently Relevant
+
+
+
+
+
+NOTE: For further information regarding the World Bank’s due diligence assessment of the Project’s potential
+
+environmental and social risks and impacts, please refer to the Project’s Appraisal Environmental and Social Review
+
+Summary (ESRS).
+
+
+
+Legal Covenants
+
+
+
+Sections and Description
+
+Section I.A.1(b) of Schedule 2 to the Financing Agreement:
+
+“The Recipient shall, at all times during the implementation of the Project:
+
+(b) take, or cause to be taken, all actions, including the provision of funding, personnel, and other resources, to
+
+enable BWDB, BIWTA, and IDRA (together, “Implementing Agencies”, and individually, “Implementing Agency”) to
+
+perform its respective functions under the Project, including the establishment of a dedicated unit for Project
+
+management and implementation in each Implementing Agency (“Project Implementation Unit”), by not later than
+
+sixty (60) days after the Effective Date, which shall be headed by a Project director and supported with adequate
+
+number of staff and/or consultants, each with terms of reference, qualifications, and experience satisfactory to the
+
+Association.”
+
+
+
+Sections and Description
+
+Section I.A.2(a) of Schedule 2 to the Financing Agreement:
+
+
+
+
+
+                                                             Page v
+
+      The World Bank
+
+      Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+
+
+“The Recipient shall maintain, at all times during the implementation of the Project, with a mandate, composition,
+
+and resources satisfactory to the Association: (a) a steering committee (“Project Steering Committee” or “PSC”) for
+
+each Implementing Agency, which shall: (i) be established by not later than sixty (60) days after the Effective Date;
+
+(ii) be responsible for providing overall guidance and policy direction at a higher level and ensuring sound
+
+coordination between the Implementing Agencies and other government entities involved; (iii) be led by a Senior
+
+Secretary/Secretary of the concerned ministry, with the PSC under MOWR acting as the coordinator of all PSCs; and
+
+(iv) consist of representatives from concerned ministries, BWDB, BIWTA, IDRA, Economic Relations Division,
+
+Finance Division, the Planning Commission, IMED, and the Bangladesh Bridge Authority and other relevant
+
+stakeholder agencies;”
+
+
+
+Sections and Description
+
+Section I.A.2(b) of Schedule 2 to the Financing Agreement:
+
+“The Recipient shall maintain, at all times during the implementation of the Project, with a mandate, composition,
+
+and resources satisfactory to the Association: (b) an panel of experts for BWDB and BIWTA, which shall: (i) be
+
+established by not later than six (6) months after the Effective Date; and (ii) to be responsible for addressing Project
+
+risks, providing advice on river engineering and morphology, inland navigation, livelihood restoration, and aquatic
+
+biodiversity, and ensuring that the Project is implemented in line with global best practices.”
+
+
+
+Sections and Description
+
+Section I.B.1 of Schedule 2 to the Financing Agreement:
+
+“The Recipient shall prepare and adopt, by not later than forty-five (45) days after the effective date, and thereafter
+
+implement the Project in accordance with, a manual (“Project Operations Manual”), in form and substance
+
+satisfactory to the Association.”
+
+
+
+Sections and Description
+
+Section I.E of Schedule 2 to the Financing Agreement:
+
+“The Recipient shall: (a) ensure that all expenditures under Part 1(b) and consulting services under Part 1(d) are
+
+financed exclusively out of its own resources and not out of the proceeds of the Financing; and (b) provide,
+
+promptly as needed, the resources needed for this purpose:
+
+(i) all costs associated with land and land use rights, compensation and afforestation required for the purposes of
+
+the Project; (ii) procurement of vehicles (other than one prototype self-propelled vessel and two prototype floating
+
+jetties), recurrent expenditures for the purpose of attending meetings, conferences, seminars, workshops and
+
+study tours (sitting allowances / cash per diems / honoraria, notwithstanding eligible expenditures under Operating
+
+Costs and Training), and recurrent expenditures for fuel, under the Project; (iii) all Taxes, except value-added taxes
+
+under Part 2 of the Project up to 15% of the Credit Amount; (iv) all Incremental Operating Costs associated with the
+
+operations of BWDB-PIU and IDRAPIU offices and leasing of vehicles for BIWTA-PIU under Part 4 of the Project; and
+
+(v) procurement of equipment and goods under Part 3."
+
+
+
+
+
+Conditions
+
+
+
+Type                    Financing source          Description
+
+Disbursement            IBRD/IDA                  Withdrawal Conditions - Section III.B.1(b) of Schedule 2 to the
+
+                                                  Financing Agreement: “no withdrawal shall be made: (a) for
+
+                                                  payments made prior to the Signature Date; or (b) for Emergency
+
+
+
+
+
+                                                             Page vi
+
+The World Bank
+
+Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+
+
+                                      Expenditures under Category (4), unless and until all of the
+
+                                      following conditions have been met in respect of said expenditures:
+
+                                      (i) (A) the Recipient has determined that an Eligible Crisis or
+
+                                      Emergency has occurred, and has furnished to the Association a
+
+                                      request to withdraw Credit amounts under Category (4); and (B) the
+
+                                      Association has agreed with such determination, accepted said
+
+                                      request and notified the Recipient thereof; and (ii) the Recipient
+
+                                      has adopted the CERC Manual and Emergency Action Plan, in form
+
+                                      and substance acceptable to the Association.”
+
+
+
+
+
+
+
+
+
+                                                Page vii
+
+The World Bank
+
+Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+
+
+       I. STRATEGIC CONTEXT
+
+
+
+       A. Country Context
+
+
+
+   1. Bangladesh experienced rapid social and economic progress in recent decades, reaching lower
+
+   middle-income status in 2015. Stable macroeconomic conditions drove 6.7 percent average annual real
+
+   Gross Domestic Product (GDP) growth between 2010 and 2019. The national poverty rate fell from 48.9
+
+   to 24.5 percent between 2000 and 2016, supported by labor market gains. However, poverty reduction
+
+   has recently slowed, particularly in urban areas and in the west of the country.1 Annual consumption
+
+   growth of the bottom 40 percent (1.2 percent) trailed the overall population (1.6 percent) from 2010 to
+
+   2016.
+
+   2. Rising global commodity prices and global monetary policy tightening disrupted the economic
+
+   recovery from COVID-19. Government stimulus programs supported a rapid economic recovery in FY21
+
+   as movement restrictions ended. However, the current account deficit surged in the second half of FY22
+
+   amidst rising commodity and intermediate goods prices, which contributed to accelerating inflation.
+
+   Import price moderation and rationing narrowed trade deficit in FY23, supported by resilient export
+
+   growth. However, this was offset by a sharp contraction in trade credit and lower medium- and long-term
+
+   lending in the financial account. The balance of payments deficit reached US$8.2 billion by end FY23.
+
+   Authorities requested support to restore external balance, including an International Monetary Fund
+
+   (IMF) program approved in January 2023.
+
+   3. The fiscal deficit widened to an estimated 4.4 percent of GDP in FY23. Tax revenues remained among
+
+   the lowest in the world at an estimated 7.6 percent of GDP in FY23. Expenditure growth accelerated with
+
+   higher subsidy spending as a result of elevated commodity prices, while revenues declined with lower
+
+   imports. Capital expenditure was led by infrastructure megaprojects, with rationalization of other projects
+
+   in FY23 to slow the growth of the budget deficit.
+
+   4. Real GDP growth is expected to reach 6.2 percent in FY24 before accelerating to its long-term trend.
+
+   Growth is expected to converge to 6.5 percent over the medium term as inflationary pressure eases,
+
+   depending on the depth of reforms implemented. The fiscal deficit is expected to gradually narrow with
+
+   accelerating economic activity, higher incomes, and tax administration reform implementation. The
+
+   Current Account Deficit will narrow as imports normalize with moderating commodity prices. Remittance
+
+   inflows are expected to rise, supported by strong external demand for migrant workers. The financial
+
+   account deficit is projected to moderate in FY24.
+
+   5. Structural reforms are needed to support a faster pace of growth over the medium term. Priorities to
+
+   reach upper middle-income status by 2031 include building a competitive business environment,
+
+   diversifying exports, increasing human capital, building efficient infrastructure, deepening the financial
+
+   sector, and attracting private investment. These reforms will support international competitiveness as
+
+   Bangladesh prepares for graduation from the Least Developed Country status in 2026, which will gradually
+
+   lead to reduced concessional financing and preferential market access for its exports.
+
+   6. Bangladesh is at low risk of overall and external debt distress in the January 2023 joint IMF-World
+
+   Bank Debt Sustainability Assessment (DSA). Bangladesh is not currently subject to Debt Limits
+
+   Conditionality under the Sustainable Development Finance Policy (SDFP). In its most recent Staff Report,
+
+
+
+   1   Bangladesh Systematic Country Diagnostic Update (2021).
+
+
+
+
+
+
+
+                                                                 Page 1
+
+The World Bank
+
+Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+
+
+   the IMF stressed the need for Bangladesh to accelerate its ambitious reform agenda to achieve a more
+
+   resilient, inclusive, and sustainable growth, requiring substantial investments in human capital and
+
+   infrastructure.
+
+   7. Bangladesh faces a high level of vulnerability to the effects of climate change. The Global Climate Risk
+
+   Index ranks it as the seventh most affected country in 2000-2019,2 with high susceptibility to extreme
+
+   weather events such as cyclones, floods, and storm surges. Recurring flooding in Bangladesh affects a
+
+   greater population than any other natural hazard, impacting more than 1 million people annually. Once
+
+   every three to five years, up to two-thirds of the country is inundated by floods. Addressing these climate
+
+   risks will support sustainable economic development and prevent vulnerable populations from being left
+
+   behind.
+
+       B. Sectoral and Institutional Context
+
+
+
+   8. Over the last decade, the Government of Bangladesh (GoB) has been spending around 0.6–0.8
+
+   percent of GDP on the water sector, which needs to be improved both in quantity and quality. The
+
+   overall water sector in Bangladesh still faces many challenges, and the GoB aims to increase the sector
+
+   spending to 2.5 percent of GDP by 2030 to tackle them. It is important that this increased spending is
+
+   matched with efforts to enhance quality of spending. For example, while the water resource management
+
+   (WRM) subsector has received around 70 percent of the total sector spending, most of this is used for
+
+   capital expenditures with little regard to repairs and maintenance, and there is a need to refocus on the
+
+   quality of spending to improve sector outcomes.3
+
+   9. Bangladesh aspires to attain upper-middle-income status by 2031, and better river management is
+
+   important for achieving that goal. Bangladesh is situated among the floodplains of three major
+
+   international rivers—Padma–Ganges, Jamuna–Brahmaputra, and Meghna—and 230 smaller rivers and
+
+   has access to the sea (Annex 1 – figure A). Given the dominance of rivers in the country’s geography, good
+
+   river management practices would go a long way in maximizing overall productivity of the river system
+
+   and minimizing climate change exacerbated disaster risks, both of which translate into economic growth.4
+
+   10. A policy focus on food security in the past has exacerbated river management challenges. For
+
+   decades, strategies for water management were shaped by a series of master plans that focused solely
+
+   on food security, which meant controlling monsoon floods to avert famines and increasing groundwater
+
+   use for rice production in dry seasons. While the approach is understandable in the context of
+
+   Bangladesh’s history, its limited focus admittedly led to insufficient and inadequate investments in river
+
+   management, resulting in poor floodplain management, inadequate protection of vulnerable
+
+   communities, reduction in inland water transport (IWT), and weak transboundary water collaboration.
+
+   11. Weak and inefficient institutions are at the center of river management challenges. The Water Act
+
+   2013 serves as a robust, comprehensive legal framework for the country’s water sector, including river
+
+   management. However, the institutions face several challenges in implementation, including
+
+   fragmentation, weak technical capabilities, and limited community participation. Additionally, there is a
+
+
+
+
+
+
+
+
+
+   2 German  watch (2021) Global Climate Risk Index 2021.
+
+   3 Pricewaterhouse Coopers. 2020. Public Expenditure Reviews of the Water Sector in Select Countries in Asia: Bangladesh.
+
+   4 Biswas, A. K., O. Ünver, and C. Tortajada. 2004. Water as a Focus for Regional Development. Oxford University Press.
+
+
+
+
+
+
+
+
+
+                                                              Page 2
+
+The World Bank
+
+Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+
+
+   notable shortfall in incorporating gender perspectives and promoting gender diversity within the context
+
+   of water and river management.
+
+   12. Adopted in 2018 as part of GoB’s key development agenda, the Bangladesh Delta Plan 2100
+
+   (BDP2100) is expected to stimulate economic growth through a paradigm shift in river management.
+
+   With the vision of achieving a safe, climate-resilient, and prosperous delta, the water-centric, climate-
+
+   change-focused integrated plan prioritizes US$38 billion worth of physical and institutional investments,
+
+   which will result in incremental economic growth of 2 percent per year until 2041.5 To aid the BDP2100
+
+   implementation, the GoB created the Delta Wing under the Planning Commission. In addition, the Prime
+
+   Minister chairs the Delta Governance Council which is an inter-ministerial forum providing which provides
+
+   strategic directions in the water sector.
+
+   13. The Jamuna River (“the River”) features prominently among the BDP2100’s priority projects. The
+
+   Jamuna River is a section of one of the major rivers in the world. It flows through India as the Brahmaputra
+
+   River, and then dissects Bangladesh from north to south until it meets the Padma-Ganges River and the
+
+   Meghna River before discharging into the Bay of Bengal (Annex 1 - figure A). About 50 percent of the
+
+   households living in districts in the Jamuna basin depend on agriculture and fisheries for livelihood,
+
+   compared to 27 percent nationwide. In the BDP2100, the Jamuna River is featured under the US$3.7
+
+   billion Integrated Jamuna-Padma Rivers Stabilization and Land Reclamation Project - the largest in the
+
+   ‘Rivers and Estuaries’ hot spot and the fourth largest among the 80 priority projects identified for
+
+   implementation until 2030. It aims to control riverbank erosion, increase land reclamation, reduce
+
+   flooding, restore navigation, increase land productivity, and designate environmental protection zones.
+
+   Investments in economic zones and irrigation near the River, which fall outside the ‘Rivers and Estuaries’
+
+   hot spot, bring above US$6 billion total capital costs to the Jamuna region.
+
+   14. Given its size, location, and undeveloped status, the Jamuna River has enormous economic
+
+   potential. Its economic benefits are expected to be among the highest within the BDP2100, especially due
+
+   to its potential in flood/erosion risk management, IWT, and multiplier effect of a river economic corridor.
+
+   15. The proposed Jamuna River Sustainable Management Project 1 (“the Project”) is the first major
+
+   investment to be implemented under the BDP2100. The BDP2100 implementation got off to an
+
+   understandably slow start given its size, complexity, and the need for multisector coordination,
+
+   compounded by delays associated with COVID-19. The Project responds to the GoB’s Preliminary
+
+   Development Project Proposal, dated June 2020, which consists of 10-year multiphase, multisector
+
+   investments worth US$2.8 billion in the Jamuna River. The Project aims to not only offer financing and
+
+   relevant knowledge but also help build overall confidence in the BDP2100 and establish implementation
+
+   momentum. It will provide critical support to Bangladesh’s long-term economic goals.
+
+
+
+       C. Relevance to Higher Level Objectives
+
+
+
+   16. The Project is aligned with the Bangladesh Country Partnership Framework (CPF) FY23–27 discussed
+
+   by the World Bank Board of Executive Directors on April 27, 2023 (Report No. 181003-BD). The Project
+
+   contributes to four objectives in the CPF, which recognizes the BDP2100’s central role in bringing about
+
+   long-term growth and poverty reduction through strengthened delta management: 1) the Project helps
+
+   achieve Objective 7 by enhancing the Jamuna River’s resilience to floods and riverbank erosion and
+
+   promoting a wider use of IWT, which would lead to reduced Greenhouse Gas (GHG) emissions; 2) the
+
+
+
+   5   Annual economic growth is expected at 8 percent with the BDP2100, compared to 6 percent without it.
+
+
+
+
+
+
+
+                                                               Page 3
+
+The World Bank
+
+Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+
+
+   Project tackles some of the key constraints to Objective 6 by providing foundations for the river economic
+
+   corridor that could accelerate regional trade and integration; 3) the Project contributes to Objective 5 as
+
+   it will help protect/enhance the livelihoods of the women and men living along the River, reduce migration
+
+   to urban slums, and improve women’s access to IWT services and opportunities; and 4) the Project helps
+
+   support Objective 2 through developing and implementing insurance schemes against floods.
+
+
+
+   17. The Project supports the GoB’s sector strategy, the BDP2100, and its proposed GHG emission
+
+   reduction and mitigation goals included in Bangladesh’s Nationally Determined Contribution (NDC) and
+
+   National Adaptation Plan (NAP). The Project will help implement the BDP2100’s hot spot-specific strategy
+
+   on ‘River and Estuaries’, contributing to achieving four of the six BDP2100 goals: 1, 3, 5, and 6. The
+
+   Project’s contribution to Bangladesh’s NDC and NAP implementation through climate change mitigation
+
+   and adaptation measures embedded in its design.
+
+
+
+   18. The Project is aligned with the Bangladesh Country Climate and Development Report (CCDR,
+
+   P176757). The CCDR includes a review of the BDP2100 projects that are potentially most climate
+
+   adaptation effective, and the review’s result confirms that the Project is one of the top priority investment
+
+   projects within the BDP2100. The CCDR also highlights strengthening post-disaster social protection as a
+
+   key pathway for climate resilience, which is supported by the Project under the disaster risk financing
+
+   (DRF) activities. The Project is also aligned with the South Asia Roadmap to implement World Bank’s
+
+   Climate Change Action Plan for 2021–2025.
+
+
+
+   19. The Project will reinforce ongoing regional efforts to enhance transboundary water management in
+
+   South Asia, in line with the World Bank’s Approach to South Asia Regional Integration, Cooperation,
+
+   and Engagement 2020–23. Recognizing that inland waterways for South Asia could be a driver of
+
+   economic growth and poverty reduction, 6 some riparian countries are actively exploring and
+
+   implementing ambitious plans for IWT. Because of the Jamuna–Brahmaputra River’s extensive reach, the
+
+   Project’s impact would be truly regional, connecting Bangladesh, Bhutan, India, and Nepal.
+
+
+
+   20. In line with the World Bank’s Gender Equality Strategy, the Project addresses gender gaps specific
+
+   to the sector. The Project will (a) incorporate gender capacity building in the implementing agencies (IAs)
+
+   by developing and implementing gender strategies to enhance gender equality in their human resources
+
+   practices; (b) incorporate actions to increase gender equality and sex disaggregated monitoring in the IAs’
+
+   planning documents to be prepared; (c) ensure women’s representation as water management group
+
+   (WMG) members and leaders, their voices are heard and reflected in river management and community
+
+   engagement activities; and (d) offer targeted leadership training for current and prospective women
+
+   executive committee members.
+
+
+
+   21. The Project qualifies for the World Bank’s corporate definition of ‘Maximizing Finance for
+
+   Development’, because it addresses bottlenecks for realizing this vision on the Jamuna River, through
+
+   public investments in river structures; a range of river information services (RIS) and navigational
+
+   prototypes; setting up DRF instruments to transfer part of the climate risk to the insurance market; and
+
+   building capacity in river institutions.
+
+
+
+
+
+   6 Trade among Bangladesh, Bhutan, India, and Nepal (BBIN) has increased significantly, from US$3 billion in 2005 to over US$18
+
+   billion in 2019. There is still significant potential for further expansion of regional trade opportunities, considering considerably
+
+   low intra-BBIN trade (4.3 percent) compared to intraregional trade in East Asia (50 percent) and Sub-Saharan Africa (22 percent).
+
+
+
+
+
+
+
+                                                                 Page 4
+
+The World Bank
+
+Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+
+
+    D. Series of Projects
+
+
+
+   22. The Project is the first in a Series of Projects (SoP). There are three principal reasons for choosing the
+
+   single-borrower SoP modality over a stand-alone investment project financing approach to support the
+
+   BDP2100 implementation in the Jamuna River: (i) achieving the Jamuna River’s full economic potential
+
+   will require support beyond the short term; (ii) a longer-term plan signals the World Bank’s commitment
+
+   to the BDP2100 implementation; and (iii) the SoP will provide room for technical and institutional learning.
+
+   23. The SoP development objective is to increase climate resilience and economic productivity along
+
+   the Jamuna River, and the proposed series of three projects are expected to be implemented over 14
+
+   years (Annex 1 – figure C). Succeeding projects under the SoP will build on the learning from the preceding
+
+   ones. For example, the length of the Jamuna River targeted for river structure investments would expand
+
+   throughout the SoP; the River’s navigability will gradually enhance through performance-based, dynamic
+
+   dredging. The third project in the series may commence investments in economic zones, enabled by
+
+   activities in the first and second projects that will have made the River safer from flooding and riverbank
+
+   erosion and more navigable. Each project will include preparatory activities, such as feasibility studies, for
+
+   the subsequent project. Using its convening power, the World Bank will make its best efforts to bring in
+
+   other sources of financing, including from Development Partners (DPs) and the private sector, to support
+
+   the SoP, which may cost up to US$2.8 billion. Leveraging the private sector financing will become critical
+
+   in the second and third projects, including through levying navigation end-user fees and engaging
+
+   irrigation service providers. A detailed study examining the SoP’s potential for private sector financing will
+
+   be prepared under the first project.
+
+
+
+    II. PROJECT DESCRIPTION
+
+
+
+    A. Project Development Objective
+
+
+
+   24. The Project Development Objective (PDO) is to increase capacity for flood management and
+
+   navigation along the Jamuna River. Given that the Project is the first in the SoP, capacity refers to both
+
+   physical and institutional aspects. The physical capacity to be built through the Project is limited in nature
+
+   and will be expanded, scaled up, or upgraded in the subsequent projects in the SoP based on the
+
+   evaluation of project outcomes. The institutional capacity building activities in the Project are focused on
+
+   preparing the IAs for larger, more complicated subsequent projects with higher risks. The PDO will be
+
+   evaluated against the following PDO-level indicators:
+
+   (a) Construction, maintenance, and evaluation of river structures that are climate-adapted (yes/no)
+
+   (b) Average travel time of vessels from Sirajganj to Daikhowa (days)
+
+   (c) The two Master Plans (NRMMP & JRNMP) be submitted for approval (yes/no)
+
+   (d) Government capacity improved for coordinating multisector decisions on river planning (yes/no)
+
+
+
+    B. Project Components
+
+
+
+   25. With NBS and the four elements of disaster risk management —mitigation, preparedness, response,
+
+   and recovery—as guiding principles, the Project combines activities in the Jamuna River, including
+
+   investments in innovative river structures, navigation channel development, DRF solutions, and
+
+   community engagement (Annex 1 – figure D). NBS seeks to integrate ‘green infrastructures’ (or natural
+
+
+
+
+
+
+
+                                                      Page 5
+
+The World Bank
+
+Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+
+
+   systems) and ‘grey infrastructures’ (or traditional built solutions) to provide next generation solutions that
+
+   enhance system performance and communities protection. The Project will include nature-based
+
+   solutions (NBS) in riverbank protection, combined with cost-effective, innovative hard engineering
+
+   structures. NBS are also manifest in the Project’s dynamic navigation approach that allows ‘room for the
+
+   river’—letting the River dynamically meander and naturally carve out multiple channels during the
+
+   monsoon season and then seeking the best navigation routes at the start of the dry season, without
+
+   coercing permanent navigation channels.7 Through the Project’s multisectoral approach, all four phases
+
+   of disaster risk management are supported to deal with extreme weather events (Annex 1 – figure D).
+
+   26. The Project will invest about US$138.2 million over 5 years across five components, includes
+
+   US$102.0 million from IDA credit,8 US$30.2 million from counterpart funding, and US$6.0 million from
+
+   the GSFF (table 1). The project will also benefit from support of other DPs, include: 1) the Kingdom of
+
+   Netherlands, which intended to offer an US$6.0 million grant to support institutional strengthening, and
+
+   2) the Asian Infrastructure Investment Bank (AIIB), which has approved an US$5.0 million grant to support
+
+   subcomponent 1.5 of the project. Major capital works that rehabilitate and modernize the GoB’s ongoing
+
+   river works will be limited to Components 1 and 4, and the rest of the financing would be used for
+
+   procurement of goods, Operation & Maintenance (O&M),9 and technical assistance (TA). Each component
+
+   will be implemented in different sections of the Jamuna River, within the 250 km stretch between
+
+   Daikhowa and Aricha (Annex 1 - figure B). A summary of climate adaptation and mitigation activities
+
+   embedded in project design is provided in the “Climate Change Technical Note”10. Further activity details
+
+   of each component will be described in the project operations manual.
+
+
+
+                              Table 1. Project Costings and IA by Subcomponent (US$, millions)
+
+
+
+
+
+                       Project Component                         Project   IDA             DP         Counterpart          IA
+
+                                                                  Costs Financing         Grants        Funding
+
+       1. Flood and riverbank erosion management                  69.1      53.1              —           15.9
+
+         1.1. Works and O&M                                         47.0    39.9              —            7.1
+
+         1.2. Land acquisition, compensation, and
+
+                                                                      2.5        —              —            2.5
+
+         afforestation                                                                                                  BWDB
+
+         1.3. Institutional strengthening                             1.8       0.4             —           1.4
+
+         1.4. Community engagement                                   15.1      12.8             —           2.3
+
+         1.5. Preparation for the second project                      2.7        —              —           2.7
+
+       2. Navigation channel development                             49.0      47.2a            —           1.8
+
+         2.1. Hydrography and RIS                                    26.8      26.8             —           —
+
+         2.2. Prototype structures                                    9.5       9.1             —            0.4        BIWTA
+
+         2.3. Institutional strengthening                            11.5      10.1             —            1.4
+
+         2.4. Preparation for the second project                      1.2       1.2             —            0.0
+
+       3. Financial protection of communities                         7.8        —             5.4b         2.4          IDRA
+
+
+
+
+
+   7 Dynamic navigation focuses on keeping navigation routes functional when river channel shifting takes place. It is important to
+
+   concurrently invest in three aspects: (a) regular hydrographic surveys to update navigation charts, (b) aids to navigation, and (c)
+
+   river training structures and dynamic dredging. The Project applies all three aspects of dynamic navigation (except for dynamic
+
+   dredging, to be included in the second project). Experience from Ayeyarwady River supports this approach.
+
+   8 The IDA credit includes US$30 million from the regular SUW and US$72 million from the SUW-SML.
+
+   9 The GoB does not typically provide O&M budget for infrastructure completed under an ongoing project. IDA will support the
+
+
+
+   O&M costs until the project closure, and then the GoB will provide the O&M budget thereafter.
+
+   10 The Climate Change Technical Note is included in the Supplemental Note (section B).
+
+
+
+
+
+
+
+
+
+                                                                Page 6
+
+The World Bank
+
+Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+
+
+                      Project Component                      Project   IDA           DP         Counterpart        IA
+
+                                                              Costs Financing       Grants        Funding
+
+          3.1. Design and development of prearranged
+
+                                                                  7.3        —           5.0          2.3
+
+          financial solutions
+
+          3.2. Institutional strengthening                       0.5       —             0.4          0.1
+
+        4. Project management                                   12.3      1.7           0.6b         10.1
+
+          BWDB                                                   2.0      0.5            —            1.6       BWDB,
+
+                                                                                                                BIWTA,
+
+          BIWTA                                                  9.0      1.2            —            7.8      and IDRA
+
+          IDRA                                                   1.3      —             0.6b          0.7
+
+                                                                                                              BWDB and
+
+        5. Contingent emergency response                          —          —            —           —
+
+                                                                                                               BIWTA
+
+                              Total                          138.2       102.0           6.0         30.2
+
+    Note: a. SUW-Regular portion would finance part of component 2 expenditures and front-end fee only; b. Recipient-executed
+
+    trust fund by the GSFF;
+
+
+
+   27. The project components are summarized below, and details on project location and components can
+
+   be found in the supporting document. The costs/financiers for each component are found on the Table 1.
+
+   28. Component 1 on flood and riverbank erosion management (US$53.1 million from IDA, of US$69.1
+
+   million in total) will invest in integrated green and grey infrastructure and institutions that oversee and
+
+   manage it. The component is also linked to a grant of US$5.0 million from the AIIB to support the
+
+   subcomponent 1.5 activities, including the feasibility studies and Environmental and Social Framework
+
+   (ESF) preparation for the second project. The Kingdom of Netherlands also intended to offer an US$6.0
+
+   million grant, among which around US$3.6 million is tentatively planned to be allocated to support
+
+   subcomponent 1.3 activities.11 The component involves five subcomponents: (1.1) Works and O&M, to
+
+   supports capital and O&M expenditures for both transversal structures designed to deflect the River flow
+
+   away from the riverbanks, reduce the flow velocity near the riverbanks, and promote sedimentation; and
+
+   longitudinal structures built between groynes and independently along the riverbanks; (1.2) Land
+
+   acquisition, compensation, and afforestation, to acquire land and fund the afforestation works; (1.3)
+
+   Institutional strengthening, to enhance capacity of BWDB on river management. It includes support to
+
+   developing the National River Management Master Plan (NRMMP); (1.4) Community engagement, to
+
+   promote participatory planning, decision-making, and monitoring in the river management sector to
+
+   directly engage and empower people along the Jamuna River; and (1.5) Preparation for the second
+
+   project.
+
+   29. Component 2 on navigation channel development (US$47.2 million from IDA, of US$49.0 million in
+
+   total) invests in fundamental steps toward establishing dynamic navigation channels of adequate depth
+
+   that can accommodate large cargo vessels year-round. It consists of four subcomponents: (2.1)
+
+   Hydrography and RIS, to invest in developing and operating an RIS system on the Jamuna River between
+
+   Daikhowa and Aricha; (2.2) Prototype structures, to test pilot green shipping that could kick-start
+
+   innovative thinking in the IWT sector. This subcomponent includes environmentally friendly design,
+
+   commissioning, delivery, and O&M of a prototype cargo vessel and (estimated two) cargo-handling
+
+   pontoons, both of which cater to the specific conditions of the Jamuna River and require public investment
+
+   to spur innovation; (2.3) Institutional strengthening, to fulfill BIWTA’s role as the IA responsible for
+
+   Component 2 implementation, including O&M. The key activities include the Jamuna River Navigation
+
+
+
+   11The rest of the amount, around US$2.4 million, would be allocated to support project management for the BWDB PIU under
+
+   Component 4.
+
+
+
+
+
+
+
+                                                            Page 7
+
+The World Bank
+
+Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+
+
+   Master Plan (JRNMP), Regional IWT dialogue, and capacity building of the BIWTA staff; and (2.4)
+
+   Preparation for the second project.
+
+   30. Component 3 on financial protection of communities (US$0 from IDA, of US$7.8 million in total),
+
+   offers cash payments to the communities soon after payout-eligible flood events occur. This component
+
+   includes two subcomponents: (3.1) Design and development of prearranged financial solutions. The two
+
+   solutions include a macro-level insurance product and a community protection fund. Sites are likely to be
+
+   a subset of locations of the C1 pilot sites, which will be validated with flood risk modeling activities and
+
+   household data. Beneficiaries will be pre-identified based on criteria of vulnerability and gender. When
+
+   the instrument is triggered, digital payments will be made to beneficiaries; (3.2) Institutional
+
+   strengthening, to identify and address capacity gaps in relevant government agencies to support the
+
+   design and development of the financial solutions and the scale-up in the second project.
+
+   31. Component 4 on project management (US$1.7 million from IDA, of US$12.3 million in total) will
+
+   support the BWDB, BIWTA, IDRA’s Project Implementation Units (PIUs) for implementing the Project.
+
+   Costs to be covered include equipment, furniture, and consultancy services on fiduciary, Environmental
+
+   and Social (E&S) (including a Cumulative Impact Assessment [CIA], an Environmental and Social Impact
+
+   Assessment [ESIA] and Environmental and Social Management Plan updated during the implementation
+
+   of the Project), and Monitoring and Evaluation (M&E).
+
+   32. Component 5 on contingent emergency response is a provisional zero amount component, which will
+
+   allow for rapid reallocation of loan proceeds from other project components during an emergency,
+
+   including climate events, under streamlined procurement and disbursement procedures.
+
+   33. The Project will contribute to and make use of the Decision Support System (DSS) supported by the
+
+   ongoing Climate Adaptation and Resilience for South Asia (CARE) Project (P171054), which is developing
+
+   DSS portals in Bangladesh including for the water sector.
+
+
+
+    C. Project Beneficiaries
+
+
+
+   34. Local communities are expected to significantly benefit from the Project. People living along the
+
+   Jamuna River, including vulnerable communities and char dwellers12, will benefit from lower risk of land
+
+   erosion and flooding with improved water-related disaster risk mitigation, preparedness, response, and
+
+   recovery approaches. The Project aims to protect about 2,500 hectares of land from riverbank erosion.
+
+   This protection is expected to provide significant benefits to climate-vulnerable communities living or
+
+   have livelihoods nearby. About 100,000 people along the River could benefit from navigation
+
+   improvement through improved safety, reduction in transportation costs for those switching from buses
+
+   to passenger ferries, and enhanced spatial mobility. For the DRF solutions, about 1.2 million people are
+
+   expected to benefit from the insurance scheme and about 120,000 people from the community protection
+
+   fund. Labor Contracting Societies (LCS) formed through WMGs will give local communities access to
+
+   income-generating opportunities. Women’s access to DRF, income-generating opportunities, and
+
+   leadership roles in WMGs is expected to improve through the Project.
+
+   35. The Project will also serve businesses and industries along the Jamuna River, the GoB’s river
+
+   institutions, and the society as a whole. Better and safer navigation is expected to benefit businesses and
+
+
+
+   12 Char dwellers are communities that reside on 'chars,' which are temporary sandbars or islands formed by the sediment deposits
+
+   in the Jamuna River. These communities face unique vulnerabilities, including frequent flooding, erosion, and limited access to
+
+   resources.
+
+
+
+
+
+
+
+                                                               Page 8
+
+The World Bank
+
+Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+
+
+   industries located along the River, given that the unit cost of moving cargo will be reduced, capacity to
+
+   handle freight will increase, and transportation modal shift from trucks to IWT is expected to occur. This
+
+   in turn would lead to reduced congestions and road accidents and lesser air pollution, which will benefit
+
+   the society as a whole because of reduction in physical and mental stress and curbing of GHG emission.
+
+   Given the SoP’s multisectoral nature, strengthening institutional coordination will be emphasized through
+
+   training and multisectoral decision-making, for example, jointly review design and bid documents.
+
+
+
+   D. Results Chain
+
+
+
+   36. Figure 1 illustrates how the Project activities will contribute to results and the long-term impact.
+
+                                                    Figure 1. Theory of Change
+
+
+
+
+
+
+
+
+
+    E. Rationale for Bank Involvement and Role of Partners
+
+
+
+   37. The World Bank brings global and local expertise in river management. Its convening power enables
+
+   shoring up DPs’ direct and indirect support for the Project. It has extensive global and local expertise on
+
+   river management 13 and has supported the BWDB and the BIWTA for several decades. The WB-GoB
+
+   dialogue and partnership is the foundation for enhancing support for river management in the country.
+
+
+
+   13   The WB prepared and supervised many river management projects, policy reforms, and capacity building around the world.
+
+
+
+
+
+
+
+                                                               Page 9
+
+The World Bank
+
+Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+
+
+   Building on the partnership that the World Bank has nurtured in the past, some DPs have committed to
+
+   parallel- or co-financing the Project (table 1). The World Bank will work with DPs to ensure coherent
+
+   support for managing the Jamuna River and the overall delta. This support will be fully aligned with the
+
+   GoB's strategy.
+
+   38. The Project benefits from the experience and knowledge gained through projects and capacity
+
+   building activities that other DPs have financed in the sector over the years. Along with the World Bank,
+
+   numerous multilateral agencies and bilateral partners have offered TA and remain committed to
+
+   supporting the implementation of BDP2100. 14 Among these, the Flood and River Erosion Risk
+
+   Management Investment Program (FRERMIP) supported by the Asian Development Bank (ADB) and the
+
+   Netherlands is very relevant. The FRERMIP invests in improving flood/erosion risk management in the
+
+   lower Jamuna and Padma River through the construction of revetments and embankments and
+
+   institutional strengthening at national level for flood and riverbank erosion risk management. The Project
+
+   will seek alignment with the FRERMIP going forward.15
+
+
+
+    F. Lessons Learned and Reflected in the Project Design
+
+
+
+   39. Recognizing its potential to contribute to the country’s economic development, a holistic river
+
+   management approach is applied to the Project. In line with the GoB’s view that riverbank protection
+
+   alone is insufficient to address multifaceted river management issues, the Project includes interventions
+
+   in navigation, DRF, and community engagement. In the subsequent SoP projects, a wider range of
+
+   undertakings are envisioned aligned with the GoB's economic vision for the River, including performance-
+
+   based dredging, irrigation, recreation, eco conservation, logistics, and green economic zones.
+
+   40. To ensure effectiveness of the river structures, the Project invests in innovation and O&M capacity
+
+   building. There is no single river structure that can both protect the riverbank and preserve room for the
+
+   River. Hence, different types of structures need to be designed, put in place, and evaluated to maximize
+
+   their impacts. The Project will invest in a combination of longitudinal and transversal river structures,
+
+   including innovative Top Blocked Permeable Groynes (TBPGs). The Project also supports building O&M
+
+   capacity in the BWDB to sustain the river structures.
+
+   41. The Project defers dredging to the second project in the SoP. Despite the importance of dredging in
+
+   a country brimming with rivers, the industry is neither effective nor efficient. To change the status quo,
+
+   the SoP promotes ‘dynamic performance-based dredging’. The decisions on dredging locations and
+
+   magnitude are made constantly based on hydrographic surveys and the dredging contractor is paid based
+
+   on the performance of pre-agreed service indicators, including sustainability. Hence, the Project will (a)
+
+   lay the foundations for dynamic dredging through activities under Component 2 and (b) take stock of the
+
+   lessons learned from the performance-based dredging contract pilots executed under the Bangladesh
+
+   Regional Waterway Transport Project 1 (P154511). In addition, the effectiveness of innovative river
+
+   structures developed under Component 1, in reducing the need for dredging will be evaluated.
+
+
+
+
+
+
+
+
+
+   14They include the ADB, AIIB, FAO, UNDP, Canada, France, Germany, Japan, the Netherlands, and the United Kingdom.
+
+   15To maximize learning from the FRERMIP, the Netherlands has agreed to fund institutional strengthening activities under
+
+   Component 1, including preparing the NRMMP, construction supervision and evaluation of the river structures, and independent
+
+   PoE, as detailed in the Development Project Proposal (DPP) submitted to the Planning Commission by the BWDB in May 2023.
+
+
+
+
+
+
+
+                                                             Page 10
+
+The World Bank
+
+Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+
+
+    III. IMPLEMENTATION ARRANGEMENTS
+
+
+
+
+
+    A. Institutional and Implementation Arrangements
+
+
+
+   42. The three main Implementing Agencies (IAs) of the Project are the BWDB under the Ministry of
+
+   Water Resources (MoWR), the BIWTA under the Ministry of Shipping (MoS), and IDRA under the
+
+   Ministry of Finance (MoF). The BWDB, the lead IA of the Project, is responsible for surface and
+
+   groundwater management in Bangladesh, making it relevant for the Project’s river works and O&M. The
+
+   BIWTA, mandated to develop and maintain the IWT system in Bangladesh, will be responsibility for the
+
+   Project’s navigation improvement. IDRA, in charge of regulating and supervising all the insurance
+
+   companies in Bangladesh, will oversee the component on DRF and coordinate with other stakeholders.16
+
+   The BWDB and the BIWTA have considerable experience in working on projects financed by DPs, including
+
+   World Bank. However, IDRA has limited experience with World Bank-financed projects and will be staffed
+
+   with additional GoB staff to ensure IDRA’s capacity to manage project activities and comply with M&E
+
+   requirements. The Project will be implemented in a collaborative manner by three PIUs, headed by project
+
+   directors from the three respective IAs. Collaboration among the IAs is essential to prepare and implement
+
+   the larger, more complex second project in a mutually synergizing way, and the Project will help build the
+
+   capacity.
+
+   43. A Project Steering Committee (PSC) for each IA will be established to provide overall guidance and
+
+   policy direction at a higher level and ensure sound coordination between the IAs and other government
+
+   entities involved. The PSC shall: (1) be led by a Senior Secretary/Secretary of the corresponding ministry,
+
+   with the PSC under MOWR acting as the coordinator of all PSCs; and (2) consist of representatives from
+
+   all corresponding ministries. The PSCs will (a) review implementation plans and monitor progress; and (b)
+
+   make course corrections, as needed. The PSC will function in accordance with the guidelines of the
+
+   Planning Commission, and under the guidance of the PSC, all IAs will meet regularly to collaborate and
+
+   make decisions on activities that require joint planning and joint reviews of design and bid documents.
+
+   44. The Project is being supported by an independent Panel of Experts (PoE). Because of its innovative
+
+   nature, the Project involves risks. To help address them, the independent PoE will provide advice on river
+
+   engineering and morphology, inland navigation, livelihood restoration, aquatic biodiversity, and DRF,
+
+   ensuring that the Project is designed and implemented in line with global best practices.
+
+
+
+    B. Results Monitoring and Evaluation Arrangements
+
+
+
+   45. M&E will be an integral part of the Project and under the responsibility of the PIUs. The BWDB will
+
+   be responsible for managing a common web-based M&E platform, which will be developed to track the
+
+   Project’s progress based on the Results Framework. The platform will support a participatory M&E,
+
+   allowing project stakeholders to collect data on project progress. The M&E of Component 2 may migrate
+
+   to the RIS system once it is established and fully integrated. Working together with BIWTA and IDRA,
+
+   BWDB will submit the quarterly progress reports to the World Bank and relevant line ministries. In
+
+   addition, the World Bank, BWDB, BIWTA, IDRA, and other stakeholders, including DP financiers, will carry
+
+
+
+   16MoF (specifically Financial Institutions Division); government insurance companies like the Sadharan Bima Corporation (SBC);
+
+   private insurance firms; Ministry of Disaster Management and Relief; Ministry of Agriculture; Ministry of Land; Ministry of
+
+   Environment, Forest, and Climate Change; Ministry of Fisheries and Livestock; Ministry of Social Welfare; and relevant civil society
+
+   organizations.
+
+
+
+
+
+
+
+                                                                Page 11
+
+The World Bank
+
+Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+
+
+   out joint annual progress reviews and the Mid-term Review (MTR). Each PIU will hire an M&E specialist
+
+   who will be in charge of M&E activities.
+
+
+
+    C. Sustainability
+
+
+
+   46. The GoB’s strong commitment to the BDP2100 implementation is confirmed in its most recent Five-
+
+   Year Plan and provides a solid foundation for sustained implementation of the Project. In the Eighth
+
+   Five-Year Plan approved in December 2020, the implementation of the BDP2100 features as one of the
+
+   top priorities.17 It is accompanied by 17 indicators with targets to be achieved by 2025, many of which are
+
+   directly linked to the Project’s expected outcomes, such as reducing land erosion along the Jamuna River,
+
+   reducing the population vulnerable to natural disasters, reclaiming land, and enhancing navigation
+
+   capacity. Thus, the GoB is strongly committed to the Project’s activities and associated results given their
+
+   clear link to its own mid- and long-term priorities.
+
+   47. The Project addresses the following three factors that are deemed pivotal for sustainability. The
+
+   sustainability of institutions will be sought through institutional strengthening activities. For Components
+
+   1 and 3, the Project will build capacity in IAs, e.g., for design of innovative solutions, and introduce a new
+
+   planning and institutional framework with master plans and O&M manuals. The systems developed under
+
+   Component 3, such as beneficiary selection criteria, a beneficiary registration and management system,
+
+   and digital payment systems, have the potential for long-term sustainability and can be used for other risk
+
+   finance instruments that the GoB may choose to introduce beyond the Project scope. Capacity built in the
+
+   MoF and relative stakeholders would be fundamental for maintaining and using these systems in the
+
+   design and implementation of any future instruments. The sustainability of financing involves securing
+
+   adequate O&M budget for the infrastructures after the Project. The O&M costs until the project closure
+
+   will be supported by IDA, and the government committed to provide funding to cover O&M thereafter,
+
+   which will be secured through its annual budgeting process. O&M for investments in the second project
+
+   of the SoP may come from the private sector, for example, in the form of navigation dues collected from
+
+   the shipping companies. Therefore, a study on O&M financial sustainability will be conducted during the
+
+   Project as part of preparation for the second project, taking stock of different sources and proposing a
+
+   viable road map. The sustainability of demand for IWT will be pursued through inviting the relevant private
+
+   sector 18 to capacity-building activities designed to (i) communicate the upcoming IWT infrastructure
+
+   upgrades and their benefits; (ii) train them on new technology and information platforms; and (iii)
+
+   introduce Public-Private Partnership opportunities that could materialize later in the SoP.
+
+
+
+    IV. PROJECT APPRAISAL SUMMARY
+
+
+
+    A. Technical Analysis
+
+
+
+   48. The types and locations of innovative river structures were chosen based on advanced knowledge
+
+   and data collected in the field, and a solid monitoring plan has been devised to evaluate their impact.
+
+
+
+
+
+
+
+   17 Relevant specific objectives include (a) establishment of a Delta Fund, (b) establishment of a Delta Portal, and (c) formulation
+
+   of a high-level riparian committee.
+
+   18 They include shipping and logistics companies, vessel and cargo owners, crews and skippers, operator associations, and freight
+
+
+
+   forwarding agents.
+
+
+
+
+
+
+
+                                                                Page 12
+
+The World Bank
+
+Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+
+
+   To further validate recent experience19 and consolidate knowledge, it was critical to select the ideal sites
+
+   that could generate meaningful data on the impact of TBPGs. The two sites were chosen based on site
+
+   visits, multicriteria analysis, and consultation with the MoWR and the BWDB. Further, to assess the
+
+   scalability of the structures, monitoring will take place during and after construction, involving gathering
+
+   data, carrying out relevant simulations and remediation measures as necessary, and evaluating the
+
+   structures’ performance using a multicriteria analysis, including their resilience under extreme climate
+
+   events.
+
+   49. Level D+ in RIS classification issued by the World Association for Waterborne Transport
+
+   Infrastructure (former Permanent International Association of Navigation Congresses) is an ambitious
+
+   but achievable goal for the BIWTA to aim for by the end of the Project. Currently, the River’s RIS maturity
+
+   ranking is assessed as Level X, denoting that no service is available. Level D+ is considered cost effective
+
+   for the River as it is a new-generation technology that offers five services in easy interfaces.
+
+   50. The Project is aligned20 with the goals of the Paris Agreement on both mitigation and adaptation.
+
+   The Project will help Bangladesh meet its goals included in the NDC and the NAP in the following ways:
+
+   (a) Assessment and reduction of adaptation risks. The Project adequately reduces the physical climate
+
+       risks through a combination of hard and soft measures, and the Project’s climate -resilient
+
+       infrastructure design limits the climate exposure to an acceptable level of risk. The main climate and
+
+       disaster risks that the Project address are flooding and erosion. Components 1 and 321 are designed
+
+       using the four pillars of disaster risk management. 22 Component 2 will improve the reliability of
+
+       navigation in the face of high precipitation variability and a wider, shallower river resulting from
+
+       excessive flooding, land erosion, and sedimentation, and during extreme climate events. Thereby,
+
+       the Project will enhance the ability of targeted communities and relevant institutions to deal with the
+
+       flood and erosion risks along the Jamuna River, likely to be exacerbated by climate change.
+
+   (b) Assessment and reduction of mitigation risks. The potential for mitigation derives from (a) carbon
+
+       sequestration, where nature-based riverbank solutions implemented on a larger scale would reduce
+
+       GHG emissions compared to existing cement riverbank structures; (b) carbon sinks maintained and
+
+       enhanced through measures aimed at reducing erosion; and (c) fuel efficiency improvement and
+
+       reduced road congestion resulting from the transportation modal shift from roads to waterways.23
+
+       These measures would be the least-emissive options to meet the PDO, and the Project is not expected
+
+
+
+
+
+
+
+   19 Key inputs are from field testing of permeable groynes in the Gorai Bridge project, Kamarkhali, Faridpur in 1989–90; field testing
+
+   of bandals and permeable groynes in the Jamuna River under the Flood Action Plan’s Study 21 in 1993–96; laboratory experiments
+
+   on permeable groynes and TBPG at Kyoto University in 2002–04 and Heroshima University in 2000–03; and field testing of bandals
+
+   in the River through a joint project of BUET and Kyoto University in 2018.
+
+   20 Flood management and protection, coastal protection, urban drainage is on the PA Universally Aligned list.
+
+   21 Component 3 supports cash payment to communities soon after payout-eligible flood occurs, which may count as “activities
+
+
+
+   associated with emergency preparedness and immediate response in the aftermath of a crisis or disaster”. As per the Universally
+
+   Aligned List, this activity would be temporary and time-bound to be enlisted as universally aligned.
+
+   22 This includes innovative river structure pilots and excavation (risk reduction); development and implementation of solutions
+
+
+
+   that cover financial risks (recovery); and community engagement, institutional strengthening, and riparian collaboration
+
+   (preparedness and response).
+
+   23 As per the Universally Aligned List, for IWT improvements aimed at enhancing IWT capacity and/or reliability, an assessment
+
+
+
+   of the operation is required if: (i) coal, peat or other fossil fuels will be transported as part of overall service, (ii) it finances Internal
+
+   Combustion Vehicles (e.g. conventional heavy bunker fossil fuel vessels), or (iii) if there is a material risk of contributing to
+
+   deforestation that is likely to significantly reduce carbon stocks.
+
+
+
+
+
+
+
+                                                                     Page 13
+
+The World Bank
+
+Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+
+
+        to slow down the country’s low-carbon transition given that no major emissive infrastructure or
+
+        activities are envisioned, but rather, reducing net emissions as shown in the GHG accounting analyses.
+
+
+
+    B. Economic Analysis
+
+
+
+   51. The economic analysis (EA) shows that the Project is economically viable. The EA examined
+
+   benefits/costs arising from the prevention of future flooding and ensuring protection of assets and
+
+   livelihoods; utilization of dredged materials; transport cost savings from safer navigation on inland
+
+   waterways, including at night; transport cost savings as a result of the modal shift from roads to IWT; and
+
+   reducing GHG emissions. The economic net present value and internal rate of return for 30 years using a
+
+   12 percent discount rate are significant at US$261.2 million and 28.8 percent, respectively.
+
+   52. The Project’s net GHG emissions over its economic lifetime are estimated to be −1,018,640 tCO2eq,
+
+   with average net emissions of −33,955 tCO2eq per year. The GHG emissions were computed
+
+   independently for Components 1 and 2. For Component 1, the gross emissions are estimated at 45,701
+
+   tCO2eq, and net emissions at −1,002,676 tCO2eq. This is contributed by using integrated green and grey
+
+   infrastructure, compared to an alternative scenario where traditional bank protection structures, such as
+
+   concrete groins, are used to provide the same level of services. For Component 2, the navigation channel
+
+   development is expected to see net emissions of −15,964 tCO2eq by shifting toward the IWT mode.
+
+
+
+    C. Fiduciary
+
+
+
+   53. The Project satisfies the SUW - eligibility Criteria. The Project includes US$72.0 million from the SUW-
+
+   SML and US$30.0 million IDA credit from the regular SUW. Bangladesh is eligible to receive Regular SUW
+
+   and SUW-SML financing resources in FY24. The regular SUW financing is fully consistent with the Bank’s
+
+   SDFP or IMF borrowing limitations. The country’s “low” debt risk rating would not change with the regular
+
+   SUW financing. In addition, the country has successfully implemented the Policy and Performance Actions
+
+   in FY23, and no eventual non-concessional borrowing ceiling is breached. The Project directly supports
+
+   the IDA20 Special Theme on Climate Change and the cross-cutting themes of ‘Crisis Preparedness’ and
+
+   ‘Governance and Institutions’. The project is aligned with the regular SUW objective.24
+
+   54. The Financial Management (FM) risk assessments were conducted on each IA. Despite the IAs’
+
+   experience in working with the World Bank, the assessments noted FM risks (section VI). A set of
+
+   mitigation measures will be applied during implementation (Annex 1), to reduce the residual FM risk to
+
+   Substantial.
+
+   55. Procurement under the Project shall be carried out in accordance with the World Bank Procurement
+
+   Regulations and provisions of the Procurement Plan approved by the World Bank. The Project will use
+
+   the Systematic Tracking of Exchanges in Procurement (STEP) tool to plan, record, and track procurement
+
+   transactions. A variety of goods, works, and consulting and non-consulting services are expected to be
+
+   procured under the Project. Despite the IAs’ experience in handling procurement under World Bank-
+
+
+
+
+
+
+
+   24The IDA20 non-concessional Regular Scale-up Window (SUW) is designed to scale up IDA financing for transformational,
+
+   country-specific and/or regional operations with a strong development impact and high economic returns. The project aligned
+
+   with the regular SUW objectives as it lays the foundation to enhance climate resilience and economic productivity along the
+
+   Jamuna River and support transforming the Jamuna River into a river economic corridor that merges disaster resilience, transport,
+
+   logistics infrastructure, and industrial development.
+
+
+
+
+
+
+
+                                                               Page 14
+
+    The World Bank
+
+    Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+
+
+       financed projects, a number of procurement risks are identified (section VI), and a set of mitigation
+
+       measures will be applied accordingly to reduce the procurement risk to Substantial (Annex 1).
+
+
+
+.       D. Legal Operational Policies
+
+.
+
+                                                                                       Triggered?
+
+Projects on International Waterways OP 7.50                                             Yes
+
+Projects in Disputed Areas OP 7.60                                                      No
+
+.
+
+       56. OP 7.50 ‘Projects on International Waterways’ is triggered for the Project. OP 7.50 applies as Jamuna
+
+       is a transboundary river, but the exceptions under the policy’s paragraphs 7(a) and 7(b) apply. The civil
+
+       works under Project 1 are of limited scale, focused on modernizing the techniques that the GoB uses on
+
+       the existing and ongoing river protection schemes, without changing the nature of these schemes.
+
+       Preparatory activities for SoP2 are limited to feasibility and E&S studies and master plans, without detailed
+
+       design. The terms of reference (ToR) will include an assessment of any potential riparian issues according
+
+       to paragraph 7(b) of the policy. The requirement of the World Bank Policy OP 7.50 to exempt the Project
+
+       from notifying riparian states was approved by the Regional Vice President on March 23, 2023.
+
+
+
+        E. Environmental and Social
+
+
+
+       57. The Project’s interventions are small-scale, so the E&S risks can be mitigated with relevant measures
+
+       applying the principle of mitigation hierarchy. The major E&S risks and impacts include (a) localized
+
+       changes in river hydrology and morphology, including unexpected flood risk and erosion; (b) localized air
+
+       and water pollution during construction; (c) localized noise and vibration from civil works and excavation,
+
+       which could affect aquatic biodiversity, including the Ganges river dolphins; (d) land acquisition and
+
+       resettlement, including impacts associated with use of char lands (such as riverbank erosion, flood,
+
+       displacement, access of alternative land, limited livelihood resources); (e) impacts on rural livelihood from
+
+       the Project’s civil works; and (f) community and occupational health and safety, including labor influx,
+
+       risks of Sexual Exploitation and Abuse and Sexual Harassment (SEA/SH), and exposure to COVID-19-
+
+       related risks. SEA/SH risk is substantial, as per World Bank’s tools on ‘major civil works’ and ‘social
+
+       protection and jobs’. The risks associated with land acquisition, remoteness of project sites, proximity of
+
+       educational establishment around project sites, exposure of female beneficiaries and community
+
+       members under Components 3 and 4, semi-skilled labor recruited from outside, and low capacity of IAs
+
+       are further contributing factors to the SEA/SH risk. The critical habitat assessment performed as part of
+
+       the ESIA found some species that qualify as critical habitat features, including the Ganges River dolphins25,
+
+       fishing cats, and two fish species that are potentially affected. The Project’s impact on these species was
+
+       assessed as minor and temporary, and effective mitigation aligned with the ESF requirements will be
+
+       applied. Engagement with international and local dolphin specialists and fisheries authorities have
+
+
+
+
+
+
+
+
+
+       25   www.riverdolphins.org
+
+
+
+
+
+
+
+
+
+                                                          Page 15
+
+The World Bank
+
+Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+
+
+   commenced pioneering conservation approaches for future projects in the SoP when larger impacts are
+
+   expected.
+
+
+
+   58. The anticipated land acquisition of the Project includes about 68 ha for the two TPBG pilot sites and
+
+   community-driven development works. Based on initial estimates, a total of 928 individuals at Kalihati
+
+   and Fulchari are anticipated to be displaced while no displacement is expected at Kawakhola char (river
+
+   island). The related potential risks and impacts include displacement of homesteads, households,
+
+   businesses, shops, trees, standing structures, and crops. Those affected by the land acquisition include
+
+   legal owners, informal occupants, businesses, and small traders or shop owners, many of whom are likely
+
+   to be from the vulnerable and marginalized groups. The char dwellers live a vulnerable livelihood, exposed
+
+   to perennial river erosion with insecure land tenure. The participants in the consultations, including
+
+   communities at Kawakhola char, during the E&S preparation agreed with the BWDB to make the required
+
+   land available in their collective interest, provided that they receive compensation and support for
+
+   livelihoods development that is equal or greater to the replacement value of their land. The lands at
+
+   Kawakhola char for the community-driven development activities under Subcomponent 1.4, required for
+
+   the construction of embankment and other civil works, are affected by the river erosion, so their
+
+   ownership will have to be verified by the district administration along with community consultations to
+
+   determine the eligibility for compensation under the Project. The activities at Kawakhola involves canal
+
+   digging and excavation, and the spoils will be deposited on riverbanks or on the existing rural roads to
+
+   raise their ground level.
+
+
+
+   59. Risk management instruments have been prepared based on the World Bank’s ESF. The final E&S
+
+   package26, including the ESIA, Stakeholder Engagement Plan (SEP), Labor Management Procedures (LMP),
+
+   Rapid CIA, and the E&S Commitment Plan (ESCP), have been disclosed on May 9, 2023 by the BWDB; May
+
+   8, 2022 by the BIWTA; May 9, 2023 by IDRA; and May 9, 2023 by the World Bank. A project-specific
+
+   Resettlement Policy Framework (RPF) along with the SEA/SH Action Plan have been disclosed on May 22
+
+   by the BWDB, the BIWTA, and IDRA; and May 23 by the World Bank. The site-specific Resettlement Action
+
+   Plans (RAPs) will also include a Livelihood Restoration Plan (LRP) based on in-depth assessment of the
+
+   impacts. No indigenous people have been found in the Project’s area of influence. For the activities that
+
+   will be parallel financed, the World Bank’s ESF will apply.
+
+
+
+   60. A Rapid Cumulative Impact Assessment (RCIA) following IFC guidelines on RCIA has been carried out
+
+   during project preparation that meets the requirement of SOP1. For subsequent projects, the CIA will be
+
+   updated comprehensively, based on the nature of interventions and changing river ecological
+
+   considerations. The CIA findings on SOP1 cumulative impacts are: (i) pre-mitigation risk is “Substantial”;
+
+   and (ii) post-mitigation is “Low”. Specifically on Dolphins, the ESIA and the RCIA concluded that SOP1 does
+
+   not require “Net Gain” for this species since there will be no significant nor residual impacts to the species
+
+   given the small scale and pilot nature of investments. Engagement with the Ganges River Dolphin Advisory
+
+   Group is planned for the management of the Jamuna River Dolphin Sanctuaries and for putting measures
+
+   for protection of dolphins along the River. This will be done with the support of a specialized NGO, as
+
+   described in the Biodiversity Management Plan and ESCP for SOP 1. The Dolphin conservation will also
+
+
+
+   26 Links to the disclosed ESF at the 3 IAs:
+
+   MoShip/BIWTA: http://www.biwta.gov.bd/site/page/2ab485cf-1e1c-4b2e-b88f-23d0ddf5928b
+
+   MoWR/BWDB: https://www.bwdb.gov.bd/project-report
+
+   MoF/IDRA: http://idra.portal.gov.bd/site/notices/5d2d12a1-6c3d-4f80-b628-780b731a0a72/Environmental-and-Social-
+
+   Assessment-Documents-of-Jamuna-River-Sustainable-Management-
+
+
+
+
+
+
+
+                                                          Page 16
+
+The World Bank
+
+Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+
+
+   involve pro-active stakeholder engagement including the communities. In addition, the long-term SOP
+
+   approach (“room for the river”) that will allow the River to dynamically meander and naturally carve out
+
+   multiple channels during the monsoon season, and then seek the best navigation routes at the start of
+
+   the dry season, will help to minimize disruption to dolphins and aquatic biodiversity. These approaches
+
+   are consistent with World Wildlife Fund recommendations, following an in-depth study on global best
+
+   practices for managing impacts and protection of Ganges River Dolphins in the Ganges-Brahmaputra-
+
+   Meghna River Basin, which also aligns and supports the Bangladesh Dolphin Action Plan 2020-2030.
+
+
+
+   61. The IAs will require substantial capacity building on E&S risk management. The E&S risk
+
+   management capacity of the IAs is institutionally limited by inadequate workforce and human resource
+
+   policy and practice. Currently, only the BWDB has an official E&S Unit consisting of multidisciplinary staff,
+
+   who have little experience with the World Bank’s ESF. Thus, in view of the World Bank’s potential
+
+   engagement over the upcoming 14 years or so, the Project will include measures for systemic institutional
+
+   strengthening on E&S risk management for the IAs, especially for the BIWTA. The existing E&S Unit of the
+
+   BWDB will be strengthened with qualified E&S specialists. The BIWTA has agreed to create an E&S Wing
+
+   by revising its organizational structure, to become functional during the third year of the Project. Until
+
+   then, the BIWTA PIU will include qualified E&S specialists to manage the related risks. Moreover, the
+
+   BWDB, the BIWTA, and IDRA will be linked with the World Bank’s ongoing support to the Center of
+
+   Excellence at Bangladesh University of Engineering and Technology (BUET) to build in-country capacity on
+
+   E&S risk management, including E&S training of their staff, consultants, and contractors.
+
+
+
+   62. Citizen engagement is an integral part of the Project. The IAs have carried out extensive consultations
+
+   with stakeholders at the local, regional, and national levels during preparation and will continue doing so
+
+   during implementation. Further, establishing and working with WMGs to implement participatory
+
+   planning, decision-making, and monitoring is a key pillar of the Project to actively empower the
+
+   communities in river management. The IAs will also set up a project-specific grievance mechanism, the
+
+   citizens’ feedback from which will be regularly monitored, reported, and acted upon. Further, an indicator
+
+   on citizen satisfaction will be measured at least three times during the Project.
+
+
+
+     V. GRIEVANCE REDRESS SERVICES
+
+
+
+   63. Communities and individuals who believe that they are adversely affected by a project supported
+
+   by the World Bank may submit complaints to existing project-level grievance mechanisms or the World
+
+   Bank’s Grievance Redress Service (GRS). The GRS ensures that complaints received are promptly
+
+   reviewed in order to address project-related concerns. Project affected communities and individuals may
+
+   submit their complaint to the World Bank’s independent Accountability Mechanism (AM). The AM houses
+
+   the Inspection Panel, which determines whether harm occurred, or could occur, as a result of World Bank
+
+   non-compliance with its policies and procedures, and the Dispute Resolution Service, which provides
+
+   communities and borrowers with the opportunity to address complaints through dispute resolution.
+
+   Complaints may be submitted to the AM at any time after concerns have been brought directly to the
+
+   attention of Bank Management and after Management has been given an opportunity to respond. For
+
+   information on how to submit complaints to the World Bank’s GRS, please visit
+
+
+
+
+
+
+
+
+
+                                                      Page 17
+
+The World Bank
+
+Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+
+
+   http://www.worldbank.org/GRS. For information on how to submit complaints to the World Bank’s AM,
+
+   please visit https://accountability.worldbank.org.
+
+
+
+    VI.       KEY RISKS
+
+
+
+   64. The overall risk rating for the Project is Substantial. The risks described below call for utilizing global
+
+   best practices and maximizing outreach to local, national, and regional stakeholders in the Project design
+
+   and implementation.
+
+
+
+   65. Institutional capacity for implementation and sustainability risk is Substantial. River management
+
+   has been under a fragmented, weak institutional framework for a long time. Shortcomings are found
+
+   throughout the water infrastructure investment cycle. 27 Unclear division of labor often leads to
+
+   unnecessary, counterproductive friction among institutions, and there is a lack of skilled staff and
+
+   incentives for institutional collaboration. While the institutional capacity risk may be moderate for this
+
+   Project’s implementation,28 it becomes substantial considering whether GoB institutions can adequately
+
+   manage more complex, larger subsequent projects necessitating seamless multisectoral collaboration.
+
+   Hence, strengthening river institutions through capacity building sits at the center of the Project. The PSC
+
+   will help addressing the risks related to institutional fragmentation, and implementation status reports
+
+   for the Project will track institutional readiness for the second project in the SoP.
+
+
+
+   66. Fiduciary risk is Substantial. FM risks include a weak internal audit environment, delays in resolving
+
+   audit observations, 29 absence of a national Integrated Financial Management Information System to
+
+   generate project financial reports using the standard Budget and Accounting Classification Manual code,
+
+   and shortage of professionally qualified FM human resources to carry out day-to-day FM responsibilities.
+
+   Mitigation measures, as illustrated in Annex 1, will be implemented to reduce the FM risk. Procurement
+
+   risk is substantial, including delays in procurement due to inadequate technical preparation of, for
+
+   example, ToR, technical specifications, and cost estimates, before the start of procurement; delays in bid
+
+   evaluation and contract award; slow approval processes within the GoB; possible conflicts between the
+
+   World Bank Procurement Regulations and the GoB’s rules and decision-making; lack of deployment of
+
+   government procurement staff at the core PIU team; and IDRA’s limited experience in World Bank-
+
+   financed projects. These risks will be mitigated through a range of measures as outlined in Annex 1,
+
+   including employing specialized staffing, meticulous planning and budgeting, robust internal controls,
+
+   comprehensive financial manuals, a mix of fund disbursement methods with a focus on the 'advance'
+
+   method, advanced FM systems, and internal and external audits.
+
+   67. E&S risk is High. The Project includes the preparation of the SoP’s second project, which is anticipated
+
+   to have ‘high’ E&S risks, stemming from anticipated accumulated impacts associated with large-scale
+
+   dredging, river training, land acquisition, involuntary resettlement, and loss of livelihoods. The E&S risks
+
+
+
+
+
+
+
+
+
+   27 These include master planning, preparation, implementation, O&M, and monitoring.
+
+   28 As the project is relatively small and simpler in size and design.
+
+   29 IAs do not have any overdue audit report or ineligible expenditure pending with the World Bank. However, the BWDB has
+
+
+
+   outstanding audit observations that require resolution. The World Bank will take appropriate measures if the observations are
+
+   not settled within the agreed time frame.
+
+
+
+
+
+
+
+                                                             Page 18
+
+    The World Bank
+
+    Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+
+
+       and impacts specific to the Project are described in section IV, and mitigation measures associated with
+
+       the second project will be designed during the Project’s implementation.
+
+
+
+       68. Stakeholders risk is High. Global experience shows that river management investments attract
+
+       international scrutiny and are often opposed by local groups whose livelihoods may be affected. Since
+
+       2021, a series of consultations were held in all the Project sites with relevant stakeholders at all levels.
+
+       Key concerns that were raised include (a) protection from further erosion; (b) receipt of proper market
+
+       price for their lands; (c) proper compensation for structures and assets, as affected; (d) new livelihood
+
+       opportunities and trainings, as required; (e) appropriate response to vulnerable groups (such as persons
+
+       with disability and women); (f) protection of chars; (g) ownership of lands in chars; and (h)
+
+       relief/assistance. In response, the Project will develop a clear strategy to establish and implement
+
+       compensatory and other necessary measures and create better, more sustainable livelihood
+
+       opportunities and transportation services, which will be measured by an indicator on beneficiary/user
+
+       satisfaction. Qualified communications specialists with ample stakeholder consultation experience in
+
+       Bangladesh will be engaged in the awareness raising campaigns and other outreach activities.
+
+
+
+.
+
+
+
+
+
+
+
+
+
+                                                         Page 19
+
+                         The World Bank
+
+                         Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+
+
+                                                                    VII.   RESULTS FRAMEWORK AND MONITORING
+
+
+
+                                                                                  Results Framework
+
+                                                                                COUNTRY: Bangladesh
+
+                                                                    Jamuna River Sustainable Management Project 1
+
+
+
+Project Development Objectives(s)
+
+The Project Development Objective (PDO) is to increase capacity for flood management and navigation along the Jamuna River.
+
+
+
+
+
+Project Development Objective Indicators
+
+RESULT_FRAME_TBL_ PD O
+
+
+
+
+
+
+
+
+
+                                     Indicator Name                  PBC    Baseline                                End Target
+
+
+
+
+
+(a) Increased physical capacity for flood management
+
+
+
+Construction, maintenance, and evaluation of river structures
+
+                                                                           No                                       Yes
+
+that are climate-adapted (Yes/No)
+
+
+
+(b) Increased physcial capacity for navigation
+
+
+
+Average travel time of vessels from Sirajganj to Daikhowa (Days)           5.00                                     4.00
+
+
+
+(c) Increased institutional capacity
+
+
+
+The two master plans (NRMMP & JRNMP) be submitted for
+
+                                                                           No                                       Yes
+
+approval (Yes/No)
+
+
+
+Government capacity improved for coordinating multisector
+
+                                                                           No                                       Yes
+
+decisions on river planning (Yes/No)
+
+
+
+  PDO Table SPACE
+
+
+
+
+
+
+
+
+
+                                                                                        Page 20
+
+                       The World Bank
+
+                       Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+
+
+Intermediate Results Indicators by Components
+
+RESULT_FRAME_TBL_ IO
+
+
+
+
+
+
+
+
+
+                              Indicator Name            PBC    Baseline                            Intermediate Targets    End Target
+
+                                                                                            1
+
+1. Flood and riverbank erosion management
+
+Climate-adapted river structures constructed,
+
+maintained, and being monitored at Fulchari &                 0.00                                                        11.00
+
+Kalihati (Number)
+
+Riverbank protective work, including
+
+embankments, re-excavation, geo-bags                          0.00                                                        29.50
+
+(Kilometers)
+
+2. Navigation channel development
+
+Physical aids to navigation that are installed and
+
+remain functional (Number)                                    0.00                                                        260.00
+
+
+
+Installation and operation of the D+ level RIS
+
+                                                              No                                                          Yes
+
+across the Jamuna River (Yes/No)
+
+People with enhanced access to transportation
+
+                                                              0.00                                                        100,000.00
+
+services (CRI, Number)
+
+3. Financial protection of communities
+
+Pre-arranged financial solutions designed and
+
+                                                              0.00                                                        2.00
+
+developed (Number)
+
+Beneficiaries protected by risk finance solutions
+
+                                                              0.00                                                        1,200,000.00
+
+developed (Number)
+
+                   Of whom are women (Number)                 0.00                                                        360,000.00
+
+Community engagement
+
+WMGs with women comprising at least 30 percent
+
+of executive committee members (Percentage)                   0.00                                                        100.00
+
+
+
+Institutional strengthening
+
+Public officials and private sector personnel
+
+trained (Number)                                              0.00                                                        3,535.00
+
+
+
+Beneficiary (BWDB/IDRA) and user (BIWTA)
+
+                                                              0.00                         20.00                          50.00
+
+satisfaction level (Percentage)
+
+
+
+
+
+
+
+                                                                                 Page 21
+
+                       The World Bank
+
+                       Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+RESULT_FRAME_TBL_ IO
+
+
+
+
+
+
+
+
+
+                              Indicator Name            PBC    Baseline                                   Intermediate Targets        End Target
+
+                                                                                                    1
+
+Gender strategies developed and adopted by IAs
+
+in preparation for the 2nd project in the SoP                 No                                                                     Yes
+
+(Yes/No)
+
+Survey, design, and O&M capacity in the BWDB
+
+and BIWTA enhanced (Yes/No)                                   No                                                                     Yes
+
+
+
+  IO Table SPACE
+
+
+
+  UL Table SPACE
+
+
+
+
+
+                                                                       Monitoring & Evaluation Plan: PDO Indicators
+
+                                                                                                                       Methodology for Data       Responsibility for Data
+
+Indicator Name                                            Definition/Description       Frequency        Datasource
+
+                                                                                                                       Collection                 Collection
+
+                                                          Measures if climate adapted                   BWDB           Monitoring Report of
+
+Construction, maintenance, and                            river structures are built &                  Management     BWDB and Progress
+
+                                                                                       Yearly                                                     BWDB PIU
+
+evaluation of river structures that are                   maintained following the                      Information    Report of the O&M
+
+climate-adapted                                           flood design standards                        System (MIS)   Division
+
+                                                          throughout the project.
+
+                                                                                                                       Collecting data from
+
+                                                          Measures the average travel                   BIWTA and
+
+                                                                                                                       Department of
+
+Average travel time of vessels from                       time of vessels sailing from Yearly           association                               BIWTA PIU
+
+                                                                                                                       Shipping, association of
+
+Sirajganj to Daikhowa                                     Sirajganj to Daikhowa using                   of operators
+
+                                                                                                                       operators, and BIWTA.
+
+                                                          the navigation channel.
+
+                                                                                                                       Collation of the
+
+                                     Measures if the NRMMP &                           Baseline &       BWDB and                               BWDB PIU and BIWTA
+
+The two master plans (NRMMP & JRNMP)                                                                                   government record on
+
+                                     JRNMP are finalized and                           endline          BIWTA MIS                              PIU
+
+be submitted for approval                                                                                              submission for approval
+
+                                     submitted for approval.
+
+Government capacity improved for                          Measures if the IAs regularly                                                           Consultants for 3 PIUs
+
+                                                                                        Yearly          PIUs           M&E
+
+coordinating multisector decisions on                     meet and coordinate on                                                                  and PSC.
+
+river planning                                            multisector decisions and
+
+
+
+                                                                                          Page 22
+
+     The World Bank
+
+     Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+
+
+                                             joint planning & joint
+
+                                             reviews of design and bid
+
+                                             documents under PSC's
+
+                                             guidance.
+
+ME PDO Table SPACE
+
+
+
+
+
+                                                  Monitoring & Evaluation Plan: Intermediate Results Indicators
+
+                                                                                                       Methodology for Data      Responsibility for Data
+
+Indicator Name                               Definition/Description        Frequency    Datasource
+
+                                                                                                       Collection                Collection
+
+                                                                                                       BWDB's Monitoring
+
+                                             Measures the No. of river
+
+                                                                                                       Report, O&M Divisions'
+
+Climate-adapted river structures             structures that have been
+
+                                                                           Quarterly    BWDB MIS       Progress Report, and      BWDB PIU
+
+constructed, maintained, and being           built, kept functional, and
+
+                                                                                                       Circles that oversee
+
+monitored at Fulchari & Kalihati             are being monitored
+
+                                                                                                       Bhuapur and Kalihati
+
+                                             through the Project.
+
+                                                                                                       Monitoring
+
+                                                                                                       Report, O&M Division's
+
+                                             Measures the length of
+
+Riverbank protective work, including                                       Quarterly    BWDB MIS       Progress Report, and      BWDB PIU
+
+                                             riverbank protective works
+
+embankments, re-excavation, geo-bags                                                                   Circles that oversee
+
+                                             done through the Project.
+
+                                                                                                       Buhapur and Kalihati
+
+
+
+                                             Measures the No. of
+
+                                             physical aids to navigation
+
+                                             that are installed,                                       Monitoring Report of
+
+Physical aids to navigation that are                                       Quarterly    BIWTA MIS                                BIWTA PIU
+
+                                             maintained, and frequently                                BIWTA
+
+installed and remain functional
+
+                                             repositioned to remain
+
+                                             functional for day and
+
+                                             nighttime operation.
+
+                                             Measures the installation                                 Data from BIWTA and
+
+                                                                           Baseline &
+
+Installation and operation of the D+ level   and operation of the D+                    BIWTA MIS      monitoring stations for   BIWTA PIU
+
+                                                                           endline
+
+RIS across the Jamuna River                  level RIS across the Jamuna                               RIS upon installation
+
+                                             River.
+
+
+
+                                                                             Page 23
+
+     The World Bank
+
+     Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+
+
+
+
+                                        The indicator measures the
+
+                                        number of direct
+
+                                        beneficiaries that
+
+                                        experience improved access
+
+                                        to transport infrastructure
+
+                                        and services that have been
+
+                                        built or rehabilitated
+
+                                        through a WBG-financed
+
+                                        project (including highways,
+
+                                        rural roads, urban and
+
+                                        interurban roads, mass
+
+                                        transit systems,                          BIWTA, ,
+
+                                                                                                  Primary data from
+
+                                        ports/waterways, railways,                BIWTC and
+
+                                                                                                  BIWTA and BIWTA and
+
+                                        and airports). Beneficiaries              local
+
+                                                                                                  secondary data from
+
+People with enhanced access to          typically experience          Yearly      administratio                            BIWTA PIU
+
+                                                                                                  the Project 1 DPP, the
+
+transportation services                 reductions in cost and time               n such as DC
+
+                                                                                                  feasibility study, and
+
+                                        to travel and/or                          Office,
+
+                                                                                                  other sources
+
+                                        improvements in safety, as                MoLGRD
+
+                                        well as increased access to
+
+                                        markets, job opportunities,
+
+                                        and health and education
+
+                                        services. In urban areas,
+
+                                        beneficiaries include the
+
+                                        increase in the number of
+
+                                        users of improved services.
+
+                                        In rural areas, beneficiaries
+
+                                        include the increase in the
+
+                                        number of people who live
+
+                                        in proximity to improved
+
+                                        services.
+
+
+
+
+
+
+
+                                                                        Page 24
+
+     The World Bank
+
+     Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+
+
+                                          Measures the No. of DRF
+
+                                          instruments designed and                   IDRA           Monitoring report of
+
+Pre-arranged financial solutions designed                                Number                                              IDRA PIU
+
+                                          developed under the Project                reporting      IDRA
+
+and developed
+
+                                          for smallholder farmers
+
+                                          along Jamuna
+
+                                          Measures the No. of
+
+                                          beneficiaries to be                                       Design and coverage
+
+Beneficiaries protected by risk finance                                  Yearly      IDRA MIS                                IDRA
+
+                                          protected by the DRF                                      documentation
+
+solutions developed
+
+                                          solutions to be developed
+
+                                          under the Project
+
+                                          Measures the No. of female
+
+                                          beneficiaries to be                                       Design and coverage
+
+                                                                         yearly      IDRA MIS                                IDRA
+
+     Of whom are women                    protected by the DRF                                      documentation
+
+                                          solutions to be developed
+
+                                          under the Project
+
+                                          Measures the presence of
+
+                                                                                     Primary data   Data gathering and
+
+                                          women in the executive
+
+WMGs with women comprising at least 30                                   Yearly      to be          update in the field on   BWDB and BIWTA PIUs
+
+                                          committees of WMGs and if
+
+percent of executive committee members                                               collected      WMGs to be set up
+
+                                          they hold any role in
+
+                                          decision-making/leadership
+
+                                          Measures the cumulative
+
+                                          No. of public and private                  BWDB and       Record of training
+
+Public officials and private sector                                      Quarterly                                           BWDB and BIWTA PIUs
+
+                                          sector personnel trained on                BIWTA MIS      attendees
+
+personnel trained
+
+                                          skills required in river and
+
+                                          IWT mgmt.
+
+                                          Measures the satisfaction      Baseline,   BWDB,IDRA,
+
+                                                                                                    Results from the three   BWDB,IDRA, and BIWTA
+
+Beneficiary (BWDB/IDRA) and user          levels increase of the river   mid-term,   and BIWTA
+
+                                                                                                    surveys conducted        PIUs
+
+(BIWTA) satisfaction level                training beneficiaries and     & endline   MIS
+
+                                          navigation channel users.
+
+                                          Measures if the gender                     BWDB,          Monitoring reports of
+
+Gender strategies developed and adopted                                  End of                                              BWDB, BIWTA, and IDRA
+
+                                          strategy aimed at                          BIWTA, and     BWDB, BIWTA, and
+
+by IAs in preparation for the 2nd project                                Project 1                                           PIUs
+
+                                          supporting full-scale                      IDRA MIS       IDRA
+
+in the SoP
+
+                                          implementation in the 2nd
+
+
+
+                                                                           Page 25
+
+     The World Bank
+
+     Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+
+
+                                          project prepared.
+
+                                          Measures if the conditions
+
+                                          below met in BWDB &
+
+                                                                                                  A qualitative
+
+                                          BIWTA: (a) regular river
+
+                                                                                                  assessment will be
+
+                                          surveys carried out; (b) time             BWDB and
+
+                                                                                                  made on three
+
+                                          required for in-house design              BIWTA MIS,
+
+Survey, design, and O&M capacity in the                                 Yearly                    conditions, backed up     BWDB and BIWTA PIUs
+
+                                          reduced (BWDB only); (c)                  qualitative
+
+BWDB and BIWTA enhanced                                                                           by solid data. Progress
+
+                                          O&M carried out properly                  observation
+
+                                                                                                  achieved be outlined
+
+                                          and on time, O&M manuals
+
+                                                                                                  in progress reports.
+
+                                          in place, and budget
+
+                                          allocation defined and
+
+                                          results in sufficient amount.
+
+ME IO Table SPACE
+
+
+
+
+
+
+
+
+
+                                                                          Page 26
+
+The World Bank
+
+Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+
+
+
+
+                        ANNEX 1: Implementation Arrangements and Support Plan
+
+
+
+                                         COUNTRY: Bangladesh
+
+                             Jamuna River Sustainable Management Project 1
+
+
+
+ I.   Implementation Arrangements, Support Plan
+
+
+
+ PIU Composition
+
+ 1. Full-time staff at the PIUs. There will be five staff at the BWDB PIU (including a project director, a
+
+ procurement specialist, an FM specialist, an environmental safeguards specialist, and a social safeguards
+
+ specialist); four staff for the BIWTA PIU (including a director, a procurement specialist, an FM specialist,
+
+ and an E&S specialist); and two staff for the IDRA PIU (including a project director and a fiduciary
+
+ specialist).
+
+
+
+ 2. Coordination mechanism. To facilitate coordination among the three PIUs, there will be one part-time
+
+ staff from each PIU for a total of six staff months each throughout the project period. Their efforts will be
+
+ further supported by a subteam of the project implementation consultants, who will dedicate around 12
+
+ staff months for the inter-IA coordination.
+
+
+
+ FM
+
+ 3. Risk mitigation measures. The following set of mitigation measures will be applied during
+
+ implementation, which will reduce the residual FM risk to Substantial:
+
+
+
+ (a) Institutional arrangements and staffing. The three PIUs’ responsibilities will include compliance with
+
+     fiduciary requirements at each agency level. At least one project accountant will be hired in each PIU
+
+     to perform day-to-day FM tasks and fulfill the reporting requirements of both the GoB and IDA.
+
+ (b) Planning and budgeting. The annual budget will be prepared by each PIU based on the Procurement
+
+     Plan and other relevant annual work plans. The budgets will be monitored periodically to ensure
+
+     alignment with expenditures and provide input for necessary revisions.
+
+ (c) Internal control. The PIUs will preserve all accounting, procurement, and other transaction processing
+
+     records and documents in accordance with the provisions of the Public Procurement Act 2006 and
+
+     General Financial Rules. These records must be made readily available on request for audit,
+
+     investigation, or review by the GoB or the World Bank. To facilitate the process, all project-related
+
+     documents must be filed separately.
+
+ (d) FM manual. An FM manual will be prepared by the implementing entities within 45 days after project
+
+     effectiveness. It will contain references to the GoB’s financial rules and regulations and other FM
+
+     requirements that the Project must follow. The FM manual will become part of the project operations
+
+     manual, and fund flows and reporting mechanisms for each IA will be separately and adequately
+
+     articulated to reflect all the requirements of the GoB and the World Bank.
+
+ (e) Funds flow. Three Designated Accounts, one each for the BWDB, the BIWTA, and IDRA, will be opened
+
+     in a commercial bank acceptable to IDA. Funds from the designated IDRA account will be paid to
+
+     insurance companies based on applicable contracts. In the event of an eligible disaster, insurance
+
+     companies will disburse funds to beneficiaries via a digital service provider. While all four
+
+
+
+                                                    Page 27
+
+The World Bank
+
+Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+
+
+      disbursement methods will be available under the Project, the IAs will mainly use the ‘advance’
+
+      method of disbursement from the World Bank, and the direct payment option may be exercised for
+
+      high-value contracts. The Project will follow Statement of Expenditure based disbursement, and a
+
+      ceiling will be applied in the Disbursement and Financial Information Letter (DFIL), up to which can be
+
+      advanced to the Designated Accounts. For Category 2 of the withdrawal table in the Financing
+
+      Agreement, disbursement would first be made under the IDA SUW-SML credit, before IDA SUW-
+
+      Regular Credit. The World Bank will not finance salaries and allowances of civil servants, purchase of
+
+      vehicles30, land acquisition, and fuel. IDA could finance value added tax (VAT) up to 15 percent of
+
+      total credit.31 Parallel financing from the AIIB will cover activities under Subcomponent 1.5; parallel
+
+      co-financing from the Netherlands will cover activities under Subcomponents 1.3 and 4.2; and the
+
+      GSFF grant will parallel co-finance Component 3 and Subcomponent 4.4. The counterpart funding, in
+
+      the form of parallel co-financing, is around US$29.3 million or 20 percent of the project total cost
+
+      (including all taxes; land acquisition, afforestation, consultancy costs under Component 1; grant-
+
+      matching funds and equipment under Component 3; and incremental operating costs for running
+
+      BWDB and IDRA PIU offices, and hiring vehicles for BIWTA under Component 4).
+
+ (f) FM system. The PIUs will use iBAS++ for accounting and financial reporting in the future as soon as
+
+     the IBAS Project Management Accounting Portal becomes available for use in all the development
+
+     projects. Until then, the Project will purchase and use an off-the-shelf accounting software, which
+
+     would directly generate project financial reports, including interim unaudited financial reports, to
+
+     provide reasonable assurance on the accuracy and completeness of the financial statements. Each of
+
+     the three PIUs will submit separate sets of interim unaudited financial reports within 45 days after
+
+     the end of each calendar quarter.
+
+ (g) Internal audit. An internal audit consulting firm will be hired to build capacity of the BWDB and carry
+
+     out internal audit of Component 1. The internal audit firm will transfer skills and knowledge with the
+
+     expectation that by the third year of the Project, responsibility of internal audit will be gradually
+
+     transferred to the BWDB’s internal audit unit. This capacity building is in line with the strategic
+
+     objective set by the MoF to establish internal audit units in all high-spending agencies across the
+
+     country. The ToR of the consultancy will include the following: (i) assessing the existing capacity of the
+
+     BWDB’s internal audit, to be completed within the first year of the implementation; (ii) providing
+
+     necessary support in the form of audit manuals, audit charters, systems, and software; drafting the
+
+     required organigram and job descriptions; and providing relevant training to the audit department;
+
+     and (iii) carrying out three internal audits, using international internal audit standards—the first due
+
+     within 6 months after the end of the first year, the second 6 months before the MTR, and the third in
+
+     the fourth year of implementation, to be carried out by the BWDB’s own internal audit unit with the
+
+     consulting firm’s support. The BIWTA and IDRA parts of the Project will be audited separately by an
+
+     internal audit firm twice in the lifetime of the Project, six months before the MTR, and one year before
+
+     the closure of the Project.
+
+ (h) External audit. At this point, there is no overdue audit report under any of the IAs and their line
+
+     ministries. External audits of the Project will be carried out by the Foreign Aided Project Audit
+
+     Directorate of the Comptroller and Auditor General. The annual audit reports will be submitted within
+
+     six months after the end of the fiscal year. The audited financial statements will be made available for
+
+     public disclosure. The project directors at each PIU will be responsible for any follow-up and remedial
+
+
+
+ 30Subcomponent 2.2 is approved to be exempted.
+
+ 31VAT is estimated to be less than 15 percent of financing. As of pre-negotiations, all taxes, including VAT, are funded by the
+
+ GoB according to the DPPs for Components 1 and 3, but for the Component 2 DPP, some taxes are to be financed by IDA.
+
+
+
+                                                              Page 28
+
+The World Bank
+
+Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+
+
+        actions, with assistance from the project accountants and the implementing sections relevant to the
+
+        audit objections. The PIUs, with the help of the respective ministries, will arrange tripartite meetings
+
+        to resolve outstanding audit objections within three months from the receipt of audit reports and
+
+        improve the internal control arrangements to prevent the recurrence of issues that triggered the audit
+
+        objections.
+
+ 4. Implementation support. All the FM-related procurements will follow ‘prior review’ and ‘post review’
+
+ procurement method irrespective of the threshold (see paragraph 10 for more details). The World Bank
+
+ will undertake regular semiannual implementation review missions, the agendas of which will be based
+
+ on IAs’ reports to monitor project performance and resolve areas of concern. Alternate arrangements
+
+ may be made in the event of a pandemic, like COVID-19, to use desk reviews and information and
+
+ communication technology tools that allow supervision of fiduciary aspects.
+
+
+
+ Procurement
+
+ 5. Applicable procurement procedures. Procurement under the Project shall follow the World Bank
+
+ Procurement Regulations and the provisions of the Procurement Plan approved by the World Bank. The
+
+ Project shall also be subject to the World Bank’s Anticorruption Guidelines.32 The project will use STEP to
+
+ plan, record, and track procurement transactions.
+
+
+
+ 6. Types of procurement. Civil works are expected to include construction of transversal and longitudinal
+
+ river structures, re-excavation, and rehabilitation of existing training centers. Goods will include
+
+ hydrographic survey vessels, buoy handling vessels, prototype structures (vessel and pontoon), fast transit
+
+ boat, physical aids to navigation, monitoring stations, surveillance equipment, survey equipment, and
+
+ office and IT equipment. Consulting services will include construction supervision and monitoring,
+
+ feasibility studies, TA on training, technical studies, planning documents, and hydrographic surveys,
+
+ design and delivery of financial protection solutions, and calculation agent (third-party service), as well as
+
+ individual consultants such as project coordinator, dredging specialist, M&E specialist, disaster risk finance
+
+ advisor, E&S specialists, FM specialist, and procurement specialist, if needed, to supplement the assigned
+
+ government procurement staff. There may also be some non-consulting services to outsource some of
+
+ the administrative services. Under Component 3, IDRA will engage co-insurers for channeling the
+
+ compensation, and the disaster insurance protection services will be procured under two contracts—one
+
+ with the Government-owned insurance company, the Sadharan Bima Corporation (SBC), and the other
+
+ with a pool of domestic private insurance companies. The contract with SBC will be procured through
+
+ Direct Selection method based on the SBC's experience of exceptional worth for the required services and
+
+ the second contract for selection of domestic private insurance companies will be procured through Open
+
+ Competition National Market approach. Both the SBC and the domestic private insurance companies will
+
+ be required to meet predefined qualification criteria and will also be reinsured by international
+
+ reinsurers.
+
+
+
+ 7. Procurement methods and approaches. The Procurement Plan will specify the procurement method
+
+ and approach that each procurement activity will take. Goods, works, and nonconsultant services are
+
+ expected to be procured mostly through the open bidding international or national approach, subject to
+
+ the provisions required for ensuring consistency with the World Bank’s Procurement Regulations,
+
+ whereas small-value, simple procurement may follow the Request for Quotations method. Consulting
+
+
+
+
+
+ 32   Dated October 15, 2006, revised in January 2011, and as of July 1, 2016.
+
+
+
+                                                               Page 29
+
+The World Bank
+
+Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+
+
+ services requiring firms are expected to be selected mostly through the Quality- and Cost-Based Selection
+
+ method and individual consultants through competitive selection.
+
+
+
+ 8. Project Procurement Strategy for Development (PPSD) and Procurement Plan. A single PPSD is being
+
+ jointly prepared by the IAs, which are responsible for carrying out respective procurement activities. The
+
+ PPSD, a living document that may be updated from time to time with the World Bank’s approval, will spell
+
+ out the detailed procurement arrangements and contract management plan, including the related risks
+
+ and mitigation measures. The initial Procurement Plan, an output of the PPSD, will specify each contract
+
+ to be financed under the Project, including the procurement method, market approach, estimated cost,
+
+ timelines for completing key milestones, and the World Bank’s review requirements. The Procurement
+
+ Plan will be uploaded and maintained in STEP and updated at least annually or when necessary, during
+
+ implementation. A General Procurement Notice would be published on the World Bank’s website and
+
+ United Nations Development Business online.
+
+
+
+ 9. Risk mitigation measures. To mitigate the procurement risks and reduce the residual procurement risk
+
+ to Substantial (section VI), the following set of measures will be applicable to all IAs during
+
+ implementation:
+
+
+
+ (a) Completing the technical prerequisites, such as budget approval, design, bill of quantities (BoQ),
+
+     technical specifications, ToR, land acquisition, and E&S requirements, on time before bids are invited.
+
+ (b) Completing procurement processes, particularly bid/proposal evaluation and contract award, in
+
+     accordance with the activity schedule and time standards specified in the approved Procurement Plan
+
+     to avoid noncompliance with the ‘efficiency’ principle of the World Bank’s Procurement Regulations.
+
+ (c) Preparing and submitting quarterly procurement progress monitoring reports to the Head of the
+
+     Project IA, with copy to the World Bank, providing the status of the technical preparation and
+
+     procurement process of each procurement activity against the approved procurement plan,
+
+     identifying the bottlenecks, and recommending corrective measures.
+
+ (d) Applying the World Bank Procurement Regulations, which shall govern all procurement under the
+
+     Project and shall take precedence if any conflict arises with the GoB’s procurement rules and decision-
+
+     making.
+
+ (e) Using the GoB’s electronic procurement system where acceptable to the World Bank (currently only
+
+     for procurement of goods and works under open bidding national market approach).
+
+ (f) Assigning at least two full-time government procurement staff (who received training in government
+
+     procurement) in each PIU no later than project effectiveness. If the need for additional support is
+
+     justified by the PIU and acceptable to the World Bank, two procurement consultants may be hired
+
+     under the Project (one for supporting both the BWDB and IDRA for a maximum of the first three years
+
+     and the other for supporting the BIWTA for a maximum of two years) to assist the government
+
+     procurement staff and also conduct training to build procurement capacity of IAs.
+
+ (g) Completing the World Bank’s procurement and STEP training by relevant project officials.
+
+ (h) Monitoring implementation of the PPSD during the World Bank’s implementation support missions,
+
+     including the procurement and contract management risk mitigation measures.
+
+
+
+ 10. Implementation support. The World Bank’s procurement implementation support will include prior
+
+ reviews and post reviews and provision of training and guidance as needed to the IAs. The prior review
+
+
+
+                                                   Page 30
+
+The World Bank
+
+Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+
+
+ contracts will be those that are relatively complex or of high value and will be agreed in the Procurement
+
+ Plan following a risk-based approach. Post reviews will be conducted by the World Bank on a sample of
+
+ contracts selected based on associated risks, at least on an annual basis or more frequently as needed.
+
+ For some of the post review contracts, the ToR of the consulting services, technical specifications, and
+
+ BoQs of some of the goods/works packages may require technical review by the World Bank.
+
+
+
+ M&E
+
+
+
+ 11. Participatory M&E. The project allows project stakeholders—such as the local BWDB and BIWTA
+
+ officials, consultants, WMGs, and LCS—to collect data on project progress, including geospatial data with
+
+ photographs of the outputs and any key features that require regular monitoring. To further analyze the
+
+ Project’s impact, data will be collected on (a) assets and livelihood activities near the project location and
+
+ (b) households near the project location. The M&E of Component 2 may migrate to the RIS system once
+
+ it is established and fully integrated. Working together with the BIWTA and IDRA, the BWDB will submit
+
+ the quarterly progress reports to the World Bank and relevant line ministries. The contents will include
+
+ (a) updated implementation schedules by component; (b) commitment and disbursement by component;
+
+ (c) the status of indicators against targets; and (d) facts, recommendations, and agreements to be reached
+
+ on key implementation issues.
+
+ 12. Component 1. Since the Project’s interventions are intended to be expanded at a larger scale in the
+
+ second project, it is critical to gather data and perform relevant simulations, so that their performance
+
+ can be evaluated thoroughly.
+
+ (a) Data collection. Through water monitoring; meteorological measurements; and topographic,
+
+ bathymetric, and drone survey, the following data will be collected during the detailed design phase,
+
+ during construction, and after construction: (i) natural conditions such as water levels, waves, velocities,
+
+ vortexes, and induced local scouring; (ii) sediment load; (iii) horizontal and vertical impacts such as
+
+ sedimentation, scouring, velocity propagations, and flow diversion; (iv) deterioration of the materials and
+
+ two protection works; (v) change in subsoil conditions; (vi) variation on the surrounding flow pattern and
+
+ bank line; (vii) impact on navigation channel formation/deepening and gradual river width stabilizing
+
+ potential; and (viii) unexpected changes induced by humans or animals.
+
+ (b) Model simulation and rectification. Using the data above, 2D hydrodynamic and sediment transport
+
+ models will simulate bed conditions, structural deterioration, scouring conditions beneath the structures,
+
+ and others on a regular basis for the future. Simulation outputs will be used to make decisions on any
+
+ rectification measures to be undertaken immediately or in the future. If model output or visual inspection
+
+ implies that the structure is under immediate threat, emergency response will be provided, which may
+
+ include immediate placing of geo-bags or concrete cement blocks to prevent sudden failure. If the needed
+
+ response is not of an emergency nature, a convenient period for rectification may be chosen.
+
+ (c) Evaluation. Toward the end of the Project, all the collected and simulated data will be used by an
+
+ independent evaluator to carry out a multicriteria analysis of the performance of river structures. An
+
+ interim evaluation by the IA may be conducted around the MTR. The criteria to be assessed will include
+
+ (i) effectiveness in protecting riverbanks from erosion, (ii) sedimentation at riverbank side and riverbank
+
+ building, (iii) flow diversions and potential for gradual stabilization of the River, (iv) positive impact on
+
+ navigation channel formation, (v) implications for different river stretches, (vi) adaptability to soil
+
+ conditions and channel geometry, (vii) use of local materials and construction expertise, (viii) potential for
+
+ early repair in case of damage and low maintenance requirement, and (ix) E&S impact.
+
+
+
+                                                    Page 31
+
+The World Bank
+
+Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+
+
+ II. Project Location
+
+ 13. The project location is illustrated on the maps (figure A and figure B) below.
+
+
+
+                           Figure A. Main Rivers and River Basins in Bangladesh
+
+
+
+
+
+
+
+
+
+         Source: Bangladesh Water Development Board (BWDB), Ministry of Water Resources (MoWR).
+
+
+
+
+
+
+
+
+
+                                                   Page 32
+
+The World Bank
+
+Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+
+
+           Figure B. Project Location in the Context of the Bangladesh-India Protocol Routes
+
+
+
+
+
+
+
+
+
+      Source: Bangladesh Inland Water Transport Authority (BIWTA) and the BWD
+
+
+
+
+
+
+
+
+
+                                                Page 33
+
+The World Bank
+
+Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+
+
+ III. SoP Sequencing and Design
+
+ 14. The SoP framework is illustrated on figure C as below.
+
+
+
+                                          Figure C. SoP Sequencing and Design
+
+
+
+
+
+
+
+
+
+Note: DO = Development objective.
+
+
+
+
+
+
+
+ 15. As illustrated on Figure D below, the project supports all the four elements of disaster risk
+
+ management33 for the first time in Bangladesh through investing in innovative river structures, dynamic
+
+ navigation, DRF solutions, and community engagement. A detailed description of each component is
+
+ found in a separate Annex (“Supplemental Note”).
+
+
+
+
+
+
+
+
+
+ 33Emergency managers think of disasters as recurring events with four phases. Mitigation includes actions taken to prevent or
+
+ reduce the cause, impact, and consequences of disasters. Preparedness refers to planning, training, and educational activities for
+
+ events that cannot be mitigated. The response phase occurs in the immediate aftermath of a disaster, where personal safety and
+
+ well-being depend on the level of preparedness. Recovery means restoration efforts that occur toward returning to a normal
+
+ state. https://training.fema.gov/emiweb/downloads/is111_unit%204.pdf
+
+
+
+
+
+
+
+                                                             Page 34
+
+The World Bank
+
+Jamuna River Sustainable Management Project 1 (P172499)
+
+
+
+
+
+
+
+
+
+                Figure D. Project’s Support for the Four Elements of Disaster Risk Management
+
+
+
+
+
+
+
+
+
+                                                   Page 35
+
+

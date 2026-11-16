@@ -1,0 +1,404 @@
+            The World Bank                                                                                    Implementation Status & Results Report
+            National Strategy for Development of Statistics Implementation Support (P157987)
+
+
+
+National Strategy for Development of Statistics Implementation Support (P157987)
+
+
+ SOUTH ASIA | Bangladesh | Poverty and Equity Global Practice |
+ IBRD/IDA | Investment Project Financing | FY 2018 | Seq No: 7 | ARCHIVED on 29-Apr-2021 | ISR46245 |
+
+
+ Implementing Agencies: People's Republic of Bangladesh, Bangladesh Bureau of Statistics
+
+
+
+ Key Dates
+
+
+  Key Project Dates
+
+   Bank Approval Date: 29-Mar-2018                                             Effectiveness Date: 12-Sep-2018
+   Planned Mid Term Review Date: 04-Mar-2021                                   Actual Mid-Term Review Date: 04-Mar-2021
+   Original Closing Date:                                                      Revised Closing Date: 31-Aug-2022
+ pdoTable
+
+ Project Development Objectives
+
+  Project Development Objective (from Project Appraisal Document)
+  The Project aims to improve the capacity of the Bangladesh Bureau of Statistics (BBS) to produce quality core statistics and make them accessible
+  in a timely manner to policy makers and the public.
+
+  Has the Project Development Objective been changed since Board Approval of the Project Objective?
+  No
+
+
+ Components Table
+
+ Name
+ Improving the coordination and management of statistical activities:(Cost $1.00 M)
+ Developing human resources and ICT infrastructure to produce and manage data:(Cost $5.00 M)
+ Improving the coverage and quality of core statistics required for policy making:(Cost $7.00 M)
+ Promoting and strengthening access to and the use of official statistics:(Cost $0.75 M)
+ Project Management:(Cost $1.25 M)
+
+ Overall Ratings
+
+ Name                                                                        Previous Rating                          Current Rating
+
+ Progress towards achievement of PDO                                         Moderately Satisfactory                 Moderately Satisfactory
+ Overall Implementation Progress (IP)                                        Moderately Satisfactory                 Moderately Satisfactory
+ Overall Risk Rating                                                         Substantial                             Moderate
+
+
+ Implementation Status and Key Decisions
+
+  The following is a summary of implementation progress in some of the key activities under each component during the MTR and agreements
+  reached:
+           Component A. Improving the Coordination and Management of Statistical Activities: Under this component the project has made
+            progress in the review of Memorandum of Understanding (MoUs) with 9 agencies, setting up of the National Advisory Council on Statistics
+            (NACS), and translation of the Statistics Act (accessible from the BBS website). The PIU has completed translation of the Statistics Act to
+            English and made it available on the BBS website. The BBS with support from the TP will continue putting in place institutional framework
+            for coordination of the National Statistical System (NSS).
+
+
+
+4/29/2021                                                                                                                      Page 1 of 6
+            The World Bank                                                                                          Implementation Status & Results Report
+            National Strategy for Development of Statistics Implementation Support (P157987)
+
+
+
+             Component B. Developing Human Resources and ICT Infrastructure to Produce and Manage Data: Key activities delivered under
+              component B include: Training Policy that covers all BBS staff, prioritizing participation of women and field-based staff and a draft training
+              plan based on the training policy. A training inventory document has also been produced containing training opportunities in statistics
+              offered by national and international organizations aimed at building a sustainable statistical capacity through efficient, effective, and
+              harmonized delivery of training at the country and regional levels. Given the COVID-19 situation the MTR recommended combining both
+              online and face-to-face courses once circumstances allow. The project has also supported ‘Training on Agriculture Statistics’ for a total of
+              478 staff of BBS working both at Headquarters and at the Field Offices in the late June 2019, and two separate advance Training on
+              Microdata Analysis using STATA. The MTR mission however noted the considerable delay in procurement of the ICT infrastructure due to
+              delay in preparation of the ICT Plan. The team encourage the staff of the BBS Computer Wing and the Project IT consultant to work
+              together and provide necessary information to the TP experts on time so that they can develop the draft ICT Plan.
+             Component C. Improving the Coverage and Quality of Core Statistics Required for Policy Making: Under this component a
+              comprehensive booklet on Harmonization of the Definitions of all Statistical Indicators has been produced. In total, more than 2,200
+              definitions were standardized with inputs from international experts and BBS staff through six consultative workshops with different BBS
+              Wings. Through the project support, BBS was also able to conduct and complete the Rapid Phone Survey on Livelihood and a survey
+              report produced and disseminated. The project is further providing support to preparatory work and technical support to the Household
+              Income and Expenditure Survey (HIES) 2021-22 and Labor Force Survey (LFS) 2021-22.
+             Component D. Promoting and Strengthening Access to and the Use of Official Statistics: The MTR mission observed that this
+              component has had challenges in completing some of the key tasks including the Data Licensing Agreement between BBS and World
+              Bank, finalization and implementation of an effective and clear dissemination policy, and the preparation of Advance Release Calendar
+              and the Protocol of Advance Release Calendar. Given the importance of these activities for attaining the Project Development Objectives,
+              it was agreed that the PMU will prioritize the discussion on the Data Licensing Agreement. The Twinning Partner with support and input
+              from BBS will prepare the Advance Release Calendar and Protocol of Advance Release Calendar, and the dissemination policy.
+
+
+
+
+  Risks
+
+
+ Systematic Operations Risk-rating Tool
+
+
+  Risk Category                                                  Rating at Approval               Previous Rating               Current Rating
+
+  Political and Governance                                       Substantial                     Substantial                  Moderate
+  Macroeconomic                                                  Low                             Low                          Low
+  Sector Strategies and Policies                                 Moderate                        Moderate                     Moderate
+  Technical Design of Project or Program                         Moderate                        Moderate                     Moderate
+  Institutional Capacity for Implementation and
+                                                                 Substantial                     Substantial                  Substantial
+  Sustainability
+  Fiduciary                                                      Substantial                     Substantial                  Substantial
+  Environment and Social                                         Low                             Low                          Low
+  Stakeholders                                                   Substantial                     Substantial                  Substantial
+  Other                                                          --                               Substantial                  Moderate
+  Overall                                                        Substantial                     Substantial                  Moderate
+
+
+
+  Results
+
+
+ PDO Indicators by Objectives / Outcomes
+
+
+
+
+4/29/2021                                                                                                                          Page 2 of 6
+            The World Bank                                                                                     Implementation Status & Results Report
+            National Strategy for Development of Statistics Implementation Support (P157987)
+
+
+
+
+   1.        Producing Quality Statistics
+
+    IN00978665
+    ►Core statistics are improved in line with international standards (Percentage, Custom)
+
+                                         Baseline                     Actual (Previous)          Actual (Current)          End Target
+
+    Value                                0.00                         0.00                       0.00                      40.00
+
+    Date                                 02-Apr-2018                  09-Dec-2020                04-Mar-2021               31-Aug-2022
+                                         Baseline Review of Core Statistics has been completed. Before the mid-term review the total number of
+                                         core statistics are determined and improvement reported in the result framework as define by this
+   Comments:
+                                         indicator.
+
+
+
+   Making statistics available on time
+
+    IN00978696
+    ►Core statistics are released according to a pre-defined calendar (Text, Custom)
+
+                                         Baseline                     Actual (Previous)          Actual (Current)          End Target
+                                                                                                                           80% of the core
+                                         No formal release            No formal release          Draft release calendar    statistics disseminated
+    Value
+                                         calendar is in place.        calendar                   prepared                  on time as announced
+                                                                                                                           in the release schedule
+    Date                                 02-Apr-2018                  09-Dec-2020                04-Mar-2021               31-Aug-2022
+                                         Advanced Released Calendar and protocol for Advance Release Calendar is expected to be completed
+   Comments:                             by April 2021
+
+    IN00978697
+    ►Core surveys' microdata anonymized made accessible (Percentage, Custom)
+
+                                         Baseline                     Actual (Previous)          Actual (Current)          End Target
+
+    Value                                0.00                         0.00                       0.00                      40.00
+
+    Date                                 02-Apr-2018                  09-Dec-2020                04-Mar-2021               31-Aug-2022
+                                         Metadata Documentation, Codes and Syntaxes for various micro data are expected to be completed by
+   Comments:                             June 2021
+
+    IN00978698
+    ►Increased user satisfaction (Text, Custom)
+
+                                         Baseline                     Actual (Previous)          Actual (Current)          End Target
+                                                                                                                           50% of indicators in
+                                                                      BBS has initiated          BBS has initiated         the survey show
+                                                                      discussion to set formal   discussion to set         improvement in user
+                                         No formal strategy to
+    Value                                                             strategy to undertake      formal strategy to        satisfaction compared
+                                         gather users' satisfaction
+                                                                      USS to measure this        undertake USS to          to baseline calculated
+                                                                      indicator.                 measure this indicator.   from first user-
+                                                                                                                           satisfaction survey.
+    Date                                 02-Apr-2018                  09-Dec-2020                04-Mar-2021               31-Aug-2022
+
+
+
+
+4/29/2021                                                                                                                     Page 3 of 6
+            The World Bank                                                                                       Implementation Status & Results Report
+            National Strategy for Development of Statistics Implementation Support (P157987)
+
+
+
+                                        In order to set formal strategy to gather users' satisfaction, initiatives have been taken to measure this
+                                        indicator. User satisfaction survey methodology and questionnaire will be developed soon for this
+   Comments:
+                                        indicator.
+
+
+ Overall Comments PDO
+
+  The MTR clarified and agreed on the number of core statistics and specific surveys or data to be improved under each domain for the
+  purposes of tracking the achievement of PDO level indicators. The findings from the MTR mission have therefore led to proposed clarification
+  of what constitute core statistics and surveys in relation to the PDO level indicators, and how improvement will be measured. The MTR also
+  proposed revision of target for PDO indicator 2 “Core statistics are released according to a pre-defined calendar” by half from 80% to 40% to
+  make it more realistic. This request will be made at the project restructuring request stage.
+
+  While the project document clearly stipulates that two rounds of User Satisfaction Survey (USS) will be carried out to measure the progress
+  over time by an external independent agency for indicator 4 "Increased User Satisfaction Survey", no such survey has been conducted. The
+  MTR has recommended that in the interest of time, the PIU will carry out an initial USS while an independent agency will be contracted to
+  undertake two additional follow-ups of the survey – one towards the end of 2021 and the latter towards the end of the project to assess
+  progress over time.
+
+
+
+
+ Intermediate Results Indicators by Components
+
+
+
+   Improving the coordination and management of statistical activities
+
+    IN00978699
+    ►Mechanisms are put in place to enhance coordination (Text, Custom)
+
+                                        Baseline                     Actual (Previous)             Actual (Current)           End Target
+                                                                     The ToR and
+                                                                     composition of National
+                                                                     Advisory Council on           National Advisory
+                                                                     Statistics (NACS) has         Council on Statistics
+                                                                                                                              4 MOUs signed and
+                                                                     been approved by the          (NACS) approved and
+                                        Coordination activities                                                               operational; 2
+                                                                     Honourable Planning           report on existing
+    Value                               mostly on an ad-hoc                                                                   Meetings held by
+                                                                     Minister. Review report       MoUs and
+                                        basis                                                                                 National Statistics
+                                                                     on existing MoUs and          Administrative data
+                                                                                                                              Coordination Council
+                                                                     Administrative data has       completed. MOUs are
+                                                                     also been                     yet to be signed.
+                                                                     completed. MOUs are yet
+                                                                     to be signed.
+    Date                                02-Apr-2018                  09-Dec-2020                   03-Mar-2021                31-Aug-2022
+
+    IN00978702
+    ►Conducting assessments and training for better management systems (Text, Custom)
+
+                                        Baseline                     Actual (Previous)             Actual (Current)           End Target
+                                                                                                                              Completed functional
+                                                                                                                              review of the BBS and
+                                        No functional review
+                                                                                                                              implementation plan
+                                        done, limited
+                                                                     No functional review          No functional review       developed to ensure
+    Value                               procurement and
+                                                                     done                          done                       fitness of purpose. At
+                                        financial management
+                                                                                                                              least 4 staff trained on
+                                        skills
+                                                                                                                              procurement and
+                                                                                                                              financial management.
+    Date                                02-Apr-2018                  09-Dec-2020                   03-Mar-2021                31-Aug-2022
+
+
+
+4/29/2021                                                                                                                         Page 4 of 6
+            The World Bank                                                                                        Implementation Status & Results Report
+            National Strategy for Development of Statistics Implementation Support (P157987)
+
+
+
+
+   Developing human resources and ICT infrastructure to produce and manage data
+
+    IN00978700
+    ►Implementation of training policy to develop human resources (Text, Custom)
+
+                                        Baseline                    Actual (Previous)               Actual (Current)           End Target
+                                                                                                    A draft Training Policy
+                                                                   Training Policy was
+                                                                                                    and a Training Plan
+                                                                   drafted and a Training
+                                                                                                    developed. Based on        Following training
+                                                                   Plan developed. Based
+                                                                                                    this BBS has               policy, 500 BBS staff
+                                                                   on it BBS has conducted
+                                                                                                    conducted basic            trained (10% women),
+                                                                   basic agriculture training
+                                        Training done on an ad-                                     agriculture training for   delivery of 2 training
+    Value                                                          for 500 staff (HQ and
+                                        hoc basis                                                   500 staff (HQ and field    courses to government
+                                                                   field level office of BBS).
+                                                                                                    level office of BBS). A    officials, delivery of 2
+                                                                   A 1st Batch of STATA
+                                                                                                    1st Batch of STATA         training courses to
+                                                                   training of 10 days for 24
+                                                                                                    training of 10 days for    media
+                                                                   participants was
+                                                                                                    24 participants was
+                                                                   completed.
+                                                                                                    also completed.
+    Date                                02-Apr-2018                09-Dec-2020                      03-Mar-2021                31-Aug-2022
+
+    IN00978703
+    ►Investments in ICT infrastructure to support data collection and management (Text, Custom)
+
+                                        Baseline                   Actual (Previous)                Actual (Current)           End Target
+                                        Inadequate ICT             Inadequate ICT                   Inadequate ICT
+    Value                                                                                                                      ICT plan is completed
+                                        infrastructure             infrastructure                   infrastructure
+
+    Date                                02-Apr-2018                09-Dec-2020                      03-Mar-2021                31-Aug-2022
+
+
+
+   Promoting and strengthening access to and the use of official statistics
+
+    IN00978701
+    ►Introduction of an effective and clear dissemination policy (Text, Custom)
+
+                                        Baseline                   Actual (Previous)                Actual (Current)           End Target
+                                                                   A draft Dissemination            A draft Dissemination
+                                                                                                                               Approval of
+                                        No formal dissemination    Policy have been                 Policy have been
+    Value                                                                                                                      dissemination policy
+                                        policy in place            produced and is under            produced and is under
+                                                                                                                               for core statistics
+                                                                   review.                          review.
+    Date                                02-Apr-2018                09-Dec-2020                      03-Mar-2021                31-Aug-2022
+
+
+
+ Performance-Based Conditions
+
+
+
+ Data on Financial Performance
+
+
+ Disbursements (by loan)
+
+ Project        Loan/Credit/TF     Status     Currency        Original   Revised        Cancelled      Disbursed       Undisbursed              % Disbursed
+
+
+
+
+4/29/2021                                                                                                                         Page 5 of 6
+            The World Bank                                                                                 Implementation Status & Results Report
+            National Strategy for Development of Statistics Implementation Support (P157987)
+
+
+
+
+ P157987        IDA-61930          Effective    USD             15.00      15.00           0.00         4.76            9.88                    33%
+
+
+ Key Dates (by loan)
+
+ Project         Loan/Credit/TF     Status      Approval Date     Signing Date     Effectiveness Date   Orig. Closing Date      Rev. Closing Date
+
+ P157987         IDA-61930          Effective   22-Mar-2018       28-Jun-2018      12-Sep-2018          28-Feb-2022             31-Aug-2022
+
+
+Cumulative Disbursements
+
+
+
+
+ PBC Disbursement
+
+                                                                                        Achievement     Disbursed amount in        Disbursement %
+ PBC ID                      PBC Type    Description            Coc     PBC Amount
+                                                                                        Status          Coc                        for PBC
+
+
+
+
+  Restructuring History
+
+
+  Level 2 Approved on 22-Mar-2020
+
+
+  Related Project(s)
+
+
+ There are no related projects.
+
+
+
+
+4/29/2021                                                                                                                    Page 6 of 6
+

@@ -1,0 +1,3727 @@
+                                              Document of
+
+                                          The World Bank
+
+                                       FOR OFFICIAL USE ONLY
+
+
+
+
+
+                                                                                  Report No: PAD2239
+
+
+
+
+
+
+
+                            INTERNATIONAL DEVELOPMENT ASSOCIATION
+
+
+
+                                   PROJECT APPRAISAL DOCUMENT
+
+                                                  ON A
+
+                                          PROPOSED CREDIT
+
+
+
+                               IN THE AMOUNT OF SDR 109.4 MILLION
+
+                                   (US$150 MILLION EQUIVALENT)
+
+
+
+                                                 TO THE
+
+
+
+                                  SOCIALIST REPUBLIC OF VIETNAM
+
+
+
+
+
+                                                 FOR A
+
+                   CENTRAL HIGHLANDS CONNECTIVITY IMPROVEMENT PROJECT
+
+
+
+                                              June 1, 2017
+
+
+
+
+
+
+
+
+
+ Transport & ICT Global Practice
+
+ East Asia And Pacific Region
+
+
+
+
+
+
+
+
+
+This document has a restricted distribution and may be used by recipients only in the performance of
+
+their official duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+                       CURRENCY EQUIVALENTS
+
+
+
+                (Exchange Rate Effective April 30, 2017)
+
+
+
+
+
+                     Currency Unit = Vietnam Dong (VND)
+
+
+
+                              US$1 = 22,743 VND
+
+
+
+                             SDR1 = US$1.37102
+
+
+
+                              Fiscal Year
+
+                       January 1 – December 31
+
+
+
+
+
+                   ABBREVIATIONS AND ACRONYMS
+
+
+
+ACG     Anti-Corruption Guidelines
+
+ASEAN   Association of Southeast Asian Nations
+
+BCR     Benefit Cost Ratio
+
+BOT     Build Operate Transfer
+
+CFMB    Central Fund Management Board
+
+CPS     Country Partnership Strategy
+
+DC      Direct Contracting
+
+DLI     Disbursement-linked Indicator
+
+DOF     Department of Finance
+
+DOT     Department of Transport
+
+DPC     District People’s Committee
+
+DPI     Department of Planning and Investment
+
+DRVN    Directorate for Roads of Vietnam
+
+DST     Department of Science and Technology
+
+ECOP    Environmental Code of Practice
+
+EHS     Environmental Health and Safety
+
+EIRR    Economic Internal Rate of Return
+
+EM      Ethnic Minority
+
+EMDP    Ethnic Minority Development Plan
+
+ESIA    Environment and Social Impact Assessment
+
+ESMP    Environmental and Social Management Plan
+
+EPC     Environmental Protection Commitment
+
+EPP     Environmental Protection Plan
+
+FMM     Financial Management Manual
+
+GDP     Gross Domestic Product
+
+GFDRR   Global Facility for Disaster Reduction and Recovery
+
+GIS     Geographical Information System
+
+GNI     Gross National Income
+
+GoV     Government of Vietnam
+
+GRM     Grievance Redress Mechanism
+
+GRS     Grievance Redress Service
+
+GSO     General Statistics Office
+
+IA      Internal Audit
+
+IDA     International Development Association
+
+INDC    Intended Nationally Determined Contribution
+
+IPF     Investment Project Financing
+
+IPSAS   International Public Sector Accounting Standards
+
+IRAP    International Road Assessment Programme
+
+IT      Information Technology
+
+M&E     Monitoring and Evaluation
+
+MoF     Ministry of Finance
+
+MoT     Ministry of Transport
+
+MPI     Ministry of Planning and Investment
+
+MTEP    Medium Term Expenditure Plans
+
+NPF     New Procurement Framework
+
+NTSC    National Traffic Safety Committee
+
+O&M     Operation and Maintenance
+
+ODA     Official Development Assistance
+
+PAP     Program Action Plan
+
+PAT     Performance Assessment Tool
+
+PC      People’s Committee
+
+PDO     Project Development Objective
+
+PMU     Project Management Unit
+
+POM     Project Operations Manual
+
+PP      Procurement Plan
+
+PPC     Provincial People’s Committee
+
+PPSD    Project Procurement Strategy Document
+
+PRMF    Provincial Road Maintenance Fund
+
+PRVR    Program Results Verification Report
+
+PTSC    Provincial Traffic Safety Committee
+
+RAP     Resettlement Action Plan
+
+RF      Results Framework
+
+RVR     Results Verification Report
+
+SAV     State Audit of Vietnam
+
+SBV     State Bank of Vietnam
+
+SCD     Systematic Country Diagnostic
+
+SEDP    Socio-Economic Development Plan
+
+SMART   Specific, Measurable, Assignable, Realistic, Time-related
+
+SOE     State-Owned Enterprise
+
+SSS     Single Source Selection
+
+ST      State Treasury
+
+STEP    Systematic Tracking of Exchanges in Procurement
+
+TA      Technical Assistance
+
+TCQM    Technical Control for Quality Management Department
+
+VHLSS   Vietnam Household Living Standards Survey
+
+VND     Vietnamese Dong
+
+VRAMP   Vietnam Road Asset Management Project
+
+VWU     Vietnam Women’s Union
+
+WTO                World Trade Organization
+
+
+
+
+
+
+
+
+
+             Regional Vice President:Victoria Kwakwa
+
+                    Country Director:Ousmane Dione
+
+                                     Jose Luis Irigoyen
+
+      Senior Global Practice Director:
+
+                   Practice Manager: Almud Weitz
+
+                                     Mitsuyoshi Asada, Phuong Thi Minh Tran, Van
+
+                Task Team Leader(s):
+
+                                     Anh Thi Tran
+
+     The World Bank
+
+     Central Highlands Connectivity Improvement Project (P159238)
+
+
+
+
+
+
+
+
+
+BASIC INFORMATION
+
+
+
+
+
+Is this a regionally tagged project?    Country(ies)                       Financing Instrument
+
+No                                                                         Investment Project Financing
+
+
+
+[ ] Situations of Urgent Need of Assistance or Capacity Constraints
+
+[ ] Financial Intermediaries
+
+[ ] Series of Projects
+
+
+
+
+
+
+
+Approval Date                  Closing Date             Environmental Assessment Category
+
+22-Jun-2017                    30-Jun-2023              B - Partial Assessment
+
+
+
+Bank/IFC Collaboration
+
+No
+
+
+
+
+
+Proposed Development Objective(s)
+
+
+
+To improve the connectivity, safety and climate-resilience of the National Highway 19.
+
+
+
+Components
+
+
+
+Component Name                                                                               Cost (US$, millions)
+
+
+
+Road Improvements                                                                                         145.00
+
+
+
+Implementation Support                                                                                      8.70
+
+
+
+
+
+Organizations
+
+
+
+Borrower :                      Socialist Republic of Vietnam
+
+
+
+Implementing Agency :           Projects Management Unit No. 2
+
+
+
+
+
+
+
+PROJECT FINANCING DATA (US$, Millions)
+
+
+
+
+
+                                                                                                            Page 1 of 37
+
+     The World Bank
+
+     Central Highlands Connectivity Improvement Project (P159238)
+
+
+
+
+
+
+
+
+
+ [✔]               [ ] IBRD     [ ✔ ] IDA Credit            [ ] IDA Grant                 [ ] Trust          [ ]
+
+Counterpart                                                                               Funds              Parallel
+
+Funding                         [ ] Crisis Response         [ ] Crisis Response                              Financing
+
+                                Window                      Window
+
+
+
+                                [ ] Regional Projects       [ ] Regional Projects
+
+                                Window                      Window
+
+FIN COST OLD
+
+        Total Project Cost:                           Total Financing:                Financing Gap:
+
+                       153.70                                  153.70                             0.00
+
+                                 Of Which Bank Financing (IBRD/IDA):
+
+
+
+                                                                150.00
+
+
+
+Financing (in US$, millions)
+
+FIN_SUMM_OLD
+
+Financing Source                                                                               Amount
+
+Borrower                                                                                              3.70
+
+International Development Association (IDA)                                                      150.00
+
+Total                                                                                            153.70
+
+
+
+
+
+
+
+
+
+Expected Disbursements (in US$, millions)
+
+
+
+
+
+Fiscal Year                                        2017    2018          2019     2020       2021        2022       2023
+
+
+
+Annual                                             0.00     6.04     28.55        43.18      35.26       26.55     10.42
+
+
+
+Cumulative                                         0.00     6.04     34.59        77.77    113.03       139.58    150.00
+
+
+
+
+
+
+
+INSTITUTIONAL DATA
+
+
+
+Practice Area (Lead)
+
+Transport & ICT
+
+
+
+
+
+                                                                                                                 Page 2 of 37
+
+      The World Bank
+
+      Central Highlands Connectivity Improvement Project (P159238)
+
+
+
+
+
+
+
+Contributing Practice Areas
+
+
+
+
+
+
+
+Climate Change and Disaster Screening
+
+This operation has been screened for short and long-term climate change and disaster risks
+
+
+
+Gender Tag
+
+
+
+Does the project plan to undertake any of the following?
+
+
+
+a. Analysis to identify Project-relevant gaps between males and females, especially in light of country gaps identified
+
+through SCD and CPF
+
+Yes
+
+
+
+b. Specific action(s) to address the gender gaps identified in (a) and/or to improve women or men's empowerment
+
+Yes
+
+
+
+c. Include Indicators in results framework to monitor outcomes from actions identified in (b)
+
+Yes
+
+
+
+
+
+
+
+SYSTEMATIC OPERATIONS RISK-RATING TOOL (SORT)
+
+
+
+Risk Category                                                                           Rating
+
+1. Political and Governance                                                              Low
+
+2. Macroeconomic                                                                         Low
+
+3. Sector Strategies and Policies                                                        Moderate
+
+4. Technical Design of Project or Program                                                Moderate
+
+5. Institutional Capacity for Implementation and Sustainability                          Moderate
+
+6. Fiduciary                                                                             Substantial
+
+7. Environment and Social                                                                Moderate
+
+8. Stakeholders                                                                          Moderate
+
+9. Other                                                                                 Low
+
+10. Overall                                                                              Moderate
+
+
+
+
+
+
+
+
+
+                                                                                                               Page 3 of 37
+
+     The World Bank
+
+     Central Highlands Connectivity Improvement Project (P159238)
+
+
+
+
+
+
+
+COMPLIANCE
+
+
+
+Policy
+
+Does the project depart from the CPF in content or in other significant respects?
+
+[ ] Yes   [✔] No
+
+
+
+Does the project require any waivers of Bank policies?
+
+[ ] Yes   [✔] No
+
+
+
+
+
+
+
+Safeguard Policies Triggered by the Project                                                         Yes        No
+
+
+
+Environmental Assessment OP/BP 4.01                                                                 ✔
+
+Natural Habitats OP/BP 4.04                                                                         ✔
+
+Forests OP/BP 4.36                                                                                             ✔
+
+Pest Management OP 4.09                                                                                        ✔
+
+Physical Cultural Resources OP/BP 4.11                                                              ✔
+
+Indigenous Peoples OP/BP 4.10                                                                       ✔
+
+Involuntary Resettlement OP/BP 4.12                                                                 ✔
+
+Safety of Dams OP/BP 4.37                                                                                      ✔
+
+Projects on International Waterways OP/BP 7.50                                                                 ✔
+
+Projects in Disputed Areas OP/BP 7.60                                                                          ✔
+
+
+
+Legal Covenants
+
+
+
+Sections and Description
+
+Institutional Arrangements
+
+Financing Agreement: Schedule 2, Section I.A.1
+
+Recurrent, Continuous
+
+Obligation of the Recipient, through MOT, to maintain the PMU2 with composition, powers, functions, staffing,
+
+facilities and other resources satisfactory to the Association.
+
+
+
+Sections and Description
+
+Annual Work Plans
+
+Financing Agreement: Schedule 2, Section I.B.1
+
+Annual, Continuous
+
+Obligation of the Recipient, through MOT, to prepare and furnish to the Association not later than July 15 in each
+
+
+
+                                                                                                             Page 4 of 37
+
+     The World Bank
+
+     Central Highlands Connectivity Improvement Project (P159238)
+
+
+
+
+
+
+
+year, beginning in 2017, a draft annual work plan; and finalize and furnish to the Association not later than
+
+December 31 in each year, beginning in 2017, a final annual work plan; and thereafter ensure the implementation
+
+of the Project during the following calendar year in accordance with the annual work plan agreed with the
+
+Association.
+
+
+
+Sections and Description
+
+Project Operations Manual
+
+Financing Agreement: Schedule 2, Section I.B.2
+
+Recurrent, Continuous
+
+Obligation of the Recipient, through MOT, to carry out the Project in accordance with the Project Operation
+
+Manual; and not amend, waive or abrogate any provisions of the manual unless the Association agrees otherwise
+
+in writing.
+
+
+
+Sections and Description
+
+Safeguards
+
+Financing Agreement: Schedule 2, Section I.D
+
+Recurrent, Continuous
+
+Obligation of the Recipient to ensure that the Project is carried out in accordance with the safeguards instruments
+
+(as defined in the Financing Agreement); and not amend, abrogate, or waive any of the safeguard instruments
+
+unless the Association agrees otherwise, and report on their status of implementation as part of the semiannual
+
+progress reports.
+
+
+
+Sections and Description
+
+Mid-Term Review
+
+Financing Agreement: Schedule 2, Section II.A.2
+
+Due Date: 30 months after the Effective Date
+
+Obligation of the Recipient, through MOT, to carry out jointly with the Association a midterm review to assess the
+
+status of Project implementation, as measures against the performance indicators set forth in the Project
+
+Operations Manual.
+
+
+
+
+
+
+
+Conditions
+
+
+
+Type                             Description
+
+Effectiveness                    Financing Agreement: Article IV, Section 4.01
+
+                                 The Project Operations Manual has been duly adopted by MOT.
+
+
+
+
+
+
+
+
+
+                                                                                                             Page 5 of 37
+
+     The World Bank
+
+     Central Highlands Connectivity Improvement Project (P159238)
+
+
+
+
+
+
+
+PROJECT TEAM
+
+
+
+Bank Staff
+
+Name                        Role                             Specialization               Unit
+
+                            Team Leader(ADM
+
+Mitsuyoshi Asada                                                                          GTI02
+
+                            Responsible)
+
+Phuong Thi Minh Tran        Team Leader                                                   GTI02
+
+Van Anh Thi Tran            Team Leader                                                   GTI02
+
+                            Procurement Specialist(ADM
+
+Hoai Van Nguyen                                              Procurement                  GGO08
+
+                            Responsible)
+
+                            Financial Management
+
+Cung Van Pham                                                Financial Management         GGO20
+
+                            Specialist
+
+Abigail C. Baca             Team Member                      DRM                          GSU08
+
+Aristeidis I. Panou         Team Member                      Legal                        LEGES
+
+Chi Kien Nguyen             Team Member                      Transport                    GTI02
+
+Dzung Huy Nguyen            Team Member                      DRM                          GSU08
+
+Hien Thi Thu Vu             Team Member                      Coordination                 EACVF
+
+Hong Chen                   Team Member                      Operations                   GTI10
+
+Parthapriya Ghosh           Safeguards Specialist            Social                       GSU06
+
+Romain Pison                Team Member                      Transport                    GTI02
+
+Tara Shirvani               Team Member                      Climate Change               GTI08
+
+Thao Phuong Tuong           Team Member                      Coordination                 EACVF
+
+Thu Ha Le                   Team Member                      Legal                        LEGES
+
+Thu Thi Le Nguyen           Environmental Specialist         Environment                  GEN2B
+
+
+
+Extended Team
+
+Name                        Title                            Organization                 Location
+
+
+
+J. R. Cook                  Civil Engineer                                                Hanoi,
+
+Ly Thi Dieu Vu              Consultant                                                    Vietnam
+
+                            Safeguards and Social
+
+Tam Giang Nguyen                                             World Bank Office in Hanoi   Hanoi,Vietnam
+
+                            Development Consultant
+
+
+
+
+
+
+
+
+
+                                                                                                     Page 6 of 37
+
+The World Bank
+
+Central Highlands Connectivity Improvement Project (P159238)
+
+
+
+
+
+
+
+                                                  VIETNAM
+
+                             CENTRAL HIGHLANDS CONNECTIVITY IMPROVEMENT PROJECT
+
+
+
+                                                    TABLE OF CONTENTS
+
+
+
+ I.    STRATEGIC CONTEXT ............................................................................................................... 8
+
+       A. Sectoral and Institutional Context ...................................................................................... 8
+
+       B. Higher Level Objectives to which the Project Contributes ............................................... 10
+
+ II.   PROJECT DEVELOPMENT OBJECTIVES ................................................................................... 11
+
+       A. PDO.................................................................................................................................... 11
+
+       B. Project Beneficiaries.......................................................................................................... 11
+
+ III. PROJECT DESCRIPTION .......................................................................................................... 11
+
+       A. Project Components.......................................................................................................... 11
+
+       B. Project Cost and Financing ................................................................................................ 13
+
+       C. Lessons Learned and Reflected in the Project Design ...................................................... 13
+
+ IV. IMPLEMENTATION ................................................................................................................. 14
+
+       A. Institutional and Implementation Arrangements ............................................................. 14
+
+       B. Results Monitoring and Evaluation ................................................................................... 15
+
+ V.    KEY RISKS ............................................................................................................................... 15
+
+       A. Overall Risk Rating and Explanation of Key Risks.............................................................. 15
+
+ VI. APPRAISAL SUMMARY ........................................................................................................... 16
+
+       A. Economic Analysis ............................................................................................................. 16
+
+       B. Technical............................................................................................................................ 19
+
+       C. Financial Management ...................................................................................................... 20
+
+       D. Procurement ..................................................................................................................... 21
+
+       E. Social (including Safeguards) ............................................................................................. 23
+
+       F. Environment (including Safeguards) ............................................................................... 244
+
+       H. World Bank Grievance Redress....................................................................................... 255
+
+ VII. RESULTS FRAMEWORK AND MONITORING............................................................................ 27
+
+  ANNEX 1: PROJECT MAP .............................................................................................................. 37
+
+
+
+
+
+
+
+
+
+                                                                                                                                               Page 7 of 37
+
+      The World Bank
+
+      Central Highlands Connectivity Improvement Project (P159238)
+
+
+
+
+
+
+
+
+
+I. STRATEGIC CONTEXT
+
+
+
+
+
+ A. Sectoral and Institutional Context
+
+
+
+ 1. Over the past decade, Vietnam has taken advantage of its rapid economic development to develop both its
+
+ transport infrastructure and services, but road investment in the Central Highlands region is still low. The
+
+ Government has continued to increase public spending on transport, from about US$1 billion in 2002 to more
+
+ than US$5 billion in 2012, and has introduced a number of measures to improve the competitiveness of road
+
+ transport. The road network has been significantly transformed over the past 10 years from 2005 to 2014, with
+
+ a total percentage of paved network that increased from 19 to 50 percent, and a total length that increased by
+
+ 30 percent. While Vietnam has a complete road network with a relatively high road density of about 0.87km of
+
+ road per sq.km, the full potential of such a network is indeed hindered by its poor condition due to low levels of
+
+ maintenance and maintenance financing, as well as the lack of a sufficient core network of main roads. Currently
+
+ the extent of expressways is at 740km, or 2.2km per 1000 km2, a significantly lower density than most
+
+ neighboring countries. About 96 percent of national roads are paved, but only about 43 percent are in good
+
+ condition; 37 percent are in average condition; and 20 percent are in poor to very poor condition. Provincial and
+
+ local roads are in worse condition than national and urban roads. The overall network is only about 30% paved
+
+ due to the significant share of district and commune roads that remain unpaved. When paved, the road
+
+ pavements are often of poor quality. The average spending on road maintenance in the Central Highlands region
+
+ is one of the lowest in the country in absolute value, with about VND 270 billion spent in 2011 at the Provincial
+
+ level, far behind the VND 2,800 billion spent in the Red River Delta (MoT/DRVN data). Such a level of spending
+
+ cannot stem further deterioration of the road asset and hinders the life-cycle performance of the roads. Road
+
+ investment spending in the Central Highlands region is also one of the lowest on average in the period 2011-
+
+ 2015, with about VND 6,055 billion spent in 2011, to be compared with the VND 12,552 billion spent in the Red
+
+ River Delta in the same year (MoT/DRVN data).
+
+
+
+ 2. Recent figures from the General Statistics Office of Vietnam report an exponential increase in trade after
+
+ 2007, with trade between Vietnam and Cambodia reaching US$2.3 billion in 2010 and US$3.03 billion in 2015.
+
+ Border gate trade between Vietnam, China, Laos and Cambodia is estimated to have reached US$30 billion in
+
+ 2016. Trade between Cambodia and Vietnam is supported by the Regional corridor R9 from the Association of
+
+ Southeast Asian Nations (ASEAN) Highway Network, which includes the National Highway No. 19 (NH19) on the
+
+ Vietnamese side. This project will not only improve the connectivity of the coastal regions to the poorer central
+
+ highlands regions, but also help the Cambodian economy by linking it to the thriving economy of Vietnam. The
+
+ increase of regional trade and cross-border trade is hindered by the quality of the road, low density of the core
+
+ road network, and high cost of road transport. Average road transport costs, represented by trip time, are the
+
+ highest in the region after Indonesia, and are indeed holding back Vietnam’s competitiveness and trade
+
+ efficiency. Meanwhile, there is a serious backlog of unmet demand, as inter-city two-lane roads such as NH19
+
+ are insufficient in meeting the growing demand for regional and inter-city mobility. The core national road
+
+ network, representing the main corridors of the country, is not sufficient to support growth and trade
+
+ development, and needs further investment. This shows that investment needs in the road sub-sector are still
+
+ substantial and would benefit from continued financing, especially for inter-modal road links between major
+
+ transport hubs, such as the proposed project.
+
+
+
+
+
+
+
+                                                                                                               Page 8 of 37
+
+     The World Bank
+
+     Central Highlands Connectivity Improvement Project (P159238)
+
+
+
+
+
+
+
+3. Road fatalities account for about 96 percent of transport fatalities in Vietnam, and while death rates have
+
+been reduced by more than 30 percent between 2004 and 2012, road safety remains a challenge. According to
+
+the Asia Development Bank’s estimates, the economic loss and damage caused by annual road accidents in
+
+Vietnam is about US$880 million, making up 2.45 percent of GDP (in 2003), which is higher than the average level
+
+of ASEAN countries (2.1 percent of GDP). According to the Master Plan on road traffic safety in Vietnam, the loss
+
+and damage caused by traffic accidents on roads in 2007 was estimated to be 2.89 percent of GDP, equivalent to
+
+VND 32,600 billion and keeps increasing. An increase in motorcycle use has substantial consequences in terms of
+
+the increase in accidents; additional vehicles within the same area, increased capacity of vehicles to accelerate,
+
+as well as the limited protection offered to users, are all elements that make this transport mode more dangerous
+
+than others. In 2004, Vietnam had a death rate from road accidents of 16 per 100,000 inhabitants, but reduced
+
+this to 10.2 in 2012 (MoT/DRVN data), an encouraging reduction (World Bank data). Motorization rates increased
+
+by 320 percent from 2002 to 2013 (compound annual growth rate (CAGR) of 11 percent), while road length
+
+network increased by 30 percent over the same period (CAGR of 4 percent). This motorization rate, coupled with
+
+weak regulations and capacity to tackle the challenge of road safety, is leading to further levels of congestion,
+
+faster degradation of assets, as well as lower levels of safety for road users.
+
+
+
+4. The traffic characteristics on NH19 are quite mixed, with large numbers of heavy trucks and high speed
+
+vehicles, plus significant numbers of motorcycles, non-motorized traffic and local pedestrians. The lack of road
+
+capacity and safe conditions not only constrains NH19’s connectivity role but also exposes vehicles using the
+
+road to a high risk of traffic accidents. During the implementation of the Vietnam Road Safety Project (VRSP),
+
+financed by IDA and completed in 2012, the International Road Assessment Programme (iRAP) consultant
+
+assessed most of NH19 as Star 1 and 2 ratings, which revealed that NH19 was one of the critically dangerous
+
+roads, and strongly suggested NH19 be a next priority road safety project. NH19 is on the priority list of the
+
+National Traffic Safety Strategy up to 2020 with vision to 2030.
+
+
+
+5. The current climatic environment, with its variability and extreme weather events, makes Vietnam
+
+infrastructure highly susceptible to climate impacts, which are likely to increase over time. The interaction of
+
+infrastructure assets with terrain and climate results in a range of potential vulnerabilities depending on the
+
+nature of both the infrastructure assets and the climate threat. The NH19 corridor comprises a range of
+
+geomorphological and climatic zones; from near coastal through mountainous to central plateau, and the
+
+principal concerns as to its climate resilience are likely to be centred around: (i) Erosion and instability of
+
+earthworks in steep terrain, (ii) Flooding of sections of the highway where the vertical alignment is low, and (iii)
+
+Erosion to bridge abutments and piers. The combination of this with significant changes in land-use, the variable
+
+geotechnical environment and the impact of climate have made these mountainous provinces areas of significant
+
+landslide activity. According to statistics published by the Vietnam Institute of Geosciences and Mineral
+
+Resources (under the Ministry of Natural Resources and Environment), there are over 10,250 points of landslide
+
+risk in the 10 Northern Mountain Provinces, of which about 2,100 have been classified as large to very large.
+
+Every year during the rainy season significant soil or rock failures affect these highways, sometimes with a soil-
+
+rock mass up to thousands of cubic meters. Such landslide risks and other climate and disaster risks, including
+
+flooding, do not uniquely apply to roads, but all modes of transport.
+
+
+
+6. The proposed project aligns with the Government of Vietnam’s objectives, policies and strategies, as
+
+confirmed by the Prime Minister Decision No. 07/2011 / QD-TTg approving the plan of transport development in
+
+the key economic zone of the Central Vietnam to 2020 and orientations to 2030 for national highways, as well as
+
+the Minister of Transportation Decision No. 3936 / QD-BGTVT on December 3rd, 2014 approving orientations and
+
+
+
+
+
+                                                                                                                Page 9 of 37
+
+     The World Bank
+
+     Central Highlands Connectivity Improvement Project (P159238)
+
+
+
+
+
+
+
+transport infrastructure development in the Central Highlands in 2015, and to 2020. The proposed project also
+
+aligns in vision and timing with the one stop one window approach for the Le Thanh/Ou Yadav border gate at the
+
+Vietnam-Cambodia border, inaugurated in December 2015 as a way to reinforce trade and cooperation between
+
+the two countries, and to create favorable conditions in the transport links between Vietnam, Cambodia and
+
+other member states of ASEAN.
+
+
+
+B. Higher Level Objectives to which the Project Contributes
+
+
+
+7. The proposed project is closely aligned with the World Bank Group’s twin goals of ending extreme poverty
+
+and boosting shared prosperity, as well as the overarching theme of sustainability, given the evidence of the
+
+strong negative relationship between extreme poverty and accessibility/mobility as an auxiliary support to
+
+trade and competitiveness. Research carried out in Vietnam and neighboring countries since 2000 has shown
+
+that investments in roads has had significant impacts on poverty alleviation, social participation, and health
+
+services (Van de Walle & Cratty 2002, Banwatt 2014). It has been estimated that an investment of 1% of GDP per
+
+year in transport benefitting the rural and lagging areas has helped reduce the poverty rate by 1.5% per year, on
+
+average. As such, the proposed project will further leverage benefits from the current Government-financed
+
+program to rehabilitate in parallel the feeder roads that link the agricultural zones to the main NH19 corridor,
+
+therefore reducing further transport costs along the corridor.
+
+
+
+8. This operation is also consistent with the World Bank Group’s Vietnam Country Partnership Framework
+
+(CPF) FY18-22 (Report 111771-VN). In particular, in its recommendations and focus areas to: (a) enable inclusive
+
+growth, and in particular its sub-focus area on “[…] trade competitiveness, multi-modal transport connectivity,
+
+and logistics services”, and (b) enable environmental sustainability and resilience, and in particular its sub-focus
+
+areas on “[…] climate resilience, strengthen natural resource management and improve water security”, and “[…]
+
+strengthen disaster risk management and preparedness”. The principal rationale for Bank assistance is that the
+
+proposed project directly contributes to the poverty reduction and economic growth objectives set out in the
+
+Vietnam Systematic Country Diagnostic (SCD) and is fully aligned with the Government’s development strategies,
+
+notably the SEDS and the 2016-2020 SEDP. The project is also aligned with Vietnam 2035, in particular in its focus
+
+areas: (a) Chart an environmentally sustainable development path and enhance climate resilience, and (b)
+
+Promote equality and inclusion of marginalized groups, to develop a harmonious middle-class society.
+
+
+
+9. The proposed project supports the Intended Nationally Determined Contribution (INDC) plan of Vietnam to
+
+the UNFCCC. In particular the project directly responds to the INDC’s climate change adaptation priority actions
+
+outlined for 2021-2030, which include among others to: 1) implement disaster prevention plans and measures,
+
+protect peoples’ lives, and ensure national defense and security, 2) Consolidate and develop prioritized and
+
+urgent disaster prevention projects; strengthen the capacity of search and rescue forces, 3) develop
+
+infrastructure and make plans for residential areas; relocate and resettle households and communities from
+
+areas affected frequently by storm surges, floods, riverbank and shoreline erosion, or areas at risk of flash floods
+
+and landslides and 4) allocate and mobilize resources for community-based climate change adaptation and
+
+disaster management; raise awareness and build capacities for climate change adaptation and disaster risk
+
+management. Moreover, the project addresses the government’s commitment to the “V20” or “Vulnerable 20”
+
+group of top nations globally which are most affected by the catastrophes rooted from climate change.
+
+
+
+
+
+
+
+
+
+                                                                                                               Page 10 of 37
+
+      The World Bank
+
+      Central Highlands Connectivity Improvement Project (P159238)
+
+
+
+
+
+
+
+II. PROJECT DEVELOPMENT OBJECTIVES
+
+
+
+ A. PDO
+
+ To improve the connectivity, safety and climate-resilience of the National Highway 19 1.
+
+
+
+ B. Project Beneficiaries
+
+
+
+ 10. The Project’s Key Beneficiaries will be people living in the Binh Dinh and Gia Lai Provinces, both in rural
+
+ areas and the periphery of the main cities that NH19 corridor is crossing, representing approximately 1.5
+
+ million people, and 6,200 light motor vehicles per day. These will include farmers, livestock producers, small
+
+ business owners, freight and passenger transport companies. Road users benefitting from the improved road
+
+ corridor will be both from a local traffic dimension and a transit traffic dimension, including cross-border traffic
+
+ with Cambodia. Road user benefits will accrue thanks to increased access to social services and markets, as well
+
+ as the decongestion in roads that provide improved access to the city of Pleiku and around, as well as the Anh
+
+ Khe Pass which would consequently reduce travel costs and times, together with the accompanying road safety
+
+ outcomes.
+
+
+
+ 11. Additional beneficiaries include the commuters residing outside of the Central Highlands and shippers of
+
+ freight, representing approximately 1,400 trucks per day. Commuters who use daily several sections of the
+
+ NH19 corridor to access jobs and services will benefit from the economic agglomeration opportunities generated
+
+ by the project through the reduced congestion and consequent reduced travel/commuting times. Moreover,
+
+ important benefits will be generated for freight movement at the national level contributing towards reduction
+
+ of transport and logistics costs through travel time and vehicle operating costs reductions, and ultimately
+
+ enhancing the agricultural export potential, as well as imports from Cambodia.
+
+
+
+
+
+III. PROJECT DESCRIPTION
+
+
+
+ A. Project Components
+
+
+
+ 12. The proposed Project will be financed by an IDA credit of US$150 million 2 and counterparts’ funds of US$3.7
+
+ million to finance the following components, and will build on the lessons and results from previous World Bank-
+
+ financed transport projects while expanding into new areas of engagement to address road safety and climate
+
+ change. The Project will finance the following components:
+
+
+
+ 13. Component 1 – Road Improvements (estimated cost of US$145m including contingencies)
+
+
+
+            • This component will support the physical improvement of three sections of NH19 including
+
+              pavement rehabilitation, widening of the road with paved shoulders, widening of lanes and features
+
+              for the safe sharing of the road by users, including through the addition of dedicated motorcycle
+
+
+
+
+
+        1 National Highway 19 is from Quy Nhon Port to the Le Tanh border gate, which is located at the border with
+
+        Cambodia.
+
+        2 Including US$9.5 million on IDA blend terms and US$140.5 million on IDA hard terms.
+
+
+
+
+
+
+
+                                                                                                                      Page 11 of 37
+
+     The World Bank
+
+     Central Highlands Connectivity Improvement Project (P159238)
+
+
+
+
+
+
+
+               lanes, and reinforcement of slopes, to improve road connectivity, safety and to ensure sustainability
+
+               of road assets.
+
+
+
+          • The project will also finance the acquisition of land as necessary along the right of way and for the
+
+            bypasses and compensation related to land and asset loss and involuntary resettlement, for a total
+
+            estimated amount of US$17 million.
+
+
+
+          • The total length of these 3 sections is 153km (out of a total length of 247km of NH19), composed
+
+            on 127km of inter-urban roads and 26km of urban roads (bypasses), to complement the two Build-
+
+            Operate-Transfer (BOT) sections of 75km implemented by the Government. The MoT and the two
+
+            Provinces of Binh Dinh and Gia Lai are joining efforts in addressing connectivity and road safety
+
+            issues on NH19 by promoting two BOT improvement projects in parallel with NH19 during the past
+
+            few years. The two BOT sections are now in service and collecting tolls. These BOT sections have
+
+            also established a reasonable precedence for cross-section designs to accommodate the separation
+
+            of fast and slow speed vehicles and motorcycles in urban, semi-urban and rural areas. By the time
+
+            of the completion of the proposed NH19 sections, all the other sections totaling 247km of roads will
+
+            be completed, enabling better connectivity along the entire corridor.
+
+
+
+          • The proposed component will help improve the remaining sections by completing the
+
+            establishment of NH19 as a Road Safety Corridor that meets international connectivity
+
+            requirements with traffic safety standards including the Vietnam’s Traffic Safety Strategy
+
+            requirements of a minimum of iRAP 3 3-star standard, through road infrastructure safety features.
+
+
+
+          • As the proposed 153km section for financing contains sections that are highly prone to landslides
+
+            and potential natural disasters, a targeted intervention on these sections will contribute to the
+
+            overall connectivity, resilience and safety along the entire corridor.
+
+
+
+14. Component 2 – Implementation Support (estimated cost of US$8.7m including contingencies) through the
+
+following interventions:
+
+
+
+           •     The provision of technical support for Project implementation, including overall detailed
+
+                 engineering design, construction supervision, financial audits, environmental and social
+
+                 management, and monitoring and evaluation.
+
+
+
+15. During implementation, the Bank will provide enhanced implementation support and technical assistance to
+
+both components of the project through Bank-executed activities funded from the Global Facility for Disaster
+
+Reduction and Recovery, and the Global Road Safety Program, as described below:
+
+
+
+   a) Bank- executed activities related to road safety supported from the Global Road Safety Program (GRSF):
+
+      (i) Conduct a Road Safety Audit (RSA) on NH19 in order to inform MOT’s proactive management of safety
+
+      improvements of NH19 by identifying risks associated with road safety deficiencies, (ii) Assess impacts of
+
+
+
+      3
+
+       iRAP is the International Road Assessment Programme and provides a simple and objective measure of the level
+
+      of safety provided by a road’s design through star rating. Star ratings involve an inspection of road infrastructure
+
+      elements that are known to have an impact on the likelihood of a crash and its severity. Between 1 and 5-stars are
+
+      awarded depending on the level of safety which is ‘built-in’ to the road, 5 stars being the safest.
+
+
+
+                                                                                                                      Page 12 of 37
+
+     The World Bank
+
+     Central Highlands Connectivity Improvement Project (P159238)
+
+
+
+
+
+
+
+        motorcycle lanes in Vietnam to inform the update of the draft manual for motorcycle lane design and
+
+        specifications with incorporation of international best practices, and (iii) Strengthen the institutional
+
+        capacity of MOT and the Project Management Unit No. 2 (PMU2) for managing road safety and physical
+
+        works to improve road safety measures of the road network (estimated cost 0.15 million).
+
+    b) Bank-executed activities related to climate resilient activities with support from the Global Facility for
+
+       Disaster Reduction and Recovery (GDFRR): (i) Support a landslide risk assessment of the project area that
+
+       could be used by MOT to inform the identification of suitable climate resilience measures and design
+
+       options to reduce the impact of landslides on NH19, and (ii) Provide cross-over recommendations on the
+
+       limits and the strengths of the current technical standards, as well as on possible improvements to
+
+       incorporate climate change adaptation and disaster risk management considerations in the design of
+
+       road infrastructure (estimated cost 0.15 million).
+
+
+
+
+
+B. Project Cost and Financing
+
+
+
+                                                                                                   Counterpart
+
+                                                       Project cost        IDA Financing
+
+        Project Components                                                                            Funding
+
+                                                             (US$)                 (US$)
+
+                                                                                                         (US$)
+
+        Component 1:                                        145.00                141.30                   3.70
+
+        Component 2:                                           8.70                  8.70
+
+        Total Costs                                         153.70                150.00                   3.70
+
+
+
+                            Front End Fees
+
+
+
+                 Total Financing Required                   153.70                   150
+
+
+
+
+
+C. Lessons Learned and Reflected in the Project Design
+
+
+
+16. One of the key lessons from the World Bank Group knowledge in transport is that improvement of road
+
+safety can only be achieved with strong targeted intervention. While road improvements will bring a reduction
+
+in vehicle operating costs and smooth and organized traffic flows, these do not result in road safety improvement
+
+by themselves, as improved road conditions very often induce increases in speed that lead to an actual increase
+
+in traffic accidents on the improved road. To achieve road safety improvements, i.e. reduction of traffic
+
+accidents, projects should include strong interventions, enforcement, and high standards of signage, with
+
+evidenced empirical safety measures on the road. The separation of motorcycle traffic in countries with high
+
+volumes of motorcycle traffic has a proven record of effectively reducing motorcycle-related accidents in many
+
+countries such as China and Pakistan, and is expected to lead to road safety improvement in Vietnam.
+
+
+
+17. Road investment and maintenance, especially in areas prone to landslide and climate change related
+
+disasters, require adequate identification, planning, and costing procedures in order to obtain the highest
+
+value for money over road life cycles. Lessons from all previous road transport projects in Vietnam and China
+
+show that sound analysis and feasibility studies at appraisal are required to put in place adequate procedures
+
+
+
+
+
+                                                                                                            Page 13 of 37
+
+      The World Bank
+
+      Central Highlands Connectivity Improvement Project (P159238)
+
+
+
+
+
+
+
+ for: a) the planning of the investments and subsequent maintenance activities, and b) the paving and engineering
+
+ choices adapted to the local economics of the investment and the level of engineering necessary for sustained
+
+ operations of the infrastructure. In Vietnam, the choice of construction design and paving technique based on
+
+ resilience and local climatic conditions may need to be fine-tuned locally with regards to transport economics
+
+ and detailed spatial development considerations so that the value for money is maximized. A detailed road
+
+ costing exercise that takes into account, among other factors, population density, localization of economic and
+
+ social centers, locations of hazard areas, as well as construction material cost and availability, may help optimize
+
+ the road design choices over the road life cycles.
+
+
+
+ 18. Analysis of past projects in Vietnam implemented by the World Bank also shows that successful
+
+ implementation of projects is the outcome of strong institutional capacity particularly in infrastructure
+
+ projects. There is a strong correlation between the success of a project and the capacity of the implementing
+
+ agency, and enhanced capacity of the implementing agency is a perquisite for a successful project. Therefore the
+
+ eventual evidence of institutional enhancement should be measured by the successful implementation of the
+
+ project.
+
+
+
+IV. IMPLEMENTATION
+
+
+
+ A. Institutional and Implementation Arrangements
+
+
+
+ 19. The Ministry of Transport (MOT) is the owner of the project and will have the overall responsibility of
+
+ overseeing the implementation of the project. MoT will report to the GOV, coordinate the activities of central
+
+ and provincial government agencies and fulfill IDA requirements. MOT will also approve the overall
+
+ feasibility/construction investment report and the overall procurement plan; provide policy/strategic guidance
+
+ and instruction to the Project Management Unit No. 2 (PMU2). The PMU2 is MoT’s authorized executing agency,
+
+ and will have the overall responsibility for approving survey methodologies and plans, detailed engineering
+
+ designs and cost estimates, bidding documents and requests for proposals, bid and proposal evaluation reports,
+
+ bidding results and signing contracts in accordance with procurement requirements, as well as monitoring the
+
+ quality of works and reviewing periodic reports such as the audits.
+
+
+
+ 20. MoT has assigned PMU2 to be responsible for the project implementation at the national level. PMU2 will
+
+ act as the fiduciary agent on behalf of MoT in procurement and financial management (FM) for these
+
+ components. PMU2 will be in charge of the procurement of goods, works and services related to all project
+
+ components and supervision including contracting and payments. PMU2 will also be responsible for
+
+ coordination, quality assurance, training, monitoring and evaluation, day-to-day supervision of project activities.
+
+ PMU2 is also responsible for implementation of the traffic safety activities in close collaboration with National
+
+ Traffic Safety Committee (NTSC) and Provincial Traffic Safety Committees (PTSCs) of Binh Dinh and Gia Lai
+
+ Provinces. PMU2 is familiar with the Bank’s fiduciary and safeguard requirements as it has successfully completed
+
+ the Bank-financed Vietnam Traffic Safety Project (VRSP) in 2012. In addition, it also has rich experiences in
+
+ managing various projects financed by GoV’s budget and ODA donors.
+
+
+
+ 21. At the Provincial level, Provincial People’s Committees (PPCs) of Binh Dinh and Gia Lai Provinces will be
+
+ responsible for overall implementation of the resettlement and compensation of their related project road
+
+ sections within their administrative jurisdiction.
+
+
+
+
+
+                                                                                                                Page 14 of 37
+
+      The World Bank
+
+      Central Highlands Connectivity Improvement Project (P159238)
+
+
+
+
+
+
+
+
+
+ B. Results Monitoring and Evaluation
+
+
+
+ 22. The Monitoring and Evaluation (M&E) system, including a Results Framework (RF), is designed to assess
+
+ whether the project is being implemented in line with the proposed objectives and its achievement of expected
+
+ results. Measurement of the project’s progress in the carrying out of the activities within the identified
+
+ components that feed the M&E system will be documented in project Progress Reports.
+
+
+
+ 23. The responsibility for the preparation of these reports falls under the PMU2. In order to collect all relevant
+
+ information, and data, this unit will coordinate with departments within MoT. The reports will be prepared on a
+
+ semi-annual basis and submitted to IDA for review. In addition to reporting on the project results indicators and
+
+ intermediate outcome indicators, the reports will include information on disbursements, compliances with
+
+ financial management, procurement, social and environmental policies and guidelines, and an updated annual
+
+ plan of works and activities.
+
+
+
+V. KEY RISKS
+
+
+
+ A. Overall Risk Rating and Explanation of Key Risks
+
+
+
+ 24. The overall risk to the Project is rated Moderate. The key risks are mainly imposed by fiduciary prospects,
+
+ technical, environmental and social, and institutional risks, as detailed hereafter.
+
+
+
+ 25. The Fiduciary Risk is rated Substantial due to the risks related to the financing of land acquisition and
+
+ compensation for resettlements and loss of assets, including risks that (i) the payments are not made not in
+
+ accordance with the approved RAPs, (ii) cash will be misappropriated during the payments, (iii) counterpart
+
+ budgets are not allocated sufficiently for project implementation; the procurement risks identified in section D
+
+ of the Appraisal Summary, including the Borrower’s unfamiliarity to the Bank’s New Procurement Framework
+
+ (NPF), (iv) inconsistencies between local legislation and the Regulations particularly in relation to the
+
+ Construction Law, (v) delays due to factors beyond the control of procurement such as resettlement, and unclear
+
+ decisions within the government on on-grant/on-lending arrangements between Ministry of Finance and the
+
+ project executing Ministry (MoT). There are three main mitigation actions identified: (i) the update of the
+
+ Financial Management Manual (FMM) to reflect recent developments in the ODA project management
+
+ regulations and the updated Bank guidance, and train the project staff on the updated version of the FMM and
+
+ the designed procedures and controls relating to the payment of compensation for resettlement, (ii) the
+
+ allocation of sufficient annual budget for project implementation; (iii) an independent thematic audit on
+
+ compensation will be conducted to ensure the compliance of the compensation activities, and (iv) the support
+
+ of the World Bank towards the use of the NPF, as well as procurement specific recommendations detailed under
+
+ section D of the Appraisal Summary. The first was completed by Negotiations and the second and third actions
+
+ will be carried out during the project life.
+
+ 26. The Technical Design risk is Moderate as it relates to the complexity of the implementation of road safety
+
+ and climate resilient infrastructure features in a context that mixes inter-urban roads and urban roads with a
+
+ broad range of road users. The likelihood of this risk to achieving result is moderate, and will be managed by
+
+ sound feasibility studies, which will assess the best technical features for each segment of the NH19. Segregated
+
+ motorcycles lanes, for instance, may not be appropriate on all segments of the corridors; additional lanes/ramps
+
+
+
+                                                                                                              Page 15 of 37
+
+      The World Bank
+
+      Central Highlands Connectivity Improvement Project (P159238)
+
+
+
+
+
+
+
+ for trucks may be only necessary in certain zones. The detailed review of such studies will help to limit the
+
+ technical risk and ensure value-for-money of the road investment. In addition, technical audits will be conducted
+
+ during the program implementation period in coordination with the Client so that it will ensure technical
+
+ compliance.
+
+ 27. The Environmental and Social Risk is Moderate as the project is expected to bring about significant positive
+
+ socio-environmental impacts during operation phase and adequate mitigation measures and environmental
+
+ monitoring programs have been developed and are presented in the Environment and Social Management Plan
+
+ (ESMP). Vietnam is however one of the world’s most disaster prone countries and specific activities related to
+
+ landslide and climate resilience will be conducted. Every year extreme weather and climate change impacts in
+
+ the form of floods and droughts lead to serious damages to the infrastructure, including roads, and impose high
+
+ economic costs on Vietnam. The World Bank is working closely with the Government to help reduce the high
+
+ levels of vulnerability, promote mainstreaming of disaster risk reduction in relevant sectors and to improve local
+
+ capacity for disaster risk reduction and management. At the Project level, this will be mitigated through careful
+
+ understanding of potential climate and disaster impacts on the Project road sections, incorporation of climate
+
+ resilient designs, and strengthening institutional capacity of the transport sector to address climate adaptation
+
+ in the road sector. This will partially be informed by the climate scenarios and landslide study for the road
+
+ network previously conducted by MoT with support from JICA. The social risks are limited as the two bypasses
+
+ avoid urban populated areas, and an EMDP and two RAPs have been prepared accordingly. The project does not
+
+ carry any risk of significant degradation of critical natural habitat, forests or physical cultural resources in any
+
+ tangible and/or irreversible ways. Measures to mitigate these potentials are specified in the project’s ESIA and
+
+ ESMP. Land acquisition is limited to 191.7 ha of private agriculture land and 5.6 ha of residential land for both (i)
+
+ widening of existing alignment and (ii) two proposed bypasses.
+
+ 28. The Institutional Capacity risk is Moderate as it consists in the capacity of the implementing agencies to
+
+ design, implement and monitor the project in a satisfactory manner, given the road design and use. The likelihood
+
+ of this risk to achieving result is moderate, and will be managed by a close and reinforced implementation
+
+ support from the Bank, including through the use of a Performance Assessment Tool (PAT) to assess and visualize
+
+ the progress of the works on each section of the road.
+
+
+
+
+
+VI. APPRAISAL SUMMARY
+
+
+
+ A. Economic Analysis
+
+
+
+ 29. An economic evaluation following conventional economic appraisal methodology for road improvement
+
+ has been conducted for three technical options for bypasses. The analysis gives an Economic Internal Rate of
+
+ Return (EIRR) of 15 percent for the best option (option 2 as detailed here below) and the sensitivity analysis
+
+ confirms the robustness of the project’s return, with a worst case of an 11 percent EIRR if the costs increase
+
+ by 20 percent and the benefits decrease by 20 percent. Three technical options have been analysis as follows:
+
+                                                     Option 1       OPTION 2         Option 3
+
+                       Base Case
+
+                       NPV (10%)          US$      $55,045,296     $64,773,916      $30,767,279
+
+                       IRR                 %         14.50%           15.72%          13.67%
+
+                       Worst Case (cost to increase by 20% AND benefit decrease by 20%)
+
+
+
+
+
+                                                                                                                 Page 16 of 37
+
+     The World Bank
+
+     Central Highlands Connectivity Improvement Project (P159238)
+
+
+
+
+
+
+
+                      NPV (10%)           US$        $150,669          $11,463,357      ($7,843,690)
+
+                      IRR                  %          10.01%             10.97%            9.09%
+
+
+
+
+
+30. The three options that have been analyzed are as follows: (i) Option 1: Construction of 13.7km section to
+
+bypass An Khe Town and 21km section to bypass Pleiku City and Dak Doa Town, (ii) Option 2: Construction of
+
+13.7km section to bypass An Khe Town and 13km section to bypass Pleiku, and (ii) Option 3: No bypass. The five
+
+measure points for the traffic counts are defined vis a vis chainage of NH19 as follows: (1) average of counts at
+
+km20 and km 49+550, (2) average of counts at km76 and km90+900, (3) counts at km124+720, (4) average counts
+
+at km142+040, km135, and km157, and (5) average counts at km180 and km197+300. The analysis quantifies
+
+five typical benefits of a road improvement scheme as follows: (i) Vehicle operating cost savings as result of
+
+better road or/and shorter road, (ii) Value of time savings both passengers and freight as result of better road
+
+or/and shorter road, (iii) Accident savings as result of safer road, (iv) GHG savings as result of better road or/and
+
+shorter road, (v) Emergency repair savings as result of better and more resilient road. Benefits are quantified
+
+basing on available data using combined standard transport modelling and a separate traffic assignment model.
+
+Traffic, as well as the three main contributions to benefits are detailed hereafter:
+
+                                             Traffic (Vehicles per Day, 2016)
+
+                 Road sections         Motorcycle          Car        Van/Bus          Truck           PCU
+
+                Measure Point 1            8,777           912            719          1,987           6,852
+
+                Measure Point 2            6,841           696            659          1,239           4,779
+
+                Measure Point 3            2,458           722            606          1,259           4,835
+
+                Measure Point 4            9,256          1,231           579          1,441           5,504
+
+                Measure Point 5            2,969           582            273           776            2,851
+
+
+
+
+
+                                                            VOC Savings
+
+                                                                                           Million US$
+
+                       Option         2022         2025      2030         2035      2040       2042
+
+                       Option 1       13.4         15.5      19.7         24.1      29.1        31.4
+
+                       Option 2       13.3         15.4      19.7         24.1      28.9        31.2
+
+                       Option 3        6.9          8.0      10.1         12.4      14.9        16.1
+
+
+
+                                                            VOT Savings
+
+                                                                                           Million US$
+
+                       Option         2022         2025      2030         2035      2040       2042
+
+                       Option 1       1.15         1.33      1.70         2.09      2.51        2.71
+
+                       Option 2       1.15         1.34      1.70         2.09      2.50        2.70
+
+                       Option 3       0.83         0.96      1.23         1.51      1.81        1.95
+
+
+
+                                                          Accident Savings
+
+                                                                                         Million US$
+
+                       Option         2022         2025      2030         2035      2040     2042
+
+                       Option 1        4.4          5.8       9.4         14.6      22.7      27.1
+
+                       Option 2        4.4          5.8       9.4         14.6      22.7      27.1
+
+
+
+                                                                                                                Page 17 of 37
+
+     The World Bank
+
+     Central Highlands Connectivity Improvement Project (P159238)
+
+
+
+
+
+
+
+                       Option 3         4.4         5.8        9.4       14.6        22.7       27.1
+
+
+
+
+
+31. The analysis compares annual discounted costs and benefits of the project to society as a whole over the
+
+project life-time in “with” and “without” cases using the Net Present Value (NPV) and the Internal Rate of
+
+Return (IRR) indicators to justify the economic viability. The project will generate economic benefits by
+
+reducing vehicle operating costs by US$13.3 million by 2022, and US$31.2 million by 2042. Annual project costs
+
+and benefits are evaluated for a 25 year period, allowing for a 5 year construction period starting in 2018,
+
+followed by a benefit period of about 20 years. A discount rate of 10 percent is employed to convert annual
+
+cost/benefit streams into present value in the year 2017 according to the most recent Guidelines of the World
+
+Bank in 2016. Movement along the Southern Central corridor from Quy Nhon to the Border gate of Cambodia
+
+will be improved by upgrading the existing National Highway 19 (NH19) and constructing new road sections to
+
+bypass cities the corridor passes through. While there is a single engineering design proposed for the upgrade of
+
+the existing NH19, there were 3 options studied for bypasses, which resulted in differences not only in
+
+resettlement, civil work costs but also traffic reassignment on influenced road network. The 3 options have been
+
+compared and the most economically sound one selected (with an EIRR of 15 percent as indicated above), with
+
+the construction of 13.7km section to bypass An Khe Town and 13km section to bypass Pleiku.
+
+32. Given the public and the private natures of the interlinked investments that consist in the proposed project
+
+and the existing BOT sections, the economic analysis for the proposed project analyzed the mutual economic
+
+impacts between the project and the BOT sections. Those impacts include: (1) the estimated additional toll
+
+revenues to the BOT operators due to the “induced” traffic increase attributed to the proposed project, and (2)
+
+the influence of the existing BOT to the proposed project.
+
+33. The analysis clarified that the proposed project will not bring substantial additional induced benefits to the
+
+BOT sections. This result is due mostly to the fact that there is no network effect on the traffic, with no competing
+
+primary road segments along NH19, as it constitutes the only key corridor in the area running West to East
+
+through the BOT sections. Given the traffic forecast, it is estimated that the revenues of the two BOT sections
+
+will increase at most by 7.5 percent in the first year (year 2022) and will then slowly decrease down to 2.3 percent
+
+(year 2040), in with project case compare to without project case.
+
+34. The influence from the BOT sections to the traffic volume on the proposed project is solely attributed to
+
+the “toll impedance” to the traffic on the proposed project section of NH19. Tolls of any kind increase the costs
+
+of using the travel route. The local traffic might favor non-tolled local road options around the BOT sections, and
+
+may therefore potentially divert from the continued sections of the proposed project. However, the behavior of
+
+long-distance journeys, which are the majority users, is quite different and it is unlikely that these journeys are
+
+diverted from the BOT sections by sacrificing the significant time saving benefit, and therefore, it is unlikely that
+
+they are diverted from the proposed project sections.
+
+35. The GHG evaluation concludes that without the project 4.936 million tons of CO2 emissions are expected
+
+over the evaluation period, while with the project the CO2 emissions increase marginally to 4.954 million tons
+
+(increase of 0.018 million tons of CO2 or 0.35 percent). The analysis was done with the estimation over the
+
+evaluation period the total CO2 emissions with and without the project on the project road that are a function
+
+of vehicle speeds and vehicle utilization. Without the project 4.936 million tons of CO2 emissions are expected
+
+over the evaluation period, while with the project the CO2 emissions increase marginally to 4.954 million tons
+
+(increase of 0.018 million tons of CO2 or 0.35 percent). The increase is marginal because the vehicle utilization
+
+over the evaluation period with the project remains about the same as without the project because the added
+
+
+
+
+
+                                                                                                                Page 18 of 37
+
+     The World Bank
+
+     Central Highlands Connectivity Improvement Project (P159238)
+
+
+
+
+
+
+
+generated and induced traffic with the project is compensated by the reduction in the length of the project road.
+
+The marginal increase in CO2 emissions with the project has negligible impact on the economic justification of
+
+the project.
+
+
+
+B. Technical
+
+
+
+36. Based on experience in the execution of past road projects in Vietnam, the technical aspects have been
+
+solidified with a mix of good design, best practice, and adaptation of solutions to the country context. The
+
+main technical choices consist in: (i) the choice of Category III with 11m-wide paved surface for most of the
+
+sections with the highest level of traffic, (ii) the improvement of the remaining Category IV sections of the road
+
+and designated bridges to meet upgraded standards, (iii) the full rehabilitation of bridges when considered not
+
+meeting the width and load capacity necessary to accommodate the current and future traffic, (iv) the adaptation
+
+with the incorporation of differentiated design approaches to include more hazard resilient measures in more
+
+climate vulnerable roads; and (vi) the integration of road safety measures in the design, with special attention to
+
+motorbikes.
+
+37. The proposed upgrade will include widening of the road to provide dedicated motorcycle lanes, pavement
+
+rehabilitation, improvement of intersections, and the furnishing of road safety facilities. Designated existing
+
+bridges along the road will also be widened and strengthened under the proposed Project. As NH19 is impacted
+
+by a range of climatic zones, from near coastal through mountainous to a possible rain shadow at the
+
+Vietnam/Cambodia border area, the upgrade will also improve the road’s resilience to climate threats and
+
+impacts by investing in prioritized resilience works along the road. Summaries of the proposed upgrade for the
+
+road sections follow:
+
+    a) From Km 50 to Km 90, the existing road will be widened to provide 11m wide carriageway consisting of
+
+       one motor lane and one dedicated motorcycle lane at each side except for section Km 59 – Km 67 on An
+
+       Khe Pass where the carriageway will be minimum 8m wide, and sections in residential areas where the
+
+       carriageway will be 13m wide. This section includes the An Khe Bypass where a new 13.7km-long road
+
+       section with the carriageway of 11m will be constructed.
+
+
+
+    b) From Km 131 to Km 180, the width of the existing carriageway will be increased from 7 to 11m in non-
+
+       residential areas and to 13m in residential areas with an exception of sections Km 131+300 – Km135+00
+
+       and Km 155 – Km160, where 14m and 16m wide carriageway will be provided respectively. This section
+
+       will consist of a new road section of 13km length (from around Km 157 to Km177 of the existing road) to
+
+       bypass the Pleiku City. No work will be carried out for the section Km 160 – Km 180 where the existing
+
+       road has met the required standards.
+
+
+
+    c) From Km 180 to Km 243, carriageways of 11m and 13m widths will be provided in non-residential and
+
+       residential sections, respectively, as a result of the road widening of the proposed Project. At the end of
+
+       the road, section Km 241 – Km 243 has been invested to meet urban road standards, and thus will not
+
+       be financed under the proposed Project.
+
+
+
+38. The project includes existing bridges to be improved through widening and strengthening in order to meet
+
+the required standards. Studies of application of various alternatives of I-shape, T-shape and Super T pre-
+
+stressed concrete girder for superstructure have been conducted and selected for each of the proposed bridges.
+
+In addition, new bridges will be constructed along the two proposed bypasses.
+
+
+
+                                                                                                              Page 19 of 37
+
+     The World Bank
+
+     Central Highlands Connectivity Improvement Project (P159238)
+
+
+
+
+
+
+
+
+
+39. There are cost implications with respect to the climate strengthening measures to counter potential climate
+
+change related impacts over and above standard Vietnam design practice for national highways. Experience
+
+clearly indicates that the proactive climate strengthening of vulnerable highway sections results in significant
+
+savings in whole-life repair and maintenance costs as well as reducing risks to access and to life. The sections of
+
+the proposed NH19 project most likely to require these additional works are: (i) An Khe Pass section from km 59
+
+to km 67 and particularly an approximately 6.5km length where several areas of current instability indicate a
+
+significantly vulnerable area, (ii) Rolling terrain between Pleiku and the Vietnam Border where the several short
+
+sections of the current alignment are low and vulnerable to flooding, and (ii) key bridges.
+
+
+
+40. The An Khe Pass as well as short lengths of alignment beyond Pleiku requires specific in relation to slope
+
+protection, bridge protection and drainage. A 6.5km section of the An Khe Pass alignment runs through steep
+
+terrain mainly on sidelong ground that is currently showing signs of instability and is consequently assessed as
+
+being vulnerable to climate impact. In addition to requiring standard geotechnical measures to stabilize existing
+
+failures there needs to additional measures in terms of drainage, and slope protection to pro-actively counter
+
+the consequence of climate threats. These measures should be focused on identified key spots such as, for
+
+example, areas of cut-to-fill and lengths of horizontal realignment requiring significant fresh cuts. The alignment
+
+in the rolling terrain beyond Pleiku currently contains short lengths of low lying carriageway in between higher
+
+ground that could be susceptible to flood. Raising the alignment 0.6m above normal flood is an option to consider
+
+as a resilience option in these cases.
+
+
+
+C. Financial Management
+
+
+
+41. The assessment has concluded that the project meets the minimum Bank financial management
+
+requirements, as stipulated in OP/BP 10.00.
+
+
+
+42. The Project Financial Statements will be audited by independent auditors acceptable to the Bank in
+
+accordance with TORs acceptable to the Bank. The cost of the audit will be funded by the Project. The Audited
+
+Financial Statement will be sent to the Bank within six months after the year end. In addition, the semi-annual
+
+Interim Financial Reports (IFRs) will be prepared by the PMU2 and sent to the Bank within 45 days after the end
+
+of reporting period.
+
+
+
+43. Internal Audit (IA) will be carried out by the respective IA functions of the MOT. The specific roles and
+
+responsibilities of the IA will be described in the Project FMM.
+
+.
+
+44. Two Segregated Designated Accounts (DA) at a commercial bank acceptable to the World Bank will be
+
+maintained by the PMU2. The first DA will be used solely for payments for compensation of resettlement and
+
+the second DA will be used for all other eligible expenditure. The DAs will be denominated in United States Dollars
+
+(USD). The ceiling of DAs will be variable, based on a forecast of one quarter’s expenditures to be financed out
+
+of the DA funds. Supporting documentation required for documenting eligible expenditures paid from the DA
+
+will be the Statement of Expenditure and supplemental statements as described in the disbursement letter. The
+
+frequency for documenting expenditures paid from the DA will be quarterly or more frequent if required. The
+
+Minimum Application Size for Reimbursements, Special Commitments and Direct Payments will be US$100,000
+
+equivalent. Counterpart funds of US$3.7 million will be used to finance expenditures such as salaries of civil
+
+
+
+
+
+
+
+                                                                                                              Page 20 of 37
+
+       The World Bank
+
+       Central Highlands Connectivity Improvement Project (P159238)
+
+
+
+
+
+
+
+servants seconded to work on this project, training activities, operating costs for managing the projects and
+
+monitoring/evaluating project activities.
+
+
+
+45. The Project will have a Disbursement Deadline Date 4 four months after the Closing Date. This "Grace
+
+Period" is granted in order to permit the orderly project completion and closure of the Credit account via the
+
+submission of applications and supporting documentation for expenditures incurred on or before the Closing
+
+Date. Expenditures incurred between the Closing Date and the Disbursement Deadline Date are not eligible for
+
+disbursement. Eligible expenditure for IDA financing means the reasonable cost of goods, works, non-consulting
+
+services, consulting services and resettlement compensation to be financed by IDA at 100 percent, inclusive of
+
+taxes.
+
+
+
+                                                                                                     Percentage of
+
+                                                Amount of the Credit Allocated (US$)
+
+                                                                                                  Expenditures to be
+
+                Category
+
+                                             IDA Blend          IDA Hard                                Financed
+
+                                                                                    Total
+
+                                               Terms              Terms                           (inclusive of Taxes)
+
+    (1) Goods, works, non-consulting
+
+    services, and consulting services        9,500,000        123,500,000       133,000,000              100%
+
+    under the Project
+
+    (2) Resettlement Compensation                0             17,000,000        17,000,000              100%
+
+              TOTAL AMOUNT                   9,500,000        140,500,000       150,000,000                -
+
+
+
+
+
+D. Procurement
+
+
+
+46. Applicable Procurement Procedures. For contracts financed in whole or in part by the IDA Credit,
+
+procurement would be carried out in accordance with the World Bank’s “Procurement Regulations for IPF
+
+Borrowers: Procurement in Investment Project Financing” (hereinafter referred to as “Procurement
+
+Regulations”) dated July 1, 2016; and the provisions stipulated in the Financing Agreement. Under the proposed
+
+project World Bank planning and tracking system, Systematic Tracking of Exchanges in Procurement (STEP), will
+
+be used to prepare, clear and update Procurement Plans and conduct all procurement transactions for the
+
+Project. Accordingly, all the procurement activities under the proposed project will be entered into, tracked and
+
+monitored online through the system.
+
+
+
+47. Procurement Capacity and Risk Assessment. Procurement Capacity and Risk Assessment (PCRA) for PMU2
+
+was conducted during various project preparation missions. It found that PMU2 has certain experience in
+
+conducting procurement in accordance with the Vietnam public procurement law and regulations and in
+
+implementing a number of ODA funded projects including projects financed by the World Bank, and JICA. PMU2
+
+has well established organizational structure and relatively adequate number of staff to implement the project.
+
+However, it also revealed a number of risks that could adversely influence the project implementation if not
+
+mitigated, including following key risks: (i) despite having some experience with Bank projects, there are still
+
+some gaps concerning knowledge and experience of carrying out procurement activities in accordance with the
+
+Bank’s Procurement Regulations, rules and procedures particularly with respect to the new possibilities afforded
+
+by the Procurement Framework; (ii) Lack of practical guidance on the steps of procurement process, in particular,
+
+
+
+4
+
+ Final date on which World Bank will accept applications for withdrawal from the Recipient or documentation on the use of
+
+Credit proceeds already advanced by the World Bank.
+
+
+
+                                                                                                                    Page 21 of 37
+
+     The World Bank
+
+     Central Highlands Connectivity Improvement Project (P159238)
+
+
+
+
+
+
+
+the PMU2 has not had a manual to guide its staff carrying out the Bank procurement procedures step by step;
+
+(iii) Potential preference to use national procurement rules and procedures when there is difference with the
+
+Bank’s Procurement Regulations; (iv) Potential fraud/corruption and collusive practices; and (v) Inadequate
+
+contract management capacity causing implementation delays and/or leading to contractual disputes. In order
+
+to mitigate the above identified risks and strengthen the procurement capacity of PMU2, the following measures
+
+have been established and agreed with PMU2 to be implemented during project implementation: (i) Providing
+
+procurement training for PMU2’s staff, including initial training during project preparation and in-depth
+
+procurement trainings during project implementation; (ii) Preparing and adopting a project operation manual
+
+(POM), including a detailed chapter on procurement; (iii) Assigning qualified staff to ensure the procurement
+
+plans that have been developed are implemented, monitored and updated in a proper and timely manner; (iv)
+
+Signing and executing a Transparency and Ethics Statement by all members of bid/proposal evaluation
+
+committee when carrying out their duties; (v) Providing appropriate training on contract management and
+
+hands-on support to PMU2 staff during contract execution; and (vi) Carrying out regular implementation support
+
+missions and conduct annual procurement post review.
+
+
+
+48. Procurement Strategy. Based on the project requirements, operational context, economic aspects, technical
+
+solutions and market analysis, a Project Procurement Strategy Document (PPSD) has been developed for the
+
+project by the PMU2 with the support from the Bank team. The PPSD identifies the following types of activities
+
+(a) Works contracts for the construction of road and bridges, road maintenance, and traffic safety system etc.
+
+(approx. US$100 million), and (b) consultancy services for detailed design of works and preparation of bidding
+
+documents, construction supervision, environmental impacts monitoring, auditing, etc. (approx. US$15 million).
+
+For the procurement of civil works, the estimated cost per package is ranges from US$14 million to US$23 million.
+
+The PPSD showed that there are a lot of potential contractors in the country for this type of works (nature and
+
+size) and international firms have shown very limited interest in contracts estimated to cost less than US$20
+
+million, an open competition approaching the national market was found to be the most suitable choice.
+
+Nevertheless, foreign contractors are still allowed to participate if they wish to do so. For contracts with an
+
+estimated cost above US$20 million, there would be open competition which approaches the international
+
+market. For the consulting services including civil works design, construction supervision, auditing and etc. the
+
+estimated cost per package is ranges from US$0.3 to US$5 million with major assignments being the detailed
+
+design and construction supervision (estimated US$1.5 million and US$5 million, respectively).
+
+
+
+49. Although the market research demonstrates that there are a significant number of potential consultants
+
+in the country for this type of services given the nature of the civil works that needs to take into account the
+
+factors of safety and climate resilience, the participation of reputable and qualified international consultants
+
+will be beneficial to the project implementation therefore the project will be approaching the international
+
+market. For civil works contracts which approach the national market, the harmonized model bidding documents
+
+agreed with the Bank will be used. For all other procurements the Bank’s Standard Procurement Documents shall
+
+be used. The PPSD also indicates a number of potential risks that may affect the success of the procurement
+
+process including (i) frequent changes and overlap in the policy regime of Vietnam; (ii) inflation leading to
+
+increase of the investment cost; (iii) high rate of PMU2’s procurement staff turnover; (iv) weak financial capacity
+
+of many bidders; and (v) desire of the bidders to win the contract at any cost that may negatively affect the
+
+quality of works and implementation progress. A number of risk mitigation measures as well as allocation of risks
+
+to the party that is in best position to take the risks are also proposed in the PPSD.
+
+
+
+50. Procurement Plan. Based on the PPSD, the initial procurement plan for the project was prepared by the
+
+
+
+
+
+                                                                                                              Page 22 of 37
+
+     The World Bank
+
+     Central Highlands Connectivity Improvement Project (P159238)
+
+
+
+
+
+
+
+PMU2 and agreed by the Bank at negotiation. For the civil works contracts, Request for Bids (RFB) is the method
+
+to be used. Regarding goods procurement, there are a number of small goods contracts under the project that
+
+will be procured using RFB method details of this are in the procurement plan. For efficiency, contracts with a
+
+cost estimate of less than US$200,000 and US$100,000 for works and goods respectively will be procured using
+
+RFQ. For consulting services, QCBS, QBS, FBS, LCS with the most appropriate market approach will be used. The
+
+Procurement Plan will be updated at least annually (in real time) by the PMU2 to (a) reflect project
+
+implementation; (b) accommodate changes that should be made; and (c) add new packages as needed for the
+
+project. All procurement plans, their updates or modifications shall be subject to Bank’s prior review and no-
+
+objection. Details for the procurement arrangements are provided in the Project Operations Manual. The project
+
+Procurement Plan identifies the risk for each activity and prior review of these activities is set based on the
+
+performance and risk rating. Contracts not subject to prior review will be subject to post review. The Bank will
+
+carry out procurement post reviews on an annual basis with an initial sampling rate of 20 percent, which will be
+
+adjusted periodically during project implementation based on the performance of the project.
+
+
+
+E. Social (including Safeguards)
+
+
+
+51. Operational Policy 4.12 on involuntary resettlement has been triggered as project will acquire about 200
+
+ha of land for both (i) widening of existing alignment and (ii) two proposed bypasses leading to loss of livelihood
+
+/ sources of livelihood and will also displace households. The two bypasses are expected to be newly constructed
+
+to avoid urban populated areas. These bypasses run through agricultural fields, plantation forest and residential
+
+areas. The land acquisition will impact over 1,000 households (about 5,000 project affected persons) of which 91
+
+households will be relocated. Project will also impact 290 business establishments, and about 20 graves of
+
+Bahnar people. Out of the over 1,000 project affected households, 60 belongs to ethnic minority. Project will
+
+also temporarily impact around 9,800 m2 of agricultural land and 3,800 m2 of public land.
+
+
+
+52. In order to mitigate adverse social impacts, the project has prepared Resettlement Action Plans based on
+
+results of social impact assessment of the entire project corridor. The RAP includes key information on project
+
+impacts, the mitigation and compensation measures to be applied to redress the unavoidable adverse effects of
+
+project activities on local people; entitlement matrix for affected people; livelihood restoration measure for
+
+severely affected households; arrangement of RAP implementation; mechanism for information disclosure,
+
+consultation and participation; grievance redress mechanism; monitoring mechanism; and cost estimate for RAP
+
+implementation.
+
+
+
+53. The impact of labor influx during construction has been analyzed in consultations with local communities
+
+and PMU2. Based on information available during project preparation, the labor related risks are moderate as
+
+labor camps are deemed to be isolated from cities, the construction camp sites will not limited size given the
+
+volume of works to be performed, and the labor may be primarily of local nature. Mitigation measures include
+
+detailed social related requirements in safeguard documentation to ensure that worker health plans are in place
+
+and implemented, as well as a detailed procedure for grievance and complaints.
+
+
+
+54. An Ethnic Minority Development Plan (EMDP) has been prepared for the Gia Lai Province, where Ethnic
+
+Minority people are affected. EMDP for Gia Lai was prepared in line with World Bank Operational Policy 4.10 on
+
+Indigenous Peoples. The EMDP has been prepared based on based on the results of the social assessment (SA)
+
+carried out in the project areas as well as free, prior and informed consultations with the EM groups. The EMDP
+
+ensures that: (a) ethnic minority receives culturally appropriate social and economic benefits; (b) potential
+
+
+
+
+
+                                                                                                              Page 23 of 37
+
+     The World Bank
+
+     Central Highlands Connectivity Improvement Project (P159238)
+
+
+
+
+
+
+
+adverse and positive impact on EMs are identified, adverse impacts are avoided, minimized, mitigated, and
+
+compensated; and c) the development process fosters full respect for the dignity, human rights and cultural
+
+uniqueness of EMs in the project’s affected areas, and takes into account their development needs and
+
+aspirations. Affected EM peoples have indicated their broad support for project implementation given the
+
+potential benefits the project brings to them.
+
+
+
+55. As for citizen engagement, series of consultations were carried out in August, November, December 2016
+
+and January 2017. Apart from community consultations, meetings were held with the Provincial Departments,
+
+the District People’s Committees, Leaders and members of affected commune officials, district compensation
+
+and Boards of Compensation and Land Acquisition, key district Departments of Environmental and Natural
+
+Resources, Agriculture and Rural Development, Industry and Commerce, and Department of Labor, Invalids and
+
+Social affairs, etc. The Results Framework captures, details and monitors the share of citizens from the impacted
+
+communes who participated in consultations, with a breakdown for women.
+
+
+
+56. A three tier grievance mechanism has been proposed in the project. In the first tier of GRM, aggrieved PAP
+
+may submit their complaint – either in written or verbal, to the office of the Ward/Commune People’s Committee
+
+(W/C PC). W/C PC will receive the complaints and will notify the W/C PC leaders of the complaint. The Chairman
+
+of the W/C PC will meet the complainant in person and will solve it within 15 days following the receipt of the
+
+complaint. After 15 days since the submission of the complaints, if the aggrieved person does not have any
+
+response from the W/C PC, or if the aggrieved person is not satisfied with the decision taken on his/her complaint,
+
+the PAP may take the case, either in written or verbal, to the Reception Unit of City/District People’s Committee.
+
+The City/District People’s Committee will have 30 days since the date of receipt of the complaint to resolve the
+
+case. The City/District People’s Committee will register all the complaints submitted and will inform the District
+
+Board for Compensation and Land Acquisition of the City/District PC’s resolution/assessment results.
+
+
+
+57. As part of social assessment, the project also carried out gender analysis. As part of RAP and EMDP
+
+implementation, the gender actions include (i) participation of women throughout project cycle; (ii) information
+
+dissemination specifically for women; (iii) reducing intra-household gender disparity through livelihood options;
+
+(iv) women safety and empowerment, and (v) participation of women in extension/vocational trainings. During
+
+monitoring of RAP and EMDP implementation, the key indicators of gender actions will be monitored and
+
+reflected in internal and external monitoring reports.
+
+
+
+58. Social due diligence was carried out for the two BOT sections completed prior to the Project and NH1-North
+
+of Quy Nhon City Bypass under construction, both of which were not financed by the Bank. The two BOT
+
+sections (75 km in total) had been completed prior to the identification of the Project, but there are remaining
+
+relocations to be completed. During implementation support, the Bank will monitor and ensure that displaced
+
+households will be paid assistance for the relocation. The NH1-North of Quy Nhon City Bypass is not considered
+
+as a linked project. It originates at the NH19 and NH1 junction, but serves a different purpose than the proposed
+
+project, linking the intersection to the north of Qui Nhon City, not Qui Nhon Port. The PDO can be achieved
+
+without this Bypass.
+
+
+
+F. Environment (including Safeguards)
+
+
+
+59. The project triggers the environmental safeguard policies on Environmental Assessment (OP/BP 4.01),
+
+Natural Habitats (OP/BP4.04) and Physical Cultural Resources (OP/BP 4.11), and has been classified as
+
+
+
+
+
+                                                                                                              Page 24 of 37
+
+     The World Bank
+
+     Central Highlands Connectivity Improvement Project (P159238)
+
+
+
+
+
+
+
+Environmental Category B. PMU2 has prepared an Environmental and Social Impact Assessment (ESIA) which
+
+includes an Environmental and Social Management Plan (ESMP) in accordance with Vietnam government
+
+environmental management regulations and the Bank safeguards policies. The ESIA/ESMP have been reviewed
+
+by the Bank and found to be satisfactory.
+
+60. The ESIA concluded that the project is expected to bring about significant positive socio-environmental
+
+impacts during operation phase. These include improving traffic safety on the existing NH19, improving
+
+connectivity between the Quy Nhon Sea Port with the Provinces in the Central Highland which contributes to
+
+socio-economic development in the region, and create short-term temporary jobs and incomes for the local
+
+people.
+
+61. Adequate mitigation measures and environmental monitoring programs have been developed and are
+
+presented in the ESMP. Some mitigation measures would be applied during the feasibility study and detailed
+
+engineering proposals, such as designing separating lanes for motorbikes and other two-wheeled vehicles, slope
+
+protection with bioengineering method, installation of traffic safety signboards and directions, provide
+
+underpass or access roads where the designed road surface level is significantly different from existing ground
+
+level etc. The Project would reserve a budget for mine clearance which would be carried out before construction
+
+commencement. The ESMP also includes Environmental Codes of Practices (ECOP) and site-specific mitigation
+
+measures, these will be incorporated into bidding and construction contract documents.
+
+62. The ESMP has also clearly set out the environmental responsibilities of the Project’s key stakeholders.
+
+PMU2 will appoint at least one staff to be responsible for environmental and aspects of the Project. The
+
+contractors are required to implement the mitigation measures specified in construction bidding and contractual
+
+documents. In addition, the ESMP also requires the contractors to prepare site-specific Environmental and Social
+
+Management Plans and submit to PMU2/Construction Supervision Consultant (CSC) for review and approval prior
+
+to construction commencement. The construction supervisors will play key roles in environmental monitoring
+
+and supervision during construction phase while an independent monitoring consultants would also be engaged
+
+to carry out some capacity building activities and verify project’s environmental compliance. The TOR of the
+
+Construction Supervision Consultant also includes the provisions of training on HIV/Aids for project staff and
+
+workers including PMU2, CSC team and the contractors’ workers.
+
+63. During the preparation of environmental safeguards documents, consultations with related stakeholders
+
+on the ESIA, ESMP were conducted in project communes. Relevant feedback from the consultations have been
+
+incorporated into the ESIA and ESMP. Two RAPs and an EMDP have been prepared and will be implemented in
+
+order to manage the potential impacts related to land acquisition and affected ethnic minority households. The
+
+key contents of the two RAPs and EMDPs were summarized in the ESIA. The RAP for Gia Lai, the EMDP for Gia
+
+Lai, and the ESIA have been officially disclosed on April 20, 2017. The RAP for Binh Dinh has been officially
+
+disclosed on May 19, 2017.
+
+H. World Bank Grievance Redress
+
+
+
+64. Communities and individuals who believe that they are adversely affected by a World Bank (WB) supported
+
+project may submit complaints to existing project-level grievance redress mechanisms or the WB’s Grievance
+
+Redress Service (GRS). The GRS ensures that complaints received are promptly reviewed in order to address
+
+project-related concerns. Project affected communities and individuals may submit their complaint to the WB’s
+
+independent Inspection Panel which determines whether harm occurred, or could occur, as a result of WB non-
+
+compliance with its policies and procedures. Complaints may be submitted at any time after concerns have been
+
+
+
+
+
+                                                                                                           Page 25 of 37
+
+         The World Bank
+
+         Central Highlands Connectivity Improvement Project (P159238)
+
+
+
+
+
+
+
+    brought directly to the World Bank's attention, and Bank Management has been given an opportunity to respond.
+
+    For information on how to submit complaints to the World Bank’s corporate Grievance Redress Service (GRS),
+
+    please    visit:   http://www.worldbank.org/en/projects-operations/products-and-services/grievance-redress-
+
+    service. For information on how to submit complaints to the World Bank Inspection Panel, please visit
+
+    www.inspectionpanel.org.
+
+.
+
+
+
+
+
+
+
+
+
+                                                                                                            Page 26 of 37
+
+    The World Bank
+
+    Central Highlands Connectivity Improvement Project (P159238)
+
+
+
+
+
+
+
+                                                   VII. RESULTS FRAMEWORK AND MONITORING
+
+
+
+
+
+                                                                  Results Framework
+
+                                                                  COUNTRY : Vietnam
+
+                                                  Central Highlands Connectivity Improvement Project
+
+
+
+Project Development Objectives
+
+
+
+To improve the connectivity, safety and climate-resilience of the National Highway 19.
+
+
+
+Project Development Objective Indicators
+
+
+
+
+
+                                       Unit of                                                                                           Responsibility for
+
+ Indicator Name                Core                 Baseline      End Target    Frequency                 Data Source/Methodology
+
+                                       Measure                                                                                           Data Collection
+
+
+
+ Name: Annual average daily            Number       4950.00       6600.00       Baseline, and then        The data is collected by        The traffic count
+
+ traffic (AADT)                                                                 annual traffic counts     manual and annual traffic       responsibility falls
+
+                                                                                made at the 5 points of   counts conducted by the         under PMU2, who
+
+                                                                                the road, as indicated.   local authorities under the     will, in partnership
+
+                                                                                                          guidance of PMU2. The five      with local
+
+                                                                                                          sections for the traffic        authorities, hire a
+
+                                                                                                          counts are defined vis a vis    consultant to
+
+                                                                                                          chainage of NH19 as             perform the annual
+
+                                                                                                          follows: (1) average of         traffic count as
+
+                                                                                                          counts at km20 and km           detailed in the
+
+                                                                                                          49+550, (2) average of          methodology of the
+
+                                                                                                          counts at km76 and              Results Framework.
+
+                                                                                                          km90+900, (3) counts at
+
+                                                                                                          km124+720, (4) average
+
+                                                                                                          counts at km142+040,
+
+                                                                                                          km135, and km157, and (5)
+
+
+
+                                                                                                                                 Page 27 of 37
+
+    The World Bank
+
+    Central Highlands Connectivity Improvement Project (P159238)
+
+
+
+
+
+
+
+                                           Unit of                                                                                                    Responsibility for
+
+Indicator Name                    Core                   Baseline        End Target      Frequency                   Data Source/Methodology
+
+                                           Measure                                                                                                    Data Collection
+
+                                                                                                                      average counts at km180
+
+                                                                                                                      and km197+300. The
+
+                                                                                                                      methodology involves
+
+                                                                                                                      trained observers who
+
+                                                                                                                      gather traffic data that
+
+                                                                                                                      cannot be efficiently
+
+                                                                                                                      obtained through
+
+                                                                                                                      automated counts in
+
+                                                                                                                      Vietnam. The equipment
+
+                                                                                                                      used is tally sheet. The unit
+
+                                                                                                                      is Passenger Car Unit (PCU).
+
+                                                                                                                      The data to measure is
+
+                                                                                                                      AADT, which is the average
+
+                                                                                                                      calculated over a year of the
+
+                                                                                                                      number of vehicles passing
+
+                                                                                                                      a point in a given counting
+
+                                                                                                                      section each day (usually
+
+                                                                                                                      expressed in vehicles per
+
+                                                                                                                      day). It simply represents
+
+                                                                                                                      the vehicle flow over a road
+
+                                                                                                                      section on an average day
+
+                                                                                                                      of the year. Short term
+
+                                                                                                                      traffic counts will be
+
+                                                                                                                      performed, with a collection
+
+                                                                                                                      data period of 7 days where
+
+                                                                                                                      data are recorded in hourly
+
+                                                                                                                      intervals.
+
+
+
+
+
+
+
+Description: Annual average daily traffic as defined in the economic analysis and in the Results Framework. This includes the light vehicles, buses, trucks and motorcycles.
+
+As the road conditions will improve, the Corridor will accommodate more traffic as its volume to capacity ratio will increase. The indicator reflects the increase in traffic
+
+
+
+
+
+                                                                                                                                              Page 28 of 37
+
+    The World Bank
+
+    Central Highlands Connectivity Improvement Project (P159238)
+
+
+
+
+
+
+
+                                           Unit of                                                                                            Responsibility for
+
+Indicator Name                    Core                      Baseline   End Target   Frequency                 Data Source/Methodology
+
+                                           Measure                                                                                            Data Collection
+
+and will allow to calculate the volume to capacity ratio.
+
+
+
+
+
+Name: Average travel time                   Hours           6.00       5.00         Baseline, annually, and   The floating car technique       PMU2 will be
+
+on the NH19 Corridor                                                                then at the end of the    will be used as travel time      responsible for the
+
+                                                                                    project, at the           collection method and            collection, in
+
+                                                                                    completion of the civil   consists of a vehicle that is    partnership with the
+
+                                                                                    works.                    specifically dispatched to       local authorities as
+
+                                                                                                              drive with the traffic stream    well as the Police as
+
+                                                                                                              for the express purpose of       necessary. PMU2
+
+                                                                                                              data collection. Data            will hire an
+
+                                                                                                              collection personnel within      adequate consultant
+
+                                                                                                              the test vehicle control the     to perform the
+
+                                                                                                              speed of the vehicle             floating car
+
+                                                                                                              according to set driving         technique test.
+
+                                                                                                              guidelines. A passenger in
+
+                                                                                                              the test vehicle will
+
+                                                                                                              manually record travel
+
+                                                                                                              times at designated
+
+                                                                                                              checkpoints using a
+
+                                                                                                              clipboard and stopwatch,
+
+                                                                                                              i.e. at the measure point as
+
+                                                                                                              described in the Results
+
+                                                                                                              Framework: : (1)km20 and
+
+                                                                                                              km 49+550, (2) km76 and
+
+                                                                                                              km90+900, (3) km124+720,
+
+                                                                                                              (4) km142+040, km135, and
+
+                                                                                                              km157, and (5) km180 and
+
+                                                                                                              km197+300. The test will be
+
+                                                                                                              performed during a period
+
+                                                                                                              of 7 days, alternating
+
+                                                                                                              morning, evening and peak
+
+
+
+
+
+                                                                                                                                      Page 29 of 37
+
+    The World Bank
+
+    Central Highlands Connectivity Improvement Project (P159238)
+
+
+
+
+
+
+
+                                          Unit of                                                                                                  Responsibility for
+
+Indicator Name                   Core                   Baseline        End Target     Frequency                   Data Source/Methodology
+
+                                          Measure                                                                                                  Data Collection
+
+                                                                                                                   hours.
+
+
+
+
+
+
+
+Description: This indicator consists in the average travel time on the entire extended NH19 corridor, from Quy Nhon Port to the border with Cambodia, using a light
+
+vehicle under normal speed and traffic conditions. As the road condition will improve, as well as the safety and journey conditions, the travel time will decrease.
+
+
+
+
+
+Name: Number of kilometers                Kilometers    75.00           228.00         Baseline and at the         The IRAP scoring needs to       PMU2 will hire
+
+of International Road                                                                  completion of the civil     reach 3 star or more for        consultants who
+
+Assessment Program (iRAP)                                                              works.                      both cars and motorcycles.      hold iRAP
+
+3-star rating or above for                                                                                         The IRAP methodology test       accreditation to
+
+both cars and motorcycles on                                                                                       will be performed through a     perform the iRAP.
+
+the NH19 Corridor                                                                                                  drive-through inspection
+
+                                                                                                                   that involve at least two
+
+                                                                                                                   people: one driving a
+
+                                                                                                                   vehicle and a passenger
+
+                                                                                                                   recording road
+
+                                                                                                                   infrastructure elements as
+
+                                                                                                                   they travel using a RAP
+
+                                                                                                                   Inspection Device (RAPID).
+
+                                                                                                                   This type of inspection is
+
+                                                                                                                   technical and requires
+
+                                                                                                                   inspectors to hold iRAP
+
+                                                                                                                   accreditation. The
+
+                                                                                                                   inspection will involve a
+
+                                                                                                                   continuous record of road
+
+                                                                                                                   infrastructure elements,
+
+                                                                                                                   and the video-based
+
+                                                                                                                   inspection will record video
+
+                                                                                                                   images at 5-10 metre
+
+                                                                                                                   intervals. The Star
+
+
+
+
+
+                                                                                                                                          Page 30 of 37
+
+    The World Bank
+
+    Central Highlands Connectivity Improvement Project (P159238)
+
+
+
+
+
+
+
+                                          Unit of                                                                                                   Responsibility for
+
+Indicator Name                   Core                    Baseline       End Target      Frequency                   Data Source/Methodology
+
+                                          Measure                                                                                                   Data Collection
+
+                                                                                                                    Ratings will be based on 100
+
+                                                                                                                    metre long sections of road.
+
+                                                                                                                    At the completion of each
+
+                                                                                                                    type of inspection, the
+
+                                                                                                                    consultant will produce a
+
+                                                                                                                    detailed condition report
+
+                                                                                                                    that summarizes many
+
+                                                                                                                    roadway characteristics for
+
+                                                                                                                    the inspected network, and
+
+                                                                                                                    produce a final report that
+
+                                                                                                                    explains how many
+
+                                                                                                                    kilometers of road are 3 star
+
+                                                                                                                    or above.
+
+
+
+
+
+
+
+Description: This indicator measures the number of kilometers of the entire Nh19 from Quy Nhon Port to the border with Cambodia that is 3 star iRAP or above. The IRAP
+
+scoring needs to reach 3 star or more for both the cars and the motorcycles. The measurement requires to perform an iRAP along the Corridor to show the improvement
+
+of the safety conditions along the corridor. iRaP is the International Road Assessment Programme and provides a simple and objective measure of the level of safety
+
+provided by a road’s design through star rating. Star Ratings involve an inspection of road infrastructure elements that are known to have an impact on the likelihood of a
+
+crash and its severity. Between 1 and 5-stars are awarded depending on the level of safety which is ‘built-in’ to the road, 5 stars being the safest.
+
+
+
+
+
+Name: Kilometers of roads                  Number        0.00            20.00          Baseline, and at the        A situational analysis           PMU2 is
+
+that are upgraded in                                                                    end of the civil works.     exists and includes              responsible for the
+
+compliance with                                                                                                     20 hazard areas which are        listing and mapping
+
+climate/disaster resilient                                                                                          subject to landslides and/or     of the hazard areas
+
+design standards                                                                                                    climate change related           and monitor the
+
+                                                                                                                    disasters. Some of these         number
+
+                                                                                                                    hazard areas will be treated     of kilometers that
+
+                                                                                                                    by the proposed project,         will be improved
+
+                                                                                                                    based on availability of         accordingly.
+
+
+
+
+
+                                                                                                                                            Page 31 of 37
+
+    The World Bank
+
+    Central Highlands Connectivity Improvement Project (P159238)
+
+
+
+
+
+
+
+                                          Unit of                                                                                                   Responsibility for
+
+ Indicator Name                  Core                   Baseline        End Target     Frequency                   Data Source/Methodology
+
+                                          Measure                                                                                                   Data Collection
+
+                                                                                                                   financing, estimated costs
+
+                                                                                                                   of the works, and priority of
+
+                                                                                                                   the areas. The methodology
+
+                                                                                                                   consists in counting the
+
+                                                                                                                   number of kilometers of
+
+                                                                                                                   roads, at these key
+
+                                                                                                                   locations/hazard areas,
+
+                                                                                                                   or elsewhere along the
+
+                                                                                                                   proposed project
+
+                                                                                                                   scope, which have been
+
+                                                                                                                   subject to civil works
+
+                                                                                                                   towards the improvement
+
+                                                                                                                   of the resilience of the area.
+
+
+
+
+
+
+
+Description: The indicator is the number of kilometers of roads which have been subject to civil works towards the improvement of the resilience of the area.
+
+
+
+
+
+
+
+Intermediate Results Indicators
+
+
+
+
+
+                                          Unit of                                                                                                   Responsibility for
+
+ Indicator Name                  Core                   Baseline        End Target     Frequency                   Data Source/Methodology
+
+                                          Measure                                                                                                   Data Collection
+
+
+
+ Name: Roads rehabilitated,               Kilometers     0.00           153.00          Baseline, then 6 month     The data source consists in       PMU2 will be
+
+ Non-rural                                                                              progress report /          the progress reports of the       responsible for
+
+                                                                                        collection, then at the    contractor who will be in         collecting the data
+
+                                                                                        end of the civil works.    charge of the civil works.        from the contractor
+
+                                                                                                                   The contractor will monitor       and monitor
+
+                                                                                                                   the number of kilometers of       progress.
+
+
+
+
+
+                                                                                                                                            Page 32 of 37
+
+   The World Bank
+
+   Central Highlands Connectivity Improvement Project (P159238)
+
+
+
+
+
+
+
+                                        Unit of                                                                                                 Responsibility for
+
+Indicator Name                  Core                  Baseline        End Target     Frequency                  Data Source/Methodology
+
+                                        Measure                                                                                                 Data Collection
+
+                                                                                                                road rehabilitated and
+
+                                                                                                                provide such information as
+
+                                                                                                                works progress. 1 kilometer
+
+                                                                                                                rehabilitated equals 1 km of
+
+                                                                                                                road delivered and
+
+                                                                                                                completed, and equals 1 km
+
+                                                                                                                of road ready to be
+
+                                                                                                                operated/opened for traffic.
+
+
+
+
+
+
+
+Description: Kilometers of all non-rural roads reopened to motorized traffic, rehabilitated, or upgraded under the project. Non-rural roads are roads functionally
+
+classified in various countries as Trunk or Primary, Secondary or Link roads, or sometimes Tertiary roads. Typically, non-rural roads connect urban
+
+centers/towns/settlements of more than 5,000 inhabitants to each other or to higher classes of road, market towns and urban centers. Urban roads are included in non-
+
+rural roads.
+
+
+
+
+
+Name: Share of citizens from             Percentage    0.00           70.00          Baseline, then during      The data source is the           PMU2 will facilitate
+
+affected communes who                                                                Appraisal, then at the     consultants who are in           the consultations
+
+participated in consultations                                                        start of the civil works   charge of the safeguards         and be responsible
+
+                                                                                     (end of consultations).    elements and the RAP             for the provision of
+
+                                                                                                                related consultations in the     the data.
+
+                                                                                                                affected communes. The
+
+                                                                                                                selection of communes will
+
+                                                                                                                be based on types and
+
+                                                                                                                degrees of impacts. Apart
+
+                                                                                                                from mixed groups, the
+
+                                                                                                                consultants will hold
+
+                                                                                                                separate consultation with
+
+                                                                                                                (i) men and women to
+
+                                                                                                                identify gender issues; and
+
+                                                                                                                (ii) ethnic minority
+
+
+
+
+
+                                                                                                                                        Page 33 of 37
+
+    The World Bank
+
+    Central Highlands Connectivity Improvement Project (P159238)
+
+
+
+
+
+
+
+                                          Unit of                                                                                                     Responsibility for
+
+Indicator Name                   Core                    Baseline        End Target      Frequency                   Data Source/Methodology
+
+                                          Measure                                                                                                     Data Collection
+
+                                                                                                                     community to identify their
+
+                                                                                                                     issues for preparation of
+
+                                                                                                                     documents. For every
+
+                                                                                                                     consultation, the
+
+                                                                                                                     consultants will prepare
+
+                                                                                                                     minutes of the meeting and
+
+                                                                                                                     will collect signature of each
+
+                                                                                                                     participant, and the number
+
+                                                                                                                     of households. The
+
+                                                                                                                     calculation for the indicator
+
+                                                                                                                     will be done by comparing
+
+                                                                                                                     the number of households
+
+                                                                                                                     who participated in
+
+                                                                                                                     consultations with the
+
+                                                                                                                     number of households from
+
+                                                                                                                     affected communes.
+
+
+
+
+
+
+
+  Share of women from                      Percentage     0.00           20.00           Same as main                Same at main indicator, but       Same as main
+
+  affected communes who                                                                  indicator.                  only for women.                   indicator.
+
+  participated in
+
+  consultations
+
+
+
+
+
+Description: This indicator measures the Citizen Engagement level during the project related consultations. It measures the share of citizens living in the affected
+
+communes who participated in consultations, through the collection of the number of households who have been consulted during project preparation.
+
+
+
+
+
+Name: Manual for                           Yes/No        N               Y               Baseline, and then at       The data source consists in       PMU2 is responsible
+
+motorcycle lane design and                                                               the end of the project.     the development and               for the collection of
+
+specifications                                                                                                       availability of the report, to    the final report to
+
+                                                                                                                     be produced by the road           be produced by the
+
+                                                                                                                                                       consultants, and the
+
+
+
+                                                                                                                                              Page 34 of 37
+
+    The World Bank
+
+    Central Highlands Connectivity Improvement Project (P159238)
+
+
+
+
+
+
+
+                                          Unit of                                                                                                    Responsibility for
+
+Indicator Name                   Core                    Baseline       End Target      Frequency                   Data Source/Methodology
+
+                                          Measure                                                                                                    Data Collection
+
+                                                                                                                    safety consultant(s).             diffusion of the
+
+                                                                                                                                                      report to the
+
+                                                                                                                                                      stakeholders.
+
+
+
+
+
+
+
+Description: This indicator measures the development and availability of a manual for the design of motorcycle lanes and the related specifications, so that the approach
+
+is harmonized through Vietnam.
+
+
+
+
+
+Name: Guidelines for                      Yes/No         N               Y              Baseline, and then at       The data source consists in       PMU2 is responsible
+
+resilient road design and                                                               the end of the project.     the development,                  for the collection of
+
+standards                                                                                                           availability and diffusion of     the report to be
+
+                                                                                                                    the report, when produced         produced by the
+
+                                                                                                                    by the consultants.               consultants, and its
+
+                                                                                                                                                      diffusion.
+
+
+
+
+
+
+
+Description: This indicator measures the development and availability of the guidelines for the design of resilient roads and the related standard in Vietnam, with the
+
+objective to harmonize the approach through Vietnam.
+
+
+
+
+
+
+
+
+
+                                                                                                                                             Page 35 of 37
+
+    The World Bank
+
+    Central Highlands Connectivity Improvement Project (P159238)
+
+
+
+
+
+
+
+                                                                             Target Values
+
+
+
+Project Development Objective Indicators FY
+
+
+
+
+
+ Indicator Name                                                                              Baseline   End Target
+
+
+
+Annual average daily traffic (AADT)                                                          4950.00    6600.00
+
+
+
+Average travel time on the NH19 Corridor                                                     6.00       5.00
+
+
+
+Number of kilometers of International Road Assessment Program (iRAP) 3-star rating or
+
+                                                                                             75.00      228.00
+
+above for both cars and motorcycles on the NH19 Corridor
+
+
+
+Kilometers of roads that are upgraded in compliance with climate/disaster resilient design
+
+                                                                                             0.00       20.00
+
+standards
+
+
+
+
+
+Intermediate Results Indicators FY
+
+
+
+
+
+ Indicator Name                                                                              Baseline   End Target
+
+
+
+Roads rehabilitated, Non-rural                                                               0.00       153.00
+
+
+
+Share of citizens from affected communes who participated in consultations                   0.00       70.00
+
+
+
+Share of women from affected communes who participated in consultations                      0.00       20.00
+
+
+
+Manual for motorcycle lane design and specifications                                         N          Y
+
+
+
+Guidelines for resilient road design and standards                                           N          Y
+
+
+
+
+
+
+
+
+
+                                                                                                               Page 36 of 37
+
+The World Bank
+
+Central Highlands Connectivity Improvement Project (P159238)
+
+
+
+
+
+
+
+                                                               ANNEX 1: PROJECT MAP
+
+
+
+
+
+
+
+
+
+                                                                                      Page 37 of 37
+
+

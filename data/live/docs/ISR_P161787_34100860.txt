@@ -1,0 +1,825 @@
+            The World Bank                                                                                     Implementation Status & Results Report
+
+            Ghana Financial Sector Development Project (P161787)
+
+
+
+
+
+
+
+Ghana Financial Sector Development Project (P161787)
+
+
+
+
+
+ WESTERN AND CENTRAL AFRICA | Ghana | Finance, Competitiveness and Innovation Global Practice |
+
+ IBRD/IDA | Investment Project Financing | FY 2019 | Seq No: 9 | ARCHIVED on 23-Jun-2023 | ISR56832 |
+
+
+
+
+
+ Implementing Agencies: Ministry of Finance, Republic of Ghana
+
+
+
+
+
+
+
+ Key Dates
+
+
+
+
+
+  Key Project Dates
+
+
+
+   Bank Approval Date: 20-Sep-2018                                               Effectiveness Date: 27-Jun-2019
+
+   Planned Mid Term Review Date: 25-Apr-2022                                     Actual Mid-Term Review Date: 23-May-2022
+
+   Original Closing Date: 30-Sep-2023                                            Revised Closing Date: 30-Jun-2024
+
+ pdoTable
+
+
+
+ Project Development Objectives
+
+
+
+  Project Development Objective (from Project Appraisal Document)
+
+  The objective of the project is to promote financial sector soundness and access to financial services by individuals.
+
+
+
+  Has the Project Development Objective been changed since Board Approval of the Project Objective?
+
+  Yes
+
+
+
+  Board Approved Revised Project Development Objective (If project is formally restructured)
+
+  The objective of the project is to increase access to financial services by individuals.
+
+
+
+
+
+ Components Table
+
+
+
+ Name
+
+ Improving credit unions’ regulatory framework, BoG’s resolution capacity, and market transparency and
+
+ discipline:(Cost $5.85 M)
+
+ Increasing the Outreach of RCBs and MFIs and Linking VSLAs to the Formal Financial Sector:(Cost $14.35
+
+ M)
+
+ Bolstering Financial Capability and Consumer Protection:(Cost $3.40 M)
+
+ Enhancing the Capacity for the Implementation and Monitoring of Financial Sector Policies and Supporting
+
+ Project Implementation:(Cost $4.10 M)
+
+ Unallocated amount:(Cost $1.00 M)
+
+
+
+ Overall Ratings
+
+
+
+ Name                                                                           Previous Rating                        Current Rating
+
+
+
+ Progress towards achievement of PDO                                            Moderately Unsatisfactory             Moderately Unsatisfactory
+
+ Overall Implementation Progress (IP)                                           Moderately Satisfactory               Moderately Satisfactory
+
+ Overall Risk Rating                                                            Substantial                           Substantial
+
+
+
+
+
+ Implementation Status and Key Decisions
+
+
+
+
+
+
+
+
+
+6/23/2023                                                                                                                     Page 1 of 7
+
+            The World Bank                                                                                        Implementation Status & Results Report
+
+            Ghana Financial Sector Development Project (P161787)
+
+
+
+
+
+
+
+  The restructuring of the Project was completed on June 7, 2027. Among other changes, the restructuring cancelled some activities to reflect
+
+  changes in priorities and modified the Project Development Objective (PDO) to better align it with the remaining project activities. The revised PDO
+
+  is to increase access to financial services by individuals. The Project closing date was extended to June 30, 2024.
+
+
+
+
+
+
+
+
+
+  Risks
+
+
+
+
+
+ Systematic Operations Risk-rating Tool
+
+
+
+
+
+  Risk Category                                              Rating at Approval               Previous Rating                 Current Rating
+
+
+
+  Political and Governance                                   Low                             Low                            Low
+
+  Macroeconomic                                              Substantial                     High                           High
+
+  Sector Strategies and Policies                             Substantial                     Substantial                    Substantial
+
+  Technical Design of Project or Program                     Moderate                        Moderate                       Moderate
+
+  Institutional Capacity for Implementation and
+
+                                                             Moderate                        Moderate                       Moderate
+
+  Sustainability
+
+  Fiduciary                                                  Substantial                     Substantial                    Substantial
+
+  Environment and Social                                     Low                             Low                            Low
+
+  Stakeholders                                               Low                             Low                            Low
+
+  Other                                                      --                               --                              --
+
+  Overall                                                    Substantial                     Substantial                    Substantial
+
+
+
+
+
+
+
+  Results
+
+
+
+
+
+ PDO Indicators by Objectives / Outcomes
+
+
+
+
+
+
+
+   Increased access to financial services by individuals
+
+
+
+    IN01310715
+
+    ►Number of deposit accounts within the RCB network (Number, Custom)
+
+
+
+                                       Baseline                     Actual (Previous)              Actual (Current)           End Target
+
+
+
+    Value                              7,200,000.00                 7,761,794.00                   8,211,374.00               8,500,000.00
+
+
+
+    Date                               31-May-2018                  30-Sep-2022                    31-Dec-2022               30-Jun-2024
+
+
+
+      IN01310736
+
+      of which women: (Number, Custom Breakdown)
+
+
+
+                                     Baseline                     Actual (Previous)            Actual (Current)              End Target
+
+
+
+     Value                           3,000,000.00                 3,333,045.00                 3,462,206.00                  3,750,000.00
+
+
+
+
+
+6/23/2023                                                                                                                          Page 2 of 7
+
+            The World Bank                                                                                     Implementation Status & Results Report
+
+            Ghana Financial Sector Development Project (P161787)
+
+
+
+
+
+
+
+
+
+     Date                            31-May-2018                  30-Sep-2022                  31-Dec-2022                 30-Jun-2024
+
+
+
+    IN01310737
+
+    ►Number of customers enrolled in the ARB’s e-banking platform (Number, Custom)
+
+
+
+                                      Baseline                     Actual (Previous)             Actual (Current)          End Target
+
+
+
+    Value                             5,000.00                     10,165.00                     0.00                      80,000.00
+
+
+
+    Date                              31-Dec-2017                  30-Sep-2022                   31-Dec-2022               30-Jun-2024
+
+
+
+                                       This indicator will monitor the number of customers enrolled in the ARB Apex Bank’s e-banking platform,
+
+   Comments:
+
+                                       including cardholders and users of the mobile banking application.
+
+
+
+ Overall Comments PDO
+
+
+
+  The number of customers enrolled in ARB's e-banking platform dropped to "zero" in December 2022, given that the upgrade of the core
+
+  banking software impacted the U-Connect mobile banking functionality. However, the new e-banking platform is expected to go live in June
+
+  2023 and the end-target is still expected to be met.
+
+
+
+
+
+
+
+
+
+ Intermediate Results Indicators by Components
+
+
+
+
+
+
+
+   Improving CU's regulatory framework, BOG's resolution capacity, market transparency and discipline
+
+
+
+    IN01310740
+
+    ►Number of credit unions reporting to CUA using the new supervision application (Number, Custom)
+
+
+
+                                      Baseline                     Actual (Previous)             Actual (Current)          End Target
+
+
+
+    Value                             0.00                         0.00                          0.00                      170.00
+
+
+
+    Date                              31-May-2018                  30-Sep-2022                   31-Dec-2022               30-Jun-2024
+
+
+
+                                       This indicator will monitor the number of credit unions reporting prudential and non-prudential information
+
+   Comments:
+
+                                       to CUA using the new supervision application to be developed/acquired.
+
+    IN01310746
+
+    ►Credit rating agency (CRA) licensed and operational (Text, Custom)
+
+
+
+                                      Baseline                     Actual (Previous)             Actual (Current)          End Target
+
+
+
+    Value                             No CRA                       No CRA                        No CRA                    CRA operational
+
+
+
+    Date                              31-May-2018                  30-Sep-2022                   31-Dec-2022               30-Jun-2024
+
+
+
+   Comments:                           Licensed by the SEC and operational (management, staff, and systems in place).
+
+
+
+    IN01310749
+
+    ►Bank of Ghana Resolutions Unit staff trained on strategic resolution planning and receivership monitoring (Number, Custom)
+
+
+
+                                      Baseline                     Actual (Previous)             Actual (Current)          End Target
+
+
+
+    Value                             0.00                         0.00                          0.00                      9.00
+
+
+
+
+
+
+
+
+
+6/23/2023                                                                                                                      Page 3 of 7
+
+            The World Bank                                                                                     Implementation Status & Results Report
+
+            Ghana Financial Sector Development Project (P161787)
+
+
+
+
+
+
+
+
+
+    Date                              23-Feb-2023                  23-Feb-2023                   23-Feb-2023                30-Jun-2024
+
+
+
+    IN01310751
+
+    ►New regulatory framework for credit unions developed and under implementation (Yes/No, Custom)
+
+
+
+                                      Baseline                     Actual (Previous)             Actual (Current)           End Target
+
+
+
+    Value                             No                           No                            No                         Yes
+
+
+
+    Date                              23-Feb-2023                  23-Feb-2023                   23-Feb-2023                30-Jun-2024
+
+
+
+
+
+
+
+   Increasing the outreach of RCBs and MFIs and linking VSLAs to the formal financial sector
+
+
+
+    IN01310739
+
+    ►Number of banking agents established (Number, Custom)
+
+
+
+                                      Baseline                     Actual (Previous)             Actual (Current)           End Target
+
+
+
+    Value                             0.00                         0.00                          0.00                       5,000.00
+
+
+
+    Date                              31-May-2018                  30-Sep-2022                   31-Dec-2022                30-Jun-2024
+
+
+
+                                       This indicator will monitor the numbers of agents established (with a signed agreement with ARB Apex
+
+   Comments:
+
+                                       Bank).
+
+    IN01310742
+
+    ►Number of ARB Apex Bank staff trained on all upgraded systems (Number, Custom)
+
+
+
+                                      Baseline                     Actual (Previous)             Actual (Current)           End Target
+
+
+
+    Value                             0.00                         21.00                         21.00                      80.00
+
+
+
+    Date                              31-May-2018                  30-Sep-2022                   31-Dec-2022                30-Jun-2024
+
+                                       This indicator will monitor the number of all ARB Apex Bank headquarter and regional staff trained as
+
+   Comments:                           trainers of trainers on all upgraded core banking system.
+
+
+
+    IN01310744
+
+    ►Number of RCB’s staff trained by ARB Apex Bank IT staff on all upgraded systems (Number, Custom)
+
+
+
+                                      Baseline                     Actual (Previous)             Actual (Current)           End Target
+
+
+
+    Value                             0.00                         236.00                        5,274.00                   5,500.00
+
+
+
+    Date                              31-May-2018                  30-Sep-2022                   31-Dec-2022                30-Jun-2024
+
+
+
+                                       This indicator will monitor the number of RCB’s staff trained by ARB Apex Bank’s staff (trainers of trainers)
+
+   Comments:
+
+                                       on the upgraded core banking system.
+
+    IN01310747
+
+    ►Number of VSLA members linked to formal financial service providers (Number, Custom)
+
+
+
+                                      Baseline                     Actual (Previous)             Actual (Current)           End Target
+
+
+
+    Value                             0.00                         0.00                          0.00                       42,000.00
+
+
+
+    Date                              31-May-2018                  30-Sep-2022                   31-Dec-2022                30-Jun-2024
+
+
+
+
+
+
+
+6/23/2023                                                                                                                      Page 4 of 7
+
+            The World Bank                                                                                    Implementation Status & Results Report
+
+            Ghana Financial Sector Development Project (P161787)
+
+
+
+
+
+
+
+                                       This indicator will monitor the total number of members of new VSLAs to be created as well as members
+
+   Comments:
+
+                                       of existing VSLAs to be linked to formal financial services providers.
+
+     IN01310750
+
+     of which women (Number, Custom Breakdown)
+
+
+
+                                     Baseline                    Actual (Previous)             Actual (Current)           End Target
+
+
+
+     Value                           0.00                        0.00                         0.00                        20,000.00
+
+
+
+     Date                            23-Feb-2023                 23-Feb-2023                  23-Feb-2023                 30-Jun-2024
+
+
+
+
+
+   Bolstering financial capability and consumer protection
+
+
+
+    IN01310745
+
+    ►Percentage of target population reached by the financial education campaigns (Percentage, Custom)
+
+
+
+                                      Baseline                     Actual (Previous)            Actual (Current)          End Target
+
+
+
+    Value                             0.00                         0.00                         0.00                      30.00
+
+
+
+    Date                              31-May-2018                  30-Sep-2022                  31-Dec-2022               30-Jun-2024
+
+                                       The percentage will be calculated as the total number of financial consumers reached by the various
+
+                                       financial education campaigns divided by the total number of the target population of the various
+
+   Comments:
+
+                                       campaigns. The size of the target population for each campaign will be determined through a market
+
+                                       assessment.
+
+    IN01310748
+
+    ►Complaints handling technology applications for BoG, NIC, and SEC acquired/developed and operational (Text, Custom)
+
+
+
+                                      Baseline                     Actual (Previous)            Actual (Current)          End Target
+
+                                                                                                                          Applications
+
+    Value                             No applications              No applications              No applications           acquired/developed
+
+                                                                                                                          and operational
+
+    Date                              31-May-2018                  30-Sep-2022                  31-Dec-2022               30-Jun-2024
+
+                                       This indicator will monitor progress on the acquisition/development and operationalization of technology
+
+   Comments:                           applications to handle complaints from financial consumers. The applications will be considered
+
+                                       operational if used by BoG, NIC, and SEC to handle complaints.
+
+
+
+
+
+   Enhancing the capacity for the implementation and monitoring of financial sector policies and suppor
+
+
+
+    IN01310738
+
+    ►Total number of annual financial inclusion reports produced and published by FSD staff (Number, Custom)
+
+
+
+                                      Baseline                     Actual (Previous)            Actual (Current)          End Target
+
+
+
+    Value                             0.00                         0.00                         0.00                      4.00
+
+
+
+    Date                              31-May-2018                  30-Sep-2022                  31-Dec-2022               30-Jun-2024
+
+
+
+   Comments:                           This indicator will monitor the cumulative number of reports produced and published by FSD staff.
+
+
+
+    IN01310741
+
+    ►Financial inclusion database developed and available online (Text, Custom)
+
+
+
+                                      Baseline                     Actual (Previous)            Actual (Current)          End Target
+
+
+
+
+
+6/23/2023                                                                                                                     Page 5 of 7
+
+            The World Bank                                                                                         Implementation Status & Results Report
+
+            Ghana Financial Sector Development Project (P161787)
+
+
+
+
+
+
+
+                                                                                                                              Database available
+
+    Value                              No database                  No database                      No database
+
+                                                                                                                              online
+
+
+
+    Date                               30-Jun-2018                  30-Sep-2022                      31-Dec-2022              30-Jun-2024
+
+                                       Database to include financial inclusion statistics, including indicators for the monitoring of the National
+
+   Comments:                           Financial Inclusion and Development Strategy, results of the financial inclusion survey and the geospatial
+
+                                       mapping of access points, etc.
+
+    IN01310743
+
+    ►Feedback received from the beneficiary satisfaction survey addressed and used to improve project interventions (Text, Custom)
+
+
+
+                                       Baseline                      Actual (Previous)               Actual (Current)         End Target
+
+                                                                                                                              Feedback addressed
+
+                                                                    Survey completed and             Survey completed and
+
+    Value                              No survey                                                                              and used to improve
+
+                                                                    feedback collected               feedback collected
+
+                                                                                                                              project interventions
+
+    Date                               31-May-2018                  23-Feb-2023                      23-Feb-2023              30-Jun-2024
+
+
+
+
+
+ Overall Comments IR
+
+
+
+  Targets reported as of Q4 CY2022. Data not yet available for new indicators added during restructuring of the project.
+
+
+
+
+
+
+
+
+
+ Performance-Based Conditions
+
+
+
+
+
+
+
+ Data on Financial Performance
+
+
+
+
+
+ Disbursements (by loan)
+
+
+
+ Project        Loan/Credit/TF    Status       Currency        Original   Revised        Cancelled      Disbursed       Undisbursed               % Disbursed
+
+
+
+
+
+ P161787        IDA-63100         Effective    USD               30.00       30.00            0.00          16.67             12.26                      58%
+
+
+
+
+
+ Key Dates (by loan)
+
+
+
+ Project         Loan/Credit/TF    Status      Approval Date       Signing Date      Effectiveness Date        Orig. Closing Date      Rev. Closing Date
+
+
+
+ P161787         IDA-63100         Effective   20-Sep-2018         12-Dec-2018       27-Jun-2019               30-Sep-2023             30-Jun-2024
+
+
+
+
+
+Cumulative Disbursements
+
+
+
+
+
+
+
+
+
+6/23/2023                                                                                                                           Page 6 of 7
+
+            The World Bank                                         Implementation Status & Results Report
+
+            Ghana Financial Sector Development Project (P161787)
+
+
+
+
+
+
+
+
+
+  Restructuring History
+
+
+
+
+
+  Level 2 Approved on 18-May-2023
+
+
+
+
+
+  Related Project(s)
+
+
+
+
+
+ There are no related projects.
+
+
+
+
+
+
+
+
+
+6/23/2023                                                                         Page 7 of 7
+
+

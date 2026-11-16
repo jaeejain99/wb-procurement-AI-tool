@@ -1,0 +1,567 @@
+                The World Bank                                                         Implementation Status & Results Report
+                Learning Acceleration in Secondary Education Operation (P178487)
+
+
+
+Learning Acceleration in Secondary Education Operation (P178487)
+
+SOUTH ASIA | Bangladesh | Education Global Practice | Requesting Unit: SACBB (8702) | Responsible Unit: HSAED (9256)
+IBRD/IDA | Program-for-Results Financing | FY 2024 | Team Leader(s): T. M. Asaduzzaman, Aleksan Hovhannisyan, Matiullah
+Noori
+
+Seq No: 1 | Archived on 08-Jan-2024 | ISR00023 | Created by: Mehedi Mashrur Khan Soikat on 05-Nov-2023 | Modified by:
+T. M. Asaduzzaman on 04-Jan-2024
+
+
+
+1. PROJECT DEVELOPMENT OBJECTIVE
+
+
+ 1.1 Development Objective
+   Original Development Objective (Approved as part of Approval package on 22-Sep-2023)
+   The Program Development Objective (PDO) is to improve student learning and retention, and build system resilience in
+   secondary education.
+2. OVERALL RATINGS
+
+ Name                                                                        Current
+
+ Progress towards achievement of PDO                                         Satisfactory
+
+ Overall Implementation Progress (IP)                                        Satisfactory
+
+ Overall Risk Rating                                                         Substantial
+
+
+
+
+3. KEY ISSUES & STATUS
+
+
+ 3.1 Implementation Status and Key Decisions
+   The IDA Board of Executive Directors approved the Program on September 22, 2023. On October 31, 2023, the Executive
+   Committee of National Economic Council (ECNEC), approved the LAISE Program. The legal documents were signed by the
+   Country Director of the World Bank and the Senior Secretary of the Economic Relations Division of the Government on
+   November 22, 2023. The Bank has declared Program effectiveness on November 30, 2023.
+   The government team has started work on establishment of a Program Implementation Unit; setting up a Program
+   Steering Committee and a Program Implementation Committee; creation of a separate main Program code for the
+   Program expenditures; selecting and engaging one or more Independent Verification Agent(s); and preparation and
+   adoption of an Operations Manual.
+
+
+
+
+ Jan 08, 2024                                                                                                      Page 1 of 13
+               The World Bank                                                                   Implementation Status & Results Report
+               Learning Acceleration in Secondary Education Operation (P178487)
+
+
+
+
+4. DATA ON FINANCIAL PERFORMANCE
+
+
+4.1 Disbursements (by loan)
+
+
+Loan/Credit/TF Status                     Original      Revised    Cancelled     Disbursed      Undisbursed               % Disbursed
+
+
+                     Not
+IDA-74120                                  300.00       300.00         0.00              0.00         297.33                         0%
+                     Effective
+
+
+
+4.2 Key Dates (by loan)
+
+
+Loan/Credit/TF         Status             Approval           Signing            Effectiveness        Orig. Closing    Rev. Closing
+                       Not
+IDA-74120                               22-Sep-2023          22-Nov-2023                             31-Dec-2028      31-Dec-2028
+                       Effective
+
+
+4.3 Program Action Plan
+
+                                   A teacher competency mapping carried out to identify untrained teachers and develop a
+  Action Description
+                                   training plan and a teacher training database
+  Source                           DLI#               Responsibility            Timing               Timing Value       Status
+  Technical                        1                  DSHE                      Due Date             31-Jul-2024
+  Completion                       Analytical study conducted and endorsed
+  Measurement
+  Comments                         no comments
+
+  Action Description             Accounting and financial reporting
+  Source                         DLI#                 Responsibility           Timing               Timing Value        Status
+  Fiduciary Systems              NA                   DSHE                     Recurrent            Quarterly
+  Completion                     Reconciliation of expenditure data between PIU and CAFO
+  Measurement
+  Comments                       no comments
+
+  Action Description               An online platform for regular repository of quality training contents is developed
+  Source                           DLI#               Responsibility            Timing               Timing Value       Status
+
+
+Jan 08, 2024                                                                                                                Page 2 of 13
+               The World Bank                                                           Implementation Status & Results Report
+               Learning Acceleration in Secondary Education Operation (P178487)
+
+
+
+  Technical                     1                 DSHE                    Due Date            30-Jun-2026
+  Completion                    Dedicated online platform for archiving training contents under DSHE
+  Measurement
+  Comments                      no comments
+
+  Action Description            Annual internal audit conducted
+  Source                        DLI#             Responsibility           Timing               Timing Value        Status
+  Fiduciary Systems             NA               DIA                      Recurrent            Yearly
+  Completion                    DIA to conduct annual internal audit of the Program
+  Measurement
+  Comments                      no comments
+
+  Action Description            Annual procurement post review conducted
+  Source                        DLI#             Responsibility           Timing               Timing Value        Status
+  Fiduciary Systems             NA               DSHE                     Recurrent            Yearly
+  Completion                    Arrange for annual procurement post review of the contracts under the Program and the TA
+  Measurement
+  Comments                      no comments
+
+  Action Description            Anti corruption report submitted
+  Source                        DLI#             Responsibility          Timing               Timing Value         Status
+  Fiduciary Systems             NA               DSHE                    Recurrent            Semi-Annually
+  Completion                    Report on allegations of corruption submitted to the Bank
+  Measurement
+  Comments                      no comments
+
+  Action Description            Anti-corruption focal point assigned
+  Source                        DLI#              Responsibility          Timing              Timing Value         Status
+  Fiduciary Systems             NA                DSHE                    Due Date            30-Jun-2024
+  Completion                    A focal point on anti-corruption assigned and included in the staffing plan to facilitate and
+  Measurement                   report on issues of governance and accountability
+  Comments                      no comments
+
+  Action Description            Budget execution monitored
+
+
+Jan 08, 2024                                                                                                            Page 3 of 13
+               The World Bank                                                          Implementation Status & Results Report
+               Learning Acceleration in Secondary Education Operation (P178487)
+
+
+
+  Source                        DLI#             Responsibility          Timing             Timing Value        Status
+  Fiduciary Systems             NA               DSHE                    Recurrent          Quarterly
+  Completion                    Regular monitoring of budget execution by generating report from iBAS on Program
+  Measurement                   expenditure
+  Comments                      no comments
+
+  Action Description             Capacity building training completed
+  Source                         DLI#              Responsibility         Timing             Timing Value       Status
+  Environmental and
+                                 NA                DSHE                   Due Date           30-Jun-2024
+  Social Systems
+  Completion                     Capacity building training for PIU and DSHE staffs on ES risk and impact mitigation, GRM
+  Measurement                    including focus on SEA/SH issues, and Stakeholder engagement
+  Comments                       no comments
+
+                                DSHE to leverage on internal audit from the on-going internal audit modernization under the
+  Action Description
+                                Finance Division
+  Source                        DLI#              Responsibility          Timing            Timing Value        Status
+  Fiduciary Systems             NA                DSHE                    Due Date          30-Jun-2024
+  Completion                    Report on internal audit modernization
+  Measurement
+  Comments                      no comments
+
+  Action Description             Environmental and Social Focal Points assigned to administer ES issues
+  Source                         DLI#              Responsibility         Timing             Timing Value       Status
+  Environmental and
+                                 NA                DSHE                   Due Date           01-Jan-2024
+  Social Systems
+  Completion                     Assign one Environmental and one Social focal point/ consultant(with gender and SEA/SH
+  Measurement                    expertise) in the PIU for the entire duration of the Program to administer ES issues
+  Comments                       no comments
+
+  Action Description             Integrating local leadership
+  Source                         DLI#              Responsibility         Timing             Timing Value       Status
+  Environmental and
+                                 NA                DSHE                   Due Date           30-Jun-2024
+  Social Systems
+
+
+
+Jan 08, 2024                                                                                                         Page 4 of 13
+               The World Bank                                                        Implementation Status & Results Report
+               Learning Acceleration in Secondary Education Operation (P178487)
+
+
+
+                                 District Parishad Chairman,Upazila Parishad Chairmen, Union parishad Chairmen and
+  Completion
+                                 members, local CSOs and and local education offices to raise awareness to improve student
+  Measurement
+                                 learning and retention in secondary education, especially to adolescent girls
+  Comments                       no comments
+
+                                MoE issues policy directive to schools to observe climate day awareness program on World
+  Action Description
+                                Environment Day
+  Source                        DLI#             Responsibility         Timing             Timing Value         Status
+  Technical                     7                DSHE                   Due Date           30-Jun-2026
+  Completion                    Policy directive issued by MoE
+  Measurement
+  Comments                      no comments
+
+                                Necessary procurement training given to procurement staff for improving performance in
+  Action Description
+                                procurement management
+  Source                        DLI#             Responsibility         Timing             Timing Value         Status
+  Fiduciary Systems             NA               DSHE                   Due Date           30-Jun-2024
+  Completion                    Completion of training of procurement and finance wing of DSHE and PIU
+  Measurement
+  Comments                      no comments
+
+  Action Description            Online monitoring and assessment system is operational
+  Source                        DLI#             Responsibility         Timing             Timing Value         Status
+  Technical                     6                DSHE                   Due Date           30-Jun-2025
+  Completion                    DMS is made operational
+  Measurement
+  Comments                      no comments
+
+  Action Description            Quarterly audit review meeting conducted
+  Source                        DLI#            Responsibility         Timing             Timing Value          Status
+  Fiduciary Systems             NA              DSHE                   Recurrent          Quarterly
+  Completion                    The audit committee to meet at least quarterly and meeting minutes circulated
+  Measurement
+  Comments                      no comments
+
+
+
+Jan 08, 2024                                                                                                        Page 5 of 13
+               The World Bank                                                          Implementation Status & Results Report
+               Learning Acceleration in Secondary Education Operation (P178487)
+
+
+
+                               Training programs to be organized for accounting staff, to strengthen capacity on accounting
+  Action Description
+                               and bookkeeping functions; and efficient use of iBAS
+  Source                       DLI#             Responsibility             Timing        Timing Value              Status
+                                                                                         In the first year of
+                                                                                         implementation
+  Fiduciary Systems            NA               DSHE                       Other         followed by
+                                                                                         refresher courses
+                                                                                         each year
+  Completion                   Completion of training of Procurement & Finance wing of DSHE and PIU
+  Measurement
+  Comments                     no comments
+
+  Action Description            Verification of award of contract completed
+  Source                        DLI#             Responsibility            Timing             Timing Value         Status
+  Fiduciary Systems             NA               DSHE                      Recurrent          Semi-Annually
+                                No contract under the Program to award to a firm or individual under debarment or
+  Completion
+                                temporary suspension by the WB. The verification to be recorded in the bid/ proposal
+  Measurement
+                                evaluation report
+  Comments                      no comments
+
+
+
+
+5. KEY DATES
+
+
+Key Events                                                       Planned                          Actual
+
+Approval                                                         22-Sep-2023                      22-Sep-2023
+
+Effectiveness                                                    30-Oct-2023
+
+Mid-Term Review No. 01                                           30-Jun-2026
+
+Operation Closing/Cancellation                                   31-Dec-2028
+
+
+6. SYSTEMATIC OPERATIONS RISK-RATING TOOL
+
+                                                                  Rating at Approval
+Risk Category                                                     Approval Package - 22 Sep      Proposed Rating
+                                                                  2023
+
+
+Jan 08, 2024                                                                                                           Page 6 of 13
+               The World Bank                                                     Implementation Status & Results Report
+               Learning Acceleration in Secondary Education Operation (P178487)
+
+
+
+
+Political and Governance                                       Substantial               Substantial
+
+Macroeconomic                                                  Moderate                  Moderate
+
+Sector Strategies and Policies                                 Moderate                  Moderate
+
+Technical Design of Project or Program                         Moderate                  Moderate
+
+Institutional Capacity for Implementation and
+                                                               Substantial               Substantial
+Sustainability
+
+Fiduciary                                                      Substantial               Substantial
+
+Environment and Social                                         Low                       Low
+
+Stakeholders                                                   Moderate                  Moderate
+
+Overall                                                        Substantial               Substantial
+
+
+
+
+Jan 08, 2024                                                                                                  Page 7 of 13
+               The World Bank                                                                                              Implementation Status & Results Report
+               Learning Acceleration in Secondary Education Operation (P178487)
+
+
+
+ 7. RESULTS
+
+
+  7.1 PDO Indicators by PDO Outcomes
+
+
+  Student support for improved learning, retention and resilience
+                                                            Baseline                           Actual (Current)                         Closing Period
+                Indicator Name
+                                                    Value              Month/Year           Value                 Date               Value            Month/Year
+ Students meeting basic proficiency in      0.00                       Nov/2022                                              0.00                       Dec/2028
+ Grade 8 in math and Bangla                 Comments on achieving targets           NASS will be carried out as per approved framework and linked with NASS
+ (Disaggregated by subjects)                                                        2019 for systematic tracking of students across the six proficiency bands. Next
+ (Percentage) DLI                                                                   NASS is expected to be carried out in 2024.
+                                            28.70                       Jan/2023                                             65.00                      Dec/2028
+         Students meeting basic             Comments on achieving targets           This indicator tracks the progress towards achieving grade level competency
+         proficiency in Grade 8 in maths                                            in Grade 8 in math. Grade level competency is defined as proficiency by NCTB.
+         (Percentage) DLI                                                           Once conducted, NASS 2024 report will provide the next grade level
+                                                                                    competency value for Grade 8.
+                                            66.30                       Jan/2023                                             90.00                      Dec/2028
+         Students meeting basic             Comments on achieving targets           This indicator tracks the progress towards achieving grade level competency
+         proficiency in Grade 8 in Bangla                                           in Grade 8 in Bangla. Grade level competency is defined as proficiency by
+         (Percentage) DLI                                                           NCTB. Once conducted, NASS 2024 report will provide the next grade level
+                                                                                    competency value for Grade 8.
+  Student support for improved learning, retention and resilience
+                                                            Baseline                           Actual (Current)                         Closing Period
+                Indicator Name
+                                                    Value              Month/Year           Value                 Date               Value            Month/Year
+ Grade 10 (of those started in Grade        72.00                       Feb/2023                                             74.00                      Dec/2028
+
+
+
+Jan 08, 2024                                                                                                                                                Page 8 of 13
+               The World Bank                                                                                              Implementation Status & Results Report
+               Learning Acceleration in Secondary Education Operation (P178487)
+
+
+ 6) retention rate - Overall               Comments on achieving targets            This indicator is on track. Baseline was taken from Bangladesh Bureau of
+ (Disaggregated by gender)                                                          Educational Information and Statistics (BANBEIS) 2021 report and the latest
+ (Percentage)                                                                       data has been taken from BANBEIS 2022 report.
+                                           73.00                        Dec/2022                                            75.00                      Dec/2028
+         Grade 10 (of those started in
+                                           Comments on achieving targets            This indicator is on track. Baseline was taken from Bangladesh Bureau of
+         Grade 6) retention rate - Girls
+                                                                                    Educational Information and Statistics (BANBEIS) 2021 report and the latest
+         (Percentage)
+                                                                                    data has been taken from BANBEIS 2022 report.
+  Improved secondary systems and resilience
+                                                            Baseline                          Actual (Current)                            Closing Period
+                Indicator Name
+                                                    Value              Month/Year           Value                Date                  Value            Month/Year
+ Grade 6 and 8 students in targeted        0.00                        Mar/2023                                             40.00                      Dec/2028
+ institutions actively using blended
+ learning program designed for
+ learning acceleration for math or
+ Bangla (Percentage) DLI
+ Students in targeted schools              0.00                        Mar/2023                                             30.00                      Dec/2028
+ exhibiting improved climate change
+ mindsets or behaviors
+ (Percentage) DLI
+
+
+
+  7.2 Intermediate Results Indicators by Results Areas
+
+
+  Student support for improved learning, retention and resilience
+                                                            Baseline                          Actual (Current)                            Closing Period
+                Indicator Name
+                                                    Value              Month/Year           Value                Date                  Value            Month/Year
+ Secondary institutions implementing       0.00                        Mar/2023                                             7,200.00                   Dec/2028
+ formative assessments and
+
+Jan 08, 2024                                                                                                                                               Page 9 of 13
+               The World Bank                                                                                  Implementation Status & Results Report
+               Learning Acceleration in Secondary Education Operation (P178487)
+
+
+ remediation (designed for learning
+ acceleration) among Grade 6 and 8
+ students for math and Bangla
+ (Number)
+ Secondary institutions implementing       0.00                        Mar/2023                                 7,200.00                   Dec/2028
+ reading program (designed for
+ learning acceleration) (Number)
+ Disbursement of stipends to students      5,700,000.00                Nov/2022                                 8,000,000.00               Dec/2028
+ to prevent drop out and promote
+ cycle completion at each level of
+ secondary (junior secondary,
+ secondary and higher secondary)
+ (Number)
+ Students in targeted schools that can     0.00                         Jan/2023                                30.00                      Dec/2028
+ identify at least one mechanism for
+ reporting SRGBV (as per new
+ guidelines, gender disaggregated)
+ (Percentage)
+ Eligible grievance cases reported to      0.00                         Feb/2023                                50.00                      Dec/2028
+ SHPCs in targeted institutions
+ handled according to protocol
+ (Percentage)
+ Institutions showing improved             0.00                         Feb/2023                                600.00                     Dec/2028
+ climate resilience as a result of
+ Program support (Number)
+ Improved teacher competency
+                                                            Baseline                 Actual (Current)                         Closing Period
+                Indicator Name
+                                                    Value              Month/Year   Value               Date               Value            Month/Year
+ Grade 6 and 8 teachers trained in one     0.00                         Jan/2023                                15,000.00                  Dec/2028
+ of the following domains: content &
+
+Jan 08, 2024                                                                                                                                  Page 10 of 13
+               The World Bank                                                                                              Implementation Status & Results Report
+               Learning Acceleration in Secondary Education Operation (P178487)
+
+
+ pedagogy for math and Bangla,
+ pedagogy for blended learning,
+ climate change mitigation and
+ adaptation (40 percent female)
+ (Number)
+ Improved teacher competency           0.00                    Dec/2022                                                     15.00                       Dec/2028
+ among Grade 6 and 8 teachers          Comments on achieving targets                Teacher pre-training evaluation and baseline to be established in year 1
+ (teachers meeting competency                                                       (2024).
+ standards in content and
+ instructional ability) (Percentage)
+ Improved secondary systems and resilience
+                                                            Baseline                          Actual (Current)                            Closing Period
+                Indicator Name
+                                                    Value              Month/Year           Value                Date                  Value            Month/Year
+ Secondary teachers completed              0.00                         Dec/2022                                            1,000.00                    Dec/2028
+ vocational training (Number)
+ Secondary institutions implementing       0.00                         Jan/2023                                            2,100.00                    Dec/2028
+ blended learning for math and Bangla
+ in Grades 6 and 8 (Number)
+
+
+
+  7.3 Disbursement Linked Indicators (DLI)
+
+
+                                                                                                        Actual (Current)
+                        PBC Name                                   Baseline                                                                     Closing Period
+                                                                                                    Value                    Date
+                                                                                                                                           DLR 1.5: Share of trained
+ 1 : Improved teaching
+                                                                                                                                           teachers achieving
+ ability of targeted teachers      Value                N/A
+                                                                                                                                           competency in trained
+ (Text)
+                                                                                                                                           domains (core subject
+
+Jan 08, 2024                                                                                                                                               Page 11 of 13
+               The World Bank                                                            Implementation Status & Results Report
+               Learning Acceleration in Secondary Education Operation (P178487)
+
+
+                                                                                                       mastery, pedagogy for
+                                                                                                       blended learning,
+                                                                                                       climate change
+                                                                                                       mitigation and adaption)
+                                                                                                       increases by 15 percent.
+
+                                  Allocated Amount      0.00                      0.00                 10,000,000.00
+
+                                                                                                       DLR 2.7: Share of
+                                                                                                       students achieving grade
+                                                                                                       level competency in
+                                                                                                       grade 8 is at: (i) 65
+ 2 : Improved learning                                                                                 percent for Math and (ii)
+ outcomes through learning        Value                 N/A
+                                                                                                       90 percent for Bangla, as
+ recovery and acceleration                                                                             per the latest National
+ measures (Text)                                                                                       Assessment of
+                                                                                                       Secondary Students
+                                                                                                       (NASS).
+
+                                  Allocated Amount      0.00                      0.00                 10,000,000.00
+
+                                                                                                       DLR 3.5: At least 40
+ 3 : Blended learning for                                                                              percent of students in
+ math, Bangla, and climate                                                                             targeted schools
+                                  Value                 0
+ education for improved                                                                                (cumulative) are actively
+ learning and access                                                                                   using blended learning
+ implemented (Text)                                                                                    for English and/or math.
+
+                                  Allocated Amount      0.00                      0.00                 10,000,000.00
+
+                                                                                                       DLR 4.4: (i) Grade 10 (of
+ 4 : Improved students’
+                                  Value                 N/A                                            those started in grade 6)
+ access to secondary
+                                                                                                       retention rate improved
+
+
+Jan 08, 2024                                                                                                           Page 12 of 13
+               The World Bank                                                            Implementation Status & Results Report
+               Learning Acceleration in Secondary Education Operation (P178487)
+
+
+ education and increased                                                                               by 4 percent; and (ii)
+ retention (Text)                                                                                      grade 10 (of those
+                                                                                                       started in grade 6)
+                                                                                                       retention rate for girls
+                                                                                                       improved by 3 percent.
+
+                                  Allocated Amount      0.00                      0.00                 10,000,000.00
+
+ 5 : National Assessment          Value                 N/A                                            N/A
+ implemented to improve
+ teaching-learning (Text)         Allocated Amount      0.00                      0.00                 0.00
+
+ 6 : Improved school              Value                 N/A                                            N/A
+ management for learning
+ and resilience (Text)            Allocated Amount      0.00                      0.00                 0.00
+
+                                                                                                       DLR 7.5: Share of
+                                                                                                       students in targeted
+                                                                                                       schools for specific year
+ 7 : Skilling secondary                                                                                exhibiting positive
+ students for climate change      Value                 N/A                                            climate change mindsets
+ mitigation and adaptation                                                                             or behaviors increases
+ (Text)                                                                                                by 30 percent over
+                                                                                                       baseline (to be
+                                                                                                       determined).
+
+                                  Allocated Amount      0.00                      0.00                 8,000,000.00
+
+ 8 : Enabling environment         Value                 N/A                                            N/A
+ for vocational training for
+ secondary teachers created       Allocated Amount      0.00                      0.00                 0.00
+ (Text)
+
+
+
+Jan 08, 2024                                                                                                           Page 13 of 13
+

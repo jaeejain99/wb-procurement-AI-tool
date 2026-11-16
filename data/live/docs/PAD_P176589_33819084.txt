@@ -1,0 +1,5371 @@
+                                         FOR OFFICIAL USE ONLY
+
+                                                                                    Report No: PAD4774
+
+
+
+                             INTERNATIONAL DEVELOPMENT ASSOCIATION
+
+
+
+                                    PROJECT APPRAISAL DOCUMENT
+
+                                                ON
+
+
+
+                                           A PROPOSED CREDIT
+
+
+
+                                 IN THE AMOUNT OF SDR 59.6 MILLION
+
+                                     (US$80 MILLION EQUIVALENT)
+
+
+
+                                                    TO
+
+
+
+                                                  NEPAL
+
+
+
+                                                 FOR THE
+
+
+
+              WATER SECTOR GOVERNANCE AND INFRASTRUCTURE SUPPORT PROJECT
+
+
+
+                                              MAY 10, 2022
+
+
+
+
+
+
+
+
+
+Water Global Practice
+
+South Asia Region
+
+
+
+
+
+
+
+
+
+   This document is being made publicly available prior to Board consideration. This does not imply a
+
+   presumed outcome. This document may be updated following Board consideration and the updated
+
+   document will be made publicly available in accordance with the Bank’s Policy: Access to Information.
+
+                           CURRENCY EQUIVALENTS
+
+
+
+                    (Exchange Rate Effective April 30, 2022)
+
+
+
+                     Currency Unit = Nepalese Rupee (NPR)
+
+                       NPR 122.25 = US$1
+
+                       US$ 1.3443 = SDR 1
+
+
+
+                                  FISCAL YEAR
+
+                                July 16 – July 15
+
+
+
+                       ABBREVIATIONS AND ACRONYMS
+
+
+
+ADB        Asian Development Bank
+
+AWPB       Annual Work Plan and Budget
+
+BCM        Billion Cubic Meters
+
+CAPEX      Capital Expenditure
+
+CDD        Community-Driven Development
+
+COVID-19   Coronavirus Disease 2019
+
+CPF        Country Partnership Framework
+
+CSP        City Sanitation Plan
+
+CWIS       City-Wide Inclusive Sanitation
+
+DPR        Detailed Project Report
+
+DTCO       District Treasury Controller Office
+
+DWSSM      Department of Water Supply and Sewerage Management
+
+E&S        Environmental and Social
+
+ESIA       Environmental and Social Impact Assessment
+
+ESMF       Environmental and Social Management Framework
+
+ESMP       Environmental and Social Management Plan
+
+ESS        Environmental and Social Standard
+
+FCNA       Federalism Capacity Needs Assessment
+
+FM         Financial Management
+
+FSM        Fecal Sludge Management
+
+FSTP       Fecal Sludge Treatment Plant
+
+GAC        Grant Access Condition
+
+GBV        Gender-Based Violence
+
+GDP        Gross Domestic Product
+
+GESI       Gender and Social Inclusion
+
+GHG        Greenhouse Gas
+
+GoN        Government of Nepal
+
+GP         Global Practice
+
+GRID       Green, Resilient, and Inclusive Development
+
+HDI        Human Development Index
+
+IDA        International Development Association
+
+IEC      Information, Education, and Communication
+
+IPF      Investment Project Financing
+
+IPFMRP   Integrated Public Financial Management Reform Project
+
+IRR      Internal Rate of Return
+
+IUFR     Interim Unaudited Financial Report
+
+IWRM     Integrated Water Resources Management
+
+JMP      Joint Monitoring Program
+
+KPI      Key Performance Indicator
+
+KUKL     Kathmandu Upatyaka Khanepani Limited
+
+LG       Local Government
+
+LGOA     Local Government Operation Act 2017
+
+LMBIS    Line Ministry Budgetary Information System
+
+LMP      Labor Management Procedures
+
+M&E      Monitoring and Evaluation
+
+MFD      Mobilizing Finance for Development
+
+MHM      Menstrual Health Management
+
+MICS     Multiple Indicator Cluster Survey
+
+MIS      Management Information System
+
+MoF      Ministry of Finance
+
+MoFAGA   Ministry of Federal Affairs and General Administration
+
+MoWS     Ministry of Water Supply
+
+MST      Municipality Support Team
+
+MTR      Midterm Review
+
+MWASH    Municipality Water, Sanitation, and Hygiene
+
+NPV      Net Present Value
+
+NRW      Non-Revenue Water
+
+NUGIP    Nepal Urban Governance and Infrastructure Project
+
+NWASH    National Water, Sanitation, and Hygiene
+
+O&M      Operation and Maintenance
+
+OAG      Office of the Auditor General
+
+OPEX     Operational Expenditure
+
+PDO      Project Development Objective
+
+PFM      Public Finance Management
+
+PIM      Project Implementation Manual
+
+PIU      Project Implementation Unit
+
+PLGs     Provincial and Local Governments
+
+PLGSP    Provincial and Local Government Support Program
+
+PMoPID   Provincial Ministry of Physical Infrastructure Development
+
+PMU      Project Management Unit
+
+PPMO     Public Procurement and Monitoring Office
+
+PPP      Public-Private Partnership
+
+PPSC     Provincial Public Service Commission
+
+PPSD     Project Procurement Strategy for Development
+
+PPU      Project Preparation Unit
+
+PSC      Project Steering Committee
+
+PSP      Private Sector Participation
+
+PST          Project Support Team
+
+RAP          Resettlement Action Plan
+
+RPF          Resettlement Policy Framework
+
+SDGs         Sustainable Development Goals
+
+SEA          Sexual Exploitation and Abuse
+
+SEP          Stakeholder Engagement Plan
+
+SH           Sexual Harassment
+
+SOE          Statement of Expenditures
+
+SVWUC        Surkhet Valley Water Users Committee
+
+STEM         Science, Technology, Engineering, and Management
+
+STEP         Systematic Tracking of Exchanges in Procurement
+
+SuTRA        Subnational Treasury Regulatory Application
+
+UoF          Utility of the Future
+
+USAID        United States Agency for International Development
+
+UTF          Utility Turnaround Framework
+
+WASGISP      Water Sector Governance and Infrastructure Support Project
+
+WASH         Water, Sanitation, and Hygiene
+
+WSS          Water Supply and Sanitation
+
+WSUC         Water Supply and Sanitation User Committee
+
+WSUG         Water Supply and Sanitation User Group
+
+
+
+
+
+
+
+
+
+          Regional Vice President: Hartwig Schafer
+
+                Country Director: Faris H. Hadad-Zervos
+
+               Regional Director: John A. Roome
+
+               Practice Manager: Josses Mugabi
+
+               Task Team Leader: Feriha Mukuve Mugisha
+
+The World Bank
+
+Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+
+
+
+
+                                                         TABLE OF CONTENTS
+
+
+
+  DATASHEET ............................................................................................................................ i
+
+  I.    STRATEGIC CONTEXT ...................................................................................................... 1
+
+        A. Country Context................................................................................................................................ 1
+
+        B. Sectoral and Institutional Context .................................................................................................... 2
+
+        C. Relevance to Higher Level Objectives............................................................................................... 6
+
+  II.   PROJECT DESCRIPTION.................................................................................................... 6
+
+        A. Project Development Objective ....................................................................................................... 6
+
+        B. Project Components ......................................................................................................................... 7
+
+        C. Project Beneficiaries ....................................................................................................................... 13
+
+        D. Results Chain .................................................................................................................................. 13
+
+        E. Rationale for World Bank Involvement and Role of Partners......................................................... 14
+
+        F. Lessons Learned and Reflected in Project Design........................................................................... 15
+
+  III. IMPLEMENTATION ARRANGEMENTS ............................................................................ 16
+
+        A. Institutional and Implementation Arrangements .......................................................................... 16
+
+        B. Results Monitoring and Evaluation Arrangements......................................................................... 16
+
+        C. Sustainability................................................................................................................................... 16
+
+  IV. PROJECT APPRAISAL SUMMARY ................................................................................... 17
+
+        A. Technical, Economic and Financial Analysis ................................................................................... 17
+
+        B. Fiduciary.......................................................................................................................................... 18
+
+        C. Legal Operational Policies ............................................................................................................... 19
+
+        D. Environmental and Social ............................................................................................................... 20
+
+  V. GRIEVANCE REDRESS SERVICES ..................................................................................... 22
+
+  VI. KEY RISKS ..................................................................................................................... 22
+
+  VII. RESULTS FRAMEWORK AND MONITORING ................................................................... 25
+
+        ANNEX 1: Implementation Arrangements and Support Plan .......................................... 33
+
+     The World Bank
+
+     Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+
+
+
+
+
+
+DATASHEET
+
+
+
+BASIC INFORMATION
+
+BASIC_INFO_TABLE
+
+Country(ies)                   Project Name
+
+
+
+Nepal                          Water Sector Governance and Infrastructure Support Project
+
+
+
+Project ID                     Financing Instrument       Environmental and Social Risk Classification
+
+
+
+                               Investment Project
+
+P176589                                                   Substantial
+
+                               Financing
+
+
+
+
+
+Financing & Implementation Modalities
+
+
+
+[ ] Multiphase Programmatic Approach (MPA)                   [✓] Contingent Emergency Response Component (CERC)
+
+[ ] Series of Projects (SOP)                                 [ ] Fragile State(s)
+
+
+
+[ ] Performance-Based Conditions (PBCs)                      [ ] Small State(s)
+
+[ ] Financial Intermediaries (FI)                            [ ] Fragile within a non-fragile Country
+
+
+
+[ ] Project-Based Guarantee                                  [ ] Conflict
+
+
+
+[ ] Deferred Drawdown                                        [ ] Responding to Natural or Man-made Disaster
+
+[ ] Alternate Procurement Arrangements (APA)                 [ ] Hands-on Enhanced Implementation Support (HEIS)
+
+
+
+
+
+
+
+Expected Approval Date           Expected Closing Date
+
+
+
+02-Jun-2022                      15-Jul-2028
+
+
+
+Bank/IFC Collaboration
+
+
+
+No
+
+
+
+Proposed Development Objective(s)
+
+
+
+The Project Development Objective (PDO) is to strengthen sector institutional capacity for service delivery under
+
+federalism and increase access to improved water supply and sanitation services in the participating municipalities.
+
+
+
+Components
+
+
+
+Component Name                                                                                   Cost (US$, millions)
+
+
+
+
+
+
+
+                                                             i
+
+   The World Bank
+
+   Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+
+
+
+
+Component 1: Strengthening Sector Governance and Institutional Capacity, Project
+
+                                                                                                  17.60
+
+Management
+
+Component 2: Increasing Access to Climate resilient, Improved and Safe Water Supply
+
+                                                                                                  77.40
+
+and Sanitation
+
+Component 3: Reducing Climate Hazards impacting WSS Infrastructure through IWRM
+
+                                                                                                   5.00
+
+and Watershed Management
+
+Component 4: Contingency Emergency Response                                                        0.00
+
+
+
+ Organizations
+
+
+
+Borrower:                                Nepal
+
+Implementing Agency:                     Ministry of Water Supply
+
+                                         Department of Water Supply and Sewerage Management
+
+
+
+ PROJECT FINANCING DATA (US$, Millions)
+
+
+
+SUMMARY                 -NewFin1
+
+
+
+
+
+
+
+
+
+Total Project Cost                                                                                  100.00
+
+Total Financing                                                                                     100.00
+
+
+
+                 of which IBRD/IDA                                                                   80.00
+
+
+
+Financing Gap                                                                                         0.00
+
+
+
+DETAILS   -NewFinEnh1
+
+
+
+
+
+
+
+
+
+World Bank Group Financing
+
+
+
+   International Development Association (IDA)                                                       80.00
+
+        IDA Credit                                                                                   80.00
+
+
+
+Non-World Bank Group Financing
+
+
+
+   Counterpart Funding                                                                               20.00
+
+        Borrower/Recipient                                                                           20.00
+
+
+
+
+
+IDA Resources (in US$, Millions)
+
+
+
+                                     Credit Amount     Grant Amount     Guarantee Amount      Total Amount
+
+Nepal                                         80.00              0.00                 0.00           80.00
+
+
+
+
+
+
+
+                                                            ii
+
+   The World Bank
+
+   Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+
+
+
+
+   National PBA                             80.00                 0.00                     0.00                80.00
+
+
+
+ Total                                      80.00                 0.00                     0.00                80.00
+
+
+
+ Expected Disbursements (in US$, Millions)
+
+
+
+ WB Fiscal Year                          2022       2023         2024    2025      2026      2027      2028    2029
+
+
+
+ Annual                                     0.00    1.34         6.55    10.01     14.48     14.67     17.09   15.86
+
+ Cumulative                                 0.00    1.34         7.89    17.90     32.38     47.05     64.14   80.00
+
+
+
+
+
+
+
+ INSTITUTIONAL DATA
+
+
+
+ Practice Area (Lead)                                Contributing Practice Areas
+
+ Water
+
+
+
+ Climate Change and Disaster Screening
+
+ This operation has been screened for short and long-term climate change and disaster risks
+
+
+
+
+
+ SYSTEMATIC OPERATIONS RISK-RATING TOOL (SORT)
+
+
+
+
+
+Risk Category                                                                          Rating
+
+
+
+1. Political and Governance                                                            ⚫ Substantial
+
+
+
+2. Macroeconomic                                                                       ⚫ Substantial
+
+
+
+3. Sector Strategies and Policies                                                      ⚫ Substantial
+
+
+
+4. Technical Design of Project or Program                                              ⚫ Moderate
+
+
+
+5. Institutional Capacity for Implementation and Sustainability                        ⚫ Substantial
+
+
+
+6. Fiduciary                                                                           ⚫ Substantial
+
+
+
+7. Environment and Social                                                              ⚫ Substantial
+
+
+
+8. Stakeholders                                                                        ⚫ Moderate
+
+
+
+9. Other                                                                               ⚫ Substantial
+
+
+
+10. Overall                                                                            ⚫ Substantial
+
+
+
+
+
+
+
+
+
+                                                           iii
+
+   The World Bank
+
+   Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+
+
+
+
+ COMPLIANCE
+
+
+
+Policy
+
+Does the project depart from the CPF in content or in other significant respects?
+
+[ ] Yes   [✓] No
+
+
+
+Does the project require any waivers of Bank policies?
+
+[ ] Yes   [✓] No
+
+
+
+
+
+Environmental and Social Standards Relevance Given its Context at the Time of Appraisal
+
+
+
+E & S Standards                                                                     Relevance
+
+
+
+Assessment and Management of Environmental and Social Risks and Impacts             Relevant
+
+
+
+Stakeholder Engagement and Information Disclosure                                   Relevant
+
+
+
+Labor and Working Conditions                                                        Relevant
+
+
+
+Resource Efficiency and Pollution Prevention and Management                         Relevant
+
+
+
+Community Health and Safety                                                         Relevant
+
+
+
+Land Acquisition, Restrictions on Land Use and Involuntary Resettlement             Relevant
+
+
+
+Biodiversity Conservation and Sustainable Management of Living Natural              Relevant
+
+Resources
+
+Indigenous Peoples/Sub-Saharan African Historically Underserved Traditional         Relevant
+
+Local Communities
+
+Cultural Heritage                                                                   Relevant
+
+
+
+Financial Intermediaries                                                            Not Currently Relevant
+
+
+
+
+
+NOTE: For further information regarding the World Bank’s due diligence assessment of the Project’s potential
+
+environmental and social risks and impacts, please refer to the Project’s Appraisal Environmental and Social
+
+Review Summary (ESRS).
+
+
+
+Legal Covenants
+
+
+
+Sections and Description
+
+
+
+
+
+
+
+                                                           iv
+
+   The World Bank
+
+   Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+
+
+
+
+1.     Project Management Unit: FA, Section I.A.1 of Schedule 2: Within one (1) month from the Effective Date, the
+
+Recipient shall establish a Project Management Unit under the DWSSM. The Project Management Unit shall,
+
+throughout the period of implementation of the Project, comprise of a dedicated team led by Project director and
+
+staffed with specialists in adequate numbers and under terms of reference satisfactory to the Association.
+
+
+
+Sections and Description
+
+2.      Federal Project Steering Committee: FA, Section I.A.2(a) of Schedule 2: The Recipient shall, through the
+
+MoWS, ensure the establishment of a Federal Project Steering Committee, no later than six (6) months from
+
+Effective Date, comprised of officials of various government entities, in adequate numbers and under terms of
+
+reference satisfactory to the Association.
+
+
+
+Sections and Description
+
+3.      Provincial Project Steering Committees: FA, Section I.A.2(b) of Schedule 2: The Recipient shall, through the
+
+MoWS, ensure the establishment of Provincial Project Steering Committees, no later than nine (9) months from the
+
+Effective Date, comprised of officials of various government entities, in adequate numbers and under terms of
+
+reference satisfactory to the Association.
+
+
+
+Sections and Description
+
+4.      Project Implementation Units: FA, Section I.A.2(c) of Schedule 2: The Recipient shall, through the MoWS,
+
+ensure within six (6) months of the Effective Date, in each of the Participating Municipalities the establishment of a
+
+Project Implementation Unit, comprised of specialists, in adequate numbers and under terms of reference
+
+satisfactory to the Association.
+
+
+
+Sections and Description
+
+5.      Project Implementation Manual: FA, Section I.B.1 of Schedule 2: No later than ninety (90) days from the
+
+Effective Date, the Recipient shall adopt a Project Implementation Manual, in form and substance satisfactory to
+
+the Association.
+
+
+
+
+
+Conditions
+
+Type                   Financing source          Description
+
+Disbursement           IBRD/IDA                  No withdrawal shall be made for Emergency Expenditures under
+
+                                                 Category (6), unless and until all of the following conditions have
+
+                                                 been met in respect of said expenditures:
+
+
+
+                                                 (i)      (A) the Recipient has determined that an Eligible Crisis or
+
+                                                 Emergency has occurred, and has furnished to the Association a
+
+                                                 request to withdraw Financing amounts under Category (6); and (B)
+
+                                                 the Association has agreed with such determination, accepted said
+
+                                                 request and notified the Recipient thereof; and
+
+
+
+                                                 (ii)     the Recipient has adopted the CERC Manual and
+
+
+
+
+
+
+
+                                                            v
+
+  The World Bank
+
+  Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+
+
+
+
+                                             Emergency Action Plan, in form and substance acceptable to the
+
+                                             Association.
+
+Type                 Financing source        Description
+
+Disbursement         IBRD/IDA                No withdrawal shall be made under Categories (3)(a) (Transfer to
+
+                                             the Participating Municipalities for Training and Incremental
+
+                                             Operating Costs under Parts 1 and 2 of the Project) and (4)
+
+                                             (Transfer to the Participating Municipalities for works under Part 2
+
+                                             of the Project) until and unless regulations satisfactory to the
+
+                                             Association have been furnished to the Association showing that
+
+                                             the Recipient has implemented reporting procedures to ensure
+
+                                             appropriate and timely reporting by the Participating Municipalities
+
+                                             to the Government of Nepal on the use of the proceeds of the
+
+                                             Financing for their intended purposes.
+
+
+
+
+
+
+
+
+
+                                                       vi
+
+The World Bank
+
+Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+
+
+
+
+       I. STRATEGIC CONTEXT
+
+
+
+       A. Country Context
+
+   1.       Nepal is a landlocked country of about 29 million people. Most people (80 percent) live in rural
+
+   areas, although the urbanization rate (about six percent) is higher than the regional average. The poverty
+
+   headcount (at the international poverty line of US$1.90 per day) was 17.4 percent in 2019, down from
+
+   30.1 percent in 2014.1 The country’s Human Development Index (HDI) is 0.602, which ranks 142 in the
+
+   world for reporting countries. The inequality-adjusted HDI is 0.446, and life expectancy is 70.8 years.2
+
+
+
+   2.        Nepal’s political institutions are still in transition, following the 2015 constitution. Nepal
+
+   transitioned from a monarchy to a federal system of government in 2015, bringing a shared sense of hope
+
+   and optimism after years of political instability. Two years later, in 2017, Nepal held successful elections
+
+   for all three tiers (local, province, and federal) of the new state architecture defined in the 2015
+
+   constitution. At the subnational level, funds, functions, and functionaries hitherto managed by the central,
+
+   district, and village authorities are moving to the seven new provinces and 753 local governments (LGs),3
+
+   while the national level is shifting focus to policy making and oversight. This state restructuring is likely to
+
+   take time before becoming fully operational because most of the required legislation and administrative
+
+   procedures are not in place yet. A new government took over on July 13, 2021, following about two years
+
+   of political uncertainties and the reinstatement of parliament twice, on February 23, 2021, and July 12,
+
+   2021, following its dissolution. The current coalition government of four major political parties is expected
+
+   to remain intact until federal and provincial elections scheduled in Fiscal Year (FY) 2023. A new and full
+
+   cabinet took office on October 8, 2021, and the country will get its next set of LG representatives following
+
+   local polls announced for May 2022. With the expected change in the federal, provincial, and local
+
+   governments this year, development activities are expected to slow while new officials are assuming their
+
+   duties. Institutional capacity at the local level is nascent and evolving. Key staff at decision levels are
+
+   mostly deputed from the Government of Nepal (GoN), and many federal agencies maintain a presence at
+
+   the provincial levels. Some provinces have created Provincial Public Service Commissions (PPSCs) to
+
+   recruit the staff capacity needed for LGs to discharge their mandates. However, the Federal Civil Service
+
+   Act, which empowers PPSCs to recruit civil servants for LGs, has not yet been adopted.4
+
+
+
+   3.      Despite these challenges, Nepal’s economy demonstrated impressive growth and resilience
+
+   over the past decade when faced with a wide variety of economic and climate shocks. During FY2012–
+
+   19, Nepal’s economy performed reasonably well despite being hit by three large exogenous shocks: the
+
+   2015 earthquake, 2016 trade disruptions, and 2017 floods. A fourth shock, the COVID-19 pandemic,
+
+   derailed the strong growth trajectory established over the previous three years. Economic growth
+
+   contracted by 2.1 percent in FY20, the first contraction since FY1983, as a nationwide lockdown from
+
+   March to July 2020 imposed to curtail the spread of the virus significantly affected all sectors of the
+
+   economy. The economy is estimated to have grown by 1.8 percent in FY21 even though renewed
+
+   containment measures were imposed in the fourth quarter of the fiscal year. Agriculture, contributing
+
+   over one-fifth of nominal gross domestic product (GDP), has been a bright spot, registering 2.2 and 2.7
+
+   percent growth in FY20 and FY21, respectively, on the back of favorable summer monsoons. After
+
+
+
+
+
+   1 Nepal Planning Commission. 2021. Multidimensional Poverty Index (MPI)-2021 Report. Kathmandu, Nepal.
+
+   2 http://www.hdr.undp.org/en/countries/profiles/NPL#.
+
+   3 There are 6 metropolitan cities, 11 sub-metropolitan cities, 276 municipalities, and 460 rural municipalities (‘palikas’).
+
+   4 World Bank. 2019. Nepal Federal Capacity Needs Assessment (FCNA) Report.
+
+
+
+
+
+
+
+
+
+                                                                     1
+
+The World Bank
+
+Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+
+
+
+
+   contracting during FY20, the industry and service sectors are estimated to have grown by only 0.9 and 1.6
+
+   percent in FY21, respectively. The World Bank’s 2020 South Asia Region COVID-19 phone monitoring
+
+   survey shows that 45 percent of those who recovered from a job loss have switched sectors and taken
+
+   jobs with lower earnings and skill requirements, indicating that many households have been pushed to
+
+   marginally above or below the poverty line.
+
+
+
+   4.       The COVID-19 pandemic derailed the economy, but partial recovery is under way. The fiscal
+
+   deficit narrowed to 4.6 percent of GDP in FY21. Economic growth is projected to recover gradually to 4.1
+
+   percent by FY23. The baseline forecast projects a gradual medium-term recovery, with growth
+
+   accelerating from 3.7 percent in FY22 to 5.8 percent by FY24. The baseline assumes (a) no new nationwide
+
+   strict containment measures are imposed; (b) a near complete vaccination of the eligible population by
+
+   the end of FY22 (81.7 percent of the population ages 18 and higher have received full doses of vaccine by
+
+   March 25, 2022); and (c) a gradual increase in international migration and tourist arrivals, reaching pre-
+
+   pandemic levels by FY24. Vaccination deployment is expected to unleash pent-up demand for most
+
+   service subsectors. Industry sector growth is projected to be supported by increased hydropower
+
+   production including from the recently completed Upper Tamakoshi plant. However, agricultural growth
+
+   is projected to decelerate in FY22, reflecting a decline in paddy production and the rise of global fertilizer
+
+   prices earlier in the fiscal year. Increasing fuel prices are also expected to weigh on aggregate demand.
+
+
+
+   5.       The war in Ukraine is expected to impact Nepal’s economy through commodity prices . Nepal’s
+
+   trade with Russia and Ukraine is limited to less than two percent of total imports―including mostly
+
+   sunflower oil, dried peas, and colza seeds―but the share of fuel, agriculture, metals, and minerals in total
+
+   imports is large. As such, Nepal is less likely to face an immediate negative supply shock because of the
+
+   direct trade linkage. Instead, higher global commodity prices are expected to increase the import bill
+
+   indirectly. Services exports are expected to be less affected given the relatively low share of tourist arrivals
+
+   (less than three percent) from these two countries.
+
+
+
+   6.       Nepal is highly vulnerable to climate change. The country’s mean annual temperature is
+
+   projected to increase between 1.2°C and 4.2°C by the 2080s under the highest emission scenario
+
+   compared to the baseline period 1986–2005.5 As total annual precipitation is predicted to fall within a
+
+   shorter time frame and be more erratic, the dry seasons will be longer, and the risk of flooding due to
+
+   higher monsoon precipitation is projected to increase by as much as 14–40 percent by 2030.6 Mountains
+
+   are warming faster than the plains, triggering the melting of ice and permafrost and increasing the risk of
+
+   glacier lake outburst floods. Changing climate has exacerbated more frequent and intense disaster events
+
+   in recent years (drought, floods, landslides, disease outbreaks, and heatwaves), leading to a cascading
+
+   effect on Nepal’s overall economic growth and development.7
+
+
+
+       B. Sectoral and Institutional Context
+
+   7.       Water plays a pivotal role in Nepal’s economy but is underutilized and affected by high climate
+
+   variability. Over 80 percent of the monsoon-driven rainfall occurs in four months, causing problems of
+
+   excess in the wet season and scarcity in the dry season. Nepal uses only about 15 billion cubic meters
+
+   (BCM) out of 225 BCM of surface water available annually. Around 96 percent of this 15 BCM is used for
+
+
+
+
+
+   5 The World Bank Group, and the Asian Development Bank. 2021.“Climate Risk Country Profile: Nepal.”
+
+   6 World Bank. 2018. Nepal - Systematic Country Diagnostic: A New Approach for a Federal Nepal. Washington, DC: World Bank.
+
+   7 World Bank. 2011. “Climate Risk and Adaptation Country Profile for Nepal.” Washington, DC: World Bank.
+
+
+
+
+
+
+
+
+
+                                                               2
+
+The World Bank
+
+Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+
+
+
+
+   agriculture, about four percent for domestic purposes, and less than one percent for industrial purposes.
+
+   Therefore, despite being rich in water resources, water security in Nepal is one of the lowest in all of Asia.8
+
+   Nepal has inadequate storage compared to annual water demand.9 Therefore, the seasonal variability in
+
+   precipitation dictates the rhythm of water-dependent sectors: agriculture, energy, and drinking water
+
+   supply. This variability translates to lower agricultural output, high energy imports, and high coping costs
+
+   due to domestic water scarcity in the dry months. The lack of year-round water availability for water
+
+   supply and sanitation (WSS) has high economic costs. In 2015, the forgone output due to inadequate WSS
+
+   was estimated at US$76.8 million.10
+
+
+
+   8.       Evidence on the vulnerability of the WSS sector in Nepal to climate is well documented. A 2017
+
+   survey of 41 springs in midwestern Nepal found that 73.2 percent had decreased flow and 12.2 percent
+
+   had dried up.11 The decline in yield has forced communities to use distant alternative sources and even
+
+   use less water than the minimum 50 liters per capita per day (lcpd) for basic needs or the 135 lcpd that
+
+   the GoN aims to provide. In some of the country’s largest cities, water is supplied 3–6 days per week and
+
+   usually for only a few hours on those days.12 Climate change will worsen the water situation as Himalayan
+
+   glaciers melt faster than expected and water springs dry up. As annual and seasonal maximum
+
+   temperatures have risen since 1971, along with higher variability in precipitation, there is also evidence
+
+   that floods and drought frequency in Nepal has increased since 1981,13 with devastating impacts on water
+
+   infrastructure. For instance, the Melamchi water supply project suffered critical damage to its headworks
+
+   due to floods and landslides triggered by extreme precipitation in June 2021, cutting off the water supply
+
+   to the capital, Kathmandu, that had just begun to emerge from a decade of debilitating water shortage.14
+
+
+
+   9.       Access to WSS services in Nepal has improved over time, but significant challenges remain for
+
+   the Government to achieve the United Nations’ Sustainable Development Goal (SDG) 6 on clean water
+
+   and sanitation. According to the Joint Monitoring Program (JMP) database, the country achieved the SDG
+
+   6 target for open defecation free status but is behind the target for access to safely managed water supply
+
+   (Actual 2021 = 21 percent, Target 2030 = 50 percent).15 These numbers are confirmed by the recent
+
+   Multiple Indicator Cluster Surveys by the Nepal Planning Commission (MICS 2019), showing that nationally
+
+   only 19 percent of households have access to safely managed drinking water, with urban households
+
+   receiving higher proportions of access (22 percent) compared to rural households (13 percent). The draft
+
+   Water, Sanitation, and Hygiene (WASH) Sector Development Plan prepared by the Ministry of Water
+
+   Supply (MoWS) in May 2019 estimates that about 16 million lack safely managed sanitation facilities.16
+
+
+
+
+
+
+
+
+
+   8 ADB. 2020. Asian Water Development Outlook 2020: Advancing Water Security across Asia and the Pacific (adb.org).
+
+   9 ICIMOD. 2009. “Water Storage: A Strategy for Climate Change Adaptation in the Himalayas.” SMD, No. 56.
+
+   10 World Bank. 2019. Nepal Environment Sector Diagnostic: Path to Sustainable Growth Under Federalism (A Country
+
+
+
+   Environmental Analysis). Washington, DC: World Bank.
+
+   11 Poudel, D. D., and T. W. Duex. 2017. “Vanishing Springs in Nepalese Mountains: Assessment of Water Sources, Farmers’
+
+
+
+   Perceptions, and Climate Change Adaptation.” Mountain Research and Development 37 (1): 35–46.
+
+   12 Udmale, P., et al. 2016. “The Status of Domestic Water Demand in the Kathmandu Valley, Nepal.” Water 8 (5): 196.
+
+   13 See P176589 Project Climate and Disaster Screening Report for further details
+
+   14 Maharjan, S. B., et al. 2021. The Melamchi Flood Disaster: Cascading Hazard and the Need for Multihazard Risk Management.
+
+
+
+   ICIMOD: Kathmandu.
+
+   15 15th Periodic plan of GoN (2019/020 to 023/24), pp. 252–258, pp. 586–587. Safely managed water supply refers to drinking
+
+
+
+   water from an improved water source that is accessible on premises, available when needed, and free from fecal and priority
+
+   chemical contamination. The national target is 100 percent access to safely managed water and sanitation by 2030.
+
+   16 Inadequate FSM remains a major challenge, despite Nepal being declared open defecation free according to SDG 6.2.
+
+
+
+
+
+
+
+
+
+                                                                3
+
+The World Bank
+
+Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+
+
+
+
+   10.      One of the most salient challenges in water service provision is the low functionality of the
+
+   existing infrastructure. A recent functionality study found that out of 42,039 piped water supply schemes
+
+   examined (both urban and rural) only 28 percent were described as ‘well-functioning; 38 percent did not
+
+   have year-round supply;17 and 34 percent needed major repair, rehabilitation, reconstruction, or were
+
+   non-repairable. The principal reasons for the low functionality rate include (a) inadequate revenue for
+
+   operation and maintenance (O&M); (b) water source issues, particularly due to increasing climate
+
+   variability and poor watershed management; and (c) inability of water supply and sanitation user groups
+
+   (WSUGs) to undertake major repairs. For sanitation, urban households are dependent on pits and tanks
+
+   that are cleaned infrequently, and sewerage coverage is sparse. There is no full-service chain available for
+
+   sanitation (through sewerage or fecal sludge management - FSM), and only 7 percent of the population
+
+   are connected to a private sewer network. As a result, the latest MICS survey data reveal that 85 percent
+
+   of the nation’s household tap water is contaminated with E. Coli.18 Further, a recent sample of 737,000
+
+   national groundwater sources found that close to 10 percent have arsenic concentrations above 10 µg/L
+
+   (the World Health Organization limit),19 putting an estimated 2.6 million people at risk of high arsenic
+
+   exposure.
+
+
+
+   11.      Poor water and sanitation services have a high human capital cost. In Nepal, 36 percent of
+
+   children under five years are stunted, with the lowest wealth quintile at 49 percent, compared to 17
+
+   percent among the highest wealth quintile. Evidence shows that poor sanitation contributes to low
+
+   hemoglobin and anemia in children under five and among women of childbearing age.20 One estimate
+
+   shows that approximately 3,500 Nepali children die of water-borne diseases every year.21 In addition,
+
+   women and girls bear the brunt of inadequate WASH services resulting in time poverty,22 limiting their
+
+   ability to engage in other productive activities. Lack of safe and clean toilets also increases their risk of
+
+   harassment and sexual assault. School-going girls also face barriers related to menstrual hygiene,
+
+   including socio-cultural restrictions and practical issues such as shortage of soap and water, sanitary
+
+   products, and waste disposal. These challenges hinder learning and education opportunities, undermining
+
+   lifetime human capital gains.23
+
+
+
+   12.      The institutional framework for water and sanitation is still transitioning to align with the 2015
+
+   constitution. The Local Government Operation Act 2017 (LGOA) transferred the responsibility of providing
+
+   safe and inclusive water, sanitation, irrigation, and disaster mitigation services from the GoN to LGs
+
+   (municipalities and rural palikas). However, the LGs lack the capacity to formulate policies and plans,
+
+   implement programs, and monitor and regulate water and sanitation service provision. Outside of a few
+
+   large cities that have water utilities (for example, Kathmandu and the 26 towns served by the Nepal Water
+
+   Supply Corporation), no municipalities have such utilities. Similarly, while 83 percent of LGs have a unit to
+
+   handle procurement, only 46 percent have prepared procurement regulations and few have prepared
+
+
+
+   17 GoN. 2018. “Nationwide Coverage and Functionality Status of WSS in Nepal.” National Management Information Project.
+
+   18 MICS 2019, 27–28.
+
+   19 Thakur, J. K., R. K. Thakur, A. L. Ramanathan, M. Kumar, and S. K. Singh. 2011. “Arsenic Contamination of Groundwater in
+
+
+
+   Nepal—An Overview.” Water 3 (1): 1–20.
+
+   20 Harding, K. L., V. M. Aguayo, G. Namirembe, and P. Webb. 2018. “Determinants of Anemia among Women and Children in
+
+
+
+   Nepal and Pakistan: An Analysis of Recent National Survey Data.” Maternal & Child Nutrition 14 (S4): e12478.
+
+   21 Aryal, K. K., H. D. Joshi, M. Dhimal, S. P. Singh, P. Dhakal, B. Dhimal B, et al. 2012. “Environmental Burden of Diarrheal
+
+
+
+   Diseases Due to Unsafe Water Supply and Poor Sanitation Coverage in Nepal.” J Nepal Health Res Counc 10 (21): 125–9.
+
+   22 ‘Time poverty’ refers to the lack of time women face due to the labor engaged in for household production and reproduction
+
+
+
+   (Blackden, C. M., and Q. Wodon, eds. 2006. “Gender and Time Poverty in Sub-Saharan Africa.” Washington, DC: World Bank).
+
+   23 UNICEF. 2018. “Analysis of Menstrual Hygiene Practices in Nepal, The Role of WASH in Schools Programme for Girls Education
+
+
+
+   2016.” UNICEF, Kathmandu.
+
+
+
+
+
+
+
+
+
+                                                                4
+
+The World Bank
+
+Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+
+
+
+
+   annual procurement plans.24 Internal revenue mobilization is also a significant issue, and many palikas rely
+
+   on federal funds and support from development partners (DPs) to sustain essential O&M. Under the
+
+   LGOA, municipalities are further responsible for regulating and providing technical and financial support
+
+   for Nepal’s more than 40,000 small-scale water supply and sanitation user committees (WSUCs).25 Still,
+
+   the capacity to fulfill this role is lacking. Another challenge is the limited understanding of how the
+
+   deconcentrated federal line agencies should interact with LGs to deliver services.
+
+
+
+   13.      The policy framework relating to WSS in Nepal also needs updating to reflect federalization. For
+
+   example, the National Urban Water Supply and Sanitation Sector Policy (2009), the Rural Water Supply
+
+   and Sanitation National Policy, Strategies, and the Strategic Action Plan (2004) cover definitions of service
+
+   levels, cost-sharing principles, the inclusion of women and disadvantaged groups in decision-making,
+
+   environmental protection, and roles and responsibilities of different GoN ministries and agencies, as well
+
+   as other stakeholders. All three policy documents are in force but are due for revision or replacement to
+
+   reflect the transition to federalism.26 Nepal has also drafted an ambitious Sector Development Plan (2016–
+
+   2030),27 which emphasizes institutional and legal reforms for the sector under a federal system of
+
+   government, capacity development, better sector coordination and harmonization, and higher service
+
+   levels under the Government’s ‘One House One Tap’28 policy. The plan also includes strengthened
+
+   monitoring and evaluation (M&E), stimulating of private sector participation, conservation of the
+
+   environment, enhancing of climate resilience, and long-term sustainability.
+
+
+
+   14.      Nepal has requested the World Bank’s29 assistance to help strengthen LG capacity to deliver
+
+   improved climate resilient WSS services during the transition to federalism. The project will draw on the
+
+   World Bank’s long history of engagement and extensive knowledge of Nepal’s WASH sector by (a)
+
+   strengthening institutional support mechanisms in participating LGs to enhance climate resilient service
+
+   delivery and sustainability; (b) expanding water coverage, with an emphasis on municipality-wide access;
+
+   (c) addressing wastewater management; (d) increasing stakeholder participation and accountability; and
+
+   (e) adopting an integrative water management approach. The project aligns with the National Adaptation
+
+   Plan (2021–2050) and the Second Nationally Determined Contribution through climate resilient
+
+   infrastructure. It draws on the World Bank’s related experience for energy-efficient systems for WSS
+
+   services and watershed management for water supply source conservation.
+
+
+
+   15.     The project is the culmination of over two years of dialogue between MoWS and the World
+
+   Bank under the Nepal Water Platform30 Advisory Services and Analytics (ASA) 1.0 (P168191, 2019) and
+
+   2.0 (P171575, 2020), which included analytical support on key sector issues, notably (a) an overall water
+
+
+
+
+
+
+
+
+
+   24 World Bank. 2019. Nepal Federal Capacity Needs Assessment (FCNA) Report. Washington, DC.
+
+   25 Department of Water Supply and Sewerage Management (DWSSM) estimates.
+
+   26 The recent policy documents currently being drafted include the Water Supply and Sanitation Act (2021, draft), National
+
+
+
+   Water Supply, Sanitation and Hygiene Sector Development Plan (2017–2030, draft), and National Water Supply and Sanitation
+
+   Policy (Draft). Other relevant policies in operation include the National Drinking Water Quality Standard (2005), National Water
+
+   Resources Policy (2020), National Sanitation and Hygiene Master Plan (2011), and Fifteenth 5 year Plan 2019 (2076–2081).
+
+   27 Ministry of Water Supply. 2021. Draft Water Supply, Sanitation and Hygiene Sector Development Plan. Kathmandu, Nepal.
+
+   28 Universal household access to a safe piped water source within the household premises.
+
+   29 Refers to the International Development Association
+
+   30 The Nepal Water Platform was a programmatic ASA that aimed to promote integrated, collaborative, and coordinated
+
+
+
+   management of water resources and water service delivery in Nepal.
+
+
+
+
+
+
+
+
+
+                                                                  5
+
+The World Bank
+
+Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+
+
+
+
+   sector diagnostic;31 (b) policies, institutions, and regulations related to the provision of WSS services;32 (c)
+
+   water quality management;33 and (d) urban/municipality-wide WSS service delivery.34 The platform will
+
+   continue providing a convening space for cross-sectoral coordination during project implementation and
+
+   support for critical analytics on federalism and governance reforms.
+
+
+
+   16.     The proposed project complements the World Bank’s and DPs’ ongoing engagement supporting
+
+   federalism. These initiatives include the Nepal Urban Governance and Infrastructure Project (NUGIP,
+
+   P163418), the Integrated Public Financial Management Reform Project (IPFMRP, P164783), the Federal
+
+   Engagement Framework, and the Federalism Capacity Needs Assessment (FCNA).35 It also complements
+
+   other DPs’ interventions, including the Provincial and Local Government Support Program (PLGSP).36
+
+
+
+     C. Relevance to Higher Level Objectives
+
+   17.      The proposed project aligns with the World Bank Group’s FY19–23 Country Partnership
+
+   Framework (CPF) for Nepal,37 Green Resilient Inclusive Development (GRID) Framework for Nepal, and
+
+   the Maximizing Financing for Development (MFD) approach. The proposed project would directly
+
+   contribute to CPF Focus Area 1, Objective 1.2: Strengthened institutions for public sector management
+
+   and service delivery. The project will also directly contribute to CPF Objective 3.2: Improved access to
+
+   services and support for the well-being of vulnerable groups. As the project is meant to build adaptation
+
+   capacity against climate change, it also covers CPF Objective 3.3: Increased resilience to health shocks,
+
+   natural disasters, and climate change. Under the GRID, the project supports the pillars of Sustainability,
+
+   Efficiency, Resilience, and Inclusion, adopting principles of Integrated Water Resources Management
+
+   (IWRM). Project interventions are also directly aligned with the World Bank’s Climate Change Action Plan.
+
+   The project also complements the World Bank’s proposed Nepal GRID Development Policy Credit
+
+   (P177776), which aims to support sector policy reforms that will enhance the operating environment for
+
+   the proposed project’s investments. Finally, the project aligns with the MFD approach by supporting
+
+   actions to strengthen the enabling environment, encourage private sector financing of WSS services, and
+
+   improve the financial sustainability of WSS operators in the long term.
+
+
+
+     II. PROJECT DESCRIPTION
+
+
+
+     A. Project Development Objective
+
+   18.     The Project Development Objective (PDO) is to strengthen sector institutional capacity for
+
+   service delivery under federalism and increase access to improved water supply and sanitation services in
+
+   the participating municipalities.
+
+
+
+
+
+
+
+   31 World Bank. 2021. Glaciers, Rivers and Springs: A Water Sector Diagnostic of Nepal. Washington, DC.
+
+   32 World Bank. 2020. Water and Sanitation Provision in Nepal: Considering Policies, Institutions and Regulation (PIR) in the
+
+   Context of the Federal Disposition. Washington, DC.
+
+   33 World Bank. 2020. Water Quality Management Study in Nepal under Federalism. Final Draft Report. Washington, DC.
+
+   34 World Bank. 2020. Urban Water Supply Status Assessment. Final Report. Washington, DC.
+
+   35 World Bank. 2019. Nepal Federal Capacity Needs Assessment (FCNA) Report. Washington DC: World Bank.
+
+   36 PLGSP is a multidonor-funded program with an objective to make provincial and local levels fully functional, sustainable,
+
+
+
+   inclusive, and accountable to through demand-based financial and technical assistances. The project period is from January
+
+   2019 to July 2023, and the Ministry of Federal Affairs and General Administration (MoFAGA) is the implementing agency.
+
+   37 Nepal CPF (FY19–23) Report No. 83148-NP, July 10, 2018, discussed at the Board on August 7, 2018 and extended to FY24 by
+
+
+
+   corresponding Performance Learning Review (PLR) of the CPF discussed at the Board on February 22, 2022.
+
+
+
+
+
+
+
+
+
+                                                                6
+
+The World Bank
+
+Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+
+
+
+
+   19.     PDO level indicators. Progress toward achieving the PDOs will be measured by the following key
+
+   indicators:
+
+
+
+   Strengthen sector institutional capacity for service delivery
+
+             (a)    Water, Sanitation and Hygiene (WASH) entities in Municipalities are formally established
+
+                    and operating under the Local Government.
+
+             (b)    Corporatized38 municipal WSS utilities established and operational with at least 25 percent
+
+                    female staff.
+
+             (c)    A section responsible for regulatory and business support functions is established and
+
+                    operating in Federal Department of Water Supply and Sewerage Management (DWSSM).
+
+   Increase access to improved water supply and sanitation services
+
+             (a) People provided with access to improved, safely managed climate resilient39 water supply
+
+                 services; of which, female (percentage).
+
+             (b) People provided with access to improved, safely managed climate resilient40 sanitation
+
+                 services; of which, female (percentage).
+
+
+
+     B. Project Components
+
+   20.     The project scope consists of four components that contribute to the PDO. Below is a description
+
+   of the project activities. Activities will be financed through an IDA credit of US$80 million equivalent and
+
+   GoN counterpart funding of US$20 million on a joint co-financing basis. Details on Climate Co-Benefits are
+
+   provided in a Climate Change Technical Note.41
+
+
+
+   21.      Component 1: Strengthening Sector Governance and Institutional Capacity, Project
+
+   Management (US$17.6 million, of which US$14.1 million IDA, US$3.5 million Recipient42). This
+
+   component will provide support at the federal, provincial, and local levels to improve water sector
+
+   governance and project management through institutional reforms, monitoring, and reporting.
+
+   Institutional reforms will be implemented in a phased manner to systematically transfer water governance
+
+   and service delivery functions from the federal MoWS/DWSSM to the participating local municipalities,
+
+   as provided for under LGOA 2017. Support provided will embed climate change considerations into future
+
+   development and planning of WSS in Nepal. A participatory Water Sector Federalism Implementation
+
+   Assessment will be conducted in the first year to determine the remaining institutional capacity gaps to
+
+   deliver the required services to be addressed in subsequent years of the project. A phased project
+
+   management plan will be provided in the Project Implementation Manual (PIM) to guide the transition of
+
+   project implementation functions from the federal to the local government.
+
+
+
+   22.    This component will enable the effective implementation of Component 2. Activities to be
+
+   supported in Component 1 are as follows:
+
+
+
+
+
+
+
+   38 WSUCs in urban municipalities are consolidated into a single corporatized professional municipal utility/service provider.
+
+   39 Defined as ensuring sufficient water supply yield to meet year-round demand.
+
+   40 Defined as sanitation facilities with climate smart design, such as septic tanks and latrines built above flood elevation line.
+
+   41 Technical Note has been saved as “public” in the World Bank Ops Portal and can be provided separately upon demand.
+
+   42 Recipient’s funding will include contributions from the three tiers of Government, as determined by the GoN.
+
+
+
+
+
+
+
+
+
+                                                                     7
+
+The World Bank
+
+Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+
+
+
+
+            (a)    Federal level
+
+                   (i)    Support for institutional reforms and capacity building at MoWS and the DWSSM to
+
+                          establish a dedicated section responsible for the regulation, climate smart governance,
+
+                          and WSS business support and equip it to implement sector policy reforms, regulation,
+
+                          and planning of technical backstopping to LGs. This support will include technical
+
+                          assistance to MoWS to develop a comprehensive performance-based Sector
+
+                          Conditional Grant Program for long-term intergovernmental fiscal transfer to be
+
+                          adopted in subsequent engagements.
+
+                   (ii)   Support for the establishment and regular functions of a fully functional Project
+
+                          Management Unit (PMU) and an intergovernmental Project Steering Committee (PSC)
+
+                          at the federal level. This includes procurement of a Project Support Team (PST) to
+
+                          support the PMU in undertaking its functions and develop a menu of potential capacity
+
+                          building and technical assistance activities from which MoWS/DWSSM and the
+
+                          participating provincial and local Municipalities will select customized packages to
+
+                          address their capacity gaps in line with their constitutional roles under federalism. This
+
+                          will ensure strengthening technical capacity for designing and operating energy-
+
+                          efficient and climate resilient WASH infrastructure.43 Municipality Support Teams
+
+                          (MST) will also be procured under this subcomponent to support the participating
+
+                          municipalities to implement Project activities at the local level (Sections (c) and (d)
+
+                          below).
+
+                   (iii) Expansion of the National Water, Sanitation, and Hygiene Management Information
+
+                         System (NWASH MIS)44 to include climate resilience monitoring, service standards,
+
+                         sanitation planning, watershed management, and water quality modules as well as
+
+                         benchmarking and monitoring protocols and processes for urban water utilities and
+
+                         service providers. All modules will incorporate the use of climate information, including
+
+                         future climate scenarios, for improved water sector planning and decision-making.
+
+                         Technical assistance will also be provided for exploring and promoting more stringent
+
+                         energy and resource-use efficiency standards and enforcement.
+
+                   (iv) The project will support activities to encourage private sector participation, such as
+
+                        provide technical assistance to strengthen the independent regulation of utilities, and
+
+                        particularly tariff setting and operational performance; promote access to market
+
+                        finance, including through the use of credit enhancements; ensure technical support
+
+                        to private water and sanitation services providers; strengthen the public-private
+
+                        partnership (PPP) promotion unit and support local, provincial, and Government of
+
+                        Nepals to identify financially viable WASH investments; and incentivize energy
+
+                        efficiency through private sector innovation.
+
+            (b)    Provincial level
+
+                   (i)    Support for establishing PSCs at the provincial level in Karnali and Sudurpashchim with
+
+                          representation from federal, provincial, and all participating local governments.
+
+
+
+
+
+
+
+   43 World Bank. 2018. Building the Resilience of WSS Utilities to Climate Change and Other Threats: A Road Map. Washington,
+
+   DC: World Bank.
+
+   44 Accessible online: https://nwash.mowss.gov.np.
+
+
+
+
+
+
+
+
+
+                                                                 8
+
+The World Bank
+
+Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+
+
+
+
+                 (ii)   Capacity building and technical support to the Provincial Ministries of Physical
+
+                        Infrastructure Development (PMoPIDs) in Karnali and Sudurpashchim for project
+
+                        coordination, monitoring, and reporting, including coordination across LGs who share
+
+                        the same watershed or river basin.
+
+                 (iii) Support for the two provinces to build technical/knowledge centers for capacity
+
+                       building for the local municipalities within their jurisdictions, incorporating water
+
+                       quality, climate vulnerability assessment and adaptation planning aspects, including a
+
+                       training module on incorporating adaptation to future climate risks into engineering
+
+                       designs, and the use of energy-efficient equipment and proceeses to reduce water loss.
+
+           (c)   Local level
+
+                 (i)    Support for the establishment and capacity building of fully functional local
+
+                        Municipality Water, Sanitation, and Hygiene (MWASH) units and Project
+
+                        Implementation Units (PIUs) in participating municipalities. The PIUs will be
+
+                        responsible for the preparation of climate-sensitive municipal WASH plans, Detailed
+
+                        Project Reports (DPRs), and bidding documents, as well as capacity building to carry
+
+                        out climate smart design, construction and supervision and address environmental and
+
+                        social (E&S) issues. See ANNEX 1 for details.
+
+                 (ii)   Support for formal registration of all WSUCs within the municipality, establishment of
+
+                        water utilities in the urban municipalities (see (d) below), and establishment of
+
+                        performance agreements between the WASH units and utilities/WSUCs/service
+
+                        providers based on key performance indicators (KPIs). This will include support to draft
+
+                        a proposed WASH operator charter (for utilities/WSUCs/service providers) and
+
+                        governance systems; undertake tariff reform; develop KPIs and target service
+
+                        standards for the WASH operators to be monitored by the municipality; and develop
+
+                        an asset management plan that would include new investments and rehabilitation of
+
+                        current systems.
+
+                 (iii) Support for local municipalities to consider climate risk assessments; respond to
+
+                       climate emergencies; implement behavior change campaigns; and conceive
+
+                       information, education, and communication (IEC) programs to promote rational water
+
+                       use, payment of tariffs, and social accountability for community services.
+
+                 (iv) Support to the PMU in conjunction with the mayors’ association, periodic learning
+
+                      events, local and international exchange visits, media outreach, and donor-sponsored
+
+                      global experts’ peer group support.
+
+                 (v)    Preparatory activities for follow-on lending engagements, including supporting
+
+                        engagement with other municipalities outside the project area.
+
+           (d)   WSS operator level (utility/WSUC/service provider)
+
+                 (i)    Support for the establishment and technical and commercial capacity building of
+
+                        municipal utilities/WSUCs/service providers (operators). This includes support to
+
+                        develop operator staffing plan; rationalize water tariffs; promote financial
+
+                        sustainability, creditworthiness, commercial strengthening, customer management,
+
+                        and service delivery; purchase operations equipment; carry out O&M; improve
+
+
+
+
+
+
+
+
+
+                                                         9
+
+The World Bank
+
+Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+
+
+
+
+                          procurement; and identify activities that would make sense to outsource to the private
+
+                          sector.
+
+   23.      A formula-based conditional sector grant mechanism45 is incorporated into the project design
+
+   based on the population lacking access to adequate water and sanitation. Conditional grant transfers
+
+   will only be provided to municipalities with duly constituted MWASH Units and WASH operators, with the
+
+   expectation that WSUCs in urban areas will have been consolidated into new WASH utilities. Component
+
+   2 investment funds will be released to municipalities periodically upon their fulfillment of the GACs as
+
+   specified in the Participating Agreement.46 Details of the project’s conditional grant funds flow mechanism
+
+   and verification are provided in ANNEX 1. Participating municipalities will be required to sign a
+
+   participation agreement with MoWS to agree to the project terms and conditions and their roles and
+
+   responsibilities, including potential for OPEX/CAPEX cost-recovery from user tariffs.
+
+
+
+   24.      Component 1 interventions will include gender-responsive conditions to improve inclusive
+
+   staffing and governance structures within the WASH units and utilities: (a) hiring women in skilled and
+
+   semiskilled positions as feasible such as engineers, water quality monitoring technicians, operators,
+
+   account and finance, procurement, construction, O&M, billing and collections; (b) strengthening
+
+   employment opportunities, retention, and career advancement through technical training and policy and
+
+   regulation reforms; and (c) ensuring women’s voice and representation in utility governing boards,
+
+   committees for better planning, budgeting and monitoring, and maintaining WSS systems. Disaggregated
+
+   data maintained at the local level will allow monitoring of women’s employment, retention,
+
+   representation, and capacity building. Outreach and communication on WASH will be carried out,
+
+   particularly on menstrual health management (MHM) at community and school levels.
+
+
+
+   25.     Component 2: Increasing Access to Climate resilient, Improved and Safe Water Supply and
+
+   Sanitation (US$77.4 million, of which US$61.9 million IDA, US$15.5 million Recipient). This component
+
+   invests in climate resilient WSS infrastructure augmented by a monitoring and management system
+
+   designed to ensure climate resilient and low carbon WSS service provision. The component will be
+
+   implemented in selected LGs in two provinces— Karnali and Sudurpashchim, which have the lowest
+
+   coverage of basic water supply service delivery at about 84 percent,47 least developed HDI at only 0.463
+
+   and 0.478, respectively,48 and high climate vulnerability (high climate variability, high climate disaster risk
+
+   exposure, primarily flooding, and low adaptive capacity). The three selected urban municipalities are
+
+   Birendranagar and Sharada in Karnali and Dipayal Silgadhi in Sudurpashchim, and the three rural
+
+   municipalities are Bardogoria, Joshipur, and Janaki in Kailali District (Sudurpashchim).49
+
+
+
+   26.       The activities under the component are further divided into three subcomponents.
+
+
+
+             (a)   Urban and peri-urban water supply and sanitation
+
+
+
+
+
+   45 See Annex 1 for tentative project allocation ceilings to municipalities. This mechanism is a feature of the project design rather
+
+   than a Sector-wide Conditional Grant Program. Technical assistance will be provided under Component 1 to develop the latter.
+
+   46 PMU staff will verify the municipalities’ achievement of the GACs on a quarterly basis as specified in the PIM. Release of
+
+
+
+   funds will be stopped if the GACs are not met.
+
+   47 Source: NMIP/DWSSM datasheet, by end of 2019/20.
+
+   48 Dhungel, Sanjib. 2018. “Provincial Comparison of Development Status in Nepal: An Analysis of Human Development Trend for
+
+
+
+   1996 to 2026.” Journal of Management and Development Studies 28:53–68. http://nasc.org.np.
+
+   49 Selected municipalities may be dropped/replaced during implementation with other municipalities in the Karnali and
+
+
+
+   Sudurpashchim Provinces if they fail to adhere to the terms and conditions of the participating agreement.
+
+
+
+
+
+
+
+
+
+                                                                   10
+
+The World Bank
+
+Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+
+
+
+
+                   (i)      Water supply. Construction and rehabilitation of water supply schemes in selected
+
+                            urban municipalities in Karnali and Sudurpashchim (Birendranagar and Dipayal
+
+                            Silgadhi) to improve water and sanitation service delivery levels and reduce exposure
+
+                            to high climate variability of water supply and enhance resilience to rising drought and
+
+                            flood risks in the municipalities. Over 40 percent of the investments will be in
+
+                            developing new water transfer schemes from perennial sources for water supply
+
+                            during the dry season. The remaining will tap into deep aquifer sources with adequate
+
+                            recharge rates that are more resilient to climate variability and change. The project will
+
+                            also finance the rehabilitation of existing systems to reduce non-revenue water (NRW).
+
+                            Resilience against major climate disaster risks in the region—flash floods and
+
+                            landslides—will be embedded into the scheme design.50 For instance, for resilience
+
+                            against flood waters, the pumps and pumping mains of greenfield components will be
+
+                            designed based on sediment analysis such that maximum sediment loads can be
+
+                            handled, and reservoirs and pump stations will be located above 100-year return
+
+                            period flood levels. Intake structures will be designed to avoid large sediments by
+
+                            allowing for both high-flow and lean-flow waters. Site inspections will be conducted
+
+                            through proper climate hazard mapping to account for landslide risks and assess the
+
+                            need for geo-technical reinforcements. Cost-effective redundancies will be
+
+                            incorporated for water sources, bulk distribution, and transmission mains. Water
+
+                            demand up to 2050 will be considered to account for high intra-annual variability in the
+
+                            discharge of existing intake sources to avoid future water stress. The subcomponent
+
+                            will also support energy audits for brownfield investments to identify best available
+
+                            energy-efficient replacements that minimize the carbon footprint and life-cycle costs.
+
+                  (ii)      Sanitation. A major objective of the sanitation subcomponent is to limit sewage
+
+                            flooding and the discharge of untreated effluents into existing drainage systems. This
+
+                            is essential to protect communities from water-borne health hazards due to climate-
+
+                            induced flooding. This subcomponent includes the construction of fecal sludge and
+
+                            wastewater treatment facilities, including sewer systems, fecal sludge treatment plants
+
+                            (FSTPs), and on-site sanitation in the selected urban municipalities. This will reduce
+
+                            greenhouse gas (GHG) emissions from wastewater. The subcomponent will also fund
+
+                            the construction of public toilets, which are universal access, MHM equipped, and with
+
+                            separate female and male access, in schools, health posts, and other strategic
+
+                            locations, with lighting and locks on stalls to enhance the safety and privacy of users
+
+                            and reduce the risk of gender-based violence (GBV). Support will also be provided for
+
+                            city-wide inclusive sanitation (CWIS) capacity building, household engagement,
+
+                            outreach, and sanitation marketing to ensure improved access to specific unserved and
+
+                            underserved groups, such as women, minority castes, the urban poor, and people with
+
+                            disabilities in line with CWIS principles. Wastewater infrastructure will be designed for
+
+                            climate risks as described in (i); it will be built with redundancies to withstand flood
+
+                            damage, at flood-proof elevations, and low carbon processes such as energy-efficient
+
+                            pumping (following energy audits) and gravity-based wastewater discharge. The
+
+                            utilities will use energy-efficient technology to reduce the carbon footprint of water
+
+                            supply and wastewater treatment with annual net GHG emissions reduction of over
+
+                            11,145 tonnes of carbon dioxide per year compared to baseline. Integrated sanitation-
+
+
+
+   50   According to the World Bank. 2020. “Resilient Water Infrastructure Design Brief.” World Bank, Washington, DC.
+
+
+
+
+
+
+
+
+
+                                                                   11
+
+The World Bank
+
+Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+
+
+
+
+                         drainage management will increase the communities’ resilience to climate-related
+
+                         shocks like flooding, which increase water-borne health risks.
+
+            (b)   Rural water supply and sanitation. Construction and rehabilitation of climate resilient WSS
+
+                  facilities in selected municipalities of Karnali and Sudurpashchim Provinces51 to provide
+
+                  adequate, reliable, and safe water supply with a year-round reliability through household
+
+                  connections. This will also include the promotion of ‘total sanitation’52 and improved FSM
+
+                  approaches in participating rural areas to reduce water-borne health risks from flooding.
+
+                  These facilities will also employ low-carbon measures described in (a). The climate resilient
+
+                  public toilets constructed will ensure universal access, MHM equipped, separate female and
+
+                  male public toilets in schools, health posts, and other strategic locations with lighting and
+
+                  other personal security measures. Contractors will be encouraged to hire women in skilled
+
+                  and unskilled work opportunities during construction. The treated fecal sludge will be used
+
+                  either as fertilizer or through biogas production where feasible.
+
+            (c)   Water quality monitoring and management. Construction of water quality testing
+
+                  infrastructure, notably functioning climate resilient laboratories in the six selected
+
+                  municipalities to support water quality monitoring, and operationalizing of a national water
+
+                  quality surveillance and governance system and integrated MIS. It will also include support
+
+                  for preventive water safety planning, installation of infrastructure for source protection, and
+
+                  community campaigns to declare municipalities as ‘safe water zones’.53 This is particularly
+
+                  important as poor water quality exacerbates climate-induced water stress. In addition, the
+
+                  laboratories will have inclusive staffing and governance structures such as training and
+
+                  employment of water quality monitoring technicians, with a target of 30 percent female
+
+                  water quality technicians.
+
+
+
+   27.     The civil works will be designed to be climate resilient, with proper attention to the potential
+
+   impacts of extreme weather and flood protection of source and infrastructure, while at the same time
+
+   exploring solutions that enable higher GHG emissions reduction.
+
+
+
+   28.     Component 3: Reducing Climate Hazards impacting WSS Infrastructure through IWRM and
+
+   Watershed Management (US$5 million, of which US$4 million IDA, US$1 million Recipient). The
+
+   integration of WSS and IWRM is an essential feature of this project, which aims to reduce climate change
+
+   hazards, such as floods, pollution, and landslides, that may affect WSS infrastructure investments
+
+   implemented in Surkhet Valley54 under Component 2. Under this component, a comprehensive watershed
+
+   and multi-hazard risk assessment and water balance modelling exercise for Surkhet Valley Northern
+
+   watershed and relevant upstream catchments will also be carried out to establish/update detailed
+
+   baseline hydrological characteristics and the potential impacts of climate change on the watershed and
+
+
+
+
+
+   51 Sharada Municipality (Karnali) and Bardogoria, Joshipur, and Janaki Municipalities in Kailali District (Sudurpashchim).
+
+   52 ‘Total Sanitation’ is a community-led approach to improve sanitation and hygiene practices in mainly rural communities by
+
+   triggering behavior change in people, leading to spontaneous and long-term abandonment of open defecation practices. It
+
+   focuses on spontaneous and long-lasting behavior change of an entire community. Source: Water and Sanitation Program 2007.
+
+   https://www.communityledtotalsanitation.org/institutions/wsp.
+
+   53 ‘Safe water zone’ is the community where every household is using at least one household water treatment option.
+
+
+
+   Community people and active groups are trained and intensively mobilized to relay messages on safe water and household
+
+   water treatment options such as boiling, filtration, and chlorination.
+
+   54 Surkhet Valley is selected to pilot this integrated approach given that a significant proportion (>40 percent) of project
+
+
+
+   investment funds will be spent there. Lessons learned will be shared with other municipalities through learning exchange.
+
+
+
+
+
+
+
+
+
+                                                               12
+
+The World Bank
+
+Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+
+
+
+
+   identify specific interventions for implementation. This assessment will build on work carried out during
+
+   the preparation of the Surkhet Valley Northern Watershed Management Plan, developed by the Karnali
+
+   Province Forest and Environment Directorate, Ministry of Industry, Tourism, Forest and Environment
+
+   (MITFE-K, 2020),55 and the Local Adaptation Plan for Action. The component will support small-scale low-
+
+   risk investments to foster a net positive water balance situation in the watershed, including a combination
+
+   of reforestation/conservation techniques, watershed conservation and management interventions,
+
+   source protection measures, nature-based solutions to improve upstream/downstream water quality,
+
+   environmental flows, groundwater recharge, rainwater harvesting, wastewater reuse, and so on, based
+
+   on IWRM principles and an inclusive, participatory approach to ensure strong engagement and ownership
+
+   by local communities.
+
+
+
+   29.      Component 4: Contingency Emergency Response (US$0 million). This provisional zero amount
+
+   component will permit the rapid reallocation of credit proceeds in the event of an eligible disaster,
+
+   including climate-related events and pandemics. Disbursements will be made against a preestablished list
+
+   of critical goods or the procurement of goods, works, and consultant services. A separate manual for this
+
+   component will be prepared by the GoN within the first six months of implementation and will provide
+
+   detailed guidelines and instructions on how to trigger the contingency emergency response and use funds.
+
+
+
+     C. Project Beneficiaries
+
+   30.      The beneficiaries of the institutional transformation promoted by the project will be the six
+
+   selected municipalities,56 Karnali and Sudurpashchim Provinces, and the DWSSM at the federal level, who
+
+   will benefit from streamlining of their functions (reduced duplication and increased efficiency of financial
+
+   and human resources resources) and the training and capacity building activities on financial management
+
+   (FM), procurement, WASH planning, O&M, M&E, climate resilience, and integrated water management.
+
+   The municipal utilities to be established in the participating municipalities, local community WSUCs,
+
+   WASH service providers, and local WASH technicians will also benefit from capacity-building training on
+
+   sustainable WASH service delivery bookkeeping/FM, network planning, watershed management, and
+
+   regular O&M, among others. Beneficiaries also include other municipalities through the learning
+
+   exchange, as mentioned earlier. The construction and rehabilitation of WSS infrastructure are expected
+
+   to directly benefit over 413,000 people, predominantly from areas with low access to water and sanitation
+
+   services, higher poverty incidence, and climate vulnerability. Women and children will benefit significantly
+
+   from project interventions. They bear the burden of securing the daily drinking water needs of the family
+
+   and disproportionately suffer the consequences of illnesses associated with poor access to water and
+
+   sanitation. Women will also gain employment opportunities and skills training in the WASH sector.
+
+
+
+   D. Results Chain
+
+   31.      A schematic overview of the project’s Theory of Change is shown below.
+
+
+
+
+
+
+
+
+
+   55 MITFE-K, 2020. “Prioritization of Sub Watersheds in Northern Watershed and Management Plan/DPR Preparation of Critical
+
+   Sub-Watershed Birendranagar, Surkhet District.” Birendranagar, Nepal.
+
+   56 Birendranagar and Sharada in Karnali and Dipayal Silgadhi in Sudurpashchim (urban) and Bardogoria, Joshipur, and Janaki
+
+
+
+   Municipalities in Kailali District (Sudurpashchim) (rural).
+
+
+
+
+
+
+
+
+
+                                                               13
+
+The World Bank
+
+Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+
+
+
+
+
+
+     E. Rationale for World Bank Involvement and Role of Partners
+
+   32.      The World Bank has extensive experience in Nepal’s water and sanitation sector . It has been a
+
+   leading partner in both the country’s climate action program and federalization process, thus making it a
+
+   logical partner to continue developing this important foundation for economic growth and social
+
+   development. The World Bank has financed three rural WSS projects in Nepal since 1996, contributing
+
+   about 11 percent of Nepal’s current water supply coverage. The recently closed Rural Water Supply and
+
+   Sanitation Improvement Project successfully piloted the establishment of dedicated MWASH units in six
+
+   municipalities and developed the NWASH MIS app, which will be scaled up in the proposed project. The
+
+   lessons learned from these engagements as well as the World Bank’s extensive international experience
+
+   and expertise in water governance reforms and federalism, including most recently in Nigeria, Honduras,
+
+   Indonesia, and Kenya, 57 position the World Bank to be a strong partner to support the sector to shift to
+
+   federalism. The proposed project is informed by a series of analytical pieces conducted under the World
+
+   Bank’s Nepal Water Platform ASA and experiences from NUGIP, PLGSP, and the Governance GP’s FCNA in
+
+   Nepal. Finally, the World Bank has a long-standing comparative advantage in mainstreaming CWIS that
+
+   will be key in planning city-wide sanitation interventions.
+
+
+
+
+
+
+
+   57Nigeria Sustainable Urban and Rural Water Supply, Sanitation and Hygiene Program (P170734), Honduras Water and
+
+   Sanitation Sector Modernization Project - PROMOSAS (P103881), Indonesia National Urban Water Supply Project - NUWAS
+
+   (P156125), Kenya Water and Sanitation Development Project (P156634).
+
+
+
+
+
+
+
+
+
+                                                             14
+
+The World Bank
+
+Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+
+
+
+
+   33.      DPs in WSS. The World Bank has a long relationship with Nepal’s DPs in the water sector and
+
+   closely coordinates with them to learn lessons from their projects, build synergies, and avoid overlap.58
+
+   The World Bank is a member of the WASH DPs Group in Nepal, which includes 14 members with significant
+
+   programs in the sector.59 The Asian Development Bank (ADB) is a key player in the provision of urban
+
+   water supply services in Nepal, including providing US$120 million for the Kathmandu Melamchi Water
+
+   Supply Project and funding several Small Towns Water Supply and Sanitation Projects since 2001, covering
+
+   over 76 towns across the country.60 The ADB is also preparing an Integrated Water Supply and Sewerage
+
+   Management Project (FY23) proposed to cover 11 more towns. SNV Netherlands Development
+
+   Organization, has supported the implementation of a CWIS services program in several strategic provincial
+
+   towns, including Birendranagar Municipality. The United States Agency for International Development
+
+   (USAID) is implementing the Nepal Karnali Water Security Activity (2020–2025) to increase sustainable
+
+   access to safely managed drinking water and FSM services in the Karnali River Basin.
+
+
+
+     F. Lessons Learned and Reflected in Project Design
+
+   34.      The following are the most important and applicable lessons learned from analytical work
+
+   conducted under the Nepal Water Platform ASA, Rural Water Supply and Sanitation Improvement Project,
+
+   NUGIP (P163418, Nepal), PROMOSAS (P103881, Honduras), NUWAS (P156125, Indonesia), and the Water
+
+   GP’s initiatives on Utility of the Future (UoF),61 CWIS and Water Secure Cities, the Federalism Filter for
+
+   Nepal,62 and other World Bank projects in the sector.
+
+            (a)    Lessons from platform analytics: (i) There is need to combine IWRM/watershed
+
+                   management approaches to enhance the resilience of WASH service delivery to climate and
+
+                   other hazards. (ii) Intensive capacity building and empowerment of LGs/municipalities is
+
+                   required to take on implementation of projects for WASH service provision, with federal and
+
+                   provincial governments taking on regulatory and technical backstopping roles.
+
+            (b)    Lessons from operations: (i) Conditional grants are the preferred mechanism to channel
+
+                   project funds to municipalities to avoid duplication and strengthen the nascent
+
+                   intergovernmental fiscal transfer system. (ii) There is need for close consultation and
+
+                   engagement of LGs in technical design, safeguards, and procurement to ensure strong
+
+                   ownership. (iii) Recruitment of technical support consultants is necessary to support
+
+                   municipalities given their low technical capacity. (iv) Adequate time is required to create
+
+                   fully operational WSS service providers, as the process is time-consuming.
+
+            (c)    UoF program. To build utility capacity and raise operational performance, necessary
+
+                   measures, at a minimum, should include revenue management, customer care and
+
+                   communication, NRW reduction, human resource management including human resource
+
+                   system upgrade and service rules modification, asset management, climate resilience, and
+
+                   geographic information system improvement.
+
+
+
+   58 There is no geographical overlap between the project and the activities of the different DPs, except in Birendranagar, where
+
+   the World Bank will continue from where SNV’s CWIS services support has concluded.
+
+   59 ADB, JICA, World Bank, IWMI, SNV, DFID, USAID, UNICEF, UN Habitat, WHO, WFP, WaterAid, Finland Embassy.
+
+   60 Asian Development Bank. 2021. “Small Towns Water Supply and Sanitation Projects. ” http://www.stwsssp.gov.np/.
+
+   61 The Water GP’s UoF Initiative is supporting a host of utility reform operations at a number of utilities through World Bank-
+
+
+
+   financed projects. UoF has provided TA to the Karachi Water and Sewerage Services Improvement Project (P164704) and Ghana
+
+   Additional Financing for Greater Accra (P171620), among others, toward operational performance improvement.
+
+   62 Based on the experience from 24 World Bank projects, implemented in six federal countries, the federalism filter was
+
+
+
+   developed to inform the design of World Bank projects in Nepal from a federalism lens.
+
+
+
+
+
+
+
+
+
+                                                                 15
+
+The World Bank
+
+Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+
+
+
+
+            (d)   City-wide inclusive sanitation. The CWIS approach focuses on service provision and its
+
+                  enabling environment, rather than on building infrastructure.
+
+            (e)   Water Secure Cities. The WSS sector is connected to other basic services. The Water Secure
+
+                  Cities initiative offers a comprehensive package of proven solutions that recognize the
+
+                  interrelated nature of water issues and urban planning and development.
+
+
+
+     III. IMPLEMENTATION ARRANGEMENTS
+
+
+
+     A. Institutional and Implementation Arrangements
+
+   35.     Considering the project’s objective to support the federalization of the WSS sector, the
+
+   participating municipalities will be responsible for the implementation of Component 2, which has over
+
+   75 percent of the project’s investments, through a Project Implementing Unit (PIU) to be established by
+
+   each municipality, while the federal PMU under DWSSM will be responsible for the implementation of
+
+   Components 1 and 3. The detailed implementation arrangements are provided in ANNEX 1.
+
+     B. Results Monitoring and Evaluation Arrangements
+
+   36.     M&E will be an integral part of the program and under the responsibility of the PIUs. The
+
+   NWASH MIS will be utilized at the M&E platform for the project. The PMU will be responsible for the
+
+   overall management of the NWASH MIS. MWASH units will be responsible for updating and maintaining
+
+   project data within the NWASH platform. The platform supports participatory M&E, which will allow
+
+   program stakeholders—such as the local officials and consultants—to collect data on program progress.
+
+   See ANNEX 1 for details on the monitoring program.
+
+
+
+     C. Sustainability
+
+   37.      The project addresses two key factors that pivotal to ensure sustainability of its investments:
+
+
+
+            (a)   The sustainability of institutions will be sought through formal establishment of dedicated
+
+                  WSS institutions within the municipality institutional structure and introduction of necessary
+
+                  planning and institutional instruments, such as master plans and O&M manuals, as well as
+
+                  capacity building in these institutions on topics such as design, procurement, O&M, M&E,
+
+                  collaboration, and engagement with local communities.
+
+            (b)   The sustainability of infrastructure and services involves securing an adequate budget for
+
+                  operating and maintaining the infrastructures and services supported by the project after
+
+                  the end of the project period. The utility and WSUC costs of operation/operational
+
+                  expenditure [OPEX] are expected to be fully recovered through the user tariffs. In case of a
+
+                  deficit in OPEX, the required funds are projected to come from the local level, which would
+
+                  be secured through the annual budgeting process and incorporated in the relevant planning
+
+                  and institutional frameworks. Improved service levels resulting from project interventions
+
+                  are expected to trigger a virtuous circle with higher willingness-to-pay of customers leading
+
+                  to higher cost recovery for operations. Support for the implementation of tariff reforms will
+
+                  be provided to facilitate potential adoption by the fourth year of implementation. Potential
+
+                  subsequent engagements will be designed to incentivize reforms toward full OPEX and
+
+                  partial capital expenditure (CAPEX) cost recovery considering the relevant principles and
+
+                  provisions of draft WASH Policy and the World Bank’s UoF framework.
+
+
+
+
+
+
+
+
+
+                                                        16
+
+The World Bank
+
+Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+
+
+
+
+     IV. PROJECT APPRAISAL SUMMARY
+
+
+
+     A. Technical, Economic and Financial Analysis
+
+   38.     Technical analysis. The project is being prepared under a framework approach, and specific
+
+   investments and institutional strengthening support interventions will be determined by each
+
+   participating municipality based on stakeholder consultations, citizen engagement, and technical needs
+
+   assessments. The proposed conditional grant funds flow mechanism incentivizes and supports
+
+   municipalities in the planning and implementation of WSS investments. The design of the institutional
+
+   reforms in Component 1 draws on the detailed institutional capacity analysis of the participating
+
+   municipalities.
+
+
+
+   39.     For Component 2, the alternative of not doing the project has high climate risks and economic
+
+   and human development costs, as the people in the project areas are suffering from high levels of scarcity
+
+   and arsenic-contaminated groundwater.63 Therefore, there is a strong impetus for the public sector to
+
+   intervene in an area that the market is underdelivering or delivering at prohibitive costs (such as jar/tanker
+
+   water). The project will consider public sector alternatives with private participation where feasible.
+
+   Sanitation facility options are shown in Table 1.
+
+
+
+                                  Table 1. Sanitation Facility as Per Urbanization Classification
+
+                         Conveyance
+
+     Classification                               Disposal System                                     Remarks
+
+                           System
+
+     Urban core        Sewer network         Stabilization pond               If sufficient land is available adequately far from
+
+     area                                    system or lagoon system          the settlement
+
+                                             Activated sludge process         Any appropriate modified versions
+
+                       Combined                                               Where road reserve is insufficient, treatment will
+
+                       sewer network                                          be done only for dry weather flow.
+
+                       Separate sewer                                         Use plastic pipes for ease of construction and
+
+                       network                                                leakage control.
+
+     Peri-urban        On-site               Periodic desludging              Septic tank must be coupled with soak pit or
+
+     area              sanitation                                             subsurface filtration.
+
+     Rural             On-site               Periodic desludging              -ditto- above
+
+                       sanitation            Double vault toilets             First vault digests while the second is in use.
+
+
+
+   40.      To augment water supplies in the municipalities to withstand climate variability in yield, spring
+
+   water, groundwater, or surface water sources will be considered. In rural Terai, where groundwater is
+
+   available at higher discharge and surface water is not available, deep groundwater schemes will be used
+
+   where there is high arsenic and mineral content in shallow groundwater. In the hilly rural areas, spring
+
+   water is the most technically feasible source if available with adequate discharge rates. For urban areas,
+
+   all options will be explored. Preliminary technical and cost-effectiveness analysis indicates that surface
+
+   water is likely to be the best option. For instance, in Birendranagar, the current surface water supply of
+
+   153 liters per second (lps) in the wet season only meets half the demand, and new groundwater sources
+
+   would not be able to cost-effectively meet the deficit as their supply rates range between 5 and 10 lps in
+
+   Surkhet Valley. Accordingly, the project will explore design options considering the local constraints.
+
+
+
+
+
+   63In Kailali District in the Terai. Thakur, J. K., R. K. Thakur, A. L. Ramanathan, M. Kumar, and S. K. Singh. 2011. “Arsenic
+
+   Contamination of Groundwater in Nepal—An Overview.” Water 3 (1): 1–20.
+
+
+
+
+
+
+
+
+
+                                                                     17
+
+The World Bank
+
+Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+
+
+
+
+   41.      Economic analysis. The economic analysis is summarized in Table 264, is based on a cost-benefit
+
+   framework using a ‘with’ and ‘without’ methodology for Component 2 (75 percent of the total project).
+
+   The base case net present value (NPV) for this component is US$76 million and the internal rate of return
+
+   (IRR) is 18.7 percent. The principal assumptions used in the analysis are a 30-year analysis period, an 8
+
+   percent discount rate, and benefits that derive from productive days gained and costs saved from avoided
+
+   illnesses and coping costs, using the daily minimum wage as of 2017/2018 from the Nepal Labor Force
+
+   Survey. The NPV and IRR remain robust under scenarios of lower benefits, higher costs, or a one-year
+
+   delay.
+
+
+
+                                    Table 2. Economic Analysis Results (Using US$1 = NPR 118)
+
+                                                Base Case            Sensitivity, Overall Project      With Net GHG Benefits
+
+                                                                                           One-         High         Low
+
+                                                                     Benefit     Costs
+
+          Efficiency Parameter         Overall Urban        Rural                          year       US$/tCO2e US$/tCO2e
+
+                                                                      −20%       +20%
+
+                                                                                           delay
+
+    Asset life post-construction                                                30 years
+
+    IRR (%)                              18.7      17.8     21.8      14.4        15.0      17.4        19.7         19.2
+
+    NPV (US$, millions)                   76        55       21          42        48         67         86           81
+
+    Social discount rate (%)                                                        8
+
+    Total Project Cost (US$,
+
+                                          77        61       16          77        90         77         77           77
+
+    millions)
+
+   42.      The base case scenario with carbon externalities based on a GHG accounting analysis was also
+
+   carried out to determine ex ante costs of net GHG emissions of the water and wastewater facilities,
+
+   assuming a high shadow price of carbon (US$95.6/tCO2e) and a low shadow price (US$47.8/tCO2e)
+
+   growing at 2.26 percent annually. In the without project scenario, beneficiaries of both wastewater
+
+   treatment plant and FSM systems would otherwise dump the untreated wastewater to the waterbodies
+
+   or in the open, harming the environment and increasing health risks. The total estimated annual net GHG
+
+   emissions are −11,135 tons of carbon dioxide-equivalent (tCO2e) per year, increasing the base case
+
+   economic NPV by about US$10 million in the high carbon price scenario and by about US$5 million in the
+
+   low carbon price scenario.
+
+
+
+     B. Fiduciary
+
+   43.      Financial management. The DWSSM PMU will be responsible for the overall FM of the project,
+
+   including consolidation of all Statements of Expenditure (SOEs) submitted by participating municipalities
+
+   and expenditures incurred by MoWS and the preparation of interim unaudited financial reports (IUFRs)
+
+   on a quarterly basis. Participating municipalities will receive disbursements through the District Treasury
+
+   Controller Office (DTCO) each quarter as conditional grants, based on the SOEs pertaining to the previous
+
+   quarter (ANNEX 1). An FM capacity and risk assessment have been conducted for the implementation
+
+   agencies (DWSSM and a sample of participating municipalities), focusing on the current FM systems and
+
+   practices for implementing development projects. FM risks and management measures are discussed in
+
+   the section on ‘Key Risks’. Reflecting the federalism filter for Nepal, an FM and procurement enhancement
+
+   action plan will be developed to strengthen the fiduciary capacity of beneficiary municipalities under the
+
+   project.
+
+
+
+
+
+   64   Detailed Economic and Financial Analysis underlying this assessment is available in WBDocs.
+
+
+
+
+
+
+
+
+
+                                                                    18
+
+    The World Bank
+
+    Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+
+
+
+
+       44.      Procurement. Most of the project funds will be used under Component 2 for civil works
+
+       comprising over 70 percent of total IDA financing. A mix of both large- and small-value construction
+
+       activities will be implemented by the participating urban and rural municipalities through their PIUs. A
+
+       dedicated PMU in the DWSSM under MoWS will be the federal-level primary coordinating agency for the
+
+       project responsible for management, supervision, reporting, and coordination. It is expected that there
+
+       will be two packages of large civil works contracts in Birendranagar estimated to cost US$23.7 million
+
+       (Package A) and US$17 million, respectively, out of which Package A is envisaged to be procured through
+
+       a build and operate model. Other major project procurement activities include hiring of 3 consulting firms
+
+       for technical support to the PMU to be established at DWSSM and 6 PIUs at the participating municipalities
+
+       for project management, design and supervision of construction works. The PMU at DWSSM will have a
+
+       dedicated procurement staff who will also be responsible for providing procurement-related technical
+
+       support to the PIUs at the participating municipalities, as and when necessary. In addition, to assist the
+
+       PMU in the initial phase of selecting consultants, an individual consultant needs to be hired for an initial
+
+       period of six months. Details on the project’s major procurement activities are described in ANNEX 1.
+
+
+
+       45.     The World Bank’s Procurement Regulations for IPF Borrowers, dated July 2016, revised November
+
+       2020 (4th edition), and the provisions of the Financing Agreement will be applicable for goods, works, and
+
+       consulting and non-consulting services. In addition, the project will follow the Guidelines on Preventing
+
+       and Combating Fraud and Corruption in Projects Financed by IBRD Loans and IDA Credits and Grants,
+
+       dated October 15, 2006, and revised in January 2011 and July 2016. Procurement may be carried out using
+
+       international and national procurement procedures. Procurement under National Procurement
+
+       Procedures may be carried out using GoN’s Public Procurement Act 2063, its 1st Amendment, and its
+
+       Regulations, with caveats, as indicated in the Project Procurement Strategy for Development (PPSD) and
+
+       agreed with the World Bank.
+
+
+
+.        C. Legal Operational Policies
+
+.
+
+                                                                                       Triggered?
+
+Projects on International Waterways OP 7.50                                            Yes
+
+Projects in Disputed Areas OP 7.60                                                     No
+
+.
+
+       46.     OP 7.50 - Projects on International Waterways is triggered. The project triggers the World Bank
+
+       Policy OP/BP 7.50 because the project will make use of and risks polluting water from rivers/streams and
+
+       spring sources that ultimately feed into tributaries of the Ganges River, which is an international
+
+       waterway. Project sites are at a significant distance upstream of the border with India and other riparian
+
+       countries, and water withdrawals due to project interventions are relatively minimal. Hence, potential
+
+       impacts on water quality and quantity are likely to be insignificant. As required under OP 7.50, the World
+
+       Bank submitted (on behalf of, and at the request of, the GoN) a notification on February 5, 2022, to the
+
+       two lower riparian states—the Government of India and the Government of Bangladesh. The notification
+
+       requested comments and responses to the proposed project activities be conveyed by March 7, 2022. The
+
+       Government of India responded with no objection, while no response has been received from the
+
+       Government of Bangladesh within the allotted time frame. Accordingly, the riparian notification process
+
+       was completed according to the OP/BP 7.50 on April 21, 2022.
+
+
+
+
+
+
+
+
+
+                                                           19
+
+The World Bank
+
+Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+
+
+
+
+    D. Environmental and Social
+
+
+
+   47.     The E&S risks and impacts are rated substantial. The main environmental concerns include
+
+   degradation of small forests; soil erosions from excavation; localized landslides; dust, noise, and vibration
+
+   from construction; and waste from construction. Other concerns relate to the potential increase in traffic
+
+   congestion as well as odor and water quality issues which may arise from the operation of wastewater
+
+   treatment facilities especially if sludge production and disposal are not handled properly. On social risks
+
+   and impacts, civil works under components 2 and 3 may induce land acquisition, economic displacement,
+
+   and temporary relocation of public and private assets. Indigenous groups may be affected at some project
+
+   locations, although physical displacement and adverse project impacts on the customary lands and
+
+   heritage of these communities are note expected. Other social issues include (i) labor influx and its
+
+   correlation with sexual exploitation and abuse (SEA)/sexual harassment (SH), (ii) use of child labor, (iii)
+
+   occupational and community health and safety; (iv) the potential for water-use conflicts as the project
+
+   plans to draw water from sources (local springs, streams, and the Bheri river) used by others; and (v) the
+
+   potential for excluding vulnerable and marginalized groups from project planning, consultations, and
+
+   construction-jobs. Despite the sound knowledge of the typology of investments and their municipal-level
+
+   locations, the locations of the proposed subprojects are not precisely known.
+
+
+
+   48.      Environmental and Social Management Framework (ESMF). The DWSSM has prepared and
+
+   disclosed the ESMF to guide the screening, assessment, and management of the potential environmental
+
+   and social impacts and the preparation of site-specific Environmental and Social Impact Assessments
+
+   (ESIAs) and Environmental and Social Management Plans (ESMPs) for the subprojects. Similarly, a
+
+   Resettlement Policy Framework (RPF) has been prepared to guide the preparation of site-specific
+
+   Resettlement Action Plans (RAPs) where relevant.65 The frameworks outline the procedures for screening,
+
+   assessing, and managing E&S risks and impacts of project. Based on risks screening, the ESMF and the RPF
+
+   will inform site-specific ESIAs, ESMPs, and resettlement action plans (RAPs) before contracting and
+
+   commencement of works. The feasibility and planning of each subproject will consider the needs of
+
+   competing water users to avoid water-use conflict. During implementation, the DWSSM (through the
+
+   PMU/PIUs) will supervise/monitor project activities and report significant incidents to the World Bank.
+
+   Other plans which have been prepared and disclosed include the Stakeholder Engagement Plan (SEP) and
+
+   Labor Management Procedures (LMP) to guide consultations and risks related to project workers,
+
+   respectively. Indigenous People Planning Framework has also been prepared to guide the assessment and
+
+   mitigation of potential project impacts on indigenous groups. The DWSSM will commission external
+
+   monitoring thrice during project implementation—after the first year of implementation, at midterm, and
+
+   during the final year of project implementation. The risk of SEA/SH of the project is ‘moderate and will be
+
+   addressed through SEA/SH Prevention and Response Plan. Recognizing the weak E&S risk management
+
+   capacity of the DWSSM and the participating municipalities, the project includes capacity strengthening
+
+   support, including staffing and training, which will be updated, as required, during implementation.
+
+
+
+   49.     The DWSSM PMU has hired E&S specialists (one environment, one social) as part of project
+
+   preparation. However, the institutions in the municipalities and provinces are nascent and evolving in line
+
+   with the new federal structure of Nepal. Capacity strengthening support focused on the ESMF and RPF is
+
+   needed to enable the PMU/PIUs to identify and manage E&S risks and impacts throughout the project
+
+
+
+
+
+   65The ESMF and RPF were disclosed on January 16, 2022, and January 28, 2022, respectively on the website
+
+   https://www.dwssm.gov.np.
+
+
+
+
+
+                                                               20
+
+The World Bank
+
+Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+
+
+
+
+   cycle. As noted in the Environmental and Social Commitment Plan, the PMU will conduct a detailed
+
+   institutional E&S capacity assessment of implementing partners, update the E&S capacity strengthening
+
+   plan in the ESMF, and implement the plan. The component 1 activities will be leveraged to support staffing
+
+   and training of the implementing institutions on E&S issues.
+
+
+
+   50.      Citizen Engagement. The project will leverage and enhance existing citizen-led planning and
+
+   operation of water supply schemes in Nepal. A planned Participatory Water Sector Federalism
+
+   Implementation Assessment under Component 1 will deploy focus group discussions with local water user
+
+   groups, indigenous people organizations, and women. Support will be provided for behavior change
+
+   campaigns and IEC programs to promote optimal water use, payment of tariffs, and social accountability
+
+   on service quality for local communities. Similarly, a watershed and multi-hazard risk assessment (under
+
+   Component 3) will engage local forest user groups and, as a critical output, include such groups in
+
+   rehabilitating watersheds and reforestation activities to promote local ownership and control of
+
+   community forests resources. A beneficiary satisfaction survey will be conducted (before and after
+
+   construction) to assess citizens' views on water infrastructure planning and to gather their feedback on
+
+   access and operations of water and sanitation systems when completed. A robust SEP has also been
+
+   prepared to guide the consultation and engagement of local communities in the planning, construction
+
+   and operation of water supply schemes and sanitation services. The SEP includes a grievance redress
+
+   mechanism to facilitate uptake and redress of project-related complaints.
+
+
+
+   51.      Gender. A comprehensive gender assessment has been conducted for the proposed project66. Key
+
+   gender gaps identified are (a) employment in water institutional structures; (b) voice and representation
+
+   in water management decision-making in community structures; and (c) lack of knowledge on menstrual
+
+   hygiene, limiting girls’ school attendance. Women comprise roughly 20 percent of officer-level staff at the
+
+   DWSSM and the Kathmandu Upatyaka Khanepani Limited (KUKL),67 with only one female first-class officer
+
+   and more women hired as support staff. Factors limiting women’s employment in WASH include limited
+
+   education, particularly in science, technology, engineering, and management (STEM);68 gender-based
+
+   occupation segregation; social norms that impede employment aspirations and mobility of women; and
+
+   assigning of disproportionate domestic responsibilities resulting in time poverty, early marriage, and
+
+   childbearing. Other factors include concerns about the risk of GBV in and traveling to the workplace, the
+
+   stigma associated with working away from home, low retention due to the lack of gender-responsive
+
+   workplace policies and infrastructure, and fewer opportunities for career advancement. Barriers in voice
+
+   and representation pertain to underrepresentation in water policies and programs, tokenism, lack of
+
+   meaningful participation, and lower access to capacity enhancement/training. Regarding MHM, taboos
+
+   and stigma associated with menstruation and lack of accurate information and MHM facilities result in
+
+   girls missing school during their periods.
+
+
+
+   52.     The actions to reduce the gaps in women’s employment and decision-making opportunities in the
+
+   WASH sector include a review of human resources and gender policies of the ministry, department,
+
+   MWASH units, and service providers/utilities. The project will improve employment opportunities to
+
+   incentivize recruitment and retention, career advancement, and technical training of women in technical
+
+
+
+   66 World Bank, WaterAid 2022. Gender Assessment in Water Sector in Nepal. World Bank, Washington DC.
+
+   67 KUKL is a public company registered under the Nepal Government’s Company Act 2063 and operates under the PPP modality.
+
+   (https://kathmanduwater.org/index.php/about-us/).
+
+   68 Just 0.3 percent are in the water supply industry and 0.3 percent in professional, scientific, and technical activities; only 1 in 7
+
+
+
+   managers are female (comprising upper-, middle-, and lower-level management [Women in Water - wbwaterdata.org]).
+
+
+
+
+
+                                                                     21
+
+The World Bank
+
+Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+
+
+
+
+   and managerial positions in the DWSSM, municipal WASH units, WUSCs, and water quality monitoring
+
+   laboratories, as well as promote and employ women in the construction of water and sanitation schemes.
+
+   Sex-disaggregated data will be maintained at the local level to monitor women’s progress in employment,
+
+   retention, representation, and capacity building. The project also aims to reduce girls’ school absenteeism
+
+   due to menstruation. Actions include incorporation of MHM facilities in school toilet construction and
+
+   outreach and communication in schools and communities. Results Framework indicators to measure
+
+   reduction in the targeted gender gaps include corporatized municipal WSS utilities established and
+
+   operational with (25 percent) female share of staff; female share (30 percent) of lab technicians employed
+
+   in water quality laboratories; women employed in construction, operation, and management of water
+
+   and sanitation schemes (33 percent of employees). To measure the impact of MHM-focused actions, a
+
+   perception survey of schoolgirls and the community on MHM awareness will be conducted.
+
+
+
+     V. GRIEVANCE REDRESS SERVICES
+
+
+
+   53.     The project will support existing grievance mechanisms established by LGs to build municipal
+
+   capacity in effectively addressing and resolving community grievances and to strengthen these local
+
+   systems. Where no mechanism is available, the project will support the establishment of such a
+
+   mechanism upon which the project will draw. Recourse will be made to regional or central-level
+
+   mechanisms where the grievance is not satisfactorily addressed or where resolution is not within the
+
+   capacity of the LGs. The PMU will support and document the process and ensure the timely resolution of
+
+   grievances.
+
+
+
+   54.     In addition to a project-specific GRM system, communities and individuals who believe that they
+
+   are adversely affected by a World Bank (WB) supported project may submit complaints to the WB’s
+
+   Grievance Redress Service (GRS). Project-affected communities and individuals may further submit their
+
+   complaint to the WB’s independent Inspection Panel which determines whether harm occurred or could
+
+   occur, because of WB noncompliance with its policies and procedures. Complaints may be submitted at
+
+   any time after concerns have been brought directly to the World Bank’s attention, and Bank Management
+
+   has been given an opportunity to respond. For information on how to submit complaints to the World
+
+   Bank’s corporate GRS, please visit http://www.worldbank.org/en/projects-operations/products-and-
+
+   services/grievance-redress-service. For information on how to submit complaints to the World Bank
+
+   Inspection Panel, please visit www.inspectionpanel.org.
+
+
+
+     VI.    KEY RISKS
+
+
+
+   55.   The overall project risks, after mitigation, are Substantial. The key risk elements and mitigation
+
+   measures are discussed below.
+
+
+
+   56.     Political and governance risks are Substantial. Nepal’s political situation continues to remain fluid
+
+   amid elections of all three tiers of government during 2022, starting with local elections in the fourth
+
+   quarter of the current fiscal year. Repeated obstruction of parliament by the opposition has resulted in
+
+   delays in the passage of many bills including those related to the implementation of federalism. In
+
+   principle, the federal system provides opportunities to decentralize development benefits and make
+
+   service delivery more effective and accountable. The pandemic also underscored the role of LGs,
+
+   especially in deploying social programs. However, the risks of political uncertainty, jurisdictional overlap
+
+   between the three tiers of government, and lack of clarity and coherence between policies and devolved
+
+
+
+
+
+                                                        22
+
+The World Bank
+
+Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+
+
+
+
+   powers will remain in the coming period. The World Bank is closely monitoring the country situation and
+
+   maintains regular dialogue on the development agenda with all key political parties to mitigate any risks
+
+   that may be influenced by political change. While the extent to which political risks can be mitigated
+
+   through project-specific measures is limited, the project design includes specific steps and actions to build
+
+   public support through broader stakeholder participation, strategic communication, and outreach. Other
+
+   measures include implementing the institutional strengthening activities under the project, dialogue and
+
+   close collaboration with Government entities, and proactive engagement by the World Bank team and
+
+   management as issues arise.
+
+
+
+   57.     Macroeconomic risks are Substantial. One major uncertainty is the speed of booster dose
+
+   deployment and vaccine effectiveness to stop transmission of a new COVID-19 variant. Another is stronger
+
+   import control measures to mitigate pressures on international reserves, which could affect growth
+
+   through lower trade-related tax revenues, depressed private consumption and production, and lower
+
+   CAPEX. The ongoing Russia-Ukraine conflict, if it deepens further, could lower travel demand and may
+
+   threaten the recovery of tourism and tourism-related sectors. While downside risks are significant,
+
+   Nepal’s strong record of sustained macroeconomic stability during periods of large exogenous shocks
+
+   demonstrates a growing capacity to navigate future macroeconomic risks. If the pandemic proves
+
+   protracted, the consequent macroeconomic effects may undermine the achievement of the PDO,
+
+   especially if they lead to a further tightening of fiscal space and reduced availability of counterpart funds
+
+   or an increase in the price of crucial imported inputs. Mitigation measures include the following: (a) the
+
+   requirement for counterpart funds is kept to a minimum and (b) project costing includes price
+
+   contingencies to mitigate the risk of an increase in the price of imported goods.
+
+
+
+   58.     Sector strategies and policies risks are Substantial. Key sector policies and laws are currently
+
+   undergoing revision, that is, the WASH Bill (2021), National Water Supply, Sanitation and Hygiene Sector
+
+   Development Plan (2017–2030, draft), and National Water Supply and Sanitation Policy (Draft) to reflect,
+
+   among other things, the change to a federal system of government which will be important for effective
+
+   implementation of projects. Additionally, the sector suffers from residual tendencies of centralized
+
+   government, limited oversight of fiduciary aspects, and a lack of financial and operational autonomy of
+
+   LGs. The reforms proposed in the project are grounded in the country’s existing robust legislative policy
+
+   regime under the 2015 constitution and LGOA 2017. The World Bank is working closely with MoWS to
+
+   mitigate this risk by ensuring key reforms piloted in this project are also reflected in the revised sector
+
+   policies and will continue engaging in policy dialogue to ensure that the key policy and legislative
+
+   instruments are reviewed, approved, and adopted.
+
+
+
+   59.      Institutional capacity for implementation and sustainability risk is Substantial. There is a
+
+   significant risk that government structures, including local levels, may not have enough capacity to
+
+   implement and manage project-supported activities. LGs lack adequate human resources and technical
+
+   and financial capacity to fulfill their mandates. There is also a lack of clarity on the roles of the three tiers
+
+   of government, and intergovernmental coordination mechanisms are lacking. To address these risks, the
+
+   project will provide support to strengthen the institutional capacities of the critical units within the
+
+   provincial and local governments. A participatory Water Sector Federalism Implementation Assessment
+
+   will be conducted in the first year, which will feed into policy dialogue and identify additional reforms to
+
+   be supported by the project. The integrative nature of the project ensures that infrastructure solutions
+
+   will be deployed in synchronization with institutional development to optimize use, services, and costs,
+
+   all aiming at low cost, climate resilience, locally adapted solutions.
+
+
+
+
+
+                                                          23
+
+    The World Bank
+
+    Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+
+
+
+
+       60.     Fiduciary management risk is Substantial. Several initiatives have been implemented to enhance
+
+       the operating environment public finance management (PFM) at the provincial and local government
+
+       (PLG) levels in the project areas, including the development and implementation of financial regulations,
+
+       the introduction of Subnational Treasury Regulatory Application (SuTRA), an external audit carried out by
+
+       the Supreme Audit Institution, good coverage of PFM by Financial Procedures and Fiscal Responsibility
+
+       Act and Regulation, rolling out of Nepal Public Sector Accounting Standards among others, all of which
+
+       include PLGs. However, many PLGs are in the process of building their FM capability, including
+
+       strengthening of their legal environment, system development, staff mobilization, establishing of
+
+       standard internal and external auditing systems, and so on. A mitigation measure is to enhance the FM
+
+       capacity of participating municipalities by providing additional capacity-building programs in collaboration
+
+       with other ongoing DP engagements and Government of Nepal programs, including IPFMRP.
+
+
+
+       61.    Procurement risk is Substantial. The bulk of the civil works activities will be undertaken under
+
+       Component 2 by the urban and rural municipalities, while the PMU under the DWSSM will implement
+
+       Components 1 and 3 of the project. Usage of the Systematic Tracking of Exchanges in Procurement (STEP)
+
+       system by the implementing agencies at the municipal level may be challenging due to their weak
+
+       procurement capacity, including a lack of experience in implementing World Bank-financed projects.
+
+       Procurement risks will be mitigated through (a) ensuring adequate staffing of requisite expertise
+
+       throughout the project life cycle, (b) engaging consulting firms for providing technical/management
+
+       support, and (c) designing and implementing an appropriate capacity-building program for
+
+       DWSSM/municipal staff on procurement, contract management, and technical skills development.
+
+
+
+       62.      Environmental and social risks is Substantial due to the limited existing capacity and systems in
+
+       implementing entities for identifying and managing E&S risks and impacts, as well as considering the
+
+       potential for adverse impacts of proposed activities on the environment and host communities of the
+
+       project. Overall, the proposed interventions are expected to benefit people residing in selected
+
+       municipalities through improved and climate resilient WSS services and improved capacity of
+
+       municipalities. The E&S risks will also be mitigated through a screening and assessment mechanism
+
+       defined in the ESMF and PIM to exclude all high-risk interventions and to minimize, mitigate, and manage
+
+       E&S risks and impacts in the eligible subprojects. Additionally, the project will provide extensive technical
+
+       training and on-the-ground support for municipalities by deploying design and supervision support teams.
+
+       The PST at the federal level will also have dedicated E&S safeguards experts to provide due diligence,
+
+       quality assurance, and implementation supervision support to the MoWS PMU and social and
+
+       environmental officers at participating municipalities and mobilizers as needed.
+
+
+
+       63.     Other risk is Substantial. Due to the ongoing COVID-19 pandemic, the Government imposed
+
+       lockdowns and travel restrictions may be imposed, which may affect the implementation of the project
+
+       during the first year. Construction sites have typically been exempted from these restrictions; thus, civil
+
+       works components are unlikely to be adversely affected by the pandemic. However, the capacity building
+
+       and technical assistance activities may be affected initially. To mitigate this risk, virtual technologies will
+
+       be adopted for training and capacity-building activities where possible. This risk is expected to reduce as
+
+       vaccination rates continue to rise in Nepal, with the expectation that vaccination coverage will reach
+
+       adequate levels to diminish the rates of infection by the second year of the project.
+
+.
+
+
+
+
+
+
+
+
+
+                                                             24
+
+                         The World Bank
+
+                         Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+
+
+
+
+                                                                      VII.   RESULTS FRAMEWORK AND MONITORING
+
+
+
+                                                                                    Results Framework
+
+                                                                                     COUNTRY: Nepal
+
+                                                                 Water Sector Governance and Infrastructure Support Project
+
+
+
+Project Development Objectives(s)
+
+The Project Development Objective (PDO) is to strengthen sector institutional capacity for service delivery under federalism and increase access to
+
+improved water supply and sanitation services in the participating municipalities.
+
+
+
+Project Development Objective Indicators
+
+RESULT_FRAME_TBL_ PD O
+
+
+
+
+
+
+
+
+
+                                      Indicator Name                   PBC    Baseline                                        End Target
+
+
+
+
+
+Strengthen sector institutional capacity for service delivery
+
+
+
+1. Water, Sanitation and Hygiene (WASH) entities in
+
+Municipalities formally established and operating under the                  0.00                                             6.00
+
+Local Government. (Number)
+
+
+
+2. Corporatized municipal WSS utilities established and
+
+                                                                             0.00                                             2.00
+
+operational with at least 25% female staff. (Number)
+
+
+
+3. A section responsible for regulatory and business support
+
+functions is established and operating in Federal Department of              No                                               Yes
+
+Water Supply and Sewerage Management (DWSSM) (Yes/No)
+
+
+
+Increase access to improved water supply and sanitation services
+
+
+
+1. People provided with access to improved safely-managed
+
+                                                                             0.00                                             400,000.00
+
+climate resilient water sources (Number)
+
+
+
+                   Of which 50 percent are female (Number)                   0.00                                             200,000.00
+
+
+
+2. People provided with access to safely managed, climate                    0.00                                             140,000.00
+
+
+
+
+
+                                                                                                25
+
+                         The World Bank
+
+                         Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+
+
+RESULT_FRAME_TBL_ PD O
+
+
+
+
+
+
+
+
+
+                                      Indicator Name                   PBC    Baseline                End Target
+
+
+
+
+
+resilient sanitation services (Number)
+
+
+
+                   Of which 50 percent are female (Number)                   0.00                     70,000.00
+
+
+
+  PDO Table SPACE
+
+
+
+
+
+Intermediate Results Indicators by Components
+
+RESULT_FRAME_TBL_ IO
+
+
+
+
+
+
+
+
+
+                                      Indicator Name                   PBC    Baseline                End Target
+
+
+
+
+
+Component 1: Strengthening Sector Governance and Institutional Capacity, Project Management
+
+1. Municipalities with approved climate sensitive WASH Plan
+
+prepared using NWASH MIS system (Number)                                     0.00                    6.00
+
+
+
+2. Utility staff, WSUC and service provider personnel trained on
+
+technical and financial capacities for climate resilient WASH                0.00                    1,000.00
+
+service delivery (Number)
+
+3. NWASH MIS operational and expanded to include specific
+
+modules on climate resilience monitoring, water quality,                     0.00                    1.00
+
+sanitation, planning and benchmarking (Number)
+
+4. DWSSM staff, high-level authorities, PLG officials and
+
+stakeholders trained on federalized WASH governance and                      0.00                    300.00
+
+climate resilient service delivery (Number)
+
+5. Grievances registered related to project delivery that have
+
+                                                                             0.00                    100.00
+
+been redressed (Percentage)
+
+6. People satisfied with of water and sanitation service
+
+improvements (Percentage)                                                    0.00                    85.00
+
+
+
+Component 2: Increasing Access to Climate resilient, Improved and Safe Water Supply and Sanitation
+
+1. Households connected with safe and climate resilient piped
+
+water sources. (Number)                                                      0.00                    80,000.00
+
+
+
+2. Water supply schemes that have conducted energy audits and                0.00                    80.00
+
+
+
+
+
+                                                                                                26
+
+                       The World Bank
+
+                       Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+
+
+RESULT_FRAME_TBL_ IO
+
+
+
+
+
+
+
+
+
+                                    Indicator Name                    PBC    Baseline                   End Target
+
+
+
+
+
+adopted energy use efficiency measures. (Percentage)
+
+3. Climate smart toilets in schools, health posts and in key public
+
+places constructed and operational (Number)                                 0.00                       20.00
+
+
+
+4. Households provided access to improved climate sensitive
+
+sanitation facilities, including sewerage, periodic onsite                  0.00                       25,000.00
+
+emptying, and in-situ treatment (Number)
+
+5. Water quality test laboratories established and functional at
+
+                                                                            0.00                       6.00
+
+local level. (Number)
+
+6. Female share of lab technicians employed in water quality
+
+                                                                            0.00                       30.00
+
+laboratories (Percentage)
+
+7. Women employed in the construction, operation and
+
+                                                                            0.00                       33.00
+
+management of water and sanitation schemes (Percentage)
+
+8. New pumping stations and transmission mains constructed
+
+and operational, with climate resilient design against 100-year             0.00                       100.00
+
+return period floods (Percentage)
+
+Component 3: Reducing Climate Hazards impacting WSS Infrastructure through IWRM and Watershed Manage
+
+1. Surface water and groundwater sources sites in watershed
+
+conservation areas that are regularly measured and monitored                0.00                       10.00
+
+for the discharge and quality (Number)
+
+2. Water balance model for different climate scenarios and
+
+IWRM assessment for Surkhet Valley is developed and in use                  No                         Yes
+
+(Yes/No)
+
+3. Area of watershed under integrated water resources
+
+management practices and source protection measures                         0.00                       20,000.00
+
+(Hectare(Ha))
+
+  IO Table SPACE
+
+
+
+  UL Table SPACE
+
+
+
+
+
+
+
+
+
+                                                                                              27
+
+     The World Bank
+
+     Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+
+
+
+
+                                                            Monitoring & Evaluation Plan: PDO Indicators
+
+                                                                                                                Methodology for Data       Responsibility for Data
+
+Indicator Name                                Definition/Description         Frequency         Datasource
+
+                                                                                                                Collection                 Collection
+
+                                          MWASH Units within the                               PMU/MWAS
+
+                                          municipality organizational                          H Unit           WASH Plans,
+
+1. Water, Sanitation and Hygiene (WASH)
+
+                                          structure with adequate     Baseline, Mid            Trimester        official organogram
+
+entities in Municipalities formally                                                                                                        PMU/DWSSM
+
+                                          staffing and logistics,     term and End             progress         with WASH unit, by-
+
+established and operating under the Local
+
+                                          performing planning,                                 reports,         laws, SOPs
+
+Government.
+
+                                          regulatory and M&E                                   NWASH MIS
+
+                                          functions using NWASH MIS.
+
+                                                                                               Utility annual
+
+                                              Utility is operational if it has                 reports,
+
+                                              a contract with the              Baseline, Mid   O&M
+
+2. Corporatized municipal WSS utilities
+
+                                              municipality, defined KPIs,      term & End      records and      Desk review                PMU/DWSSM
+
+established and operational with at least
+
+                                              articles of association,         line            customer
+
+25% female staff.
+
+                                              offices and staff delivering                     satisfaction
+
+                                              services.                                        surveys
+
+
+
+                                                                                                                - Review of official
+
+                                              Section in DWSSM will                            Trimester
+
+3. A section responsible for regulatory and                                  Baseline,                          DWSSM organogram,
+
+                                              conduct sector reviews,                          progress
+
+business support functions is established                                    Trimester, Mi                      periodic section
+
+                                              prepare national standards,                      report                                      PMU/DWSSM
+
+and operating in Federal Department of                                       d term, and                        reports, SOPs etc., plus
+
+                                              provide technical                                from PMU/D
+
+Water Supply and Sewerage Management                                         End line                           assessment at project
+
+                                              backstopping support and                         WSSM
+
+(DWSSM)                                                                                                         closure.
+
+                                              PLG coordination
+
+                                              People with access to                            PMU              Coverage disaggregated
+
+                                              improved safely-managed                          Trimester        by
+
+1. People provided with access to
+
+                                              water supply services          Trimester         progress         population/households, PMU/DWSSM
+
+improved safely-managed climate
+
+                                              provided through WSS                             reports,          Citizen feedback
+
+resilient water sources
+
+                                              infrastructure that is climate                   NWASH MIS        surveys
+
+                                              proofed
+
+
+
+
+
+                                                                                    28
+
+     The World Bank
+
+     Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+
+
+
+
+    Of which 50 percent are female
+
+                                                                                        PMU
+
+                                                                                                       Beneficiary
+
+                                                                                        trimester
+
+2. People provided with access to safely   Beneficiaries from improved                                 surveys, coverage
+
+                                                                       Trimester        progress                                PMU/DWSSM
+
+managed, climate resilient sanitation      sanitation facilities that                                  disaggregated data by
+
+                                                                                        report,
+
+services                                   have been constructed                                       population/households
+
+                                                                                        NWASH MIS
+
+
+
+    Of which 50 percent are female
+
+ME PDO Table SPACE
+
+
+
+
+
+                                                 Monitoring & Evaluation Plan: Intermediate Results Indicators
+
+                                                                                                      Methodology for Data     Responsibility for Data
+
+Indicator Name                             Definition/Description         Frequency    Datasource
+
+                                                                                                      Collection               Collection
+
+                                                                                       - PMU
+
+                                           WASH plans prepared
+
+                                                                                       Trimester
+
+1. Municipalities with approved climate    including a comprehensive
+
+                                                                          Trimester    progress       - Verification by PMU    PMU/DWSSM
+
+sensitive WASH Plan prepared using         CWIS plan, with budget for
+
+                                                                                       report,
+
+NWASH MIS system                           implementation and
+
+                                                                                       NWASH MIS
+
+                                           monitoring
+
+                                            Cumulative number of
+
+                                            people from utilities, service             - Training
+
+2. Utility staff, WSUC and service provider
+
+                                            providers, entrepreneurs,                  reports, PMU   - Assessment of training MWASH unit,
+
+personnel trained on technical and                                         Trimester
+
+                                            WSUCs, trained on WASH                     trimester      program effectiveness    PMU/DWSSM
+
+financial capacities for climate resilient
+
+                                            service provision, safe                    report
+
+WASH service delivery
+
+                                            sanitation, IWRM/resilient
+
+                                            WASH, O&M etc.
+
+3. NWASH MIS operational and expanded Measures the adoption of                                        - Review of NWASH
+
+to include specific modules on climate      the NWASH MIS in the           Annual      NWASH MIS      MIS, PMU trimester       PMU/DWSSM
+
+resilience monitoring, water quality,       participating municipalities                              progress reports
+
+sanitation, planning and benchmarking       and expansion of MIS to
+
+
+
+                                                                                 29
+
+     The World Bank
+
+     Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+
+
+
+
+                                           include specified modules
+
+                                            DWSSM, PLGs, and other
+
+                                                                                       MWASH unit,     - Review of
+
+                                            relevant authorities and
+
+4. DWSSM staff, high-level authorities,                                                MoWS/PMU/       training/events reports
+
+                                            stakeholders receiving
+
+PLG officials and stakeholders trained on                                  Trimester   DWSSM           and PMU trimester         PMU/DWSSM
+
+                                            training, exposure visits,
+
+federalized WASH governance and                                                        training        report
+
+                                            orientation, etc. on water
+
+climate resilient service delivery                                                     records
+
+                                            utility operations, new
+
+                                            technologies, MIS etc.
+
+                                            Percentage of grievances
+
+                                                                                       MWASH
+
+                                            registered related to                                      - Review of GRM
+
+                                                                                       units/
+
+                                            delivery of project benefits                               database
+
+                                                                                       municipalitie
+
+5. Grievances registered related to project or avoidance of negative       Trimester                   - Review of trimester     MWASH units, PMU
+
+                                                                                       s
+
+delivery that have been redressed           impacts that are actually                                  progress report from
+
+                                                                                       and PMU/D
+
+                                            addressed within three                                     the PMU/DWSSM
+
+                                                                                       WSSM
+
+                                            months of being recorded in
+
+                                            the Project GRM database
+
+                                            Percentage of community        Baseline,
+
+                                            people satisfied with the      Mid term    MWASH unit,     - Beneficiaries
+
+6. People satisfied with of water and                                                                                            PMU/DWSSM
+
+                                            WASH service provided          and End     PMU             satisfaction assessment
+
+sanitation service improvements
+
+                                            through project                line
+
+                                            interventions.
+
+                                                                                                       - Beneficiary surveys, N-
+
+                                           Households connected to
+
+                                                                                                       WASH MIS,                 MWASH units,
+
+1. Households connected with safe and      piped water supply though       Trimester   N-WASH MIS
+
+                                                                                                       - Verification by PMU/    PMU/DWSSM
+
+climate resilient piped water sources.     climate resilient water
+
+                                                                                                       DWSSM.
+
+                                           sources
+
+                                                                                                       - Field observation,
+
+                                           % schemes where energy
+
+2. Water supply schemes that have                                                                      review of energy use
+
+                                           use efficiency measures         Trimester   NWASH MIS                              PMU/DWSSM
+
+conducted energy audits and adopted                                                                    efficiency
+
+                                           such as efficient pumping,
+
+energy use efficiency measures.                                                                        implementation reports
+
+                                           lower NRW etc. adopted
+
+
+
+
+
+                                                                                 30
+
+     The World Bank
+
+     Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+
+
+
+
+                                            The number of toilets
+
+                                            constructed in schools,
+
+                                                                                                     - Field surveys on the
+
+                                            health posts or key public                 MWASH
+
+3. Climate smart toilets in schools, health                                                          operation of toilet      MWASH units,
+
+                                            places (market centers etc.)   Trimester   units, PMU
+
+posts and in key public places constructed                                                           constructed              PMU/DWSSM
+
+                                            including any climate smart                reports
+
+and operational
+
+                                            feature such as rainwater
+
+                                            harvesting, biogas
+
+                                            extraction etc.
+
+                                            Households with improved
+
+                                            sanitation facilities -
+
+4. Households provided access to                                                       MWASH         Review of trimester
+
+                                            sewerage (treated/                                                                MWASH units,
+
+improved climate sensitive sanitation                                      Trimester   Units, PMU,   report from MWASH
+
+                                            untreated), emptying and                                                          PMU/DWSSM
+
+facilities, including sewerage, periodic                                               NWASH MIS     units and PMU
+
+                                            conveyance systems, in-situ
+
+onsite emptying, and in-situ treatment
+
+                                            treatment, and other safe
+
+                                            disposal of wastewater.
+
+                                            Facilities testing minimum                               - Field
+
+                                                                                       MWASH
+
+                                            parameters such as: E-coli,                              Observations, PMU
+
+5. Water quality test laboratories                                         Trimester   units, PMU                             MWASH units, PMU
+
+                                            Turbidity, pH, Temp, EC and                              trimester progress
+
+established and functional at local level.                                             reports
+
+                                            Chlorine (FRC) and providing                             reviews
+
+                                            regular testing services
+
+                                            Percentage of women                        MWASH unit,
+
+6. Female share of lab technicians                                         Trimester                                          PMU/DWSSM
+
+                                            employed and trained on                    PMU
+
+employed in water quality laboratories
+
+                                            water quality lab operations
+
+                                                                                                     - Review of
+
+                                             Women involved in paid                    Worker
+
+                                                                                                     construction workers'
+
+7. Women employed in the construction,       employment during                         registers,
+
+                                                                           Trimester                 record                   MWASH unit, PMU
+
+operation and management of water and        construction and operation                MWASH unit,
+
+                                                                                                     - PMU verification
+
+sanitation schemes                           of Project water and                      PMU
+
+                                                                                                     reports
+
+                                             sanitation schemes.
+
+8. New pumping stations and                  Pumping stations and                      NWASH MIS     - Field observation,
+
+                                                                           Trimester                                          PMU/DWSSM
+
+transmission mains constructed and           transmission mains                        and Field     review of energy use
+
+operational, with climate resilient design   locations optimized against               Reports       efficiency
+
+
+
+                                                                                 31
+
+     The World Bank
+
+     Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+
+
+
+
+against 100-year return period floods      100 year floods                                           implementation
+
+                                                                                                     reports, procurement
+
+                                                                                                     and construction logs
+
+
+
+                                                                                      MWASH          - Acquiring data from
+
+1. Surface water and groundwater sources
+
+                                                                                      Units, PMU,    measurement
+
+sites in watershed conservation areas that                              Trimester                                             MWASH unit, PMU
+
+                                           Sites number                               WRM-DSS        stations.
+
+are regularly measured and monitored for
+
+                                                                                      model          - Field inspections
+
+the discharge and quality
+
+                                           Development of water                       - PMU report   - Model simulation
+
+2. Water balance model for different       balance model based on        Baseline &   - Water        results
+
+                                                                                                                              MWASH unit, PMU
+
+climate scenarios and IWRM assessment IWRM principles, including End                  balance        - Verification by
+
+for Surkhet Valley is developed and in use calibration, testing,                      model          PMU/DWSSM
+
+                                           adoption and maintenance
+
+                                           Conservation measures such                                - Field observation in
+
+                                                                                      PMU
+
+                                           as gully and erosion control,                             the watershed, Review
+
+3. Area of watershed under integrated                                                 Trimester                               MWASH unit,
+
+                                           landslide treatment, river    Trimester                   of implementation
+
+water resources management practices                                                  progress                                PMU/DWSSM
+
+                                           training work, plantation,                                reports, Geo-
+
+and source protection measures                                                        reports
+
+                                           recharge pits, discharge and                              spatial/satellite data
+
+                                           water quality monitoring
+
+ ME IO Table SPACE
+
+
+
+
+
+
+
+
+
+                                                                               32
+
+The World Bank
+
+Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+
+
+                        ANNEX 1: Implementation Arrangements and Support Plan
+
+
+
+                                           COUNTRY: Nepal
+
+                       Water Sector Governance and Infrastructure Support Project
+
+
+
+ 1.       MoWS will be the primary coordinating agency for the project and will be responsible for project
+
+ implementation, management, supervision, and coordination. A PMU will be established in the MoWS
+
+ DWSSM with a full-time project director and key project management/technical staff. The DWSSM PMU
+
+ will be responsible for implementation of Components 1 and 3, in coordination with beneficiary
+
+ municipalities. The PMU will be supported by a PST, comprising expertise in technical, FM, procurement,
+
+ E&S safeguards, gender and social inclusion, M&E, and project management. The PMU’s role includes
+
+ procurement of technical consultancies such as the PST and MSTs and other necessary service contracts
+
+ for activities under Component 1 and 3. The PST will comprise experts in areas such as water sector
+
+ institutional development, WASH planning and engineering, citizen engagement and community
+
+ mobilization, social development, gender and social inclusion, FM, procurement and contract
+
+ management, M&E, and environmental management.
+
+
+
+ 2.       In line with their mandate under federalism, Participating municipalities will be responsible for
+
+ the implementation of Component 2, which comprises over 75 percent of Project investments.
+
+ Accordingly, they will receive support to establish the necessary institutional structures and capacity for
+
+ WASH service delivery through Component 1. As a first step, partitipating municipalities will be required
+
+ to establish a dedicated MWASH unit as formal entity legally established within the local government
+
+ institutional structure which will be responsible for WASH service planning, regulation and service delivery
+
+ within the municipality beyond the life of the Project. Due to the limited capacity at the local level, project
+
+ managers will be seconded by the MoWS DWSSM to support a PIU to be established in each participating
+
+ municipality, which will be responsible for the actual implementation of Component 2 activities.
+
+
+
+ 3.      The PIU is a Special Project Vehicle to embed DWSSM technical assistance and handholding
+
+ support to the Municipalities. It will be responsible for identifying, planning, designing, and implementing
+
+ WSS infrastructure investments, as well as for the management, oversight, and reporting. For each
+
+ participating municipality, this PIU will be led by a project manager seconded by the DWSSM and will
+
+ include the MWASH unit head and staff (established under the project), as well as key personnel in areas
+
+ of WSS engineering, planning, FM, and community mobilization for implementing the infrastructure
+
+ subprojects and institutional strengthening activities. MSTs will be hired by the PMU to support the PIUs
+
+ in the participating municipalities for design and supervision support comprising expertise in
+
+ technical/engineering, FM, procurement, M&E, gender and social inclusion, and E&S safeguards. The
+
+ municipalities through their PIUs will be responsible for implementation in close collaboration with wards
+
+ and WSUCs. In the rural subcomponent, WSUCs in the participating municipalities will be closely involved
+
+ in the identification, implementation, and supervision of rural WASH schemes. All the participating
+
+ municipalities for Component 2 will be required to sign a participation agreement with MoWS to agree to
+
+ the terms and conditions of the proposed project. A responsibility matrix for the implementation of
+
+ Component 2 activities is provided in Table 1.1 below.
+
+
+
+
+
+
+
+
+
+                                                       33
+
+The World Bank
+
+Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+                    Table 1.1. Responsibility Matrix for Implementation of Component 2 Activities
+
+
+
+                      Technical/                                         FM/Reporting/
+
+                                               Procurement                                         E&S Safeguards
+
+                     Engineering                                           Payments
+
+  PIUs and       • Prepare financial      • Prepare bid              • Undertake the            • Undertake E&S risk
+
+  MWASH          reports/DPRs for         documents, carry out the   annual planning and        screening and prepare
+
+  units,         identified               bidding process, sign      budgeting process at the   ESIA/ESMP/necessary
+
+  supported      subprojects.             contracts, and manage      municipal level, manage    safeguard instruments
+
+  by the MST     • Supervise the          the contracts.             payments to contractors,   as per the ESMF.
+
+  teams          contractors’ work.                                  and report to MoWS.        • Prepare annual
+
+                                                                                                safeguards compliance
+
+                                                                                                reports.
+
+  DWSSM PMU      • Conduct                • Conduct due              • Consolidate annual       • Conduct technical
+
+  (under         technical review/due     diligence of all           budget requirements of     review/due diligence,
+
+  MoWS),         diligence and provide    procurement documents      all municipalities and     including field
+
+  supported by   clearance to financial   and contract               coordinate with Ministry verification of all
+
+  the PST        reports/DPRs/project     management procedures      of Finance (MoF).          safeguard documents
+
+                 implementation           as per World Bank’s        • Consolidate periodic as per ESMF
+
+                 reports.                 procurement guidelines.    expenditure reports from requirements.
+
+                 • Seek World             • Seek World Bank no-      all municipalities, as per • Seek no-objection
+
+                 Bank’s no-objection      objection through the      the format in the PIM.     from the World Bank on
+
+                 on all documents and     STEP system and report     • Report to MoF and        all documents, as
+
+                 reports as per PIM.      as per the PIM.            the World Bank             needed.
+
+                                                                     periodically.
+
+
+
+ 4.      Component 4, if activated, will be implemented based on the provisions in the separate
+
+ Implementation Manual that will be prepared for this component, which will provide detailed guidelines
+
+ and instructions on how to trigger the contingency emergency response component and use funds.
+
+
+
+ 5.      The PIM, reviewed by the World Bank, describes the implementation systems, procedures,
+
+ detailed technical design guidance notes, and supervision mechanisms for all project activities.
+
+
+
+ 6.      Governance and project oversight mechanisms. A two-layered mechanism has been proposed
+
+ for project oversight to ensure proper accountability at the local and federal level:
+
+
+
+         (a)     At the federal level, a high-level PSC will be constituted. It will be headed by the Secretary
+
+                 MoWS and will comprise key MoWS and DWSSM officials, representation from other
+
+                 relevant federal ministries/agencies (such as the Ministries of Energy Water Resources and
+
+                 Irrigation and Forests and Environment, MoFAGA, the PMoPIDs), and selected mayors from
+
+                 some of the participating municipalities.
+
+
+
+         (b)     At the local level, a Municipal Project Implementation Committee will be headed by the
+
+                 relevant mayor and will comprise the deputy mayor, municipality CEO, deputy mayor,
+
+                 provincial government representative, head of the MWASH unit, a representative from the
+
+                 WSUCs, and a project manager seconded from the MoWS DWSSM.
+
+
+
+ 7.      Figure 1.1 illustrates the project’s institutional framework.
+
+
+
+
+
+
+
+
+
+                                                             34
+
+The World Bank
+
+Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+    Figure 1.1. Water Sector Governance and Infrastructure Support Project (WASGISP) Institutional Framework
+
+
+
+
+
+
+
+
+
+ 8.       The project will implement a municipality-wide water service-delivery model. Thus, the current
+
+ highly fragmented and scattered WSUC-managed WSS systems will be brought under the oversight and
+
+ supervision of a dedicated MWASH unit, while WSUCs in urban municipalities will be consolidated into a
+
+ single corporatized professional municipal utility/service provider (see Table 1.2.
+
+
+
+       Table 1.2. Comparison between the Current WSUC-led WASH Model and the Proposed Utility Model
+
+       Aspect          WSUC-led WASH Service Delivery Model                  Municipality-wide Utility Model
+
+   Operating       Local community level, anywhere from 3–           Covers all households in a municipality,
+
+   scale           20,000 max households, fragmented water           ~10,000 households and above. Integrated
+
+                   supply networks and operations. Suited to         and scalable operations within jurisdiction of
+
+                   rural context.                                    service provider. Suited to urban context.
+
+   Governance      Established committee comprised of non-paid       Professional board of governors who are paid
+
+                   volunteers elected/seconded by the local          for service. Corporate entity governed by
+
+                   community. Variable/low accountability for        commercial principles. High accountability for
+
+                   service standards.                                service standards.
+
+   Management      Non/semiprofessional personnel. Minimal           Professional personnel including engineers,
+
+   structure and   expertise in network planning and design, low     accountants, auditors etc., with capacity for
+
+   functions       fiduciary management, limited O&M capacity,       capital and operational expenditure planning,
+
+                   often with only one trained village               accounting and finance, procurement, O&M,
+
+                   maintenance worker or plumber.                    billing and collections, auditing, logistics.
+
+   Financial       CAPEX and OPEX/infrastructure largely             Operations are financed by internal sources.
+
+   arrangements    financed by external parties, DPs, and            CAPEX is partly funded using internally
+
+                   Government of Nepal. Low tariffs leading to       generated resources. Tariffs are based on
+
+                   minimal cost recovery. Low fiduciary oversight.   cost recovery. Audited books of accounts.
+
+   Ownership of    Limited responsibility/accountability of the      Utility is fully accountable for the state of
+
+   assets          WSUC in case of low functionality of assets       infrastructure assets.
+
+   Standards       Little or no oversight by LGs. Depend on          Governing board for oversight based on
+
+   and             community accountability. Low capacity to         contractually specified KPIs and high water
+
+   regulation      deliver WHO/national service standards.           service standards.
+
+
+
+
+
+
+
+
+
+                                                         35
+
+The World Bank
+
+Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+ Financial Management
+
+
+
+ 9.      MoWS has recent experience in implementing World Bank-financed projects but the DWSSM does
+
+ not. The FM sections in both the agencies have qualified and experienced finance staff required for project
+
+ FM arrangement. As the project aims to implement major activities from the LG, assessment of the FM
+
+ capacity at the LG level has been undertaken including field visits to four municipalities: Sharada (Salyan),
+
+ Birendranagar (Surkhet), and Janaki and Joshipur (Kailali).
+
+
+
+ 10.    FM staffing. The MoWS DWSSM and the participating municipalities have adequate finance staff
+
+ and accountants for FM. Finance staff at the federal PMU and the participating municipalities will be
+
+ provided with training on project-specific FM aspects. A dedicated accounts officer will be hired at the
+
+ PMU at the federal level, that is, at the DWSSM. Each implementing municipality will also have a qualified
+
+ accountant who will be trained on implementing World Bank-financed projects. Considering the regular
+
+ workload of municipality finance staff, the project may hire FM consultants for each municipality as
+
+ necessary. Further, an FM consultant shall be hired to supplement capacity in the PMU.
+
+
+
+ 11.      Applicable FM regulations. The FM arrangements will follow the prevailing federal regulations—
+
+ such as the Financial Procedure and Fiscal Responsibility Act 2019, Local Government Operations Act
+
+ 2017, and Intergovernmental Fiscal Arrangement Act 2017. The FM in the municipalities will be guided by
+
+ the respective Financial Procedures Acts adopted by the local assemblies. The specific requirements for
+
+ project implementation at the municipality level will be guided by the participation agreement between
+
+ MoWS and the respective municipalities, as well as the PIM.
+
+
+
+ 12.     Planning and budgeting. The project has already got a separate budget subhead in the Red Book
+
+ (Government’s Budget Allocation Book) with a budget allocation of NPR 20.5 million from Government
+
+ source for FY2021–22. Each municipality shall formulate an annual work plan and budget (AWPB) for the
+
+ project as per the planning and budgeting process of the GoN and send the same to the PMU. The PMU
+
+ shall consolidate the AWPBs including for the federal level and provide a AWPB for the whole project. The
+
+ PMU shall have the responsibility to get approval from MoF and ensure that the budget is included in the
+
+ national ‘Red Book’. The project shall have a separate budget subhead and the PMU and municipalities
+
+ will be the cost centers. Line Ministry Budgetary Information System (LMBIS) shall recognize all the
+
+ municipalities as cost centers and accordingly budget authorization and release shall be made.
+
+
+
+ 13.     Counterpart funding. The Recipient has committed to 20 percent counterpart financing for the
+
+ project. The Recipient’s portion shall be maintained in the relevant fiscal year’s budget and the
+
+ counterpart funding shall be on joint co-financing basis, from the three tiers of government.
+
+
+
+ 14.     Annual grant cycle and fund flow. The participating municipalities will be assessed for the
+
+ compliance against the GACs on an quarterly basis by the DWSSM PMU. MoWS must submit the annual
+
+ consolidated budget estimate for the project to MoF through LMBIS and the same will be approved by
+
+ MoF as part of annual federal budgeting process. Conditional grants will be made available to the
+
+ municipalities on a quarter basis through the Treasury Single Account, DTCO, in alignment with the
+
+ existing disbursement procedure. At the end of the fiscal year, unspent grant funding will have to be
+
+ returned by municipalities to MoF and will be adjusted in the subsequent annual allocations. To avoid any
+
+ cash problems that may cause issues for municipalities to honor their contractual payment obligations,
+
+ MoF will ensure that municipalities have the required funds to carry out the multiyear investments
+
+ planned under this project through flexible budget reprogramming provisions.
+
+
+
+
+
+
+
+
+
+                                                      36
+
+The World Bank
+
+Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+ 15.      All requests for quarter budget release, except for the first tranche, must be accompanied by a
+
+ letter issued by the PMU substantiating that the requestor municipality has complied to such reporting
+
+ requirements, including the GAC requirements as appropriate, with a substantially acceptable quality and
+
+ on time. In case of default by the municipality in timely submission and/or the material quality of
+
+ information, the PMU may notify Financial Comptroller General Office/MoF, requesting for withholding
+
+ or suspension of further disbursement to the defaulting municipality until an acceptable submission is
+
+ made.
+
+
+
+ 16.     Disbursement. Payments shall be pre-financed from the Government’s treasury accounts, and
+
+ the International Development Association (IDA) will make reimbursements to the Government treasury
+
+ based on the SOEs. Direct payments to payees, except for local-level expenditures, can also be made from
+
+ IDA as specified in the IDA Disbursement and Financial Information Letter. The PMU will be responsible
+
+ for disbursement coordination for the project. Expenditure at the local level will also be met by the
+
+ municipality from the disbursements made by DTCO on a quarter basis to the respective local
+
+ consolidated funds.
+
+
+
+ 17.     Accounting and financial reporting. The PMU will have the responsibility to operationalize the
+
+ computerized government accounting system and SuTRA for accounting and reporting of the project
+
+ expenditures. The PMU shall also coordinate to implement the financial reporting templates based on
+
+ Nepal Public Sector Accounting Standards for annual reporting by the LGs. Considering the lack of
+
+ reporting obligations by the municipalities to the MoWS/PMU, MoWS will have an acceptable
+
+ arrangement with the World Bank that the municipalities will submit financial reports to the PMU. The
+
+ establishment of a periodic reporting mechanism by the municipalities is envisioned in the Partnership
+
+ Agreement and the FM manual included the PIM. Reporting will be a disbursement condition for releasing
+
+ of grants to the municipalities. Each municipality shall operationalize and maintain a separate project
+
+ expenditures head/ledger in SuTRA for the project. The municipalities shall submit the financial reports
+
+ to the PMU in a timely and reliable manner in addition to its existing formal reporting channels.
+
+
+
+ 18.     The disbursement shall be based upon SOE including expenditures collected and compiled by the
+
+ PMU from the municipalities. The expenditures incurred by implementing agencies shall be collected and
+
+ complied by the PMU and included in the IUFRs on a quarter basis. The IUFRs will be submitted to IDA
+
+ within 45 days of the end of each fiscal quarter in the format agreed with the World Bank. Accounting
+
+ ledgers related to disbursement, such as the Credit Register, Statement of Withdrawals, and so on shall
+
+ be maintained at the PMU. The FM consultants will help ensure timely and quality accounting, financial
+
+ reporting, and effective internal controls.
+
+
+
+ 19.     Internal control mechanisms. At the federal level, the internal control process of the Government
+
+ of Nepal will be applied. At the local level, the relevant provisions of the federal acts would apply along
+
+ with the respective local Financial Procedures Act/Regulations. Municipalities shall develop and
+
+ implement internal control guidelines based upon the model guidelines issued by the MoFAGA on October
+
+ 26, 2021.
+
+
+
+ 20.      Internal audit and external audit. The PMU will coordinate with the municipalities to ensure
+
+ timely and quality internal audit at the municipality level. The PMU shall record and monitor the internal
+
+ audit issues. The project financial statements, including the SOEs from the municipalities, will be audited
+
+ by the Office of the Auditor General (OAG). The external audit report for each year of project
+
+ implementation, including the audit opinion on municipality-level project implementation, will be
+
+ submitted to the IDA within nine months from the end of each fiscal year. To avert delays in audit report
+
+
+
+
+
+
+
+
+
+                                                     37
+
+The World Bank
+
+Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+ submission, the PMU will coordinate with the OAG by May of each year to ensure that the project’s audit
+
+ (including municipality-level expenditures) is scheduled on time. The municipalities and the PMU at the
+
+ federal level shall jointly work in recording and following up the audit issues by preparing an Audit Arrears
+
+ Resolving Action Plan. Relevant clearances have been received for an exception on pending audit reports
+
+ to be submitted to the World Bank by MoWS.
+
+
+
+ Procurement
+
+
+
+ 21.      Procurement Implementation. The PMU established in the DWSSM and the six PIUs in Karnali
+
+ and Sudurpashchim Provinces will be the procuring entities. All procuring entities will carry out
+
+ procurement including contract management activities. The PMU at the federal level will be the primary
+
+ coordinating agency for the project while providing guidance and supervision to the PIUs on procurement-
+
+ related matters. The PMU will be the first point of contact for the World Bank with responsibility to
+
+ consolidate procurement-related information/reporting procurement activities from the PIUs to the
+
+ World Bank. The PMU will be responsible for maintaining/updating Procurement Plans of PIUs in STEP,
+
+ sharing the World Bank-approved model bidding document under National Procurement Procedures, and
+
+ monitoring compliance of agreed procurement procedures and timely completion of procurement
+
+ activities. Detailed procurement procedures to be carried out by PIUs will be stated in the PIM.
+
+
+
+ 22.       PPSD, Procurement Plan, and STEP. The PPSD and Procurement Plan for the first 18 months of
+
+ project implementation, acceptable to the World Bank, have been submitted to the Bank. The project
+
+ Procurement Plan defines (i) procurement or selection methods, (ii) estimated costs, (iii) prior-review
+
+ requirements, and (iv) envisaged procurement timelines. There will be dedicated staff in the PMU to work
+
+ in STEP. The PMU will be the focal agency to submit the Procurement Plans on behalf of all PIUs as well
+
+ as to upload all post review activities in STEP. The Procurement Plan will be updated at least annually or
+
+ as required through the online STEP to adjust for actual performance, improved capacity, unforeseen
+
+ risks, or other implementation stage realities. Contracts not subject to prior review will be subject to post
+
+ review by the World Bank. Where appropriate to the size and number of contracts, post review will follow
+
+ a sample-based approach.
+
+
+
+ 23.     Procurement risk assessment. The following major risks have been identified: (a) limited technical
+
+ and procurement capacity of DWSSM in-house staff in planning, designing, procuring, and managing
+
+ contracts; (b) delay in decision-making in case of high-value contracts; and (c) adverse impact of the recent
+
+ amendment in public procurement rules, PPR 6th through 11th, which are not in line with good
+
+ procurement practices. These will have adverse implications in bidding process and contract execution,
+
+ such as not allowing bidders to participate in bidding for more than 5 procurement opportunities, unfair
+
+ sanction provision for bidders (i.e. exclusion of bidders against whom fraud and corruption charges has
+
+ been filed in the Court of Law), unfair contract termination & JV provisions, increased performance
+
+ security, addition of several bureaucratic layers for taking procurement decisions, etc. MoWS DWSSM
+
+ has not implemented World Bank-financed projects, though it has experience of executing projects
+
+ funded by the ADB. Considering the high volume of works procurement and scattered procurement, the
+
+ agency’s procurement risk is rated ‘Substantial’. A capacity assessment of the participating municipalities
+
+ by the World Bank noted that they have dedicated engineers/sub-engineers in their procurement
+
+ committees, but these staff have no experience of executing procurement under the World Bank’s
+
+ procurement procedures. Accordingly, the procurement risk of these agencies is rated ‘High’. The project
+
+ incorporates mitigation measures to reduce the risk, such as (a) hiring of a procurement specialist in an
+
+ intermittent basis for the first six months, to assist DWSSM in appointing the PSTs and MSTs and (b)
+
+ training of DWSSM and participating urban/rural municipalities by the World Bank team on the World
+
+
+
+
+
+
+
+
+
+                                                      38
+
+The World Bank
+
+Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+ Bank’s procurement. Thus, the residual risk is lowered to ‘Substantial’. Both the PSTs and MSTs will ensure
+
+ adequate supervision during the implementation of the works contracts to further mitigate the risks and
+
+ their performance will be evaluated regularly during implementation. Detailed reports of procurement
+
+ risk assessment and mitigation measures will be uploaded in the World Bank’s Procurement Risk
+
+ Assessment Management System.
+
+
+
+ 24.     Procurement support by the World Bank. The World Bank team will provide implementation
+
+ support twice a year at the field level. In the beginning of the project, a procurement orientation will be
+
+ provided to all project-related staff including project directors/coordinators, procurement officials and
+
+ consultants, FM officials and consultants, and others. In particular, the World Bank procurement team will
+
+ organize procurement clinics customized to the project need.
+
+
+
+ 25.     E-procurement. The use of electronic government procurement (e-GP) II system is mandatory for
+
+ high-value goods and works contracts estimated above NPR 50,000 as defined in the Public Procurement
+
+ Act/Regulations of the GoN. This is a single online procurement portal operated by the Public Procurement
+
+ and Monitoring Office (PPMO) that allows online entry of Procurement Plans, invitation of bids, online
+
+ submission of bids, online opening of bids, and uploading of signed contract documents. The project will
+
+ use e-GP for its procurement as per the PPMO’s e-GP directive.
+
+
+
+ Implementation Support Plan and Resource Requirements
+
+
+
+ 26.     Semiannual implementation support missions will be supplemented by additional technical
+
+ missions during the first 12–18 months of project implementation. In addition to formal missions, the
+
+ World Bank will provide continuous implementation support on technical design, institutional capacity,
+
+ fiduciary aspects, and E&S aspects as needed.
+
+
+
+ 27.    Midterm review (MTR) and project completion. No later than 36 months after project approval,
+
+ the PMU will prepare for the MTR of the project to review project progress and to identify any changes
+
+ that may be required to the project design. Toward the end of the project, additional support will be
+
+ provided to ensure proper project completion and documentation, including any final evaluations and
+
+ account reconciliations.
+
+
+
+ Project Investments
+
+
+
+ 28.     Proposed investments in water supply and wastewater. The investment will improve residents'
+
+ access to clean water and sanitation services to some extent. Specifically, the financial sustainability was
+
+ analyzed for subcomponents under the project’s Component 2 on (a) urban water supply and wastewater
+
+ management and (b) rural WSS. The investment is calculated using access-based grant formula, I = PC,
+
+ where P is the equivalent population to be served with improved services and C is the per capita cost
+
+ based on similar nature ongoing projects. Equivalent population is estimated considering the unreached
+
+ population, quantity and quality improvements required, and the usable existing infrastructures. The
+
+ main water supply subcomponents in the financial analysis represent the typical project investments.
+
+
+
+
+
+
+
+
+
+                                                     39
+
+The World Bank
+
+Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+                                       Table 1.3. Indicative WSS Investments
+
+                                                                                                             US$,
+
+   Municipality          District      Province                         Investments                         millions
+
+                                                                                                               a
+
+
+
+   Birendranagar Urban Surkhet      Karnali         WS: Expansion of intake, treatment, distribution, and    44.5
+
+                                                    sanitation system - population 193,166
+
+  Sharada         Urban Salyan       Karnali        WS: Piped supply to consumers - population 36,092      7.6
+
+  Dipayal         Urban Doti         Sudur Paschim  WS: Piped supply to consumers - population 38,405      8.8
+
+  Bardagoriya Rural Kailali          Sudur Paschim  WS: Piped supply to consumers - population 40,091      3.5
+
+  Joshipur        Rural Kailali      Sudur Paschim  WS: Piped supply to consumers - population 39,510      5.3
+
+  Janaki          Rural Kailali      Sudur Paschim  WS: Piped supply to consumers - population 52,976      7.0
+
+ Note: WS = Water supply.
+
+ a. Investment costs, except for Birendranagar WS, are estimated based on the formula indicated earlier. Per capita
+
+ costs for urban and rural municipalities are US$288 and US$167, respectively.
+
+
+
+ 29.      Financing and fiscal capacity. Day-to-day expenses in the water sector rely on consumer fees,
+
+ while investments in the sector mostly rely on Government support. For the project, the investments will
+
+ be based on conditional grants to the municipalities from the Government of Nepal. Counterpart funding
+
+ will be around 20 percent of the total funding and will rely on the Recipient, with varying contributions
+
+ from the participating municipalities. Nevertheless, in the long run, WSS service providers should move
+
+ toward full cost recovery fees (OPEX and partial CAPEX) based on comprehensive affordability analysis
+
+ and stakeholder consultations to increase the financial sustainability. Financially sustainable WSS service
+
+ providers will ease the burden of overreliance on Government’s fund in the sector.
+
+
+
+ 30.     Birendranagar Municipal water supply. The investment will secure an additional water source
+
+ and expansion of distribution network to service the population in the urban municipality of
+
+ Birendranagar. The new water source is Bheri River located outside Surkhet Valley and Birendranagar. The
+
+ water will be treated and pumped to a nearby reservoir, where it will service the municipality by gravity.
+
+ The capacity is 45,000 m3 per day, and the intake is planned for the year 2050 demand providing 100
+
+ percent coverage of Birendranagar Municipality. To improve the sustainability of services, institutional
+
+ reforms will be introduced to create a municipal water utility and corporatizing the service. The Surkhet
+
+ Valley Water User Committee (SVWUC) will initially operate the assets and bear responsibility for
+
+ supporting processes including billing and fee collection. As a conditional grant will cover the cost of the
+
+ implementation, there will be no local debt associated with the infrastructure improvement. Financial
+
+ projections show that the associated higher costs of operating the new water supply system including
+
+ higher costs of pumping, staff, and repair and maintenance will require increases in water tariff from the
+
+ current level by around 80 percent in real terms, just to recover the cost of O&M costs in 2025/26. With
+
+ increased household coverage over time, this will reduce due to economy of scale. Recovery of full costs
+
+ from fees will require increases from the current tariff level by around 150 percent in 2030/31, when all
+
+ households are connected.
+
+
+
+
+
+
+
+
+
+                                                        40
+
+The World Bank
+
+Water Sector Governance and Infrastructure Support Project (P176589)
+
+
+
+                                Table 1.4. Financial Forecast of SVWUC Operations
+
+   a
+
+                                             Existing SVWUC Operations              New SVWUC Operation Modality
+
+                                          2019/20      2020/21   2021/22              2025/26          2030/31
+
+                                          Base year Estimate     Forecast             Forecast         Forecast
+
+   Water supply and tariffs                                                         Fees at O&Mb Fees at Full Costc
+
+    Households connected                        17,591     18,550     19,150          23,705           49,100
+
+    Supply coverage (%)                             49         50          50             55              100
+
+    Base household monthly tariff (NPR)            100        100         100            180b             250c
+
+ Note: a. The forecast is prepared in real terms with a real increase in key costs. Cost of O&M for the project
+
+ components is estimated based on data from other water supply projects.
+
+ b. Forecasted base household tariff at the level of cost of O&M (cash based).
+
+ c. Forecasted base tariff at the level of full cost—expenses and annualization of investments over 25 years.
+
+
+
+ 31.      Birendranagar Municipal wastewater. The project will implement an additional fecal sludge site
+
+ facility to improve the depositing of fecal sludge collected at the individual households by private
+
+ operators. The municipality will operate the facility, which will bear the O&M costs.
+
+
+
+ 32.     Projects in municipalities of Karnali and Sudur Paschim Provinces: Sharada, Dipayal,
+
+ Bardagoriya, Joshipur, and Janaki. The subprojects located in the plain (terai) have expected lower
+
+ investment cost per household compared to projects in hilly terrain. The water supply, which will be based
+
+ on a metered supply to individual households, will be operated by the municipal WSUCs. Water fees will
+
+ be charged to the consumers based on approved water supply tariffs.
+
+
+
+
+
+
+
+
+
+                                                        41
+
+

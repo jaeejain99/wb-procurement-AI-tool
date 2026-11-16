@@ -1,0 +1,2223 @@
+           The World Bank                                                                                 Implementation Status & Results Report
+
+           Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK) (P161387)
+
+
+
+
+
+
+
+Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK) (P161387)
+
+
+
+
+
+ AFRICA EAST | Kenya | Governance Global Practice | Requesting Unit: AECE2 | Responsible Unit: EAEG1
+
+ IBRD/IDA | Program-for-Results Financing | FY 2018 | Team Leader(s): Onur Erdem, Leonard Mutuku Matheka
+
+
+
+
+
+ Seq No: 7 | ARCHIVED on 08-Feb-2022 | ISR48586 | Created by: Joyce Cheruto Bett on 05-Oct-2021 | Modified by: Onur Erdem on 03-Feb-2022
+
+
+
+
+
+ Program Development Objectives
+
+
+
+  PDO Table
+
+  Program Development Objective (from Program Appraisal Document)
+
+  To improve utilization and transparency of resource management in selected service delivery MDAs.
+
+
+
+ Overall Ratings
+
+
+
+ Name                                                                        Previous Rating                          Current Rating
+
+
+
+ Progress towards achievement of PDO                                         Moderately Satisfactory                 Moderately Satisfactory
+
+ Overall Implementation Progress (IP)                                        Moderately Satisfactory                 Moderately Satisfactory
+
+
+
+
+
+ Implementation Status and Key Decisions
+
+
+
+  The Program restructuring process that was concluded in October 202 introduced: (i) modifications to selected Disbursement-Linked Indicators
+
+  (DLIs), Disbursement-Linked Results (DLRs) and associated targets; (ii) addition of two new Result Areas (RAs) (i.e., Transparency and Oversight
+
+  of State Corporations and Strengthened Service Delivery) and associated DLIs and DLRs; (iii) reallocation of disbursement amounts; and (iv) a no-
+
+  cost extension of the Program closing date by 12 months to December 31, 2023. The Project Development Objective (PDO) remains the same and
+
+  continues to be in alignment with Government strategic policy documents including the Public Financial Management Reform Strategy, as well as
+
+  the World Bank Group (WBG) Twin Goals, the WBG Country Partnership Strategy (CPS) for Kenya, and the WBG Approach to COVID-19 Crisis
+
+  Response and Recovery. The extension of the Program closing date brings the overall Program duration to six years, which is not an unusual
+
+  lifecycle for programs centered on the institutionalization of public policy reforms. A detailed outline of the above-mentioned modifications to the
+
+  Program can be found in the Restructuring Paper that was disclosed on October 29, 2021.
+
+
+
+  In addition to the achievement of 13 DLRs (out of a total of 27) during the first half of Program implementation, which was reported in previous ISRs
+
+  and prompted the World Bank’s disbursement of the US$21.5 million, the ongoing DLR achievement verification process by the Independent
+
+  Verification Agency (IVA) has reported that 15 additional DLRs have been achieved as anticipated by their due date of December 2021. Highlights
+
+  among these additional DLIs include:
+
+
+
+  Public Investment Management
+
+           DLR 1.5(a): At least 10 projects that have been approved for inclusion in the public investment project pipeline comply with the project
+
+            concept note, pre-feasibility and feasibility provisions outlined in the Public Investment Management (PIM) Guidelines.
+
+           DLR 1.5(c): PIM Manuals completed for (i) Economic Appraisal of Projects, (ii) National Parameters and Commodity-Specific Conversion
+
+            Factors to be used in Project Preparation, and (ii) Monitoring and Evaluation of Projects.
+
+           DLR 1.5(d): Project stock-take exercise completed for all ongoing and new projects and project inventory up to date in Hyperion for at
+
+            least 10 service delivery Ministries, Departments, and Agencies (MDAs) including infrastructure, health, and education sectors, with
+
+            information regarding the status of the projects and multiyear commitments.
+
+  Cash Management
+
+           DLR 2.1a.5(a): Guidelines issued by National Treasury which require that revised MDA cash plans protect service delivery and
+
+            infrastructure budget priorities.
+
+           DLR 2.1a.5(b) The cash management system strengthened in Hyperion and the Integrated Financial Management Information System
+
+            (IFMIS), with (i) MDA cash allocations set using category limits from the annual aggregate including in-year cash plans; (ii) MDA cash
+
+            plans preparation within cash allocations and consolidated (Hyperion); (iii) exchequer register functionality prepared; (iv) requests are
+
+            processed within the expenditure category limits subject to unforeseen contingencies; and (v) exchequer reports and cash management
+
+            reports generated.
+
+  Public Procurement
+
+           DLR 3.5a: Roadmap agreed for upgrading e-procurement system including state procurement portal, aligned to requirements of Public
+
+            Procurement and Asset Disposal Act and attendant regulations.
+
+  Internal and External Audit
+
+
+
+
+
+2/8/2022                                                                                                                     Page 1 of 16
+
+            The World Bank                                                                                 Implementation Status & Results Report
+
+            Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK) (P161387)
+
+
+
+
+
+
+
+          DLR 5.2a.5: Special COVID Expenditure Audit completed.
+
+          DLR 5.2b.5: Months between receipt of consolidated and quality assured financial statements by OAG and submission of the audited
+
+           financial statements to Parliament.
+
+          DLR 6.2.5: MDA Internal Audit Reports have been prepared and undergone quality assurance in line with enhanced procedures for
+
+           assurance, risk management and audit follow up.
+
+  State Corporations
+
+          DLR 7.5(a): User requirements for the Government Integrated Information Management System (GIMIS) for State Corporations approved.
+
+          DLR 7.5(b): User acceptance testing for GIMIS completed.
+
+          DLR 7.5(c): Number of State Corporations submitting data on corporate, budget, and statutory requirements using the GIMIS
+
+  eCitizen Portal
+
+          DLR 8.5(a): User requirements for re-engineered eCitizen portal approved.
+
+          DLR 8.5(b): Publicity and change management strategy for eCitizen portal approved.
+
+
+
+  These achievements build on the concrete steps in adopting improved processes underpinning public investment and spending efficiency that were
+
+  achieved during the previous period of DLR verification, whose highlights included: (i) the establishment of a PIM Unit and the introduction of PIM
+
+  Guidelines to inform the decisions regarding the identification, design, and implementation of public investment projects; (ii) a new cash
+
+  management framework and the design of an automated cash management system to improve the predictability of fund flows regarding
+
+  government services and projects; (iii) a roadmap to introduce an e-Government Procurement system to enhance efficiency, transparency, and
+
+  value for money in public procurement; (iv) a roadmap to introduce a Government Human Resource Information System to facilitate the
+
+  consolidation of human resources and payroll data; (v) the preparation of financial statements consistent with information from IFMIS; and (vi) an
+
+  Internal Audit Manual to guide internal audit in government agencies in line with international good practice.
+
+
+
+  The achievement of these 15 additional DLRs, once the IVA report is reviewed and approved, triggers a disbursement of approximately $42 million
+
+  associated with the achievement of these DLRs, which will be processed and disbursed during the current FY.
+
+
+
+
+
+
+
+
+
+ Data on Financial Performance
+
+
+
+
+
+ Disbursements (by loan)
+
+
+
+ Project        Loan/Credit/TF     Status         Currency         Original     Revised       Cancelled     Disbursed     Undisbursed             % Disbursed
+
+
+
+
+
+ P161387        IDA-61330          Effective      USD              150.00        150.00            0.00        59.38            90.35                    40%
+
+
+
+
+
+ Key Dates (by loan)
+
+
+
+ Project         Loan/Credit/TF     Status        Approval Date        Signing Date       Effectiveness Date      Orig. Closing Date    Rev. Closing Date
+
+
+
+ P161387         IDA-61330          Effective     07-Sep-2017          28-Sep-2017        15-Jan-2018             31-Dec-2022           31-Dec-2023
+
+
+
+
+
+ DLI Disbursement
+
+
+
+                                                                                                Achievement      Disbursed amount in     Disbursement % for
+
+ DLI ID       DLI Type       Description                     Coc               DLI Amount
+
+                                                                                                Status           Coc                     DLI
+
+
+
+ Loan: IDA61330-001
+
+
+
+                             Prioritized Public                                                 Partially
+
+  1           Regular                                        EUR              17,546,667.00                             4,400,000.00                  25 %
+
+                             Investments                                                        Achieved
+
+                             Reliable Funding for                                               Partially
+
+  2.1         Regular                                        EUR              14,476,000.00                             3,055,000.00                  21 %
+
+                             Service Delivery an                                                Achieved
+
+                             Reliability of Financing and                                       Partially
+
+  2.3         Regular                                     EUR                  1,755,000.00                             1,755,000.00                  100 %
+
+                             External Re                                                        Achieved
+
+
+
+
+
+
+
+2/8/2022                                                                                                                           Page 2 of 16
+
+           The World Bank                                                                                 Implementation Status & Results Report
+
+           Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK) (P161387)
+
+
+
+
+
+
+
+
+
+                            Efficient and Transparent
+
+  3           Regular                                    EUR          11,405,000.00         Not Achieved                   0.00
+
+                            Procurement
+
+                                                                                            Partially
+
+  4           Regular       Consolidated Staff Data      EUR          10,528,000.00                                 1,755,000.00                  17 %
+
+                                                                                            Achieved
+
+                            Timely, Quality Assured,                                        Partially
+
+  5.1         Regular                                    EUR           7,457,333.00                                 2,625,000.00                  35 %
+
+                            Financial State                                                 Achieved
+
+                            Timely, Efficient, Quality                                      Partially
+
+  5.2         Regular                                    EUR          16,669,333.00                                 3,535,000.00                  21 %
+
+                            Audit                                                           Achieved
+
+
+
+  6.1         Regular       Transparent Institutions     EUR           9,650,667.00         Not Achieved                   0.00
+
+
+
+                            Strenghened Fiduciary                                           Partially
+
+  6.2         Regular                                    EUR          14,037,333.00                                 1,760,000.00                  13 %
+
+                            Assurance and Risk                                              Achieved
+
+                            Transparncy&Oversight of
+
+  7           Regular                                    EUR          14,914,667.00         Not Achieved                   0.00
+
+                            State Corporati
+
+                            Strenghened Service
+
+  8           Regular                                    EUR          13,160,000.00         Not Achieved                   0.00
+
+                            Delivery
+
+
+
+ Program Action Plan
+
+
+
+                                 Annual budget provisions under the PFMRS & respective implementing entities are matched to the annual estimated
+
+  Action Description             costs for the planned program activities to pre-finance inputs contributing to the achievement of the Disbursements
+
+                                 Linked Results (DLRs).
+
+
+
+  Source                         DLI#                    Responsibility            Timing                  Timing Value             Status
+
+
+
+  Fiduciary Systems                                      PFMR, CFO NT,             Recurrent               Yearly                   In Progress
+
+
+
+  Completion Measurement         Budget Provisions Annually by June 30
+
+
+
+  Comments                       Performed regularly as part of the budget cycle
+
+
+
+
+
+
+
+                                 Timely release of exchequer funds commensurate with requests (as reflected in implementing agencies annual work
+
+  Action Description
+
+                                 plans and cash plans) from the implementing agencies to pre-finance inputs to achieve the DLRs.
+
+
+
+  Source                         DLI#                    Responsibility            Timing                  Timing Value             Status
+
+
+
+  Fiduciary Systems                                      PFMR                      Recurrent               Quarterly                In Progress
+
+
+
+  Completion Measurement         Exchequer Releases Monthly
+
+
+
+  Comments                       Performed regularly as part of the annual cash management cycle
+
+
+
+
+
+
+
+                                 Design specific reports in line with the expenditure framework to facilitate generation of program expenditures from
+
+  Action Description             IFMIS.
+
+
+
+
+
+
+
+  Source                         DLI#                    Responsibility            Timing                  Timing Value             Status
+
+
+
+                                                         ASD, WB, OAG,
+
+  Technical                                                                        Recurrent               Quarterly                In Progress
+
+                                                         MoPSYG, NT, IFMIS
+
+
+
+  Completion Measurement         Design the reports in IFMIS October 31, 2017. Budget execution reports every 12 months
+
+
+
+
+
+2/8/2022                                                                                                                      Page 3 of 16
+
+           The World Bank                                                                                 Implementation Status & Results Report
+
+           Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK) (P161387)
+
+
+
+
+
+
+
+
+
+                                 Reports yet to be designed in IFMIS to facilitate generation of reports program
+
+  Comments
+
+
+
+
+
+
+
+
+
+                                 Prepare institutional annual financial statements for the three implementing agencies with appropriate disclosure
+
+  Action Description
+
+                                 notes outlining the program expenditures in line with the agreed expenditure framework
+
+
+
+  Source                         DLI#                   Responsibility          Timing                  Timing Value               Status
+
+
+
+                                                        NT (PFMR &
+
+  Technical                                             PSASB), MoPSYGA         Recurrent               Yearly                     In Progress
+
+                                                        & OAG
+
+
+
+  Completion Measurement         Annually not later than September 30, 2017
+
+
+
+                                 Disclosure note formats for GESDeK agreed with ASD. PFMR Secretariat adopted the note formats and adopted by
+
+  Comments
+
+                                 PFMR Secretariat, OAG and MoPGA and endorsed by the Public Sector Accounting Standards Board. (PSASB).
+
+
+
+
+
+
+
+  Action Description             The auditor for the OAG has been appointed.
+
+
+
+  Source                         DLI#                   Responsibility          Timing                  Timing Value               Status
+
+
+
+  Technical                                             NT                      Recurrent               Semi-Annually              In Progress
+
+
+
+  Completion Measurement         Appointment of the Auditor for the OAG
+
+
+
+  Comments
+
+
+
+
+
+
+
+                                 Implementing Agencies Establish and maintain: (i) PFM Standing Committee; (ii) Audit Committees; (iii) Internal Risk
+
+  Action Description             Management Framework including F&C risks; (iv) Risk Registers and Internal Control Framework in line with the
+
+                                 PFMAct 2012 and PFM Reg
+
+
+
+  Source                         DLI#                   Responsibility          Timing                  Timing Value               Status
+
+
+
+  Technical                                             IAD, MOPGA, NT          Recurrent               Semi-Annually              In Progress
+
+
+
+  Completion Measurement         Continuously monitored every 6 months
+
+
+
+
+
+  Comments
+
+
+
+
+
+
+
+
+
+                                 Implementing Agencies - compliance with the applicable business standards as per the Regulations
+
+  Action Description
+
+
+
+
+
+  Source                         DLI#                   Responsibility          Timing                  Timing Value               Status
+
+
+
+  Technical                                             PPD, AG                 Due Date                31-Jan-2018                In Progress
+
+
+
+  Completion Measurement         Continuous
+
+
+
+
+
+
+
+
+
+2/8/2022                                                                                                                    Page 4 of 16
+
+           The World Bank                                                                                 Implementation Status & Results Report
+
+           Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK) (P161387)
+
+
+
+
+
+
+
+
+
+                                 Amendments proposed to the existing business standards to enhance efficiency and shorten contracting lead time.
+
+  Comments
+
+                                 Draft amendments to the Act and Regulations not yet approved.
+
+
+
+
+
+
+
+                                 Implementing Agencies establish a filing and records management system in accordance with the provisions of the
+
+  Action Description
+
+                                 PPAD Act 2015 and attendant Regulations
+
+
+
+  Source                         DLI#                  Responsibility          Timing                  Timing Value               Status
+
+
+
+  Technical                                            PPRA                    Recurrent               Yearly                     In Progress
+
+
+
+  Completion Measurement         Continuous
+
+
+
+                                 Manuals/ templates/standard forms and guidance notes on procurement filing and records management to be
+
+  Comments                       prepared consistent with the provisions of the Public Procurement and Asset Disposal (PPAD) Act 2015 and
+
+                                 attendant Regulations
+
+
+
+
+
+
+
+                                 PPRA shares on a quarterly basis with Implementing Departments the list of firms on the WB, UN, EU and French
+
+  Action Description
+
+                                 Financial Sanctions Lists.
+
+
+
+  Source                         DLI#                  Responsibility          Timing                  Timing Value               Status
+
+
+
+  Technical                                            WB, PPRA                Due Date                30-Jun-2020                Completed
+
+
+
+  Completion Measurement         Continuous
+
+
+
+  Comments                       Debarment and suspended list of firms and individuals not shared with implementing entities
+
+
+
+
+
+
+
+                                 Implementation of e-procurement in the three implementing agencies as part of the first phase.
+
+  Action Description
+
+
+
+
+
+  Source                         DLI#                  Responsibility          Timing                  Timing Value               Status
+
+
+
+  Technical                                            PPRA                    Recurrent               Continuous                 Not Yet Due
+
+
+
+  Completion Measurement         Continuous
+
+
+
+                                 Implementation of e-procurement to start once UAT for upgraded e-procurement and State Procurement Portal is
+
+  Comments
+
+                                 completed
+
+
+
+
+
+
+
+  Action Description             Establishment of complaints and reporting system at the PFMR Secretariat
+
+
+
+  Source                         DLI#                  Responsibility          Timing                  Timing Value               Status
+
+
+
+  Technical                                            PFMR, WB                Recurrent               Continuous                 In Progress
+
+
+
+  Completion Measurement         Within 6 months of effectiveness
+
+
+
+  Comments                       Framework for PFMR complaints and reporting system set out in the PFMR Strategy POM
+
+
+
+
+
+
+
+
+
+2/8/2022                                                                                                                   Page 5 of 16
+
+           The World Bank                                                                                 Implementation Status & Results Report
+
+           Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK) (P161387)
+
+
+
+
+
+
+
+                                 Implementing agencies publish annual performance against the “resolution of public complaints” and “corruption
+
+  Action Description
+
+                                 prevention indicators” under the Performance Contacting system.
+
+
+
+  Source                         DLI#                   Responsibility           Timing                 Timing Value              Status
+
+
+
+                                                        PFMR, NT, MoPGA
+
+  Technical                                                                      Recurrent              Yearly                    In Progress
+
+                                                        and OAG
+
+
+
+  Completion Measurement         Resolution of Public Complaints
+
+
+
+                                 NT and State Department of Public Service received their compliance certificates issued by the Ombudsman.
+
+                                 Sensitization of implementing agencies on the complaints handling requirements is being carried out.
+
+  Comments
+
+
+
+
+
+
+
+
+
+                                 •Establish and maintain risk register for the program
+
+  Action Description             •Reporting on recommendations made to mitigate against risks identified in the risk register
+
+
+
+
+
+
+
+  Source                         DLI#                   Responsibility           Timing                 Timing Value              Status
+
+
+
+  Technical                                             PFMR                     Due Date               31-Dec-2018               In Progress
+
+
+
+  Completion Measurement         Risk register updated based on actions completed and emerging MDA risks as they emerge
+
+
+
+  Comments
+
+
+
+
+
+
+
+  Action Description             Managing and mitigating impacts associated with e-waste
+
+
+
+  Source                         DLI#                   Responsibility           Timing                 Timing Value              Status
+
+
+
+                                                        PFM Reform
+
+  Technical                                                                      Recurrent              Yearly                    In Progress
+
+                                                        Secretariat
+
+
+
+                                 Implementing the requirements of the 1999 Environmental Management and Coordination Act (EMCA) (as amended
+
+  Completion Measurement
+
+                                 in 2015), Waste Management Regulations, E-waste Management Guidelines and Draft E-Waste regulations
+
+
+
+                                 Framework (handling e-waste for ICT related e-waste) set out in POM but yet to be put into operation.
+
+
+
+  Comments                       The framework needs alignment with PPAD Act and regulations
+
+
+
+
+
+
+
+
+
+  Risks
+
+
+
+
+
+ Systematic Operations Risk-rating Tool
+
+
+
+
+
+  Risk Category                                             Rating at Approval               Previous Rating              Current Rating
+
+
+
+  Political and Governance                                  Substantial                     Substantial                 Substantial
+
+  Macroeconomic                                             Moderate                        Moderate                    Moderate
+
+
+
+
+
+2/8/2022                                                                                                                    Page 6 of 16
+
+            The World Bank                                                                                 Implementation Status & Results Report
+
+            Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK) (P161387)
+
+
+
+
+
+
+
+
+
+  Sector Strategies and Policies                             Moderate                     Moderate                  Moderate
+
+  Technical Design of Project or Program                     Substantial                  Substantial               Substantial
+
+  Institutional Capacity for Implementation and
+
+                                                             Substantial                  Substantial               Substantial
+
+  Sustainability
+
+  Fiduciary                                                  Substantial                  Substantial               Substantial
+
+  Environment and Social                                     Low                          Low                       Low
+
+  Stakeholders                                               Substantial                  Substantial               Substantial
+
+  Other                                                      --                            Substantial               Substantial
+
+  Overall                                                    Substantial                  Substantial               Substantial
+
+
+
+
+
+
+
+
+
+  Results
+
+
+
+
+
+ PDO Indicators by Objectives / Outcomes
+
+
+
+
+
+  PDO Indicator 1: Prioritized Public Investments
+
+   IN01098693
+
+    ►Projects with capital allocation above KES.100m in complance with procedures in PIM Guidelines (Number, Custom)
+
+
+
+                                       Baseline                     Actual (Previous)         Actual (Current)        End Target
+
+
+
+    Value                              0.00                         0.00                      10.00                   30.00
+
+
+
+    Date                               30-Jun-2016                  01-Oct-2020               31-Jan-2022             31-Dec-2023
+
+
+
+                                       Refer to DLR1d for information on progress.
+
+    Comments
+
+
+
+  PDO Indicator 2: Reliable Funding for Service Delivery and Investment Projects
+
+   IN01098699
+
+    ►Cash management functionality strengthened through automation in IFMIS and Hyperion budget system (Yes/No, Custom)
+
+
+
+                                       Baseline                     Actual (Previous)         Actual (Current)        End Target
+
+
+
+    Value                              No                           --                        No                      Yes
+
+
+
+    Date                               30-Jun-2016                  01-Oct-2020               31-Jan-2022             31-Dec-2023
+
+
+
+                                       Refer to DLR2.1c for information on progress.
+
+    Comments
+
+
+
+  PDO Indicator 3: Efficient and Transparent Procurement
+
+   IN01098697
+
+   ►MDAs using the e-Procurement System in compliance with the PPAD Act, 2015, and attendant Regulations for the full fiscal year and
+
+   procurement data disclosed in SPP following OCDS (Number, Custom)
+
+
+
+                                       Baseline                     Actual (Previous)         Actual (Current)        End Target
+
+
+
+    Value                              0.00                         0.00                      0.00                    5.00
+
+
+
+    Date                               30-Jun-2016                  01-Oct-2020               31-Jan-2022             31-Dec-2023
+
+
+
+                                       Refer to DLR3c for information on progress.
+
+    Comments
+
+
+
+
+
+
+
+2/8/2022                                                                                                                 Page 7 of 16
+
+           The World Bank                                                                                 Implementation Status & Results Report
+
+           Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK) (P161387)
+
+
+
+
+
+
+
+
+
+  PDO Indicator 4: Consolidated Staff Data
+
+   IN01098695
+
+    ►Number of MDAs whose payroll data has been uploaded to GHRIS and are up to date (Number, Custom)
+
+
+
+                                      Baseline                    Actual (Previous)            Actual (Current)         End Target
+
+
+
+    Value                             0.00                       0.00                         0.00                      10.00
+
+
+
+    Date                              30-Jun-2016                01-Oct-2020                  31-Jan-2022               31-Dec-2023
+
+
+
+                                      Refer to DLR4b for information on progress
+
+    Comments
+
+
+
+  PDO Indicator 5: Timely and Quality Financial Statements and Audit
+
+   IN01098696
+
+   ►(i) The percentage of service delivery MDAs the NT has reviewed the quality of Annual FS generated from IFMIS and has submitted to the
+
+   OAG within legal timeliness (3 months) (Percentage, Custom)
+
+
+
+                                      Baseline                    Actual (Previous)            Actual (Current)         End Target
+
+
+
+    Value                             0.00                       --                           20.00                     50.00
+
+
+
+    Date                              31-Aug-2016                --                           31-Jan-2022               31-Dec-2023
+
+
+
+   Comments
+
+   IN01098706
+
+   ►(ii) Percentage of MDAs, whose financial statement audits have been completed within 3 months after OAG receipt of final financial
+
+   statements using an improved methodology, undergone quality assurance (Percentage, Custom)
+
+
+
+                                      Baseline                    Actual (Previous)            Actual (Current)         End Target
+
+
+
+    Value                             0.00                       15.00                        15.00                     50.00
+
+
+
+    Date                              30-Jun-2016                01-Oct-2020                  31-Jan-2022               30-Jun-2022
+
+
+
+                                      Refer to DLR5.2c for information on progress
+
+   Comments
+
+   IN01098709
+
+   ►(iii) Months between receipt of final consolidated financial reports by OAG and submission of audited financial statements to Parliament
+
+   (Number, Custom)
+
+
+
+                                      Baseline                    Actual (Previous)            Actual (Current)         End Target
+
+
+
+    Value                             10.00                      8.00                         7.00                      5.00
+
+
+
+    Date                              30-Jun-2016                01-Oct-2020                  31-Jan-2022               31-Dec-2023
+
+
+
+                                      Refer to DLR 5.2d
+
+    Comments
+
+
+
+  PDO Indicator 6a: Transparent Institutions
+
+   IN01098694
+
+   ►Percentage of MDAs whose information is publicly available online in searchable form on a) sub-program expenditure, b) project
+
+   expenditure and c) transfers to at least one service delivery units (Percentage, Custom)
+
+
+
+                                      Baseline                    Actual (Previous)            Actual (Current)         End Target
+
+
+
+    Value                             0.00                       0.00                         0.00                      100.00
+
+
+
+    Date                              30-Jun-2016                01-Oct-2020                  31-Jan-2022               31-Dec-2023
+
+
+
+                                      Refer to DLR6.1c for information on progress.
+
+    Comments
+
+
+
+
+
+2/8/2022                                                                                                                   Page 8 of 16
+
+           The World Bank                                                                                 Implementation Status & Results Report
+
+           Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK) (P161387)
+
+
+
+
+
+
+
+
+
+  PDO Indicator 6b: Strengthened Fiduciary Assurance and Risk Management
+
+   IN01098698
+
+   ►MDA Internal Audit Reports have been prepared and undergone quality assurance in line with enhanced procedures for assurance, risk
+
+   management and audit follow-up (Number, Custom)
+
+
+
+                                      Baseline                    Actual (Previous)          Actual (Current)        End Target
+
+
+
+    Value                             0.00                       0.00                        20.00                   25.00
+
+
+
+    Date                              30-Jun-2016                01-Oct-2020                 31-Jan-2022             31-Dec-2023
+
+
+
+                                      Refer to DLR6.2c for information on progress.
+
+    Comments
+
+
+
+  PDO Indicator 7: Strengthened Transparency and Oversight
+
+   IN01098684
+
+    ►State Corporations (SCs) budgets and reports are linked to performance targets (Yes/No, Custom)
+
+
+
+                                      Baseline                    Actual (Previous)          Actual (Current)        End Target
+
+
+
+    Value                             No                         --                          Yes                     Yes
+
+
+
+    Date                              31-Aug-2021                --                          31-Jan-2022             31-Dec-2023
+
+
+
+    Comments
+
+
+
+  PDO Indicator 8: Citizen Integrated Platform
+
+   IN01098683
+
+    ►Number of services onboarded on re-engineered e-citizen Portal (Number, Custom)
+
+
+
+                                      Baseline                    Actual (Previous)          Actual (Current)        End Target
+
+
+
+    Value                             300.00                     --                          300.00                  577.00
+
+
+
+    Date                              31-Aug-2021                --                          31-Jan-2022             31-Dec-2023
+
+
+
+    Comments
+
+
+
+
+
+ Intermediate Results Indicators by Results Areas
+
+
+
+
+
+
+
+  Prioritised Public Investments
+
+    IN01098692
+
+    ►IRI 1.1: Dedicated unit established with staff deployed assigned performing NT PIM roles. (Yes/No, Custom)
+
+
+
+                                      Baseline                    Actual (Previous)          Actual (Current)        End Target
+
+
+
+    Value                             No                         Yes                         Yes                     Yes
+
+
+
+    Date                              30-Jun-2016                30-Jan-2020                 31-Jan-2022             30-Jun-2022
+
+
+
+                                      Refer to DLR1a for information on progress.
+
+    Comments
+
+    IN01098701
+
+    ►IRI 1.2: Approved PIM manual & user requirements which address key challenges in PIM (Yes/No, Custom)
+
+
+
+
+
+
+
+
+
+2/8/2022                                                                                                                Page 9 of 16
+
+           The World Bank                                                                                 Implementation Status & Results Report
+
+           Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK) (P161387)
+
+
+
+
+
+
+
+
+
+                                      Baseline                    Actual (Previous)            Actual (Current)         End Target
+
+
+
+    Value                             No                          Yes                         Yes                       Yes
+
+
+
+    Date                              30-Jun-2016                 30-Jan-2020                 31-Jan-2022               30-Jun-2022
+
+
+
+                                      Refer to DLR1b for information on progress
+
+    Comments
+
+    IN01098715
+
+    ►IRI 1.4 Projects baseline stock taking completed and inventory up to date in Hyperion (Yes/No, Custom)
+
+
+
+                                      Baseline                    Actual (Previous)            Actual (Current)         End Target
+
+
+
+    Value                             No                          --                          No                        Yes
+
+
+
+    Date                              31-Aug-2021                 --                          31-Jan-2022               31-Dec-2023
+
+
+
+    Comments
+
+
+
+
+
+
+
+  Reliable Funding for Service Delivery and Public Investments
+
+   IN01098691
+
+   ►IRI 2.1: Guidelines adopted by NT which require that revised MDA cash plans protect service delivery and infrastructure budget priorities
+
+   (Yes/No, Custom)
+
+
+
+                                      Baseline                    Actual (Previous)            Actual (Current)         End Target
+
+
+
+    Value                             No                          No                          Yes                       Yes
+
+
+
+    Date                              30-Jun-2016                 30-Jan-2020                 31-Jan-2022               31-Dec-2023
+
+
+
+                                   Refer to DLR2.1b for information on progress.
+
+   Comments
+
+   IN01098717
+
+   ►IRI 2.5: The automated annual including in-year aggregate cash plans (with revenue projections and borrowing requirements) in line with
+
+   approved cash management framework. (Yes/No, Custom)
+
+
+
+                                      Baseline                    Actual (Previous)            Actual (Current)         End Target
+
+
+
+    Value                             No                          --                          No                        Yes
+
+
+
+    Date                              31-Aug-2021                 --                          31-Jan-2022               31-Dec-2023
+
+
+
+   Comments
+
+   IN01098718
+
+   ►IRI 2.6: projected in year MDA exchequer allocations, which are uploaded into the system and approved in line with the cash management
+
+   framework. (Yes/No, Custom)
+
+
+
+                                      Baseline                    Actual (Previous)            Actual (Current)         End Target
+
+
+
+    Value                             No                          --                          No                        Yes
+
+
+
+    Date                              31-Aug-2021                 --                          31-Jan-2022               31-Dec-2023
+
+
+
+    Comments
+
+
+
+
+
+
+
+  Efficient and Transparent Procurement
+
+    IN01098690
+
+    ►IRI 3.1: UAT for upgraded e-procurement and State Procurement Portal (SPP) complete (Yes/No, Custom)
+
+
+
+
+
+2/8/2022                                                                                                                 Page 10 of 16
+
+           The World Bank                                                                                 Implementation Status & Results Report
+
+           Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK) (P161387)
+
+
+
+
+
+
+
+
+
+                                      Baseline                   Actual (Previous)           Actual (Current)         End Target
+
+
+
+    Value                             No                         No                          No                       Yes
+
+
+
+    Date                              30-Jun-2016                30-Jan-2020                 31-Jan-2022              31-Dec-2023
+
+
+
+                                   Refer to DLR3b for information on progress.
+
+   Comments
+
+   IN01098702
+
+   ►IRI 3.2: roadmap agreed for upgrading e-procurement system including SPP, aligned to requirements of PPADA and attendant regulations.
+
+   (Yes/No, Custom)
+
+
+
+                                      Baseline                   Actual (Previous)           Actual (Current)         End Target
+
+
+
+    Value                             No                         No                          No                       Yes
+
+
+
+    Date                              30-Jun-2016                30-Jan-2020                 31-Jan-2022              31-Dec-2023
+
+
+
+                                   Refer to DLR3a for information on progress.
+
+   Comments
+
+   IN01098712
+
+   ►IRI 3.3: e-GP Project Implementation Unit established, developer/contractor in place, and System Requirement Specification (SRS) and
+
+   System Design Document (SDD) approved. (Yes/No, Custom)
+
+
+
+                                      Baseline                   Actual (Previous)           Actual (Current)         End Target
+
+
+
+    Value                             No                         --                          No                       Yes
+
+
+
+    Date                              30-Jun-2016                --                          31-Jan-2022              31-Dec-2023
+
+
+
+    Comments
+
+
+
+
+
+
+
+  Consolidated Staff Data
+
+   IN01098689
+
+    ►IRI 4.1: GHRIS enhanced to handle consolidated HR data from MDAs and interfaces with IFMIS (Yes/No, Custom)
+
+
+
+                                      Baseline                   Actual (Previous)           Actual (Current)         End Target
+
+
+
+    Value                             No                         No                          Yes                      Yes
+
+
+
+    Date                              30-Jun-2016                30-Jan-2020                 31-Jan-2022              30-Jun-2022
+
+
+
+    Comments
+
+    IN01098704
+
+    ►IRI 4.2 Upgraded GHRIS operational, including use of UPN, HR data warehouse and Payroll module operational (Yes/No, Custom)
+
+
+
+                                      Baseline                   Actual (Previous)           Actual (Current)         End Target
+
+
+
+    Value                             No                         --                          No                       Yes
+
+
+
+    Date                              31-Aug-2021                --                          31-Jan-2022              31-Dec-2023
+
+
+
+    Comments
+
+
+
+
+
+
+
+  Timely and Quality Financial Statements and Audit
+
+    IN01098688
+
+    ►IRI 5.1: The percentage of service delivery MDAs the National Treasury has reviewed the quality of Annual Financial Statements generated
+
+    from IFMIS and has submitted to the OAG within 4 months. (Percentage, Custom)
+
+
+
+
+
+2/8/2022                                                                                                               Page 11 of 16
+
+           The World Bank                                                                                 Implementation Status & Results Report
+
+           Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK) (P161387)
+
+
+
+
+
+
+
+
+
+                                       Baseline                     Actual (Previous)             Actual (Current)           End Target
+
+
+
+    Value                              10.00                        15.00                         15.00                      50.00
+
+
+
+    Date                               30-Jun-2016                  30-Jan-2020                   31-Jan-2022                31-Dec-2023
+
+
+
+                                       Refer to DLR5.1 for information on progress
+
+    Comments
+
+    IN01098705
+
+    ►IRI 5.2: Approval of audit codes that classify risk clusters to enable efficient targeting of audit resource (Yes/No, Custom)
+
+
+
+                                       Baseline                     Actual (Previous)             Actual (Current)           End Target
+
+
+
+    Value                              No                           Yes                           Yes                        Yes
+
+
+
+    Date                               30-Jun-2016                  30-Jan-2020                   31-Jan-2022                31-Dec-2023
+
+
+
+                                       Refer to DLR5.2a for information on progress.
+
+    Comments
+
+    IN01098711
+
+    ►IRI 5.3: Enhanced audit methodology and quality assurance framework in place (Yes/No, Custom)
+
+
+
+                                       Baseline                     Actual (Previous)             Actual (Current)           End Target
+
+
+
+    Value                              No                           Yes                           Yes                        Yes
+
+
+
+    Date                               30-Jun-2016                  30-Jan-2020                   31-Jan-2022                31-Dec-2023
+
+
+
+                                       Refer to DLR5.2b for information on progress.
+
+    Comments
+
+    IN01098714
+
+    ►IRI 5.4: Special COVID related expenditure audits (Number, Custom)
+
+
+
+                                       Baseline                     Actual (Previous)             Actual (Current)           End Target
+
+
+
+    Value                              0.00                         --                            47.00                      47.00
+
+
+
+    Date                               31-Aug-2021                  --                            31-Jan-2022                31-Dec-2023
+
+
+
+    Comments
+
+
+
+
+
+
+
+  Strengthened Fiduciary Assurance and Transparency
+
+    IN01098687
+
+    ►IRI 6.1: MDAs’ information publicly available online in searchable form on (a) program expenditure, (b) sub-program expenditures and (c) at
+
+   least one MDA transfers to service delivery units (Yes/No, Custom)
+
+
+
+                                       Baseline                     Actual (Previous)             Actual (Current)           End Target
+
+
+
+    Value                              No                           No                            No                         Yes
+
+
+
+    Date                               30-Jun-2016                  30-Jan-2020                   31-Jan-2022                31-Dec-2023
+
+
+
+                                      Refer to DLR6.1c for information on progress.
+
+   Comments
+
+   IN01098708
+
+   ►IRI 6.2: UAT for the Budget Portal interface which provides information in a searchable form on programs and sub-programs, and for at
+
+   least 1 MDA, information available on transfers to service deliver (Yes/No, Custom)
+
+
+
+                                       Baseline                     Actual (Previous)             Actual (Current)           End Target
+
+
+
+
+
+
+
+2/8/2022                                                                                                                      Page 12 of 16
+
+           The World Bank                                                                                 Implementation Status & Results Report
+
+           Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK) (P161387)
+
+
+
+
+
+
+
+
+
+    Value                             No                         No                          No                      Yes
+
+
+
+    Date                              30-Jun-2016                30-Jan-2020                 31-Jan-2022             31-Dec-2023
+
+
+
+                                 Refer to DLR6.1b for information on progress
+
+   Comments
+
+   IN01098710
+
+   ►IRI 6.3:Updated manuals and QA framework for internal audit in place to strengthen assurance and risk management are in place (Yes/No,
+
+   Custom)
+
+
+
+                                      Baseline                   Actual (Previous)           Actual (Current)        End Target
+
+
+
+    Value                             No                         No                          Yes                     Yes
+
+
+
+    Date                              30-Jun-2016                30-Jan-2020                 31-Jan-2022             31-Dec-2023
+
+
+
+                                      Refer to DLR6.2b for information on progress.
+
+    Comments
+
+    IN01098713
+
+    ►IRI 6.4: Complete diagnostic study of internal audit (Yes/No, Custom)
+
+
+
+                                      Baseline                   Actual (Previous)           Actual (Current)        End Target
+
+
+
+    Value                             No                         No                          Yes                     Yes
+
+
+
+    Date                              30-Jun-2016                30-Jan-2020                 31-Jan-2022             31-Dec-2023
+
+
+
+                                      Refer to DLR6.2a for information on progress.
+
+    Comments
+
+
+
+
+
+
+
+  State Corporations Transparency and Oversight
+
+    IN01098686
+
+    ►IRI 7.1: Approved User Acceptance Test (UAT) for the SCs MIS (Yes/No, Custom)
+
+
+
+                                      Baseline                   Actual (Previous)           Actual (Current)        End Target
+
+
+
+    Value                             No                         --                          Yes                     Yes
+
+
+
+    Date                              31-Aug-2021                --                          31-Jan-2022             31-Dec-2023
+
+
+
+    Comments
+
+    IN01098707
+
+    ►IRI 7.2. No. of State Corporations submitting required data using the MIS (Number, Custom)
+
+
+
+                                      Baseline                   Actual (Previous)           Actual (Current)        End Target
+
+
+
+    Value                             0.00                       --                          0.00                    30.00
+
+
+
+    Date                              31-Aug-2021                --                          31-Jan-2022             31-Dec-2023
+
+
+
+    Comments
+
+
+
+
+
+
+
+  Strengthened Service Delivery
+
+    IN01098685
+
+    ►IRI 8.1: Approved User Acceptance Testing (UAT) for re-engineered e-citizen (Yes/No, Custom)
+
+
+
+                                      Baseline                   Actual (Previous)           Actual (Current)        End Target
+
+
+
+
+
+2/8/2022                                                                                                              Page 13 of 16
+
+           The World Bank                                                                                 Implementation Status & Results Report
+
+           Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK) (P161387)
+
+
+
+
+
+
+
+
+
+    Value                               No                          --                       Yes                     Yes
+
+
+
+    Date                                31-Aug-2021                 --                       31-Jan-2022             31-Dec-2023
+
+
+
+    Comments
+
+    IN01098703
+
+    ►IRI 8.2 Publicity and change management strategy developed (Yes/No, Custom)
+
+
+
+                                        Baseline                    Actual (Previous)        Actual (Current)        End Target
+
+
+
+    Value                               No                          --                       Yes                     Yes
+
+
+
+    Date                                31-Aug-2021                 --                       31-Jan-2022             31-Dec-2023
+
+
+
+    Comments
+
+
+
+
+
+ Disbursement Linked Indicators
+
+ DLI_IND_TABLE
+
+    ►DLI 1 DLI 1: Prioritized Public Investments (Output, 20,000,000.00, 25%)
+
+
+
+                                                                                                                      By end of FY
+
+                                  Baseline                     Actual (Previous)           Actual (Current)           2022/2023
+
+
+
+    Value                        0.00                          --                          10.00                       30.00
+
+
+
+    Date                         --                            --                          31-Jan-2022                --
+
+
+
+    Comments
+
+
+
+
+
+
+
+    ►DLI 2 DLI 2.1: Reliable funding for Service Delivery and Investment Projects (Output, 16,500,000.00, 21%)
+
+
+
+                                                                                                                      By end of FY
+
+                                  Baseline                     Actual (Previous)           Actual (Current)           2022/2023
+
+
+
+    Value                        No                            --                          No                          Yes
+
+
+
+    Date                         --                            --                          31-Jan-2022                --
+
+
+
+
+
+    Comments
+
+
+
+
+
+
+
+    ►DLI 4 DLI 2.3: Reliability of domestic financing (Output, 2,000,000.00, 100%)
+
+
+
+                                                                                                                      By end of FY
+
+                                  Baseline                     Actual (Previous)           Actual (Current)           2022/2023
+
+
+
+    Value                        No                            --                          Yes                         Yes
+
+
+
+    Date                         --                            --                          31-Jan-2022                --
+
+
+
+    Comments
+
+
+
+
+
+
+
+
+
+2/8/2022                                                                                                              Page 14 of 16
+
+           The World Bank                                                                                 Implementation Status & Results Report
+
+           Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK) (P161387)
+
+
+
+
+
+
+
+
+
+    ►DLI 5 DLI 3: Efficient and Transparent Procurement (Output, 13,000,000.00, 0%)
+
+
+
+                                                                                                                      By end of FY
+
+                                  Baseline                     Actual (Previous)          Actual (Current)            2022/2023
+
+
+
+    Value                        0.00                          --                         0.00                         5.00
+
+
+
+    Date                         --                            --                         31-Jan-2022                 --
+
+
+
+    Comments
+
+
+
+
+
+
+
+    ►DLI 6 DLI 4: Consolidated Staff Data (Output, 12,000,000.00, 17%)
+
+
+
+                                                                                                                      By end of FY
+
+                                  Baseline                     Actual (Previous)          Actual (Current)            2022/2023
+
+
+
+    Value                        0.00                          --                         0.00                         10.00
+
+
+
+    Date                         --                            --                         31-Jan-2022                 --
+
+
+
+    Comments
+
+
+
+
+
+
+
+    ►DLI 7 DLI 5.1: Timely, Quality Assured, Financial Statements (Outcome, 8,500,000.00, 35%)
+
+
+
+                                                                                                                      By end of FY
+
+                                  Baseline                     Actual (Previous)          Actual (Current)            2022/2023
+
+
+
+    Value                        0.00                          --                         20.00                        50.00
+
+
+
+    Date                         --                            --                         31-Jan-2022                 --
+
+
+
+    Comments
+
+
+
+
+
+
+
+    ►DLI 8 DLI 5.2 Timely, Efficient, Quality Audits (Output, 19,000,000.00, 21%)
+
+
+
+                                                                                                                      By end of FY
+
+                                  Baseline                     Actual (Previous)          Actual (Current)            2022/2023
+
+
+
+    Value                        0.00                          --                         15.00                        50.00
+
+
+
+    Date                         --                            --                         31-Jan-2022                 --
+
+
+
+    Comments
+
+
+
+
+
+
+
+    ►DLI 9 DLI 6.1: Transparent Institutions (Output, 11,000,000.00, 0%)
+
+
+
+                                                                                                                      By end of FY
+
+                                  Baseline                     Actual (Previous)          Actual (Current)            2022/2023
+
+
+
+    Value                        0.00                          --                         0.00                         100.00
+
+
+
+    Date                         --                            --                         31-Jan-2022                 --
+
+
+
+
+
+2/8/2022                                                                                                              Page 15 of 16
+
+           The World Bank                                                                                 Implementation Status & Results Report
+
+           Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK) (P161387)
+
+
+
+
+
+
+
+
+
+    Comments
+
+
+
+
+
+
+
+    ►DLI 10 DLI 6.2: Strengthened Fiduciary Assurance and Risk Management (Output, 16,000,000.00, 13%)
+
+
+
+                                                                                                                      By end of FY
+
+                                  Baseline                     Actual (Previous)          Actual (Current)            2022/2023
+
+
+
+    Value                        0.00                          --                         20.00                        25.00
+
+
+
+    Date                         --                            --                         31-Jan-2022                 --
+
+
+
+    Comments
+
+
+
+
+
+
+
+    ►DLI 28 DLI 7: Transparency and Oversight of State Corporations (Output, 17,000,000.00, 0%)
+
+
+
+                                                                                                                      By end of FY
+
+                                  Baseline                     Actual (Previous)          Actual (Current)            2022/2023
+
+
+
+    Value                        0.00                          --                         0.00                         30.00
+
+
+
+    Date                         --                            --                         31-Jan-2022                 --
+
+
+
+    Comments
+
+
+
+
+
+
+
+    ►DLI 29 DLI 8: Strengthened Service Delivery (Output, 15,000,000.00, 0%)
+
+
+
+                                                                                                                      By end of FY
+
+                                  Baseline                     Actual (Previous)          Actual (Current)            2022/2023
+
+
+
+    Value                        300.00                        --                         300.00                       577.00
+
+
+
+    Date                         --                            --                         31-Jan-2022                 --
+
+
+
+    Comments
+
+
+
+
+
+
+
+
+
+2/8/2022                                                                                                              Page 16 of 16
+
+

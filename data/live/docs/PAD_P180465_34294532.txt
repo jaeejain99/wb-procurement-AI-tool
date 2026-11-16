@@ -1,0 +1,4575 @@
+                                         FOR OFFICIAL USE ONLY
+
+                                                                                   Report No: PAD5540
+
+
+
+                 INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT
+
+                          INTERNATIONAL DEVELOPMENT ASSOCIATION
+
+
+
+                                    PROJECT APPRAISAL DOCUMENT
+
+                                                   ON A
+
+                                         PROPOSED CREDIT
+
+                                IN THE AMOUNT OF EUR 140.7 MILLION
+
+                                   (US$153.5 MILLION EQUIVALENT)
+
+
+
+                                          PROPOSED LOAN
+
+                                  IN THE AMOUNT OF US$45 MILLION
+
+                                   FROM THE GREEN CLIMATE FUND
+
+
+
+                                                  AND A
+
+                                          PROPOSED GRANT
+
+                                  IN THE AMOUNT OF US$3.5 MILLION
+
+                                    FROM THE GREEN CLIMATE FUND
+
+
+
+
+
+                                                  TO THE
+
+                                           REPUBLIC OF KENYA
+
+                                                  FOR A
+
+             GREEN AND RESILIENT EXPANSION OF ENERGY PROGRAM PHASE 2 PROJECT
+
+
+
+                    UNDER THE MULTIPHASE PROGRAMMATIC APPROACH
+
+                        APPROVED BY THE BOARD ON JUNE 15, 2023
+
+           FOR AN OVERALL IDA FINANCING ENVELOPE OF US$1.05 BILLION EQUIVALENT
+
+
+
+                                           December 26, 2023
+
+
+
+Energy and Extractives Global Practice
+
+Eastern and Southern Africa Region
+
+ This document has a restricted distribution and may be used by recipients only in the performance of
+
+ their official duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+                    CURRENCY EQUIVALENTS
+
+
+
+
+
+         (Exchange Rate Effective November 30, 2023)
+
+
+
+
+
+                  Currency Unit = EUR
+
+                           US$1 = EUR 0.92
+
+                          US$1 = Ksh 153.25
+
+
+
+                         FISCAL YEAR
+
+                       July 1 – June 30
+
+
+
+
+
+
+
+
+
+Regional Vice President: Victoria Kwakwa
+
+      Country Director: Keith E. Hansen
+
+     Regional Director: Wendy E. Hughes
+
+     Practice Manager: Erik Magnus Fernstrom
+
+    Task Team Leaders: Laurencia Karimi Njagi, Zubair K.M. Sadeque
+
+                   ABBREVIATIONS AND ACRONYMS
+
+AFD       Agence Française de Développement (French Development Agency)
+
+AfDB      African Development Bank
+
+BESS      Battery Energy Storage Systems
+
+CIF       Climate Investment Funds
+
+CPF       Country Partnership Framework
+
+DLR       Disbursement Linked Result
+
+EAPP      Eastern Africa Power Pool
+
+EEHP      Eastern Electricity Highway Project
+
+EIB       European Investment Bank
+
+EPRA      Energy and Petroleum Regulatory Authority
+
+ESCP      Environmental and Social Commitment Plan
+
+ESF       Environmental and Social Framework
+
+ESIA      Environment and Social Impact Assessment
+
+ESMPs     Environment and Social Management Plans
+
+FM        Financial Management
+
+GCF       Green Climate Fund
+
+GHG       Greenhouse gas
+
+GoK       Government of Kenya
+
+GRM       Grievance Redress Mechanism
+
+GWh       Gigawatt hours
+
+HVDC      High Voltage Direct Current
+
+IFR       Interim Financial Report
+
+IPF       Investment Project Financing
+
+KEMP      Kenya Electricity Modernization Project
+
+KenGen    Kenya Electricity Generation Company PLC
+
+KETRACO   Kenya Electricity Transmission Company Limited
+
+KOSAP     Kenya Off-grid Solar Access Project
+
+KPLC      Kenya Power and Lighting Company PLC
+
+KSh       Kenya Shillings
+
+Kv        Kilovolt
+
+KWh       Kilo-watt hours
+
+LCPDP     Least Cost Power Development Plan
+
+LMP       Labor Management Plan
+
+M&E       Monitoring & Evaluation
+
+MoEP      Ministry of Energy and Petroleum
+
+MPA       Multiphase Programmatic Approach
+
+mtCO2e    Metric tons of carbon dioxide equivalent
+
+MW        Mega-Watt
+
+O&M       Operations and Maintenance
+
+PforR     Program-for-Results
+
+PIU       Project Implementation Unit
+
+PPA       Power Purchase Agreement
+
+PPP       Public Private Partnership
+
+PPSD      Project Procurement Strategy for Development
+
+RAP       Resettlement Action Plans
+
+SAPP      Southern African Power Pool
+
+SEA-SH    Sexual Exploitation & Abuse- Sexual Harassment
+
+SEP       Stakeholders Engagement Plan
+
+STATCOM   Reactive power and voltage control equipment
+
+VMGs      Vulnerable and Marginalized Groups
+
+VRE       Variable Renewable Energy
+
+                                                              TABLE OF CONTENTS
+
+DATASHEET ........................................................................................................................... 1
+
+I.    STRATEGIC CONTEXT ...................................................................................................... 8
+
+      A. Relevance to Higher Level Objectives ............................................................................................ 12
+
+      B. Multiphase Programmatic Approach ............................................................................................. 13
+
+II.   PROJECT DESCRIPTION.................................................................................................. 15
+
+      A. Project Development Objective and indicators.............................................................................. 15
+
+      B. Project Components ....................................................................................................................... 15
+
+      C. Project Beneficiaries ....................................................................................................................... 18
+
+      D. Rationale for Bank Involvement and Role of Partners ................................................................... 18
+
+      E. Lessons Learned and Progress on Learning Agenda ....................................................................... 19
+
+III. IMPLEMENTATION ARRANGEMENTS ............................................................................ 20
+
+      A. Institutional and Implementation Arrangements .......................................................................... 20
+
+      B. Results Monitoring and Evaluation Arrangements......................................................................... 21
+
+      C. Sustainability................................................................................................................................... 21
+
+IV. PROJECT APPRAISAL SUMMARY ................................................................................... 22
+
+      A. Technical, Economic and Financial Analysis ................................................................................... 22
+
+      B. Fiduciary.......................................................................................................................................... 22
+
+      C. Legal Operational Policies ............................................................................................................... 24
+
+      D. Environmental and Social ............................................................................................................... 24
+
+V. GRIEVANCE REDRESS SERVICE ....................................................................................... 25
+
+      Closing Gender Gap in Kenya Energy Sector ...................................................................................... 25
+
+VI. KEY RISKS ..................................................................................................................... 26
+
+VII. RESULTS FRAMEWORK AND MONITORING ................................................................... 28
+
+ANNEX 1: Implementation Arrangements and Project Support............................................. 36
+
+ANNEX 2: Closing the Gender Gaps in Kenya Energy Sector .................................................. 41
+
+.
+
+
+
+    @#&OPS~Doctype~OPS^dynamics@padbasicinformation#doctemplate
+
+    DATASHEET
+
+
+
+
+
+    BASIC INFORMATION
+
+
+
+
+
+    Project
+
+                             Operation Name
+
+    Beneficiary(ies)
+
+    Kenya                    Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project
+
+                                                         Environmental and Social Risk
+
+    Operation ID             Financing Instrument
+
+                                                         Classification
+
+                             Investment Project
+
+    P180465                                              Moderate
+
+                             Financing (IPF)
+
+
+
+    @#&OPS~Doctype~OPS^dynamics@padmpaprocessing#doctemplate
+
+    Financing & Implementation Modalities
+
+    [✓] Multiphase Programmatic Approach (MPA)                      [ ] Contingent Emergency Response Component (CERC)
+
+    [ ] Series of Projects (SOP)                                    [ ] Fragile State(s)
+
+    [ ] Performance-Based Conditions (PBCs)                         [ ] Small State(s)
+
+    [ ] Financial Intermediaries (FI)                               [ ] Fragile within a non-fragile Country
+
+    [ ] Project-Based Guarantee                                     [ ] Conflict
+
+    [ ] Deferred Drawdown                                           [ ] Responding to Natural or Man-made Disaster
+
+    [ ] Alternative Procurement Arrangements (APA)                  [ ] Hands-on Expanded Implementation Support (HEIS)
+
+
+
+
+
+    Expected Approval Date                 Expected Closing Date                     Expected Program Closing Date
+
+    21-Dec-2023                            30-Jun-2029                               30-Jun-2033
+
+    Bank/IFC Collaboration
+
+    No
+
+
+
+    @#&OPS~Doctype~OPS^dynamics@padmpa#doctemplate
+
+    MPA Program Development Objective
+
+    To increase access to electricity in Kenya in a financially and environmentally sustainable manner.
+
+
+
+    MPA FINANCING DATA (US$, Millions)
+
+
+
+    MPA Program Financing Envelope                                                    1,050.00
+
+
+
+
+
+                                                                                                               Page 1 of 48
+
+            The World Bank
+
+            Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project (P180465)
+
+
+
+
+
+        with an additional request to IDA                                     1,130.00
+
+
+
+Proposed Development Objective(s)
+
+To increase the capacity of Kenya Power System for energy trade and renewable energy integration.
+
+
+
+
+
+Components
+
+ Component Name                                                                                          Cost (US$)
+
+ Component A: Installation of System Stabilization Equipment                                          84,000,000.00
+
+ Component B: Construction of a 400kV substation at Kimuka                                            29,000,000.00
+
+ Component C: Battery Energy Storage Systems                                                          78,500,000.00
+
+ Component D: Technical Assistance, Capacity Building and Project
+
+                                                                                                      10,500,000.00
+
+ Management
+
+
+
+Organizations
+
+Borrower:                        Republic of Kenya
+
+                                 Kenya Electricity Generating Company PLC (KenGen), Kenya Electricity Transmission
+
+Implementing Agency:
+
+                                 Company Limited (KETRACO), Ministry of Energy & Petroleum (MoEP)
+
+
+
+
+
+MPA FINANCING DETAILS (US$, Millions)
+
+
+
+Board Approved MPA Financing Envelope                                        0.00
+
+MPA Financing Envelope:                                                       1,050.00
+
+
+
+     of which Bank Financing (IBRD):                                          0.00
+
+
+
+     of which Bank Financing (IDA):                                           930.00
+
+
+
+     of which Other Financing sources:                                        120.00
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padfinancingsummary#doctemplate
+
+PROJECT FINANCING DATA (US$, Millions)
+
+
+
+
+
+Maximizing Finance for Development
+
+
+
+Is this an MFD-Enabling Project (MFD-EP)?                   Yes
+
+
+
+Is this project Private Capital Enabling (PCE)?             Yes
+
+
+
+
+
+
+
+
+
+                                                                                                             Page 2 of 48
+
+             The World Bank
+
+             Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project (P180465)
+
+
+
+SUMMARY
+
+
+
+ Total Operation Cost                                                                                  202.00
+
+
+
+ Total Financing                                                                                       202.00
+
+               of which IBRD/IDA                                                                       153.50
+
+
+
+ Financing Gap                                                                                           0.00
+
+
+
+
+
+DETAILS
+
+
+
+ World Bank Group Financing
+
+   International Development Association (IDA)                                                         153.50
+
+
+
+          of which IDA Recommitted                                                                      96.30
+
+
+
+        IDA Credit                                                                                     153.50
+
+
+
+ Non-World Bank Group Financing
+
+   Trust Funds                                                                                          48.50
+
+
+
+        Green Climate Fund                                                                              48.50
+
+
+
+
+
+IDA Resources (US$, Millions)
+
+
+
+                                                                                   Guarantee
+
+                             Credit Amount       Grant Amount    SML Amount                       Total Amount
+
+                                                                                     Amount
+
+
+
+Regional                              64.20              0.00          0.00              0.00            64.20
+
+
+
+National
+
+Performance-Based                     89.30              0.00          0.00              0.00            89.30
+
+Allocations (PBA)
+
+
+
+Total                                153.50              0.00          0.00              0.00           153.50
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@paddisbursementprojection#doctemplate
+
+Expected Disbursements (US$, Millions)
+
+WB Fiscal
+
+Year                    2024              2025            2026         2027            2028            2029
+
+
+
+
+
+
+
+
+
+                                                                                                       Page 3 of 48
+
+               The World Bank
+
+               Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project (P180465)
+
+
+
+Annual                  18.00           51.00             67.00            40.00            26.00         0.00
+
+Cumulative              18.00           69.00            136.00           176.00            202.00       202.00
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padclimatechange#doctemplate
+
+PRACTICE AREA(S)
+
+
+
+
+
+Practice Area (Lead)                                          Contributing Practice Areas
+
+Energy & Extractives
+
+
+
+CLIMATE
+
+
+
+
+
+Climate Change and Disaster Screening
+
+Yes, it has been screened and the results are discussed in the Operation Document
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padrisk#doctemplate
+
+SYSTEMATIC OPERATIONS RISK- RATING TOOL (SORT)
+
+
+
+
+
+Risk Category                                                               Rating
+
+1. Political and Governance                                                 ⚫ Moderate
+
+2. Macroeconomic                                                            ⚫ Substantial
+
+3. Sector Strategies and Policies                                           ⚫ Moderate
+
+4. Technical Design of Project or Program                                   ⚫ Moderate
+
+5. Institutional Capacity for Implementation and Sustainability             ⚫ Substantial
+
+6. Fiduciary                                                                ⚫ Substantial
+
+7. Environment and Social                                                   ⚫ Moderate
+
+8. Stakeholders                                                             ⚫ Moderate
+
+9. Overall                                                                  ⚫ Moderate
+
+Overall MPA Program Risk                                                    ⚫ Substantial
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padcompliance#doctemplate
+
+POLICY COMPLIANCE
+
+
+
+
+
+Policy
+
+
+
+
+
+                                                                                                          Page 4 of 48
+
+           The World Bank
+
+           Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project (P180465)
+
+
+
+Does the project depart from the CPF in content or in other significant respects?
+
+[ ] Yes   [✓] No
+
+
+
+Does the project require any waivers of Bank policies?
+
+[✓] Yes [ ] No
+
+
+
+Have these been approved by Bank management?
+
+[✓] Yes [ ] No
+
+
+
+Is approval for any policy waiver sought from the Board?
+
+[✓] Yes [ ] No
+
+
+
+ENVIRONMENTAL AND SOCIAL
+
+
+
+
+
+Environmental and Social Standards Relevance Given its Context at the Time of Appraisal
+
+E & S Standards                                                                     Relevance
+
+ESS 1: Assessment and Management of Environmental and Social Risks and
+
+                                                                                    Relevant
+
+Impacts
+
+ESS 10: Stakeholder Engagement and Information Disclosure                           Relevant
+
+ESS 2: Labor and Working Conditions                                                 Relevant
+
+ESS 3: Resource Efficiency and Pollution Prevention and Management                  Relevant
+
+ESS 4: Community Health and Safety                                                  Relevant
+
+ESS 5: Land Acquisition, Restrictions on Land Use and Involuntary Resettlement      Relevant
+
+ESS 6: Biodiversity Conservation and Sustainable Management of Living Natural
+
+                                                                                    Relevant
+
+Resources
+
+ESS 7: Indigenous Peoples/Sub-Saharan African Historically Underserved
+
+                                                                                    Relevant
+
+Traditional Local Communities
+
+ESS 8: Cultural Heritage                                                            Relevant
+
+ESS 9: Financial Intermediaries                                                     Not Currently Relevant
+
+NOTE: For further information regarding the World Bank’s due diligence assessment of the Project’s potential
+
+environmental and social risks and impacts, please refer to the Project’s Appraisal Environmental and Social Review
+
+Summary (ESRS).
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padlegalcovenants#doctemplate
+
+LEGAL
+
+Legal Covenants
+
+Sections and Description
+
+
+
+
+
+
+
+                                                                                                              Page 5 of 48
+
+           The World Bank
+
+           Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project (P180465)
+
+
+
+Section I A.1.(a) of Schedule 2 to the IDA Financing Agreement: The Recipient shall, no later than six (6) months after
+
+the Effective Date establish, and thereafter maintain throughout Project implementation period, the Project
+
+implementation unit within the Ministry of Energy and Petroleum with resources and composed of key staff (including
+
+the Project coordinator who shall be a senior engineer, a Project accountant, a procurement specialist, a gender expert,
+
+an environmental risk management expert, and a social risks management expert), with qualifications, experience and
+
+under terms of reference acceptable to the Association (“MoEP Project Implementation Unit”) as may be further
+
+detailed in the MoEP Project Implementation Manual.
+
+Section I A.4.(a) of Schedule 2 to the IDA Financing Agreement: KenGen and KETRACO shall each establish within one (1)
+
+month after the Effective Date and thereafter maintain throughout Project implementation its corresponding steering
+
+committee chaired by its respective managing directors and comprised of its corresponding general managers with
+
+mandate and resources acceptable to the Association (“Project Steering Committee”) as further detailed in their
+
+respective Project Implementation Manuals.
+
+Section I c.2 of Schedule 2 to the IDA Financing Agreement: Without limitation upon the provision of Part C.1 of Section
+
+1, the Recipient shall adopt the MoEP Project Implementation Manual to guide the implementation of activities
+
+undertaken by Ministry of Energy and Petroleum, not later than six (6) months after the Effective Date.
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padconditions#doctemplate
+
+Conditions
+
+Type                          Citation                       Description                     Financing Source
+
+                                                             The Co-financing
+
+                                                             Agreement has been
+
+                                                             executed and delivered
+
+                                                             [and all conditions
+
+                                                             precedent to its
+
+Effectiveness                 4.01(a)                        effectiveness or to the right   IBRD/IDA
+
+                                                             of the Recipient to make
+
+                                                             withdrawals under it (other
+
+                                                             than the effectiveness of
+
+                                                             this Agreement) have been
+
+                                                             fulfilled
+
+                                                             KETRACO and KenGen have
+
+                                                             each prepared and adopted
+
+                                                             their respective Project
+
+                                                             Implementation Manual in
+
+                                                             form and substance
+
+Effectiveness                 4.01(b)                                                        IBRD/IDA
+
+                                                             satisfactory to the
+
+                                                             Association, in accordance
+
+                                                             with the provisions of
+
+                                                             Section I.C.1 of Schedule 2
+
+                                                             to this Agreement
+
+                                                             KETRACO has established
+
+Effectiveness                 4.01(c)                                                        IBRD/IDA
+
+                                                             the KETRACO Project
+
+
+
+
+
+
+
+                                                                                                                Page 6 of 48
+
+           The World Bank
+
+           Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project (P180465)
+
+
+
+                                                        Implementation Unit under
+
+                                                        terms of reference and
+
+                                                        with staff in numbers and
+
+                                                        with qualifications
+
+                                                        satisfactory to the
+
+                                                        Association
+
+                                                        KenGen has established the
+
+                                                        KenGen Project
+
+                                                        Implementation Unit under
+
+                                                        terms of reference and
+
+Effectiveness               4.01(d)                                                    IBRD/IDA
+
+                                                        with staff in numbers and
+
+                                                        with qualifications
+
+                                                        satisfactory to the
+
+                                                        Association
+
+                                                        The IDA Financing
+
+                                                        Agreement has been
+
+                                                        executed and delivered and
+
+                                                        all conditions precedent to
+
+                                                        its effectiveness or to the
+
+                            GCF Financing Agreement
+
+Effectiveness                                           right of the Recipient to      Trust Funds
+
+                            4.01(a)
+
+                                                        make withdrawals under it
+
+                                                        (other than the
+
+                                                        effectiveness of this
+
+                                                        Agreement) have been
+
+                                                        fulfilled
+
+                                                        The Subsidiary Agreement
+
+                                                        has been executed and
+
+                                                        delivered and all conditions
+
+                            GCF Financing Agreement     precedent to its
+
+Effectiveness                                                                          Trust Funds
+
+                            4.01(b)                     effectiveness (other than
+
+                                                        the effectiveness of this
+
+                                                        Agreement) have been
+
+                                                        fulfilled
+
+
+
+
+
+
+
+
+
+                                                                                                     Page 7 of 48
+
+      The World Bank
+
+      Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project (P180465)
+
+
+
+
+
+I. STRATEGIC CONTEXT
+
+
+
+This Project Appraisal Document covers Phase two of the Kenya Green and Resilient Expansion of Energy (GREEN)
+
+Multiphase Programmatic Approach (MPA) program approved by the World Bank’s Executive Directors on June 15,
+
+2023 (P176698, Report No. PAD5130).
+
+
+
+1.       Kenya Vision 2030 aims to transform Kenya into “a newly-industrializing, middle income country
+
+providing a high quality of life to all its citizens in a clean and secure environment”. Addressing its infrastructure
+
+deficit has been at the core of Kenya’s development strategy, and it has invested heavily in improving roads, rails,
+
+ports networks, and energy infrastructure. Clean, adequate, affordable, and reliable energy is essential to meet the
+
+goals of Vision 2030. Kenya has committed itself to 100 percent clean energy by 2030 (COP26 Global Summit).
+
+Kenya’s 2020 Nationally Determined Contribution includes a commitment to achieve Vision 2030 through a low
+
+carbon, climate resilient development pathway. It also has an ambitious target to reduce emissions by 32 percent
+
+relative to the business-as-usual scenario of 143 mtCO2e by 2030.
+
+
+
+2.       Government of Kenya (GoK)’s goal of universal access to clean, adequate, affordable, and reliable
+
+electricity is critically dependent on a robust transmission system to connect the main generation sources
+
+(geothermal, hydro and wind) in the central Rift valley and eastern part of the country to the major load centers
+
+and to allow for greater connectivity to the regional hydropower resources. Particularly, the load centers in the
+
+western and coastal regions are far from the supply sources (over 400km) and in the absence of adequate
+
+transmission connectivity, local generation based on high-cost fossil fuel is used to supplement grid supply in these
+
+areas. Replacement of the fossil fuel-based generation is a critical element to reducing the cost of supply in Kenya,
+
+which is high in terms of regional standard impeding the competitiveness of Kenyan industries.1
+
+
+
+3.       While Kenya has very low greenhouse gas (GHG) emissions, it is highly vulnerable to the impacts of
+
+climate change. Kenya accounts for only 0.1 percent of global emissions but is ranked 143 out of 188 countries in
+
+terms of its vulnerability to climate change impact2 (a lower ranking means greater vulnerability). According to
+
+climate projections, the increase in mean annual temperature in Kenya is projected to be between 1°C and 2°C by
+
+the 2050s and by up to 5°C by 2100. Climate and disaster risk screening indicates that Kenya has a high risk of river,
+
+urban and coastal floods, landslides, volcano eruptions, and wildfires, which will add further stress to Kenya's
+
+climate vulnerability. An increase in the frequency and severity of extreme weather events would inflict a heavy
+
+toll on human lives and welfare, with a high risk of damage to the country’s scarce and valuable human and natural
+
+capital. The poorest, most marginalized, and most vulnerable households and communities will be hit the hardest,
+
+as income and health shocks will drive them deeper into poverty. Infrastructure assets including electricity
+
+transmission and distribution networks can be vulnerable to both chronic and acute climate hazards. According to
+
+the World Bank's Lifelines report, the cost of disruption to the power sector due to natural shocks in Kenya was
+
+about 1.14 percent of GDP in 20193.
+
+
+
+
+
+1 Kenya’s average tariff for businesses of about US¢22/kWh is relatively high by compared to its neighbors (Tanzania, US¢10.2/KWh; Uganda’s
+
+
+
+US¢17/KWh; Ethiopia, US¢3.5/KWh)
+
+2 Notre Dame Global Adaptation Initiative Country Index summarizes a country's vulnerability to climate change and other global challenges
+
+
+
+in combination with its readiness to improve resilience. https://gain.nd.edu/our-work/country-index/rankings/
+
+3 The World Bank, 2019. Lifelines: The Resilient Infrastructure Opportunity. Sustainable Infrastructure; Washington, DC: World Bank. ©
+
+
+
+World Bank. https://openknowledge.worldbank.org/handle/10986/31805 License: CC BY 3.0 IGO.
+
+
+
+
+
+
+
+
+
+                                                                                                                               Page 8 of 48
+
+        The World Bank
+
+        Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project (P180465)
+
+
+
+
+
+
+
+4.       Kenya is already reaping benefits from its diversified and resilient generation mix and connectivity to
+
+regional hydropower resources that has ensured security of supply in the face of the longest drought experienced
+
+in the country in four decades and the goal of 100 percent clean energy is well within its reach. Installed
+
+generation capacity as of June 2023 stood at 3,312 MW compared to peak demand of 2,170 MW, resulting in a
+
+nameplate reserve margin of 34.5 percent. However, the effective reserve margin is lower due to plant outages,
+
+and lower plant capacity factors from variable renewable energy (VRE) sources, mainly wind and solar. Despite the
+
+reduction of the national hydro generation from 23 percent in 2022 to about 17 percent in 2023 (as of June 2023)
+
+due to a severe drought, fossil fuel-based (thermal) generation did not increase to compensate for it.4 This was
+
+possible due to renewable energy imports from Ethiopia following commissioning of the 500KV High Voltage Direct
+
+Current (HVDC) Ethiopia-Kenya interconnector in November 2022. Under average hydrology, more than 90 percent
+
+of total generation has previously been from renewable energy resources, mainly geothermal (45 percent), hydro
+
+(26 percent), and wind and solar (19 percent). With geothermal costs at ~US¢8.5/kWh, hydro at ~US¢3-5/kWh
+
+(fully depreciated), future competitive auctions for solar and wind expected in the range of US¢5-7/KWh
+
+(depending on size, locations etc.), and with import of renewable energy from Ethiopia (at US¢6/kWh), Kenya has
+
+a unique opportunity in the near future to meet its electricity needs almost entirely from clean energy sources and
+
+at affordable costs.
+
+
+
+5.       With the commissioning of the Kenya-Ethiopia interconnector, supported under the World Bank-
+
+financed Eastern Electricity Highway Project (EEHP, P126579), impetus has been given to regional energy trade
+
+through the Eastern Africa Power Pool (EAPP). As the first of its kind in Sub-Saharan Africa, this interconnection is
+
+a flagship of power trade in the EAPP region and provides a key part of the infrastructure needed to connect the
+
+EAPP to the Southern African Power Pool (SAPP). The EEHP is co-financed by the African Development Bank (AfDB)
+
+and French Development Agency (AFD). While the interconnection has a transfer capacity of up to 2,000MW,
+
+transmission system constraints in Kenya currently limit offtake to only 200MW. Urgent investments are needed
+
+to address reactive power deficiencies and increase transfer capacity in the Kenya system to reap the full benefits
+
+from the interconnection.
+
+
+
+                                              Figure 1: Installed capacity and energy mix
+
+
+
+
+
+
+
+
+
+*Note: Imports from Ethiopia shown as ‘EEP imports’ started in November 2022
+
+
+
+
+
+
+
+4   In fact, fossil fuel-based generation also decreased from 12 percent in 2022 to 10.5 percent in 2023 (until June 2023).
+
+
+
+
+
+
+
+                                                                                                                              Page 9 of 48
+
+      The World Bank
+
+      Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project (P180465)
+
+
+
+6.        Recognizing the potential benefits, governments in Eastern Africa5 have committed significant
+
+investments in developing physical transmission infrastructure that will lay the foundations for power trade in
+
+the region. The Uganda-Rwanda and Ethiopia-Kenya interconnectors are completed while five other key
+
+transmission corridors are under construction (Kenya-Uganda, Rwanda- Burundi, Rwanda- Democratic Republic of
+
+the Congo, Kenya-Tanzania, and Tanzania-Zambia). Together with other planned interconnectors, this will result in
+
+all thirteen EAPP member countries being interconnected, allowing power flow from Egypt in the north to Tanzania
+
+in the south. In the medium to long term, there are opportunities for trade with the SAPP through the Tanzania-
+
+Zambia interconnector in the south. These interconnectors will allow the region to better harness and integrate
+
+significant amount of renewable energy resources (hydro, geothermal, wind, and solar) by offering greater system
+
+inertia and balancing support to absorb the unexpected variations in the output of VRE plants. The operation of
+
+the regional interconnectors however needs a robust, secure and reliable transmission grid in Kenya.
+
+
+
+7.      Kenya is gradually building an extensive national grid owned and operated by the transmission utility-
+
+Kenya Electricity Transmission Company Limited (KETRACO) with a strategy for increased integration with the
+
+regional network but will require significant investment to cater to the needs. The existing national transmission
+
+grid network (operating at 400 kV, 220 kV, and 132 kV levels), is approximately 9,011 circuit-km, of which about 61
+
+percent is owned by KETRACO, while the rest is owned and operated by Kenya Power & Lighting Company PLC
+
+(KPLC), the single off-taker and distribution utility. KETRACO has been designated as the system operator and a
+
+process is underway to transfer all transmission assets owned by KPLC to KETRACO. The Transmission Master Plan
+
+(2023–2042) estimates that the transmission network will need to grow by a total of 2,199 km in route length
+
+(3,281 km in circuit length) by 2027 and a further 4,311 km in route length (7,850 km in circuit length) by 2042,
+
+essentially almost doubling the existing network. This will require an investment of about US$4.8 billion. The GoK
+
+has so far been able to mobilize only about US$987 million (from various multilateral and bilateral financiers
+
+including several export credit arrangements) leaving a financing gap of US$3.8 billion. Recognizing that the large
+
+transmission investment needs cannot be mobilized from public resources alone, KETRACO has identified nine
+
+transmission lines for a total of about 925km with an approximate cost of US$912 million for development through
+
+Public Private Partnership (PPP) arrangements. KETRACO is also developing some regional interconnection projects
+
+with Tanzania and Uganda to tap into regional hydropower resources, which will reduce the cost of power supply
+
+in Kenya.
+
+
+
+8.       Some priority investments in the transmission network are needed urgently to increase integration of
+
+regional hydropower resources, strengthen capacity for transfer of renewable energy from generation sources
+
+to consumption load centers, and improve voltage stability toward meeting Kenya’s goal of 100 percent clean
+
+energy, reduction in the cost of supply, and improvement in supply quality and reliability. In July 2022, Kenya
+
+and Ethiopia signed a Power Purchase Agreement (PPA) which projects that there would be an increase in Kenya’s
+
+import to 400MW in the next three years (from the current 200MW). However, the increased import poses a
+
+significant risk of instability and outages to the Kenya network in the absence of system reinforcement measures.
+
+KETRACO commissioned a comprehensive study on the system needs for reactive power compensation devices
+
+and voltage support. Completed in July 2022, the study established that the operation of the interconnector at
+
+more than 200MW will require system reinforcements comprising of fast acting reactive power and voltage control
+
+devices (STATCOMs) at key substations in Kenya (Suswa and Rabai initially and two more in Western Kenya at a
+
+later stage) are needed. This equipment will stabilize system voltages and protect the system in case of outages in
+
+
+
+
+
+5Eastern Africa includes the thirteen Eastern Africa Power Pool (EAPP) member countries (Burundi, Djibouti, Democratic Republic of the
+
+Congo, Egypt, Ethiopia, Kenya, Libya, Rwanda, Somalia, Sudan, South Sudan, Uganda, Tanzania) and one EAPP prospective country (Eritrea).
+
+
+
+
+
+
+
+                                                                                                                           Page 10 of 48
+
+      The World Bank
+
+      Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project (P180465)
+
+
+
+the interconnector.
+
+
+
+9.       Constraints in transmission capacity and reactive power compensation in the electricity grid in Kenya are
+
+also limiting transfer of renewable energy to the major load centers resulting in poor supply quality and
+
+reliability and necessitating the use of high-cost fossil fuel-based generation. The main renewable generation
+
+plants (geothermal, hydro, and wind) and the bulk substation of Suswa (the nerve center of the Kenya system that
+
+collects over 50 percent of renewable energy in the country) are located in the central rift valley and eastern parts
+
+of the country and are far from the major load centers. Currently, renewable energy from generation and collection
+
+centers in the rift valley (about 70 percent of total energy generated in the country) is carried to the largest load
+
+center of Nairobi through a 220kV Suswa-Nairobi line, which is overloaded. A second 400kV transmission line
+
+(Suswa-Isinya) has recently been with financing from AFD and European Investment Bank (EIB), but the new line is
+
+currently partly operated at 220kV due to absence of a substation close to Nairobi. Disturbances on the overloaded
+
+Suswa-Nairobi 220kV line has often compromised supply security resulting in a number of national blackouts.
+
+Construction of the proposed 400kV substation at Kimuka will enable the Suswa-Isinya line to be fully operated at
+
+400kV, thus decongesting the 220kV Suswa-Nairobi line and enhancing the security of supply in Nairobi region. This
+
+Suswa-Isinya line connects Kenya-Tanzania interconnector (currently under construction) with Ethiopia-Kenya
+
+interconnector, which will allow for power export from Ethiopia to Tanzania through Kenya once the
+
+interconnector with Tanzania and proposed substation at Kimuka are complete. In addition, the load centers of
+
+western and coastal regions (second and third largest load centers in the country) are supplied via long transmission
+
+lines (over 400km with inadequate reactive power supply) resulting in voltage instability and poor quality of supply
+
+in these regions that have a large number of industries. Most of the existing reactive power compensation devices
+
+in the system do not offer the fast-acting dynamic response needed to mitigate significant voltage fluctuations. As
+
+a result, local generation based on high-cost fossil fuel has to be used to provide voltage support and supplement
+
+grid supply in these areas. Installation of the STATCOMs will improve the voltage stability and allow for dispatch
+
+of renewable energy to coastal region replacing the fossil fuel-based generation helping in achievement of the
+
+country’s clean energy goals as well as reduction in the cost of supply and improvement in quality of supply
+
+particularly for the industries in this region.
+
+
+
+10.     Several other constraints in the electricity system need to be addressed for greater dispatch of
+
+renewables. The system has high and inflexible must-run capacity compared to the considerably low off-peak
+
+demand (about 56 percent of the peak demand) (Figure 2). This leads to frequent energy curtailment during the
+
+low load period, including venting of substantial amount of geothermal steam (up to 170MW daily constituting 16
+
+percent of installed capacity). A technical assessment on battery energy storage systems (BESS) supported by the
+
+World Bank has identified that BESS could be effectively used to store geothermal based power during off-peak
+
+period for discharge during peak period, which will allow for full utilization of geothermal energy while reducing
+
+the use of costly fossil fuel-based generation for meeting peak load. The study has confirmed the immediate need
+
+for 400 MW of 1-hour BESS capacity primarily for load shifting but also for grid stability by providing both fast and
+
+back up system reserves. While implementing the first BESS at scale, adequate legal and regulatory framework
+
+including their role in the system, ownership, contractual and remuneration arrangements will need to be
+
+developed for leveraging private participation for meeting the future needs of BESS.
+
+
+
+11.      Competitive procurement of future capacity addition of VRE informed by a robust least cost power
+
+development plan will be critical for reducing the cost of supply and meeting the 100 percent clean energy goal.
+
+A large number of projects in solar and wind were under various stages of development under the Feed-in-Tariff
+
+(FiT) Policy, which was first introduced in 2010 to promote renewables. Such additions were based on an overly
+
+
+
+
+
+
+
+                                                                                                          Page 11 of 48
+
+      The World Bank
+
+      Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project (P180465)
+
+
+
+ambitious demand growth assumption under the least cost power development plans (LCPDP) existing prior to
+
+2021. The FiT policy for solar and wind has since been replaced with a competitive auction framework and the
+
+LCPDP was updated in 2022 with realistic demand growth assumptions. A competitive auction for solar and wind
+
+is expected in the next two to three years once the existing pipeline is fully streamlined and additional capacity
+
+needs are confirmed. Significant enhancement of the LCPDP planning process is needed to better model the system
+
+impact of VRE, power imports, and storage options.
+
+
+
+                                   Figure 2: Daily load curve for August 9, 2023
+
+                       2500.00
+
+
+
+                       2000.00
+
+         Demand (MW)
+
+
+
+
+
+
+
+
+
+                       1500.00
+
+
+
+                       1000.00
+
+
+
+                        500.00
+
+
+
+                         00.00
+
+
+
+
+
+                                                             Hour
+
+
+
+
+
+A. Relevance to Higher Level Objectives
+
+
+
+12.     This second phase of the MPA supports Africa Eastern and Southern Regional priorities which include
+
+both energy access and regional integration. The World Bank’s Africa Regional Integration and Cooperation
+
+Assistance Strategy (FY21-FY23) acknowledges that achieving energy access by 2030 is one of the foremost goals
+
+of the World Bank in Africa. The project will allow for Kenya to increase its import of cheaper and renewable energy
+
+from Ethiopia and facilitate integration of larger share of VRE. The project will also enable Tanzania to access
+
+hydropower resources of Ethiopia through the Kenya-Tanzania interconnector.
+
+
+
+13.     The MPA Program’s relevance to the Country Partnership Framework (CPF) remains unchanged. The
+
+project is aligned with the World Bank Group CPF for Kenya (FY2023-2028, Report No.172255-KE) discussed by
+
+the Board on November 17, 2022. By supporting cheaper and clean energy options for Kenya, the proposed
+
+intervention will contribute to the higher-level outcomes of income growth and sustainable equity in service
+
+delivery outcomes. Consistent with one of the priority focus areas of the CPF, the project leverages climate
+
+financing in support of renewable energy development in Kenya.
+
+
+
+14.      This second phase of the MPA program is aligned with the World Bank’s mobilizing finance for
+
+development and will facilitate significant private capital mobilization. The project will help strengthen an
+
+enabling environment for greater private sector participation in development of renewable energy in Kenya by
+
+supporting preparation of prefeasibility studies and transaction advisory support for competitive auctions for solar
+
+development. It is currently estimated that the GoK could auction about 300MW of solar projects with the private
+
+sector during 2025-2026, mobilizing an estimated US$300 million of private investment. The auctions would be
+
+expected to be supported by World Bank risk mitigation instruments under the third phase of the MPA. The project
+
+will also support review and preparation of policy, legal and regulatory frameworks for BESS to create an enabling
+
+
+
+
+
+
+
+                                                                                                         Page 12 of 48
+
+      The World Bank
+
+      Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project (P180465)
+
+
+
+environment for BESS development by the private sector. Following these improvements to the enabling
+
+environment, the GoK would be expected to launch a bidding process for privately developed BESS worth an
+
+estimated US$60 million, similar to the solar auctions. Working closely with International Finance Corporation (IFC)
+
+and the Multilateral Investment Guarantee Agency (MIGA), the project will set the stage for unlocking private
+
+capital mobilization including from the local financial market for investment in competitively procured solar
+
+capacity addition as well as in BESS.
+
+
+
+15.      The project is aligned with the proposed World Bank Gender Strategy (2024-2030), which puts forward
+
+the bold ambition to accelerate gender equality for a sustainable, resilient, and inclusive future in alignment with
+
+the World Bank Evolution. The Strategy responds to the global urgency, fundamentality, and complexity of
+
+achieving gender equality. It has three strategic objectives: (i) end gender-based violence & elevate human capital;
+
+(ii) expand and enable economic opportunities; and (iii) engage women as leaders. The project design will include
+
+targeted interventions to improve female employment and career growth opportunities in the project
+
+implementing agencies - KETRACO and KenGen - building on the earlier work carried out in the sector.
+
+
+
+B. Multiphase Programmatic Approach
+
+
+
+Program Results Chain and PrDO
+
+
+
+16.     The PrDO of the MPA - “to increase access to electricity in Kenya in a financially and environmentally
+
+sustainable manner” - remains unchanged. The theory of change, outcome-level indicators, and the program
+
+framework also remain unchanged.
+
+
+
+Progress on MPA Program Development Objective (PrDO) indicators
+
+
+
+17.     The first phase of the MPA (P176698), a Program for Results (PforR) financing to KPLC, was approved by
+
+the World Bank Board on June 15, 2023 and the financing agreements were signed on December 15, 2023. The
+
+GoK is taking steps to meet the effectiveness conditions expeditiously.6 Some of the disbursement linked results
+
+(DLRs) under the PforR have already been achieved toward meeting the financial sustainability objective of the first
+
+phase of the MPA. A managing director for KPLC was appointed in May 2023 through a competitive process (DLR
+
+1.1). A policy decision was taken by the Cabinet to have Board composition of all publicly listed state-owned
+
+enterprises reflect the shareholding structure of the companies. KPLC, with its 49.9 percent shareholding by the
+
+private sector, will have commensurate representation of the private sector in KPLC Board. An amendment to the
+
+Company’s Articles of Association to reflect this policy decision was approved by its shareholders in an
+
+Extraordinary General Meeting on November 10, 2023 (DLR1.3). Four directors were elected by the private
+
+shareholders to KPLC Board in its annual general meeting held on December 8, 2023 (DLR 1.7, 1.9, and 1.11). Finally,
+
+KPLC is in the process of finalizing a comprehensive turn-around strategy that will include measures for service
+
+delivery improvements and expansion of electricity access (DLR1.2). The regulator (Energy and Petroleum
+
+Regulatory Authority, EPRA) has revised the retail tariffs with effect from April 1, 2023 following an objective,
+
+transparent, and independent tariff review process generating additional revenues for KPLC. This was initially
+
+considered as a DLR under the PforR but was later included as a prior action under the Fiscal Sustainability and
+
+Inclusive Green Growth Development Policy Operation (P180339).
+
+
+
+
+
+6As per the World Bank operational requirement for the MPA instrument, subsequent phases of the MPA cannot be approved before the
+
+MPA is effective. A waiver of this requirement was approved by World Bank management on December 20, 2023 paving the way for the
+
+second phase to be processed before the effectiveness of the MPA.
+
+
+
+
+
+
+
+                                                                                                                     Page 13 of 48
+
+                                 The World Bank
+
+                                 Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project (P176698)
+
+
+
+
+
+
+
+                                                                                    Table: MPA Financing Envelope
+
+
+
+                                                                                                                                                                 Estimat
+
+                                                                                                                               Estimated                                                      Estimated
+
+                                                                                                                                                Estimated          ed         Estimated
+
+                                                                                                                                  IBRD                                                        Environme
+
+                           Sequential or                                                                                                       IDA Amount         Other        /Actual
+
+  Phase # Project ID                              Phase’s Proposed Development Objective                   IPF or PforR         Amount                                                          nt and
+
+                           Simultaneous                                                                                                            (US$          Amount       Approval
+
+                                                                                                                                  (US$                                                        Social Risk
+
+                                                                                                                                                 million)         (US$           Date
+
+                                                                                                                                million)                                                        Rating
+
+                                                                                                                                                                 million)
+
+                                               To improve financial viability of KPLC and                                                                                      June 15,
+
+     1       P176698                                                                                           PforR              0.00            400.00           0.00                       Substantial
+
+                                               increase access to electricity                                                                                                    2023
+
+                                               To increase the capacity of Kenya power
+
+     2       P180465       Simultaneous        system for energy trade and renewable energy                      IPF              0.00           153.50*         48.50**         FY24         Moderate
+
+                                               integration
+
+                                                                                                               IPF/                                                                             High/
+
+     3                     Simultaneous        To increase access to renewable electricity                                        0.00            200.00        71.50***         FY26
+
+                                                                                                          PforR with PRG                                                                      Substantial
+
+                                               To increase access to electricity in a financially                                                                                               High/
+
+     4                     Simultaneous                                                                     IPF or PforR          0.00            176.50           0.00          FY27
+
+                                               and environmentally sustainable manner                                                                                                         Substantial
+
+  Total                                                                                                                           0.00            930.00         120.00
+
+                                                               Proposed Financing Envelope                                                                                      1,050.00
+
+* Includes US$64.2 million of regional IDA and US$89.3 million of national IDA. A saving of US$96.3 million equivalent canceled under the regional EEHP (P126579) is recommitted as the
+
+second phase of the MPA in the same 2:1 ratio of regional and national IDA.
+
+** The partnership with GCF will support governments leverage renewable energy (RE) private investments in an optimized manner while maximizing socioeconomic benefits in alignment
+
+with the Sustainable Risk Mitigation Initiative (SRMI) approach. SRMI offers development and climate financing for: (i) technical assistance to help countries develop evidence-based variable
+
+renewable energy (VRE) targets, RE park infrastructure studies, and establish robust procurement and legal processes with the support of transaction advisors; (ii) critical public investments
+
+to enable integration of VRE, finance solar park/associated infrastructure for solar capacity addition, and increase access to electricity; and (iii) risk mitigation instruments to cover residual
+
+risks perceived by private investors. Across all GCF financing to SRMI projects, a focus is placed on socioeconomic development and gender equality.
+
+*** Climate Investment Funds (CIF) support developing countries transitioning to low emissions and climate-resilient development. The CIF provides developing countries with grants,
+
+concessional loans, and risk mitigation instruments that can achieve significant leverage of private sector resources, investments from Multilateral Development Banks (MDBs), and other
+
+co-financing. Ministry of Energy and Petroleum (MoEP) has expressed interest to access CIF for the Renewable Energy Integration (REI) program of Kenya. As the first step in accessing the
+
+CIF, an investment plan has been prepared by the GoK with support from the AfDB and the World Bank including IFC. The investment plan has identified the investment needs as well as
+
+the required funding including from the CIF to help Kenya transition toward greening its generation expansion program as well as climate-resilient power sector development. The CIF
+
+resources mentioned here are indicative only. Funding allocation includes US$41.5 million from CIF and US$30 million from the GCF cooling facility.
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                     Page 14 of 48
+
+       The World Bank
+
+       Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project (P180465)
+
+
+
+
+
+
+
+II.       PROJECT DESCRIPTION
+
+
+
+  A. Project Development Objective and indicators
+
+
+
+18.     The project development objective of the second phase of the MPA is to increase the capacity of Kenya power
+
+system for energy trade and renewable energy integration.
+
+
+
+19.      The outcome indicators to measure the achievement of the PDO are:
+
+      a) Increased capacity of the Kenya system to transfer power through the Kenya-Ethiopia interconnector; and
+
+      b) Reduced curtailment of renewable energy (GWh)
+
+
+
+ B. Project Components
+
+20.      As explained in the Program Appraisal document of the MPA (whose first phase was approved by the World
+
+Bank Board of Executive Directors in June 2023), the second phase of the MPA will finance critical investments in grid
+
+stability equipment (STATCOMs and BESS) and a substation to increase system resilience in Kenya, which will facilitate
+
+increasing imports of cleaner and cheaper energy from Ethiopia, transfer of a larger share of renewable energy in the
+
+Kenya system, and energy trade between Tanzania and Ethiopia through the Kenya system. The project scope is within
+
+the overall scope of the MPA Program. The project will comprise the following components:
+
+
+
+21.      Component A: Installation of System Stabilization Equipment (IDA US$84 million). This component will
+
+finance installation of STATCOMs to improve the fault levels, increase voltage stability, and allow for greater import
+
+of cheaper and renewable energy from Ethiopia. One of the STATCOMs will be installed at the existing Suswa
+
+substation where the 500 HVDC Ethiopia-Kenya transmission interconnector terminates while the second STATCOM
+
+will be installed at 220/132kV Rabai substation at the coast region of Kenya. Suswa substation is the nerve center of
+
+the Kenya system with about 50 percent of electricity generated in the country being collected through the substation.
+
+Installation of the STATCOMs at Suswa and Rabai will enable safe operation of the Ethiopia-Kenya interconnector and
+
+will enable Kenya increase offtake to 400MW by November 2025 from the current 200MW as stipulated under the
+
+PPA between KPLC and Ethiopia Electric Power. The STATCOM at Rabai will also provide reactive power compensation
+
+reducing reliance on thermal power plants for energy and voltage support in the coast region. The STATCOMS will
+
+comprise mechanically switched shunt busbar reactors, capacitor banks and static synchronous compensators and
+
+associated substation primary equipment, secondary systems, associated civil works as recommended by technical
+
+studies carried out in 2022 under EEHP. The technical designs and bidding documents for the STATCOMs have been
+
+prepared by a consultant financed under EEHP and the bidding will be launched immediately after credit signing. The
+
+component will also finance project management and supervision consultants. Given that STATCOMs are new
+
+technologies in Kenya and KETRACO does not have experience in operation and maintenance (O&M) of these assets,
+
+the component will finance O&M services including the first preventive maintenance. The supply and installation
+
+contract will include specific requirement for knowledge transfer to allow KETRACO develop in-house capacity for
+
+O&M within three years of commissioning of the STATCOMs.
+
+
+
+22.      Component B: Construction of a 400kV Substation at Kimuka (IDA US$29 million). The Kimuka substation
+
+will enable export of power from Ethiopia to Tanzania through Kenya by allowing the Suswa-Isinya line to be operated
+
+at full design capacity. Although constructed at 400kV, only one circuit of the Suswa-Isinya line is currently being
+
+
+
+
+
+
+
+
+
+                                                                                                          Page 15 of 48
+
+       The World Bank
+
+       Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project (P180465)
+
+
+
+
+
+
+
+operated at 400kV while the other is operated at 220kV. This is because some system reinforcements initially planned
+
+for Nairobi area, which would have allowed the second circuit of the Suswa-Isinya line to be operated at the designed
+
+capacity of 400kV, could not be implemented due to right of way challenges.7 To address the problem, installation of
+
+a 400kV substation at Kimuka, on a land belonging to KETRACO and that is close to the existing 220kV/66kV substation
+
+is proposed (see the drawing below of the initial and proposed line designs). The substation will increase transmission
+
+capacity of more renewable energy (geothermal, wind and imports) from supply sources at Olkaria and Suswa to major
+
+load centers of Nairobi and the Coast regions as well as enhance security of supply. The 400kV Kimuka substation is
+
+also part of the planned 400kV ring that is being implemented to enhance the transmission capacity of the network
+
+to satisfy the growing demand of Nairobi region.8 The component includes construction of a new 2x200MVA
+
+400/220kV substation, and a short transmission line (about 1.5km) in and out of the substation and an intertie (about
+
+0.4km) to the existing 400kV line to an existing 220/66kV substation. Technical designs and bidding documents for the
+
+proposed substation have been prepared and the bidding can be launched immediately after credit signing. The
+
+component will also finance project management and supervision consultants.
+
+
+
+                Figure 4: Configuration of Suswa-Isinya line with and without Kimuka 400kV substation
+
+
+
+
+
+
+
+
+
+23.      Component C: Battery Energy Storage Systems (IDA US$33.5 million and GCF Loan US$45 million).
+
+Implemented by KenGen, the component will support the installation of the first BESS of up to 200MWh for load
+
+shifting renewable energy sources (primarily geothermal) but also grid stability by providing system reserves (both
+
+fast and backup reserves). The charging will occur during the off-peak period (between 10pm and 5am), while the
+
+provision of backup reserves peaks during the morning and evening hours (at 4am and 6pm). The technical assessment
+
+recently completed with World Bank support confirmed the immediate need for 400MW of 1-hour BESS capacity. The
+
+
+
+7 The initial plan involved construction of a 50Km 220kV line from Suswa substation to 220kV Kimuka substation which was considered unviable
+
+due to complex right of way challenges.
+
+8 The 400kV ring consists of 400kV transmission line connecting the following proposed/existing 400kV substations: Kimuka-Isinya- Konza-
+
+
+
+Malaa- Thika - Gilgil -Suswa
+
+
+
+
+
+
+
+
+
+                                                                                                                              Page 16 of 48
+
+           The World Bank
+
+           Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project (P180465)
+
+
+
+
+
+
+
+BESS study has prioritized four sites that are owned by KenGen, KETRACO, and KPLC for BESS installation [Embakasi
+
+(Nairobi), Kipevu (Coast), Muhoroni (Western) and Olkaria geothermal complex (KenGen)]. It is envisaged that the first
+
+BESS will be implemented under a tolling model with the specifics that will be developed during Project
+
+implementation.9
+
+
+
+24.     The detailed study to be undertaken by KenGen and supported under the Component, will confirm the best
+
+use case, sizing, design, and functionality of the BESS and determine the appropriate business models and the
+
+necessary contractual arrangements between the parties (KenGen, KPLC and KETRACO). The component will finance
+
+consultants to support KenGen in preparing market standard purchase agreement with KPLC and ancillary service
+
+agreement with KETRACO. The component will support a long term service agreement to provide O&M support for
+
+BESS with specific requirement for knowledge transfer to KenGen for developing in-house capacity for O&M. The
+
+component will finance a supervision consultant to support KenGen during bid invitation and evaluation. Finally, the
+
+component will include project management support for BESS. It is expected that the technical knowledge and
+
+expertise gained in operating the BESS will pave the way for private capital mobilization for future addition of BESS
+
+capacity.
+
+
+
+25.     Options will be explored to maximize the socio-economic benefits triggered by the investments in BESS from
+
+various perspectives, such as job creation for men and women, skill development including programs targeted at
+
+female technicians, women empowerment, and local development. As part of this, KenGen will ensure that at least
+
+20 percent of the technical staff (technicians and above) of the O&M firm are female. This information will be
+
+monitored and included in the periodic project progress reports to the World Bank.
+
+
+
+26.    Component D: Technical Assistance, Capacity Building and Project Management (IDA US$7 million and GCF
+
+Grant US$3.5 million).
+
+
+
+      a)    Subcomponent D1. The solar auctions preparatory studies (GCF Grant US$1 million) will include, among
+
+            others: (i) sector diagnostic studies and assessments and preliminary projects identification, selection, and
+
+            prioritization; and (ii) project prefeasibility studies.
+
+
+
+      b) Subcomponent D2. The transaction advisory for solar auction (including legal and procurement) (GCF Grant
+
+            US$1 million), will support, among others: (i) assessment of the existing legal framework; design of the solar
+
+            power projects including key terms of the PPAs and government support agreements and contractual
+
+            arrangements; (ii) competitive selection of private sector developers for the solar plants; and (iii) negotiations
+
+            of the final contractual agreements with selected developers. The solar auctions will be guided by Renewable
+
+            Auction Policy, competitive bidding strategy and framework prepared by MoEP with the World Bank support
+
+            in 2021. The actual auctions are expected to be supported with IDA funding (co-financed with GCF) under the
+
+            third phase of the MPA.
+
+
+
+      c)    Subcomponent D3. Sector technical assistance, capacity building and project management (IDA US$4
+
+            million and GCF Grant US$1.5 million) will support sector studies; enhancement in LCPDP incorporating
+
+            climate resilience; energy policy reviews; capacity building and training activities for sector development and
+
+
+
+9Under the tolling model, the developer agrees to develop (design, finance, construct, operate and maintain) the BESS asset, gets into a tolling
+
+agreement with KPLC and is compensated through a tolling tariff.
+
+
+
+
+
+
+
+
+
+                                                                                                                                  Page 17 of 48
+
+           The World Bank
+
+           Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project (P180465)
+
+
+
+
+
+
+
+            to help sustain and enhance the policy, institutional, regulatory arrangements and reforms; as well as gender
+
+            and citizen engagement. The subcomponent will also support training and capacity building activities to
+
+            strengthen governance, environment and social management, procurement, system dispatch and operation,
+
+            technical and operational capacity of MoEP and the sector agencies including KETRACO, KenGen, EPRA, KPLC,
+
+            Geothermal Development Company, and Rural Electrification and Renewable Energy Corporation. It will also
+
+            include, among others: (a) legal, regulatory, and policy reviews to strengthen the framework including the
+
+            remuneration mechanism for private sector participation in BESS; (b) developing procedures for
+
+            decommissioning and recycling of batteries in accordance with international best practice; (c) socio-economic
+
+            development opportunities especially in auctions and regulations; (d) developing and implementing gender
+
+            equality work plans as set out in Annex 2, including impact assessment particularly focusing on the lack of or
+
+            unreliable electricity services on women’s economic and social well-being in Kenya and the challenges, lessons
+
+            learned and good practice of gender equality interventions (programs) in the energy sector; and (e) project
+
+            management and coordination support: the relevant costs for the project implementation and coordination
+
+            team to be engaged by MoEP.
+
+
+
+      d) Subcomponent D4. Technical Assistance to KETRACO (IDA US$1.5 million) will support technical assistance
+
+            and institution building of KETRACO including, among others, support for implementation of appropriate
+
+            inventory management system to strengthen O&M practices, twinning arrangements for planning officers and
+
+            transmission engineers, and placement of competitively recruited young professional engineers as part of a
+
+            succession management program in KETRACO. To ensure the sustainability of the transmission assets,
+
+            advisory services on transmission cost allocation and pricing, ancillary services pricing as well as congestion
+
+            charges will also be undertaken under this subcomponent. The subcomponent will also support
+
+            enhancements in Transmission Master Plans as part of developing a robust and climate resilient LCPDP.
+
+
+
+      e)    Subcomponent D5. Technical Assistance to KenGen: (IDA US$1.5 million). This subcomponent will support
+
+            technical assistance and institution building of KenGen including, among others: (i) technical assessment on
+
+            pumped hydro storage; and (ii) geothermal reservoir resource modelling to assist in reservoir management
+
+            for geothermal resource sustainability.
+
+
+
+C. Project Beneficiaries
+
+
+
+27.      Households and industries in Kenya will benefit from higher import of firm renewable energy from Ethiopia
+
+at a price (US¢6.5/kWh) that is significantly lower than the existing renewable energy sources (US¢7-12/kWh) and
+
+thermal sources (US¢21/kWh). The combination of the cheaper energy from Ethiopian imports and displacement of
+
+thermal energy facilitated by the project will result in reduction of overall generation cost, ultimately benefiting the
+
+end-users through a reduction in tariff. An estimated 3.29 million households (10 million people) will benefit from the
+
+improved quality of supply through reduction of voltage fluctuations, which is 37 percent of the total number of
+
+households connected to the grid in Kenya. Industries at the coast will benefit immensely from the supply quality
+
+improvement supported under the project.
+
+
+
+D. Rationale for Bank Involvement and Role of Partners
+
+
+
+28.         The World Bank is an important partner of Kenya in the energy sector. The GoK requested the Bank to finance
+
+
+
+
+
+
+
+
+
+                                                                                                               Page 18 of 48
+
+         The World Bank
+
+         Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project (P180465)
+
+
+
+
+
+
+
+ the STATCOMs and the substation. They were initially envisaged to be implemented using the savings under EEHP.
+
+ However, EEHP is now scheduled to close in January 2024. As explained in the Project Appraisal Document for the
+
+ MPA, the Government and the Bank agreed to finance the infrastructure under the second phase of the MPA. About
+
+ US$96.3 million equivalent cancelled under EEHP is proposed to be recommitted under this second phase of the
+
+ MPA.10 The BESS, being the first of its kind in Kenya, is planned for support under the project as a pilot, which will have
+
+ a demonstration effect for leveraging private participation to meet the future needs of BESS. Enabling legal and
+
+ regulatory framework for private participation in BESS will be developed with technical assistance support under the
+
+ project.
+
+
+
+ Role of Development Partners
+
+ 29.     Kenya has an active donor community with multilateral and bilateral financiers. The development partners in
+
+ energy meet periodically to coordinate their various activities. The GoK’s flagship last mile electrification program has
+
+ attracted donor resources to the tune of US$778 million largely from the World Bank, AfDB, AFD, European Union
+
+ (EU), and EIB.11 On transmission, out of the total investment needs of US$4.8 billion (by 2042), the GoK has secured
+
+ financing of US$987 million12 from various development partners including the China Exim Bank, Indian Exim Bank,
+
+ KBC Belgium, Spanish Bank, Japan International Cooperation Agency (JICA), AFD and AfDB. The World Bank co-
+
+ financed the EEHP with AfDB and AFD, with AfDB currently financing 400kV Mariakani substation that will complement
+
+ the investments being financed under the project. KETRACO’s transmission master plan includes nine transmission
+
+ lines with an approximate cost of US$912 million for development through PPP arrangements. Africa5013 is under
+
+ discussions with KETRACO to develop two transmission lines estimated at US$252 million on PPP basis, while IFC has
+
+ been appointed as a transaction advisor for two transmission lines estimated at US$173 million. The remaining five
+
+ projects will be under a Phase 2 Program and are likely to benefit from the on-going World Bank supported transaction
+
+ advisory services under the Infrastructure Finance and Public Private Partnership Project Funds (P121019). If needed,
+
+ this second phase of the MPA will provide capacity building support to KETRACO in PPPs in coordination with IFC and
+
+ Africa50.
+
+
+
+ E. Lessons Learned and Progress on Learning Agenda
+
+
+
+ 30.      The MPA framework envisaged the second phase to be processed soon after approval of the first phase and
+
+ therefore no specific learning from the first phase was envisaged to inform this second phase. First phase of the
+
+ MPA is designed as PforR support focusing on achieving financial sustainability of KPLC and increasing access to
+
+ electricity. The specific investment needs in STATCOMs, substation, and BESS required the Investment Project
+
+ Financing (IPF) instrument and therefore this second phase of the MPA was planned soon after phase one was
+
+ processed as per the MPA framework. The MPA allows for flexibility and space for innovation with mid-course
+
+ adjustments based on lessons learned.
+
+
+
+10 In line with the framework for allocation of resources from IDA Regional Program to a single country, consent from the World Bank Board of
+
+Executive Directors was obtained on November 29, 2023 for exceptional support from the IDA Regional Window for the project.
+
+11 However, the Kenya National Electrification Strategy has estimated about US$2.6 billion of additional investment needs to reach universal
+
+
+
+access to electricity.
+
+12 Funding of a further US$890 million is under discussion with various development partners.
+
+13 As part of the 2012 Declaration on the Programme for Infrastructure Development in Africa, Africa50 was established by African governments
+
+
+
+and the African Development Bank to help bridge Africa’s infrastructure funding gap by facilitating project development, mobilizing public and
+
+private sector finance, and investing in infrastructure on the continent.
+
+
+
+
+
+
+
+
+
+                                                                                                                                Page 19 of 48
+
+       The World Bank
+
+       Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project (P180465)
+
+
+
+
+
+
+
+31.      The environmental and social (E&S) design of the second phase of the MPA has benefitted from lessons
+
+learnt from E&S management during implementation by KETRACO and KenGen of previous World Bank-financed
+
+projects - Kenya Electricity Expansion Project (KEEP, P103037), Kenya Electricity Modernization Project (KEMP,
+
+P120014), and EEHP (P126579). Significant challenges were experienced in these projects in E&S management
+
+especially in resettlement of the affected people, acquiring land for substations and easements for transmission
+
+corridor that caused delays in implementation. Given these lessons, KETRACO has restructured and strengthened its
+
+E&S function to better perform its role. The lessons learnt will inform KenGen’s structure and resources needed in the
+
+project implementation unit. The environmental and social impact assessment (ESIA) for Kimuka substation was
+
+prepared in 2021 with financing under EEHP and land for the substation already purchased from the market on a
+
+willing buyer-willing seller basis.
+
+
+
+III.     IMPLEMENTATION ARRANGEMENTS
+
+
+
+
+
+ A. Institutional and Implementation Arrangements
+
+
+
+32.      The project will be implemented by three implementing agencies - MoEP, KETRACO and KenGen. KETRACO
+
+will implement Component A (installation of system stabilization equipment (STATCOMs), Component B (construction
+
+of 400kV Kimuka substation) and subcomponent D4 (technical assistance to KETRACO). KenGen will implement
+
+Component C (battery energy storage systems) and subcomponent D5 (technical assistance to KenGen). MoEP will
+
+implement subcomponents D1 (solar auctions preparatory studies), D2 (transaction advisory for solar auctions) and
+
+D3 (sector technical assistance, capacity building, and project management support).
+
+
+
+33.      KETRACO, KenGen, and MoEP have experience in implementing World Bank-financed and other donor-funded
+
+projects. Recent World Bank-financed projects include Kenya Electricity Expansion Project, EEHP, KEMP, and Kenya
+
+Offgrid Solar Access Project (KOSAP, P160009). The capacity of the agencies in undertaking technical studies, managing
+
+procurement contracts and E&S standards need strengthening. The agencies have been relying on qualified
+
+international consulting firms to provide the needed services and expertise. Consultants supported KETRACO to
+
+prepare technical studies, designs and bidding documents for the STATCOM and Kimuka substations. These
+
+consultants will support KETRACO in bid invitation and evaluation and supervision of construction activities.
+
+Consultants will be procured under the project for detailed feasibility study of the BESS (building on the recently
+
+concluded technical assessment) and to support KenGen in the procurement process and implementation of BESS.
+
+The STATCOMs and Kimuka substation will be installed on land that is already owned by KETRACO and KPLC. Three
+
+parcels of land owned by KenGen/ KETRACO/KPLC have been assessed and recommended for location of BESS.
+
+Therefore, implementation delays experienced in previous projects associated with challenges in land and right of way
+
+acquisition are not expected in this project.
+
+
+
+34.     Both KETRACO and KenGen will establish respective project implementation units (PIUs) dedicated for the
+
+implementation of the second phase of the MPA. The PIUs will be led by senior staff with adequate experience with
+
+reporting arrangements that ensure that senior management has visibility over the project. The PIUs will be resourced
+
+with adequate staff having skills in engineering, procurement, project management, accounting, surveys, legal, and
+
+environmental and social risks management. KETRACO PIU will be led by a project manager reporting to the Senior
+
+Manager (Project Management and Construction) who reports to the General Manager (Design and Construction),
+
+who in turn reports to the Managing Director. There will be two deputy program managers, each for the STATCOMs
+
+
+
+
+
+
+
+
+
+                                                                                                          Page 20 of 48
+
+      The World Bank
+
+      Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project (P180465)
+
+
+
+
+
+
+
+and Kimuka substation activities. Other key staff will include two electrical engineers, two civil engineers, a
+
+procurement expert, a land economist, an accountant, a health and safety expert, an environmental risks
+
+management expert, and a social risks management expert. The KenGen PIU will be led by a Design and Construction
+
+Manager reporting to General Manager, Business Development and Strategy. Other key staff of KenGen PIU will
+
+include a deputy project manager, two engineers, an accountant, a procurement specialist, a health and safety expert,
+
+environmental risks management expert, a social risks management/ community relations officer. Project oversight
+
+will be exercised by a steering committee in both agencies, comprising of the executive management. MoEP is
+
+expected to appoint a PIU to implement the components under its responsibility. The Ministry PIU will also be
+
+responsible for overall coordination and oversight, including providing direct support to the agencies on matters that
+
+need support of the Ministry of Energy and Petroleum such as processing of payments applications, ensuring adequate
+
+annual budgetary allocations to the Project Implementing Entities, consolidating progress reports from the Project
+
+Implementing Entities and submitting the reports to the World Bank.
+
+
+
+B. Results Monitoring and Evaluation Arrangements
+
+
+
+35.     Overall project monitoring and evaluation will be carried out by MoEP. KETRACO and KenGen will monitor
+
+and evaluate their respective components and submit quarterly reports to MoEP. The Project Coordinator in MoEP
+
+will consolidate the quarterly progress reports of KETRACO and KenGen and submit to the World Bank. MoEP will
+
+designate a monitoring and evaluation (M&E) staff for the project. KETRACO and KenGen will designate dedicated
+
+M&E Officers to the PIUs to be responsible for monitoring, evaluating and preparing monthly progress reports for
+
+discussion by their senior management and, on a periodic basis, by the respective Board of the agencies.
+
+
+
+C. Sustainability
+
+
+
+36.     The project is aligned with the GoK’s goal to achieve 100 percent clean energy by 2030. The project is also
+
+aligned with the country’s LCPDP and GoK plan to lower electricity prices and improve supply quality to industries to
+
+enhance the country’s energy security. Currently, the 200MW imports from Ethiopia, at a price comparable to
+
+indigenous geothermal, have proven to be a critical element in lowering the cost of supply. Under the signed PPA
+
+between Kenya and Ethiopia, Kenya is committed to increasing electricity offtake from the current 200MW to 400MW
+
+by end of 2025. The infrastructure being supported under the Project will strengthen the capacity and resilience of
+
+the transmission grid to increase the offtake of electricity imports from Ethiopia, facilitate the integration of more
+
+renewable energy, and improve supply quality for industries at the coastal region. The project is therefore a priority
+
+for the GoK.
+
+
+
+37.      Several reform measures have been implemented recently and are planned under the first phase of the MPA
+
+to improve the financial sustainability of the KPLC, that is critical for achievement of GoK’s clean energy and access
+
+goals as well as for facilitating regional energy trade. The reforms have been implemented or committed as part of
+
+the first phase of the MPA and a multi-sectoral series of World Bank-financed development policy operations. A
+
+financially sustainable and operationally efficient KPLC will ensure that KPLC, as the single off-taker, is able to make
+
+timely payments for electricity imports under the PPA and wheeling charges to KETRACO to enable sound maintenance
+
+of the interconnector and facilities constructed under the project.
+
+
+
+38.     The project design incorporates technical assistance to KETRACO and KenGen to ensure proper installation
+
+
+
+
+
+
+
+
+
+                                                                                                            Page 21 of 48
+
+        The World Bank
+
+        Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project (P180465)
+
+
+
+
+
+
+
+and adequate O&M arrangements for STATCOMs and BESS. This support is expected not only to ensure project
+
+sustainability but also to enhance the sector’s capacity to attract private investment in BESS projects.
+
+
+
+IV. PROJECT APPRAISAL SUMMARY
+
+      A. Technical, Economic and Financial Analysis
+
+
+
+39.     The activities to be supported under the Project have been informed by system studies carried under the
+
+World Bank-financed EEHP (P126579). The studies, which included a power system analysis of the transmission
+
+network (2021 to 2040), investigated the reactive power constraints on the Kenyan system and identified technical
+
+solutions in the form of reactive power and voltage support devices to resolve the voltage and power quality
+
+constraints and improve flexibility in voltage control to allow for increased import through the Ethiopia-Kenya
+
+interconnector. The technical solution has taken into consideration the need to avoid a recurrence of voltage
+
+regulation challenges in future as the system grows with an increasing share of VRE. The engineering designs and
+
+bidding document for the technical solution for both the STATCOMS and the Kimuka substation have also been
+
+supported under EEHP. The BESS component will be informed by a detailed feasibility study to be supported under
+
+the project building on a technical assessment recently concluded with World Bank support.
+
+
+
+Economic and Financial Analysis
+
+
+
+40.      A traditional cost-benefit analysis has been carried out to assess the economic viability of the project. The
+
+economic analysis has been conducted for each of the project components where benefits associated with the
+
+component are considered as well as the costs. The analysis also takes into account GHG emission savings. The
+
+project’s Economic Internal Rate of Return is estimated at 63 percent, with a Net Present Value of US$950 million. The
+
+measured gains from Component A (STATCOMS) include displacement of thermal use in Nairobi and Mombasa and
+
+baseload capacity requirements in the system met through import instead of new power plants. Component B (Kimuka
+
+Substation) analysis focuses on the Kimuka 400kV substation to be implemented by KETRACO. Component C (BESS)
+
+economic benefit is the saving of geothermal energy that would have otherwise been wasted. The BESS analysis is for
+
+a period of 12 years, which is the estimated economic life of the BESS. In terms of the costs, the capital expenditure
+
+for each component is taken as the allocation for each component over 2 years. O&M cost is assumed to be 2.5 percent
+
+of the total capital expenditure for Components A and B. Similarly, BESS operation and maintenance (O&M) costs and
+
+decommissioning costs have been derived from the BESS technical assessment.
+
+
+
+41.     Since the project is being implemented mainly by KETRACO, a public sector entity, which is dependent on
+
+government budget transfers for its capital expenditure and operating costs, financial analysis for the first two
+
+components, STATCOMs and Kimuka Substation, has not been conducted. The BESS component is estimated to have
+
+a financial return of 10.5 percent.
+
+
+
+B. Fiduciary
+
+
+
+(i) Financial Management
+
+
+
+42.   Financial Management. The World Bank conducted a financial management (FM) assessment of the three
+
+implementing agencies - MoEP, KETRACO and KenGen - in accordance with the World Bank Directive (Investment
+
+
+
+
+
+
+
+                                                                                                          Page 22 of 48
+
+      The World Bank
+
+      Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project (P180465)
+
+
+
+
+
+
+
+Project Financing and Financial Management Manual for World Bank Investment Project Financing Operations issued
+
+September 7, 2021). The assessment covered the six FM elements of budgeting, funds flows, accounting, internal
+
+controls, financial reporting, and audit. The objective of the FM assessment was to determine whether: a) funds
+
+channeled to the project will be used for the intended purposes in an efficient and economical manner; b) the project’s
+
+financial reports will be prepared in accurate, reliable and in a timely manner; and c) project’s assets and resources
+
+will be safeguarded.
+
+
+
+43.     The FM assessment revealed that MoEP, KETRACO and KenGen have adequate FM capacity to manage the
+
+project. The three agencies have experience in managing World Bank-financed projects, including KEMP, KOSAP and
+
+EEHP. They have adequate financial reporting capacity and have been able to prepare and submit interim financial
+
+reports (IFRs) and annual audit reports of acceptable quality. The agencies will leverage on the FM arrangements and
+
+capacity developed in the on-going World Bank-funded projects.
+
+
+
+44.      The following risks have been identified: (i) budget-related challenges including inadequate budget allocation
+
+and delays in release of exchequer funds; and (ii) in-country disbursement delays in transferring funds from the
+
+designated accounts to the project accounts. The proposed mitigating measures are: (i) implementing agencies to
+
+work closely with the Ministry’s Chief Financial Officer, entity Principal Accounts Controllers and head of internal Audit
+
+Department (IAD) in preparation of the annual work plan and budget and in the disbursement and accountability of
+
+funds; (ii) implementing agencies to develop FM procedures manual which will provide a fiduciary framework for the
+
+project activities; and (iii) each agency to designate qualified accountants to the project.
+
+
+
+45.     The results of the assessment indicate that the overall FM arrangements are adequate and satisfy the World
+
+Bank’s minimum requirements, and are therefore adequate to provide, with reasonable assurance, accurate and
+
+timely information on the status of the project as required by the World Bank. The FM residual risk for the project is
+
+therefore Moderate.
+
+
+
+(ii) Procurement
+
+
+
+46.      Procurement Regulations. Procurement for the project will be carried out in accordance with the “The World
+
+Bank Procurement Regulations for IPF Borrowers, July 2016, and revised in September 2023 (5th Edition)”, hereafter
+
+referred to as ‘Procurement Regulations’. The project will also be subject to the World Bank’s Anti-Corruption
+
+Guidelines, dated July 1, 2016. As required by the Procurement Regulations, a Project Procurement Strategy for
+
+Development (PPSD) was developed to formulate the best procuring approach/solution that also formed the basis for
+
+the Procurement Plan setting out the selection methods to be followed by the borrower during project
+
+implementation in the procurement of goods, works, and non-consulting and consulting services financed under the
+
+Project.
+
+
+
+47.     Procurement Risk Assessment. KETRACO, KenGen and MoEP have extensive experience in implementing
+
+World Bank-financed projects, including four projects in the recent past. The capacity of the agencies in undertaking
+
+complex technical studies, managing complex and high value contracts and safeguards is however limited. To bridge
+
+this gap, the agencies have been relying on qualified international consulting firms to provide the needed technical
+
+services and related expertise. Consultants have been procured to support KETRACO in the preparation of technical
+
+studies, designs and bidding documents for activities under Components A and B, i.e., the STATCOM and Kimuka
+
+substation and will continue to support KETRACO during bidding and bid evaluation processes and further provide
+
+
+
+
+
+
+
+                                                                                                              Page 23 of 48
+
+          The World Bank
+
+          Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project (P180465)
+
+
+
+
+
+
+
+    post contract award supervision of the contracts. A PPSD for the STATCOM and Kimuka substation components was
+
+    developed based on market sounding, research, and risk analysis and a fit-for-purpose procurement approach has
+
+    been identified. The PPSD will be updated for the BESS component after detailed studies for the BESS is completed.
+
+
+
+.   C. Legal Operational Policies
+
+     @#&OPS~Doctype~OPS^dynamics@padlegalpolicy#doctemplate
+
+     Legal Operational Policies                                                             Triggered?
+
+     Projects on International Waterways OP 7.50                                            No
+
+     Projects in Disputed Area OP 7.60                                                      No
+
+
+
+
+
+
+
+    D. Environmental and Social
+
+
+
+    48.      The STATCOM sites at Suswa and Rabai are brownfields and minimal E&S impacts are expected. The Kimuka
+
+    substation site is a greenfield, but land for the substation is already acquired and no impacts related to involuntary
+
+    resettlement is expected. Kimuka and Suswa sites are in Kajiado and Narok counties which are home to the Maasai
+
+    pastoralists who are considered Vulnerable and Marginalized Groups (VMGs) under the Environment and Social
+
+    Framework (ESF), but the project will have no impacts on their land or livelihoods. Four Locations for the BESS facility
+
+    have been prioritized [Embakasi (Nairobi), Kipevu (Coast), Muhoroni (Western) and Olkaria geothermal complex
+
+    (KenGen)] on land owned by KenGen, KETRACO, and KPLC. If additional land is required for the BESS, they will be
+
+    located along the existing grid infrastructure and will be purchased on a willing buyer-willing seller basis. Anticipated
+
+    social risks are minimal and can easily be mitigated. They include: (i) unknown locations of prefeasibility studies for
+
+    solar. These may be in areas with overwhelming/minority VMGs or in conflict-prone areas; (ii) exclusion of VMGs from
+
+    un/semiskilled employment opportunities; (iii) Sexual Exploitation and Abuse-Sexual Harassment (SEA-SH) due to in-
+
+    flow of local/international migrant workers into the project areas; (iv) exclusion of VMGs and other vulnerable
+
+    individuals from the prefeasibility study consultations; and (v) potential child labor, e.g. in relation to food vending at
+
+    construction sites. On the environment, anticipated risks include health and safety risks posed by construction activities
+
+    to the workers and community and risk of electrocution during the operation and maintenance phase of the project. It
+
+    is anticipated that the outputs of the pre-feasibility studies for solar and feasibility studies for BESS and the
+
+    accompanying preliminary environmental and social screenings will make recommendations for detailed
+
+    environmental and social assessments, including the preparation of Environment and Social Impact Assessments
+
+    (ESIAs) and Resettlement Action Plans (RAPs) (as necessary) for sites proposed by the studies as suitable for future
+
+    construction of solar power generation projects and the BESS.
+
+
+
+    49.     Mitigation measures for the E&S risks have been detailed in the revised Environmental and Social Commitment
+
+    Plan (ESCP) agreed with the client on December 15, 2023. The ESCP outlines measures for mitigating the social,
+
+    environmental, health and safety risks identified above. Additional mitigation instruments have been prepared,
+
+    including Stakeholder Engagement Plan (SEP), Labor Management Procedures (LMP) with clear statements/sections
+
+    on child labor, employment of locals, codes of conduct and Grievance Redress Mechanism (GRM) for project workers,
+
+    ESMPs, C-ESMPs etc. In addition, since the substation at Kimuka and the STATCOM at Suswa will be implemented in
+
+    VMG areas, the LMP clearly requires KETRACO and KenGen and their contractors to consider VMGs for unskilled and
+
+    semiskilled employment opportunities. If necessary, an SEA-SH Management Plan will also be prepared. A Security Risk
+
+
+
+
+
+
+
+                                                                                                                  Page 24 of 48
+
+       The World Bank
+
+       Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project (P180465)
+
+
+
+
+
+
+
+Management Plan may be considered during implementation, if it is determined that the prefeasibility study activities
+
+will be implemented in security-prone areas. The revised ESCP was disclosed on December 19, 2023, and the LMP and
+
+SEP were disclosed on November 22, 2023, and November 23, 2023, respectively by KETRACO and KenGen. The
+
+documents were also disclosed on the World Bank website on November 22, 2023.
+
+
+
+V.      GRIEVANCE REDRESS SERVICE
+
+
+
+50.     Grievance Redress. Communities and individuals who believe that they are adversely affected by a project
+
+supported by the World Bank may submit complaints to existing project-level grievance mechanisms or the Bank’s
+
+Grievance Redress Service (GRS). The GRS ensures that complaints received are promptly reviewed in order to address
+
+project-related concerns. Project affected communities and individuals may submit their complaint to the Bank’s
+
+independent Accountability Mechanism (AM). The AM houses the Inspection Panel, which determines whether harm
+
+occurred, or could occur, as a result of Bank non-compliance with its policies and procedures, and the Dispute
+
+Resolution Service, which provides communities and borrowers with the opportunity to address complaints through
+
+dispute resolution. Complaints may be submitted to the AM at any time after concerns have been brought directly to
+
+the attention of Bank Management and after Management has been given an opportunity to respond. For information
+
+on how to submit complaints to the Bank’s Grievance Redress Service (GRS), please visit
+
+http://www.worldbank.org/GRS. For information on how to submit complaints to the Bank’s Accountability
+
+Mechanism, please visit https://accountability.worldbank.org.
+
+
+
+Closing Gender Gap in Kenya Energy Sector
+
+
+
+51.     Kenya has an enabling legal framework including the Constitution of Kenya and Gender in Energy Policy 2019
+
+that support gender equality and women empowerment. KenGen has implemented several initiatives to address
+
+gender gaps. These include: (i) adoption of an institutional gender equality policy; (ii) implementation of internship
+
+program targeting females in Science, Technology, Engineering, and Mathematics (STEM) fields, and a mentorship
+
+program targeting young students to aspire to join STEM fields; (iii) the Pink Energy initiative launched in November
+
+2016 to support personnel development and empowerment of female staff, improving their working environment, and
+
+enhancing gender awareness and equity; (iv) establishment of the Blue Energy, aimed at addressing the welfare of
+
+male employees; (v) establishment of Y-Gen, focused on the needs of the younger employees; and (v) establishment
+
+of a gender mainstreaming committee to address existing gender gaps. KETRACO adopted an institutional gender
+
+equality policy in June 2022 and formed a gender mainstreaming committee that coordinates institutional gender
+
+equality activities supporting gender sensitization trainings and awareness building campaigns. A gender-focal person
+
+is responsible for coordination and follow-up.
+
+
+
+52.     Despite these efforts, gender gap in employment both at KenGen and KETRACO falls below the statutory
+
+requirement of a two-thirds participation of each gender. Importantly, gender equality activities have not been
+
+strategically anchored with clear goals, targets, timelines, resources and performance measurement tools.
+
+
+
+53.     MoEP, KenGen, KETRACO are expected to have gender equality work programs supported under the project.
+
+Some of the main activities will include development of sectoral five-year gender action plan (GAP) with specific
+
+strategic activities. The specific gender activities to be undertaken by the three implementing agencies are detailed in
+
+Annex 2. Through the GCF grant funding, an impact assessment will be conducted on: (a) the lack of or unreliable
+
+
+
+
+
+
+
+
+
+                                                                                                            Page 25 of 48
+
+       The World Bank
+
+       Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project (P180465)
+
+
+
+
+
+
+
+electricity services on women’s economic and social well-being in Kenya; and (b) challenges, lessons learned and good
+
+practice of gender equality interventions (programs) in the energy sector.
+
+
+
+54.     Gender monitoring and evaluation: Two gender-related intermediate result indicators (including sub-
+
+indicators under each) are included in the result framework to track progress toward closing the gender gap in Kenya's
+
+energy sector. The indicators are: (a) Increased share of overall female employment in KenGen (Baseline 27 percent
+
+and Target 30 percent); and (b) Increased share of overall women employment in KETRACO (Baseline: 28 percent
+
+Target: 30 percent).
+
+
+
+55.      Paris Alignment. This project is aligned with the goals of Paris Agreement (PA), for both mitigation and
+
+adaptation. Assessment and reduction of mitigation risks: Component A, installation of STATCOMs, which allows for
+
+zero-carbon hydropower to be imported to Kenya. This activity is aligned to Category Transportation of Electricity (as
+
+transmission or distribution project dedicated to the evacuation of only very-low-carbon electricity shall be fully
+
+eligible) of the revised Joint MDB List of Eligible Mitigation Activities. Similarly, Component B, design, supply,
+
+construction of a 400kV substation at Kimuka will contribute to increased transmission of more renewable energy
+
+(geothermal, wind and imports) from supply sources at Olkaria and Suswa to major load centers of Nairobi and the
+
+Coast regions and is, therefore, aligned to Category Transportation of Electricity of the revised Joint MDB List of Eligible
+
+Mitigation Activities. Component C, Battery Storage, is also fully from the list of universally aligned list of activities, also
+
+the energy being stored is very low in carbon intensity (geothermal and solar) under the revised Joint MDB List of
+
+Eligible Mitigation Activities. Solar auctions, subcomponent D1, will also support for climate change mitigation under
+
+the revised Joint MDB List of Eligible Mitigation Activities.
+
+
+
+56.      Assessment and reduction of adaptation risks: According to Kenya’s Adaptation Plan for sectoral adaptation
+
+reliable and efficient energy supply is fundamental for development of all sectors of the economy. In the past, there
+
+was heavy reliance on hydro power plants for energy production, which has in recent years demonstrated vulnerability
+
+to extreme events such as droughts and floods, which are projected to become more frequent with climate change.
+
+Rigorous incorporation of climate change considerations has been incorporated in component A and Component B to
+
+build a resilient energy system that reinforces Kenya’s development. Climate resilient least cost plans will be supported
+
+under the technical assistance component.
+
+
+
+ VI.      KEY RISKS
+
+
+
+57.     Macroeconomic risk on the project is substantial given the budget authorization challenges. Although the
+
+project does not have significant counterpart funding planned, inadequate budget authorization from the National
+
+Treasury may delay releasing the project funds. This is an issue for all World Bank-financed projects in Kenya and close
+
+follow-up will be maintained with the National Treasury at the portfolio level to ensure adequate and timely budget
+
+authorization to the implementing agencies.
+
+
+
+58.      Fiduciary risk rating is substantial. The implementing entities (KETRACO, KenGen and MOEP) have adequate
+
+FM capacity and experience in implementing World Bank-financed projects. The financial management arrangements
+
+at the entities are generally satisfactory and acceptable for implementation of World Bank-supported operations. The
+
+entities have qualified and experienced staff with robust and reliable accounting and financial management systems in
+
+place. Nevertheless, country level fiduciary risks have been identified in the budget, funds flow and internal control
+
+systems. These include delays and inadequate project budget allocation resulting in insufficient funds to finance project
+
+
+
+
+
+
+
+                                                                                                                   Page 26 of 48
+
+          The World Bank
+
+          Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project (P180465)
+
+
+
+
+
+
+
+    activities, and weak capacity of internal audit function. These weaknesses are being addressed as part of the overall
+
+    policy reform dialogue between the World Bank and the National Treasury. On procurement, although the
+
+    implementing agencies have experience under World Bank financed operations, their capacity to undertake complex
+
+    and high value contracts is limited. There is an ongoing investigation and lessons have been incorporated in the
+
+    procurement arrangement designs. Other risks identified includes inadequate publication of bidding opportunities and
+
+    contract awards, low absorption of budgets, and weak complaint handling and redress mechanisms. To mitigate these
+
+    risks, the agencies will be required to deploy qualified and experienced procurement experts to support the PIUs and
+
+    continue with the use of qualified consulting firms to support design development and works supervision. Capacity
+
+    building on World Bank procurement procedures, contract management, institutional strengthening and complaints
+
+    handling systems will also be undertaken.
+
+
+
+    59.      Institutional Capacity for Implementation and Sustainability risk is substantial: KETRACO will be the
+
+    implementing entity for major part of the Project scope - STATCOMs and Kimuka substation, while KenGen will
+
+    implement the BESS. KETRACO and KenGen do not have sufficient institutional capacity to implement the activities.
+
+    However, KETRACO has engaged consultants who have prepared technical studies and designs and supported
+
+    preparation of bidding documents for the STATCOMs and Kimuka substation. The consultants will also support
+
+    KETRACO during the procurement process and works implementation. A detailed study for BESS will be supported
+
+    under the project. KenGen will procure a consultant to support the preparation of designs, bidding documents and
+
+    supervision of works during implementation. As the STATCOM and BESS are new technologies for the country,
+
+    inadequate technical know-how creates the risk of sustainability of these investments. Appropriate O&M arrangements
+
+    will be supported under the project with knowledge transfer requirement within the O&M period to build the capacity
+
+.   of KETRACO and KenGen for proper implementation of these technologies to ensure sustainability.
+
+
+
+
+
+
+
+
+
+                                                                                                             Page 27 of 48
+
+    The World Bank
+
+    Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project (P180465)
+
+
+
+
+
+
+
+                                                           VII.      RESULTS FRAMEWORK AND MONITORING
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padannexresultframework#doctemplate
+
+PDO Indicators by PDO Outcomes
+
+
+
+   Baseline                                                                                 Closing Period
+
+                                                  Increased import of electricity by Kenya through the Kenya-Ethiopia interconnector
+
+   Reduced renewable energy curtailment (Gigawatt-hour (GWh))
+
+   Jul/2023                                                                                 Jun/2029
+
+   0                                                                                        32
+
+   Increased capacity of the Kenya System to transfer power from the Ethiopia-Kenya Interconnector (Text)
+
+   Jul/2023                                                                                 Jun/2029
+
+   200 MW                                                                                   Maximum Recorded Peak Demand
+
+
+
+
+
+Intermediate Indicators by Components
+
+
+
+   Baseline                                                                              Closing Period
+
+                                                           Component A: Installation of System Stabilization Equipment
+
+   Number of STATCOMs installed at Suswa and Rabai (Number)
+
+   Jul/2023                                                                              Jun/2029
+
+   0                                                                                     2
+
+   MVAr of Reactive power added into the System - Rabai (Capacities) (Number)
+
+   Jul/2023                                                                              Jun/2029
+
+   0                                                                                     100
+
+   MVAr of Reactive power added into the System - Rabai (Dynamic) (Number)
+
+   Jul/2023                                                                              Jun/2029
+
+   0                                                                                     120
+
+   MVAr of Reactive power added into the System - Suswa(Dynamic) (Number)
+
+   Jul/2023                                                                              Jun/2029
+
+   0                                                                                     120
+
+
+
+
+
+
+
+
+
+                                                                                                                                       Page 28 of 48
+
+ The World Bank
+
+ Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project (P180465)
+
+
+
+
+
+
+
+MVAr of Reactive power added into the System - Suswa (Reactive) (Number)
+
+Jul/2023                                                                                  Jun/2029
+
+0                                                                                         300
+
+                                                             Component B: Construction of a 400kV substation at Kimuka
+
+400 KV Substation Constructed at Kimuka (Number)
+
+Jul/2023                                                                                  Jun/2029
+
+0                                                                                         1
+
+                                                                   Component C: Battery Energy Storage Systems
+
+BESS regulatory frameworks prepared and adopted (Yes/No)
+
+Jul/2023                                                                                  Jun/2026
+
+No                                                                                        Yes
+
+Installed Capacity of Battery Energy Storage System (Megawatt hour(MWh))
+
+Jul/2023                                                                                  Jun/2029
+
+0                                                                                         150
+
+Detailed feasibility study for BESS (Yes/No)
+
+Jul/2023                                                                                  Mar/2025
+
+No                                                                                        Yes
+
+Prefeasibility studies for utility scale solar completed (Number)
+
+Jul/2023                                                                                  Jun/2026
+
+0                                                                                         2
+
+                                                     Component D: Technical Assistance, Capacity Building and Project Management
+
+Increased share of overall female staff in employment in KenGen (Percentage)
+
+Jul/2023                                                                                  Jun/2029
+
+27                                                                                        30
+
+  ➢Increased share of female in managerial positions in KenGen (Percentage)
+
+0                                                                                         10
+
+Increased share of overall female employment in KETRACO (Percentage)
+
+Jul/2023                                                                                  Jun/2029
+
+28                                                                                        30
+
+  ➢Increased share of female in managerial positions in KETRACO (Percentage)
+
+0                                                                                         10
+
+Complaints from the Grievance Redress Mechanism (GRM) addressed (Percentage)
+
+
+
+
+
+
+
+
+
+                                                                                                                                   Page 29 of 48
+
+       The World Bank
+
+       Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project (P180465)
+
+
+
+
+
+
+
+      Jun/2023                                                                                 Jun/2029
+
+      0                                                                                        100
+
+      Transaction advisors appointed to organize a competitive bidding process for privately developed solar energy (Yes/No)
+
+      Jul/2023                                                                                 Jul/2026
+
+      No                                                                                       Yes
+
+      Competitive bidding process for privately developed BESS launched (Yes/No)
+
+      Jul/2023                                                                                 Mar/2026
+
+      No                                                                                       Yes
+
+
+
+Newly installed capacity of battery storage (Megawatt
+
+
+
+
+
+
+
+
+
+                                                                                                                               Page 30 of 48
+
+The World Bank
+
+Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project (P180465)
+
+
+
+
+
+
+
+                                     Monitoring & Evaluation Plan: PDO Indicators
+
+    To increase the capacity for Energy trade and renewable energy integration of the Kenya power system
+
+                              This indicator measures the enhanced capacity of the Kenya system to import
+
+                              more electrcity through the interconnector due to the investments under the
+
+                              Project. The indicator measures the average annual maximum electricity in MW
+
+                              imported by Kenya through the Kenya- Ethiopia interconnector, including system
+
+    Description
+
+                              losses. In the event the maximum peak demand in a month is less than 400MW
+
+                              due to limitations in the Ethiopian system including inadequate generation
+
+                              capacity (notified to KPLC under the PPA operations), the maximum peak demand
+
+                              recorded in the preeding period shall be used.
+
+                              Annually. The maximum peak capacity will be recorded monthly and the average
+
+    Frequency
+
+                              used to report in the quarterly progress reports.
+
+    Data source               KETRACO
+
+                              KETRACO to record the maximum peak capacity (MW) supplied monthly from its
+
+    Methodology for Data
+
+                              SCADA at Suswa or from the metering equipment at Suswa. KETRACO to compute
+
+    Collection
+
+                              the average maximum peak each quarter for quartely reports.
+
+    Responsibility for Data
+
+                               KETRACO
+
+    Collection
+
+
+
+    Reduced curtailment of renewable energy (Gigawatt-hour (GWh))
+
+                            This indicator measures reduced annual renewable energy curtailment in GWh.
+
+    Description             This is to measure renewable energy stored in BESS and therefore shifted from Off-
+
+                            Peak period and discharged during the Peak period.
+
+    Frequency               Quarterly
+
+    Data source             KenGen/KPLC control centers
+
+    Methodology for Data
+
+                            KenGen and KPLC meter readings on energy stored to the BESS
+
+    Collection
+
+    Responsibility for Data
+
+                            KenGen
+
+    Collection
+
+
+
+                      Monitoring & Evaluation Plan: Intermediate Results Indicators by Results Areas
+
+    Component A: Installation of System Stabilization Equipment
+
+    Number of STATCOMs installed at Suswa and Rabai
+
+                            This indicator measures the number of Static Synchronous Compensators
+
+    Description
+
+                            (STATCOM) installed in Suswa and Rabai
+
+    Frequency               Once (When the STATCOMs are installed).
+
+    Data source             KETRACO
+
+    Methodology for Data
+
+                            KETRACO’s implementation progress reports submitted to the Bank
+
+    Collection
+
+    Responsibility for Data KETRACO
+
+
+
+
+
+
+
+                                                                                                       Page 31 of 43
+
+The World Bank
+
+Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project (P180465)
+
+
+
+
+
+
+
+    Collection
+
+    Component A: Installation of System Stabilization Equipment
+
+    MVAr of Reactive power added into the System - Rabai (Capacities)
+
+                            This indicator measures the amount of capacities reactive power that is added into
+
+    Description
+
+                            the system due to the installation of STATCOM at Rabai
+
+    Frequency                Annually but readings to be taken quarterly and reported in quarterly reports
+
+    Data source             KETRACO
+
+    Methodology for Data The capacities reactive power injected to the electricity system as recorded by the
+
+    Collection              STATCOM recorder
+
+    Responsibility for Data
+
+                            KETRACO
+
+    Collection
+
+    Component A: Installation of System Stabilization Equipment
+
+    MVAr of Reactive power added into the System - Rabai (Dynamic)
+
+                            This indicator measures the amount of dynamic reactive power that is added into
+
+    Description
+
+                            the system due to the installation of STATCOM at Rabai
+
+    Frequency                Quarterly but readings to be taken quarterly and reported in quarterly reports
+
+    Data source             KETRACO
+
+    Methodology for Data The dynamic reactive power injected to the electricity system as recorded by the
+
+    Collection              STATCOM recorder
+
+    Responsibility for Data
+
+                            KETRACO
+
+    Collection
+
+    Component A: Installation of System Stabilization Equipment
+
+    MVAr of Reactive power added into the System - Suswa (Capacities)
+
+                            This indicator measures the amount of capacities reactive power that is added into
+
+    Description
+
+                            the system due to the installation of STATCOM at Suswa
+
+    Frequency                Quarterly but readings to be taken quarterly and reported in quarterly reports
+
+    Data source             KETRACO
+
+    Methodology for Data The capacities reactive power injected to the electricity system as recorded by the
+
+    Collection              STATCOM recorder
+
+    Responsibility for Data
+
+                            KETRACO
+
+    Collection
+
+    Component A: Installation of System Stabilization Equipment
+
+    MVAr of Reactive power added into the System - Rabai (Dynamic)
+
+                            This indicator measures the amount of dynamic reactive power that is added into
+
+    Description
+
+                            the system due to the installation of STATCOM at Suswa
+
+    Frequency                Quarterly
+
+    Data source             KETRACO
+
+    Methodology for Data The dynamic reactive power injected to the electricity system as recorded by the
+
+    Collection              STATCOM recorder
+
+    Responsibility for Data
+
+                            KETRACO
+
+    Collection
+
+
+
+
+
+
+
+
+
+                                                                                                     Page 32 of 43
+
+The World Bank
+
+Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project (P180465)
+
+
+
+
+
+
+
+    Component B: Construction of a 400kV substation at Kimuka
+
+    400 KV Substation Constructed at Kimuka
+
+    Description             This indicator tracks whether the 400KV substation has been constructed
+
+    Frequency               Quarterly
+
+    Data source             KETRACO
+
+    Methodology for Data
+
+                            KETRACO to report progress in the quarterly reports
+
+    Collection
+
+    Responsibility for Data
+
+                            KETRACO
+
+    Collection
+
+
+
+    Component C: Battery Energy Storage Systems and Solar Auction Studies
+
+    BESS regulatory frameworks prepared and adopted
+
+                               This indicator tracks whether the Regulatory frameworks for Battery Energy
+
+    Description                Storage Systems have been prepared and adopted by the Ministry of Energy and
+
+                               Petroleum
+
+    Frequency                   Annual
+
+    Data source                Ministry of Energy and Petroleum
+
+    Methodology for Data Ministry of Energy and Petroleum to report if any frameworks are prepared and
+
+    Collection                 adopted
+
+    Responsibility for Data
+
+                               Ministry of Energy and Petroleum
+
+    Collection
+
+    Component C: Battery Energy Storage Systems and Solar Auction Studies
+
+    50-100MW Capacity of Battery Energy Storage System Installed
+
+                               This indicator tracks whether the Battery energy storage system of 50-100MW has
+
+    Description
+
+                               been installed
+
+    Frequency                  Quarterly
+
+    Data source                KenGen
+
+    Methodology for Data
+
+                               KenGen to report on the installation progress in the quarterly reports
+
+    Collection
+
+    Responsibility for Data
+
+                               KenGen
+
+    Collection
+
+    Component C: Battery Energy Storage Systems and Solar Auction Studies
+
+    Detailed feasibility study for BESS
+
+    Description                This indicator measures the number BESS and Solar Auction studies completed
+
+    Frequency                   Annual
+
+    Data source                Ministry of Energy and Petroleum
+
+    Methodology for Data
+
+                               Ministry of Energy and Petroleum to report progress in the quarterly reports
+
+    Collection
+
+    Responsibility for Data
+
+                               Ministry of Energy and Petroleum
+
+    Collection
+
+    Component C: Battery Energy Storage Systems and Solar Auction Studies
+
+    Prefeasibility studies for utility-scale solar completed
+
+
+
+
+
+
+
+
+
+                                                                                                      Page 33 of 43
+
+The World Bank
+
+Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project (P180465)
+
+
+
+
+
+
+
+                              This indicator measures the number of pre-feasibility studies for utility-scale solar
+
+    Description
+
+                              projects completed
+
+    Frequency                 Annual
+
+    Data source               Ministry of Energy and Petroleum
+
+    Methodology for Data
+
+                              Ministry of Energy and Petroleum to report progress in the quarterly reports
+
+    Collection
+
+    Responsibility for Data
+
+                              Ministry of Energy and Petroleum
+
+    Collection
+
+
+
+    Component D: Sector Technical Assistance and Capacity Building
+
+    Gender KenGen: Increased share of overall female staff in employment in KenGen (Baseline 27% and Target
+
+    30%) (b) sub indicator: Increased share of female in managerial positions in KenGen (Baseline: 0 Target: 10)
+
+                              This indicator measures the number of female staff in KenGen out of the total
+
+    Description               workforce. The sub indicator measures the number of female staff in managerial
+
+                              positions in KenGen
+
+    Frequency                  Annual
+
+    Data source               KenGen
+
+    Methodology for Data
+
+                              To be reported by KenGen from data of its workforce
+
+    Collection
+
+    Responsibility for Data
+
+                              KenGen
+
+    Collection
+
+                              (a)Increased share of overall female employment in KETRACO (Baseline 28% and
+
+    Gender KETRACO:           Target 30%). (b) sub indicator: Increased share of female in managerial positions in
+
+                              KETRACO (Baseline: 0 Target: 10)
+
+                              This indicator measures the number of female staff in KETRACO out of the total
+
+    Description
+
+                              workforce.
+
+    Frequency                  Annual
+
+    Data source               KETRACO
+
+    Methodology for Data
+
+                              To be reported by KETRACO from data of its workforce
+
+    Collection
+
+    Responsibility for Data
+
+                              KETRACO
+
+    Collection
+
+    Component D: Sector Technical Assistance and Capacity Building
+
+    Complaints from the Grievance Redress Mechanism (GRM) addressed
+
+                              This indicator tracks the percentage of the complaints from the Grievance Redress
+
+    Description
+
+                              Mechanisms that are addressed
+
+    Frequency                  Annual
+
+    Data source               KETRACO and KenGen
+
+    Methodology for Data
+
+                              KETRACO and KenGen to report the results of the survey
+
+    Collection
+
+    Responsibility for Data
+
+                              KETRACO and KenGen
+
+    Collection
+
+
+
+
+
+
+
+
+
+                                                                                                          Page 34 of 43
+
+The World Bank
+
+Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project (P180465)
+
+
+
+
+
+
+
+    Component D: Sector Technical Assistance and Capacity Building
+
+    Staff trained in STATCOMs, BESS and 400kV network technologies including, operation and maintenance,
+
+    commercial aspects under the Project [2,000, out of which70% should be from KETRACO, KenGen and KPLC)
+
+                            This indicator tracks the number of staff from MOEP, KETRACO, KenGen, KPLC,
+
+                            EPRA and other sector agencies in new technologies financed under the project in
+
+    Description
+
+                            areas such as operation and maintenance, commercial aspects under the Project.
+
+                            Of the total target of 2,000, 70 % should be from KETRACO, KenGen and KPLC
+
+    Frequency                Annual
+
+                            MOEP, KETRACO, KenGen, KPLC, EPRA and other sector agencies that benefit from
+
+    Data source
+
+                            the training
+
+    Methodology for Data MOEP to keep data and collect data from the sector agencies of the staff that have
+
+    Collection              received training in the specified areas under the Project.
+
+    Responsibility for Data
+
+                            MOEP
+
+    Collection
+
+    Component D: Sector Technical Assistance and Capacity Building
+
+    New capacity enhanced in KenGen and KETRACO in BESS and STATCOMs respectively
+
+                            Technical assessment of the capacity building undertaken by the supervision in the
+
+    Description
+
+                            last year of the project.
+
+    Frequency                Annual
+
+    Data source             Supervisions consultant pre and post construction survey report
+
+    Methodology for Data
+
+                            KETRACO and KenGen consultant’s report
+
+    Collection
+
+    Responsibility for Data
+
+                            KETRACO and KenGen
+
+    Collection
+
+
+
+
+
+
+
+
+
+                                                                                                    Page 35 of 43
+
+The World Bank
+
+Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project (P180465)
+
+
+
+
+
+
+
+
+
+                 ANNEX 1: Implementation Arrangements and Project Support
+
+
+
+ A. Project Institutional and Implementation Arrangements
+
+
+
+
+
+ 1.      The project will be implemented by KETRACO (components A, B and D4), KenGen (components C and D5)
+
+ and MoEP (subcomponents D1, D2 and D3). Each of the agencies will have designated PIUs. The PIU organization
+
+ structure for KenGen and KETRACO are presented below.
+
+
+
+                                Project Implementation Unit (PIU) Structures
+
+
+
+                                          KENGEN PIU STRUCTURE
+
+
+
+
+
+
+
+
+
+                                                                                                  Page 36 of 43
+
+The World Bank
+
+Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project (P180465)
+
+
+
+
+
+
+
+                                                          KETRACO PIU STRUCTURE
+
+
+
+
+
+
+
+
+
+                                                                                       PROJECT MANAGER
+
+                                                                                       (Elec/Civil Engineer)
+
+
+
+
+
+
+
+
+
+                                                          DEPUTY PROJECT
+
+                                                            MANAGER -                                            DEPUTY PROJECT MANAGER -
+
+                                                             STATCOM                                                      KIMUKA
+
+                                                     (Electrical Engineer)                                              (Elec/Civil Engineer)
+
+
+
+
+
+
+
+
+
+                                                                     ELEC. ENGINEERS
+
+                                                                          (2No.)                                                    ELEC. ENGINEER
+
+                                                                                                                                         (2 No.)
+
+
+
+                                                                      CIVIL ENGINEER
+
+                                                                           (2 No.)                                                  CIVIL ENGINEER
+
+                                                                                                                                         (2 No.)
+
+
+
+
+
+
+
+                                                                                                                                                     MONITORING &
+
+  ENVIRONMENTALIST   ACCOUNTANT   LAWYER    LAND ECONOMIST                 SURVEYOR                 SOCIAL ECONOMIST                  PROCUREMENT                   PROJECT Officer   SAFETY & HEALTH
+
+                                                                                                                                                      EVALUATION
+
+       (1No.)          (1No.)     (1 No.)       (1 No.)                      (I No.)                           (1No.)                      (1 No.)                      (1 No.)            (INo.)
+
+                                                                                                                                                        (I No.)
+
+
+
+
+
+
+
+
+
+ B. Financial Management
+
+
+
+ 2.      Financial Management (FM) assessment. The conclusion of the assessment is that the FM arrangements
+
+ meet the World Bank’s minimum requirements under the Bank Directive: Investment Project Financing, issued
+
+ March 12, 2023, and Financial Management Manual for World Bank Investment Project Financing Operations
+
+ issued September 7, 2021. The overall FM risk rating is Moderate.
+
+
+
+ 3.     Budgeting. Adequate mitigation measures have been designed to manage identified budget risks of
+
+ inadequate budget, insufficient counterpart funds and late budget releases.
+
+
+
+ 4.     Accounting. The entities accounting arrangements are deemed to be adequate with adequate accounting
+
+ software including Integrated Financial Management Information System. Three project accountants will be
+
+ designated in each of the implementing agencies.
+
+
+
+ 5.      Internal Controls. An FM procedures manual will be developed for the project. The entity internal audit
+
+ departments will conduct annual risk-based internal audit reviews and submit copies of the internal audit reports
+
+ to the World Bank by April 30 of every financial year.
+
+
+
+ 6.     Financial reporting. Each entity shall submit quarterly IFRs within 45 days and prepare annual financial
+
+ statements and submit to Office of the Auditor General for audit by September 30th of every year.
+
+
+
+ 7.      External Audit. The external audit will be conducted by the Office of the Auditor General. Three audited
+
+ financial statements for each of the implementing agencies accompanied by management letters will be
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                            Page 37 of 43
+
+The World Bank
+
+Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project (P180465)
+
+
+
+
+
+
+
+ submitted to the World Bank by December 31 of each year.
+
+
+
+ C. Disbursement
+
+
+
+ 8.      The Project will adopt the IFR-report based method of disbursement. The National Treasury will open
+
+ three (3) segregated Designated Accounts (DA) in foreign currency as prescribed in the Disbursement and Financial
+
+ Information Letter. DA-A shall be used to receive the funds for MoEP, DA-B for KETRACO and DA-C for KENGEN.
+
+ Each of the entities will open a segregated local currency project account in financial institution(s) acceptable to
+
+ the Bank into which project funds will be deposited and through which eligible payments will be made.
+
+
+
+ D. Procurement
+
+
+
+ 9.       A PPSD will be developed for the project based on which the Procurement Plan will be prepared setting
+
+ out the selection methods to be followed by the borrower during project implementation in the procurement of
+
+ goods, works, and non-consulting and consulting services financed by the World Bank. The Procurement Plan will
+
+ be updated at least annually or as required to reflect the actual project implementation needs and improvements
+
+ in institutional capacity.
+
+
+
+ 10.     Systematic Tracking of Exchanges in Procurement (STEP). The project will use STEP, a planning and
+
+ tracking system, which will provide data on procurement activities, establish benchmarks, monitor delays, and
+
+ measure procurement performance.
+
+
+
+ 11.      Profile of Procurement Activities. The project will finance contracts for the development, installation and
+
+ commissioning of STATCOMs at Suswa and Rabai, and Kimuka substations under components A and B, Battery
+
+ energy storage facility (BESS) under component C. Technical assistance, capacity building and project
+
+ management support (subcomponent D3) will finance sector studies, capacity building, and training activities
+
+ relating to policy, institutional, regulatory arrangements, and reforms as well as gender and citizen engagement.
+
+ For institutional strengthening, procurement of goods, office furniture and equipment, non-consulting and
+
+ consultant services will be procured as and when required.
+
+
+
+ 12.      Procurement Risk Assessment. KETRACO, KenGen and MoEP have extensive experience in implementing
+
+ World Bank-financed projects, including four projects in the recent past. The capacity of the agencies in
+
+ undertaking complex technical studies, managing complex and high value contracts and safeguards is however
+
+ limited. To bridge this gap, the agencies have been relying on qualified international consulting firms to provide
+
+ the needed technical services and related expertise. Consultants were procured under EEHP to support KETRACO
+
+ in the preparation of technical studies, designs and bidding documents for the STATCOM and Kimuka substations.
+
+ The same consultants will be engaged under the project to continue to support KETRACO during bidding and bid
+
+ evaluation processes and provide post contract award supervision of the contracts.
+
+
+
+ 13.     Other risks identified includes inadequate publication of bidding opportunities and contract awards, low
+
+ absorption of budgets, and weak complaint handling and redress mechanisms. To mitigate the above risks, the
+
+ agencies will be required to deploy qualified and experienced procurement experts to support the PIUs and
+
+ continue with the use of qualified consulting firms to support design development and works supervision. Capacity
+
+ building on World Bank procurement procedures, contract management, institutional strengthening and
+
+ complaints handling systems will also be undertaken.
+
+
+
+
+
+
+
+                                                                                                         Page 38 of 43
+
+The World Bank
+
+Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project (P180465)
+
+
+
+
+
+
+
+
+
+ 14.    Procurement risk rating. Based on the capacity assessment and the nature and complexity of the
+
+ envisaged procurements, procurement risk is rated “Substantial”.
+
+
+
+ 15.     Market Approaches. While approaching international market, procurement will be done using the World
+
+ Bank’s Standard Procurement Documents (SPD). Procurements while approaching national market will be done
+
+ using the National Standard Bidding Documents with appropriate modifications and additional annexes to address
+
+ World Bank’s anti-corruption guidelines, universal eligibility, and the World Bank’s right to sanctions, inspection,
+
+ and audit.
+
+
+
+ 16.      Fiduciary oversight by the Bank. The World Bank shall prior review contracts as per prior review
+
+ thresholds set in the PPSD/Procurement Plan. All contracts not covered under prior review by the World Bank
+
+ shall be subject to post review during implementation support missions and/or special post review missions. The
+
+ World Bank may conduct at any time, Independent Procurement Reviews of all the contracts financed under the
+
+ credit and/or grant if it determines the need for such a review based on risk assessment.
+
+
+
+ 17.      Contract management. High risk and high value procurements will be identified for increased contract
+
+ management support as indicated in the Procurement Plan. The agencies will develop key performance indicators
+
+ for the identified contracts and the key performance indicators would be monitored during actual execution of
+
+ contracts. The World Bank will provide additional due diligence and independent review of the contract
+
+ performance of the identified procurements. The PIUs of the agencies will be responsible for overall
+
+ project/contract management.
+
+
+
+ 18.    Frequency of procurement supervision. Two half-yearly missions are envisaged for procurement support
+
+ and supervision of the project.
+
+
+
+ E. Strategy, Approach and Plan for Implementation Support
+
+
+
+ 19.      The implementation support plan has been developed based on the project design and risk profile. The
+
+ plan describes how the World Bank will support Project implementation and provide technical advisory services
+
+ geared toward achievement of the PDO and agreed indicators, compliance with procurement and fiduciary
+
+ obligations as well as environmental and social management under the project. Implementation support missions
+
+ will be conducted at least twice a year; technical review meetings will be conducted monthly as and when needed;
+
+ fiduciary and environmental and social actions will be followed up; and field visits will be conducted during the
+
+ formal implementation support missions.
+
+
+
+
+
+
+
+
+
+                                                                                                         Page 39 of 43
+
+The World Bank
+
+Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project (P180465)
+
+
+
+
+
+
+
+                                                             Table: Implementation Support Plan
+
+                                                                                                                                                  Partner
+
+  Time                                Focus                                 Skills Needed                           Resource Estimate
+
+                                                                                                                                                   Role
+
+
+
+                                                                                                              TTLs: 10 SWs                       NA
+
+                         Institutional implementation     Task team management, operations, planning, and
+
+                                                                                                              Team/Program Assistants: 7
+
+                         arrangements, project            coordination
+
+                                                                                                              staff weeks (SWs)
+
+                         supervision, coordination team
+
+                         leadership and oversight
+
+
+
+                                                          Planning, engineering, financial and operational,
+
+                         Technical review and             procurement, financial management,                  Task Team Leaders (TTLs) and
+
+                         implementation support           environmental and social actions, gender,           Task Team Members, including
+
+                                                          monitoring and evaluation (M&E).                    Consultants: 10 SWs and 10
+
+   First twelve months
+
+
+
+
+
+
+
+
+
+                                                                                                              SWs, respectively.
+
+
+
+
+
+                         FM/Procurement training and      Technical knowledge and experience in FM and        FM specialist: 6 SWs
+
+                         supervision                      procurement                                         Procurement specialist: 6 SWs
+
+
+
+                                                          Technical knowledge and experience in               Environmental Specialist: 6
+
+                         Environment and social
+
+                                                          environment and social risk assessment and          SWs
+
+                         monitoring and reporting
+
+                                                          impact management                                   Social Specialist: 6 SWs
+
+
+
+                                                          Technical knowledge and experience in the energy    Task Team Leaders (TTLs): 10       NA
+
+                         Technical reviews/support        sector planning, engineering, financial and         SWs; Task Team Members,
+
+                                                          operational, procurement, financial management      including Consultants: 7 SWs.
+
+
+
+                                                                                                              Consultant M&E Specialist: 5
+
+                         M&E arrangements review          Technical knowledge and experience in M&E
+
+                                                                                                              SWs
+
+   12-48 months
+
+
+
+
+
+
+
+
+
+                                                                                                              Environmental Specialist: 5
+
+                                                          Technical knowledge and experience in
+
+                         Environmental and Social                                                             SWs annually
+
+                                                          environmental and social risk assessment and
+
+                         monitoring and reporting                                                             Social Specialist: 5 SWs
+
+                                                          impact management
+
+                                                                                                              annually
+
+
+
+                         FM monitoring and reporting      Technical knowledge and experience in FM            FM specialist: 4 SWs
+
+
+
+                                                          Technical knowledge and experience in
+
+                         Procurement management                                                               Procurement specialist: 4 SWs
+
+                                                          procurement
+
+
+
+                         Gender action plan               Technical knowledge and experience in gender        Gender specialist: 4 SWs
+
+
+
+
+
+
+
+
+
+                                                                                                                                         Page 40 of 43
+
+ The World Bank
+
+ Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project (P180465)
+
+
+
+
+
+
+
+                                 ANNEX 2: Closing the Gender Gaps in Kenya Energy Sector
+
+
+
+1. The Global Gender Gap Index 2023 states gender-based inequalities in Kenya in multiple dimensions – economic
+
+participation and opportunities, education, health, and political empowerment. Kenya ranks 77th out of 146 countries
+
+(57th in 2022) and the percentage of STEM graduates’ attainment is 30.7 percent and 19.4 percent in engineering
+
+manufacturing and construction fields.14 On key indicators such as women economic participation and opportunities,
+
+Kenya’s ranking decreased in 2023 to 16th out of 146 countries (in 2022 it was 6th).15 Such a decline underscores the
+
+need for concerted efforts to facilitate and increase opportunities for women economic participation.
+
+
+
+2. The GoK created an enabling legal framework in support of gender equality and women empowerment including
+
+the Constitution of Kenya that enumerates several aspirations and national values: human rights, equality, freedom,
+
+democracy, social justice, and the rule of law.16 Also, the National Policy on Gender and Development (2019) supports
+
+interventions aimed at equitable participation of women, men, girls, and boys in the sustainable utilization of natural
+
+resources for economic benefits including opportunities for carbon trading and provide guidance to mainstream
+
+gender into environment and climate change laws, policies and programs. Similarly, the Gender Policy in Energy
+
+(2019) provides a framework for mainstreaming gender in policies, programs and projects in energy, commits to
+
+strengthening institutional frameworks for the employment of women in energy sector by engendering all energy
+
+policies, plans, budgets, strategies and programs; increasing awareness on gender in the energy sector; integrating
+
+gender in programs, and in monitoring and evaluation and promoting clean cooking solutions and environmental
+
+sustainability. In addition, Kenya’s Employment Act 2012 set out non-discrimination in employment, promotion of
+
+equal opportunity in employment and elimination of discrimination in any employment policy or practice.
+
+
+
+3. Despite all these supportive national frameworks, evidence shows that women's economic and labor market
+
+outcomes significantly lag Kenya’s strong regulatory and institutional framework: 30 percent wage earnings gap, 20
+
+percent gap in wage employment gap, 27 percent gap in land/house ownership, respectively and 39 percent gender
+
+gap in mobile internet use.17 The findings of gender gap assessments (GGAs) in two energy sector parastatal
+
+companies shows that the workforce participation of women in Kenya energy sector is low especially in technical
+
+fields and leadership/decision-making positions. The GGA report of KPLC (March 2023) shows that out of the total
+
+staff of 9,527, only 2,171 (23 percent) are women and 7,356 (77 percent). Women in technical fields and leadership
+
+positions are only 9 percent and 16 percent respectively. Similarly, the GGA report of KenGen (June 2023) identified
+
+that KenGen has a total of 2,595 staff and 649 (25 percent) are female and 1,946 (75 percent) are male. Women in
+
+technical fields are only 12 percent and while men dominate all higher levels of jobs under management, women are
+
+placed in the lowest level of employment. Further the GGA identified key gender equality gaps such as absence of
+
+gender responsible unit/department in KenGen, gender responsive HR system and performance evaluation
+
+processes. Interview panels are male dominated and have a very limited and well-defined mentorship policy/
+
+program; training plan/policy that are focused on specific goals such as leadership management skills are not
+
+available. Also fragmented, siloed and competing gender related initiatives such as Pink Energy (women only), Blue
+
+Energy (men only), and Y-Gen (males and females aged 35 and below) found to be one of the challenges. Inadequate
+
+policy and institutional legal framework to prevent and respond to workplace sexual harassment and GBV and lack
+
+of clear implementation plan is found to be another workplace challenge in the energy sector.
+
+
+
+
+
+   14 World Economic Forum, Global Gender Gap Index 2023
+
+   15 World Economic Forum, Global Gender Gap Index 2022
+
+   16 Preamble, Constitution of Kenya, 2010.
+
+   17 Mobile Gender Gap Report 2020; Kenya Poverty and Gender Assessment (2018)
+
+
+
+
+
+
+
+
+
+                                                                                                           Page 41 of 43
+
+ The World Bank
+
+ Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project (P180465)
+
+
+
+
+
+
+
+
+
+4. To strategically address the identified gender equality gaps and narrowing the gap; KenGen has drafted a five-year
+
+gender equality strategy (2024 – 2029) and the strategy was endorsed by the senior management recently in August
+
+2023. KPLC has already adopted a five-year gender work program under phase 1 of the MPA. Under this project,
+
+MoEP, KenGen, and KETRACO are expected to have gender equality work programs to strategically strengthen gender
+
+responsive and inclusive institutional arrangements, policy frameworks, increase representation, retainment, and
+
+career advancement of women in the energy sector.
+
+
+
+5. Some of the main strategic intervention areas will include but not limited to the following:
+
+
+
+   MoEP will lead activities related to:
+
+     ▪ revision of the gender in energy policy
+
+     ▪ establishment of sectoral gender technical working group that facilitate effective engagement and
+
+         coordinate all energy sector institutes/parastatals
+
+     ▪ development of guidelines to integrate gender equality unit/department within the structure of energy
+
+         sector institute
+
+     ▪ development of sectoral five-year gender action plan (work plan) with specific strategic activities with
+
+         M&E framework
+
+     ▪ designing of feasible energy sector female talent acquisition programs (e.g., school outreach, internship
+
+         and externship programs) to strategically attract female talents
+
+     ▪ development of tailored gender awareness capacity building programs targeting leaders and managers
+
+     ▪ conducting of impact evaluation assessment in two main areas; (1) assessment on the impacts of lack of
+
+         or unreliable electricity services on women’s economic and social well-being in Kenya and (2) assessment
+
+         on the impact (challenges, lessons learned and good practice) of gender equality interventions (programs)
+
+         in the energy sector institutes (to be conducted by the end of phase 1).
+
+
+
+   KenGen will lead activities related to:
+
+      ▪ development and implementation of a five-year gender action plan (work plan) and M&E framework
+
+         based on its five-year gender equality strategy
+
+      ▪ development and implementation of internship program to attract female graduates in STEM background
+
+      ▪ Emerging women leaders’ capacity development program (coaching, mentoring and professional
+
+         certification program)
+
+      ▪ Female technical staff professional certification program
+
+      ▪ Development/revision of gender responsive institutional policies and procedures (e.g. HR policy, gender
+
+         equality policy, GBV/SH prevention and response policy etc)
+
+      ▪ Establishment of gender equality supportive framework in KenGen structure (establishment of gender
+
+         unit with at least two dedicated gender focal persons)
+
+      ▪ Development and sensitization of intuitional gender responsive planning, budgeting, implementation,
+
+         M&E and reporting framework
+
+      ▪ Establishment of gender forum and facilitation of quarterly events with thematic areas that promote
+
+         gender equality such as increased participation of female in STEM education, increased participation of
+
+         women as energy service providers, entrepreneurs etc
+
+      ▪ Gender equality awareness creation program that facilitates active male engagement as a Corporate
+
+         Culture & Leadership.
+
+
+
+
+
+
+
+
+
+                                                                                                         Page 42 of 43
+
+The World Bank
+
+Kenya Green and Resilient Expansion of Energy (GREEN) Program Phase 2 Project (P180465)
+
+
+
+
+
+
+
+
+
+ KETRACO will lead activities related to:
+
+    ▪ Emerging women leaders’ capacity development program (coaching, mentoring and professional
+
+       certification program)
+
+    ▪ Development/revision of gender responsive institutional policies and procedures (e.g. human resource
+
+       policy, gender equality policy, GBV/SH prevention and response policy etc)
+
+    ▪ Establishment of gender equality supportive framework in KETRACO structure (establishment of gender
+
+       unit with at least two dedicated gender focal persons)
+
+    ▪ Development of gender guidelines to be used as a reference during programs and projects
+
+       design/preparation to ensure gender dimensions are integrated
+
+    ▪ Development and sensitization of institutional gender responsive planning, budgeting, implementation,
+
+       M&E and reporting framework
+
+    ▪ Gender equality awareness creation program that facilitate active male engagement as a Corporate
+
+       Culture & Leadership
+
+    ▪ Inclusion of gender as key performance indicators under different department/units to strengthen gender
+
+       in company performance and reporting
+
+    ▪ Capacity building on gender responsive corporate communications & branding.
+
+
+
+
+
+
+
+
+
+                                                                                                  Page 43 of 43
+
+

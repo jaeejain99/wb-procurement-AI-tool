@@ -1,0 +1,4041 @@
+                                   FOR OFFICIAL USE ONLY
+
+                                                                       Report No: ICR00005746
+
+
+
+                     IMPLEMENTATION COMPLETION AND RESULTS REPORT
+
+                                      <CREDIT 6617-VN>
+
+
+
+                                             ON A
+
+
+
+                                            CREDIT
+
+
+
+                            IN THE AMOUNT OF SDR 61.5 MILLION
+
+                               (US$ 84.4 MILLION EQUIVALENT)
+
+
+
+                                             TO THE
+
+                                 Socialist Republic of Vietnam
+
+
+
+                                             FOR A
+
+
+
+                      Climate Change and Green Growth DPF (P171006)
+
+
+
+                                   November 30, 2022
+
+
+
+
+
+
+
+
+
+Environment, Natural Resources & The Blue Economy Global Practice
+
+East Asia And Pacific Region
+
+
+
+ This document has a restricted distribution and may be used by recipients only in the
+
+ performance of their official duties. Its contents may not otherwise be disclosed without
+
+ World Bank authorization.
+
+The World Bank
+
+Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+
+
+
+
+                                    CURRENCY EQUIVALENTS
+
+
+
+                            (Exchange Rate Effective {Nov 30, 2021})
+
+
+
+
+
+                                       US$ 1.40=     SDR 1.00
+
+
+
+                                         FISCAL YEAR
+
+                                        July 1 - June 30
+
+
+
+
+
+
+
+
+
+         Regional Vice President: Manuela V. Ferro
+
+               Country Director: Carolyn Turk
+
+               Regional Director: Benoit Bosquet
+
+              Practice Manager: Mona Sur
+
+            Task Team Leader(s): Thu Thi Le Nguyen
+
+           ICR Main Contributor: Ashraf El-Arini, Phuong Hoang Ai Nguyen
+
+The World Bank
+
+Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+
+
+
+
+                               ABBREVIATIONS AND ACRONYMS
+
+
+
+
+
+         ASA                                Advisory Services and Analytics
+
+        BAU                                         Business-as-usual
+
+     CC and GG                            Climate Change and Green Growth
+
+       CCDR                           Country Climate and Development Report
+
+          CO                                        Carbon monoxide
+
+         CO2                                         Carbon dioxide
+
+         CPF                                Country Partnership Framework
+
+        DEU                                     Designated Energy User
+
+          DP                                     Development Partner
+
+         DPF                                 Development Policy Financing
+
+          EA                                   Environmental Assessment
+
+         EIA                              Environmental Impact Assessment
+
+         EM                                          Ethnic Minority
+
+         EVN                                       Vietnam Electricity
+
+          FIT                                         Feed-in Tariff
+
+        GDP                                     Gross Domestic Product
+
+        GHG                                          Greenhouse Gas
+
+         GNI                                     Gross National Income
+
+        GoV                                     Government of Vietnam
+
+         GW                                             Gigawatt
+
+          ha                                             Hectare
+
+          HC                                          Hydrocarbon
+
+        HSU                                      Hartridge Smoke Unit
+
+        IBRD                   International Bank for Reconstruction and Development
+
+         ICR                       Implementation Completion and Results Report
+
+         IDA                            International Development Association
+
+         IEA                                  International Energy Agency
+
+         IPF                                 Investment Project Financing
+
+       M&E                                     Monitoring and Evaluation
+
+       MARD                         Ministry of Agriculture and Rural Development
+
+       MOIT                                  Ministry of Industry and Trade
+
+      MONRE                        Ministry of Natural Resources and Environment
+
+       MOT                                        Ministry of Transport
+
+         MPI                              Ministry of Planning and Investment
+
+       MTIP                                 Medium-term Investment Plan
+
+        MW                                              Megawatt
+
+       NCCS                                National Climate Change Strategy
+
+        NDC                               Nationally Determined Contribution
+
+The World Bank
+
+Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+
+
+
+
+        PA                                          Prior action
+
+       PDO                                Program Development Objective
+
+       RMP                                      Regional Master Plan
+
+        SEA                             Strategic Environmental Assessment
+
+       SEDP                              Socio Economic Development Plan
+
+       SEDS                            Socio Economic Development Strategy
+
+      SP-RCC                       Support Program to Respond to Climate Change
+
+       UNDP                           United Nations Development Programme
+
+       VGGS                               Vietnam Green Growth Strategy
+
+       WHO                                   World Health Organization
+
+The World Bank
+
+Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+
+
+
+
+                                                      TABLE OF CONTENTS
+
+
+
+
+
+ DATA SHEET .........................................................................................................................1
+
+ I.       PROGRAM CONTEXT AND DEVELOPMENT OBJECTIVES ............................................... 5
+
+ II.      ASSESSMENT OF KEY PROGRAM DESIGN AND OUTCOMES .......................................... 9
+
+ III.     OTHER OUTCOMES AND IMPACTS ............................................................................ 23
+
+ IV.      BANK PERFORMANCE ............................................................................................... 26
+
+ V.       RISK TO SUSTAINABILITY OF DEVELOPMENT OUTCOMES .......................................... 28
+
+ VI.      LESSONS AND NEXT PHASE ....................................................................................... 28
+
+ ANNEX 1. RESULTS FRAMEWORK ........................................................................................ 31
+
+ ANNEX 2. BANK LENDING AND IMPLEMENTATION SUPPORT/SUPERVISION PROCESSES ..... 36
+
+ ANNEX 3. BORROWER, CO-FINANCIERS, AND OTHER DEVELOPMENT
+
+ PARTNERS’/STAKEHOLDERS’ COMMENTS ........................................................................... 39
+
+ ANNEX 4. SUPPORTING DOCUMENTS ................................................................................. 40
+
+         The World Bank
+
+         Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+
+
+
+
+.
+
+.
+
+    DATA SHEET
+
+
+
+
+
+    BASIC INFORMATION
+
+
+
+    Product Information
+
+
+
+    Project ID                       Program Name
+
+
+
+    P171006                          Climate Change and Green Growth DPF
+
+
+
+    Country                          Financing Instrument
+
+
+
+    Vietnam                          Development Policy Lending
+
+
+
+
+
+DPF Options
+
+
+
+    Programmatic                Regular Deferred Drawdown Option     Catastrophic Deferred Drawdown Option
+
+    No                          No                                   No
+
+
+
+    Crisis or Post Conflict     Sub-National Lending                 Special Development Policy Lending
+
+    No                          No                                   No
+
+
+
+
+
+    Organizations
+
+
+
+     Borrower                                                 Implementing Agency
+
+                                                              Ministry of Natural Resouces and Environment,
+
+     Socialist Republic of Vietnam
+
+                                                              Department of Climate Change
+
+
+
+    Program Development Objective (PDO)
+
+    Program Development Objective (PDO)
+
+    The program development objective (PDO) is to promote: (a) climate resilient management of landscapes; and (b)
+
+    adoption of cleaner transport and energy systems.
+
+
+
+
+
+    PROGRAM FINANCING DATA (USD)
+
+
+
+FINANCE_TBL
+
+                                                                     Approved Amount                Actual Disbursed
+
+World Bank Administered Financing
+
+
+
+
+
+                                                                                                              Page 1 of 40
+
+     The World Bank
+
+     Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+
+
+                                                                              84,400,000                     86,008,980
+
+IDA-66170
+
+Total                                                                         84,400,000                     86,008,980
+
+
+
+
+
+KEY DATES
+
+Concept Review       Decision Review     Approval         Effectiveness       Original Closing      Actual Closing
+
+17-Jun-2019          07-Nov-2019         05-Jun-2020      04-Jun-2021         30-Nov-2021           30-Nov-2021
+
+
+
+
+
+RATINGS SUMMARY
+
+Program Performance
+
+
+
+Overall Outcome                            Relevance of Prior Actions              Achievement of Objectives (Efficacy)
+
+
+
+Moderately Satisfactory                    Satisfactory                            Moderately Satisfactory
+
+
+
+
+
+Bank Performance
+
+
+
+Satisfactory
+
+
+
+
+
+
+
+RATINGS OF PROJECT PERFORMANCE IN ISRs
+
+                                                                                                                  Actual
+
+      No.         Date ISR Archived       DO Rating                     IP Rating                         Disbursements
+
+                                                                                                                 (US$M)
+
+
+
+
+
+
+
+SECTORS AND THEMES
+
+
+
+Sectors
+
+                                                                                       Mitigation Co-    Adaptation Co-
+
+Major Sector/Sector                                                          (%)
+
+                                                                                        benefits (%)       benefits (%)
+
+SECTOR0_TBL
+
+Agriculture, Fishing and Forestry                                             26                 13.00               13.00
+
+        Irrigation and Drainage                                                13                  50                  50
+
+        Forestry                                                               13                  50                  50
+
+SECTOR0_TBL
+
+Public Administration                                                         19                  3.23               15.77
+
+          Central Government (Central Agencies)                                19                  17                  83
+
+
+
+
+
+
+
+
+
+                                                                                                                  Page 2 of 40
+
+    The World Bank
+
+    Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+SECTOR0_TBL
+
+Energy and Extractives                                        24   24.00     0.00
+
+        Renewable Energy Solar                                12    100         0
+
+       Other Energy and Extractives                           12    100         0
+
+SECTOR0_TBL
+
+Transportation                                                12   12.00     0.00
+
+       Public Administration - Transportation                 12    100         0
+
+SECTOR0_TBL
+
+Water, Sanitation and Waste Management                        19    3.00   16.00
+
+        Public Administration - Water, Sanitation and Waste
+
+                                                               6     50        50
+
+        Management
+
+        Other Water Supply, Sanitation and Waste
+
+                                                              13      0       100
+
+        Management
+
+
+
+Themes
+
+Major Theme/ Theme (Level 2)/ Theme (Level 3)                                 (%)
+
+Economic Policy                                                                13
+
+         Economic Growth and Planning                                          13
+
+                   Green Growth                                                13
+
+
+
+Human Development and Gender                                                  100
+
+         Disease Control                                                     100
+
+                   Pandemic Response                                         100
+
+
+
+Urban and Rural Development                                                    13
+
+         Disaster Risk Management                                              13
+
+                   Disaster Risk Reduction                                     13
+
+
+
+
+
+
+
+
+
+                                                                           Page 3 of 40
+
+           The World Bank
+
+           Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+
+
+    Environment and Natural Resource Management                                                   100
+
+                Climate change                                                                   100
+
+                         Mitigation                                                                56
+
+
+
+                         Adaptation                                                                44
+
+
+
+                Environmental Health and Pollution Management                                      13
+
+                         Air quality management                                                    13
+
+
+
+                Renewable Natural Resources Asset Management                                       38
+
+                         Forests Policies and institutions                                         13
+
+
+
+                         Coastal Zone Management                                                   13
+
+
+
+                         Watershed Management                                                      25
+
+
+
+                Water Resource Management                                                          25
+
+                         Water Institutions, Policies and Reform                                   13
+
+
+
+                Energy                                                                             25
+
+                         Energy Efficiency                                                         25
+
+
+
+                         Energy Policies & Reform                                                  13
+
+
+
+
+
+
+
+    ACCOUNTABILITY AND DECISION MAKING
+
+    Role                                               At Approval         At ICR
+
+
+
+    Regional Vice President:                           Victoria Kwakwa     Manuela V. Ferro
+
+
+
+    Country Director:                                  Ousmane Dione       Carolyn Turk
+
+
+
+    Director:                                          Benoit Bosquet      Benoit Bosquet
+
+    Practice Manager:                                  Christophe Crepin   Mona Sur
+
+
+
+    Task Team Leader(s):                               Stephen Ling        Thu Thi Le Nguyen
+
+
+
+.
+
+
+
+
+
+
+
+
+
+                                                                                               Page 4 of 40
+
+ The World Bank
+
+ Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+
+
+ I.        PROGRAM CONTEXT AND DEVELOPMENT OBJECTIVES
+
+
+
+
+
+A. Context at Appraisal
+
+
+
+      Context
+
+
+
+
+
+      1. In the thirty years leading up to the Climate Change and Green Growth Development Policy Financing (DPF)
+
+         operation (P171006), rapid and inclusive economic growth had raised Vietnam’s status to that of a lower-
+
+         middle-income country. Gross domestic product (GDP) growth per capita averaged 5.5 percent a year from
+
+         1990 to 2017, yielding a per capita gross national income (GNI) of US$2,160 in 2017. Growth was inclusive:
+
+         incomes rose across the income distribution, with no growth in inequality, and the percentage of people living
+
+         in extreme poverty (US$1.9 per day) stood at less than 3 percent. Key social indicators – education, life
+
+         expectancy, maternal mortality, and access to basic infrastructure – improved substantially, and were better
+
+         than most countries at a similar income level.
+
+
+
+      2. However, Vietnam was, and still is, one of the world’s most vulnerable countries to climate change impacts,
+
+         and the intense exploitation of natural resources and environmental degradation linked to its rapid
+
+         economic growth exacerbates its vulnerability. Droughts, salinization, extreme temperatures, and changes in
+
+         growing seasons and floods1, compounded by sub-standard housing in exposed areas and a lack of assets to
+
+         buffer shocks2, strongly impact the livelihoods of poor rural and urban households. Over the 25 years preceding
+
+         the operation, extreme weather events resulted in 0.4 to 1.7 percent of GDP loss.3 By 2050, national income is
+
+         likely to be reduced by between one and two percent compared to a historical baseline.4 Depletion and
+
+         degradation of natural resources has increased the impact of climate change on those who depend on natural
+
+         ecosystems for direct livelihoods and to moderate the impacts of hydrological extremes. In the late 2000s,
+
+         when growth was peaking, natural resource depletion was in the order of 7 percent of GNI. 5 Utilization of land
+
+         intensified, water resources were stretched, forests were being unsustainably logged, and capture fisheries
+
+         and mineral resources were being depleted. Impacts were typically most severe on the poor: 30 percent of the
+
+         poor population at the time of the operation was exposed to a historical 25-year flood, but this had been
+
+         estimated to increase to over 50 percent with climate change impacts.6
+
+
+
+      3. Vietnam’s greenhouse gas (GHG) emissions have been moderate in absolute terms but are disproportionate
+
+         to the size of its growing economy. From 2000 to 2015, carbon dioxide (CO2) emissions nearly quadrupled,
+
+         following faster relative growth than other East Asian countries. Vietnam was the 13th most carbon intensive
+
+         economy in the world and the 4th amongst low and middle-income countries in East Asia (vs. 33rd and 5th
+
+
+
+
+
+       1 World Bank. 2015. Climate Change and Poverty in Vietnam. Projections for a 50-year return period under a high climate scenario,
+
+       assuming no protection, along with an overlay of flood models and present socioeconomic data suggest that 40 percent of Vietnamese
+
+       poor would be exposed to flooding.
+
+       2 World Bank. 2015. Climate Change and Poverty in Vietnam: A Qualitative Analysis. Analysis was undertaken in Bac Ninh, Hoa Binh, Kon
+
+
+
+       Tum, An Giang, and Kien Giang Provinces.
+
+       3 World Bank. 2016. Vietnam Systematic Country Diagnostic 2016- Priorities for Inclusive and Sustainable Growth.
+
+       4
+
+           https://doi.org/10.3390/su7044131.
+
+       5 https://data.worldbank.org/indicator/NY.ADJ.DRES.GN.ZS?contextual=default&locations=VN.
+
+       6 https://link.springer.com/article/10.1007/s41885-018-0035-4.
+
+
+
+
+
+
+
+
+
+                                                                                                                                 Page 5 of 40
+
+The World Bank
+
+Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+
+
+      respectively for total emissions).7 Growth in GHG emissions and air pollution is mostly associated with
+
+      increasingly coal-based power generation, industrial expansion, agriculture production and a growing transport
+
+      sector and have significant human health and productivity implications.
+
+
+
+ 4. The macroeconomic policy framework was deemed adequate for this operation. Economic growth was
+
+    resilient and macroeconomic stability had been broadly maintained. The monetary and fiscal policy stance
+
+    were considered appropriate and external buffers were robust. The impact of COVID 19 on Vietnam’s economic
+
+    activities was expected to be significant but short-lived if the outbreak was contained in the next few months
+
+    following the operation. The strong fundamentals of the Vietnamese economy, with a large current account
+
+    surplus and relatively ample fiscal space at the end of 2019, offered the opportunity for the government to
+
+    implement a fiscal stimulus that was expected to help compensate for the negative effects of the pandemic on
+
+    the most vulnerable groups. The resulting temporary increase in fiscal deficit was expected to be
+
+    accommodated by additional borrowing that would not affect fiscal and debt sustainability. Other short-term
+
+    risks envisaged included a sharp slowdown in global economic activity and trade flows as Vietnam’s economy
+
+    was one of the most open in the world. Vietnam had been managing the above external risks by diversifying
+
+    its trade flows and improving its competitiveness. Vietnam’s adhesion to new trade agreements, e.g. the
+
+    Europe-Vietnam Free Trade Agreement, supported this effort. Heightened global volatility underscored the
+
+    need to maintain sound macroeconomic policies, including implementation of planned structural reforms, such
+
+    as restructuring the state-owned enterprises, improving investment climate and investing in human capital and
+
+    infrastructure.
+
+
+
+ 5. The World Bank aimed to support the Government of Vietnam to address its climate change and green
+
+    growth challenges with the delivery of this operation, which was closely linked to a 2016 operation that was
+
+    designed to be the first in a 3-operation series. The originally conceived 3-operation World Bank DPF series
+
+    focused on mainstreaming climate within general planning and budgeting processes, as well as tackling specific
+
+    climate impacts and issues in key sectors. The series supported the government’s Support Program to Respond
+
+    to Climate Change (SP-RCC) 2016-2020, which facilitated policy reforms for effective implementation of climate
+
+    change and green growth actions prioritized in the 2016–2020 Socio-Economic Development Plan (SEDP),
+
+    National Climate Change Strategy (NCCS) and Vietnam Green Growth Strategy (VGGS), and Nationally
+
+    Determined Contribution (NDC). The original series was expected to run from 2016 to 2019, but following
+
+    approval of the first operation in June 2016, processing of the second operation was delayed beyond the 24
+
+    months due to the public debt ceiling and constraints on government borrowing. It was then dropped, and this
+
+    single, one-tranche operation was developed based on the policy dialogue under the originally planned 3-
+
+    operation series.8 An Implementation Completion and Results Report (ICR) was prepared for that first
+
+    operation. Although unable to proceed as planned, the first operation of the preceding DPF series played a
+
+    critical role in shaping the form and content of the SP-RCC policy program and delivered results upon which
+
+
+
+
+
+
+
+  7 Trends in global CO2 emissions: 2016 Report. European Commission, Joint Research Centre (JRC), Directorate C - Energy, Transport and
+
+  Climate; PBL Netherlands Environmental Assessment Agency.
+
+  8 The operation was approved by the World Bank Board of Directors on June 5, 2020. The operation benefited from the utilization of
+
+
+
+  cancelled IDA from other on-going projects at the time; although the lending rate was higher than that was for concessional IDA which
+
+  was no longer available to Vietnam with Vietnam’s full graduation to IBRD in 2018. This higher lending rate, coupled with the
+
+  government’s tightened control over the use of borrowing resources, contributed to slowing down the government decision makin g
+
+  process for project preparation and approval.
+
+
+
+
+
+                                                                                                                             Page 6 of 40
+
+The World Bank
+
+Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+
+
+      this DPF operation aimed to build on, including to strategically strengthen the foundations and provide a bridge
+
+      to a new, post-2020 phase of climate action in Vietnam which was to be focused on NDC implementation.
+
+
+
+ 6. This operation was aligned with the priorities articulated in the WBG Country Partnership Framework (CPF)
+
+    (No. 111771-VN) for the Socialist Republic of Vietnam for the 2018-2022 period. The two pillars of the
+
+    program development objective (PDO) on promoting (i) climate resilient management of landscapes and (ii)
+
+    cleaner transport and energy systems were aligned with Focus Area 3 (Ensure Environmental Sustainability and
+
+    Resilience). The CPF was fully aligned with the government’s 2010–2020 Socio-Economic Development Strategy
+
+    (SEDS) and the 2016-2020 SEDP, which underscored the need for strengthening resilience to climate change
+
+    impacts, environmental protection, and improved management of natural assets. The DPF end of program
+
+    indicators also contributed towards the indicators for achievement of CPF objectives. It also contributed to
+
+    strategic shift 2 under the 2019 Performance and Learning Review of the CPF, which stated that the World
+
+    Bank’s engagement would strengthen and support NDC implementation.
+
+
+
+ 7. This DPF operation supported selected and significant elements of the SP-RCC. The areas of policy reform
+
+    were selected to capture the greatest opportunities for transformational interventions, and synergies
+
+    between the climate change and green growth agendas of the NCCS and VGGS 9, building on priorities
+
+    identified jointly by the government and development partners (DP) through the SP-RCC dialogue. They were
+
+    based on a variety of analytical work undertaken by the Government, the Bank and DPs. This operation aimed
+
+    to enhance the momentum of the originally planned series, ensuring continued delivery of the latter stages of
+
+    the SP-RCC, and extending the policy ambition and delivery of results beyond those envisaged for the original
+
+    series in key areas. This included supporting policies that aimed to lead to increased protection of water
+
+    sources, application of water-saving practices over larger areas of farmland, additional reductions in air
+
+    pollutants from vehicles, and further scale up of renewable generation capacity.
+
+
+
+ Original Program Development Objective(s) (PDO) (as approved)
+
+
+
+ 8. The original program development objectives were to promote: (a) climate resilient management of
+
+    landscapes; and (b) adoption of cleaner transport and energy systems.
+
+
+
+ Original Policy Areas/Pillars Supported by the Program (as approved)
+
+
+
+ 9. The operation built on the progress and achievements of the originally planned climate change and green
+
+    growth (CC and GG) DPF series and included a cohesive set of five policy tracks across the two pillars selected
+
+    from key policy actions under the Government’s SP-RCC program.
+
+
+
+      Pillar 1: Climate Resilient Management of Landscapes
+
+
+
+ 10. This pillar supported the government’s efforts to adapt to climate change through increasing the resilient
+
+     management of landscapes and natural resources, including water resources, as well as to more effectively
+
+     manage public investment in resilience and green growth. The reforms under this pillar included support
+
+     under three policy tracks: (i) Climate Smart Landscape Planning; (ii) Climate Budgeting; and (iii) Improving
+
+     Water Resources Protection and Use Efficiency.
+
+
+
+
+
+  9The agenda elaborated in the VGGS largely overlaps with the low carbon growth agenda for Vietnam but captures additional elements
+
+  of clean and resource-efficient growth, including the reduction of air pollution.
+
+
+
+
+
+                                                                                                                          Page 7 of 40
+
+The World Bank
+
+Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+
+
+ 11. Climate Smart Landscape Planning: In support of this policy track, this operation supported policies to
+
+     improve forest landscape management and strengthen resilient planning of the Mekong Delta 10. For the
+
+     former, further enhancement of legal and institutional measures for forest protection, restoration and
+
+     management was considered critical for ensuring the sector’s sustainability and contribution to climate change
+
+     adaptation and mitigation, especially in critical and highly vulnerable areas. For the latter, formulation and
+
+     strengthening of the legal framework for spatial planning was fundamental to enhancing climate-resilient
+
+     management of the Mekong Delta. Prior to the 2017 Planning Law, planning exercises in Vietnam were largely
+
+     fragmented, sectoral-based and target-oriented, leading to inconsistencies, overlaps and conflicts, and
+
+     inefficient investments.
+
+
+
+ 12. Climate Budgeting: Establishing the foundation for climate budgeting was considered pivotal to monitoring
+
+     public financing for investments that enhance climate resilience. Climate budget tagging enables a stronger
+
+     understanding of the composition and levels of public expenditures with climate benefits, which provides
+
+     important information to policymakers to assist in monitoring climate policy implementation.
+
+
+
+ 13. Improving Water Resources Protection and Use Efficiency: Establishing the institutional and governance
+
+     framework for water resources protection was considered instrumental to ensuring sustainability and security
+
+     of water resources especially in the face of increasing climate change impacts. Further, providing incentives
+
+     for more efficient irrigation systems was pivotal to addressing climate-induced and exacerbated shortages of
+
+     water resources for the agricultural sector and the economy. Improved irrigation practices also bring economic
+
+     benefits to farmers through improvements to farmers’ incomes.
+
+
+
+       Pillar 2: Adoption of Cleaner Transport and Energy Systems
+
+
+
+ 14. Pillar 2 supported the government’s efforts to shift towards greener growth through cleaner transport and
+
+     energy systems to reduce GHG emissions and address air pollution. The reforms under this pillar included
+
+     support under two policy tracks: (i) Cleaner Transport; and (ii) Towards a Low-Carbon Energy Transition.
+
+
+
+ 15. Cleaner Transport: Improving automobile emissions standards is important for reducing both air pollution and
+
+     greenhouse gas emissions associated from road transport. In 2019, transport accounted for about 10 percent
+
+     of the country’s GHG emissions.11 Further, about 25 percent of Particulate Matter 2.5 (PM2.5) concentrations
+
+     in Hanoi originates from the transport sector.12 Recognizing the pollution associated with road transport, the
+
+     Ministry of Transport (MOT) had previously adopted EURO-4 equivalent13 vehicle emissions standards for new
+
+     vehicles14 but emissions from in-use vehicles and used import vehicles remained unregulated. This policy track
+
+     aimed to address this policy gap.
+
+
+
+
+
+  10 The Mekong Delta is home to 20 million people (one fifth of national population) and accounts for half of Vietnam’s rice production, 70
+
+  percent of aquaculture production, and one-third of the country’s agricultural GDP. It is one of the most fertile regions in the world, has
+
+  emerged as an agricultural commodity powerhouse, feeding Vietnam and the rest of the world over the last few decades and offers
+
+  numerous opportunities to further Vietnam’s development and spearhead its transformation to a more productive, innovative and
+
+  resilient economy.
+
+  11 CAIT Climate Data Explorer via Climate Watch. 2019. “GHG Emissions.” Washington, DC: World Resources Institute.
+
+
+
+  https://www.climatewatchdata.org/data-explorer/historical-emissions.
+
+  12 World Bank, 2021, “The Source of Air Pollution in Hanoi Agglomeration, unpubli shed.
+
+  13 European emissions standards are vehicle emission standards that were introduced in the European Union that were introduced
+
+
+
+  progressively with increasingly stringent standards.
+
+  14 MOT Minister Circular 33/2015/TT-BGTVT.
+
+
+
+
+
+
+
+
+
+                                                                                                                                 Page 8 of 40
+
+ The World Bank
+
+ Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+
+
+      16. Towards a Low-Carbon Energy Transition: Adopting a national energy efficiency program was considered
+
+          pivotal to increasing ambition and strengthening energy efficiency action at the provincial level. Additionally,
+
+          establishing an enabling legal and regulatory framework was necessary to attract commercial financing for
+
+          renewable energy investments. While the government had made progress in enhancing the policy framework
+
+          for scaling up renewable energy, the feed-in tariff regime was generally considered as insufficient with too low
+
+          feed-in tariff (FIT) that only attracted a small number of projects in non-hydro renewable energy
+
+
+
+
+
+B. Significant Changes During Implementation
+
+
+
+       N/A
+
+
+
+II.     ASSESSMENT OF KEY PROGRAM DESIGN AND OUTCOMES
+
+
+
+
+
+       Table 1. Prior Actions, Results Indicators, and Actual Achievements
+
+
+
+
+
+
+
+                             Prior Actions                                   Results Indicators (original and revised)
+
+
+
+        PILLAR 1: Climate resilient management of landscapes
+
+        Prior Action 1: The Recipient, through its                  Result Indicator 1: Number of hectares of
+
+        Government, has adopted criteria for the                    production and natural forests with approved
+
+        classification of coastal protection forests, as            sustainable forest management plans
+
+        evidenced by Decree No. 156/2018/ND-CP dated
+
+        November 16, 2018; and through MARD, has                    Baseline (2018): 151,000 ha (production forest);
+
+        adopted Circular No. 28/2018/TT-BNNPTNT dated               86,000 ha (natural forests)
+
+        November 16, 2018 on the development of
+
+        sustainable forest development plans                        Target (2021): 250,000 ha (production forest);
+
+                                                                    100,000 ha (natural forests)
+
+
+
+                                                                    Current status (end of 2020): 1 million ha
+
+                                                                    (production forest); 2.1 million ha (specialized
+
+                                                                    forest); 4.6 million ha (protection forest) (partially
+
+                                                                    achieved - see paragraphs 31 and 33 for
+
+                                                                    explanation on partial achievement)
+
+
+
+
+
+
+
+
+
+        Prior Action 2: The Recipient has: (i) through its          Result Indicator 2: Medium-Term Investment Plan
+
+        Government, adopted Decree No. 37/2019/ND-CP                includes coordinated investments as defined in the
+
+        dated May 7, 2019 guiding the implementation of             Integrated Regional Master Plan for the Mekong
+
+        the Planning Law, including the process, content
+
+
+
+
+
+                                                                                                                         Page 9 of 40
+
+The World Bank
+
+Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+
+
+
+
+                      Prior Actions                          Results Indicators (original and revised)
+
+
+
+   and climate considerations for the preparation of    Delta to address multiprovincial issues
+
+   regional master plans, and (ii) through its Prime    compounded by climate change
+
+   Minister, issued Decision No. 1226/QD-TTg dated
+
+   September 24, 2018 establishing the National         Baseline (2018): No
+
+   Planning Council tasked with the responsibility of   Target (2021): Yes
+
+   developing regional master plans for the Mekong      Current status (2022): No (not achieved)
+
+   Delta and other regions
+
+   Prior Action 3: The Recipient, through MPI, has      Result Indicator 3: Number of sub-sectors with
+
+   adopted Decision No. 1085/QD-BKHDT dated July        increased climate-responsive investment under
+
+   16, 2018 governing the identification,               the Ministry of Agriculture and Rural
+
+   classification, and reporting of public investment   Development’s annual budget
+
+   allocations related to climate change and green
+
+   growth                                               Baseline (2018): 0
+
+                                                        Target (2021): 4
+
+                                                        Current status (2021): 2 (partially achieved)
+
+   Prior Action #4: The Recipient, through its          Result Indicator 4: Number of provinces
+
+   Government, has: (i) adopted regulations on          establishing groundwater exploitation zones
+
+   groundwater protection to prevent saline intrusion
+
+   and land subsidence, as evidenced by Decree No.      Baseline (2018): 0
+
+   167/2018/ND-CP dated December 26, 2018; and          Target (2021): 20
+
+   (ii) improved sand mining management and river       Current status (2022): 24 (exceeded)
+
+   works planning to protect water sources, as
+
+   evidenced by Decree No. 23/2020/ND-CP dated
+
+   February 24, 2020.
+
+   Prior Action #5: The Recipient, through its          Result Indicator 5: Area of farmland with improved
+
+   Government, has adopted: (i) Decree No.              water saving practices applied
+
+   77/2018/ND-CP dated May 16, 2018 providing
+
+   financial incentives for on-farm irrigation, and     Baseline (2018): 320,000 hectares
+
+   advanced and efficient irrigation system; and (ii)   Target (2021): 500,000 hectares
+
+   guidelines for water service fees for irrigation, as Current status (2020): 528,624 hectares
+
+   evidenced by Decree No. 96/2018/ND-CP dated          (exceeded)
+
+   June 30, 2018
+
+   PILLAR 2: Adoption of cleaner transport and energy systems
+
+   Prior Action 6: The Recipient, through its Prime     Result Indicator 6: Percentage emissions
+
+   Minister, has adopted new emissions standards for    reductions of carbon monoxide (CO),
+
+   in-use and imported used road motor vehicles, as     hydrocarbons (HC) and Hartridge Smoke Unit
+
+   evidenced by Decision No. 16/2019/QD-TTg dated       (HSU) from imported used vehicles and in-use
+
+   March 28, 2019                                       vehicles that do not comply with new emissions
+
+                                                        standards (as compared to the BAU)
+
+
+
+                                                        Baseline (2018): 0
+
+
+
+
+
+
+
+                                                                                                         Page 10 of 40
+
+The World Bank
+
+Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+
+
+
+
+                          Prior Actions                           Results Indicators (original and revised)
+
+
+
+                                                            Target (2021): 3 percent (CO); 7 percent (HC); 9
+
+                                                            percent (HSU)
+
+                                                            Current status (2021): 10 percent (CO); 15 percent
+
+                                                            (HC); 9 percent (HSU) (exceeded)
+
+     Prior Action #7: The Recipient, through its Prime      Result Indicator 7: Percentage national energy
+
+     Minister, has adopted a national energy efficiency     savings (through 2030) committed to in newly
+
+     program for the period 2019-2030, as evidenced         adopted provincial energy efficiency programs
+
+     by Decision No. 280/2019/QD-TTg dated March
+
+     13, 2019                                               Baseline (2018): 0
+
+                                                            Target (2021): 8 percent
+
+                                                            Current status (2021): 8 percent (achieved)
+
+     Prior Action #8: The Recipient has: (i) through its    Result Indicator 8: Generating capacity of grid-
+
+     Prime Minister, revised the feed-in tariff to          connected wind power in Vietnam
+
+     promote investment in wind power development
+
+     in Vietnam, as evidenced by Decision No.               Baseline (2018): 300 MW
+
+     39/2018/QD-TTg dated September 10, 2018; and           Target (2021): 800 MW
+
+     (ii) through its MOIT, adopted a standard power        Current status (2021): 4 GW (exceeded)
+
+     purchase agreement for wind power, as evidenced
+
+     by Circular No. 02/2019/TT-BCT dated February
+
+     28, 2019.
+
+
+
+
+
+A. Relevance of prior actions
+
+
+
+   Rating: Satisfactory
+
+
+
+  17. The design of the PDO aligned with the World Bank Group’s CPF for Vietnam (FY18-22), notably focus area 3,
+
+      which sought to ensure environmental sustainability and resilience. The PDO was also fully relevant with the
+
+      government’s 2010-2020 SEDS and 2016-2020 SEDP, which underscored the need for strengthening resilience
+
+      to climate change impacts, environmental protection, and improved management of natural assets. Therefore,
+
+      the assessment of the prior actions’ relevance to the PDO is also relevant to country priorities.
+
+
+
+  18. The DPF operation aimed to achieve the development objectives of promoting climate resilient management
+
+      of landscapes and adoption of cleaner transport and energy systems. To support Pillar 1 on promoting climate
+
+      resilient management of landscapes, the operation focused on key reform actions in the areas of climate smart
+
+      landscape planning, climate budgeting and improving water resources protection and use efficiency. To
+
+      support Pillar 2 on the adoption of cleaner transport and energy systems, the operation focused on policies
+
+      that promote a cleaner transport sector and move towards a low-carbon energy transition. While broad, the
+
+      PDO was appropriate in its ambition and realism in that it captured the “promotion” and “adoption” of rather
+
+      than fully achieving climate resilient management of landscapes and cleaner transport and energy systems. Ex
+
+      ante, the prior actions were highly relevant for the achievement of the PDOs and relevance of the prior actions
+
+      is therefore rated satisfactory. There is a clear line of sight from the reform efforts to the expected outputs and
+
+      outcomes.
+
+
+
+
+
+                                                                                                               Page 11 of 40
+
+The World Bank
+
+Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+
+
+
+
+ 19. The DPF operation was prepared within the same framework as the originally envisaged CC and GG
+
+     programmatic DPF series, supporting prior actions that were needed to expand on and consolidate the
+
+     achievements of SP-RCC. This DPF operation reflects a slightly more focused set of actions in areas where there
+
+     remained important policy opportunities to deliver additional results by the end of 2020, as well as facilitate
+
+     accelerated action post- 2020 (NDC implementation period). Around half of the prior actions for this operation
+
+     were included within the matrix for the original DPF series (mostly as DPF-3 triggers). However, due to progress
+
+     in implementing the SP-RCC policy agenda, the remaining prior actions represent additional reforms beyond
+
+     those included in the earlier series. All the targets represent outcomes that were additional to what was
+
+     achieved under the earlier DPF series by the end of 2018 (the effective date of assessment of the DPF-1 ICR).
+
+
+
+ 20. The scope and ambitiousness of the prior actions were appropriate and were equally relevant in contributing
+
+     to the achievement of the PDO. Some were legal instruments which set the stage for further regulatory
+
+     changes downstream (PA1, 2, 4 and 5); others were regulations, incentives or downstream policies themselves
+
+     (PA6, 8) whereas others provide detailed guidance or support that enabled policy implementation (PA 1, 2, 3,
+
+     5, and 7). This reflects the different levels of progress in the government’s reform agenda in each policy track,
+
+     with some advanced in having a full set of policy tools available to facilitate achievement of desired results,
+
+     while others having required additional incremental legislative steps to achieve the desired policy objective.
+
+     Figure 1 presents a theory of change for the operation based on the anticipated outputs under the reform
+
+     activities (prior actions), and the associated intermediate results and outcomes.
+
+
+
+  Figure 1 – Vietnam Climate Change and Green Growth DPF Results Chain (Theory of Change)
+
+
+
+
+
+
+
+
+
+                                                                                                          Page 12 of 40
+
+The World Bank
+
+Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+        Inputs and Actions                      Outputs and Results                        Outcomes                Development Objectives
+
+
+
+        Criteria on the classification of
+
+        coastal protection forests;             There is an increased number of
+
+        Development of requirements for         hectares of production and natural         Improved forest
+
+        sustainable forest management           forests with approved sustainable forest   landscape
+
+        plans                                   management plans                           management
+
+        Guidance for implementing the
+
+        Planning Law, including process,
+
+        content and climate considerations
+
+        for preparation of regional master      The Medium-Term Investment Plan
+
+        plans; Establishment of National        includes coordinated investments as
+
+        Planning Council tasked with            defined in the Integrated Regional
+
+        responsibility of developing regional   Master Plan for the Mekong Delta to        Strengthened
+
+        master plans for the Mekong Delta       address multiprovincial issues             resilient planning of
+
+        and other regions                       compounded by climate change               the Mekong Delta
+
+                                                                                                                     Climate resilient landscapes
+
+                                                There is an increased number of sub-
+
+                                                                                                                              promoted
+
+        Guidance for the identification,        sectors with increased climate-            Established
+
+        classification, and reporting of        responsive investment under the            foundation for
+
+        public investment allocations related   Ministry of Agriculture and Rural          climate budgeting
+
+        to climate change and green growth      Development's annual budget                system
+
+        Regulation on groundwater
+
+        protection to prevent saline
+
+        intrusion and land subsidence;
+
+        regulation to improve sand mining       There is an increased number of
+
+        management and river works              provinces establishing groundwater         Improved water
+
+        planning to protect water sources       protection zones                           resource protection
+
+        Financial incentives for on-farm
+
+        inrrigation and advanced and
+
+        efficient irrigation systems;           There is an increased area of farmland
+
+        Guidelines for water service fees for   with improved water saving practices       Improved water use
+
+        irrigation                              applied                                    efficiency
+
+                                                There is an increased percentage of
+
+                                                emission reductions in emissions of
+
+                                                carbon monoxide (CO), hydrocarbons
+
+                                                (HC) and Hartridge Smoke Unit (HSU)
+
+                                                from imported used vehicles and in-use
+
+        New emissions standards for in-use      vehicles that do not comply with new
+
+        and imported used road motor            emissions standards (as compared to        Reduction of high
+
+        vehicles                                business-as-usual)                         polluting vehicles
+
+                                                                                                                   Adoption of cleaner transport
+
+                                                There is an increased percentage in
+
+                                                                                                                   and energy systems promoted
+
+                                                national energy savings (through 2030)
+
+        National Energy Efficiency Program      commmitted to in newly adopted             Energy efficiency
+
+        for the period 2019-2030                provincial energy efficiency programs      promoted
+
+
+
+        Revised feed-in tariff to promote
+
+        investment in wind power                There is an increase in generating         Scaled up
+
+        development; standard power             capacity of grid-connected wind power      investments in
+
+        purchase agreement for wind power       in Vietnam                                 renewable energy
+
+
+
+
+
+
+
+
+
+  Pillar 1. Climate resilient management of landscapes
+
+
+
+ 21. Climate Smart Landscape Planning: Improved Forest Landscape Management (Prior Action 1). The first prior
+
+     action – the adoption of criteria for the classification of coastal protection forests and the development of
+
+     requirements for sustainable forest management plans - was appropriate and relevant in achieving the
+
+     development objective. The prior action for this reform area focused on coastal protection forests for their
+
+
+
+                                                                                                                          Page 13 of 40
+
+The World Bank
+
+Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+
+
+     crucial contribution to climate resilience of the vulnerable coastal landscape of Vietnam, and the formulation
+
+     of sustainable forest development plans. Specifically, a decree was issued on classification of coastal protection
+
+     forests and respective management measures (Decree 156/2018/ND-CP dated November 16, 2018 on “Specific
+
+     regulations to implement the law on forestry”) followed by a MARD circular (Circular No 28/2018/TT-BNNPTNT
+
+     dated November 16, 2018 on “Guidance on sustainable forest management) guiding the development of
+
+     management plans in accordance with the forest’s classification and in compliance with national sustainable
+
+     forest certification systems. It provided a framework for expanding the coastal forest belt with different
+
+     functions of protection for enhanced resilience and measures to properly manage the forests including aligning
+
+     the revenue-generating permission with the functional category. The sustainable forest development plans
+
+     formulated were expected to ensure accountability of forest owners, facilitate actions and transparency in
+
+     rehabilitation, protection and conservation of forest resources, and support sustainable financing including
+
+     payment for forest environmental services.
+
+
+
+ 22. Climate Smart Landscape Planning: Strengthened Resilient Planning of Mekong Delta (Prior Action 2). The
+
+     second prior action – adoption of guidance for implementing the Planning Law, including process, content, and
+
+     climate considerations for preparation of regional master plans and establishment of National Planning Council
+
+     tasked with the responsibility of developing regional master plans - was appropriate and relevant in achieving
+
+     the development objective. The effectiveness of the Planning Law and the subsequent issuance of Decree No.
+
+     37/2019/ND-CP dated May 7, 2019 on “Regulations to implement the Planning Law” provided sufficient legal
+
+     basis and technical guidance for spatial and integrated planning, and enabled the formulation of the first-ever
+
+     regional master plan for the Mekong Delta region. It was also the first regional master plan that was formulated
+
+     in the country. Decree 37 guided the process for developing master plans and the content required to be
+
+     included in the master plans, including mainstreaming of climate change. Prime Minister’s Decision No.
+
+     1226/QD-TTg dated September 24, 2018 on “Establishing the National Planning Committee” contributed to
+
+     ensuring the engagement of all relevant agencies in the planning and planning appraisal processes. As a result
+
+     of these policies, the Mekong Delta regional master plan (with a strong focus on climate resilience and
+
+     sustainability) was formulated and approved by the Prime Minister in February 2022.
+
+
+
+ 23. Climate Budgeting (Prior Action 3): The third prior action – adoption of guidance for the identification,
+
+     classification, and reporting of public investment allocations related to climate change and green growth - was
+
+     appropriate and relevant in achieving the development objective. It was intended to provide an internationally
+
+     recognized methodology to assess the overall level of public climate investment, as well as the alignment of
+
+     that investment with national climate and green growth objectives. It was expected that MPI Decision No.
+
+     1085/QD-BKHDT dated July 16, 2018 would be rolled out progressively starting in selected priority sectors.
+
+     Following assessments in around 30 provinces in the Mekong, coastal and upland areas, MARD was targeted
+
+     as the first ministry that would apply the budget tagging methodology, as it accounted for a large share of
+
+     central budget climate-related investment. The MPI Decision aimed to put in place a consistent methodology
+
+     for tracking climate budget public expenditures to help provide insight on the level and composition of
+
+     expenditure towards adaptation and resilience, climate change mitigation and in support of NDC, National
+
+     Climate Change Strategy and Green Growth Strategy policy objectives. This is especially important for assessing
+
+     progress on investments in climate smart landscapes, which have significant levels of support from the state
+
+     budget. The prior action, therefore, was appropriate and relevant to establish the foundation for a climate
+
+     budgeting system which would lead to the goal of promoting climate resilient landscapes.
+
+
+
+
+
+                                                                                                           Page 14 of 40
+
+The World Bank
+
+Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+
+
+
+
+ 24. Improving Water Resources Protection and Use Efficiency - Water Source Protection (Prior Action 4): The fourth
+
+     prior action – regulations on groundwater protection to prevent saline intrusion and land subsidence and
+
+     regulations to improve sand mining management and river works planning to protect water sources - was
+
+     appropriate and relevant in achieving the development objective. The GoV’s commitment to strengthening
+
+     surface and groundwater protection as a key part of its climate program was materialized in Decree No.
+
+     167/2018/ND-CP dated December 26, 2018 on “Regulations on restriction to underground water exploitation”
+
+     to minimize groundwater exploitation and Decree No. 23/2020/ND-CP dated February 24, 2020 on
+
+     “Management of river sand and river protection”. Both decrees seek to impose restrictions on public and
+
+     private entities to protect important resources from further depletion and decentralize the responsibilities of
+
+     planning and management to the sub-national level. Following the issuance of the decrees, selected provinces
+
+     have started to develop their plans and action plans for implementation. Decree 167 established categories for
+
+     groundwater protection (i.e., four different groundwater protection zones) and the respective levels of
+
+     restrictions to exploitation and management measures. For river sand and river management, similarly, there
+
+     was clear guidance on zoning and protection measures in Decree 23. While MONRE continued to be responsible
+
+     for overall framework planning and oversight, the responsibility for groundwater and sand management was
+
+     clearly assigned to the provincial authorities, thereby increasing the accountability and contributing to
+
+     enhancing enforcement on the ground. The prior action was therefore appropriate and relevant to contribute
+
+     to Vietnam’s climate resilient management of landscapes.
+
+
+
+ 25. Improving Water Resources Protection and Use Efficiency - Water Use Efficiency (Prior Action 5): The fifth prior
+
+     action – financial incentives for on-farm irrigation and advanced and efficient irrigation systems as well as
+
+     guidelines for water service fees for irrigation - was appropriate and relevant in achieving the development
+
+     objective. The GoV, since 2018, has adopted the two Decrees focusing on using financial instruments as
+
+     incentives for better water saving practices (Decree No. 77/2018/ND-CP dated May 16, 2018 on “Regulations
+
+     to support the development of small-scale irrigation works, in-field irrigation works and water saving
+
+     irrigation”) and measures for increased irrigation efficiency and water productivity (Decree No. 96/2018/ND-
+
+     CP dated June 30, 2018 on “Regulations on fee of irrigation goods and services, and financial support to using
+
+     public irrigation goods and services”). These policies were the continuation of the measures supported under
+
+     the water resources track of the original DPF series, contributing to further enhancement of the legal and
+
+     institutional framework for water resources management in the agricultural sector and climate-resilient
+
+     agricultural landscape management. Decree 77 provided clear guidance on the different incentives (both in
+
+     terms of enabling infrastructure and financial support) for efficient/water-saving irrigation systems. The roles
+
+     of MARD include technical support and issuance of technical standards/guidelines, while the provincial
+
+     authorities are responsible for specific mechanisms, implementation programs and budgeting. Decree 96
+
+     provided guidelines for pricing irrigation services in line with the Law on Price and built on the volume-based
+
+     fee principle. Although implementation of these decrees has faced many challenges (e.g., technical and
+
+     economic norms, unclear responsibilities at sub-provincial levels, budget shortage, etc.), they were expected
+
+     to contribute to increasing the area of more water-efficient irrigation, especially in the poor and remote areas,
+
+     and thereby directly contributing climate resilient management of landscapes.
+
+
+
+  Pillar 2. Adoption of cleaner transport and energy systems
+
+
+
+
+
+
+
+
+
+                                                                                                          Page 15 of 40
+
+The World Bank
+
+Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+
+
+ 26. Cleaner Transport (Prior Action 6): The sixth prior action – new emissions standards for in-use and imported
+
+     used road motor vehicles - was appropriate and relevant in achieving the development objective. Emissions
+
+     standards encourage the adoption of progressively cleaner fuels in the transport sector, thus leading to a
+
+     reduction in polluting vehicles and therefore reduced local air pollution. Stricter vehicle emissions standards
+
+     are also a particularly efficient way to reduce overall GHG emissions from the sector in Vietnam, by as much as
+
+     5 million tons per year in 2030, or about 5.5 percent of annual GHG emissions under a business-as-usual
+
+     scenario in the same year. Prime Minister Decision No. 16/2019/QD-TTg dated March 28, 2019 applied more
+
+     stringent standards starting in 2020 for in-use vehicles produced after 2008, 2021 for in-use vehicles produced
+
+     between 1999 and 2008, and immediately upon effectiveness of the standard for imported used vehicles.
+
+     Application of these standards were expected to directly contribute to reducing the negative impact on air
+
+     quality and GHG emissions from this “dirty” sub-set of the vehicle fleet. The prior action was therefore
+
+     appropriate and relevant to lead to a cleaner transport sector in Vietnam.
+
+
+
+ 27. Towards a Low-Carbon Energy Transition – Energy Efficiency (Prior Action 7): The seventh prior action –
+
+     adoption of a national energy efficiency program for the period 2019-2030 - was appropriate and relevant in
+
+     achieving the development objective. The program (adopted via Prime Minister Decision No. 280/2019/QD-
+
+     TTg dated March 13, 2019) was expected to lead towards an efficiency rate improvement of between 8 to 10
+
+     percent from the 2019 to 2030 period against a business-as-usual energy demand forecast. This program was
+
+     expected to achieve this target through support to policy development, technical assistance, awareness raising,
+
+     and by serving as a vehicle for resource mobilization that would lead to aggressive efforts to improve demand
+
+     side energy efficiency across sectors. The program also was expected to provide support to the provincial level
+
+     for setting up and implementing their own energy efficiency action plans. Improving energy efficiency was
+
+     considered a least cost option for reducing emissions in the sector by reducing the rate of increase of energy
+
+     demand and avoiding new coal fired power generation. The government recognized that there was a lack of
+
+     technical expertise and understanding by industries, potential service providers and local financial institutions
+
+     on modern energy efficiency technologies and practices and the adoption of this program was expected to
+
+     address this challenge. Ultimately, the prior action contributed to the PDO as the program was expected to
+
+     lead to increased uptake of energy efficiency measures which would directly support the objective of moving
+
+     towards a low-carbon energy transition.
+
+
+
+ 28. Towards a Low-Carbon Energy Transition – Renewable Energy (Prior Action 8): The eighth prior action – revising
+
+     the feed-in tariff and adoption of a standard power purchase agreement for wind power development - was
+
+     appropriate and relevant in achieving the development objective. In early 2017, a revised FIT for utility-scale
+
+     solar photovoltaic led to increased private sector investment (of about 2.7 GW) in new renewable energy
+
+     generation capacity. The prior action (Prime Minister Decision No. 39/2018/QD-TTg dated September 10, 2018
+
+     and MOIT Circular No. 02/2019/TT-BCT dated February 28, 2019) was expected to further incentivize
+
+     investment in both onshore and offshore wind and address financing challenges faced by wind developers (for
+
+     example, reduced risks related to force majeure and technical curtailment). The prior action was expected to
+
+     lead to a significant investment in wind power generation, contributing towards Vietnam’s NDC GHG emission
+
+     reduction goals and renewable energy targets. The prior action was therefore appropriate and relevant to
+
+     contribute to Vietnam’s low-carbon energy transition.
+
+
+
+
+
+
+
+
+
+                                                                                                          Page 16 of 40
+
+The World Bank
+
+Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+
+
+
+
+B. Achievement of Objectives (Efficacy)
+
+
+
+   Rating: Moderately Satisfactory
+
+
+
+  29. The results framework was largely relevant, and the indicators were feasible, clear and measurable with a
+
+      few exceptions. For the improved forest landscape management policy track, targets were set for production
+
+      forests and natural forests whereas tracking of the indicator should have aligned better with the three official
+
+      categories of forests (specialized, protection and production) to better enable tracking of progress. For the
+
+      strengthened resilient planning of Mekong Delta policy track, the indicator that tracked whether the Medium-
+
+      term Investment Plan (MTIP) including coordinated investments as defined in the integrated Regional Master
+
+      Plan (RMP) for the Mekong Delta was difficult to measure and the target was not appropriate given that the
+
+      RMP was actually approved after the MTIP. The indicator for the cleaner transport policy track should have
+
+      been clearer in that it did not need to qualify that emission reductions from in-use vehicles were associated
+
+      with those that were non-compliant with the new emissions standards. There was one case in which the causal
+
+      link between the prior action and its indicator was weak. This was the climate budgeting policy track which
+
+      aimed to measure an increase in public investment allocations for climate change and green growth in four
+
+      sub-sectors under MARD, yet the prior action in itself does not encourage increased investment. Further, given
+
+      that this was a standalone DPF operation, some indicators measured incremental changes, which was
+
+      necessary given the short timeframe between policy adoption and measurements of results. For example, for
+
+      the energy efficiency policy track, the indicator recognized that energy savings associated with the adoption of
+
+      the national energy efficiency program would take time and to measure intermediate progress, the indicator
+
+      would track achievement of provincial implementation, such as the adoption of provincial programs/plans and
+
+      energy savings targets.
+
+
+
+  30. The overall rating for achievement of objectives is moderately satisfactory . Encouraging progress has been
+
+      made towards the achievement of the PDOs in most areas (Table 1). More than half of the eight targets were
+
+      either exceeded (four indicators) or achieved (one indicator) with two indicators partially achieved and one
+
+      other indicator not achieved.
+
+
+
+  31. Progress on pillar 1, climate resilient management of landscapes, was fairly significant with some limitations.
+
+      For results indicator 1 on “number of hectares of production and natural forests with approved sustainable
+
+      forest management plans”, this was only partially achieved because the indicator should have been better
+
+      defined as per above, not because there was limited progress on the amount of forest area that was covered
+
+      by sustainable forest development plans, which was significant. As referenced above, results indicator 2 on
+
+      “medium-term investment plan including coordinated investments as defined in the integrated RMP for the
+
+      Mekong Delta to address multiprovincial issues compounded by climate change” was not met partially because
+
+      the RMP was adopted after the MTIP was approved; however, the RMP itself has been a pioneer for regional
+
+      and climate-informed master planning in Vietnam. Result indicator 3 on “number of sub-sectors with increased
+
+      climate responsive investment under MARD’s annual budget” was partially met with only two of the four
+
+      subsectors with increased climate public investment allocations; however, total climate public spending
+
+      increased indicating an increased focus on climate responsiveness in investments. Targets for result indicators
+
+      associated with improving water resources protection and use efficiency were exceeded [(result 4 on “number
+
+
+
+                                                                                                          Page 17 of 40
+
+The World Bank
+
+Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+
+
+     of provinces establishing groundwater exploitation zones” (24 vs 20 provinces) and results indicator 5 on “area
+
+     of farmland with improved water saving practices applied” (528,624 ha vs 500,000 ha)].
+
+
+
+ 32. Progress in adoption of cleaner transport and energy systems (pillar 2) was notable as results under this
+
+     pillar were either exceeded or achieved. The new emissions standard for in-use and imported used road motor
+
+     vehicles have directly led to the reduction of carbon monoxide (CO) and hydrocarbon (HC) emissions and
+
+     exhaust Hartridge Smoke Units (HSUs) over and above the targets for result indicator 6. The results indicator
+
+     on “percentage on national energy savings (through 2030) committed to in newly adopted provincial energy
+
+     efficiency programs” was fully achieved as a result of prior action 7. Finally, generating capacity of grid-
+
+     connected wind power projects vastly exceeded the target (4 GW as compared to 800 MW) as a direct result
+
+     of prior action 8.
+
+
+
+  Pillar 1. Climate resilient management of landscapes
+
+
+
+      A. Climate Smart Landscape Planning
+
+
+
+  Improved Forest Landscape Management (Result Indicator 1)
+
+
+
+ 33. The result indicator under this reform area was relevant and measurable, but the targets could be refined in
+
+     terms of definition. The result indicator aimed to measure the number of hectares of forests with approved
+
+     sustainable forest management plans. This indicator is relevant for assessing the commitment of the
+
+     Government and the impact of the PA to tackle the huge challenges of overexploitation of resources and
+
+     insufficiency in forest management institution and capacity. The focus on protection and expansion of coastal
+
+     forest is expected to contribute to building resilience of the long vulnerable coastal landscape of Vietnam and
+
+     is an appropriate indicator to assess whether the PDO was achieved. The targets include one for production
+
+     forests (250,000 ha) and one for natural forests (100,000 ha) by the year 2021. However, according to the
+
+     Decree 156 and Circular 28, forests are categorized into three types: specialized forests, protection forest and
+
+     production forests. Natural forest and plantation forest could fall into each of the above categories. Therefore,
+
+     the targets should have been defined for the three categories of forest, instead of production and natural –
+
+     which are not under the same type of categorization.
+
+
+
+ 34. The target was partially achieved in that one sub-target was exceeded (i.e. area of production forests with
+
+     approved sustainable forest management plans) while the other was not trackable. By the end of 2020,
+
+     approximately 1 million hectares of production forests have their forest management plans approved by the
+
+     relevant authorities. While not formally part of the indicator, 2.1 million hectares of specialized forests and 4.6
+
+     million hectares of protection forest also had their forest management plans approved. It is worth mentioning
+
+     that at the time of the ICR, Decree 156 is being revised to address gaps during policy implementation and
+
+     accommodate the changes and new requirements in the recent legal framework (such as the Law on
+
+     Environmental Protection 2020 and Decree 06/2022/ND-CP dated January 07, 2022 on “Regulations on GHG
+
+     emissions and ozone layer protection” as it relates to GHG emission reduction in the forestry sector and the
+
+     mechanism on emission reduction payment under the Paris Agreement).
+
+
+
+  Strengthened Resilient Planning of Mekong Delta (Result Indicator 2)
+
+
+
+ 35. The result indicator under this reform area was difficult to measure and the target for 2021 was not
+
+     appropriate. The Medium-term Investment Plan (MTIP) coordinated by Ministry of Planning and Investment
+
+
+
+                                                                                                            Page 18 of 40
+
+The World Bank
+
+Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+
+
+     for the period 2021-2025 was prepared during 2020-2021 and approved by the National Assembly in late 2021.
+
+     The MTIP includes investment plans which are managed by both central ministries and provincial authorities
+
+     following the Public Investment Law and the Budget Law. The Mekong Delta RMP, however, was only approved
+
+     by the Prime Minister in February 2022. The list of priority investments that seek to address multiprovincial
+
+     issues compounded by climate change, therefore, was not formulated in time to inform the development of
+
+     the MTIP. Furthermore, since the RMP’s priority investment list is quite generic and interprovincial/regional in
+
+     nature (with only names and indicative financing) while the investments in the MTIP are specific ones under
+
+     designated ministries and provinces, there is a need for a clear methodology for identifying and classifying
+
+     investments that are considered “coordinated” and “contributing to addressing multiprovincial issues”. The
+
+     current MTIP included an indicative budget of equivalent to US$2 billion for regional investments in the
+
+     Mekong Delta but does not include specific investment project names.
+
+
+
+ 36. The result indicator was not achieved. This is due to the misalignment in timing of the MTIP and the Mekong
+
+     Delta RMP. The RMP, however, has been viewed in the country as a showcase of a master planning exercise
+
+     which considered the impacts of climate change as the fundamental challenges for (regional) development and
+
+     sustainability, and used climate related data, information and scenarios as one of the key data layers for
+
+     analysis, modelling, scenarios setting and identification of solutions during the planning process.
+
+
+
+      B. Climate Budgeting (Result Indicator 3)
+
+
+
+ 37. The result indicator under this reform area was measurable but could have been defined better to be more
+
+     attributable to the prior action. The methodology for identifying and classifying climate public expenditures
+
+     that was put in place by the prior action was necessary to be able to assess progress on the level of climate-
+
+     responsive public investment under MARD. The number of sub-sectors where an increase was expected was
+
+     based on sub-sectors that constituted the majority of climate public financing under MARD, as confirmed by a
+
+     2015 Climate Public Expenditure and Investment Review commissioned by the World Bank and UNDP. The
+
+     relevance of the indicator to the PDO could have been improved to be more directly attributable to the prior
+
+     action, i.e., to measure capacity of the government to identify, classify and report on climate public
+
+     expenditures, as the prior action in itself would not necessarily lead to an increase of climate public budget
+
+     allocations in the four sub-sectors.
+
+
+
+ 38. The result indicator was partially achieved with increased climate public investment allocations in two of the
+
+     four sub-sectors in MARD from 2016-2020; however, total climate public spending increased. The four
+
+     selected sub-sectors reviewed by MARD were irrigation, forestry, agriculture and fisheries. From 2016 to 2020,
+
+     climate-responsive public investment allocations increased by 62 percent in the irrigation sub-sector and by 8
+
+     percent in the fisheries sub-sector but fell by 57 percent and 42 percent in the forestry and agriculture sub-
+
+     sectors, respectively. As a whole, given that investment in the irrigation sub-sector constituted the majority of
+
+     public investment financing during this period, overall climate public investment spending across the four sub-
+
+     sectors during this period increased by 49 percent, which was larger growth than overall public investment
+
+     spending (33 percent) across the same sub-sectors. The review also compared public investment spending from
+
+     the 2016-2020 period to what was included for the four sub-sectors in the MARD MTIP for 2021-2025. Public
+
+     investment spending in the 2021-2025 MTIP increased as compared to the previous five-year period for all four
+
+     sub-sectors with a 17 percent overall increase as compared to only a 1 percent increase for overall public
+
+
+
+
+
+                                                                                                          Page 19 of 40
+
+The World Bank
+
+Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+
+
+     investment spending for the four sub-sectors. This indicates a continued emphasis on climate responsive public
+
+     investment spending.
+
+
+
+      C. Improving Water Resources Protection and Use Efficiency
+
+
+
+  Water Source Protection (Result Indicator 4)
+
+
+
+ 39. The result indicator under this reform area was relevant and measurable, and the target was appropriate.
+
+     The result indicator aimed to measure the number of provinces establishing groundwater exploitation zones
+
+     following the Decree No. 167/2018/ND-CP dated December 26, 2018. This indicator is relevant for assessing
+
+     the commitment of the Government to strengthening the protection of water resources, and the institutional
+
+     and governance framework for managing water resources, specifically groundwater resource at sub-national
+
+     level, and is an appropriate indicator to assess whether the PDO was achieved.
+
+
+
+ 40. The target was exceeded. Based on the survey of provincial establishment of groundwater exploitation zones,
+
+     by mid-2022 there have been 24 provinces that have approved the groundwater zoning plans. These provinces
+
+     include An Giang, Tuyen Quang, Quang Ngai, Son La, Quang Nam, Lao Cai, Da Nang, Dong Nai, Dong Thap, Ha
+
+     Nam, Lang Son, Gia Lai, Binh Phuoc, Nghe An, Binh Dinh, Ca Mau, Soc Trang, Binh Duong, Gia Lai, Hau Giang,
+
+     Thai Nguyen, Tra Vinh, Ba Ria - Vung Tau, and Bac Kan. This met/exceeded the target of 20 provinces (set for
+
+     the year 2020). However, the Decree stipulated that within three years of effectiveness (i.e., by February 2023),
+
+     all provinces have to complete groundwater zoning. This requires the remaining 43 provinces to accelerate
+
+     their preparation of the zoning plans in the short term in order to meet this overall target of the Decree. Even
+
+     though not listed as the result indicator for this reform area, it is worth noting that for Decree 23, secondary
+
+     data suggests that about one third of provinces in Vietnam have implemented the policy amid high domestic
+
+     demand for sand for construction and that where local governments are slow in formulating underground
+
+     water restriction maps to facilitate implementation of restriction measures, groundwater exploitation is still
+
+     ongoing.
+
+
+
+  Water Use Efficiency (Result Indicator 5)
+
+
+
+ 41. The result indicator under this reform area was relevant and measurable, and the target was appropriate .
+
+     The result indicator aimed to measure the area of farmland with improved water saving practices applied. This
+
+     indicator is relevant for assessing the impact of the policy on incentivizing farmers to adopt water-saving
+
+     techniques and is an appropriate indicator to assess whether the PDO was achieved. However, assessment of
+
+     the implementation of this policy showed different levels of adoption across the provinces, with only 21 out of
+
+     63 provinces issuing relevant policies and strategies at provincial level to implement the Decree 77. The result
+
+     indicator for this PA could have been further enhanced by incorporating an indicator that reflected the
+
+     provincial adoption of the policy by putting in place specific regulations and measures.
+
+
+
+ 42. The target was fully achieved. By mid-2020, 528,624 ha of farmland applied improved water saving practices
+
+     (compared to the target of 500,000 ha). It is, however, important to note that the level of support to farmers
+
+     and farming companies varied in the 21 provinces, with the average of support ranging from 25-45 percent
+
+     value of the irrigation equipment (approximately US$1,000 per ha on average), which is lower than that guided
+
+     in the Decree 77. Limitations in implementation of this Decree in selected provinces, especially in the poorer
+
+
+
+
+
+                                                                                                          Page 20 of 40
+
+The World Bank
+
+Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+
+
+     ones, has led to the request of MARD leadership to revise the Decree to provide better financial incentives (i.e.,
+
+     increase the support ratio to at least 50 percent for the poor provinces) for selected technical solutions and
+
+     expand the beneficiary group to cooperatives and farmers’ groups.
+
+
+
+  Pillar 2. Adoption of cleaner transport and energy systems
+
+
+
+      A. Cleaner Transport (Result Indicator 6)
+
+
+
+ 43. The result indicator under this reform area was relevant and measurable, and the targets were appropriate.
+
+     The result indicator aimed to measure the percentage emission reduction of carbon monoxide (CO) and
+
+     hydrocarbons (HC) as well as exhaust Hartridge Smoke Units (HSU) as a direct result of the adoption of the new
+
+     emissions standards for in-use and imported used road motor vehicles. The indicator could have been better
+
+     worded and excluded the qualifier of in-use vehicles “that do not comply with new emissions standards” as the
+
+     policy applies to both compliant and non-complaint vehicles, though the reduction in emissions is associated
+
+     with the removal of non-compliant vehicles from the road. This indicator is relevant for assessing pollution
+
+     abatement associated with the policy from this subset of the vehicle fleet and is an appropriate indicator to
+
+     assess whether the PDO was achieved.
+
+
+
+ 44. The target was exceeded. Based on an analysis that compared emission reductions associated with the policy
+
+     as compared to a business-as-usual scenario, relative reduction of CO and HC emissions are estimated at 9.86
+
+     percent and 14.76 percent, respectively, for the 2019-2021 period. The relative reduction of exhaust HSUs is
+
+     estimated at 9.21 percent. These exceed or meet the targets of 3, 7 and 9 percent for CO, HC and HSU,
+
+     respectively. The analysis uses vehicle inventory data on quantity, vehicle types, fuel used, and emissions
+
+     standards from the Ministry of Transport and Vietnam Register for 2019-2021 to estimate emissions in a
+
+     business-as-usual scenario and in a “with policy” scenario. These emissions standards continue to be
+
+     implemented and enforced.
+
+
+
+      B. Towards a Low-Carbon Energy Transition
+
+
+
+  Energy Efficiency (Result Indicator 7)
+
+
+
+ 45. The result indicator under this reform areas was relevant and measurable, and the target was appropriate.
+
+     Given the short period between the adoption of the program and the measurement of the indicator, the
+
+     indicator was set as a forward-looking target that would measure the total energy savings commitments made
+
+     in provincial energy efficiency programs/plans that were to be adopted as a result of the national program. The
+
+     indicator was measurable as it would require reviewing and aggregating all of the adopted provincial energy
+
+     efficiency programs/plans that are available. The target of 8 percent was appropriate as it aligned with the
+
+     national level program target.
+
+
+
+ 46. The target was fully achieved. 58 of the 63 provinces have adopted energy efficiency action plans. The overall
+
+     average energy savings target is 5.42 percent for the 2019-2025 period and 8.03 percent for the 2019-2030
+
+     period, in line with the 8 percent target for this DPF as well as the national level program targets of 5-7 percent
+
+     for the 2019-2025 period and 8 -10 percent for the 2019-2030 period. As the plans themselves only include
+
+     percentage targets and not actual energy consumption targets (e.g., in tons of oil equivalent), it is not possible
+
+     to identify the actual aggregated energy savings target for all of the 58 provinces. The average is likely to be an
+
+
+
+                                                                                                            Page 21 of 40
+
+The World Bank
+
+Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+
+
+        underestimate as it includes provinces which have lower energy consumption and fewer designated energy
+
+        users (DEUs). When averaging targets of provinces which have more than 50 DEUs, which account for more
+
+        than 75 percent of the total DEUs in 2020, the average energy savings targets are 5.82 and 8.56 percent
+
+        respectively for the 2019-2025 and 2019-2030 periods. In addition to directly leading to the adoption of the
+
+        provincial action plans/programs, the program has also supported the development of the annual list of DEUs
+
+        that is approved by the Prime Minister and circulars on energy consumption benchmarks in key industrial
+
+        sectors. The program is also supporting training courses for hundreds of energy managers and auditors in
+
+        provinces as well as successful awareness raising initiatives including awards for private sector achievements
+
+        in energy efficiency in industry, buildings, and products/appliances.
+
+
+
+   Renewable Energy (Result Indicator 8)
+
+
+
+  47. The result indicator under this reform area was relevant and measurable, and the target was appropriate.
+
+      The indicator aimed to measure the direct impact of the prior action towards the expansion of wind power
+
+      capacity in Vietnam. The indicator was relevant as the increase could be directly linked to the prior action and
+
+      increasing wind power generation would directly contribute to a cleaner energy system and therefore the PDO.
+
+      The indicator was also measurable as new power grid connections are regularly monitored and reported by
+
+      EVN. Even though a significant pipeline of potential projects had been generated by the time of the operation’s
+
+      approval, the target of 800 MW (as compared to a baseline of 300 MW) was appropriate as it aimed to consider
+
+      the lag time required for large infrastructure projects.
+
+
+
+  48. The results indicator target was exceeded. Since the approval of the DPF operation, about 4GW of privately
+
+      financed (and operated) wind-based power projects have been commissioned as noted by EVN report No.
+
+      6742/EVN-TTD on wind energy projects dated November 2, 2021. The expansion of wind energy sector was
+
+      higher than what was anticipated in the results indicator of the DPF (target of 800 MW of wind power capacity
+
+      installed). Based on the average capital cost of $1.2 billion per GW of wind power capacity15, this indicates an
+
+      estimated deployment of $4.8 billion in private investment from mostly domestic independent power
+
+      producers. The FIT expired at the end of October 2021 as planned and there remains uncertainty about future
+
+      pricing of wind power. Decision 39 (part of the prior action) indicated that a reverse auction system would
+
+      replace the FIT although that has not yet materialized. Vietnam’s Power Development Plan 8, in draft mode as
+
+      of this ICR, anticipates wind power to lead the next phase of Vietnam’s renewable energy transition with 18
+
+      GW of wind needed by 2030 and an estimated 42.7 GW of onshore wind and 54 GW of offshore wind by 2045.
+
+      This will require massive investments and an incentive framework to support it.
+
+
+
+
+
+C. Overall Outcome Rating and Justification
+
+
+
+   Rating: Moderately Satisfactory
+
+
+
+  49. The overall outcome is rated moderately satisfactory. This overall rating arises from the ratings for relevance
+
+      of prior actions (satisfactory), and for achievements of objectives/efficacy (moderately satisfactory). Of the
+
+      eight reform areas, the prior actions were appropriately chosen to support all reform areas, whereas the results
+
+
+
+
+
+
+
+   15   Bank staff estimates based on industry standards and IEA data.
+
+
+
+
+
+                                                                                                          Page 22 of 40
+
+ The World Bank
+
+ Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+
+
+      indicators to measure the gains were only fully achieved in five of the eight reform areas: water source
+
+      protection, water use efficiency, cleaner transport, energy efficiency, and renewable energy.
+
+
+
+
+
+  50. Progress has been made with the remaining three reform areas, but either fell short of achieving the desired
+
+      targets or the indicators could have been better defined. On improved forest landscape management, while
+
+      one of the two targets was exceeded substantially, the other indicator/target was defined incorrectly. If this
+
+      indicator had been defined correctly, it would have also been fully achieved. On strengthening resilient
+
+      planning of Mekong Delta, the list of priority investments that seek to address multiprovincial issues
+
+      compounded by climate change was not formulated in time to inform the development of the MTIP. Even
+
+      though the MTIP included an indicative budget for multiprovincial investments addressing climate change
+
+      challenges, it was not possible to confirm that the target was achieved at the time of reporting. On climate
+
+      budgeting, there were increased climate public investment allocations in two of the four sub-sectors in MARD
+
+      from 2016-2020; however, total climate public spending across the four sub-sectors increased.
+
+
+
+
+
+III. OTHER OUTCOMES AND IMPACTS
+
+
+
+A. Poverty, Gender and Social Impacts
+
+
+
+  51. An ex-post review was conducted vis-a-vis the ex-ante findings from the 2019 PSIA report. The review
+
+      focused on potential direct and indirect impacts on the poor/vulnerable groups that may be affected by the
+
+      prior actions. A desk review was conducted for 4 out of 8 prior actions, including Prior Actions #1, 4, 5, and 8.
+
+      These were selected for the review because these policies were anticipated by the PSIA to cause direct and/or
+
+      indirect impacts on poor/vulnerable groups. The remaining four Prior Actions (PA #2, 3, 6, and 7) were not
+
+      reviewed because these policies target non-poor groups and are not anticipated to create any potential direct
+
+      and/or indirect adverse impacts on the poor/vulnerable groups. Secondary data were collected from the public
+
+      domain and select expert opinion was used for the ex-post review.
+
+
+
+  52. Prior action # 1, including Decree 156 and Circular 28 which aim to translate the Law on Forestry (2017) into
+
+      practice, has delivered its overall intended positive impacts. Key positive impacts include overall improved
+
+      management, use and protection of forest across the country. Forest dependent households and communities,
+
+      especially ethnic minority (EM) communities, continue to have access to forest land they depend on for their
+
+      livelihoods. Their right to use forest land is recognized legally – through local government’s effort in allocation
+
+      of forest land to local people – through land titles. Land titles do not only ensure land use rights for those
+
+      dependent on land but also encourage them to make financial and labor investment to generate additional
+
+      income. Land titles can also be used as collateral for loan borrowing. As a result, forest coverage at country
+
+      level has increased and has been protected through increased participation of those who have land titles to
+
+      land and through Payment for Ecosystem Services. Customary rights to forest land use by ethnic minorities are
+
+      ensured through allocation of forest land to EM communities.
+
+
+
+  53. Prior action #4, including Decree 23 and Decree 167, has delivered its overall intended positive impacts albeit
+
+      enforcement is slow. Decree 23, which strengthens protection of riverbed, riverbank and riverside – through
+
+      regulating exploitation of sand, riverbed gravel, etc., involves a wide range of stakeholders (government and
+
+
+
+                                                                                                             Page 23 of 40
+
+The World Bank
+
+Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+
+
+      private sector). The main target group of this policy are organizations and individuals who are adversely
+
+      affected through income loss due to restricted exploitation of river sand and gravel. Secondary data suggested
+
+      that about one third of the provinces in Vietnam have implemented the policy amid high domestic demand of
+
+      sand for construction. For Decree No. 167/2018/ND-CP, the key policy target group is private sector, including
+
+      companies and individuals who are engaged in exploitation of groundwater. Secondary data suggested that
+
+      where local governments are slow in formulating underground water restriction maps to facilitate
+
+      implementation of restriction measures, groundwater exploitation is still ongoing. In critical areas,
+
+      groundwater overuse may increase the risk of lowered water table, reduced surface water supplies and quality,
+
+      and land subsidence.
+
+
+
+  54. Prior action #5 has been delivering initial positive impacts as intended despite lack of incentives to private
+
+      sector to invest in irrigation to improve irrigation access for farming communities, particularly in areas where
+
+      irrigation access is essential for people to maintain their means of livelihood. The review, based on secondary
+
+      information, suggested that the policy has some constraints to effective implementation, including a) lack of
+
+      investment budget at local level; and b) application of advanced/water saving technologies not always being
+
+      suitable to all farming conditions. As a result, some poor and vulnerable population who need access to reliable
+
+      irrigation for agricultural production cannot benefit from the policy due to the lack of (i) matching funds on the
+
+      part of the investors (i.e. organizations/individuals), and more importantly, (ii) the willingness and affordability
+
+      of the poor in paying irrigation fees. Also, advanced/water saving techniques are not always suitable to all
+
+      farming systems. This might exacerbate livelihood difficulties of the poor, especially of those whose farming
+
+      activities are rainfed and rely on access to irrigation for food security and livelihood improvement.
+
+
+
+  55. Prior action #8 has delivered its intended impacts to enable the private sector to invest in wind power, albeit
+
+      there have been some technical constraints that slowed down their scheduled operation which result in loss
+
+      of expected income. Social impacts (site-specific) are apparent, including land acquisition (both permanent and
+
+      temporary) for installation of turbine towers, construction of internal roads, and transmission lines. Social risks
+
+      are still existent during operation stage, particularly for plants located onshore, including flicker, noise from
+
+      turbine operation, and blade throw.
+
+
+
+  56. With regards to social risk management, prior actions have identified key, broad social risks – at national
+
+      levels. However, management of social risk at local level is not managed consistently towards the expected
+
+      outcomes of the prior actions because of slow or inconsistent enforcement. As a result, management of social
+
+      risks at local level is working but is more ad-hoc, depending on the perceived and observed social risks at
+
+      specific sites (e.g. response actions are typically taken quickly for areas where riverbank erosion has developed
+
+      to the level that increases the chance of collapse which affects assets, crops, livelihood, and lives of local
+
+      people). A time-bound approach and consistent enforcement/committment is essential at regional and
+
+      provincial levels to ensure social risks at local level are identified and managed effectively – through measures
+
+      that engage full and accoutable participation of both potentially affected and interested stakeholders. It is also
+
+      a good practice to estimate and manage residual risks after measures to manage identified risks have been
+
+      accounted for.
+
+
+
+
+
+B. Environmental, Forests, and Natural Resource Aspects
+
+
+
+
+
+                                                                                                              Page 24 of 40
+
+The World Bank
+
+Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+
+
+  57. The policies supported by this DPF operation have had a positive impact on environmental, forests, and
+
+      natural resources aspects, as articulated in the preceding sections . For example, PA3 has led to increased
+
+      public investment in climate resilience. PA6 has led to a cleaner vehicle fleet with reduced local air pollutants.
+
+      PA8 has led to increased investment in wind energy which displaces fossil fuel energy sources and contributes
+
+      to both GHG emissions reductions and decreased air pollution.
+
+
+
+
+
+  58. While there were not any anticipated significant adverse environmental impacts associated with the prior
+
+      actions, the DPF Program Document analyzed the system to address such effects if they were to occur. The
+
+      legal framework governing this system has since been revised to address adverse environmental impacts. This
+
+      section reports on key changes.
+
+
+
+
+
+  59. The Vietnam National Assembly ratified the revised Law on Environmental Protection No. 77/2020/QH14 on
+
+      November 17, 2020. This law16 stipulates (i) the environmental protection activity17, and (ii) right, duty and
+
+      responsibility of entities, organizations, communities, households and individuals for environmental
+
+      protection. Supporting the implementation of the Law is Decree No. 08/2022/ND-CP dated January 10, 2022,
+
+      and Circular 02/2022/TT-BTNMT dated January 10, 2022. The Decree and Circular provide the guidance and
+
+      mechanism particularly mandatory requirements to address adverse environmental impacts through the
+
+      implementation of environmental assessment (EA) instruments including Strategic Environmental Assessment
+
+      (SEA) and Environmental Impact Assessment (EIA). As per Articles 26, 27 and 33 of the Law, the EA process
+
+      requires a mandatory consultation with key stakeholders to aim at setting up mitigation measures for potential
+
+      adverse environmental impacts and finalizing EA process (i.e., SEA or EIA), and ensuring the sustainable
+
+      development of a strategy, planning or project and thus to improve decision making.
+
+
+
+
+
+
+
+  60. Depending on the scale, type, the size of acquired area including land, wetland and sea, and sensitivity, an
+
+      investment project is classified into one of four Categories18 including I, II, III and IV. Investment projects are
+
+      classified as Categories I and II19 required to have an EIA and the EIA is reviewed and endorsed by MONRE.
+
+      Dedicated environmental trainings are provided by MONRE’s Training Centre to designated staff of relevant
+
+      government agencies from central to local levels to improve their environmental appraisal and monitoring
+
+      capacity.
+
+
+
+
+
+C. Institutional Change/Strengthening
+
+
+
+  61. The policy dialogue supported by this DPF and associated advisory services and analytics (ASA) strengthened
+
+      the government’s institutional capacity to undertake climate reforms. Building off the lessons and
+
+
+
+
+
+   16 This Law replaced Law on Environmental Protection No. 55/2014/QH13.
+
+   17 Including (i) prevention and minimization of adverse environmental impacts, (ii) response to environmental incidents, (iii) environmental
+
+   pollution and degradation remedy, and environmental quality improvement, (iii) efficient use of natural resources, biodiversity and
+
+   response to climate change.
+
+   18 Category I: highly adverse environmental impacts; Category II: adverse environmental impacts; Category III: low adverse environmental
+
+
+
+   impacts; Category IV: no adverse environmental impacts.
+
+   19 Stipulated at points c, d, đ, and e of Item 4 Article 28.
+
+
+
+
+
+
+
+
+
+                                                                                                                                 Page 25 of 40
+
+ The World Bank
+
+ Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+
+
+      experiences from the SP-RCC, the World Bank provided support towards the development of an
+
+      implementation support program for Vietnam’s NDC. Informed by this support, the Prime Minister adopted
+
+      the Scheme on tasks and solutions to implement COP26 in Decision No. 888/QD-TTg on July 25, 2022. This
+
+      Scheme serves as the formal government program to support the government’s implementation of Vietnam’s
+
+      COP26 net zero commitments. The Scheme, which is funded by the state budget and is under the oversight of
+
+      a new National Steering Committee to implement Vietnam’s COP commitments, would strengthen capacity of
+
+      the government to implement key policy reforms to support these commitments.
+
+
+
+
+
+D. Other Unintended Outcomes and Impacts
+
+
+
+   N/A
+
+
+
+
+
+
+
+
+
+IV. BANK PERFORMANCE
+
+
+
+
+
+   Rating: Satisfactory
+
+
+
+   Bank Performance at Preparation Phase
+
+
+
+  62. The analytical underpinnings of the operation at entry were strong and relevant. The analytic underpinnings
+
+      for the reform areas came from studies and technical assistance conducted by the World Bank. The World Bank
+
+      provided technical assistance to MARD to strengthen the technical quality of the criteria for classification of
+
+      coastal protection forests. Further, the extensive World Bank engagement in the Mekong Delta (both ASA and
+
+      Investment Project Financing - IPF) has directly supported the evidence-base, planning and coordination to
+
+      facilitate the development of the integrated regional master plan for the Mekong Delta. Building on a Climate
+
+      Public Expenditure and Investment Review supported by the World Bank and UNDP in 2015, the MPI Guidelines
+
+      for the identification, classification and reporting of public investment allocations related to climate change
+
+      and green growth also benefited from direct technical assistance from the World Bank. The World Bank’s
+
+      extensive lending engagement on irrigation also directly informed the policy reforms supported by the
+
+      operation. The analytical basis for the impact of policy reforms under Pillar 2 were supported by World Bank
+
+      modeling in the transport and energy sectors.
+
+
+
+  63. The design of the operation reflected lessons learned in the implementation of the previous climate change
+
+      and green growth DPF series in Vietnam. Given the cross-sectoral nature of the operation, there was a strong
+
+      World Bank engagement at both sector and coordinating level across ministries. This also included providing
+
+      complementary technical assistance to support the analytical basis and providing guidance to enhance the
+
+      quality of the reforms and to ensure they are tailored to needs. M&E arrangements of the operation were also
+
+      largely aligned with the government’s own monitoring of policy impacts, which was especially important given
+
+      the short time period for measurement of progress. However, indicators and/or targets for the “improved
+
+
+
+
+
+
+
+                                                                                                         Page 26 of 40
+
+The World Bank
+
+Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+
+
+     forest landscape management”, “strengthened resilient planning of Mekong Delta”, “climate budgeting” and
+
+     “cleaner transport” policy reform areas could have been better defined, as discussed in Section B.
+
+
+
+ 64. The risks were appropriately defined, and mitigation measures were adequate. The overall risk rating was
+
+     rated substantial due to sector strategies and policies risks, technical design of program risks, and institutional
+
+     capacity for implementation and sustainability risks. First, sector strategies and policies risk was rated
+
+     substantial because a number of policies (e.g., regional planning, water, and energy) were expected to involve
+
+     complex political economy challenges in their delivery. This risk has not been a factor to the achievement of
+
+     the indicator. For energy, this has not had any impact on the results as wind energy installed capacity has seen
+
+     a dramatic increase as a result of the policies supported by the operation. Mitigation measures relied on
+
+     continued technical engagement in these sectors, which has contributed to reducing the potential risks.
+
+     Second, technical design and institutional capacity risks were rated substantial because of the multi-sectoral
+
+     nature of the program which may delay achievement of targets and because implementation of some policies
+
+     will require long-term capacity to support implementation. The mitigation measures identified, including
+
+     parallel IPF and ASA support from the World Bank to enhance policy development, implementation and
+
+     monitoring support helped mitigate risks associated with this.
+
+
+
+ 65. Coordination with other development partners through the SP-RCC was adequate, however some
+
+     momentum was lost when it became clear that the SP-RCC would end in 2020 with no immediate follow-up
+
+     program or policy lending to support it. Building off the engagement from the previous DPF series, the SP-RCC
+
+     was a useful model that brought MONRE, key line ministries, and development partners (namely, Agence
+
+     Française de Développement and Japan International Cooperation Agency) that provide parallel budget
+
+     support to the operation. While policy dialogue during the formal SP-RCC meetings was often more process-
+
+     oriented, the program provided an effective platform for the three DPs to support MONRE and the relevant
+
+     line ministries with technical assistance and policy support. As the implementation of the SP-RCC was only
+
+     scheduled to go through 2020, cross-ministerial policy dialogue and coordination formally conducted through
+
+     the SP-RCC became less meaningful over time and the World Bank (and other DPs) had to go through other
+
+     channels to engage in policy dialogue and monitor progress.
+
+
+
+
+
+  Bank Performance at Implementation Phase
+
+
+
+ 66. The World Bank adequately assessed and responded to the government’s implementation capacity in the
+
+     reform areas covered by this operation. The government’s commitment to the reforms was established in the
+
+     preceding DPF series and in the preparation stage of this operation, as evidenced by the successful and
+
+     sustained adoption of prior actions and the achievement of the results indicators. The Bank considered the
+
+     client’s capacity in delivering the targets, largely by ensuring that they were of adequate ambition to ensure
+
+     they were achievable within the short time period of the operation and that they were aligned with the
+
+     mandates of the relevant ministries. This also helped in monitoring progress against the indicators. For
+
+     example, the energy efficiency indicator measures the aggregate energy savings committed to in newly
+
+     adopted provincial energy efficiency programs rather than attempting to assess energy savings as a result of
+
+     the program to date, which would have been more outcome-oriented but would have been difficult to achieve
+
+     and/or measure given the short time period. Where additional support was required to monitor progress, this
+
+
+
+
+
+
+
+                                                                                                            Page 27 of 40
+
+ The World Bank
+
+ Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+
+
+          was identified early on. For example, the Bank mobilized support to help assess progress against the transport
+
+          indicator.
+
+
+
+
+
+   67. Given that this was a single operation and not a series of operations, the DPF team did not partake in regular
+
+       implementation support missions following Board approval. While all policy reform areas covered by the
+
+       operation were also being supported through parallel World Bank sectoral support, regular and structured
+
+       discussions to support the monitoring of policy progress with MONRE and relevant line ministries would have
+
+       augmented policy dialogue in these reform areas and potentially realized impact beyond the immediate
+
+       impacts of the results indicators. This could also have impacted the ability to link policy dialogue on these
+
+       specific policy reform areas with the broader climate change and green growth agenda following the approval
+
+       of the operation.
+
+
+
+
+
+
+
+
+
+V. RISK TO SUSTAINABILITY OF DEVELOPMENT OUTCOMES
+
+
+
+   68. The sustainability of the operation’s development outcomes does not face substantial risks. All of the policy
+
+       reform areas continue to be a priority for the government since the approval of the operation. The latest Socio-
+
+       Economic Development Strategy (2021-2030) recognizes that economic growth to date in Vietnam has
+
+       unsustainably affected Vietnam’s natural capital and that the country’s ambitions of reaching high income
+
+       status by 2045 depend on the better management of natural capital. The government has also recently taken
+
+       bolder international climate commitments, including the Prime Minister’s declaration that Vietnam would
+
+       reach net-zero GHG emissions by 2050 at COP2620, the commitment to halt deforestation by 2030 and to slash
+
+       methane emissions by 30 percent from 2020 levels by 2030, and the commitment to end all investment in new
+
+       coal power generation, scale up renewable energy deployment and phase out coal power by the 2040. These
+
+       have been translated into new, more ambitious green growth and climate change strategies.
+
+
+
+
+
+
+
+VI. LESSONS AND NEXT PHASE
+
+
+
+
+
+ A. Lessons Learned
+
+
+
+
+
+   69. Climate DPFs are effective in supporting the whole-of-government cross-sectoral approach required to
+
+       address the complex nature of climate change and climate policy. This allowed the World Bank to bring
+
+       together a wide set of sectoral expertise in advocating and providing technical support for impactful policy
+
+       reforms. Like the series before it, this DPF operation brought together a broad team across World Bank global
+
+       practices, including Environment, Water, Agriculture, Transport, Energy and Social. This ensured that all policy
+
+
+
+
+
+    20   https://en.baochinhphu.vn/full-remarks-by-pm-pham-minh-chinh-at-cop26-11142627.htm.
+
+
+
+
+
+                                                                                                            Page 28 of 40
+
+The World Bank
+
+Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+
+
+        reform areas and prior actions were rooted in existing sectoral dialogue and that there was a strong analytical
+
+        basis for the reforms supported.
+
+
+
+ 70. Programmatic engagements are necessary to influence policy reforms in Vietnam. While this was a stand-
+
+     alone DPF operation, it was, in essence, a continuation of the lapsed DPF series and therefore it benefited from
+
+     the programmatic nature of this engagement. The long-standing climate DPF engagement in Vietnam
+
+     (spanning almost a decade) built trust with the government on this reform agenda which also helped ensure
+
+     that the high-quality analytics developed in support or complementary to the engagement had a receptive
+
+     audience. While difficult to attribute, the programmatic engagement that culminated with this DPF was an
+
+     important contributor to broader climate reform goals, including the more ambitious commitments made in
+
+     the lead-up to and at COP26. It also laid the groundwork for the recently released Country Climate and
+
+     Development Report (CCDR)21. The roll-out of the CCDR offers an opportunity to continue and deepen dialogue
+
+     on climate policy reform and implementation as the CCDR identifies actions and options for both the public
+
+     and private sector to build climate resilience, achieve the country’s pledge of net-zero greenhouse gas
+
+     emissions by 2050, and advance socioeconomic development, all while ensuring a “just transition” to support
+
+     households disrupted by the shift to a climate-resilient, low-carbon economy.
+
+
+
+ 71. Leveraging complementarity in World Bank instruments is effective in supporting policy reforms. For
+
+     example, dialogue supported by IPFs, including the Forest Sector Modernization and Coastal Resilience
+
+     Enhancement Project (P157127), the Mekong Delta Integrated Climate Resilience and Sustainable Livelihoods
+
+     Project (P153544) and Vietnam Irrigated Agriculture Improvement Project (P130014), Vietnam Energy
+
+     Efficiency for Industrial Enterprises (P151086) all contributed to enhance the quality of technical dialogue
+
+     around the potential reforms. These were coupled with a multi-sector ASA program, the Supporting Systematic
+
+     Action to Implement Vietnam’s NDC program (P171403), which brought substantive technical expertise and
+
+     coordination support to the DPF engagement.
+
+
+
+ 72. A multi-sectoral government program on climate policy development is largely effective in enhancing
+
+     development partner coordination, though there is room for improvement. As referenced above, the SP-RCC
+
+     was initially an effective platform that brought together three DPs with parallel policy lending and associated
+
+     ASA to enhance the development and implementation of the reforms. Regular reviews of policy development
+
+     and reporting to the Prime Minister were useful for accountability between MONRE and other participating
+
+     line ministries. However, as the program (and policy lending) reached its end, the quality of policy dialogue and
+
+     coordination diminished. Further, development partners that were not providing policy lending did not actively
+
+     engage in the policy dialogue, which was a lost opportunity for further development partner coordination. This
+
+     highlights the importance of a program with a longer time-horizon, that is not only rooted in policy lending to
+
+     be inclusive of key DPs, and continued high-level chairpersonship within the government to ensure continued
+
+     momentum. It will be important that these lessons materialize in the implementation of the Scheme on tasks
+
+     and solutions to implement COP26 (that was adopted by Decision No. 888/QD-TTg on July 25, 2022).
+
+
+
+ 73. While M&E arrangement of the operation were mostly appropriate, an enhanced focus on M&E is essential
+
+     given the complexity of a cross-sectoral operation. As referenced above, there were a few issues with how
+
+
+
+
+
+  21   https://openknowledge.worldbank.org/handle/10986/37618.
+
+
+
+
+
+                                                                                                           Page 29 of 40
+
+The World Bank
+
+Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+
+
+      results indicators (e.g., result indicator 1) and targets (e.g., result indicator 2) were defined. While the policy
+
+      matrix went through several rounds of discussions with MONRE and relevant line ministries, an even further
+
+      concerted focus on the definition of results indicators and targets would have been beneficial and could have
+
+      contributed to a higher outcome rating for the operation.
+
+
+
+
+
+
+
+B. Next Phase
+
+
+
+  74. There is a constrained lending environment for DPF operations in Vietnam, which limit the potential for
+
+      further climate change and green growth DPF operations in the near future. Government regulations on
+
+      management and utilization of loans have made it exceedingly difficult for DPF operations to materialize in the
+
+      near-term. Given that, continued support on policy reforms will need to be undertaken through advisory
+
+      services and analytics which can be linked with IPF. The recently launched CCDR provides an analytical basis
+
+      for further support, with a focus on Vietnam embracing a new development paradigm that incorporates two
+
+      critical pathways (resilient and decarbonizing) that will help it balance development goals with growing climate
+
+      risks. The CCDR identified five priority policy packages that require the most immediate attention by
+
+      government and represent the most urgent public and private investments needed to achieve adaptation and
+
+      mitigation goals: (i) A coordinated regional program for the Mekong Delta; (ii) an integrated coastal resilience
+
+      investment program for main urban centers and connecting infrastructure; (iii) a targeted air pollution
+
+      reduction program in the Hanoi airshed to reach the WHO interim target by 2030 and enhance labor
+
+      productivity gains; (iv) acceleration of the clean energy transition; and (v) a new social contract to protect the
+
+      most vulnerable people. These five areas build on policy reform areas of this DPF operation and the lapsed
+
+      preceding DPF series, namely the reform area on strengthened resilient planning of Mekong Delta under pillar
+
+      1 and the entirety of pillar 2 on the adoption of cleaner transport and energy systems. Policy tracks of the
+
+      preceding DPF series where these policy packages build on include those on integrated coastal zone
+
+      management and air quality management.
+
+
+
+
+
+
+
+
+
+                                                                                                             Page 30 of 40
+
+     The World Bank
+
+     Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+
+
+                                                             ANNEX 1. RESULTS FRAMEWORK
+
+
+
+
+
+
+
+
+
+      .
+
+RESULTS INDICATORS
+
+
+
+ Pillar: Climate Resilient Management of Landscapes
+
+ Indicator Name                      Unit of Measure       Baseline                       Target                       Actual Achieved at Completion
+
+ Number of hectares of                Text                 151,000 ha (production          250,000 ha (production       1 million ha (production forest); 2.1
+
+ production and natural forests                            forest); 86,000 ha (natural     forest); 100,000 ha          million ha (specialized forest); 4.6
+
+ with approved sustainable                                 forests)                        (natural forests)            million ha (protection forest)
+
+ forest management plans
+
+                                                           31-Dec-2018                     30-Jun-2021                  31-Dec-2020
+
+
+
+
+
+ Comments (achievements against targets):
+
+The target was partially achieved. The "production forest" target was substantially exceeded. However, according to the Decree 156 and Circular 28, forests
+
+are categorized into three types: specialized forests, protection forest and production forests. Natural forest and plantation forest could fall into each of the
+
+above categories. Therefore, the targets should have been defined for the three categories of forest, instead of production and natural.
+
+
+
+
+
+
+
+
+
+ Indicator Name                      Unit of Measure       Baseline                       Target                       Actual Achieved at Completion
+
+ Medium-Term Investment Plan          Yes/No               No                              Yes                          No
+
+ includes coordinated
+
+ investments as defined in the                             31-Dec-2018                     30-Jun-2021                  30-Jun-2021
+
+ Integrated Regional Master
+
+ Plan for the Mekong Delta to
+
+
+
+
+
+                                                                                                                                                Page 31 of 40
+
+     The World Bank
+
+     Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+
+
+ address multiprovincial issues
+
+ compounded by climate
+
+ change
+
+
+
+
+
+ Comments (achievements against targets):
+
+The target was not achieved. The list of priority investments that seek to address multiprovincial issues compounded by climate change, therefore, was not
+
+formulated in time to inform the development of the MTIP. Furthermore, since the RMP’s priority investment list is quite generic and
+
+interprovincial/regional in nature (with only names and indicative financing) while the investments in the MTIP are specific ones under designated
+
+ministries and provinces, there is a need for a clear methodology for identifying and classifying investments that are considered “coordinated” and
+
+“contributing to addressing multiprovincial issues”.
+
+
+
+
+
+
+
+
+
+ Indicator Name                     Unit of Measure      Baseline                      Target                      Actual Achieved at Completion
+
+ Number of sub-sectors with         Number               0.00                          4.00                        2.00
+
+ increased climate-responsive
+
+ investment under the Ministry                           31-Dec-2018                   30-Jun-2021                 30-Jun-2021
+
+ of Agriculture and Rural
+
+ Development’s annual budget
+
+
+
+
+
+ Comments (achievements against targets):
+
+The target was partially achieved with increased climate public investment allocations in two of the four sub-sectors in MARD from 2016-2020; however,
+
+total climate public spending increased across the four sub-sectors.
+
+
+
+
+
+
+
+
+
+                                                                                                                                          Page 32 of 40
+
+    The World Bank
+
+    Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+
+
+
+
+ Indicator Name                    Unit of Measure      Baseline      Target                    Actual Achieved at Completion
+
+ Number of provinces               Number               0.00          20.00                     24.00
+
+ establishing groundwater
+
+ exploitation zones                                     31-Dec-2018   30-Jun-2021               30-Sep-2022
+
+
+
+
+
+ Comments (achievements against targets):
+
+The target was exceeded.
+
+
+
+
+
+
+
+
+
+ Indicator Name                    Unit of Measure      Baseline      Target                    Actual Achieved at Completion
+
+ Area of farmland with             Hectare(Ha)          320,000.00    500,000.00                528,624.00
+
+ improved water saving
+
+ practices applied                                      31-Dec-2018   30-Jun-2021               31-Dec-2020
+
+
+
+
+
+ Comments (achievements against targets):
+
+The target was fully achieved.
+
+
+
+
+
+
+
+
+
+ Pillar: Adoption of cleaner transport and energy systems
+
+ Indicator Name                    Unit of Measure      Baseline      Target                    Actual Achieved at Completion
+
+ Percent emissions reductions      Text                 0.00          3 percent (CO); 7         10 percent (CO); 15 percent (HC); 9
+
+ of carbon monoxide (CO),                                             percent (HC); 9 percent   percent (HSU)
+
+ hydrocarbons (HC) and                                                (HSU)
+
+
+
+
+
+                                                                                                                       Page 33 of 40
+
+    The World Bank
+
+    Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+
+
+ Hartridge Smoke Unit (HSU)
+
+ from imported used and in-use
+
+ vehicles that do not comply                        31-Dec-2018   30-Jun-2021   31-Dec-2021
+
+ with new standards (as
+
+ compared to BAU)
+
+
+
+
+
+ Comments (achievements against targets):
+
+The target was exceeded.
+
+
+
+
+
+
+
+
+
+ Indicator Name                  Unit of Measure    Baseline      Target        Actual Achieved at Completion
+
+ Percentage national energy      Percentage         0.00          8.00          8.00
+
+ savings (through 2030)
+
+ committed to in newly adopted                      31-Dec-2018   30-Jun-2021   30-Jun-2021
+
+ provincial energy efficiency
+
+ programs
+
+
+
+
+
+ Comments (achievements against targets):
+
+The target was fully achieved.
+
+
+
+
+
+
+
+
+
+ Indicator Name                  Unit of Measure    Baseline      Target        Actual Achieved at Completion
+
+ Generating capacity of grid-    Megawatt           300.00        800.00        4,000.00
+
+ connected wind power in
+
+ Vietnam                                            31-Dec-2018   30-Jun-2021   02-Nov-2021
+
+
+
+
+
+
+
+                                                                                                     Page 34 of 40
+
+    The World Bank
+
+    Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+
+
+
+
+ Comments (achievements against targets):
+
+The target was exceeded.
+
+
+
+
+
+
+
+     .
+
+
+
+
+
+
+
+
+
+                                                    Page 35 of 40
+
+    The World Bank
+
+    Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+
+
+                 ANNEX 2. BANK LENDING AND IMPLEMENTATION SUPPORT/SUPERVISION PROCESSES
+
+
+
+
+
+
+
+
+
+A. TASK TEAM MEMBERS
+
+
+
+
+
+Name                                                 Role
+
+Preparation
+
+Stephen Ling, Thu Thi Le Nguyen                      Task Team Leader(s)
+
+
+
+Cung Van Pham                                        Financial Management Specialist
+
+
+
+Marius Kaiser                                        Peer Reviewer
+
+
+
+Thi Ba Chu                                           Team Member
+
+
+
+Rahul Kitchlu                                        Team Member
+
+
+
+Ashraf Bakry El-Arini                                Team Member
+
+
+
+Quyen Thuy Dinh                                      Team Member
+
+
+
+Jung Eun Oh                                          Team Member
+
+
+
+Giang Tam Nguyen                                     Team Member
+
+
+
+Martin Henry Lenihan                                 Team Member
+
+
+
+Ky Hong Tran                                         Team Member
+
+
+
+Taisei Matsuki                                       Team Member
+
+
+
+Diji Chandrasekharan Behr                            Team Member
+
+
+
+Alexander Lotsch                                     Team Member
+
+
+
+Franz Gerner                                         Team Member
+
+
+
+Giovanni Ruta                                        Peer Reviewer
+
+
+
+Christophe de Gouvello                               Peer Reviewer
+
+
+
+Lan Thi Thu Nguyen                                   Team Member
+
+
+
+
+
+                                                                                          Page 36 of 40
+
+        The World Bank
+
+        Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+
+
+    Viet Tuan Dinh                                      Team Member
+
+
+
+    Annette I. De Kleine Feige                          Team Member
+
+
+
+    Cuong Hung Pham                                     Team Member
+
+
+
+    Supervision/ICR
+
+    Thu Thi Le Nguyen                                   Task Team Leader(s)
+
+    Cung Van Pham                                       Financial Management Specialist
+
+    Marius Kaiser                                       Peer Reviewer
+
+    Thi Ba Chu                                          Team Member
+
+    Rahul Kitchlu                                       Team Member
+
+    Ashraf Bakry El-Arini                               Team Member
+
+    Quyen Thuy Dinh                                     Team Member
+
+    Jung Eun Oh                                         Team Member
+
+    Giang Tam Nguyen                                    Team Member
+
+    Martin Henry Lenihan                                Team Member
+
+    Ky Hong Tran                                        Team Member
+
+    Taisei Matsuki                                      Team Member
+
+    Diji Chandrasekharan Behr                           Team Member
+
+    Alexander Lotsch                                    Team Member
+
+    Franz Gerner                                        Team Member
+
+    Giovanni Ruta                                       Peer Reviewer
+
+    Christophe de Gouvello                              Peer Reviewer
+
+    Lan Thi Thu Nguyen                                  Team Member
+
+    Viet Tuan Dinh                                      Team Member
+
+    Annette I. De Kleine Feige                          Team Member
+
+    Cuong Hung Pham                                     Team Member
+
+
+
+
+
+
+
+.
+
+
+
+    B. STAFF TIME AND COST
+
+
+
+
+
+
+
+                                                                                          Page 37 of 40
+
+        The World Bank
+
+        Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+
+
+
+
+                                                        Staff Time and Cost
+
+    Stage of Project Cycle
+
+                                No. of staff weeks               US$ (including travel and consultant costs)
+
+    Preparation
+
+    FY20                        23.001                                                          161,379.63
+
+    FY21                        5.424                                                            29,483.45
+
+    FY22                        0                                                                      0.00
+
+
+
+    Total                      28.43                                                            190,863.08
+
+    Supervision/ICR
+
+    FY21                        2.650                                                            19,197.66
+
+    FY22                        7.500                                                            43,584.80
+
+    FY23                        .600                                                               2,584.64
+
+
+
+    Total                      10.75                                                             65,367.10
+
+.
+
+
+
+
+
+
+
+
+
+                                                                                                     Page 38 of 40
+
+     The World Bank
+
+     Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+
+
+    ANNEX 3. BORROWER, CO-FINANCIERS, AND OTHER DEVELOPMENT PARTNERS’/STAKEHOLDERS’ COMMENTS
+
+
+
+
+
+[not received]
+
+
+
+
+
+
+
+
+
+                                                                                        Page 39 of 40
+
+     The World Bank
+
+     Climate Change and Green Growth DPF (P171006)
+
+
+
+
+
+
+
+                                      ANNEX 4. SUPPORTING DOCUMENTS
+
+
+
+1. Program Document, June 2020
+
+
+
+2. Letter of Development Policy, March 2020
+
+
+
+
+
+
+
+
+
+                                                                      Page 40 of 40
+
+

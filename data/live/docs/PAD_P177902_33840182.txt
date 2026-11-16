@@ -1,0 +1,4537 @@
+                                          FOR OFFICIAL USE ONLY
+
+                                                                                     Report No: PAD4784
+
+
+
+                               INTERNATIONAL DEVELOPMENT ASSOCIATION
+
+
+
+                                     PROJECT APPRAISAL DOCUMENT
+
+                                                   ON A
+
+                                            PROPOSED CREDIT
+
+
+
+                                  IN THE AMOUNT OF SDR204.6 MILLION
+
+                                      (US$275 MILLION EQUIVALENT)
+
+
+
+                                                    TO
+
+
+
+                                                  NEPAL
+
+
+
+                                                  FOR AN
+
+             ACCELERATING TRANSPORT AND TRADE CONNECTIVITY IN EASTERN SOUTH ASIA –
+
+                                    NEPAL PHASE 1 PROJECT
+
+
+
+           AS PHASE 1 OF AN ACCELERATING TRANSPORT AND TRADE CONNECTIVITY IN EASTERN
+
+                         SOUTH ASIA MULTIPHASE PROGRAMMATIC APPROACH
+
+
+
+              WITH AN OVERALL FINANCING ENVELOPE OF US$1,128.45 MILLION EQUIVALENT
+
+
+
+                                               June 1, 2022
+
+
+
+
+
+
+
+
+
+Transport Global Practice
+
+South Asia Region
+
+
+
+
+
+
+
+ This document has a restricted distribution and may be used by recipients only in the performance of
+
+ their official duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+                    CURRENCY EQUIVALENTS
+
+
+
+             (Exchange Rate Effective April 30, 2022)
+
+
+
+                                            Nepalese Rupee
+
+                         Currency Unit =
+
+                                            (NPR)
+
+                                  US$1 = NPR122.25
+
+                                  SDR1 = US$1.3443
+
+
+
+                          FISCAL YEAR
+
+                        July 16 – July 15
+
+
+
+
+
+
+
+
+
+Regional Vice President: Hartwig Schafer
+
+
+
+      Country Director: Faris H. Hadad-Zervos
+
+
+
+     Regional Director: Guangzhe Chen
+
+
+
+     Practice Manager: Shomik Raj Mehndiratta
+
+
+
+  Task Team Leader(s): Oceane Keou, Erik Nora
+
+    The World Bank
+
+    ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+
+
+                                       ABBREVIATIONS AND ACRONYMS
+
+
+
+ACCESS        Accelerating Transport and Trade Connectivity in Eastern South Asia
+
+ADB           Asian Development Bank
+
+AWPB          Annual Work Plan and Budget
+
+BG            Butwal–Gorusinghe
+
+BGC           Butwal–Gorusinghe–Chanauta
+
+CCTV          Closed-Circuit Television
+
+CER           Contingent Emergency Response
+
+CERC          Contingent Emergency Response Component
+
+CIA           Cumulative Impact Assessment
+
+COVID-19      Coronavirus Disease 2019
+
+DCID          Development Cooperation Implementation Division
+
+DoC           Department of Customs
+
+DoFSC         Department of Forests and Soil Conservation
+
+DoR           Department of Roads
+
+DTCO          District Treasury Comptroller Office
+
+EIRR          Economic Internal Rate of return
+
+ESCP          Environmental and Social Commitment Plan
+
+ESIA          Environmental and Social Impact Assessment
+
+ESMF          Environmental and Social Management Framework
+
+ESMP          Environmental and Social Management Plan
+
+EWH           East-West Highway
+
+FCGO          Financial Comptroller General Office
+
+FM            Financial Management
+
+FPFAA         Financial Procedure and Fiscal Accountability Act
+
+FY            Fiscal Year
+
+GBV           Gender-Based Violence
+
+GC            Gorusinghe–Chanauta
+
+GDP           Gross Domestic Product
+
+GHG           Greenhouse Gas
+
+GoN           Government of Nepal
+
+GRC           Grievance Redress Committee
+
+GRHCC         Green Resilient Highway Corridor Concept
+
+GRID          Green Resilient and Inclusive Development
+
+GRM           Grievance Redress Mechanism
+
+GRS           Grievance Redress Service
+
+IA            Implementing Agency
+
+IBRD          International Bank for Reconstruction and Development
+
+IDA           International Development Association
+
+IPPF          Indigenous Peoples Planning Framework
+
+IT            Information Technology
+
+IUFR          Interim Unaudited Financial Report
+
+km            Kilometer(s)
+
+LMBIS         Line Ministry Budget Information System
+
+   The World Bank
+
+   ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+
+
+MoF          Ministry of Finance
+
+MoFE         Ministry of Forests and Environment
+
+MoICS        Ministry of Industry, Commerce & Supplies
+
+MoPIT        Ministry of Physical Infrastructure and Transport
+
+MoU          Memorandum of Understanding
+
+MPA          Multiphase Programmatic Approach
+
+MTR          Mid-Term Review
+
+MVA          Motor Vehicle Agreement
+
+NGO          Non-Governmental Organization
+
+NIRTTP       Nepal-India Regional Trade and Transport Project
+
+NITDB        Nepal Intermodal Transport Development Board
+
+NPR          Nepalese Rupee
+
+NPV          Net Present Value
+
+OAG          Office of the Auditor General
+
+OCHS         Occupational and Community Health and Safety
+
+PAD          Project Appraisal Document
+
+PAP          Project-Affected Person
+
+PCU          Project Coordination Unit
+
+PDO          Project Development Objective
+
+PEFA         Public Expenditure and Financial Accountability
+
+PrDO         Program Development Objective
+
+PIM          Project Implementation Manual
+
+PIU          Project Implementation Unit
+
+PSC          Project Steering Committee
+
+PTCO         Province Treasury Comptroller Offices
+
+RAP          Resettlement Action Plan
+
+RFP          Request for Proposals
+
+RoW          Right of Way
+
+RPF          Resettlement Policy Framework
+
+SASEC        South Asia Subregional Economic Cooperation
+
+SC           Steering Committee
+
+SDC          Swiss Agency for Development and Cooperation
+
+SDR          Special Drawing Right
+
+SEA          Sexual Exploitation and Abuse
+
+SEP          Stakeholder Engagement Plan
+
+SESA         Strategic Environmental and Social Assessment
+
+SH           Sexual Harassment
+
+SPD          Standard Procurement Document
+
+SRCTIP       Strategic Road Corridor Transport Improvement Project
+
+STEP         Systematic Tracking of Exchanges in Procurement
+
+SW           Staff Week
+
+WTO TFA      World Trade Organization Trade Facilitation Agreement
+
+VKM          Vehicle Kilometer
+
+            The World Bank
+
+            ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+
+
+
+
+                                                                         TABLE OF CONTENTS
+
+
+
+
+
+    DATASHEET ........................................................................................................................................ i
+
+    I.    STRATEGIC CONTEXT .................................................................................................................. 1
+
+           A.    Country Context............................................................................................................................ 1
+
+           B.    Sectoral and Institutional Context ................................................................................................ 2
+
+           C.    Relevance to Higher-Level Objectives .......................................................................................... 5
+
+    II.   PROJECT DESCRIPTION ............................................................................................................... 5
+
+           A.    Project Development Objective ................................................................................................... 5
+
+           B.    Project Components ..................................................................................................................... 5
+
+           C.    Project Beneficiaries ..................................................................................................................... 7
+
+           D.    Results Chain ................................................................................................................................ 8
+
+           E.    Rationale for Bank Involvement and Role of Partners ................................................................. 8
+
+           F.    Lessons Learned............................................................................................................................ 8
+
+    III. IMPLEMENTATION ARRANGEMENTS .......................................................................................... 9
+
+           A.    Institutional and Implementation Arrangements ........................................................................ 9
+
+           B.    Results Monitoring and Evaluation Arrangements .................................................................... 10
+
+           C.    Sustainability .............................................................................................................................. 10
+
+    IV. PROJECT APPRAISAL SUMMARY ............................................................................................... 10
+
+           A.    Technical and Economic Analysis ............................................................................................... 10
+
+           B.    Fiduciary ..................................................................................................................................... 12
+
+           C.    Legal Operational Policies........................................................................................................... 13
+
+           D.    Environmental and Social ........................................................................................................... 13
+
+           E.    Climate Adaptation and Mitigation ............................................................................................ 15
+
+           F.    Gender Equality .......................................................................................................................... 16
+
+           G.    Citizen Engagement .................................................................................................................... 16
+
+    V.    GRIEVANCE REDRESS SERVICES ................................................................................................. 17
+
+    VI. KEY RISKS ................................................................................................................................. 17
+
+    VII. RESULTS FRAMEWORK AND MONITORING ............................................................................... 19
+
+    ANNEX 1: Implementation Arrangements and Support Plan ............................................................. 26
+
+    ANNEX 2: Project Map ..................................................................................................................... 35
+
+
+
+.
+
+         The World Bank
+
+         ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+
+
+
+
+DATASHEET
+
+
+
+BASIC INFORMATION
+
+BASIC_INFO_TABLE
+
+Country(ies)                   Project Name
+
+
+
+                               Accelerating Transport and Trade Connectivity in Eastern South Asia – Nepal Phase 1
+
+Nepal
+
+                               Project
+
+
+
+Project ID                     Financing Instrument          Environmental and Social Risk Classification
+
+
+
+                               Investment Project
+
+P177902                                                      Substantial
+
+                               Financing
+
+
+
+
+
+Financing & Implementation Modalities
+
+
+
+[✓] Multiphase Programmatic Approach (MPA)                     [✓] Contingent Emergency Response Component (CERC)
+
+[ ] Series of Projects (SOP)                                   [ ] Fragile State(s)
+
+
+
+[ ] Performance-Based Conditions (PBCs)                        [ ] Small State(s)
+
+
+
+[ ] Financial Intermediaries (FI)                              [ ] Fragile within a non-fragile Country
+
+
+
+[ ] Project-Based Guarantee                                    [ ] Conflict
+
+[ ] Deferred Drawdown                                          [ ] Responding to Natural or Man-made Disaster
+
+[ ] Alternate Procurement Arrangements (APA)                   [ ] Hands-on Enhanced Implementation Support (HEIS)
+
+
+
+
+
+
+
+Expected Project Approval         Expected Project Closing     Expected Program Closing Date
+
+Date                              Date
+
+
+
+28-Jun-2022                       15-Jul-2028                  30-Jun-2029
+
+Bank/IFC Collaboration
+
+No
+
+
+
+
+
+MPA Program Development Objective
+
+The Program Development Objective (PrDO) is to increase the efficiency and resilience of trade and transport along
+
+selected regional corridors in eastern South Asia.
+
+
+
+MPA Financing Data (US$, Millions)      Financing
+
+
+
+
+
+
+
+
+
+                                                                i
+
+                                                        The World Bank
+
+                                                        ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+
+
+MPA Program Financing Envelope                                                                                                                      1,450.95
+
+
+
+
+
+
+
+Proposed Project Development Objective(s)
+
+The development objective is to increase the efficiency and resilience of trade and transport along selected
+
+corridors in Nepal.
+
+
+
+Components
+
+
+
+Component Name                                                                                                                        Cost (US$, millions)
+
+Digital Systems for Trade                                                                                                                            6.15
+
+
+
+Green and Resilient Transport and Trade Infrastructure                                                                                             285.85
+
+
+
+Institutional and Policy Strengthening for Transport and Trade                                                                                      13.00
+
+
+
+Contingency Emergency Response                                                                                                                       0.00
+
+
+
+Organizations
+
+
+
+Borrower:                                                                         Ministry of Finance
+
+Implementing Agency:                                                              Ministry of Forests and Environment
+
+                                                                                  Ministry of Industry, Commerce and Supplies
+
+                                                                                  Ministry of Physical Infrastructure and Transport
+
+
+
+MPA FINANCING DETAILS (US$, Millions)
+
+MPA FINA NCI NG DET AILS (US$, Millions) Approve d
+
+
+
+
+
+
+
+
+
+Board Approved MPA Financing Envelope:                                                                        0.00
+
+MPA Program Financing Envelope:                                                                               1,450.95
+
+
+
+                                                     of which Bank Financing (IBRD):                          0.00
+
+
+
+                                                     of which Bank Financing (IDA):                           1,128.45
+
+
+
+                                                     of which other financing sources:                        322.50
+
+
+
+
+
+
+
+PROJECT FINANCING DATA (US$, Millions)
+
+FIN_SUMM_NEW
+
+SUMMARY                                                  -NewFin1
+
+
+
+
+
+
+
+
+
+                                                                                                        ii
+
+                        The World Bank
+
+                        ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+
+
+Total Project Cost                                                                                                        305.00
+
+
+
+Total Financing                                                                                                           305.00
+
+
+
+                 of which IBRD/IDA                                                                                        275.00
+
+
+
+Financing Gap                                                                                                               0.00
+
+
+
+
+
+DETAILS   -NewFinEnh1
+
+
+
+
+
+
+
+
+
+World Bank Group Financing
+
+
+
+   International Development Association (IDA)                                                                            275.00
+
+        IDA Credit                                                                                                        275.00
+
+Non-World Bank Group Financing
+
+
+
+   Counterpart Funding                                                                                                     30.00
+
+        Borrower/Recipient                                                                                                 30.00
+
+
+
+
+
+IDA Resources (in US$, Millions)
+
+
+
+                                              Credit Amount              Grant Amount      Guarantee Amount        Total Amount
+
+Nepal                                                   275.00                      0.00                0.00              275.00
+
+  National PBA                                          108.00                      0.00                0.00              108.00
+
+  Regional                                              167.00                      0.00                0.00              167.00
+
+
+
+Total                                                   275.00                      0.00                0.00              275.00
+
+
+
+
+
+Expected Disbursements (in US$, Millions)
+
+
+
+ WB Fiscal
+
+                                                     2022        2023        2024       2025    2026     2027     2028     2029
+
+ Year
+
+ Annual                                              0.00        17.50      21.95     33.00     54.00    64.55    59.00    25.00
+
+
+
+ Cumulative                                          0.00        17.50      39.45     72.45    126.45   191.00   250.00   275.00
+
+
+
+
+
+
+
+
+
+                                                                            iii
+
+            The World Bank
+
+            ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+
+
+INSTITUTIONAL DATA
+
+
+
+Practice Area (Lead)                                        Contributing Practice Areas
+
+                                                            Environment, Natural Resources & the Blue Economy,
+
+Transport                                                   Macroeconomics, Trade and Investment, Urban,
+
+                                                            Resilience and Land
+
+
+
+Climate Change and Disaster Screening
+
+This operation has been screened for short and long-term climate change and disaster risks
+
+
+
+
+
+ SYSTEMATIC OPERATIONS RISK-RATING TOOL (SORT)
+
+
+
+Risk Category                                                                        Rating
+
+1. Political and Governance                                                         ⚫ Substantial
+
+
+
+2. Macroeconomic                                                                    ⚫ Substantial
+
+
+
+3. Sector Strategies and Policies                                                   ⚫ Moderate
+
+
+
+4. Technical Design of Project or Program                                           ⚫ Substantial
+
+
+
+5. Institutional Capacity for Implementation and Sustainability                     ⚫ Moderate
+
+
+
+6. Fiduciary                                                                        ⚫ Substantial
+
+
+
+7. Environment and Social                                                           ⚫ Substantial
+
+
+
+8. Stakeholders                                                                     ⚫ Substantial
+
+
+
+9. Other
+
+
+
+10. Overall                                                                         ⚫ Substantial
+
+
+
+Overall MPA Program Risk                                                            ⚫ Substantial
+
+
+
+
+
+COMPLIANCE
+
+
+
+Policy
+
+Does the project depart from the CPF in content or in other significant respects?
+
+[ ] Yes    [✓] No
+
+
+
+
+
+
+
+
+
+                                                           iv
+
+           The World Bank
+
+           ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+
+
+Does the project require any waivers of Bank policies?
+
+[ ] Yes   [✓] No
+
+
+
+
+
+Environmental and Social Standards Relevance Given its Context at the Time of Appraisal
+
+
+
+E & S Standards                                                                            Relevance
+
+
+
+Assessment and Management of Environmental and Social Risks and Impacts                    Relevant
+
+
+
+Stakeholder Engagement and Information Disclosure                                          Relevant
+
+
+
+Labor and Working Conditions                                                               Relevant
+
+
+
+Resource Efficiency and Pollution Prevention and Management                                Relevant
+
+
+
+Community Health and Safety                                                                Relevant
+
+
+
+Land Acquisition, Restrictions on Land Use and Involuntary Resettlement                    Relevant
+
+
+
+Biodiversity Conservation and Sustainable Management of Living Natural Resources           Relevant
+
+
+
+Indigenous Peoples/Sub-Saharan African Historically Underserved Traditional Local          Relevant
+
+Communities
+
+Cultural Heritage                                                                          Relevant
+
+
+
+Financial Intermediaries                                                                   Not Currently Relevant
+
+
+
+
+
+NOTE: For further information regarding the World Bank’s due diligence assessment of the Project’s potential
+
+environmental and social risks and impacts, please refer to the Project’s Appraisal Environmental and Social Review
+
+Summary (ESRS).
+
+
+
+Legal Covenants
+
+
+
+Sections and Description
+
+(Section I.A.1 of Schedule 2 to the FA) The Recipient shall establish within three (3) months of the Effective Date,
+
+and thereafter maintain throughout Project implementation, a Project Steering Committee (“PSC”), with a
+
+mandate, functions, composition and resources acceptable to the Association.
+
+
+
+Sections and Description
+
+(Section I.A.2 of Schedule 2 to the FA) The Recipient shall establish within three (3) months of the Effective Date,
+
+and thereafter maintain throughout Project implementation, a Project Coordination Unit (“PCU”) in DoFSC, with a
+
+
+
+
+
+                                                             v
+
+           The World Bank
+
+           ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+
+
+mandate, functions, composition and resources acceptable to the Association.
+
+
+
+Sections and Description
+
+(Section I.A.4 of Schedule 2 to the FA) The Recipient shall establish within three (3) months of the Effective Date,
+
+and thereafter maintain throughout Project implementation, a Steering Committee in MoFE, with a mandate,
+
+functions, composition and resources acceptable to the Association.
+
+
+
+Sections and Description
+
+(Section I.A.5 of Schedule 2 to the FA) The Recipient shall establish within three (3) months of the Effective Date,
+
+and thereafter maintain throughout Project implementation, Project Implementation Units under MoICS and
+
+DoFSC, with a mandate, functions, composition and resources acceptable to the Association.
+
+
+
+Sections and Description
+
+(Section IV of Schedule 2 to the FA) The Recipient shall, and shall cause the Implementing Agencies to: (a) ensure
+
+that the CCTV cameras procured under Part 1 of the Project shall be financed and implemented in accordance with
+
+the relevant annual work plans and budget, pursuant to a program set forth in the PIM, exclusively for the benefit
+
+of enhanced border management system of the land border agencies; (b) ensure that the Project’s activities
+
+involving collection, storage, usage, and/or processing of Personal Data collected under the Project shall be done in
+
+accordance with the best international practice, and ensure legitimate, appropriate and proportionate treatment of
+
+such data; (c) in the event that, during the implementation of the Project, the approval of any new legislation
+
+regarding Personal Data protection may have an impact on the activities financed by the Project, ensure that a
+
+technical analysis of said impact is conducted, and that the necessary recommendations and adjustments, are
+
+implemented, as appropriate; and (d) except as may otherwise be explicitly required or permitted under this
+
+Agreement, or as may be explicitly requested by the Association, in sharing any information, report or document
+
+related to the activities described in Schedule 1 to this Agreement, ensure that such information, report or
+
+document does not include Personal Data.
+
+
+
+
+
+
+
+
+
+Conditions
+
+
+
+Type                              Financing source                    Description
+
+Effectiveness                     IBRD/IDA                            The PIM has been prepared and adopted in
+
+                                                                      form and manner satisfactory to the
+
+                                                                      Association.
+
+
+
+Type                              Financing source                    Description
+
+Disbursement                      IBRD/IDA                            Notwithstanding the provisions of Section III.A
+
+                                                                      of Schedule 2 to the FA, no withdrawal shall be
+
+
+
+
+
+                                                            vi
+
+The World Bank
+
+ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+
+
+                                                 made: (1) under Category (4), until and unless
+
+                                                 regulations satisfactory to the Association have
+
+                                                 been furnished to the Association showing that
+
+                                                 the Recipient has implemented reporting
+
+                                                 procedures to ensure appropriate and timely
+
+                                                 reporting by the Participating Provinces to the
+
+                                                 Recipient on the use of the proceeds of the
+
+                                                 Financing for their intended purposes; or (2) for
+
+                                                 Emergency Expenditures under Category (8),
+
+                                                 unless and until all of the following conditions
+
+                                                 have been met in respect of said expenditures:
+
+                                                 (i) (A) the Recipient has determined that an
+
+                                                 Eligible Crisis or Emergency has occurred, and
+
+                                                 has furnished to the Association a request to
+
+                                                 withdraw Financing amounts under Category
+
+                                                 (8); and (B) the Association has agreed with
+
+                                                 such determination, accepted said request and
+
+                                                 notified the Recipient thereof; and (ii) the
+
+                                                 Recipient has adopted the CERC Manual and
+
+                                                 Emergency Action Plan, in form and substance
+
+                                                 acceptable to the Association.
+
+
+
+
+
+
+
+
+
+                                           vii
+
+            The World Bank
+
+            ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+            This Project Appraisal Document (PAD) focuses on the Accelerating Transport and Trade Connectivity in
+
+      Eastern South Asia (ACCESS) – Nepal Phase 1 Project (P177902), as part of the first Phase of the ACCESS
+
+      Multiphase Programmatic Approach (MPA) Program (parent PAD – PAD4707). The parent PAD (PAD4707)
+
+      provides a detailed description of the overall ACCESS MPA Program with the regional program context and
+
+      framework, which is being submitted for Board approval simultaneously.
+
+
+
+I. STRATEGIC CONTEXT
+
+
+
+      A.        Country Context
+
+
+
+             Nepal is a landlocked country of about 29 million people. Most people (80 percent) live in rural areas,
+
+      although the urbanization rate (about 6 percent) is higher than the regional average. The poverty headcount (at
+
+      the international poverty line of US$1.90 per day) was 17.4 percent in 2019, down from 30.1 percent in 2014. 1
+
+      The country’s Human Development Index (HDI) is 0.602, which ranks 142nd in the world for reporting countries.
+
+      The inequality adjusted HDI is 0.446, and life expectancy is 70.8 years.2
+
+             Despite various challenges, Nepal’s economy demonstrated impressive growth and resilience over the
+
+      past decade when faced with a wide variety of shocks. During FY2012-19, Nepal’s economy performed
+
+      reasonably well despite being hit by three large exogenous shocks: the 2015 earthquake, 2016 trade disruptions,
+
+      and 2017 floods. A fourth shock, the COVID-19 pandemic, derailed the strong growth trajectory established over
+
+      the previous three years. Economic growth contracted by 2.1 percent in FY20, the first contraction since FY1983,
+
+      as a nationwide lockdown from March to July 2020 imposed to curtail the spread of the virus significantly
+
+      affected all sectors of the economy. The economy is estimated to have grown by 1.8 percent in FY21 even
+
+      though renewed containment measures were imposed in the fourth quarter of the fiscal year (FY). Agriculture,
+
+      contributing over one-fifth of nominal gross domestic product (GDP), has been a bright spot, registering 2.2 and
+
+      2.7 percent growth in FY20 and FY21, respectively, on the back of favorable summer monsoons. After
+
+      contracting during FY20, the industry and service sectors are estimated to have grown by only 0.9 and 1.6
+
+      percent in FY21, respectively. The World Bank 2020 South Asia Region COVID-19 phone monitoring survey shows
+
+      that 45 percent of those who recovered from a job loss have switched sectors and taken jobs with lower earnings
+
+      and skill requirements, indicating that many households have been pushed to marginally above or below the
+
+      poverty line.
+
+            The COVID-19 pandemic derailed the economy, but partial recovery is under way. The fiscal deficit
+
+      narrowed to 4.6 percent of GDP in FY21. Economic growth is projected to recover gradually to 4.1 percent by
+
+      FY23. The baseline forecast projects a gradual medium-term recovery, with growth accelerating from 3.7
+
+      percent in FY22 to 5.8 percent by FY24. The baseline assumes (a) no new nationwide strict containment
+
+      measures are imposed; (b) a near complete vaccination of the eligible population by the end of FY22 (81.7
+
+      percent of the population ages 18 and higher have received full doses of vaccine by March 25, 2022); and (c) a
+
+      gradual increase in international migration and tourist arrivals, reaching pre-pandemic levels by FY24.
+
+      Vaccination deployment is expected to unleash pent-up demand for most service subsectors. Industry sector
+
+      growth is projected to be supported by increased hydropower production including from the recently completed
+
+      Upper Tamakoshi plant. However, agricultural growth is projected to decelerate in FY22, reflecting a decline in
+
+
+
+
+
+
+
+
+
+      1   Nepal Planning Commission. 2021. Multidimensional Poverty Index (MPI)-2021 Report. Kathmandu, Nepal.
+
+      2   http://www.hdr.undp.org/en/countries/profiles/NPL
+
+
+
+
+
+
+
+                                                                    Page 1
+
+     The World Bank
+
+     ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+paddy production and the rise of global fertilizer prices earlier in the FY. Increasing fuel prices are also expected
+
+to weigh on aggregate demand.
+
+        The war in Ukraine is expected to impact Nepal’s economy through commodity prices . Nepal’s trade
+
+with Ukraine is limited to less than two percent of total imports―including mostly sunflower oil, dried peas, and
+
+colza seeds―but the share of fuel, agriculture, metals, and minerals in total imports is large. As such, Nepal is
+
+less likely to face an immediate negative supply shock because of the direct trade linkage. Instead, higher global
+
+commodity prices are expected to increase the import bill indirectly. Services exports are expected to be less
+
+affected given the relatively low share of tourist arrivals from Ukraine.
+
+       A new government took office on July 13, 2021. New cabinet took office in October 2021 and federal
+
+and provincial elections are expected in late 2022. Local elections were recently concluded in May 2022. At the
+
+sub-national level, funds, functions, and staff continue to be managed by the seven provinces and 753 local
+
+governments for which legislation, institutions, and administrative procedures are being formalized as
+
+constitutionally prescribed. Meanwhile, the federal government has been streamlined with a focus on national
+
+policies and oversight.
+
+
+
+B.      Sectoral and Institutional Context
+
+       Increasing regional connectivity and improving trade facilitation is critical for Nepal to build back
+
+better. Although a gradual economic recovery is underway in Nepal after it suffered an economic contraction
+
+from the COVID-19 pandemic, additional measures are needed to rebuild its economic resilience in the medium-
+
+and long-term. To build back stronger, Nepal has prioritized regional connectivity and trade facilitation to unlock
+
+its economic potential, while strengthening its institutions in ways that recalibrate its development towards a
+
+Green, Resilient, and Inclusive Development (GRID) approach. According to a recent United Nations -sponsored
+
+study, a 40 percent reduction in trade costs in Nepal could yield welfare gains of 56 percent to its GDP, and
+
+intraregional export gains of 106 percent to its total exports.3 The main drivers of high cost and inefficiencies in
+
+trade and transport in Nepal are: (i) low levels of technology adoption in trade facilitation; (ii) inadequate
+
+transport and logistics infrastructure; and (iii) policy, regulatory, and procedural impediments that have
+
+constrained cross-border movement. Solving these challenges in line with Nepal’s GRID agenda is thus critical
+
+to unlocking the growth potential from connectivity and trade in a way that provides resilience against climate
+
+change risks, natural disasters, and biodiversity loss.
+
+       Addressing Nepal’s low level of technology adoption in trade facilitation is critical considering the
+
+current lack of efficiency in trade processes and systems. Opportunities exist for Nepal to reduce trade costs
+
+and improve competitiveness by accelerating efforts to facilitate and digitalize trade procedures. Cross-border
+
+paperless trade could result in savings of over US$140 million in annual trade transaction costs. By 2019, Nepal
+
+had implemented only 2.1 percent of all measures included in the World Trade Organization Trade Facilitation
+
+Agreement (WTO TFA) ratified in 2017 and ranked 112th of 116 countries for implemented measures.4 A lack of
+
+trade digitization not only runs against the need for reducing face-to-face interaction in the context of the
+
+COVID-19 pandemic, but also adds complexity, delays border clearance, provides opportunities for corruption,
+
+and hinders private sector participation. Costs associated with obtaining, submitting, and checking documents
+
+by different jurisdictions can account for as much as 3 percent of the total costs of trade.
+
+
+
+
+
+3
+
+  United Nations. 2016. Unlocking the Potential of Regional Economic Cooperation and Integration in South Asia. New Delhi: United National Economic
+
+and Social Commission for Asia and the Pacific.
+
+4 United Nations. 2019. Readiness Assessment for Cross-Border Paperless Trade: Nepal.
+
+
+
+
+
+
+
+
+
+                                                                     Page 2
+
+     The World Bank
+
+     ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+        Building Nepal’s sustainable, green, inclusive, and climate-resilient transport and trade infrastructure
+
+is a priority in view of the urgent need to:
+
+a) Open Nepal’s connectivity. More than 95 percent of Nepal’s trade is currently via land and 60 percent of
+
+   Nepal’s trade is either with India or is routed through India, the majority passing through three cross-border
+
+   locations5 and two regional corridors.6 Trade in goods accounts for 40 percent of Nepal’s GDP. Inefficiencies
+
+   in connectivity and delays have directly impacted the competitiveness of Nepal’s exports and economy.
+
+b) Upgrade Nepal’s longest trade corridor—the East-West Highway (EWH). With 95 percent of the land-
+
+   traded goods passing through the EWH and the Kathmandu-Birgunj-Kolkata corridor,7 the South Asia Sub-
+
+   Regional Economic Cooperation (SASEC) Operational Plan identified the upgrading of the EWH as a priority
+
+   project to enhance regional connectivity. The Asian Development Bank (ADB) and the World Bank are
+
+   upgrading the eastern side of the EWH, and the World Bank has committed to support the upgrading of the
+
+   western part between Butwal and Gaddachauki. The road is part of Asian Highway 2, which connects Nepal
+
+   to India through the Dodhara Chandani border point on the western border of Nepal. Through link roads,
+
+   the EWH also connects to India via its main cross-border points in Biratnagar, Birgunj, Bhairahawa, and
+
+   Nepalgunj. More efficient highway corridor development for seamless vehicle movement and congestion
+
+   reduction is critical to help significantly reduce greenhouse gas (GHG)8 emissions. Inclusive development as
+
+   well as regeneration of the particularly dense and unplanned urban areas from Butwal to Chanauta (i.e., the
+
+   project corridor)9 are also needed to provide communities with economic opportunities and safer
+
+   infrastructure that is inclusive of non-motorized transport.
+
+c) Provide climate-resilient transport and logistics infrastructure and services. The Intergovernmental Panel
+
+   on Climate Change suggests that Himalayan regions like Nepal will continue to experience significant
+
+   changes in weather patterns due to climate change. Historical and recent data collected via the World Bank’s
+
+   Climate and Disaster Risk Screening tool further confirm the high level of risk for transport and trade
+
+   infrastructure pertaining to extreme precipitation, floods, landslides, wildfires, and increasing
+
+   temperatures. Increasing temperatures escalate the instances of cracks on roads from increased fatigue of
+
+   the pavement. Major highways are blocked for weeks at a time10 or destroyed by landslides, mudslides,
+
+   debris flow, and floods, including the section of the EWH from Butwal to Chanauta, which lies in the
+
+   geologically fragile and climate-sensitive regions of the Nepal Siwalik. Climate-related impacts and damage
+
+   to transport infrastructure along the EWH severely disrupt transport flows and services, resulting in an
+
+   increased cost of trading and lack of access to jobs, schools, hospitals, etc. The productivity of key economic
+
+   sectors, such as agriculture, is compromised by limited access to all-weather roads. Furthermore,
+
+   continuous fragmentation of the ecosystems (including landslide zones but also forests, wildlife, etc.) along
+
+   the highway corridor adversely impacts its resilience and sustainability. A more integrated planning
+
+   approach at the landscape level for a green and climate-resilient corridor development is required.
+
+d) Develop gender-responsive infrastructure. There is a lack of gender-responsive infrastructure in Nepal,
+
+   which hinders women’s accessibility to the economic and mobility benefits from improved road
+
+
+
+5 Birgunj (50 percent), Bhairahawa (20 percent), and Biratnagar (15 percent) represent 85 percent of trade at all border points in Nepal.
+
+6 India accounts for 60 percent of Nepal’s trade and, for India, trade across borders with its neighbors constitutes less than 2 percent of its overall trade,
+
+but within that, trade with Nepal accounts for 55 percent, followed by Bangladesh (33 percent), and Bhutan (6 percent).
+
+7 Nepal Foreign Trade Statistics: Fiscal Year 2017/18. Source: https://www.customs.gov.np/en/statisticsmonthly.html
+
+8 The transport sector is responsible for 1,739.51 Gg CO2-eq of GHG emissions in Nepal (Source: Third National Communication to UNFCCC).
+
+9
+
+  The project corridor is the Butwal–Gorusinghe–Chanauta section of the EWH.
+
+10
+
+   Prithvi Man Shrestha. 2021. “Rain Damage to Roads, Bridges Estimated at Rs3 Billion.” Kathmandu Post, October 5, 2021.
+
+https://kathmandupost.com/national/2021/10/05/rain-damage-to-roads-bridges-estimated-at-rs3-billion.
+
+
+
+
+
+
+
+                                                                          Page 3
+
+     The World Bank
+
+     ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+     infrastructure. Only 30 percent of Nepali enterprises are women-owned.11 In the project corridor, many
+
+     women run small roadside stalls or carts selling goods and services. However, both owners and their
+
+     customers are increasingly exposed to highway safety and security risks from road expansion. Furthermore,
+
+     there are no market centers or service areas with reserved spaces for women-owned businesses that can
+
+     serve as a safe economic hub for women to establish and grow their businesses. As road users, amenities
+
+     and safety are also lacking, which makes travel challenging for women. There are few rest areas and no
+
+     separate toilets for women. Public transport in Nepal is frequently overcrowded and unsafe, which further
+
+     discourages travel by women, especially with children.12 Women’s participation in direct transport sector
+
+     jobs is also very limited, although more women are successfully hired for road construction and
+
+     maintenance works.13
+
+       Improving Nepal’s policy and regulatory framework for effective freight and people movement remains
+
+a challenge, with:
+
+a) Cumbersome border processes and documentation compliance requirements. In Nepal, about 30 percent
+
+   of consignments are processed through “green lane” facilitation. However, risk management is not
+
+   improving clearance times for low-risk traders, given the minimal difference between green and yellow
+
+   lanes, since both require documents to be submitted and endorsed. Border delays continue outside
+
+   regulatory processes, such as in cargo handling, movement, and storage. Complicated and non-transparent
+
+   tariff and/or nontariff measures also affect the free flow of goods and services across borders.
+
+b) Sanitary and phytosanitary systems not in line with latest international standards. To expand agriculture
+
+   exports, investments are required in infrastructure, equipment, and human resources to certify that goods
+
+   meet the required standards of major regional and global export markets. However, laboratories in Nepal
+
+   are not internationally accredited and, as a result, their trading partners, including India, do not recognize
+
+   their certifications. Consequently, traders undergo costly and time-consuming inspections in accredited
+
+   laboratories in India. Currently, samples of Nepalese export products are sent for testing in laboratories in
+
+   India, which takes a minimum of nine days, but often up to three or four weeks.
+
+      Regional to national level benefits and poverty reduction. Nepal’s participation in the ACCESS MPA
+
+Program is expected to enhance trade between Nepal, India, and Bangladesh by removing bottlenecks and
+
+strengthening weak links at selected border points and along the main identified trade corridors. This project
+
+focuses on the EWH corridor (with an overall focus on the western section from Butwal to Gaddachauki at the
+
+western border with India), which interconnects with regional transport routes integral to freight traffic, and
+
+key border points between Nepal and India. The proposed activities will help reduce the cost of trade,
+
+considering in particular a reduction of climate-related disruption costs along the EWH. The project is designed
+
+to support economic growth and alleviate poverty by: (i) supporting innovative measures in line with the GRID
+
+agenda; and (ii) ensuring that increased cross-border trade and overall benefits generated from regional
+
+transport infrastructure and trade development benefit the country and Nepal’s poorest communities, as poor
+
+people in countries of eastern South Asia are often disconnected from global and regional—or even local—value
+
+chains and markets.
+
+
+
+
+
+11 National Economic Census 2019 – although 2020 World Bank report on SMEs in Nepal. The 2020 World Bank report indicates that registered female
+
+ownership of businesses may be intended primarily for tax relief and that their meaningful participation and decision-making authority is low.
+
+12 Jupp, Dee. 2014. “Riding a Bus in Kathmandu: Gender and Transport in Nepal.” World Bank, March 27, 2014.
+
+
+
+https://www.worldbank.org/en/news/feature/2014/03/17/riding-a-bus-in-kathmandu-gender-and-transport-in-nepal.
+
+13
+
+   World Bank. 2018. “Nepal: Empowering Women through Jobs to Maintain Roads.” World Bank, November 14, 2018.
+
+https://www.worldbank.org/en/results/2018/11/14/nepal-empowering-women-livelihoods-manage-roads.
+
+
+
+
+
+
+
+                                                                     Page 4
+
+             The World Bank
+
+             ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+      C.        Relevance to Higher-Level Objectives (see parent PAD – PAD4707 for regional higher-level objectives)
+
+             The project will directly support Nepal’s priority development objectives and the GRID agenda. The
+
+      project is fully aligned with the broader goals of the Government of Nepal’s (GoN’s) 15th Periodic Plan as well
+
+      as Nepal’s Second Nationally Determined Contribution under the Paris Agreement, the National Adaptation
+
+      Plan, and the Sustainable Development Goals of (i) enhancing internal and cross-border interconnectivity, (ii)
+
+      promoting green growth, and (iii) building resilience to climate change and shocks from disasters. The project is
+
+      consistent with the World Bank Group Country Partnership Framework FY19-23,14 and the corresponding
+
+      Performance and Learning Review.15 It is particularly aligned with the second Focus Area (Private Sector-Led
+
+      Jobs and Growth), by supporting improved transport connectivity and trade competitiveness, and the third
+
+      Focus Area (Inclusion and Resilience), by strengthening climate-resilient and low carbon solutions to the
+
+      transport network that will expand economic opportunities for the poor and vulnerable. The project is also
+
+      consistent with the 2021 World Bank Strategy Document “From COVID-19 Crisis Response to Resilient Recovery
+
+      - Saving Lives and Livelihoods while Supporting GRID”, and World Bank Climate Change Action Plan 2021-2025.
+
+
+
+II. PROJECT DESCRIPTION
+
+
+
+      A.        Project Development Objective
+
+                The project development objective (PDO) is fully aligned with the ACCESS MPA Program’s results chain.
+
+            PDO Statement. The PDO is to increase the efficiency and resilience of trade and transport along selected
+
+      corridors in Nepal.
+
+             PDO Level Indicators. Progress against the PDO will be measured through the following outcome-level
+
+      indicators:
+
+      a)     Increased freight throughput at select border points (percentage)
+
+      b)     Reduction in travel time along the project corridor (percentage)
+
+      c)     Reduction in vehicle operating costs along the project corridor (percentage)
+
+      d)     Reduction in annual fatalities along the project corridor (percentage)
+
+      e)     People provided with improved climate-resilient road access along the project corridor (number)
+
+
+
+      B.        Project Components
+
+             The project components are within the scope of the ACCESS MPA Program components described in the
+
+      parent PAD (PAD4707). The following summarizes the activities for Nepal. The detailed project description is
+
+      provided in the Project Description Technical Note. Details on the project climate co-benefits are provided in
+
+      the Climate Technical Note. Both technical notes are available as separate documents in the Project Files to the
+
+      ACCESS MPA Program.
+
+             Component 1: Digital Systems for Trade (US$6.15 million, International Development Association (IDA)
+
+      financing of US$4.1 million) will support the adoption and implementation of information technology (IT)-
+
+      enabled services for trade. The digital solutions will reduce touch points and human interaction, enhance
+
+
+
+
+
+      14   Report No. 83148-NP, July 10, 2018, discussed by the Board on August 7, 2018.
+
+      15   Report No. 168048-NP, January 17, 2022, discussed by the Board on February 22, 2022.
+
+
+
+
+
+
+
+                                                                      Page 5
+
+   The World Bank
+
+   ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+transparency, reduce congestion, and truck idling—resulting in faster border clearance times and greater cargo
+
+throughput. It will finance the:
+
+    -   Subcomponent 1(a) – Design, supply, development, installation, configuration, and testing of an
+
+        electronic automated border management system, including an electronic cargo tracking system;
+
+    -   Subcomponent 1(b) – Design, supply, development, installation, configuration, and testing of a business
+
+        intelligence and data analytics system and risk engine to (i) improve statistical monitoring of revenue
+
+        and trade facilitation performance, (ii) facilitate reporting of trade data, and (iii) allow for risk-based
+
+        valuation and risk-based selectivity for post-clearance audit;
+
+    -   Subcomponent 1(c) – Deployment of intelligence systems related to data networks, closed-circuit
+
+        television (CCTV) systems, and other monitoring systems, through the upgrading of hardware and
+
+        software systems; and
+
+    -   Subcomponent 1(d) – Design, supply, development, installation, configuration, and testing of a web-
+
+        based supply management information system for the automation of registration processes and
+
+        permits.
+
+      Component 2: Green and Resilient Transport and Trade Infrastructure (US$285.85 million; IDA financing
+
+of US$261.15 million) will support the development of green, climate-resilient, and inclusive transport and
+
+trade-enabling infrastructure along Nepal’s primary trade corridor connecting Nepal with Bangladesh, India, and
+
+Bhutan, namely, the EWH. It will finance the:
+
+    -   Subcomponent 2(a) – Upgrading works and construction supervision for the Butwal—Gorusinghe—
+
+        Chanauta (BGC) road section (69 km) from a two-lane single carriageway to a climate-resilient four-lane
+
+        dual carriageway with new market areas, and including safety features such as service lanes for lower
+
+        speed vehicles along the road section running through dense urban settlements, rural and forest zones
+
+        (to significantly improve road safety, promote the use of non-motorized transport, and protect wildlife
+
+        where needed);
+
+    -   Subcomponent 2(b) – Detailed design, construction, and construction supervision of a green resilient
+
+        urban bridge, including the construction of a green climate-resilient four-lane bridge (on the EWH) and
+
+        regeneration of its surrounding urban environment through green, climate-resilient, and inclusive urban
+
+        design (to support low-carbon urban development, enhanced mobility of non-motorized transport, and
+
+        enhance the economic potential of the area); and
+
+    -   Subcomponent 2(c) – Development and implementation of a green resilient highway corridor concept
+
+        and strategy to support the development, approval, and implementation of an integrated strategy (and
+
+        action plan for priority civil works) that balances equitable transportation functionality, climate
+
+        resilience and sustainability of the highway corridor at the landscape level.
+
+       Component 3: Institutional and Policy Strengthening for Transport and Trade (US$13 million, IDA
+
+financing of US$9.75 million) will support the strengthening of policies, institutions, and technical capacities,
+
+including:
+
+    -   Subcomponent 3(a) – Providing technical assistance to advance Nepal’s preparedness and subsequent
+
+        implementation of the Motor Vehicle Agreement (MVA);
+
+
+
+
+
+
+
+
+
+                                                      Page 6
+
+     The World Bank
+
+     ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+     -    Subcomponent 3(b) – Supporting customs reforms, in particular by (i) implementing priority actions
+
+          under the WTO TFA and under the Customs Reform and Modernization Strategy and Action Plan; (ii)
+
+          developing risk management approaches for a more efficient customs clearance process (“green lane”
+
+          facilitation); (iii) developing or updating mandatory requirements for export and import goods
+
+          (according to the Harmonized Systems international code) and services, and (iv) strengthening Nepal’s
+
+          sanitary and phytosanitary agencies for more effective plant pest surveillance and food safety testing
+
+          procedures;
+
+     -    Subcomponent 3(c) – Supporting implementation of private sector support initiatives, in particular by
+
+          (i) conducting a contractor market assessment; (ii) providing accredited entrepreneurship training for
+
+          women’ and (iii) supporting the establishment of new women-owned businesses;
+
+     -    Subcomponent 3(d) – Supporting training, consultants’ recruitment, and capacity strengthening
+
+          activities for the Implementing Agencies (IAs), other relevant agencies at the central, provincial, and
+
+          local levels, and the private sector, on critical issues such as: green resilient, inclusive development;
+
+          climate-resilient transport and trade infrastructure development; project management; supervision;
+
+          quality management; customs and border management practices; trade negotiations; and gender-
+
+          based violence (GBV); and
+
+     -    Subcomponent 3(e) – Providing support for the preparation of future projects through relevant
+
+          preparatory studies, including but not limited to, master plans, feasibility and design studies, and
+
+          environmental and social safeguards studies.
+
+     Component 4: Contingency Emergency Response (CERC) (US$0 million) will provide support for an
+
+immediate response to an eligible crisis or emergency, as needed.
+
+
+
+C.       Project Beneficiaries
+
+       The project is expected to have physical, economic, social, and environmental benefits at the regional,
+
+national, and local levels. The project will contribute to unlocking Nepal’s economic potential through improved
+
+connectivity and trade, both between the districts and provinces along which the EWH crosses as well as
+
+regionally between Nepal and the other countries in eastern South Asia (third-country trade). The project will
+
+lead to an expanding economy and economic integration through increase in access to Indian and Bangladeshi
+
+markets. Local economies, producers, and consumers, along the EWH will also benefit from faster access to
+
+agricultural and industrial markets, and services (healthcare, schools etc.). The project will support the GoN in
+
+adopting innovative GRID approaches, systems, tools, and capacities for transport and trade development. It
+
+will enhance not only the skills and systems of government agencies and departments, but also their outreach
+
+as well as collaborative planning and implementation.
+
+       Road users and local communities will benefit from a safer transport network and overall improved
+
+connectivity, including, in particular, vulnerable road users, pedestrians, cyclists, and motorcyclists. The
+
+communities near the green resilient urban bridge will benefit from an improved urban living environment,
+
+social and cultural spaces, and increased income generation. Communities will benefit from job opportunities
+
+and skills development during the civil, operational, and maintenance works. These benefits will be particularly
+
+inclusive for women and socially excluded communities through the adoption of universal, gender-sensitive
+
+designs for infrastructure and access to jobs, as the project is supporting the creation of women-led businesses.
+
+
+
+
+
+
+
+
+
+                                                       Page 7
+
+     The World Bank
+
+     ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+D.      Results Chain
+
+        The project’s results chain is the same as that of the ACCESS MPA Program (see parent PAD – PAD4707).
+
+
+
+E.      Rationale for Bank Involvement and Role of Partners
+
+
+
+       The project will widen and deepen the World Bank’s ongoing support to Nepal in trade and transport
+
+and will prove valuable in coordinating among countries in eastern South Asia. The World Bank’s global
+
+knowledge and sectoral expertise, along with its convening power, innovation, and presence on the ground will
+
+help Nepal introduce a range of best practices that are new to the country, with significant transformative
+
+potential in line with the GRID agenda. The World Bank is also a strategic partner at the regional level given its
+
+involvement in India, Bangladesh, Nepal, and Bhutan. Therefore, under the ACCESS MPA Program, the World
+
+Bank has the capacity to ensure not only a coherent implementation of project activities at the national level
+
+but also simultaneously at the regional level. The World Bank has the required institutional memory and strong
+
+collaboration mechanisms with the GoN and development partners for the implementation of the identified
+
+projects under the ACCESS MPA Program and the preparation of the follow-on phases.
+
+        Project detailed design and implementation will build on ongoing technical assistance and studies (see
+
+parent PAD – PAD4707), including: (i) the Border Modernization, Process Review and Technical Innovation Audit
+
+for Bangladesh and Nepal; (ii) the Assessment of Nepal’s Sanitary and Phytosanitary Measures; (iii) the Regional
+
+Transport Sector and Trade Review for Bangladesh, Bhutan, India, and Nepal; (iv) the International Finance
+
+Corporation’s Trade Competitiveness for Export Diversification (TraCED, 602137), which supports such
+
+initiatives as risk management, tariff modernization, and bonded warehouse reforms; (v) the ongoing Strategic
+
+Environmental and Social Assessment (SESA) study and the Cumulative Impact Assessment (CIA) study along the
+
+EWH, initiated under the Nepal Strategic Road Corridor Transport Improvement Project (SRCTIP).
+
+      This project will benefit from ongoing regional initiatives, primarily the ADB-led SASEC (see parent PAD
+
+– PAD4707) and from the World Bank’s close collaboration with ADB and the Swiss Agency for Development
+
+and Cooperation (SDC). The World Bank and ADB have a well-established partnership on transport and trade
+
+development in Nepal. ADB is currently financing the expansion of some sections of the eastern side of the EWH
+
+to four lanes (about 250 km on the eastern side from Kamala and 215 km on the western side from Pathlaiya).
+
+The project will complement these investments by focusing on the western section of the highway. The World
+
+Bank is also collaborating with SDC, which supports the ongoing study related to the conceptual design of a
+
+green and resilient urban bridge in Butwal.
+
+
+
+F.      Lessons Learned
+
+
+
+      This project is informed by lessons learned at the regional level (see parent PAD – PAD4707), including
+
+the recommendations of the recent World Bank Independent Evaluation Group study on regional integration
+
+(see Table 1). The project design also benefited from the context- and sector-specific lessons drawn from the
+
+Nepal-India Regional Trade and Transport Project (NIRTTP) and the SRCTIP.
+
+                                        Table 1: Lessons Applied in Project Design
+
+
+
+Lessons and Recommendations                               Project Design
+
+The World Bank Group’s comparative advantage              The project will remove capacity constraints along the EWH, which was
+
+should be used with a stronger emphasis on regions        also identified as a priority area in the SASEC Operation Plan 2016-25.
+
+with untapped potential, with prior efforts to generate
+
+
+
+
+
+
+
+
+
+                                                             Page 8
+
+          The World Bank
+
+          ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+      Lessons and Recommendations                               Project Design
+
+      a robust pipeline of regional integration projects, and   It also supports the implementation of the MVA, which is expected to
+
+      to rehabilitate clusters with low integration.            further unlock untapped trade potential.
+
+      More consideration should be given to the institution’s   The project focuses on strategic priorities and has been designed
+
+      financial and human resource constraints.                 realistically to achieve those priorities within the proposed timeline.
+
+                                                                Provision is made to further increase human resource capacities for the
+
+                                                                IAs. The required resource capacity has been agreed and the project
+
+                                                                coordination units (PCUs) will be strengthened.
+
+      Avoid unrealistic timeframes for implementation.          Based on the broad scope of activities and the need for three IAs, a six-
+
+                                                                year implementation timeframe has been proposed for Phase 1.
+
+
+
+
+
+III. IMPLEMENTATION ARRANGEMENTS
+
+
+
+     A.      Institutional and Implementation Arrangements
+
+           The project will be implemented by three IAs: (i) the Department of Roads’ Development Cooperation
+
+     Implementation Division (DoR-DCID), under the Ministry of Physical Infrastructure and Transport (MoPIT); (ii)
+
+     the Ministry of Industries, Commerce & Supplies (MoICS); and (iii) the Department of Forests and Soil
+
+     Conservation (DoFSC), under the Ministry of Forests and Environment (MoFE). The DoR is responsible for the
+
+     development and management of Nepal’s strategic road network. The MoICS is responsible for facilitating
+
+     domestic, bilateral, and regional trade. The DoR and MoICS are long-time clients and partners of the World
+
+     Bank, and have implemented two World Bank-financed projects, the NIRTTP (recently closed) and SRCTIP
+
+     (ongoing), both focusing on trade and transport. The DoFSC has some experience with implementing World
+
+     Bank-financed projects, including the Nepal Forests for Prosperity Project. For interministerial coordination, a
+
+     Project Steering Committee (PSC) will be established by the GoN to provide strategic direction, review
+
+     implementation progress, and facilitate coordination among the three IAs.
+
+            The Project Coordination Units (PCUs) at the DoR-DCID and MoICS, which are implementing the
+
+     ongoing SRCTIP, will be retained and strengthened to oversee implementation of this project, and a new PCU
+
+     will be established in the DoFSC. Component 1 will be implemented exclusively by the MoICS. Component 2
+
+     will be implemented by the DoR-DCID and DoFSC. Component 3 will be implemented by the three PCUs. Each
+
+     PCU will be supported by Project Implementation Units (PIUs) (under MoICS and DoFSC) and a project office
+
+     (under DoR-DCID) for the implementation of relevant project activities (see Figure A1.1). The roles and
+
+     responsibilities of each PCU and PIU, as well as specific fiduciary, safeguards, technical, and monitoring
+
+     guidelines, will be detailed in the Project Implementation Manual (PIM). Details on implementation
+
+     arrangements are provided in Annex 1, including the project financing breakdown by component and by IA.
+
+             For the CERC, the GoN will prepare a Contingency Emergency Response (CER) Manual and Emergency
+
+     Action Plan acceptable to the World Bank, which will constitute a disbursement condition for the CERC.
+
+     Disbursements under the CERC are contingent to three conditions: (i) the GoN has determined that an eligible
+
+     crisis or emergency has occurred and the World Bank has agreed and notified the government; (ii) the Ministry
+
+     of Finance (MoF) has prepared and adopted the CER Manual and Emergency Action Plan that is agreed with the
+
+     World Bank; and (iii) the GoN has prepared, adopted, and disclosed environmental and social instruments, as
+
+     per the World Bank’s guidelines, for the eligibility of the CER Manual and Emergency Action Plan’s activities.
+
+
+
+
+
+
+
+
+
+                                                                   Page 9
+
+           The World Bank
+
+           ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+      B.      Results Monitoring and Evaluation Arrangements
+
+
+
+            Project progress and performance will be monitored quarterly against the target indicators of the
+
+      Project Results Framework. Project monitoring and its later evaluation will also include qualitative assessments
+
+      of the following aspects: (i) quality of works and users’ satisfaction; (ii) good governance and transparency in
+
+      procurement and contract management; (iii) achievement of fiduciary commitments; and (iv) compliance with
+
+      environmental and social safeguards. Progress will be formally captured in Implementation Progress Reports,
+
+      Financial Monitoring Reports, Procurement Management Reports, the Mid-Term Review (MTR), and the
+
+      Implementation Completion Report prepared by the PCUs. The PCUs will be responsible for data collection,
+
+      compilation, and reporting. They may hire social and environmental experts, firms, or non-governmental
+
+      organizations (NGOs) for support with community mobilization, and safeguards compliance, particularly
+
+      regarding gender, users’ satisfaction, and complaints, during project design and implementation.
+
+
+
+      C.      Sustainability
+
+             Sustainability is a core goal of the project. The strong emphasis on building institutional capacity, as well
+
+      as following international good practices in trade facilitation (digitization and automation in particular), and
+
+      green and resilient construction will strengthen Nepal’s ability to develop quality, reliable, sustainable, and
+
+      resilient infrastructure. Strengthening of the trade and transport agencies, alongside regular training, is
+
+      expected to endow them with the requisite capacities to manage their policies, programs, and implementation
+
+      more effectively in the future. The investments, activities, and results will also be sustained beyond the period
+
+      of IDA support through adequate allocation of resources by the GoN. The project will seek to strengthen and
+
+      institutionalize better asset management practices that will not only help to ensure the sustainability of project
+
+      investments, but also infrastructure investments more broadly.
+
+             Several aspects contribute to the project sustainability, including: (i) project demand—the project
+
+      responds to a request from MoF for World Bank support to implement its GRID agenda with a focus on regional
+
+      connectivity and trade facilitation, and its design reflects the priorities and challenges in the project target areas
+
+      articulated by the key stakeholders; (ii) project ownership—the MoPIT has already allocated funds to support
+
+      preparation of the upgrading of the subsequent sections of the EWH up to Gaddachauki, ensuring institutional
+
+      continuity and coherence in investments; and (iii) performance-based maintenance contracts—the GoN will
+
+      fund, during the period beyond the project implementation period, the operation and maintenance of roads
+
+      and bridges through performance-based contracts, which include a five-year maintenance period after the
+
+      completion of works. Such arrangements are expected to incentivize contractors to ensure better quality of
+
+      construction to keep the asset in good quality through the contract duration and thus reduce life cycle costs.
+
+
+
+IV. PROJECT APPRAISAL SUMMARY
+
+
+
+      A.      Technical and Economic Analysis
+
+
+
+      Technical Analysis
+
+            Digital systems for trade. The GoN has already taken or initiated several measures to alleviate the soft
+
+      constraints to trade under the ongoing SRCTIP and other ongoing ADB projects. This includes the adoption of
+
+      the National Single Window and Automated System for Customs Data system upgrades. This project will build
+
+      upon these investments and focus on addressing the remaining critical gaps. The digitization and automation of
+
+      trade processes are critical to achieving faster and more transparent clearances. A key lesson from the COVID-
+
+
+
+
+
+                                                             Page 10
+
+     The World Bank
+
+     ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+19 pandemic globally is that digital systems were vital for the business continuity of critical supply lines, notably
+
+trade gateways, and the associated logistical chains. The project will promote more widespread adoption of
+
+digital technologies and systems in Nepal’s trade chain, which, coupled with a climate and disaster risk
+
+management module, a climate and disaster risk preparedness and emergency response plan, and other
+
+investments in transport and trade infrastructure, are likely to reduce trade costs.
+
+       Green and resilient transport and trade infrastructure. There is a need to alleviate capacity constraints
+
+along the EWH between Butwal and Chanauta by upgrading the 69-kilometer section from two lanes to four
+
+lanes. Adding market areas along this section was also deemed important to encourage trade. Results from the
+
+Road Safety Screening and Assessment Tool, with a project safety impact value of 0.93, indicate that road safety
+
+measures under the project are expected to reduce accident fatalities. The project will also: (i) promote climate-
+
+resilient and inclusive development around main urban bridges along the EWH, and (ii) implement new practices
+
+to balance transport functionality and climate resilience/ecological sustainability at the landscape level along
+
+the corridor. The agreed approach will help strengthen long-term collaboration between relevant ministries
+
+(such as the MoPIT and MoFE). Lastly, it is important to note that the ongoing SRCTIP is currently financing
+
+upgradation works for trade facilities at strategic locations. Hence, it was agreed that, if required, additional
+
+trade facilities would be implemented in subsequent phases only after the completion of relevant feasibility
+
+studies planned to be done under Subcomponent 3(e).
+
+       Institutional and policy strengthening for transport and trade. Technical assistance to implement key
+
+strategic agreements, reforms, studies, and capacity building activities was identified and prioritized for
+
+inclusion in the project based on a gap analysis and wide stakeholder consultations.
+
+Economic Analysis
+
+      The economic analysis focuses on the main infrastructure investment under the project, along the BGC
+
+section. The implementation of more efficient digital trade systems, which will be developed under the project
+
+and piloted at Birgunj and Bhairahawa border points, will also contribute to the overall economic benefits and
+
+reduction of carbon emissions by helping decrease transaction times and increase freight throughput.
+
+       BGC section. Economic evaluation for this section of the highway was carried out using a social cost-
+
+benefit analysis and comparing two scenarios: (i) without the project, with only normal maintenance to the
+
+existing road, and (ii) with the project, upgrading it from the current narrow two lanes to an improved safe and
+
+climate-resilient four-lane road with paved shoulders and service lanes. This was done over a period of 30 years16
+
+and at a project discount rate of 12 percent with suitable assumptions for traffic growth (including the increase
+
+in freight throughput) for various categories of vehicles during different time periods. The benefits of the
+
+reduction in road user costs of motorized traffic and savings in journey times of passengers and goods were
+
+estimated using the HDM-4 Model.
+
+       During the 30-year period, the total vehicle–kilometers (VKMs) are projected at 24,420 million under
+
+the “without project” and 26,702 million VKMs under the “with project” scenarios. The average travel speed
+
+is projected to increase from 48 km per hour for the Butwal–Gorusinghe (BG) road section, and 42 km per hour
+
+for the Gorusinghe–Chanauta (GC) road section, to 79-90 km per hour for both road sections, resulting in an
+
+increased level of service. Reaching optimal travel speed and smoother traffic flow will thus result in a reduction
+
+in fuel consumption over time. Consequently, carbon emissions are expected to initially increase by 22,652 tons
+
+
+
+16
+
+  Including the planning period (one year), construction period (three years), and operation period (26 years). The analysis period used was similar to
+
+the one used for the previous transport investment project (SRCTIP) in Nepal for consistency and comparison purposes.
+
+
+
+
+
+
+
+                                                                        Page 11
+
+     The World Bank
+
+     ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+cumulatively up to the 30th year (due to the initial increase in travel speed and generated traffic) and then
+
+steadily decrease from the 34th year onwards (decreasing by 6,800 tons cumulatively the 34th year) as assessed
+
+through the GHG accounting. The project is thus expected to result in a reduction in carbon emissions of 0.50
+
+ton/million VKMs.
+
+       The return on investment for the project is satisfactory, with a net present value (NPV) of US$273
+
+million and an economic internal rate of return (EIRR) of 26.7 percent, which is above the minimum required
+
+social discount rate of 12 percent (Table 2). The results of the sensitivity analysis with (i) a 20 percent increase
+
+in costs, (ii) a 20 percent reduction in benefits, (iii) a one-year delay in construction, i.e., the worst-case scenario,
+
+were found to be satisfactory with an EIRR of 20.80 percent and NPV of US$148 million.
+
+                               Table 2: Summary of Economic Analysis of BGC Road
+
+
+
+                                                                        NPV (US$ million)              Benefit-Cost
+
+ Details                                 EIRR (percent)
+
+                                                                   (discounted at 12 percent)             Ratio
+
+ Main Evaluation (Base Case)                    26.70                         273                         3.56
+
+
+
+
+
+B.      Fiduciary
+
+Financial Management
+
+       The financial management (FM) risk is rated as Substantial given the risk identified in: (i) preparing a
+
+realistic annual work program and budget to be coordinated among multiple IAs; (ii) receiving reliable
+
+accounting records, financial reports, and audit reports in a timely manner; and (iii) effectively addressing
+
+observations made during external audits. Several mitigation measures have been agreed upon. The
+
+implementing agencies will be responsible to ensure adequate FM arrangements for their respective
+
+components. Each PCU and PIU will be staffed with designated Finance Officers deputed by the government.
+
+FM capacity of the project will be further strengthened with the hiring of an experienced FM Consultant in each
+
+PCU within 3 months of project effectiveness. The PIM will include a financial management chapter defining:
+
+the roles and responsibilities; operational modality; planning, budgeting, accounting, and funds flow
+
+arrangements; financial reporting, and internal and external audits. Each PCU will be responsible to conduct
+
+audits and submit separate audit reports to the World Bank, within nine months from the end of the FY for their
+
+respective components. Besides, at the national level, internal auditing will be strengthened by creating
+
+independent internal audit cadres within the Financial Comptroller General Office. The project FM residual risk
+
+is Substantial given the likely impact of the above risks on achievement of the PDO and will be revisited during
+
+implementation once the mitigation measures are implemented. Project FM arrangements will be based on the
+
+country’s system. GoN policies will be followed for accounting and internal auditing procedures. Additional
+
+details related to the project FM arrangements are provided in Annex 1.
+
+Procurement
+
+      The Procurement risk is rated as Substantial. Major risks identified include inadequate preparation of
+
+technical requirements (technical designs, specifications, terms of reference, etc.), inordinate delays in the
+
+procurement process, particularly during bid evaluation and contract award decisions, and weak contract
+
+management. The following mitigation measures have been agreed upon: (i) adequate staffing of required
+
+expertise throughout the project period; (ii) contract awards within the original bid/proposal validity periods;
+
+and (iii) an appropriate capacity building program addressing procurement, contract management, and
+
+
+
+
+
+
+
+                                                        Page 12
+
+             The World Bank
+
+             ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+      technical skills. For all the digital systems covered under Component 1, the cybersecurity risk will be mitigated
+
+      by adequately adopting the World Bank’s Standard Procurement Documents (SPD) in accordance with the World
+
+      Bank’s guidance available on the subject.
+
+             Goods, works, non-consulting services, and consulting services required for the project, and to be
+
+      financed out of the proceeds of the IDA credit, will be procured in accordance with the World Bank
+
+      Procurement Regulations for Investment Project Financing Borrowers.17 The project will use the Systematic
+
+      Tracking of Exchanges in Procurement (STEP) to plan, record, and track procurement transactions and
+
+      complaints. Each agreed procurement activity in STEP will indicate, among other information, the procurement
+
+      approach to be used by the Borrower. Unless otherwise agreed, the World Bank’s SPD, Requests for Proposals
+
+      (RFPs), and Forms of Consultant Contract will be used. The World Bank’s SPD will be used for all contracts subject
+
+      to international competitive bidding and the selection of consultants as specified in the approved procurement
+
+      plans in STEP. In accordance with paragraph 5.3 of the Procurement Regulations, model bidding documents
+
+      cleared by the World Bank will be used for all procurements adopting the open national market approach.
+
+
+
+.     C.          Legal Operational Policies
+
+.
+
+                                                                       Triggered?
+
+Projects on International Waterways OP 7.50                                 No
+
+Projects in Disputed Areas OP 7.60                                          No
+
+.
+
+       D.      Environmental and Social
+
+             The environmental and social risks and impacts are rated Substantial. The upgrading works on the BGC
+
+      road section, and the green resilient urban bridge construction will have the following environmental impacts:
+
+      (i) degradation of the remaining forests resulting from tree clearance within the right of way (RoW); (ii) an
+
+      increase in roadkill and traffic congestion; (iii) an increase in air and noise pollution; (iv) degradation of river
+
+      ecosystems from quarrying and bridge construction; and (v) a potential increase in wildlife poaching. Based on
+
+      the Environmental and Social Impact Assessment (ESIA), the BG road section will require the clearing of 28
+
+      hectares of forest areas within the RoW, which are dominated by community forests that are already disturbed
+
+      and degraded. A critical habitat assessment carried out as part of the BG road ESIA revealed three faunal species
+
+      that qualify as critical habitats. However, it was assessed that these species are not common in the project area
+
+      and the impacts are expected to be low. Mitigation measures, such as appropriate fencing and safe underpass
+
+      crossing, are included in the Environmental and Social Management Plan (ESMP). The potential social impacts
+
+      along the BG road RoW are largely economic displacement, involving patches of agricultural land, pedestrian
+
+      sheds, movable table-top businesses (such as fruit and vegetable vendors, tea shops), and religious structures.
+
+      The detailed design and location of the green resilient urban bridge have not yet been determined, thus there is
+
+      only limited information available to determine the scale and impact of land acquisition and resettlement related
+
+      to those investments. However, the construction of such infrastructure would occasion additional land-take and
+
+      displacement that the DoR and relevant municipalities have assessed, costed, and are willing to manage. Other
+
+      social concerns include: (i) concerns about occupational and community health and safety (OCHS) during
+
+      construction and operation; (ii) labor influx into local environments with its impacts on sexual exploitation and
+
+
+
+
+
+      17   Dated July 1, 2016, and as revised in November 2020.
+
+
+
+
+
+
+
+                                                                  Page 13
+
+     The World Bank
+
+     ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+abuse and sexual harassment (SEA/SH); and (iii) potential exposure of workers and communities to
+
+communicable diseases, such as COVID-19.
+
+       The Environmental and Social Management Framework (ESMF) has been prepared, cleared, consulted,
+
+and disclosed18 to guide the screening, assessment, and management of the potential environmental and social
+
+impacts and the preparation of site-specific ESIAs and ESMPs for the subprojects. 19 The ESMF specifies the
+
+procedures for assessing and identifying indigenous peoples, vulnerable and marginalized communities, and
+
+proposes strategies for gender and social inclusion. The ESIA, including the ESMP, for the BG road has been
+
+prepared, cleared, consulted, and disclosed.20 In addition, the Resettlement Policy Framework (RPF), the
+
+Indigenous Peoples Planning Framework (IPPF), the Labor Management Procedures, and the Stakeholder
+
+Engagement Plan (SEP) have been prepared, consulted, cleared, and disclosed. 21 The RPF and IPPF will guide the
+
+preparation of the Resettlement Action Plans (RAPs) and Indigenous Peoples Development Plans for the
+
+proposed subprojects, when applicable. As noted in the RPF and BG road RAP, land acquisition and resettlement
+
+will be fully funded by the GoN using internal resources and budget. The subproject ESMPs will be a part of the
+
+bid documents, with a requirement for contractors to adhere to the prescribed provisions in the ESMP during
+
+the execution of the project. A SESA study and CIA study were initiated under SRCTIP to address the cumulative
+
+impacts and enhance the positive impacts of the upgrading of the critical road sections of the EWH and improve
+
+the capacity of the DoR. The project will incorporate the outcomes of the ongoing SESA and CIA in the project
+
+design and will collaborate with SRCTIP on the implemention of the proposed recommendations. The ESIA for
+
+the Gorusinghe-Chanauta Road and the ESIAs and ESMPs for the other subprojects, including the green resilient
+
+urban bridge, will be prepared during project implementation.
+
+       The DoR has extensive experience in working with the World Bank and other donor-funded projects,
+
+including on the NIRTTP (recently closed) and SRCTIP (ongoing). It has a permanent Geo-Environment and Social
+
+Unit with four environmental and social staff. The DoR-DCID, which will act as a PCU, has four existing
+
+environmental and social staff. The MoICS and MoFE are familiar with World Bank safeguards policies and
+
+processes. The MoICS has proven experience and an acceptable track record with implementing the ESMPs for
+
+trade-related projects. The MoFE has been implementing the Forest for Prosperity Project (with support from
+
+the DoFSC), the REDD Readiness Preparation Program, and the Emission Reduction Program in the Terai Arc
+
+Landscape. Environmental and social capacity development activities have been undertaken under these projects
+
+as well. A comprehensive environmental and social capacity assessment of the DoR was conducted by the World
+
+Bank under the SRCTIP to inform the environmental and social staffing needs and related capacity building
+
+program to be developed. The capacity building program undertaken under the SRCTIP will thus benefit this
+
+project. It includes the hiring of additional environmental and social staff at the DoR, and comprehensive training
+
+
+
+
+
+18 The draft ESMF was disclosed on January 21, 2022, and January 23, 2022, in Nepal and at World Bank website respectively. The final
+
+ESMF was disclosed on April 30, 2022, at World Bank website, and on May 2, 2022, at MoFE website and on May 4 at DoR and MoICS
+
+websites (DoR: https://www.dor.gov.np/home/publication/bangaladesh-bhutan-india-nepal-bbin-mpa-phase-1; MoFE:
+
+https://www.dofsc.gov.np/posts/up-coming-project/en; MoICS: https://www.moics.gov.np/np).
+
+19 Subproject is a subset of activities to be implemented under a project. For example, upgrading BG road is a subproject and design and
+
+
+
+construction of a green resilient urban bridge is another subproject.
+
+20 The draft ESIA for BG road was disclosed on January 25, 2022, and January 24, 2022, in Nepal and at World Bank website respectively.
+
+
+
+The final ESIA for BG road was disclosed on April 23, 2022, and April 29, 2022, at World Bank website and in Nepal respectively
+
+(https://www.dor.gov.np/home/publication/bangaladesh-bhutan-india-nepal-bbin-mpa-phase-1).
+
+21 The RPF and IPPF were disclosed on May 1, 2022, at World Bank website, on May 2, 2022, at MoFE website, and on May 4, 2022, at
+
+
+
+DoR website. Labor Management Procedures were disclosed on April 11, 2022, at World Bank website, on May 2, 2022, at MoFE
+
+website, and on May 4, 2022, at DoR and MoICS websites. The SEP was disclosed on April 23, 2022, at World Bank website, on May 2,
+
+2022, at MoFE website, and on May 4, 2022, at DoR and MoICS websites (same URLs as ESMF).
+
+
+
+
+
+
+
+                                                                Page 14
+
+        The World Bank
+
+        ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+programs covering OCHS, biodiversity assessment and wildlife-friendly road design, labor influx, and GBV. As per
+
+the Environmental and Social Commitment Plan (ESCP), the PCUs established in the DoR-DCID, MoICS, and DoFSC
+
+will hire additional environmental and social specialists to strengthen their existing staff for the preparation and
+
+implementation of required environmental and social instruments. They will also require contractors to engage
+
+adequate environmental, social, health and safety specialists for project implementation.
+
+       The SEA/SH risk of the project is Moderate per the gender and GBV/SEA/SH assessment conducted
+
+during preparation. The project requires a medium influx of labor, which could potentially generate SEA/SH risks
+
+associated with labor interactions with the community, while also amplifying the existing prevalence of GBV in
+
+the project areas, such as child marriages, human trafficking, and violence on LGBTQI individuals. GBV
+
+committees are being instituted in the municipalities along the project corridor; however, these are still in the
+
+nascent phase. The PCUs developed SEA/SH Prevention and Response Action Plans with relevant mitigation
+
+measures, including sensitization and awareness campaigns on GBV/SEA/SH for community members and
+
+building the IAs capacity; developing codes of conduct for project personnel and workers; and strengthening
+
+institutional mechanisms that aid in accessing grievance redressal.
+
+E.         Climate Adaptation and Mitigation
+
+      Climate considerations were at the core of this project design. The key risks identified by the Climate and
+
+Disaster Risk Screening are summarized in the context section. Project activities were defined and prioritized
+
+with the key objective of addressing identified climate change challenges, as presented in detail in the Climate
+
+Technical Note.
+
+       Climate adaptation. Considering the high climate vulnerability level and recent severe climate-related
+
+disruptions and damages faced on the EWH,22 this project was carefully designed to support and finance
+
+transformational climate-resilient and green infrastructure development along the EWH corridor. Maximizing the
+
+investment by financing strategies, measures, and activities to increase its climate resilience is of paramount
+
+importance. Subcomponent 2(c) will finance a resilience planning strategy and related civil works to address
+
+climate risks (such as landslides, flooding, watershed protection measures) at the landscape level, i.e., not just
+
+inside but also mainly outside the RoW (which will be innovative in Nepal, as it is often overlooked in standard
+
+investment projects). Subcomponent 2(b) will address the issue of climate resilience impacting the major urban
+
+bridge infrastructure but most importantly impacting the vulnerable urban communities living in the vicinity of
+
+the bridge, in or along the riverbeds, vulnerable to flooding, in unsanitary conditions. Climate-resilient
+
+engineering measures against flooding, landslides, and temperature risks are incorporated in the design and
+
+construction of all road and bridge infrastructure supported in the RoW under Subcomponents 2(a) and 2(b).
+
+Component 1 will finance the development of a climate and disaster risk management module as well as an
+
+emergency response plan as part of the digital trade systems. Component 3 will finance activities promoting
+
+climate resilience planning best practices through related reforms and capacity building.
+
+       Climate mitigation. The project will contribute to climate change mitigation through reducing emissions
+
+from travel times and congestion by contributing to: (i) the seamless movement of trucks and reduction in truck
+
+idling time (Component 1 and Subcomponent 3(a)); (ii) the provision of service lanes (Subcomponent 2(a)) to
+
+promote non-motorized transport; (iii) inclusive urban design in the green resilient urban bridge development
+
+area (Subcomponent 2(b)); (iv) investment in nature-based solutions, large scale afforestation, and wildfire
+
+
+
+
+
+
+
+22   Prithvi Man Shrestha. 2021. “Rain Damage to Roads, Bridges Estimated at Rs3 Billion.” Kathmandu Post, October 5, 2021.
+
+
+
+
+
+
+
+                                                                         Page 15
+
+     The World Bank
+
+     ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+management systems that expand natural carbon sinks through the Green Resilient Highway Corridor Concept
+
+(GRHCC) (Subcomponent 2(c)).
+
+F.      Gender Equality
+
+       The gender assessment of the road corridor found that women overall have fewer economic
+
+opportunities compared to men. Though wage-earning and self-employment opportunities have increased,
+
+women’s economic engagement is limited to non-formal enterprises. With the COVID-19 pandemic, the
+
+opportunities and businesses for women were further adversely impacted.23 Overall, only 32 percent (239 of 739)
+
+of the enterprises in the six wards along the road corridor are run by women. This figure is consistent with the
+
+national statistic of 30 percent.24 Women entrepreneurs and road users face various barriers to access the
+
+economic benefits of road expansion. There are no dedicated market areas along the corridor. Roadside vendors,
+
+who are mostly women, and their customers will face an increased risk of road safety and security with the
+
+highway expansion. Further, women tend to have limited business skills (including financial and digital literacy),
+
+access to timely market information, and the capital required to scale up an enterprise. Lack of gender-responsive
+
+infrastructure, such as separate toilets and resting areas, makes travel difficult for women.
+
+       The project will improve regional and national trade and services. To ensure that women (entrepreneurs)
+
+in the project corridor can also benefit from the increased economic activity, at least three market areas will be
+
+built along the highway with dedicated spots reserved for women entrepreneurs and traders. The project will
+
+ensure that the market areas offer free Wi-Fi and a digital bulletin board for timely access to trade and market
+
+information, support the construction of gender-responsive and safe infrastructure including separate toilets and
+
+resting spaces, and include actions to address GBV and human trafficking risks. The DoR-DCID will enter a
+
+Memorandum of Understanding (MoU) with the relevant municipalities for the operation and maintenance of
+
+market areas before bidding of works.
+
+       The project will provide accredited entrepreneurship training for at least 350 local women, which will
+
+include digital and financial literacy. The training will also facilitate linkages to other relevant, NGOs, financing
+
+(digital banking) and government services for follow-up support to establish or expand businesses (in sectors
+
+such as trade and agriculture) that will benefit from the road expansion. The project will incorporate the latest
+
+global evidence and best practices from skills-based training for women’s economic empowerment, such as
+
+personal initiative training.25 Women graduating from the training will be prioritized for designated spots in the
+
+market areas. This will be managed by the relevant municipality under the MoU.
+
+       The project includes two gender indicators in the Results Framework. An additional associated indicator,
+
+namely, the number of women receiving entrepreneurship skills training (Baseline: 0, Target: 350) will be tracked
+
+in the annual progress reports only.
+
+G.      Citizen Engagement
+
+      The project will adopt a robust citizen engagement approach throughout its cycle. The SEP sets out the
+
+strategies for consultation with relevant stakeholders—including interested parties, project affected persons
+
+(PAPs), vulnerable and marginalized groups, such as women—and the disclosure of key project information to
+
+
+
+23 According to the Federation of Women Entrepreneurs Association of Nepal, 15 percent of businesses run by women entrepreneurs shutdown while
+
+others have been operating on a limited basis since the pandemic.
+
+24 National Economic Census 2019 – The 2020 World Bank report on SMEs in Nepal indicates that registered female businesses may be intended primarily
+
+
+
+for tax relief - meaningful participation and decision-making authority is low.
+
+25
+
+   World Bank. 2021. What Do We Know About Interventions to Increase Women’s Economic Participation and Empowerment in South Asia. Washington,
+
+DC: World Bank. "https://openknowledge.worldbank.org/handle/10986/35963"
+
+
+
+
+
+
+
+                                                                     Page 16
+
+          The World Bank
+
+          ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+      the public. Local communities have been engaged to ascertain public concerns to ensure inclusive design that
+
+      will enhance access and safety on the EWH. The SEP includes a project-specific grievance redress mechanism
+
+      (GRM) that outlines opportunities and avenues by which project stakeholders can seek redress on project-related
+
+      grievances and complaints. The project plans to conduct satisfaction surveys to track road users’ satisfaction with
+
+      improvements made to the road infrastructure (conducted three times during the project duration). The Results
+
+      Framework includes a related beneficiary feedback indicator and will be monitored during implementation.
+
+
+
+V.    GRIEVANCE REDRESS SERVICES
+
+
+
+             Communities and individuals who believe that they are adversely affected by a World Bank-financed
+
+      project may submit complaints to project-level grievance redress mechanisms or the World Bank’s Grievance
+
+      Redress Service (GRS). The GRS ensures that complaints received are promptly reviewed to address project-
+
+      related concerns. Project affected communities and individuals may submit their complaint to the World Bank’s
+
+      independent Inspection Panel which determines whether harm occurred, or could occur, as a result of World
+
+      Bank non-compliance with its policies and procedures. Complaints may be submitted at any time after concerns
+
+      have been brought directly to the World Bank's attention, and World Bank Management has been given an
+
+      opportunity to respond. For information on how to submit complaints to the World Bank’s corporate GRS, please
+
+      visit http://www.worldbank.org/en/projects-operations/products-and-services/grievance-redress-service. For
+
+      information on how to submit complaints to the World Bank Inspection Panel, please visit
+
+      www.inspectionpanel.org.
+
+
+
+VI.   KEY RISKS
+
+
+
+            The overall risk of achieving the PDO is rated Substantial. The main risks are discussed below.
+
+
+
+            Political and Governance risks are Substantial. Elections are being conducted across all three tiers of
+
+      government during 2022, of which local level elections have been recently concluded. In principle, the federal
+
+      system provides opportunities to decentralize development benefits and make service delivery more effective
+
+      and accountable. The pandemic also underscored the role of local governments, especially in deploying social
+
+      programs. However, the risks of political uncertainty, jurisdictional overlap between the three tiers of
+
+      government, and lack of clarity and coherence between policies and devolved powers will remain in the coming
+
+      period. The World Bank is closely monitoring the country situation and maintains regular dialogue on the
+
+      development agenda with all key stakeholders to mitigate any risks that may be influenced by political change.
+
+      While the extent to which political risks can be mitigated through Project-specific measures is limited, the Project
+
+      design includes specific actions to build public support through broader stakeholder participation, strategic
+
+      communication, and outreach. Other measures include implementing the institutional strengthening activities
+
+      under the Project, dialogue and close collaboration with GoN entities, and proactive engagement by the World
+
+      Bank team and management as issues arise.
+
+             Macroeconomic risk is Substantial. One major uncertainty is related to vaccine deployment and
+
+      effectiveness to stop transmission of a new COVID-19 variant. A second is stronger import control measures to
+
+      mitigate pressures on international reserves, which could affect growth through lower trade-related tax revenue,
+
+      depressed private consumption and production, and lower capital expenditures. The ongoing war in Ukraine, if
+
+      it deepens further, could lower travel demand and may threaten the recovery of tourism and tourism-related
+
+
+
+
+
+
+
+
+
+                                                            Page 17
+
+        The World Bank
+
+        ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+    sectors. While downside risks are significant, Nepal’s strong record of sustained macroeconomic stability during
+
+    periods of large exogenous shocks demonstrates a growing capacity to navigate future macroeconomic risks.
+
+           Technical risk is Substantial. The targeted road section runs through sections of dense linear settlements.
+
+    Effective stakeholder engagement and careful relocation of potential structures that are encroaching the RoW
+
+    will be required. The road also passes through sections that are prone to landslides and flooding. The project will
+
+    incorporate innovative design concepts for the green resilient urban bridge and will require careful management
+
+    of traffic during construction. The engineering risk is mitigated by engaging reputed international consulting firms
+
+    for the preparation of designs and having the DoR technical team (the DoR-DCID and DoR-Bridge Branch) and
+
+    independent experts review the designs where necessary. The World Bank technical review team will, upon
+
+    completion of the final draft detailed designs, travel the entire corridor to review the proposed upgrades. A
+
+    construction supervision consultant will support design review, contract management, and construction quality
+
+    control. The National Vigilance Centre will carry out technical audits as part of GoN’s oversight.
+
+         Environmental and Social risks are Substantial. Details of environmental and social risks and related
+
+    impacts are presented in paragraph 44.
+
+          Fiduciary risk is Substantial. The FM and procurement risks are presented in paragraphs 41 and 42.
+
+           Stakeholder risk is Substantial. Based on stakeholder mapping, the project is likely to involve a broad
+
+    range of stakeholders at the local, provincial, national, and international levels, namely local communities along
+
+    the RoW of project roads, NGOs/CSOs, media, regulatory agencies, trade and commerce bodies, transport
+
+    associations, and development agencies. These stakeholders hold interest, influence and/or are concerned about
+
+    a range of issues, including biodiversity loss, wildlife kills, involuntary resettlement, OCHS, the overall economic
+
+    returns of project investment, and the need for compliance with key regulations. An SEP was thus prepared to
+
+    guide consultation processes and disclosure of relevant project information to stakeholders throughout the
+
+    entire project duration.
+
+.
+
+
+
+
+
+
+
+
+
+                                                          Page 18
+
+                         The World Bank
+
+                         ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+
+
+                                                                     VII.     RESULTS FRAMEWORK AND MONITORING
+
+
+
+
+
+                                                                                      Results Framework
+
+                                                                                       COUNTRY: Nepal
+
+                                                   Accelerating Transport and Trade Connectivity in Eastern South Asia – Nepal Phase 1 Project
+
+
+
+Project Development Objective(s)
+
+The development objective is to increase the efficiency and resilience of trade and transport along selected corridors in Nepal.
+
+
+
+Project Development Objective Indicators
+
+RESULT_FRAME_TBL_ PD O
+
+
+
+
+
+
+
+
+
+                                       Indicator Name                       PBC    Baseline                                    End Target
+
+
+
+
+
+Increased efficiency in trade
+
+
+
+Increased freight throughput at selected border points
+
+                                                                                  0.00                                         15.00
+
+(Percentage)
+
+
+
+Increased efficiency in transport infrastructure and services
+
+
+
+Reduction in travel time along the project corridor (Percentage)                  0.00                                         30.00
+
+
+
+Reduction in vehicle operating costs along the project corridor
+
+                                                                                  0.00                                         16.00
+
+(Percentage)
+
+
+
+Reduction in annual fatalities along the project corridor
+
+                                                                                  0.00                                         20.00
+
+(Percentage)
+
+
+
+Resilient connectivity
+
+
+
+People provided with improved climate resilient road access
+
+                                                                                  0.00                                         1,100,000.00
+
+along the project corridor (Number)
+
+
+
+  PDO Table SPACE
+
+
+
+
+
+
+
+
+
+                                                                                               Page 19
+
+                       The World Bank
+
+                       ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+
+
+Intermediate Results Indicators by Components
+
+RESULT_FRAME_TBL_ IO
+
+
+
+
+
+
+
+
+
+                                     Indicator Name                 PBC    Baseline              End Target
+
+
+
+
+
+Digital Systems for Trade
+
+Automated Border Management System (ABMS) developed
+
+                                                                          0.00                  1.00
+
+(Number)
+
+Green and Resilient Transport and Trade Infrastructure
+
+Road upgraded to 4-lane climate-resilient standard along the
+
+                                                                          0.00                  69.00
+
+EWH (Kilometers)
+
+Existing bridges upgraded to climate resilient standard and new
+
+                                                                          0.00                  37.00
+
+climate resilient bridges constructed (Number)
+
+Green resilient urban bridge constructed at selected location
+
+                                                                          0.00                  1.00
+
+(Number)
+
+Green resilient highway corridor strategy approved and piloted
+
+(Number)                                                                  0.00                  1.00
+
+
+
+Increase in the road users satisfied with improvement made to
+
+                                                                          0.00                  20.00
+
+the road infrastructure (Percentage)
+
+Institutional and Policy Strengthening for Transport and Trade
+
+Motor Vehicle Agreement - priority actions implemented
+
+                                                                          0.00                  3.00
+
+(Number)
+
+Training person-days completed (ex. ecological corridor concept,
+
+climate resilient construction measures, contract administration,         0.00                  1,000.00
+
+and innovative designs) (Number)
+
+Feasibility study for the development of laboratories or
+
+                                                                          0.00                  2.00
+
+warehouses along the corridor completed (Number)
+
+New market spots held by women-owned businesses
+
+                                                                          0.00                  50.00
+
+(Percentage)
+
+New women-owned enterprises established along the project
+
+corridor (through skills training) (Number)                               239.00                285.00
+
+
+
+Grievances received that are processed within the stipulated
+
+                                                                          0.00                  80.00
+
+service standards (EWH) (Percentage)
+
+
+
+
+
+
+
+                                                                                      Page 20
+
+     The World Bank
+
+     ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+
+
+IO Table SPACE
+
+
+
+UL Table SPACE
+
+
+
+
+
+                                                         Monitoring & Evaluation Plan: PDO Indicators
+
+                                                                                                         Methodology for Data       Responsibility for Data
+
+Indicator Name                              Definition/Description         Frequency      Datasource
+
+                                                                                                         Collection                 Collection
+
+                                           Indicator to measure the
+
+                                                                                                         Measured by average of
+
+                                           increase in freight
+
+                                                                                                         cargo tons that are
+
+                                           throughput at Birgunj and       At the start
+
+                                                                                                         moved through the
+
+                                           Bhairahawa border points,       of the
+
+                                                                                                         border points per hour
+
+                                           considering the                 project and
+
+                                                                                          Project        of operations. The
+
+                                           provision/piloting of digital   after
+
+Increased freight throughput at selected                                                  Progress       baseline for the           MoICS
+
+                                           and automated systems           completion
+
+border points                                                                             Report         two selected border
+
+                                           expected to enhance             of
+
+                                                                                                         points will be validated
+
+                                           border crossing and             implement
+
+                                                                                                         within the first three
+
+                                           clearance activities.           ation
+
+                                                                                                         months of
+
+                                           Baseline: 190 ton/h at
+
+                                                                                                         implementation.
+
+                                           Birgunj (tbd for
+
+                                           Bhairahawa)
+
+                                           Indicator to measure
+
+                                                                                          Economic
+
+                                           reduction of average            At the start
+
+                                                                                          analysis and
+
+                                           vehicle travel time after       and after                     Review of the Project
+
+Reduction in travel time along the project                                                assessment                                DoR-DCID
+
+                                           completion of Butwal-           completion                    and consultants’ reports
+
+corridor                                                                                  after works
+
+                                           Chanauta road                   of works
+
+                                                                                          completion
+
+                                           improvement. Baseline: 83
+
+                                           minutes
+
+                                           Indicator to measure            At the start   Economic
+
+                                           reduction of average            of and         analysis and   Review of the Project
+
+Reduction in vehicle operating costs along                                                                                          DoR-DCID
+
+                                           vehicle operating costs         after          assessment     and consultants’ reports
+
+the project corridor
+
+                                           after completion of Butwal-     completion     after works
+
+                                           Chanauta road                   of works       completion
+
+
+
+                                                                               Page 21
+
+     The World Bank
+
+     ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+
+
+                                            improvement. Baseline: 40
+
+                                            NPR/km
+
+                                                                                                           The metric estimates
+
+                                            Indicator to measure
+
+                                                                           At the start                    crash fatalities (provided
+
+                                            effectiveness of road safety                  Police
+
+                                                                           of and                          by traffic police reports)
+
+                                            interventions on the East                     reports; DoR's
+
+Reduction in annual fatalities along the                                   after                           which is normalized by     DoR-DCID
+
+                                            West Highway between                           traffic count
+
+project corridor                                                           completion                      vehicle km travelled
+
+                                            Butwal and Chanauta.                          report
+
+                                                                           of works                        (data provided by DOR’s
+
+                                            Baseline: 95
+
+                                                                                                           traffic count report)
+
+                                            fatalities/billion veh-km
+
+                                                                                                           Assessment of the
+
+                                                                                                           number of people
+
+                                                                                                           expected to have direct
+
+                                            The number of people
+
+                                                                                                           access to an improved
+
+                                            expected to have direct        At the start
+
+                                                                                          Project          climate-resilient
+
+People provided with improved climate       access to an improved          and at the
+
+                                                                                          Progress         highway corridor along      DoR-DCID
+
+resilient road access along the project     climate-resilient highway      end of the
+
+                                                                                          Report           Butwal-Gorusinghe-
+
+corridor                                    corridor along Butwal-         project
+
+                                                                                                           Chanauta section based
+
+                                            Gorusinghe-Chanauta
+
+                                                                                                           on population statistical
+
+                                            section will be assessed.
+
+                                                                                                           data in the catchment
+
+                                                                                                           area
+
+
+
+ME PDO Table SPACE
+
+
+
+
+
+                                                 Monitoring & Evaluation Plan: Intermediate Results Indicators
+
+                                                                                                           Methodology for Data        Responsibility for Data
+
+Indicator Name                              Definition/Description         Frequency      Datasource
+
+                                                                                                           Collection                  Collection
+
+                                                                           At the start
+
+                                                                                          Project
+
+                                            Indicator to measure           of and                          Review of the Project
+
+Automated Border Management System                                                        Progress                                     MoICS
+
+                                            whether an ABMS was            after                           and consultants’ reports
+
+(ABMS) developed                                                                          Report
+
+                                            developed                      completion
+
+                                                                           of works
+
+
+
+                                                                               Page 22
+
+     The World Bank
+
+     ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+
+
+
+
+                                          Indicator to measure the                       Quarterly
+
+                                                                           End of the                    Review of Quarterly
+
+Road upgraded to 4-lane climate-resilient length of roads improved                       Progress                                  DoR-DCID
+
+                                                                           Project                       Progress Report
+
+standard along the EWH                    or upgraded to 4-lane                          Report
+
+                                          standard
+
+                                          Indicator to measure the
+
+                                          number of bridges
+
+                                                                                         Quarterly
+
+Existing bridges upgraded to climate      upgraded or constructed to       End of the                    Review of Quarterly
+
+                                                                                         Progress                                  DoR-DCID
+
+resilient standard and new climate        climate resilient standards      project                       Progress Report
+
+                                                                                         Report
+
+resilient bridges constructed             along the East West
+
+                                          Highway between Butwal
+
+                                          and Chanauta
+
+                                          Indicator to measure the
+
+                                                                                         Project
+
+                                          construction of a green and      End of the                    Review of Project
+
+Green resilient urban bridge constructed                                                 Progress                                  DoR-DCID
+
+                                          resilient urban bridge along     Project                       Progress Report
+
+at selected location                                                                     Report
+
+                                          the East West Highway
+
+
+
+                                            Indicator to measure the                     Letter of
+
+                                                                           Approval at
+
+                                            approval of a green                          endorsement
+
+                                                                           MTR and                       Review of letter of
+
+                                            resilient highway corridor                   from MoPIT
+
+Green resilient highway corridor strategy                                  investment                    endorsement and           DoFSC
+
+                                            strategy and the                             and Project
+
+approved and piloted                                                       s at end of                   Project Progress Report
+
+                                            implementation of                            Progress
+
+                                                                           the Project
+
+                                            proposed pilot measures                      Report
+
+
+
+                                            Indicator to measure the
+
+                                            variation in level of
+
+                                                                           Start, mid-
+
+                                            satisfaction of the road
+
+Increase in the road users satisfied with                                  term and      Satisfaction                              DoR-DCID, through
+
+                                            users after completion of                                    Satisfaction survey
+
+improvement made to the road                                               end of        survey report                             Independent Consultant
+
+                                            construction works. Three
+
+infrastructure                                                             project
+
+                                            surveys will be carried out,
+
+                                            taking into consideration
+
+                                            key parameters of access
+
+
+
+                                                                               Page 23
+
+     The World Bank
+
+     ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+
+
+                                            and quality. The surveys
+
+                                            will be carried out at the
+
+                                            beginning of the project
+
+                                            (baseline), at mid-term and
+
+                                            at project closure.
+
+                                            Corrective measures must
+
+                                            be taken based on users
+
+                                            feedback.
+
+                                                                        At the start
+
+                                                                                       Endorsed by
+
+                                            This indicator measures the and at the                      Review of letter of
+
+Motor Vehicle Agreement - priority                                                     MoPIT,                                   DoR-DCID
+
+                                            number of MVA priority      end of the                      endorsement
+
+actions implemented                                                                    MoICS, MoF
+
+                                            actions implemented         project
+
+
+
+                                            Indicator to measure the
+
+                                                                                                        Review of training
+
+                                            number of training person                  Project
+
+                                                                                                        attendance registers.
+
+Training person-days completed (ex.         days completed on                          Progress
+
+                                                                                                        Calculated as training
+
+ecological corridor concept, climate        proposed topics. There       Annual        Report                                    DoR-DCID
+
+                                                                                                        events x people
+
+resilient construction measures, contract   must be a reservation of at                and independ
+
+                                                                                                        attended x days duration
+
+administration, and innovative designs)     least 20% for private sector               ent evaluation
+
+                                                                                                        of the training.
+
+                                            participants.
+
+
+
+                                            Indicator to measure the                   Quarterly
+
+Feasibility study for the development of                                                                Review of Quarterly
+
+                                            completion of the             Quarterly    Progress                                 MoICS
+
+laboratories or warehouses along the                                                                    Progress Report
+
+                                            feasibility study                          Report
+
+corridor completed
+
+                                     The percentage of new
+
+                                                                                                        Municipality Records
+
+                                     market spots in the new                                                                    DoR-DCID will do a soft
+
+                                                                                       Municipality     and Registrations.
+
+                                     market centers that are                                                                    MoU with the
+
+                                                                                       Annual           Survey data collected
+
+New market spots held by women-owned reserved for and in use by Annual                                                          Municipality Monitoring
+
+                                                                                       Progress         under MEDPA or other
+
+businesses                           women-owned businesses.                                                                    and Coordinating
+
+                                                                                       Report           development programs
+
+                                     A constant occupancy of 50                                                                 Committee
+
+                                                                                                        by the municipality
+
+                                     percent will be maintained
+
+                                     throughout the year
+
+
+
+                                                                             Page 24
+
+       The World Bank
+
+       ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+
+
+                                              The number of new women
+
+                                              who established new
+
+                                              business enterprises after                                Municipality Records
+
+                                              participating in the project               Municipality   and Registrations.       DoR-DCID will do a soft
+
+New women-owned enterprises                   entrepreneurship training.                 Annual         Surveys data collected   MoU with Municipality
+
+                                                                           Annual
+
+established along the project corridor        These enterprises are                      Progress       under MEDPA or other     Monitoring and
+
+(through skills training)                     registered with the                        Report         development programs     Coordinating Committee
+
+                                              municipality/relevant                                     by the municipality
+
+                                              wards along the project
+
+                                              corridor.
+
+
+
+                                              Indicator to measure the
+
+                                              functionality of the
+
+                                              grievance redress                                                                  DoR-DCID – reporting by
+
+Grievances received that are processed                                                                  Review of the GRM
+
+                                              mechanism in DOR under        Quarterly    GRM database                            project monitoring
+
+within the stipulated service standards                                                                 reports
+
+                                              the Project. Standards for                                                         specialist
+
+(EWH)
+
+                                              different type of grievances
+
+                                              to be set up as a part of the
+
+                                              GRM processing protocols
+
+    ME IO Table SPACE
+
+
+
+
+
+
+
+
+
+.
+
+
+
+
+
+
+
+
+
+                                                                               Page 25
+
+The World Bank
+
+ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+
+
+                        ANNEX 1: Implementation Arrangements and Support Plan
+
+
+
+                                                 COUNTRY: Nepal
+
+                                           ACCESS – Nepal Phase 1 Project
+
+
+
+        Implementation arrangements are as follows:
+
+  a) At the regional level, for coordination and knowledge exchange: a regional coordination platform will be
+
+     formed. This platform will comprise the heads (Chairperson, Executive Director, Secretary, or the like) of the
+
+     transport and land port authorities or simi lar agencies in Bangladesh and Nepal. The platform is intended to
+
+     serve as a forum for knowledge sharing and peer-to-peer learning between countries and through
+
+     international good practice (see parent PAD – PAD4707).
+
+  b) At the country level in Nepal, for interministerial coordination: overall project oversight will be the
+
+     responsibility of a Project Steering Committee (PSC). The PSC will be chaired by MoPIT Secretary and will
+
+     include representatives of DoR, MoICS, DoFSC and MoF. The PSC will provide cross-sectoral coordination and
+
+     will be responsible for smooth implementation of the project. It will consist of officials and technical experts
+
+     of relevant ministries and agencies who will also provide technical guidance. The PSC will be formed within 3
+
+     months of Project effectiveness.
+
+  c) For the Nepal project activities: coordination, procurement, implementation, and supervision of the works
+
+     under each component will be the responsibility of dedicated Project Coordination Units (PCUs) in DoR-
+
+     DCID, MoICS, and DoFSC. These PCUs will be supported by designated implementation units at the central
+
+     level or provincial level as needed.
+
+                           Figure A1.1: Country-level project implementation arrangement
+
+
+
+
+
+
+
+
+
+        Digital Systems for Trade activities (Component 1) will be managed by the MoICS PCU—in coordination
+
+  with two designated implementation units (PIUs) in relevant agencies responsible for implementation of the
+
+  subcomponents, i.e., the National Intermodal Transport Development Board (NITDB), and the Department of
+
+  Customs (DoC). The MoICS PCU, headed by a Project Director, includes staff with the requisite experience and
+
+
+
+
+
+
+
+                                                        Page 26
+
+The World Bank
+
+ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+
+
+  skills for managing systems development, environmental and social risk management, and contract management,
+
+  and will be supported by additional procurement and FM experts.
+
+        Green and resilient transport and trade infrastructure (Component 2):
+
+  a) Subcomponents 2(a) and 2(b) will be managed by the DoR-DCID PCU—in coordination with designated project
+
+     implementation units (PIUs) in the District Road Offices, where required, and with technical support from the
+
+     DoR-Bridge Branch. The PCU, headed by the Deputy Director General, is composed of Senior Division
+
+     Engineers, Project Managers, Engineers, Procurement and Contract Management Specialists, Environmental
+
+     Management Specialists, Social Development Specialists, and a Gender and Social Inclusion Specialist, with
+
+     primary responsibility for planning, preparation, procurement, and implementation of the road improvement
+
+     works for this specific project. It will be supported by additional safeguards and FM specialists.
+
+  b) Subcomponent 2(c) will be managed jointly by the DoFSC PCU—in coordination with two designated project
+
+     implementation units (PIUs) at the provincial level (in Lumbini and Sudurpashchim provinces), and by the DoR-
+
+     DCID PCU. As a mitigation and capacity strengthening measure, the DoFSC PCU will be guided by a specific
+
+     steering committee under MoFE (see Figure A1.2).
+
+          The MoFE Steering Committee (SC): The SC must be operational within 3 months of project effectiveness.
+
+  It is required for the effective planning, coordination, and implementation of the concept’s activities. It will be
+
+  established by the MoFE and chaired by the MoFE Secretary. The SC will have members from relevant MoFE
+
+  departments as well as other GoN’s agencies relevant to the strategy development and implementation, such as
+
+  the National Planning Commission, the DoR, the Ministry of Water Supply, the National Disaster Risk Reduction
+
+  Management Authority, and provincial ministries as needed. The key roles of the SC are: (i) overall coordination
+
+  of the concept’s implementation; (ii) endorsement of the work plans; (iii) proactive resolution of any
+
+  implementation bottlenecks.
+
+         The DoFSC PCU: A fully staffed PCU must be operational within 3 months of project effectiveness. The PCU,
+
+  headed by a Project Director, will be staffed with government staff and professional consultants. The DoFSC PCU
+
+  will be responsible for procuring activities under the federal jurisdiction, while the two provincial PIUs will be
+
+  responsible for the activities under the provincial jurisdiction in line with MOUs to be signed between the DoFSC
+
+  and the provincial ministries. The DoFSC PCU main functions would be to: (i) prepare procurement packages in
+
+  coordination with relevant stakeholders; (ii) coordinate and supervise implementation of activities with the
+
+  provincial level; (iii) monitor, evaluate, and report on technical, fiduciary, environmental and social, and other
+
+  implementation aspects. PCU consultants will also be paid through project funds, based on the agreed budget
+
+  plan, and must be fully dedicated to this project only over the six-year project period to ensure successful
+
+  implementation. The PCU will be staffed by approximately 10-15 specialists, including the PCU project director,
+
+  PCU senior manager(s), fiduciary specialists (accountants, data analysts, financial and procurement specialists),
+
+  technical specialists (geologists, engineers, hydrologists, foresters, watershed management specialists, etc.),
+
+  environmental, social, community, and gender specialists, monitoring and evaluation specialists, IT support, and
+
+  other specialists, as needed.
+
+        Division of responsibilities between DoFSC and DoR-DCID. The risk assessments, strategy, and action plan,
+
+  related to the GRHCC, will be developed, and approved for the entire EWH under Subcomponent 2(c). The strategy
+
+  and action plan will inform and help identify the specific activities/works to be piloted under the project and will
+
+  provide the approval mechanism for their implementation. Identified activities/works to be financed under the
+
+  project will be focused on the western part of the EWH from Butwal to Gaddachauki only:
+
+
+
+
+
+                                                        Page 27
+
+The World Bank
+
+ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+
+
+  a) The risk assessments, strategy development and all activities outside the RoW between Butwal and
+
+     Gaddachauki will be led and procured by DoFSC under Subcomponent 2(c).
+
+  b) All activities in the RoW between Chanauta and Gaddachauki will be led and procured by DoR-DCID under
+
+     Subcomponent 2(c).
+
+  c) All activities in the RoW between Butwal and Chanauta will be carried out by DoR-DCID as part of the highway
+
+     upgrading contracts under Subcomponent 2(a).
+
+
+
+
+
+
+
+
+
+        Figure A1.2: Implementation arrangements for MoFE’s activities under Subcomponents 2(c) and 3(d)
+
+
+
+        Institutional and policy strengthening for transport and trade (Component 3). For institutional
+
+  strengthening activities, the implementation will be supported by the PCUs in the DoR-DCID, MoICS, and DoFSC,
+
+  which will work in coordination with designated implementation units. Subcomponent 3(a) will be implemented
+
+  by the DoR-DCID. Sub-component 3(b) will be implemented by the MoICS. Subcomponent 3(c) will be
+
+  implemented by the DoR-DCID. Subcomponent 3(d) will be jointly implemented by DoR-DCID, MoICS, and DoFSC.
+
+  Subcomponent 3(e) will be jointly implemented by the MoICS and DoR-DCID.
+
+        For each civil works contract, the DoR-DCID and DoFSC will award contracts in accordance with the
+
+  readiness criteria, which will include, inter alia: (i) the completion of the notifications for any necessary land
+
+  acquisition; (ii) the securing of all environmental clearances (including any mandatory public hearings) and
+
+  government permits for construction activities; (iii) the completion of all measures and actions in accordance with
+
+  the ESCP; and (iv) the engagement of a supervision consulting firm for major civil works, with qualifications and
+
+  experience and under terms of reference acceptable to the World Bank, in order to assist the respective PIU with
+
+  contract management, monitoring and supervision, and certification of the contractors’ performance, including
+
+  compliance with and implementation of the ESCP.
+
+          For each civil works contract, the Environment and Social Management Plan (ESMP) will be made an
+
+  integral part of the bid and contract documents, and the bid will include a detailed environmental and social
+
+  mitigation budget as part of the costs. The contractors will prepare site-specific ESMPs, and subplans identified
+
+  in the ESCP and will be responsible for implementation of and compliance with the ESMPs. For this purpose, the
+
+  contractors will hire Environmental Specialist(s) and Health and Safety Officer(s)/Specialist(s). The Supervision
+
+  Consultant/Independent Engineer of these activities will ensure implementation and monitoring of the ESMP, by:
+
+  (i) reviewing site-specific ESMPs and developing good practices to assist contractors in their implementation; (ii)
+
+  ensuring that contractors comply with ESMP requirements and that construction activities are environmentally
+
+
+
+
+
+                                                        Page 28
+
+The World Bank
+
+ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+
+
+  sound and sustainable; and (iii) preparing and submitting regular environmental progress reports, including
+
+  contract-wise breakdown of non-compliance and rectification by contractors, and monitoring results.
+
+         The Environmental Specialists of the respective Supervision Consultant/Independent Engineer will be
+
+  responsible for ESMP implementation and reporting any non-compliance to the relevant authority. In addition,
+
+  Independent Environmental Monitoring Consultants will monitor environmental quality parameters (ambient air
+
+  quality, ground and surface water quality, noise levels, health and safety, etc.) at locations identified in the ESMP.
+
+  An Environmental Specialist in the PCU will provide oversight. All reports will be provided to the World Bank for
+
+  review, after which remedies will be undertaken by the PCU or PIU.
+
+         As regards resettlement/compensation requirements, the Deputy Director General of the DoR-DCID (PCU
+
+  Project Director) will be responsible for the implementation of the RAP and cross-agency coordination,
+
+  including grievance redress. The Project Director will be assisted by a Social Development/Resettlement
+
+  Specialist. A Land Acquisition Officer and additional representatives, if deemed necessary, will acquire the land. A
+
+  Resettlement Action Plan (RAP) Coordination Committee, including the Project Director and Land Acquisition
+
+  Officer, will assist in RAP implementation and ensure that all agencies involved are fully informed of RAP and
+
+  World Bank policy requirements. The Social Development/Resettlement Specialist will: (i) review and verify
+
+  internal monitoring reports; (ii) identify and select impact indicators; (iii) conduct an impact assessment through
+
+  formal and informal surveys with project-affected persons (PAPs); (iv) consult with PAPs and the DoR-DCID in
+
+  preparing review reports; and (v) assess the resettlement efficiency, effectiveness, impact, and sustainability.
+
+  Monitoring will focus on the status of project-affected vulnerable groups, such as female-headed households and
+
+  poor families. Indicators are expected to include: (i) the socioeconomic conditions of PAPs; (ii) reactions from PAPs
+
+  on entitlements and compensation; (iii) changes in housing and business restoration; (iv) grievance procedures,
+
+  including recording, processing time, and redress; (v) progress of community development schemes; (vi)
+
+  disbursement of compensation; and (vii) satisfaction of PAPs in the post-resettlement period. An independent
+
+  agency (NGO, academic institute, or a consultant) will conduct periodic monitoring and evaluation and third-party
+
+  validation of RAP activities.
+
+         Grievance redress mechanism (GRM). The project-level GRM addresses overall project-related grievances
+
+  and will include grievance redress committees (GRCs) at the field and PCU levels. The GRCs will respond to
+
+  complaints received from affected people and provide timely, transparent, and fair resolutions. Details of the
+
+  GRM will be widely disseminated, the GRM registers will be accessible to communities and other stakeholders,
+
+  and information on the corrective actions taken in response to the grievances will be shared with stakeholders. In
+
+  addition to onsite GRMs, the project will consider developing an interactive voice response system to receive
+
+  complaints and suggestions from citizens. The GRM will be gender responsive, culturally appropriate, and readily
+
+  accessible to the PAPs at no cost and without retribution. The system will be accessible to women and girls; female
+
+  PAP representatives will be included in the GRC to help redress grievances specific to women. In addition, a GRM
+
+  will be established for worker-related grievances.
+
+          A SEA/SH GRM will be established locally at the project site as a corresponding body to the overall project
+
+  GRM using the existing framework. As recognized by the 2019 “Grievance Redress for Sexual Exploitation and
+
+  Abuse in World Bank Projects” note, GBV/SEA/SH requires specific attention to allow for prompt, safe, and ethical
+
+  handling of and response to GBV/SEA/SH cases in a survivor centric approach. A GBV focal point at the project
+
+  level will be identified within the GRC, who will respond to all GBV/SEA/SH cases incurred by the project. The focal
+
+  point will link with and refer cases to existing local GBV services or can also coordinate and link with the 24-hour
+
+  toll-free helpline “Khabar Garau-1145” to provide support to survivors.
+
+
+
+
+
+
+
+                                                         Page 29
+
+The World Bank
+
+ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+
+
+  Financial Management
+
+         Institutional Arrangements and Financial Regulations. Each PCU will be responsible to ensure sound FM
+
+  arrangements of their component under the project. Given the number of cost centers, it is crucial to ensure
+
+  strong coordination and collaboration amongst all the implementing agencies during the preparation of respective
+
+  agency’s AWPB. The GoN Financial Procedure and Fiscal Accountability Act (FPFAA), 2019, Financial Procedure
+
+  and Fiscal Accountability Regulations, 2021 and the respective Provincial Financial Procedure Acts will govern the
+
+  project for programming, budgeting, accounting, funds flow, reporting, internal control, internal audit, external
+
+  audit, and other financial management procedures—these will also be reflected in the PIM. The draft PIM was
+
+  submitted to the World Bank prior to project negotiations. The final PIM will be shared with the World Bank for
+
+  review prior to project effectiveness, be endorsed by the PSC, and will be subject to periodic updating, based on
+
+  implementation experience.
+
+         AWPB and Budget Authorization. Budget will be released upon approval of the Appropriation Act to the
+
+  Secretaries of MoPIT, MoICS and MoFE based on the approved AWPB. Each PCU will be responsible to prepare
+
+  the AWPB. The budget will accordingly be reflected in the LMBIS as per the approved AWPB for each PCU and PIU.
+
+  The budget for activities to be implemented by the Division Forest Offices of the Provinces will be included in
+
+  MoFE’s budget and it will be provided as conditional grants to the respective provinces. The respective provinces
+
+  will enter the budget for such activities in the Provincial LMBIS. The PCUs will ensure: (i) before project
+
+  effectiveness, that a separate budget head is entered in the ‘Appropriation Book’ (Red Book) for the budget
+
+  proposed in the FY23 LMBIS; (ii) availability of budget for the first year of implementation if the loan agreement
+
+  is signed after presentation of the budget in the Parliament; and (iii) the preparation and submission of the AWPB
+
+  together with disbursement projections to the World Bank before the start of each FY.
+
+         Accounting and Financial Reporting. The Nepal Public Sector Accounting Standards will be used as the
+
+  accounting standard. All PCUs, PIUs and cost centers will maintain their project accounts in the Computerized
+
+  Government Accounting System. All project offices will maintain a separate sub-ledger to record and report
+
+  budget and expenditures by category, component, subcomponent, and activity as prescribed in the PIM. The PIUs
+
+  will consolidate and provide financial reports required for IUFRs to respective PCUs within 30 days from the end
+
+  of the quarter. Each PCU will maintain the IDA credit register and the Withdrawal Monitoring Register. Each PCU
+
+  will submit the IUFR to the World Bank separately. The PCUs will consolidate reports from PIUs and submit
+
+  separate quarterly implementation progress reports, which will include IUFRs, and the procurement management
+
+  reports, within 45 days from the end of the quarter. Project implementation progress reports will be prepared
+
+  from the date of credit effectiveness, showing the sources and uses of funds, statement of GoN funds and GoN
+
+  reimbursable funds, statement of expenses by category and component, statement of IDA disbursement, output
+
+  monitoring report, procurement management report, and narrative progress report in the format agreed with the
+
+  World Bank.
+
+         Internal Control. The GoN has clear legal provisions and procedures in place to ensure budget commitment
+
+  control as depicted in the Public Expenditure and Financial Accountability (PEFA) assessment conducted in
+
+  FY13/14. The District Treasury Comptroller Offices (DTCOs) and Province Treasury Comptroller Offices (PTCOs)
+
+  will make payments only after ensuring the adequate budget and sources of funds in conformity with the budget
+
+  release procedures. Expenditures are deemed to be incurred only if there is an approved budget and balance to
+
+  cover the expenditure. However, the internal control weakness, provided in the external audit, is not addressed
+
+  effectively. The project will maintain a log of the Office of Auditor General (OAG) recommendation and ensure
+
+  resolutions/actions taken on the findings reported by the OAG in the succeeding year’s audit.
+
+
+
+
+
+
+
+                                                       Page 30
+
+The World Bank
+
+ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+
+
+         Internal Audit. The Financial Comptroller General Office (FCGO), through the respective DTCOs for the
+
+  federal government and PTCOs for the provincial governments, is responsible for internal audits. The internal
+
+  audit coverage is 100 percent; however, as highlighted in the PEFA 2014, the internal audit has minimal focus on
+
+  systems monitoring and is more focused on the pre-audit of transactions and preparation of treasury reports
+
+  (PEFA, FY13/14). As per Section 33 (4) of the FPFAA, the internal audit of the GoN’s offices should be conducted
+
+  quarterly and internal audit of the provincial governments on periodic basis as specified in the respective Province
+
+  Financial Procedure Acts, and reports should be prepared. However, in practice, reports are issued annually or
+
+  semi-annually for the implementing agencies. The FCGO has provisioned a separate account sub-group in the civil
+
+  service for internal auditors who work at DTCOs and PTCOs. The respective PCU/PIU will be responsible for
+
+  quarterly audits and resolving any audit observations as per the prevailing Law. Government has strengthened
+
+  internal audit by creating independent internal audit cadres, updating internal audit guidelines, and internal audit
+
+  standards are under development. While internal audit is still transactional, it is recommended to further
+
+  strengthen fiduciary management through reviews conducted by the FM Consultant in each PCU. The World Bank
+
+  team will review the internal control of the project throughout implementation.
+
+         External Audit. The OAG of Nepal, as mandated by the Constitution of Nepal, will conduct audits of all PCUs
+
+  and PIUs under the project. Each PCU will coordinate with PIUs and OAG to ensure the timely completion of project
+
+  audits. The annual audited project financial statements and the audit reports will be submitted to the World Bank
+
+  separately by each PCU. These statements and reports will be disclosed on the website of each PCU as well as the
+
+  World Bank website. Given the number of IAs and the need for OAG to conduct and consolidate reports for each,
+
+  the external audit report of the project for each year of project implementation will be submitted to the World
+
+  Bank within nine months from the end of the fiscal year. There are no overdue audits from the implementing
+
+  ministries as a portfolio-wise extension has been provided by the World Bank and audit reports are due on June
+
+  15, 2022.
+
+        Funds Flow Modality and Arrangement. DTCOs and PTCOs will make payments for the expenditures
+
+  incurred for the project, based on the AWPB of: (i) DoR-DCID; (ii) MoICS; and (iii) DoFSC and two provincial PIUs
+
+  under DoFSC component. The IDA share of expenditure will also be pre-financed through GoN’s consolidated fund.
+
+  Direct payments or direct reimbursements could also be made from the World Bank. Special commitment
+
+  payments could also be provided from the World Bank.
+
+         Disbursement. The disbursement from the World Bank will be report-based for each PCU. All PCUs have
+
+  requisite experience in implementing IDA-financed projects thus providing a proven base for financial
+
+  management and reporting. Each PCU will be responsible for the disbursements and submission of withdrawal
+
+  applications under their respective components. For reported eligible expenditures from PCUs, reimbursement or
+
+  direct payment for the amounts above the threshold, or special commitment payment, can also be made as
+
+  specified in the Disbursement Letter issued by the World Bank.
+
+         Implementation Support. The World Bank will support the IAs on a regular basis, specifically by providing
+
+  feedback on IUFRs, during supervision missions and field visits, and training. Field visits will be more frequent in
+
+  the initial stages. Once the finance staff is in place, the World Bank will conduct required training sessions.
+
+
+
+  Procurement
+
+
+
+        The combined draft Project Procurement Strategy Development for all IAs and draft procurement plan
+
+  for the first 18 months of project implementation, acceptable to the World Bank, have been finalized. The
+
+
+
+
+
+
+
+                                                        Page 31
+
+The World Bank
+
+ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+
+
+  procurement plans will be approved and updated using the STEP online system. All project procurement activities
+
+  will be carried out by the respective PCUs at the DoR-DCID, MoICS, and DoFSC and will include, but not be limited
+
+  to: (i) managing the overall procurement activities and ensuring compliance with the agreed procurement
+
+  procedures; (ii) preparing and updating the procurement plan semiannually or as necessary, to reflect project
+
+  implementation needs; (iii) preparing bid documents, drafting RFPs, evaluating bids and proposals, and awarding
+
+  contracts in compliance with World Bank Regulations; (iv) ensuring documents for all post-review procurement
+
+  activities are up-to-date in STEP; and (v) seeking and obtaining a no-objection from the World Bank on
+
+  procurement documents for all prior-review procurement activities under the approved procurement plans.
+
+         The respective IAs have prior experience with World Bank projects. The DoR-DCID has experience with
+
+  World Bank-financed projects and has qualified procurement officers and consultants. The MoICS has experience
+
+  in implementing World Bank-financed projects but needs additional qualified procurement consultants to support
+
+  project procurement activities. The DoFSC has recent implementation experience with World Bank-financed
+
+  projects but requires additional qualified procurement consultants dedicated to this project. The project will
+
+  support a few high value and technically complex civil works contracts (including a design and build contract) and
+
+  will thus require prior World Bank review.
+
+         Works contracts for upgradation of the BGC road. There will be three major works contract packages using
+
+  the Output and Performance-Based Road Contract method, building on the SRCTIP experience, as a method to
+
+  enhance construction quality and road performance post construction. For these contracts, the GoN will adopt
+
+  the related World Bank’s SPD, including five years of road maintenance post construction. The same contractor
+
+  will be liable during the construction and five-year maintenance period. Construction will be funded by the project,
+
+  while the five-year maintenance will be funded by the GoN (including after the project closing date).
+
+          Works contract for construction of the green resilient urban bridge. Given the multispatial and
+
+  multisectoral nature of the green resilient urban bridge development and complementary urban regeneration
+
+  activities, the GoN through the DoR and MoPIT proposes to procure an international contractor under a design
+
+  and build contract in one package. The World Bank’s SPD for design and build contracts will be used. The
+
+  contractor will be responsible for the detailed engineering report and architectural drawings, the required
+
+  safeguards documentation, and the construction after approval of the design by the DoR-DCID, the DoR-Bridge
+
+  Branch and the World Bank. The design and build contract will also include a five-year performance-based
+
+  maintenance period for the approach roads and bridge. The management and maintenance of the regenerated
+
+  urban space will be done by the relevant municipality and not financed under this project.
+
+        Works contracts for the civil works for incremental interventions (Subcomponent 2(c)). These small works
+
+  contracts will follow the World Bank’s SPD for works with traditional item-rate contracts.
+
+        Selection of consulting services. The major consulting contract packages are:
+
+  a) Consulting services for the detail design of GC, and construction supervision of the BGC road works and the
+
+     green resilient urban bridge works; consulting services for training and other capacity-building activities;
+
+     consultants to be hired under the respective PCUs; consulting services for all preparatory studies related to
+
+     future projects; and
+
+  b) Technical assistance for the maintenance of the new urban infrastructure on the green resilient urban bridge
+
+     site (an MoU will be entered with the local municipality responsible for the related maintenance): consultancy
+
+     support to develop bid documents and the relative procurement framework to hire a facilities management
+
+
+
+
+
+
+
+                                                        Page 32
+
+The World Bank
+
+ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+
+
+      firm on a Public-Private-Partnership/revenue-sharing agreement basis for managing and maintaining the
+
+      urban infrastructure (including ensuring safety, maintenance, crowd management, allocating shops to project
+
+      beneficiaries, and planning events in the regenerated urban space displaying the rich culture of the Greater
+
+      Lumbini Area). The decision on the actual management and maintenance contract, not financed under this
+
+      project, will be done by the relevant municipality.
+
+        Other procurement. Procurement of goods and non-consulting services are envisaged under Component 1
+
+  for the digital systems and related equipment. Additionally, procurement of equipment as needed under
+
+  Subcomponent 3(d) will be supported.
+
+         Prior reviews and post reviews. All contracts are subject to review by the World Bank. High-value and high-
+
+  risk contracts will be subject to prior review as agreed in the procurement plan. Other contracts will be reviewed
+
+  ex-post on a sample basis depending on the assessed procurement risk of the activity.
+
+
+
+  Strategy and Approach for Implementation Support
+
+
+
+         The World Bank will support project implementation based on the risks identified and the mitigation
+
+  measures proposed in the risk section. It will undertake regular semiannual implementation support review
+
+  missions jointly with the International Economic Cooperation Coordination Division (under the MoF) and the IAs,
+
+  whose reports will form the basis for the agenda of such reviews, to confirm project performance and areas of
+
+  concern. The World Bank team will be led by the Task Team Leader and comprise specialists in all the key
+
+  functional areas—technical, fiduciary management, safeguards, and project management (see Table A1.1).
+
+         Regarding fiduciary aspects, the World Bank FM team will support the IAs on a regular basis, specifically by
+
+  providing feedback on IUFRs, and during supervision missions. Once the required FM staff are in place, the World
+
+  Bank FM team will also conduct orientation or training sessions as required. At the beginning of the project, a
+
+  procurement orientation will be provided to all project-related staff, including project directors, coordinators,
+
+  procurement officials, and consultants. The ongoing World Bank-financed Integrated Public Financial
+
+  Management Reform Project will provide an opportunity for project staff to attend professional procurement
+
+  training on works, goods, and consulting services organized by the International Training Centre of the
+
+  International Labor Organization, in association with the Nepal Administrative Staff College. The World Bank’s
+
+  procurement team will organize procurement clinics customized for the project.
+
+        In keeping with the PDO and Results Framework, implementation support will focus on technical aspects
+
+  related to road improvement works and trade improvement, procurement, FM, environmental and social
+
+  safeguards, and monitoring and evaluation. In each of these focus areas, the World Bank will bring in-house or
+
+  external expertise and support the training of the respective IAs staff. World Bank support will be provided
+
+  through regular communication, documents review, semiannual support reviews, as well as thematic reviews.
+
+        A mid-term review (MTR) will be conducted within 40 months from credit effectiveness. The MTR will
+
+  assess the overall implementation performance and progress towards the achievement of the PDO, and if
+
+  necessary, make recommendations for adjustments to the project for consideration by the GoN and the World
+
+  Bank. As noted in the ACCESS MPA Program document (see parent PAD – PAD4707), a joint program MTR will also
+
+  be conducted to monitor progress towards meeting the PrDO. Ahead of this joint program MTR, the GoN will
+
+  prepare a detailed report describing the implementation progress of the project and progress towards meeting
+
+  the PrDO and intermediate outcomes.
+
+
+
+
+
+
+
+                                                        Page 33
+
+The World Bank
+
+ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+
+
+                          Table A1.1: Skills Needed during Implementation (World Bank Support)
+
+                  Focus                            Skills Needed                   Resource Estimate (staff weeks (SW))
+
+
+
+                  Trade Components                 Trade Specialist                             4 SW/year
+
+                  Transport Components             Transport Sector Specialist                  4 SW/year
+
+                                                   Highway Specialist                           2 SW/year
+
+                                                   Urban Specialist                             2 SW/year
+
+                                                   Gender Specialist                            2 SW/year
+
+                  Technical Assistance Component   Institutional Specialist                     4 SW/year
+
+                  Fiduciary and Safeguards         Procurement Specialist                       4 SW/year
+
+                                                   Environment Specialist                       6 SW/year
+
+                                                   Social Development Specialist                6 SW/year
+
+                                                   FM Specialist                                4 SW/year
+
+                  Team Leadership                  Task Team Leaders                            8 SW/year
+
+
+
+
+
+
+
+
+
+                            Table A1.2: Project Financing Breakdown by Component and IA
+
+
+
+
+
+
+
+
+
+                                                                   Page 34
+
+The World Bank
+
+ACCESS – Nepal Phase 1 Project (P177902)
+
+
+
+
+
+
+
+                                            ANNEX 2: Project Map
+
+
+
+                                                 COUNTRY: Nepal
+
+                                           ACCESS – Nepal Phase 1 Project
+
+
+
+
+
+
+
+
+
+                                                        Page 35
+
+

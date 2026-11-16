@@ -1,0 +1,4415 @@
+                                            Document of
+
+                                         The World Bank
+
+                                      FOR OFFICIAL USE ONLY
+
+
+
+                                                                       Report No: ICR 147538-GH
+
+
+
+
+
+
+
+
+
+               IMPLEMENTATION COMPLETION AND RESULTS REPORT
+
+
+
+                                               ON AN
+
+
+
+                                          IDA GUARANTEE
+
+
+
+                               IN THE AMOUNT OF US$500 MILLION
+
+
+
+                                                AND
+
+
+
+                                   AN IBRD ENCLAVE GUARANTEE
+
+
+
+                               IN THE AMOUNT OF US$200 MILLION
+
+
+
+                                   FOR THE REPUBLIC OF GHANA
+
+
+
+                                          IN SUPPORT OF
+
+
+
+                                                THE
+
+
+
+                                      SANKOFA GAS PROJECT
+
+
+
+                                           June 26, 2020
+
+
+
+
+
+
+
+
+
+Energy Global Practice
+
+Africa Region
+
+
+
+
+
+
+
+    This document has a restricted distribution and may be used by recipients only in the performance of
+
+    their official duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+                             CURRENCY EQUIVALENTS
+
+
+
+                  (Exchange Rate Effective {December 31, 2019})
+
+
+
+
+
+                                  Currency Unit = Ghana Cedis
+
+                                       GHS 5.65 = US$1
+
+                                         US$1.0 = SDR 1
+
+
+
+                                   FISCAL YEAR
+
+                                  July 1 - June 30
+
+
+
+
+
+
+
+
+
+       Regional Vice President: Hafez Ghanem
+
+              Country Director: Pierre Laporte
+
+Senior Global Practice Director: Riccardo Puliti
+
+            Practice Managers: Ashish Khanna/ Sebnem Erol Madan
+
+
+
+            Task Team Leaders: Shinya Nishimura/Jukka-Pekka Strand
+
+        ICR Task Team Leaders: David Vilar Ferrenbach/Zhengjia Meng
+
+         ICR Main Contributor: Eugene D. McCarthy
+
+
+
+
+
+
+
+                                          ii
+
+         ABBREVIATIONS AND ACRONYMS
+
+
+
+CPS          Country Partnership Strategy
+
+DPOs         Development Policy Operations
+
+ECG          Electricity Company of Ghana
+
+ERR          Economic Rate of Return
+
+ESHIA        Environmental, Social and Health Impact Assessment
+
+FDI          Foreign Direct Investment
+
+FIRR         Financial Internal Rate of Return
+
+FPSO         Floating Production Storage and Offloading
+
+GDP          Gross Domestic Product
+
+GEDAP        Ghana Energy Development and Access Project
+
+GNGC         Ghana National Gas Company
+
+GNPC         Ghana National Petroleum Corporation
+
+GSDA         Ghana’s Shared Development Agenda
+
+GoG          Government of Ghana
+
+GRIDCo       Ghana Grid Company
+
+GSA          Gas Supply Agreement
+
+HSE          Health, Safety, Environment
+
+IBRD         International Bank for Reconstruction and Development
+
+IDA          International Development Association
+
+IESC         Independent Environmental and Social Consultant
+
+IFC          International Finance Corporation
+
+IMF          International Monetary Fund
+
+IPP          Independent Power Project
+
+IRR          Internal Rate of Return
+
+LCO          Light Crude Oil
+
+LRP          Livelihood Restoration Plan
+
+MCC          Millennium Challenge Corporation
+
+MIGA         Multilateral Investment Guarantee Agency
+
+MW           Megawatt
+
+NEDCO        Northern Electricity Distribution Company
+
+NGO          Non-Governmental Organization
+
+NPV          Net Present Value
+
+OCTP         Offshore Cape Three Points
+
+ORF          Onshore Receiving Facilities
+
+PAD          Project Appraisal Document
+
+PAP          Project Affected People
+
+PDO          Project Development Objective
+
+TCF          Trillion cubic feet
+
+VRA          Volta River Authority
+
+WAGP         West African Gas Pipeline
+
+WAPCo        West African Gas Pipeline Company
+
+WBG          World Bank Group
+
+
+
+                      iii
+
+                                                           TABLE OF CONTENTS
+
+
+
+
+
+DATA SHEET .......................................................................................................................... V
+
+I.    PROJECT CONTEXT AND DEVELOPMENT OBJECTIVES ....................................................... 1
+
+      A. CONTEXT AT APPRAISAL .........................................................................................................1
+
+      B. SIGNIFICANT CHANGES DURING IMPLEMENTATION (IF APPLICABLE) .......................................4
+
+II.   OUTCOME ...................................................................................................................... 5
+
+      A. RELEVANCE OF PDOs ..............................................................................................................5
+
+      B. ACHIEVEMENT OF PDOs (EFFICACY) ........................................................................................5
+
+      C. EFFICIENCY .............................................................................................................................7
+
+      D. JUSTIFICATION OF OVERALL OUTCOME RATING ......................................................................8
+
+      E. OTHER OUTCOMES AND IMPACTS (IF ANY) ..............................................................................8
+
+III. KEY FACTORS THAT AFFECTED IMPLEMENTATION AND OUTCOME ................................ 11
+
+      A. KEY FACTORS DURING PREPARATION ................................................................................... 11
+
+      B. KEY FACTORS DURING IMPLEMENTATION ............................................................................. 12
+
+IV. BANK PERFORMANCE, COMPLIANCE ISSUES, AND RISK TO DEVELOPMENT OUTCOME .. 14
+
+      A. QUALITY OF MONITORING AND EVALUATION (M&E) ............................................................ 14
+
+      B. ENVIRONMENTAL, SOCIAL, AND FIDUCIARY COMPLIANCE ..................................................... 15
+
+      C. BANK PERFORMANCE ........................................................................................................... 17
+
+      D. RISK TO DEVELOPMENT OUTCOME ....................................................................................... 19
+
+V. LESSONS AND RECOMMENDATIONS ............................................................................. 20
+
+ANNEX 1. RESULTS FRAMEWORK AND KEY OUTPUTS ........................................................... 22
+
+ANNEX 2. BANK LENDING AND IMPLEMENTATION SUPPORT/SUPERVISION ......................... 26
+
+ANNEX 3. PROJECT COST BY COMPONENT ........................................................................... 29
+
+ANNEX 4. EFFICIENCY ANALYSIS ........................................................................................... 30
+
+ANNEX 5. BORROWER, CO-FINANCIER AND OTHER PARTNER/STAKEHOLDER COMMENTS ... 36
+
+ANNEX 6. SUPPORTING DOCUMENTS (IF ANY) ..................................................................... 42
+
+
+
+
+
+
+
+
+
+                                                                        iv
+
+     The World Bank
+
+     Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+DATA SHEET
+
+
+
+BASIC INFORMATION
+
+Product Information
+
+Project ID:
+
+                                                         Project Name: Ghana Sankofa Gas Project
+
+P152670
+
+
+
+Country                                                   Financing Instrument
+
+
+
+REPUBLIC OF GHANA                                         GU - Guarantee
+
+
+
+Original EA Category                                      Revised EA Category
+
+
+
+A - Full Assessment                                       A - Full Assessment
+
+
+
+Organizations
+
+
+
+Borrower                                                  Implementing Agency
+
+
+
+GOVERNMENT OF GHANA
+
+
+
+
+
+Project Development Objective (PDO)
+
+Original PDO
+
+The Project Development Objective (PDO) is to increase the availability of natural gas for clean power generation by
+
+leveraging private capital investment.
+
+
+
+FINANCING
+
+                                Original Amount (US$mn)         Revised Amount (US$mn) Actual Disbursed (US$mn)
+
+ IDA Guarantee
+
+                                                      500                            500                         NA
+
+ IBRD Enclave Guarantee
+
+                                                      200                            200                         NA
+
+ Non-World Bank Financing                       5,1 billion                  4,65 billion                4,65 billion
+
+                                                          0                             0                              0
+
+
+
+
+
+
+
+
+
+KEY DATES
+
+
+
+FIN_TABLE_DAT
+
+A
+
+
+
+
+
+Approval               Effectiveness           MTR Review                Original Closing      Actual Closing
+
+07/30/2015             09/30/2016              N.A.                      12/31/2018            12/31/2018
+
+
+
+
+
+
+
+
+
+                                                            v
+
+       The World Bank
+
+       Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+
+
+ RESTRUCTURING AND/OR ADDITIONAL FINANCING
+
+
+
+Date(s)                      Amount Disbursed (US$M) Key Revisions
+
+
+
+ KEY RATINGS
+
+Outcome                                 Bank Performance                      M&E Quality
+
+  MS                                          MS                              Substantial
+
+
+
+ RATINGS OF PROJECT PERFORMANCE IN ISRs
+
+ No.                Date ISR Archived        DO Rating           IP Rating        Actual Disbursements (US$M)
+
+
+
+
+
+  4                    6/19/2018                   MS                        MS                   N.A.
+
+  3                    8/3/2017                    S                          S                   N.A.
+
+  2                    6/26/2017                    S                         S                    N.A.
+
+  1                    7/15/2016                    S                         S                    N.A.
+
+ SECTORS AND THEMES
+
+ Sectors
+
+ Major Sector/Sector                                                                                        (%)
+
+ Natural Gas Development and Power Generation                                                               100
+
+ Themes
+
+ Major Theme/ Theme (Level 2)/ Theme (Level 3)                                                              (%)
+
+Private Sector Development
+
+100
+
+ ADM STAFF
+
+Role                                         At Approval                     At ICR
+
+
+
+Regional Vice President:                     Makhtar Diop                    Hafez Ghanem
+
+
+
+Country Director:                            Henry Kerali                    Pierre Laporte
+
+
+
+Director:                                    Anita Marangoly George          Riccardo Puliti
+
+
+
+Practice Manager(s):                         Sameer Shukla/Pankaj Gupta      Ashish Khanna/Sebnem Erol Madan
+
+                                             Robert Schlotterer/Sunil        Jukka-Pekka Strand
+
+Task Team Leader(s):
+
+                                             Mathrani                        Shinya Nishimura
+
+                                                                             David Vilar Ferrenbach
+
+ICR Task Team Leader(s):
+
+                                                                             Zhengjia Meng
+
+ICR Contributing Author:                                                     Eugene D. McCarthy
+
+
+
+
+
+
+
+
+
+                                                            vi
+
+            The World Bank
+
+            Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+
+
+I. PROJECT CONTEXT AND DEVELOPMENT OBJECTIVES
+
+ A. CONTEXT AT APPRAISAL
+
+
+
+      Country Context
+
+   1.       Ghana returned to multi-party democracy in January, 1993. Since then, successive, peaceful
+
+   transitions of democratic power provided a supportive environment for continued economic growth. Over
+
+   the two-decade period from 1995-2015, Ghana’s economy experienced sustained and broadly inclusive
+
+   growth during which the country progressed steadily to lower middle-income status. Its economy also
+
+   outperformed most developing Sub-Saharan countries by a large margin. In addition, economic growth was
+
+   accompanied by significant improvements in poverty and social indicators, with poverty rates (US$ 1.90 per
+
+   day) falling from 47.4 percent in 1991 to 12.1 percent in 2012.
+
+
+
+   2.        Following this period of sustained growth, the country’s economic performance after 2012 weakened
+
+   considerably. Expansionary fiscal policies led to large and protracted external imbalances while Ghana’s net
+
+   international reserves fell sharply. The fuel import bill also rose rapidly, due, in part, to unreliable gas imports
+
+   from Nigeria, which exerted pressures in Ghana for a secure, domestic source of fuel. In this worsening
+
+   economic climate, the government embarked on a program to restore fiscal discipline and, in April, 2015, just
+
+   prior to Board presentation, reached a three-year agreement with the IMF to provide an Extended Credit
+
+   Facility, aimed at strengthening the country’s overall economic performance.
+
+
+
+      Sector Context
+
+   3.       Ghana’s energy sector has always been closely linked to the country’s macroeconomic performance-
+
+   through the real sector, fiscal accounts, and the balance of payments. Studies had estimated the fiscal shock
+
+   of electricity shortages as well as declines in international oil and gold prices as high as 2 percentage points
+
+   of GDP. Consequently, the availability of domestic oil production as well as natural gas supplies for power
+
+   generation had the potential to help mitigate such external price shocks.
+
+
+
+   4.       Historically, Ghana’s energy needs have been met through the development of its hydro resources
+
+   for electricity generation1, with imported crude oil and petroleum products increasingly meeting the country’s
+
+   transportation and thermal power needs since the 1990s. Prior to 2007, Ghana had no domestic oil or natural
+
+   gas production. As a consequence, the country’s economic performance was vulnerable to sharp,
+
+   unpredictable swings in international oil prices. However, in 2007, following the discovery of a number of
+
+   commercially viable oil and natural gas deposits in nearby offshore waters, the country was provided with the
+
+   prospect of meeting a significant share of its growing energy needs through lower cost, oil and natural gas
+
+   supplied domestically while, at the same time, enhancing Ghana’s energy security. One of these discoveries,
+
+   the Sankofa oil and gas field, was expected to produce oil in the order of 30,000-45,000 b/d on average per
+
+   day over the 2017-2022 period, equivalent to approximately US$5 billion at current World Bank Group oil
+
+   price projections. In addition, non-associated gas production from Sankofa was expected to start in the first
+
+   half of 2018, continue for fifteen years at average production levels of 170mmscfd, and displace higher cost
+
+   liquid fuels being imported. As a result, the impact of the Sankofa development on the balance of payments
+
+   had the potential to reduce pressure on local currency and enhance debt sustainability, given the composition
+
+   of public debt.
+
+
+
+
+
+
+
+        1 The Bank financed a series of hydropower projects, starting during the 1960s, which enabled the construction of the Akosombo hydropower station
+
+        (over 1,038 MW) in the Upper Volta region.
+
+
+
+
+
+                                                                                1
+
+        The World Bank
+
+        Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+5.       The regional energy context at the time of appraisal provided additional impetus to develop Ghana’s
+
+recently discovered gas potential. Natural gas imported from Nigeria through the West Africa Gas Pipeline
+
+(WAGP) had been intended to provide a reliable and low-cost source of energy for Ghana’s growing power
+
+requirements. However, since 2010 when gas flows through the WAGP began, the volume of gas imports was
+
+much lower than contracted and daily supply had been erratic2, which had forced Ghana to purchase higher
+
+cost, liquid fuels in the spot market to keep its thermal plants running. Frequent black outs also became a
+
+common occurrence, which exerted pressure on the Government of Ghana (GoG) to find solutions to these
+
+recurring problems. Consequently, the security of supply of key fuels for thermal power generation while
+
+cushioning their cost became an increasingly important consideration in Ghana’s energy supply strategy. It
+
+was in this context that the recently discovered offshore gas reserves-both associated gas from the Jubilee
+
+and TEN fields and non-associated gas from the Sankofa development-offered the prospect of reducing
+
+Ghana’s growing dependence on higher cost fuel imports.
+
+
+
+  Rationale for the World Bank Support and contribution to higher level objectives
+
+
+
+6.       The project supported the development objectives set out in Ghana’s second Shared Growth and
+
+Development Agenda (GSGDA II) for the period 2014-17. The GSGDA II emphasized the need for structural
+
+economic transformation to accelerate poverty reduction and achieve a key objective of ‘a stable, united,
+
+inclusive and prosperous country with opportunities for all’. Specifically, the project supported three of the
+
+seven thematic areas of the GSGDA II- namely, sustaining macroeconomic stability, enhancing the
+
+competitiveness of Ghana’s private sector, and developing the recently discovered non-associated, natural
+
+gas reserves.
+
+
+
+7.       The project was also aligned with the World Bank Group Country Partnership Strategy for the period
+
+FY13-FY183. Specifically, it contributed to Pillar 2: “Improving Competitiveness and Job Creation”, by helping
+
+provide more efficient delivery of infrastructure services in the energy sector. The project also supported the
+
+WBG twin goals -namely, ending extreme poverty and boosting shared prosperity by 2030. Finally, the project
+
+was in line with the WBG 2013 Energy Directions Paper, which planned for a scale up of WBG involvement by
+
+supporting natural gas development as a lower cost and cleaner fuel.
+
+
+
+8.       The Bank guarantees deployed in this project were one of several WBG instruments used to support
+
+the further development of the energy sector in Ghana4. In earlier and ongoing operations, the Bank was
+
+already financing investments in distribution reinforcement for the power distribution companies, ECG
+
+(Electricity Company of Ghana) and NEDCO. IDA had financed high voltage (HV) grid investments undertaken
+
+by GRIDCo, while IFC had invested in thermal power generation. Also, IFC Advisory Services were being used
+
+to provide support to GoG on a planned concession for ECG; in addition, a US$60 million IDA operation was
+
+planned to improve ECG’s financial performance and operational efficiency. A key goal of WBG support to the
+
+sector was to improve the quality of energy services for end-users, increase access to electricity, and restore
+
+investor confidence in Ghana’s energy sector. Finally, an IMF Extended Credit Facility was approved in April
+
+
+
+    2
+
+      The ‘contracted’ daily gas supply through WAGP was 133 mmsfcd, of which 123 mmscfd was supplied to Ghana. However, supplies in 2010, 2011,
+
+    2012, and 2013 were much reduced and averaged 40, 84, 49, and 38 mmscfd respectively, including days of no gas supply at all;
+
+    3 The original CPS (FY 13-16) was Report No. 76369-GH; this CPS was later extended from FY13-18 through a Performance and Learning Review (PLR):
+
+
+
+    Report No. 105606-GH.
+
+    4
+
+     The World Bank has had a long-standing involvement in Ghana’s energy sector, dating back to the 1960s when it supported the development of the
+
+    Ghana’s hydro resources in the Upper Volta region. These operations were followed by a series of electric power operations supporting investment in
+
+    thermal generation, transmission lines, and distribution.
+
+
+
+
+
+
+
+
+
+                                                                            2
+
+         The World Bank
+
+         Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+2015 while the first in a series of three planned IDA DPFs was approved in June 2015. Both these operations
+
+were intended to reinforce fiscal discipline and provide budget space for the GoG to settle its arrears for
+
+electricity consumption. In addition, the first IDA DPF5 had close links with the Sankofa gas project in
+
+supporting institutional reform of the main gas institution, GNPC, and helping facilitate its access to long term
+
+capital markets. The project’s instruments also included an IBRD Enclave Guarantee in combination with an
+
+IDA Payment Guarantee. The IBRD Enclave Guarantee was intended to benefit the project’s private sponsors
+
+and allow more headroom for the use of IDA resources. The additional IDA exposure was made available to
+
+provide possible support for the development of a number of IPPs in Ghana, which were planned to be the
+
+main consumers of natural gas from the Sankofa project but it was dropped.
+
+
+
+                                            Theory of Change (Results Chain)
+
+
+
+
+
+
+
+
+
+9.       The key project objective was the development of Ghana’s non-associated gas resources in the
+
+offshore Sankofa field for use as a lower cost, domestic fuel in thermal power generation6. The two main
+
+activities required to achieve this objective were the following: (i) physical investment: the drilling of wells,
+
+laying of a subsea pipeline, and pipeline connections to onshore gas consumers; (ii) mobilization of financing:
+
+from oil companies and commercial banks through the use of WBG guarantee instruments and political
+
+insurance. These two activities were intended to reduce substantially the need for more expensive liquid fuel
+
+imports as well as natural gas from Nigeria, which was not supplying the contracted volumes and supplies
+
+were erratic at the time of appraisal7. In addition, the demonstration effect of this first development of the
+
+country’s non-associated gas resources was expected to (i) spur further exploration in Ghana’s offshore
+
+waters; and (ii) reduce the need for scarce public funds for the development of the country’s energy sector
+
+by mobilizing large amounts of financing from private investors and commercial banks.
+
+
+
+10.     In terms of the project’s longer-term benefits, the proposed investment was expected to (i) improve
+
+the reliability of Ghana’s electricity supply to industrial and residential consumers by having a secure,
+
+domestic source of gas supply;(ii) provide electricity to consumers at lower cost which, in turn, would drive
+
+
+
+     5 First DPF, MSCG1, Macroeconomic Stability for Competitiveness and Growth, approved June 2015
+
+     6 Alternative fuel supply options such as domestic Associated Gas fields and gas imported through the WAGP, as well as imported
+
+     liquid fuels and LNG where analyzed at appraisal. Associated gas from the nearby TEN field were also being developed but volumes
+
+     were small and could not be used for baseload generation (PAD para 28) and WAGP supply was unreliable compromising firm offtake
+
+     as baseload generation (PAD para 15). The alternatives to firm fuel supply were LNG and liquid fuels imports and these were more
+
+     expensive options than Sankofa gas at Appraisal.
+
+     7 PAD para 15: ‘WAGP has experienced severe supply shortages in Nigeria and interruptions in deliveries have compromised its
+
+
+
+     contractual ability to supply Ghana with 120 mmscfd of firm gas’.
+
+
+
+
+
+                                                                    3
+
+           The World Bank
+
+           Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+  further economic growth; (iii) mobilize private sources of finance for the further development of the country’s
+
+  energy sector; and (iv) lead to climate change benefits by replacing the need for LCO and other petroleum
+
+  fuels currently being used in thermal power generation.
+
+
+
+  11.     The critical assumptions underlying the Theory of Change and progress from ‘Activities’ to ‘Longer
+
+  Term Outcomes’ were the following: (i) a gas pipeline infrastructure link between the western and eastern
+
+  regions was completed; (ii) the financial crisis at the time in the country’s electricity sector, which was to be
+
+  the main consumer of natural gas, was resolved, (iii)power sector improvement including ECG’s operational
+
+  and financial performance and, IPPs being procured competitively and based on the least-cost power
+
+  expansion plan; and (iv) political stability and government creditworthiness was sustained.
+
+
+
+      Project Development Objectives (PDOs)
+
+  12.     The Project’s Development Objective (PDO), as stated in the Project Appraisal Document (PAD), is ‘to
+
+  increase the availability of natural gas for clean power generation by leveraging private capital investment’.
+
+
+
+      Key Expected Outcomes and Outcome Indicators
+
+  13.     The PDO indicators were the following: (i) volume of natural gas supplied to power plants; (ii) private
+
+  sector capital mobilized (US$ million); and (iii) number of beneficiaries, including female beneficiaries. By
+
+  providing additional, long term and lower cost gas supplies to Ghana’s thermal power plants, the project was
+
+  expected to provide indirect benefits to all customers of the Electricity Company of Ghana (ECG). As a result,
+
+  the number of customers who would benefit was based on the total number of ECG customers, increasing at
+
+  2 percent per year. No outcome indicators were specified for the longer-term benefits of incremental gas
+
+  supplies to the network due to the difficulties of measurement and attribution.
+
+
+
+      Components
+
+  14.     The project comprised the use of World Bank Group guarantees, together with a MIGA political
+
+  guarantee and IFC financing, to support the development of a major, offshore, natural gas discovery in Ghana.
+
+  While the IDA Guarantee and the IBRD Enclave Guarantee covered both project sponsors i.e. ENI-Vitol, IFC
+
+  financing and the MIGA Guarantee were for the exclusive benefit of Vitol8.
+
+
+
+  15.     The main project components were (i) proven, recoverable natural gas reserves amounting to nearly
+
+  1 TCF (equivalent to an average daily gas production of 180mmscfd over 14 years);(ii) drilling of five gas
+
+  producing wells linked to a floating production and storage unit on an oil tanker; (iii) a 63 km, 22-inch subsea
+
+  pipeline linked to an onshore receiving facility (ORF); and (iv) a short, onshore connection to an existing GNGC
+
+  gas pipeline bringing associated gas from the Jubilee and Ten fields to power generation plants at Aboadze.
+
+
+
+ B. SIGNIFICANT CHANGES DURING IMPLEMENTATION (IF APPLICABLE)
+
+Revised PDOs and Outcome Targets
+
+ 16.     The PDO was not revised during implementation.
+
+
+
+Revised PDO Indicators
+
+ 17.     None of the PDO indicators were revised or modified during implementation.
+
+
+
+
+
+
+
+       8The Sankofa gas field is being developed by Eni Exploration and Production Ltd (“Eni Ghana”) a subsidiary of Eni S.p.A of Italy (“Eni”) and Vitol Group
+
+       of the Netherlands (“Vitol”) (together “Private Sponsors”).
+
+
+
+
+
+                                                                                  4
+
+           The World Bank
+
+           Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+
+
+ Revised Components
+
+ 18.    There were no revisions to the project components as described in the PAD.
+
+
+
+Other Changes
+
+ 19.     The IBRD Enclave Guarantee was withdrawn in September 2018 after the Sankofa project sponsors
+
+ had successfully mobilized the needed project financing without recourse to this enclave guarantee.
+
+
+
+ 20.     Extended Monitoring Period prior to Preparation of ICR: The Project was closed on December 31,
+
+ 2018. The first gas supplies from the Sankofa field to thermal power plants started in June 2018, close to the
+
+ forecast date at appraisal9, though in smaller volumes, due to the limited size of the power market in the
+
+ western region for Sankofa gas, together with delays in the pipeline interconnector link needed to transport
+
+ Sankofa gas to the eastern region and which was completed in April 2019.. Consequently, this ICR has been
+
+ prepared in early 2020 to document more fully the impact of the project. However, in line with standard
+
+ practice for project investment operations and guarantees, the ratings are based on events that took place
+
+ during the implementation period until closing. To benefit further from the 12-month period following project
+
+ closure, the ICR also takes into account issues during the post-closure period, which are reflected in the
+
+ “Performance since Closing date and Prospects” section, Section D (Risk to Development Outcome), and
+
+ Section V (Lessons and Recommendations).
+
+
+
+II. OUTCOME
+
+  A. RELEVANCE OF PDOs
+
+    Assessment of Relevance of PDOs and Rating
+
+    Rating: High
+
+ 21.      The PDO continued to be closely aligned with the FY13-18 CPS for Ghana at the time when the project was
+
+ closed. First, the CPS stated that future growth prospects would be closely linked to petroleum sector developments,
+
+ both in terms of oil and natural gas production as well as its impact on public expenditure. The CPS placed particular
+
+ emphasis on the potential fiscal impact of recent oil and gas discoveries in broadening the country’s sources of growth
+
+ through increased public investment. Second, a key structural pillar of the CPS was ‘increasing competitiveness and
+
+ job creation’, which entailed, inter alia, improving the ‘quality, availability, and reliability of electricity services in the
+
+ country’. The prospect of developing domestic sources of natural gas in Ghana for the first time to meet growing
+
+ demand for electricity, at lower cost than LCO liquids being imported at that time, provided a special opportunity to
+
+ strengthen the performance of the electricity sector. Third, strengthening regional energy integration in six West
+
+ African countries, including Ghana, was also identified as a priority activity of the CPS. Ghana’s growing gas supply
+
+ potential could lead to the export of competitively priced electricity for export to other West African countries via the
+
+ existing West Africa Power Pool (WAPP). Finally, the ‘demonstration’ impact of a successful development of natural
+
+ gas reserves for a domestic market would provide additional incentives for exploration by international oil companies
+
+ in Ghana’s offshore waters.
+
+
+
+22.         Based on the above considerations, the relevance of the PDO is considered ‘High”.
+
+
+
+ B. ACHIEVEMENT OF PDOs (EFFICACY)
+
+ Rating: Substantial
+
+23. The assessment of achievement of the project development objectives and outcomes at the project closing
+
+
+
+       9   February 2018
+
+
+
+
+
+                                                                  5
+
+       The World Bank
+
+       Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+date is presented below, based on progress made during implementation towards the target values of the project
+
+indicators.
+
+
+
+24. The key PDO indicators are (i) the quantity of natural gas supplied to power plants; (ii) private sector capital
+
+mobilized (in US$ million); (iii) the number of indirect beneficiaries; and (iv) percentage of female beneficiaries.
+
+
+
+25. PDO Indicator 1: Quantity of Gas supplied to Power Plants10 Gas supply from the Sankofa gas field was
+
+available for delivery to onshore power plants in June 2018, only four months behind the original schedule. However,
+
+the first gas supplies did not occur until August 2018, and then in much smaller volumes, for the following reasons:
+
+(i) the market for gas in the western region of the country close to landfall was limited by two factors: (a) gas demand
+
+in the western region (Takoradi) was not sufficient to offtake the contracted volume of Sankofa gas; and (b)associated
+
+gas supplies being produced from the nearby Jubilee and TEN fields, and averaging 50 mmscfd in the 2nd half of 2019,
+
+were given first preference11; and (c) without the availability of a pipeline interconnection linking gas supplied from
+
+Sankofa to the eastern region of the country12, the size of the market was limited to Takoradi. Completion of this gas
+
+pipeline interconnection was delayed through mid CY 2019. Consequently, actual gas supplies in 2018 and 2019 were
+
+well below the forecast volumes of 158 and 171 mmscf/d for these two years. Nevertheless, based on steadily
+
+increasing gas supply volumes in 2019 and early 2020, which exceeded 200 mmscf/d in December 2019 and January
+
+2020 for several days, they are forecasted to reach, on average, 180 mmscf/d in 2021 and in subsequent years13.
+
+Overall, the original target of gas supplies remains likely to be achieved although two years behind the original
+
+forecast. Rating: Partially achieved.
+
+
+
+26. PDO Indicator 2: Private Sector Capital Mobilized The cumulative amount of private capital mobilized was
+
+US$4,653 million compared with the target of US$5,100 million estimated at appraisal. It includes US$1.35 billion
+
+mobilized from commercial banks and other sources with the remainder financed by equity. The lower cumulative
+
+amount reflects cost savings realized during the construction phase of the offshore development. Rating: Achieved
+
+
+
+27. PDO Indicator 3: Indirect Project Beneficiaries and PDO Indicator 4: Female Beneficiaries. These two
+
+indicators were measured by the number of project beneficiaries, including female beneficiaries, in the client base
+
+of the power system. The proportion has not varied significantly recently; nor is it anticipated to change in the
+
+medium range. That being said, the choice of these two indicators is better used in electricity distribution investments
+
+rather than in a natural gas supply project for thermal power generation where the direct impact of the investment
+
+on electricity consumers/beneficiaries is difficult to measure. Rating: Achieved
+
+
+
+
+
+
+
+
+
+      10 Project Indicator 1 is not fully aligned with the PDO, which refers to ‘increasing the availability of gas supply’, rather than increasing the ‘quantity of
+
+      gas supplied to power plants’. Gas from Sankofa became ‘available’ for supply in the annual forecast volumes, starting in June 2018 (although only in
+
+      August 2018 started to be offtaken by GNPC), and currently (i.e. June 2020) can make available up to 220mmscfd if the gas market in Ghana is able to
+
+      absorb this volume.
+
+      11 ‘Jubilee gas’ is associated gas, produced jointly with oil from the Jubilee field and supplied at zero upstream cost during the first years of oil
+
+
+
+      production
+
+      12 The onshore gas pipeline interconnector served to reverse gas flow through the existing WAGP to the eastern region of Ghana, where there was a
+
+
+
+      waiting market for the gas supplied from the offshore Sankofa field;
+
+      13 March 2020 average offtake was 180 mmscf/d
+
+
+
+
+
+
+
+
+
+                                                                                    6
+
+       The World Bank
+
+       Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+
+
+              TABLE 1. Assessment of Achievement of Each Objective/Outcome at Project Closing Date
+
+                                                                                                                         Actual Values
+
+                                                Original Target Values            Formally Revised Target
+
+                       Baseline Value                                                                              Achieved at Completion or
+
+                                             (from approval documents)                    Values
+
+                                                                                                                         Target Years
+
+   PDO Indicator 1:   Quantity of gas supplied to power plants (mmscf per day)
+
+   Value              0                     2017: 0                                n.a.                           2017: 0
+
+   (quantitative or                         2018: 158                                                             2018: 41
+
+   qualitative)                             2019: 171                                                             2019: 90
+
+                                            2020: 171                                                             2020: 171 (est)
+
+                                            2021: 171                                                             2021: 180 (est)
+
+                                            2022: 171                                                             2022: 180 (est)
+
+   Comments           Achievement of targets: 2018 = 6 percent; 2019 = 54 percent;
+
+   PDO Indicator 2:   Private Sector Capital Mobilized (US$ million)
+
+   Value              0                     2014 800                               n.a.                           2014
+
+   (quantitative or                         2015 1,400                                                            2015
+
+   qualitative)                             2016 2,600                                                            2016 1,600
+
+                                            2017 3,900                                                            2017 3,282
+
+                                            2018 5,100*                                                           2018 4,653
+
+   Comments           *Figure in PAD; ISRs show US$ 5,000 million
+
+   PDO Indicator 3:   Indirect Project Beneficiaries (million)
+
+   Value              7.2                   2015: 10.6                             n.a.                           2015: 15.2
+
+   (quantitative or                         2016: 10.8                                                            2016: 16.5
+
+   qualitative)                             2017: 11.0                                                            2017: 17.1
+
+                                            2018: 11.3                                                            2018: 17.8
+
+                                            2019: 11.5                                                            2019: NA
+
+   Comments           The increase in the number of indirect beneficiaries is dependent on the number of new connections, which has progressed
+
+                      faster than expected.
+
+   PDO Indicator 4:   Female beneficiaries (percent)
+
+   Value              49                    2015: 50                               n.a.                           2015: 49.3
+
+   (quantitative or                         2016: 50                                                              2016: 49.3
+
+   qualitative)                             2017: 50                                                              2017: 49.3
+
+                                            2018: 50                                                              2018: 49.3
+
+                                            2019: 50                                                              2019 ----
+
+   Comments           The indicator is based on the proportion of female beneficiaries in the client basis of the power system. The proportion has
+
+                      not varied significantly recently; nor is it anticipated to change in the medium range. The achievement is 100 percent.
+
+
+
+
+
+ C. EFFICIENCY
+
+     Assessment of Efficiency
+
+     Rating: Substantial
+
+28.     Economic Analysis The assessment of efficiency includes a comparison of the economic analysis of the Project
+
+at appraisal and at closing. The economic benefits were calculated using the following methodology: (i) the difference
+
+between the 'with project' economic cost of Sankofa gas and the 'without project' economic costs, using imported
+
+fuel reference prices as follows:(a) 2018-2021: imported light crude oil; and (b) 2022 onwards: imported LNG
+
+(including the cost of regasification); and (ii) revenues from oil and condensate sales. In 2018 and 2019, daily average
+
+off-take volumes were 41mmscfd and 90mmscfd respectively, and lower than the ‘take or pay’ volumes of
+
+170mmscfd. Oil price forecasts have been revised following the latest Commodity Market Outlook published by the
+
+World Bank in April 2020, which forecasts an oil price of US$35.4/barrel in 2020, US$41.8/barrel in 2021, and
+
+US$43.5/barrel in 2022, in comparison to US$66, US$69, and US$72 per barrel for these years at the time of appraisal.
+
+Using the above 2020 oil price forecasts, the NPV and the ERR of the project were estimated at US$1.3 billion and
+
+14.0 percent respectively compared to the appraisal estimates of US$4 billion and 20.2 percent. Table 2 summarizes
+
+the results of the economic analysis at appraisal and at closing. Under a prolonged low oil price scenario, the project
+
+remains economically viable with a 13 percent EIRR (see Annex 4). The results indicate a ‘Substantial’ rating for the
+
+efficiency of the investment. Further details of the economic analysis are in Annex 4.
+
+
+
+
+
+
+
+
+
+                                                                              7
+
+          The World Bank
+
+          Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+        TABLE 2. Comparison of ERR and NPV at Appraisal and Project Closing
+
+
+
+                                                                                     ERR              Change              NPV               Change
+
+                             Appraisal                                              20.3%                                $4.0bn
+
+          Capital Cost Savings Effect                                               21.6%              +1.4%             $4.3bn             +$0.3bn
+
+          Lower Crude Oil Price Effect                                              15.6%               -6%              $1.7 bn            -$2.6bn
+
+          Lower Offtake Volumes Effect                                              14.0%              -1.6%             $1.3 bn            -$0.4bn
+
+                               Closing                                              14.0%                                $1.3 bn
+
+
+
+  29.     Implementation Efficiency: Implementation efficiency assesses the following aspects of project
+
+  implementation: (i) production of gas at the offshore platform; and (ii) supply of natural gas to develop the onshore
+
+  power market. The first component, a large complex offshore investment exceeding US$5 billion, was undertaken
+
+  with ‘high’ efficiency; the Sankofa gas was available in June 2018 for supply to the onshore power market, with a small
+
+  delay of four months from the original schedule. The second component comprised (a) an offshore pipeline plus a
+
+  short onshore link to connect to thermal power plants in the western region; and (b) infrastructures including physical
+
+  interconnection between GNGC pipelines and WAGP to allow reverse flow to transport Sankofa gas from the western
+
+  region of the country to a larger power market in the eastern Tema region 14. While the offshore pipeline and short
+
+  onshore link were completed on schedule, the contractual agreement with WAGP on the reverse flow was delayed.
+
+  As a result, Sankofa gas was not supplied to the Tema region until April 2019. The component was undertaken with
+
+  only ‘Modest’ efficiency. Overall, taking into account the implementation of both components, implementation
+
+  efficiency was rated ‘Substantial’.
+
+
+
+D. JUSTIFICATION OF OVERALL OUTCOME RATING
+
+       Rating: Moderately Satisfactory
+
+  30. The overall outcome rating of the project is ‘Moderately Satisfactory’. The overall rating takes into
+
+  consideration the following: (i) ‘High’ Relevance of the PDO; (ii) ‘Substantial’ Efficacy; and (iii) ‘Substantial’ Efficiency.
+
+  In addition, it takes into account the ‘high’ gas payment risk (paragraph 75) as a result of the continuing and
+
+  unresolved weak finances of the country’s power sector, which led to the drawdown of the Letter of Credit (LC)
+
+  backstopped by the IDA Guarantee of this Project on April 7, 2020, 15 months after project closing.
+
+
+
+  E. OTHER OUTCOMES AND IMPACTS (IF ANY)
+
+  Mobilizing Private Sector Financing
+
+  31.      An important contribution of the project was the mobilization of approximately US$1.35 billion in financing
+
+  from commercial banks and other sources to support the development of the offshore Sankofa gas field. The project
+
+  developers financed the remaining costs with equity and shareholder loans. It is doubtful whether a private investment
+
+  project of this magnitude in Sub-Saharan Africa i.e. almost US$8 billion for both oil and gas investments15, could have
+
+  occurred without the active involvement of the World Bank Group. A particular feature of the financing plan was the
+
+  use of different WBG instruments to finance this infrastructure investment, specifically political insurance and risk
+
+  guarantees. The IDA US$500 million partial risk guarantee was used to cover the main risk concern of partial payment
+
+  or non-payment for the gas supplies. IFC provided a loan of US$235 million and a further US$65 million in debt from its
+
+
+
+    14 PAD, paragraph 42: “Rapid expansion of domestic gas supply at Takoradi during the critical 2018 -2019 period is likely to outpace gas demand from IPPs in
+
+    Takoradi during the same period with the result that Sankofa and the other domestic gas projects might not be fully absorbed. For this reason, it is critical to
+
+    establish an interconnection between the GNGC pipeline and the WAGP to deliver excess gas in Takoradi via “back-flow” of the WAGP to the existing cluster
+
+    of power plants in Tema in Eastern Ghana, where a gas deficit is expected to persist.”
+
+    15 US$4.65 billion for the gas field project
+
+
+
+
+
+
+
+
+
+                                                                                     8
+
+         The World Bank
+
+         Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+Managed Co-Lending Portfolio Program; MIGA provided political risk insurance16. The broader goal was to provide
+
+incentives for increased private sector participation in the country’s energy sector by supporting the development of a
+
+domestic gas market in Ghana.
+
+
+
+32.       An IBRD Enclave guarantee17 for up to US$200 million had also been proposed be used to provide additional
+
+protection to lenders i.e. shareholders as well as commercial banks, and to the Sankofa project sponsors against non-
+
+payment by either the government or the Ghana National Petroleum Company (GNPC). This guarantee would be
+
+triggered once the other security layers were exhausted and a payment default remained under the GSA that would
+
+lead to a debt service payment default by the private sponsors to their lenders under the particular tranche. In the end,
+
+however, the Sankofa project sponsors were able to mobilize successfully the large project financing without recourse
+
+to this Bank enclave guarantee. Consequently, the IBRD Enclave guarantee never became effective18.
+
+
+
+Improving Energy Security and Stability of Gas Supply
+
+
+
+33.      In the PAD, Sankofa was forecast to be able to provide sufficient fuel for 1,000MW of thermal power at peak
+
+gas production over a 14 -year period extending beyond 2030. Installed thermal power capacity in Ghana in early 2020
+
+was approximately 2,800MW while thermal generating capacity dispatched was 1,617 MW19. Consequently, as a result
+
+of the development of Sankofa gas field, Ghana has taken a significant step to improve energy security by project closing
+
+in being able to provide nearly two thirds of the fuel needed for the country's thermal power plants from domestic
+
+resources, compared to zero at the time of project approval in mid-2015. The first non-associated gas supplies from
+
+Sankofa have also provided much-needed stability in Ghana’s gas supply, which was not available when only associated
+
+gas from the Jubilee and TEN fields and gas imported from Nigeria were the only gas supplies. As a result, the power
+
+sector supply has become more reliable and outages have been substantially reduced. Sankofa gas is also being supplied
+
+through a long-term sales contract with a flat price in real terms, which eliminates any gas price market risks. Overall,
+
+Ghana has now 15 years of a stable, reliable, affordable domestic gas supplies, which can provide a solid foundation for
+
+local development, full energy independence, and an expanding role as an energy supplier for the region.
+
+
+
+Gender
+
+
+
+34.     The project did not have a specific gender component and any gender impact of the project would be indirect
+
+and longer term. Nevertheless, the supply of a lower cost and cleaner natural gas fuel from the Sankofa gas field for
+
+thermal power generation is expected to bring benefits to all electricity consumers, in particular to low income
+
+consumers, which include 49 percent females.
+
+
+
+Institutional Strengthening
+
+
+
+35.      The project did not include a component for institutional strengthening though project implementation has
+
+highlighted the urgent need for clarification of institutional roles in this increasingly important energy sub-sector. Two
+
+public sector companies were involved with project implementation: Ghana National Petroleum Company (GNPC) and
+
+
+
+  16 IFC committed a loan of US$235 million to Vitol and arranged a further US$65 million in debt from the Managed Co-Lending Portfolio Program that
+
+  enables third-party investors to participate passively in IFC’s senior loan portfolio. IFC financing was part of a US$1.35 billion loan facility provided by several
+
+  international commercial banks. MIGA committed up to US$217 million in political risk insurance to VITOL lenders.
+
+  17 This would have been the second deployment of this instrument, originally authorized by the Bank’s Board of Executive Directo rs in April 1997. The first
+
+
+
+  IBRD enclave guarantees were approved for the Southern Africa Regional Gas Project in 2003.
+
+  18
+
+      It should also be noted that signing of the IBRD Enclave guarantee was also subject to funding the Reserve Escrow Account in full as well as the
+
+  implementation of arrangements to deposit funds into the escrow accounts. However, since these requirements were never complied with in full by GNPC
+
+  and the Government of Ghana, it would not have been possible for the Project Sponsors to enter into the IBRD Enclave Guarantee, irrespective of their
+
+  ability to mobilize sufficient capital to complete the Project.
+
+  19 GRIDCO: Electricity Supply Plan, 2020
+
+
+
+
+
+
+
+
+
+                                                                                     9
+
+       The World Bank
+
+       Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+the Ghana National Gas Company (GNGC). GNGC was established in 2012 with responsibility to act as gas
+
+aggregator/marketer and was subsequently incorporated as a subsidiary of GNPC. Both entities benefitted from the
+
+development of the country’s first non-associated gas resources from the Sankofa field, in particular GNGC, which has
+
+been taking the lead in supporting the development of non-power markets for the Sankofa gas in the country’s mining,
+
+ceramics, and phosphate industries.
+
+
+
+Poverty Reduction and Shared Prosperity
+
+
+
+36.       The development of non-associated gas from the Sankofa field is expected to have an indirect impact by
+
+lowering the overall economic cost of electricity supply. As domestic gas supplies play an increasingly important role in
+
+the mix of fuels for thermal power generation, gradually displacing higher cost LCO and other imports, this will lead to
+
+a reduction in the overall cost of fuel supplies and reduce the country’s vulnerability to oil price volatility. This reduction
+
+in the cost of supply will eventually trickle down to the main electricity consumers in Ghana and help keep electricity
+
+prices relatively low, reducing the need for larger Government subsidies for low income residential consumers. Finally,
+
+there are fiscal and macro impacts from having a domestic source of fuel. Lower oil imports mean lower trade and fiscal
+
+deficits, making room for government programs to support social programs. It would also help reduce past frequent
+
+depreciations of the local currency (Cedi), which results in higher import prices and thus contributes to inflation.
+
+
+
+      Other Unintended Outcomes and Impacts
+
+37.      None
+
+
+
+      Performance since Closing date
+
+
+
+38.       The time to the closing date of December 31, 2018, was a relatively short period for a project of this complexity
+
+- less than 3.5 years from the Board approval-though its length was aligned with Guarantee procedures. Gas production
+
+from Sankofa was only forecast to start in February 2018- it actually started in June 2018- so the need for a longer
+
+implementation period should have been anticipated. Payments for the gas supplied also did not begin until 2019 and
+
+there have been extended delays in making these payments, which continued into 2020. Payments could not be made
+
+by GNPC due to the lack of liquidity, resulting from the increasing volume of arrears and a lack of payment discipline
+
+among energy sector SOEs. These delays became an issue of serious concern for both GNPC and GoG as well as for the
+
+World Bank during early 2020 since the GoG’s ability to continue to make contractually agreed monthly payments for
+
+gas offtake during 2020 became further constrained by parallel obligations to a number of IPPs, placing increased
+
+pressure on scarce foreign exchange resources.
+
+
+
+39.        By end March 2020, GNPC was in arrears by over US$190 million (about 5 months of unpaid gas invoices). One
+
+week later on April 7, the Letter of Credit (LC) backed by a US$500 million IDA Payment Guarantee was drawn down for
+
+an amount of US$191,576,694 by the Sankofa Project sponsors (ENI and Vitol). Each drawdown becomes a loan to
+
+Ghana National Petroleum Corporation (GNPC) that has to be repaid within 12 months. If the loan is not repaid within
+
+12 months by April 7 2021, the two LC Banks (HSBC and Standard Chartered) would be entitled to call on the IDA
+
+guarantee at that time, whereupon IDA would be obligated to pay the LC issuing banks within 60 days from the date of
+
+demand.20 Any amount paid out by IDA under its guarantee would be subject to the indemnity and reimbursement
+
+obligations of GoG to the World Bank under, and in accordance with, the terms of the Indemnity Agreement. If GoG
+
+fails to comply with such obligations for 60 days following notice from the Bank, the Bank will be entitled to exercise its
+
+
+
+
+
+      20 In accordance with the terms of the guarantee documents, the amount that was drawn under the LC was automatically converted into a loan of
+
+      equivalent size owed by GNPC to the LC issuing banks, which will become due 12 months from the date of the LC drawdown and will accrue interest at
+
+      a rate of LIBOR +0.70 percent. GoG made a first repayment of $20 million in June.
+
+
+
+
+
+                                                                             10
+
+        The World Bank
+
+        Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+ remedies at its discretion, in whole or in part, against the country portfolio.
+
+
+
+ 40.       The gas payment arrears of the Sankofa Project sponsors had been steadily growing since June 2019, reaching
+
+ US$100 million by end 2019 and US$192 million by March 2020. Despite several communications sent by the sponsors
+
+ to the GoG to clear the outstanding arrears, only US$4 million was paid in March 2020 to reduce the arrears. At the
+
+ same time, following the impact caused by COVID-19, oil revenues to the government from the offshore producing fields
+
+ fell sharply due to historically low oil prices. This led to a sudden drop in fiscal revenues and forced the government to
+
+ use the limited fiscal space available for priority public sector expenditures and other priority payments.
+
+
+
+III. KEY FACTORS THAT AFFECTED IMPLEMENTATION AND OUTCOME
+
+
+
+   A. KEY FACTORS DURING PREPARATION
+
+ 41. The discovery of offshore, non-associated natural gas reserves at the Sankofa field by an international oil
+
+ consortium in 2011 provided Ghana with the prospect of developing a lower cost, less polluting, domestic fuel,
+
+ reduce its vulnerability to external oil price fluctuations, and start to replace the increasing volumes of costly imports
+
+ of liquid fuels, in particular LCOs, needed to meet its expanding power generation needs. In addition, the
+
+ development of Sankofa had the potential to provide a secure supply of domestic gas over a 15 to 20-year period at
+
+ a time when gas imports from Nigeria through the WAGP were proving to be increasingly unreliable and adding to
+
+ the cost of Ghana’s fuel import bill. The energy context at the time provided additional impetus to develop a domestic
+
+ gas supply: a long history of unpredictable gas supplies through WAGP; shortages of fuel for power generation; and
+
+ frequent blackouts.
+
+
+
+ 42. At the same time, the development of the Sankofa gas field also presented some risks, both technical and
+
+ financial. First, proven gas reserves i.e. one TCF, were modest in size and found in deep, offshore waters, which gave
+
+ rise to relatively high production costs; in this regard, the cost of Sankofa gas was higher than gas being imported
+
+ into Ghana intermittently through the WAGP,-though still lower than the cost of liquid fuel imports for thermal power
+
+ generation. Second, secure payment mechanisms for the gas supplied to the power stations were essential if the
+
+ large investment needed to develop the Sankofa gas field was to proceed. While non-associated gas reserves had
+
+ been successfully developed in other developing countries for power generation21, such developments required
+
+ carefully designed financial instruments and guarantees to the private oil companies in order to mitigate the different
+
+ risks associated with the development of the gas reserves.
+
+
+
+ 43. The design and effective use of different World Bank Group instruments was the key factor during preparation
+
+ which enabled this large offshore gas development to move ahead. These instruments provided the needed
+
+ incentives and risk reduction measures for the private oil company consortium to commit to a total investment,
+
+ estimated at approximately US$4.6 billion for gas investments. The payment security package, agreed by the
+
+ government, the oil company consortium, and the World Bank, included a comprehensive set of risk mitigation steps,
+
+ and only limited government support, aimed at enhancing the creditworthiness of GNPC, which was the off taker of
+
+ the Sankofa gas for the duration of the gas supply agreement (GSA). The security package itself comprised different
+
+ layers of recourse and intervention in the following order: (i) the payment mechanism that channels receivables of
+
+ GNPC into segregated accounts; (ii) a cash reserve escrow account funded by GNPC for an equivalent of 4.5 months
+
+ of gas sales; (iii) a letter of credit backstopped by an IDA Payment Guarantee; and (iv) a limited sovereign guarantee
+
+ backed by an IBRD Enclave Loan Guarantee. MIGA guarantees were used to support termination payments for
+
+ financiers and private equity partners. Overall, this well-designed framework of incentives and guarantees addressed
+
+
+
+       21   Second Natural Gas Project in Thailand, 1985
+
+
+
+
+
+                                                               11
+
+       The World Bank
+
+       Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+effectively the financial risks of the project and enabled the Sankofa investment to proceed.
+
+
+
+44. The environmental and social impacts of the project were well identified during preparation. Six of the eight
+
+performance standards were triggered and plans to address and/or mitigate the impacts of the offshore gas
+
+development were carefully prepared. Initial consultations with the affected Sanzule community took place during
+
+preparation. These consultations involved the routing of the offshore gas pipeline at landfall to avoid population
+
+displacement and to minimize adverse economic impacts on nearby communities. An Environmental, Social, and
+
+Health Impact Assessment (ESHIA) was also completed before Board which identified, inter alia, the impact of the
+
+investment on farming, including an estimate of the number of farmers affected. In this regard, the need to prepare
+
+a Livelihood Restoration Plan was identified. The ESHIA also identified the potential impacts of unplanned events
+
+such as oil spills. Overall, consultations with affected communities were extensive. The single shortcoming was the
+
+failure to anticipate the need for a longer implementation period to address the different environmental and social
+
+impacts, which experience in other large infrastructure investments indicate.
+
+
+
+  B. KEY FACTORS DURING IMPLEMENTATION
+
+45. Implementation covered a period of approximately 3.5 years from July 2015 to December 2018 when the
+
+project closed. Project implementation comprised the following main activities:
+
+
+
+     (i)            Construction of offshore receiving facility (ORF): (a) drilling of 5-6 development wells; (b) laying of
+
+                    offshore pipeline; and (c) onshore gas pipeline link to onshore power plants;
+
+     (ii)           Mobilization of non-recourse financing; completion of financial security arrangements; financing to be
+
+                    mobilized for the gas development was US$3.9 billion;
+
+     (iii)          Construction of a 2.5 km onshore interconnection link with the existing West Africa Gas Pipeline (WAGP)
+
+                    to enable supply of Sankofa gas to power plants in eastern region;
+
+     (iv)           Activities to ensure compliance with environmental and social safeguards;
+
+
+
+
+
+             (i)        Factors Subject to Control of Private Oil Consortium
+
+
+
+46. Implementation of Component (i) was carried out with high efficiency by the private oil company consortium
+
+and completed just four months later than the original schedule of February 2018. The drilling of 5 gas production
+
+wells, laying of the subsea pipeline, and the tie-in with the onshore receiving facility (ORF) was completed in June
+
+2018, at which time gas from the Sankofa offshore gas fields was ready to be supplied to the onshore power plants
+
+at Takoradi; the only delay incurred from the original schedule was a short one in completing the ORF. The
+
+mobilization of the large amounts of financing from commercial banks and other sources for the offshore gas
+
+development was also undertaken efficiently by the oil consortium.
+
+
+
+             (ii)       Factors Subject to Control of Government or Government Agencies
+
+
+
+47. Government had the contractual obligation to put in place several elements of the financial security
+
+arrangements including, inter alia, (a) the establishment of a segregated designated account (GDA) into which
+
+revenues from GNPC on-sale gas would automatically be deposited; and (b) the funding of a reserve escrow account
+
+(REA) that could be tapped for gas payments if amounts in the GDA were insufficient. Such measures were required
+
+to be in place before the first gas supplies started under the terms of both the project agreements and GoG/GNPC’s
+
+contractual arrangements with IDA. These obligations were either not met or, in the case of REA, met only partially
+
+with an initial funding of US$100 million followed by some further deposits, which were subsequently drawn down
+
+following first gas (in June 2018) and never adequately replenished.
+
+
+
+                                                                  12
+
+        The World Bank
+
+        Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+48. The need to construct an onshore pipeline link to the existing WAGP, in order to enable gas supplies from
+
+Sankofa to reach the expanding power market for gas in the eastern region of the country, had been identified at
+
+appraisal; however, its investment costs were underestimated. Furthermore, the institutional and contractual
+
+arrangements associated with reaching agreement on the gas transport tariffs were also underestimated. By project
+
+closing, a contractual agreement on the pipeline carrier arrangements had yet to be agreed and construction of the
+
+pipeline interconnection (referred to as the TTIP) had not started. The impact of these delays was to (i) restrict the
+
+market for Sankofa gas to the western region in Takoradi during 2018-19 and (ii) prevent increased volumes of
+
+Sankofa gas being supplied to an expanding power market in the eastern region. The overall impact was that neither
+
+GNPC nor the government could meet its ‘take or pay’ related obligations during this initial production period and a
+
+waiting market in the eastern region had to seek alternative fuel supplies at higher cost.
+
+
+
+49. Institutional arrangements and responsibilities for gas purchasing and delivery had been developing in an ad
+
+hoc way since 2012 and lacked a clear vision as to how the sector could, and should, provide a new source of domestic
+
+fuel for an expanding domestic power market. Rather than having clear roles for gas sector institutions across the
+
+value chain, there was considerable overlap of responsibilities, causing inefficiencies. For example, GNPC, GNGC, and
+
+even the Volta River Authority (VRA) were each acting as gas suppliers in a market structurally not able to sustain a
+
+competitive market22. A Gas Master Plan in 2016 had made recommendations to avoid such duplication of roles 23
+
+and decisions were taken to clarify the roles of these gas institutions. However, successive governments did not
+
+follow through on these decisions and ended up changing the institutional arrangements of the gas sector mid-way
+
+through the implementation period. This prevented decisions being taken on key actions, including the
+
+interconnector investment and commercial arrangements with off-takers.
+
+
+
+50. Finally, regarding the power sector, the gas supplied from Sankofa was meant to be consumed and paid by
+
+thermal power plants (IPPs and VRA) to GNPC, which, in turn, were supposed to be paid by the distribution utilities
+
+(ECG and NEDCO). However, only 11 percent of the gas sales has actually been paid by the power sector directly, the
+
+rest having been paid by GoG. The lack of liquidity of the power sector was mainly due to large arrears by public
+
+sector institutions and all energy SOEs in the energy value chain. A GoG Energy Sector Recovery Plan was not put in
+
+place and actively pursued on time to stop a rapidly deteriorating sector financials, which was further aggravated
+
+with the approval of numerous IPPs that created an excess power capacity and additional financial obligations for
+
+the sector.
+
+
+
+           (iii)      Factors subject to Control of World Bank Group
+
+
+
+51. Adequacy of Supervision and Reporting. Bank supervision missions took place regularly and were well
+
+supported by the Country Management Unit (CMU). These missions addressed not only issues affecting the project
+
+but also the financial viability of the power sector, a major risk to the project outcome. However, follow up was
+
+ineffective and the Bank lacked the operational instruments to address the deteriorating finances of the power
+
+sector, already precarious at Board. Supervision effectiveness was also impeded by other constraints. For example,
+
+while government decisions were taken to define the respective roles of GNPC and GNGC, including their corporate
+
+governance structure, successive governments did not follow through on these decisions. This caused delays in
+
+approving key actions that needed to be taken, including the interconnector investment and commercial
+
+arrangements with the gas off-takers. Budget allocations for the supervision of the project were also insufficient,
+
+
+
+  22 Gas Master Plan (2016): GNPC would sell gas purchased from the Sankofa field; GNGC would sell gas purchased from the TEN/Jubilee fields; while VRA
+
+  would only sell gas imported from NGas
+
+  23
+
+     One solution proposed was to eliminate the duplication of roles across the gas value chain caused by past decisions that were no longer justified: GNPC
+
+  would be operationalized as the gas aggregator and gas shipper; GNGC would be operationalized as the gas transporter; while VRA would continue only as a
+
+  gas off-taker
+
+
+
+
+
+                                                                               13
+
+        The World Bank
+
+        Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+ resulting in the use of budget resources from other operations. Finally, though supervision reports provided detailed
+
+ accounts of issues and delays, the growing risks to the project outcome were not reflected in the main DO and IP
+
+ ratings until late in implementation in June 2018.
+
+
+
+ 52. Compliance of payment security package: Since early 2018, the payment security package of the Project was
+
+ not complied with by either GNPC or GoG. As a guarantor, the Bank also play a role to ensure these arrangements
+
+ were in place and then remained compliant throughout the project. Given the limited instruments available to the
+
+ Bank to enforce compliance, these obligations needed to be addressed much earlier in 2018, and at the highest level
+
+ of government.
+
+
+
+ 53. Safeguards Supervision. Activities and community consultations associated with ensuring safeguard
+
+ compliance were implemented satisfactorily. Implementation took longer than anticipated at appraisal, due mainly
+
+ to the need for extensive consultations with families whose economic livelihoods were being affected by the gas
+
+ pipeline in the onshore landfall area. However, the additional time required for such consultations was not unusual
+
+ and in line with experience in similar projects which impact the economic livelihoods of small communities. The
+
+ private oil consortium engaged an Independent Environmental and Social Consultant (IESC) at the World Bank
+
+ Group’s request. In addition, supervision continued after the formal closing date of December 2018 to ensure
+
+ completion of the Livelihood Restoration Plan (LRP) and full compliance with the remaining safeguards.
+
+
+
+          (iv)     Factors outside of control of Government and/or Implementing Agencies
+
+
+
+ 54. There were not any significant factors affecting implementation outside either government control, the main
+
+ gas sector agencies, or the private oil consortium during the period July 2015 to December 2018. Over this period,
+
+ there was political stability in Ghana which was maintained through elections in December 2016. There was also a
+
+ favorable external macro environment for growth. Oil prices also remained stable, averaging approximately US$65
+
+ per barrel (until they fell sharply after closing in April 2020 to below US$20 per barrel). Finally, there were no periods
+
+ of conflict or civil unrest.
+
+
+
+IV. BANK PERFORMANCE, COMPLIANCE ISSUES, AND RISK TO DEVELOPMENT OUTCOME
+
+
+
+  A. QUALITY OF MONITORING AND EVALUATION (M&E)
+
+   M&E Design
+
+ 55.      The M&E framework was soundly designed to monitor progress towards the two key outputs shown in the
+
+ Theory of Change: (i) volume of natural gas supplied for power generation in Ghana; and (ii) amount of private capital
+
+ mobilized to finance the Sankofa gas development. Two indicators were selected for this purpose: (i) daily volume
+
+ of natural gas supplied from the Sankofa gas field for power generation, measured in millions of standard cubic feet
+
+ per day (mmscfd); and (ii) amount of private sector financing mobilized, measured in millions of dollars-for the
+
+ Sankofa offshore gas development using the IDA and Bank guarantee instruments. Two other indicators were also
+
+ included in the M&E design framework: the number of indirect project beneficiaries and the percentage of female
+
+ beneficiaries.
+
+
+
+ 56.      An additional indicator might have been used to differentiate between the (a) availability of natural gas
+
+ supplies at the offshore platform; and the (b) supply of Sankofa gas to the (i) Western and (ii) Eastern regions of the
+
+ country. Such an indicator would have also highlighted where delays in the needed onshore pipeline infrastructure
+
+ were occurring in order to supply natural gas to thermal power plants in different regions of the country.
+
+
+
+
+
+
+
+                                                               14
+
+       The World Bank
+
+       Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+57.     The remaining two indicators in the results framework of the PAD were linked to the project beneficiaries
+
+and were, at the time of approval, core indicators for IDA energy investment operations. However, these indicators
+
+are more appropriate for an electricity distribution project than a gas supply project for use in thermal power plants
+
+
+
+  M&E Implementation
+
+58.       M&E data collection was the responsibility of private oil companies in partnership with the government and
+
+was carried out satisfactorily. Over the 3.5-year implementation period from mid-2015 to project closing in
+
+December, 2018, the basic M&E data was collected on an annual basis and recorded in the ISRs. However, given the
+
+relatively short implementation period to project completion i.e. 3.5 years, and the subsequent infrastructure delays
+
+experienced in making available the Sankofa gas for power generation, the actual M&E data recorded in the annual
+
+ISRs in terms of implementation progress was limited and related only to the aggregate volume of private sector
+
+capital mobilized for the offshore gas investment. The Aide Memoires provided more detailed accounts of
+
+implementation progress and identified the main issues impeding progress towards the main project objective.
+
+
+
+  M&E Utilization
+
+59.       Overall, M&E data was used effectively during implementation. Progress in implementing the offshore
+
+investments was carefully monitored by the Sankofa project sponsors which enabled the first gas supplies to become
+
+available in June 2018, close to the original schedule. Mobilization of the forecast amounts of private capital in the
+
+results framework was needed to achieve this goal. Corrective action was also taken quickly by the Sankofa project
+
+sponsors during implementation when the offshore pipeline from the production platform needed to be re-trenched
+
+at landfall. The delays being incurred in the gas supply targets in the M&E results framework enabled supervision
+
+teams to address the different onshore gas infrastructure issues impeding the supply of gas to thermal power
+
+stations in the Eastern region of the country.
+
+
+
+  Justification of Overall Rating of Quality of M&E
+
+60.       The overall rating of the quality of M&E is ‘Substantial’. Despite some shortcomings in the M&E design, the
+
+choice of the main project monitoring indicators was sound. In addition, data collection and monitoring of
+
+implementation was carried out regularly, compliance with the environmental and social safeguards was carefully
+
+monitored throughout and continued beyond project closing date, and the basic M&E data was used during
+
+implementation to address the issues impeding the transportation of gas supplies from the Sankofa offshore gas
+
+field to the different thermal power stations.
+
+
+
+  B. ENVIRONMENTAL, SOCIAL, AND FIDUCIARY COMPLIANCE
+
+
+
+   Environmental and Social Safeguards
+
+61. The development of the Sankofa offshore gas facility, including the related onshore pipeline and receiving
+
+facilities, had significant environmental and social impacts. The project was rated a Category A operation and
+
+triggered the following six performance standards (PS): (i) Social and Environmental Assessment and Management
+
+Systems (PS 1); (ii) Labor and Working Conditions (PS 2); (iii) Resource Efficiency and Pollution Prevention (PS 3); (iv)
+
+Community Health, Safety, and Security (PS 4); (v) Land Acquisition and Involuntary Resettlement (PS 5); and (vi)
+
+Biodiversity Conservation and Sustainable Management of Living Natural Resources (PS 6). The Sankofa development
+
+also involved a number of risks during the production drilling and operational phases. These risks included accidents
+
+such as an explosion, oil spills or a well blowout; worker health and safety risks; and risks to community livelihood
+
+associated with economic displacement during construction and operation of the pipeline landfall and shore-based
+
+facilities.
+
+
+
+
+
+
+
+                                                              15
+
+       The World Bank
+
+       Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+62. The main safeguards issues requiring monitoring during supervision were: (i) Environmental, Social, and Health
+
+Impacts: A comprehensive assessment (ESHIA) was prepared prior to submission of the project to the Board covering
+
+acquisition of land for the Offshore Receiving Facility (ORF), which caused economic displacement of an estimated
+
+205 farmers; it also addressed all aspects of the offshore development-from planning to decommissioning, air quality
+
+control, noise, and cuttings dispersal; (ii) Land Acquisition and Involuntary Resettlement: despite the lack of any
+
+physical displacement of populations or communities, there was a need for continuous monitoring to help ensure
+
+that resettlement activities related to economic displacement and livelihood restoration were implemented with the
+
+proper disclosure of information and the participation of stakeholders;
+
+
+
+63. Environmental management issues were given careful and sustained supervision during construction of the
+
+ORF until its completion in June, 2018. The potential concerns included the (i) arrangements to preserve wetlands;
+
+(ii) steps taken to preserve forest tracts and wildlife habitats within the concession; (iii) use of more costly-though
+
+environmentally more benign-methods such as horizontal directional drilling (HDD) rather than trenching, in the
+
+areas where the offshore pipeline crossed the beach; and (iv) maintaining a well-balanced ratio of one HSE officer
+
+for every twenty workers at the site. Air quality, noise, and water quality monitoring started in June 2017 and was
+
+carried out satisfactorily over the subsequent 12-month period. For the monitoring of biodiversity, a local NGO was
+
+employed. This NGO had responsibility for marine mammal monitoring programs as well as for monitoring programs
+
+such as the Avian and the Sea Turtle Biodiversity Action Plans. The IESC conducted semi-annual field visits as well as
+
+desk reviews of progress reports in the intervening quarters to evaluate implementation of environmental, social,
+
+health and safety management plans and compliance with the performance standards. The IESC remains under
+
+contract to the consortium to conduct a completion audit required by IFC, MIGA, and commercial lenders. Overall,
+
+environmental management issues linked to the main project investment were addressed satisfactorily.
+
+
+
+64. Livelihood Restoration Plan (LRP). The LRP addressed impacts related to onshore economic displacement, and,
+
+in particular, to vulnerable groups. It also addressed other issues such as (i) income generation opportunities,
+
+including near shore and offshore fisheries; (ii) work-related mobility patterns and practices in the impacted zone:
+
+and (iii) population influx. The LRP identified a number of livelihood options, including support for agriculture (crop
+
+and livestock production), skills training, and micro-enterprise development. The LRP was prepared in close
+
+consultation with project households, local authorities, local Community Based Organizations (CBOs), women, and
+
+youth groups. A Grievance Mechanism was also put in place at the Project site, where complaints concerning
+
+economic displacements for project affected people (PAPs) and project-related concerns were received and resolved.
+
+Implementation of the LRP did not start until mid-2017 and had not been completed by project closing in December
+
+2018. By project-closing, all PAHs had received material and technical support and were undertaking various
+
+livelihood options with early indications of ‘success’. Finally, a local Chieftaincy dispute had threatened community
+
+peace, fractured consultation with the community, and delayed implementation of some social investments at an
+
+early phase of the project. However, it was possible to mitigate the impact of this dispute on the project through
+
+broad consultations with the different interest groups.
+
+
+
+65. Safety Issues. The overall safety performance of the main contractor during implementation was of high
+
+standard. Lost time due to injuries was negligible while adherence to workplace safety rules was exemplary. Some
+
+specific safety issues emerged during implementation but were addressed satisfactorily. In particular, the gas pipeline
+
+carrying gas from the Sankofa OCTP field was found to be partially exposed on the beach at Sanzule in 2018. A
+
+comprehensive risk assessment of the environmental and safety concerns was then carried out for the exposed
+
+pipeline as well as for the proposed re-trenchment method, which was to bury the pipeline deeper. The pipeline is
+
+now completely buried.
+
+
+
+66.   There were also some safety concerns at the Tema Metering Station- which is located in a densely populated
+
+
+
+                                                             16
+
+       The World Bank
+
+       Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+area, where households are close to the metering station. These concerns were evaluated carefully to assess risks to
+
+the surrounding population using different assumptions of gas flows and pressure. The conclusion was that with gas
+
+flows up to 60mmscfd and at low pressure, there would be no risk to the surrounding population. Gas flows to Tema
+
+during 2019, one year after the project closing date didn’t reach 60mmscfd.
+
+
+
+  Fiduciary and Procurement
+
+67. The project involved only an IDA guarantee; no IDA or IBRD lending was used to finance any of the investments.
+
+Consequently, there were no IDA or IBRD-financed procurement activities under the project; there were also no
+
+traditional financial management issues. Nevertheless, the World Bank’s operational policies on Investment Project
+
+Financing (OP/BP 10.00), which also govern Bank Guarantees, require that procurement of works, goods, and services
+
+for a project supported with guarantees be carried out with due regard to economy and efficiency. The large capital
+
+investments for the offshore development, estimated at appraisal as US$7.9 billion24, were carried with high
+
+efficiency following industry practices and has resulted in a lower overall cost when compared with the original
+
+estimates- by about 6 percent or US$500 million.
+
+
+
+C. BANK PERFORMANCE
+
+  Quality at Entry
+
+68.     Preparation of the project took place over a short period of time-approximately 6 months from project
+
+identification in early 2015 until the Board presentation in July 31, 2015. The time period between disclosure of the
+
+Project Identification Document (PID) and Board presentation was just two months. Overall, the project was
+
+prepared quickly and efficiently. Two considerations guided both the design of the investment and the financing
+
+instruments deployed: (i) the investment was a key step in building up a domestic gas industry in Ghana through
+
+the development of an offshore, non-associated gas field for use in thermal power generation; and (ii) the
+
+deployment of different World Bank Group financing and guarantee instruments helped achieve this investment
+
+goal which represented the largest foreign private investment in Sub-Saharan Africa i.e. US$8 billion. A further
+
+consideration in the project design was to structure the operation in a way that reduced the government’s fiscal
+
+support at a time when macroeconomic uncertainty was affecting the investment climate. Overall, the design of the
+
+project was sound and the combination of financing and guarantee instruments deployed to achieve the main
+
+objective was particularly innovative. The environmental and social impacts of the offshore gas development on the
+
+small communities close to landfall were also well identified.
+
+
+
+69.     One shortcoming during project preparation was underestimating the investment required and time needed
+
+for the contractual agreements with WAPCo for a pipeline interconnector transporting Sankofa gas from Takoradi
+
+to Tema. This pipeline interconnector was an essential link to be able to supply Sankofa gas to the eastern region of
+
+the country, where power plants either were using higher cost, imported LCO for generation or operating below
+
+capacity due to the unreliability of gas supplies from Nigeria. At the time of appraisal, the investment for the pipeline
+
+interconnector was estimated at less than US$10 million25 and was expected to be financed by GNPC and/or WAPCo.
+
+However, the total investment required to complete the pipeline system was much higher, close to US$100 million,
+
+which also included investment in compression and looping to enable higher gas flows-. Overall, the delays incurred
+
+in completing the interconnection delayed the supply of Sankofa gas to the eastern region of the country and
+
+reduced the overall benefits of the original investment in the first year of its operation.
+
+
+
+70.    A further shortcoming was the lack of a coordinated power sector supporting strategy to address and
+
+
+
+
+
+      24   Comprising $3.9 billion for the oil and $4.0 billion for the gas developments respectively
+
+      25   PAD, paragraph 77
+
+
+
+
+
+                                                                           17
+
+       The World Bank
+
+       Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+monitor progress of the power sector’s financials at the time of board approval despite a careful assessment of its
+
+weak financial position and resulting payment risks in the PAD. Specifically, the IMF’s Extended Grant Facility had
+
+only been approved in April 2015 and the planned concession for the country’s major distribution company, ECG,
+
+under the MCC Compact 2 program, was terminated by GoG only six months after the concession was effective.
+
+While the latter outcome could not have been foreseen at Board, the Bank lacked an effective instrument to address
+
+and monitor progress of the power sector’s financials before 2019.
+
+
+
+71.    Finally, leaving key technical investments (such as the TTIP interconnector) and important payment security
+
+features (such as setting up the GDA and REA) to be addressed by effectiveness or during implementation reflected
+
+the readiness of the project at the time of Board.
+
+
+
+  Quality of Supervision
+
+72.    Supervision was carried out over more than three years - from Board approval in July 2015 to project closing
+
+in December 2018. Supervision missions visited Ghana on a regular basis, starting in October 2015 and continuing
+
+in 2019 after project closing to support efforts by the government to put in place the agreed payment security
+
+package for the Sankofa gas.
+
+
+
+73.     The effectiveness of supervision was constrained at the outset by the following: (i) the main consumer of
+
+the Sankofa gas was the electric power sector, whose financial position had been deteriorating as generation costs
+
+steadily increased; however, there was no clear parallel strategy to address these concerns while the plans to
+
+improve the finances and operational efficiency of the main distribution company, ECG, through a management
+
+concession, did not materialize; (ii) the two gas sector institutions, GNPC and GNGC, were relatively weak and unable
+
+to exert a strong leadership role, despite efforts during supervision to strengthen their effectiveness; and (iii) within
+
+the Bank, budget resources allocated for the supervision of the project were inadequate, constraining further the
+
+overall effectiveness of supervision. In this regard, guarantees should have been assigned adequate supervision
+
+budgets, similar to those assigned for IDA and Bank financed project investment operations.
+
+
+
+74.      Within these constraints, successive Bank supervision teams addressed the main sector issues. They
+
+endeavored to reach agreement with the government on actions needed to strengthen the financials of the power
+
+sector while monitoring progress to help ensure the initial gas supplies from Sankofa, expected in the first half 2018,
+
+would be fully utilized. The importance of completing a pipeline interconnector was also given considerable
+
+attention by supervision teams to help ensure there would be sufficient offtake capacity in place in early 2018 to
+
+absorb the first Sankofa gas supplies. In this regard, the supervision aide memoire of April 2016 and related ISR (#1),
+
+highlighted ‘sufficient gas offtake capacity’, and the consequent need for a pipeline interconnector, as the ‘biggest
+
+risk to the project outcome’. The same documents highlighted a further risk to the project outcome- namely, power
+
+sector reform and the financial turnaround of key offtake utilities such as VRA and ECG. These risks continued to be
+
+highlighted in subsequent supervision documents through to project closing in December 2018. The construction of
+
+a gas interconnector was eventually completed in April 2019, which expanded the domestic market for Sankofa gas.
+
+
+
+75.     Early supervision reports provided well written accounts of the main issues affecting implementation of the
+
+Sankofa gas project They also highlighted the main risks to the development outcome though these risks were not
+
+reflected in the DO and IP ratings until June 2018, close to project closing. Supervision teams were closely involved
+
+with ongoing negotiations for the gas interconnector while, in parallel, they continued to be involved on the power
+
+sector reform agenda, which presented an important risk to project sustainability. However, by early 2018, with no
+
+real progress having been made with the construction of a gas pipeline interconnector, it became clear that the
+
+approaching ‘take or pay’ gas payment obligations, starting in June 2018, would require upfront payments for the
+
+
+
+
+
+                                                              18
+
+       The World Bank
+
+       Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+Sankofa gas since the full, contracted volumes could not be met in terms of gas offtake.
+
+
+
+76.     In regard to environmental and social safeguards, supervision was thorough, sustained, and effective. The
+
+corporate safeguards standards from ENI and Vitol were compliant with WB safeguards standards and, as a result,
+
+the companies had a sound framework for monitoring safeguards issues and implementing mitigation measures
+
+during the project. Given the several safeguard obligations which needed to be brought into compliance, the main
+
+issues addressed during implementation were (i) the economic displacement issues of some 200 families as a result
+
+of the onshore pipeline routing, which required preparation of a Livelihood Restoration Plan (LRP); (ii) a chieftaincy
+
+dispute in the affected communities which delayed reaching agreement on the LRP; (iii) the need to re-trench the
+
+offshore gas pipeline which had surfaced close to the affected communities; and (iv) a number of biodiversity
+
+concerns resulting from the gas pipeline routing . Safety and hazard prevention drills took place regularly on the
+
+offshore platform. By project closing, most of the above issues and concerns had been satisfactorily addressed. The
+
+rating for the Environment Safeguards was Satisfactory and for the Social Safeguards was Moderately Satisfactory,
+
+due to delays in completing the Resettlement Plan. Safeguard supervision continued after project closing, using
+
+resources from other sources. By end 2019, the remaining resettlement issues had been satisfactorily addressed.
+
+
+
+  Justification of Overall Rating of Bank Performance
+
+77.     Overall Bank performance is rated ‘Moderately Satisfactory’. The project design and deployment of
+
+different Bank Group lending instruments were innovative and proved successful in attracting large amounts of
+
+private capital to develop the country’s first, significant, natural gas resources. At the same time, the specific
+
+measures needed, and to be put in place, in order to strengthen the financials of the country’s main power sector
+
+institutions, the main market for the Sankofa gas, were not addressed within the framework of this operation, either
+
+through other lending instruments of the Bank or of other development partners. Consequently, nearly four years
+
+after Board approval, the sustainability of the Sankofa gas development remains uncertain, given the weak and
+
+unresolved financials of the country’s power sector.
+
+
+
+  D. RISK TO DEVELOPMENT OUTCOME
+
+78. The main risk to the sustainability of the development outcome is the gas payment risk. The gas supply risk is
+
+considered ‘low’, given the adequate proven reserve level and technical performance to sustain gas supplies at a
+
+minimum of 170mmscfd for the coming ten years.
+
+
+
+79. Gas Payment Risk: The contractual agreements with the Sankofa project sponsors provide for ‘take-or-pay’
+
+arrangements when gas becomes available in minimum volumes of 170mmscfd. These payment obligations first
+
+came into effect in 2018 which required government to maintain payments of approximately US$40 million per
+
+month. From the outset, GNPC was not able to pay for the gas (neither gas consumed nor the resulting payment
+
+obligation for gas not utilized under the ToP obligation). Consequently, the government (GoG) was contractually
+
+obligated to make the payments to the gas supplier. Over the period June 2018 until September 2019, GoG was able
+
+to pay-although with some delay. Subsequently, however, the payment backlog has steadily accumulated as noted
+
+earlier in the paragraph, Performance since Closing Date.
+
+
+
+80. The prospects of a re-occurrence of payment arrears remain real without a fundamental restructuring of the
+
+country’s power sector. Ghana’s power sector financial situation has been in crisis for some time with recurring
+
+revenue shortfalls that, by 2019, amounted to about US$1 billion. The main issues have been (i) over-investment in
+
+new power generating capacity, (ii) gas offtake constraints due to delays in infrastructure completion; (iii) competing
+
+interests in gas aggregation and nomination between GNPC, GNGC and VRA; (iv) non-payment of GoG and SOE
+
+electricity bills and a build-up of arrears among sector SOEs; (v) high system losses and low collections from the
+
+
+
+
+
+                                                             19
+
+        The World Bank
+
+        Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+ distribution utilities; and (vi) tariffs which do not cover cost recovery. These issues have resulted in a weak financial
+
+ position of the country’s main consumer of power (and therefore gas), Electricity Company of Ghana (ECG), and an
+
+ inability to pay gas suppliers for the gas being consumed by the sector. The power sector (ECG, and the Volta River
+
+ Authority, VRA) can only pay 40 percent of the monthly invoices of the gas that is currently offtaken. The gas payment
+
+ risk is therefore considered ‘High’.
+
+
+
+V. LESSONS AND RECOMMENDATIONS
+
+
+
+   Successful natural gas developments for a domestic market require not only the risk mitigation instruments
+
+   needed to attract private capital to develop the gas but also a financially viable power sector that is able to pay
+
+   for the gas being consumed.
+
+ 81. The main consumer of natural gas supplied from Sankofa was the power sector; consequently, the project’s
+
+ longer-term viability was dependent on having financially solvent and liquid power sector in order to pay for the gas.
+
+ However, Ghana’s power sector had been in crisis for some time. Growing levels of receivables in public sector
+
+ entities for unpaid electricity consumption were severely impacting the financials of the country’s main distribution
+
+ company, ECG. At the time of appraisal, the government had started to reduce some payment arrears to ECG for its
+
+ electricity consumption. Also, under the MCC Compact II program, the government had committed to procure an
+
+ international distribution utility to become a private concessionaire for ECG and improve its technical and commercial
+
+ performance (decrease losses and increase collections), eliminate payment arrears, and maintain public sector
+
+ receivables at less than two months of sales by end-2017. In addition, an IMF Extended Credit Facility was also
+
+ intended to reinforce fiscal discipline by applying a ceiling to the contracting and guaranteeing of new non-
+
+ concessional external debt by the government and/or public enterprises. However, none of these measures and/or
+
+ instruments either materialized or proved sufficient to restore financial health to the power sector. By mid-2018,
+
+ when the first Sankofa gas deliveries began, the country’s power sector was in deep crisis, with only limited capacity
+
+ to pay for the gas.
+
+
+
+ 82. A financially viable power sector is critical for the development of a domestic gas industry. Past Bank Group
+
+ experience in developing natural gas in countries such as Thailand26, and other countries, reaffirm this requirement.
+
+ Consequently, the use of WBG financing and/or guarantee instruments needs to be accompanied by a careful
+
+ assessment of the financial health of the power sector and the possible need for parallel lending, such as DPOs, to
+
+ strengthen sector reform. Gas to power operations therefore need to be part of a comprehensive plan, which
+
+ addresses not only the supply of gas but also the financial health of the power sector, where most of the gas is
+
+ consumed.
+
+
+
+ 83. To reduce the payment risks of WB Guarantees, such operations should be designed in parallel with other
+
+ operations (either IPF, P for R, or DPO) which support improvements in the financial situation of the sector.
+
+
+
+ 84. A WB Partial Risk Guarantee is usually designed to enhance the creditworthiness of the offtaker. At the same
+
+ time, the Guarantee alone does not address the root cause of the lack of creditworthiness of the offtaker.
+
+ Consequently, it is important that such Guarantees be designed in parallel with an additional lending and TA
+
+ operation which target the improvement of the sector’s financials. The current drawdown of the Letter of Credit of
+
+ the Sankofa Project could have been partially mitigated through the implementation of an investment ‘program for
+
+ results’, or budget support operation, focusing on improvements of the financial situation of the power sector. In
+
+ this regard, the World Bank initiated a US$ 20 million TA project (GESTIP) in 2019 (after Project closing) which seeks
+
+
+
+       26   PPAR, June 28, 1985, Thailand: Second Natural Gas Development Project
+
+
+
+
+
+                                                                       20
+
+           The World Bank
+
+           Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+    to provide implementation support to a recently approved Energy Sector Recovery Plan prepared by an inter-
+
+    ministerial task force. A Program for Results operation is also being developed for 2021 Board approval. These
+
+    programs, had they been underway in 2016, would have assisted in supporting progress towards a financially viable
+
+    energy sector in Ghana.
+
+
+
+    85. Board approval and effectiveness conditions of World Bank guarantees should be both carefully timed and
+
+    then enforced, taking into consideration the major risk factors of the investment as well as the limited options
+
+    subsequently available to enforce key agreements, once the guarantee becomes effective.
+
+
+
+    86. The agreed security package at negotiations in June 2015 required the government to set up a government
+
+    disbursement account (GDA) and fund a reserve escrow account (REA) with 4.5 months of the estimated gas revenues
+
+    i.e. approximately US$190 million, by first gas, forecast to occur over 30 months after Board approval. As of April
+
+    2020, the GDA has not been used, and the REA was only partially funded to an accumulative amount of US$100
+
+    million. In this context, it is important to note that, in a typical project finance operation, commercial lenders usually
+
+    require security arrangements to be in place by financial closure. In the case of the Sankofa project, however, the
+
+    legal obligations of GoG and GNPC to activate the GDA and fund the REA after financial close were considered
+
+    sufficient by the Bank. Despite it being a legally binding commitment, the government did not fulfill its requirement
+
+    either to set up the GDA or to fully fund the REA. Considering the limited instruments subsequently at its disposal,
+
+    the Bank must require the government to fulfil its original commitments at the time the guarantee becomes effective.
+
+    Otherwise the only option available is to suspend the entire IDA lending program to the country.
+
+
+
+      Importance of a Communications’ Strategy in advance of a major natural resource development.
+
+    87. The development of the country’s first natural gas resources was accompanied by considerable criticism in the
+
+    local news media. A common perception was that of an international petroleum consortium, supported directly by
+
+    the World Bank Group, exploiting a domestic natural resource for its own benefit. The potential benefits for Ghana
+
+    were not explained to the public while the high cost being paid for the first natural gas supplies, in conjunction with
+
+    the perception of a punitive ‘take or pay’ contract, left the impression of an investment benefitting only the private
+
+    oil consortium
+
+
+
+    88. The World Bank Group, in collaboration with the government, should have anticipated the need for a
+
+    communications strategy, explaining the economic benefits of the country’s first natural gas development, part of
+
+    which would not be realized immediately. The fact that associated gas produced from the nearby Jubilee field was
+
+    not being charged to consumers27 reinforced the urgency for such a strategy to clarify expectations and dispel
+
+    misunderstandings in advance of the development itself. Since the first non-associated gas supplies started in
+
+    production in June 2018, there has been continuing criticism in the local communications media of the Sankofa
+
+    offshore development which has generated pressure for alternative investments-such as LNG imports as an
+
+    alternative to domestic gas development-further exacerbating the country’s growing indebtedness.
+
+
+
+    89. In summary, major natural resource developments, whether in energy or in mining, should be accompanied by
+
+    a carefully thought out communications’ strategy to the public to explain the rationale for such an investment and
+
+    the anticipated benefits.
+
+.
+
+
+
+
+
+
+
+
+
+          27   However, significant gathering and transfer charges are applied before delivery to the end-user
+
+
+
+
+
+                                                                                     21
+
+    The World Bank
+
+    Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+
+
+                                                  ANNEX 1. RESULTS FRAMEWORK AND KEY OUTPUTS
+
+
+
+RESULTS INDICATORS
+
+A.1 PDO Indicators
+
+
+
+
+
+
+
+
+
+                                                                                                        Formally Revised           Actual Achieved at
+
+1. Indicator Name                Unit of Measure            Baseline          Original Target
+
+                                                                                                        Target                     Completion
+
+
+
+  Quantity of gas supplied to        MMSCFD                  0.00                       171                       N.A.                       10
+
+        power plants
+
+                                                                                                                                    December 31, 2018
+
+
+
+
+
+Comments (achievements against targets): Gas supplied at closing was below original target. However, gas supplies increased to 90 MMSCFD in 2019 and
+
+are projected to reach 120 and 171 MMSCFD in 2020 and 2021, respectively.
+
+                                                                                                        Formally Revised           Actual Achieved at
+
+ 2. Indicator Name               Unit of Measure Baseline                     Original Target
+
+                                                                                                        Target                     Completion
+
+
+
+    Private sector capital          US$ million              0.00                      5,100                      N.A.                     4,653
+
+   mobilized (US$ million)
+
+
+
+
+
+Comments (achievements against targets): Lower private sector capital mobilized at closing reflects cost savings in overall capital investment.
+
+
+
+
+
+
+
+
+
+                                                                             22
+
+  The World Bank
+
+  Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+
+
+
+
+                                                                                       Formally Revised   Actual Achieved at
+
+3. Indicator Name                 Unit of Measure Baseline           Original Target
+
+                                                                                       Target             Completion
+
+
+
+ Indirect Project Beneficiaries      (Million)               0.00             10.6             N.A.               17.8
+
+
+
+
+
+
+
+
+
+Comments (achievements against targets):
+
+                                                                                       Formally Revised   Actual Achieved at
+
+4. Indicator Name                 Unit of Measure Baseline           Original Target
+
+                                                                                       Target             Completion
+
+
+
+   Female Beneficiaries (%)             %                    0.00              50              N.A.               49.3
+
+
+
+
+
+
+
+
+
+                                                                    23
+
+    The World Bank
+
+    Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+
+
+A.2 Intermediate Results Indicators
+
+                                                                                                  Formally Revised   Actual Achieved at
+
+ 1. Indicator Name                                 Unit of Measure   Baseline   Original Target
+
+                                                                                                      Target            Completion
+
+
+
+ Gas production capacity achieved by the project      MMSCFD           0             171               N.A.                 10
+
+ (MMSCFD)
+
+
+
+
+
+Comments (achievements against targets):
+
+
+
+                                                                                                  Formally Revised   Actual Achieved at
+
+ 2. Indicator Name                                 Unit of Measure   Baseline   Original Target
+
+                                                                                                      Target            Completion
+
+
+
+ Commissioning of project according to budget          Yes/No          No            No                N.A.                Yes
+
+ (Yes/No)
+
+
+
+
+
+
+
+
+
+                                                                     24
+
+    The World Bank
+
+    Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+
+
+A. KEY OUTPUTS BY COMPONENT
+
+
+
+
+
+   Objective/Outcome 1
+
+                                                            1. Quantity of Gas Supplied to Power Plants (MMSCFD)
+
+                                                            2. Private Sector Capital Mobilized (US$ million)
+
+   Outcome Indicators
+
+                                                            3. Indirect Project Beneficiaries (million)
+
+                                                            4. Female Beneficiaries (%)
+
+                                                            1. Gas Production Capacity Achieved by the Project (MMSCFD)
+
+   Intermediate Results Indicators
+
+                                                            2. Commissioning of project according to budget (Yes/No)
+
+
+
+   Key Outputs by Component                                 Project had a single component: supply of non-associated gas to
+
+   (linked to the achievement of the Objective/Outcome 1)   power plants (MMSCFD)
+
+
+
+
+
+
+
+
+
+                                                             25
+
+    The World Bank
+
+    Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+
+
+                     ANNEX 2. BANK LENDING AND IMPLEMENTATION SUPPORT/SUPERVISION
+
+
+
+
+
+A. TASK TEAM MEMBERS
+
+
+
+Name                                                  Role
+
+Preparation
+
+Sunil W. Mathrani                                     Co-Task Team Leader
+
+Robert Schlotterer                                    Co-Task Team Leader
+
+David Santley                                         Senior Petroleum Specialist
+
+Manuel Luengo                                         Senior Energy Specialist
+
+Thomas E. Walton                                      Environment Specialist
+
+Demba Balde                                           Social Safeguards Specialist
+
+Rita Ahiboh                                           Team Member
+
+Chita Azuanuka Obinwa                                 Team Member
+
+Ayishetu Terewina                                     Team Member
+
+Shingira Samantha Masanzu                             Senior Counsel
+
+Monica Restrepo                                       Counsel
+
+Vincent Francois Jean Launay                          Infrastructure Finance Specialist
+
+Supervision/ICR
+
+Shinya Nishimura                                      Co-Task Team Leader
+
+Robert Schlotterer                                    Co-Task Team Leader
+
+Jukka-Pekka Strand                                    Co-Task Team Leader
+
+David Ferrenbach Vilar                                ICR Task Team Leader
+
+Vincent Francois Jean Launay                          Infrastructure Finance Specialist
+
+Thomas E. Walton                                      Environment Specialist
+
+Asferachew Abate Abebe                                Environment Specialist
+
+Alidu Babatu Adam                                     Social Safeguards Specialist
+
+Ayishetu Terewina                                     Team Member
+
+Marie-Claudine Fundi                                  Team Member
+
+Demba Balde                                           Social Safeguards Specialist
+
+Gloria Mahama                                         Social Specialist
+
+
+
+                                                 26
+
+    The World Bank
+
+    Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+
+
+Rita Ahiboh                                    Team Member
+
+Chita Azuanuka Obinwa                          Team Member
+
+Shingira Samantha Masanzu                      Counsel
+
+Monica Restrepo                                Counsel
+
+Sunjung Melissa Kim                            Counsel
+
+Charles John Aryee Ashong                      Procurement Specialist
+
+Robert Wallace DeGraft-Hanson                  Financial Management Specialist
+
+Anas Benbarka                                  Team Member
+
+Anthony Molle                                  Team Member
+
+Collins S. Umunnah                             Team Member
+
+Dante Ariel Mossi Reyes                        Team Member
+
+Lauren Claire Culver                           Team Member
+
+Adwoa Asantewaa                                ICR Team Member
+
+Sunil W. Mathrani                              Team Member
+
+Zhengjia Meng                                  ICR Task Team Leader
+
+
+
+
+
+
+
+
+
+                                          27
+
+   The World Bank
+
+   Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+
+
+
+
+B. STAFF TIME AND COST
+
+
+
+
+
+                                                      Staff Time and Cost
+
+Stage of Project Cycle
+
+                            No. of staff weeks                 US$ (including travel and consultant costs)
+
+Preparation
+
+FY15                        53.66                                                             266,627.28
+
+FY16                        38.18                                                             192,746.42
+
+Total                       91.84                                                              459,373.7
+
+
+
+
+
+Supervision/ICR
+
+FY17                        51.97                                                             255,881.35
+
+FY18                        48.31                                                             257,154.76
+
+FY19                        26.12                                                             131,573.78
+
+FY20                        9.76                                                               54,056.38
+
+Total                       136.16                                                            698,666.27
+
+
+
+
+
+
+
+
+
+                                                 28
+
+    The World Bank
+
+    Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+
+
+                                 ANNEX 3. PROJECT COST BY COMPONENT
+
+
+
+
+
+
+
+                                          Amount at Approval   Actual at Project   Percentage of Approval
+
+Components
+
+                                                     (US$M)     Closing (US$M)                    (US$M)
+
+Total                                                  4,800               0.00                      97%
+
+
+
+
+
+
+
+
+
+                                                        29
+
+  The World Bank
+
+  Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+
+
+                                                 ANNEX 4. EFFICIENCY ANALYSIS
+
+
+
+1. This annex presents the economic28 analysis of the Implementation Completion and Results Report (ICR) of the
+
+Ghana: Sankofa Gas Project (SGP). It is a cost-effectiveness analysis to determine whether the project represented
+
+the expected least-cost solution to provide gas to the Ghanaian electricity sector. During project appraisal, the Net
+
+Present Value (NPV) and Economic Rate of Return (ERR) were used to determine the economic and financial viability
+
+of the project and remains the main metrics of assessment in this analysis. These indicators are re-estimated based
+
+on actual project costs and benefits and modified with relevant macroeconomic and institutional assumptions. The
+
+original economic and financial models used in the appraisal analysis are also used for this completion analysis to
+
+allow for an effective comparison of both results.
+
+
+
+   PROJECT RATIONALE AND DEVELOPMENT IMPACT
+
+
+
+2. The SGP was a two-phased oil and gas development project with Phase 1 being the development of the Sankofa
+
+East oil field and Phase 2 being the development of the Sankofa Gas Field (SGF). Each phase had a separate
+
+commercial arrangement, and World Bank support was for the development of the SGF only. The envisioned support
+
+was in the form of a US$700 million guarantee package, which comprised a US$500 million IDA Guarantee and a
+
+US$200 million IBRD Enclave Loan Guarantee to mitigate against GNPC off-take and payment risks, and long-term
+
+political risks in Ghana. This support underpinned an US$7.9 billion private sector investment by Eni of Italy and Vitol
+
+of the Netherlands.
+
+
+
+3. The Project Development Objective (PDO) of SGP was to “Increase the Availability of Natural Gas for Clean Power
+
+Generation by Leveraging Private Capital Investment”. The rationale was that gas from the Sankofa field would
+
+replace expensive and polluting liquid fuels currently used for electricity generation in Ghana while enabling new
+
+generation capacity to be constructed. The field, which is expected to be in production for twenty years would
+
+provide baseload gas to fuel up to 1000 MW of power plant capacity. At the time of appraisal, significant Independent
+
+Power Production (IPP) projects were underway in Ghana and an additional IPP capacity of over 2,500 MW was
+
+expected to be added to the generation base by 2020. This corresponded to a gas demand of 373 MMscfd in the
+
+electricity sub-sector alone. Based on these projections, it was projected that even with the development of SGF, a
+
+gas deficit would persist at the national level, making it necessary to develop additional sources of gas supply.
+
+
+
+4. In addition to presenting specific benefits to the electricity sub-sector, the SGP had significant macroeconomic
+
+merits. At the time of project preparation, the liquid fuel import bill in Ghana had increased by about US$27 million
+
+per month when gas was unavailable. In addition to the project being a new source of government revenue, it
+
+presented far-reaching benefits to the broader macro economy through multiple channels in the real sector, fiscal
+
+accounts and balance of payments. However, these economic benefits are not included in the economic analysis of
+
+the project given the complexity of capturing these effects.
+
+
+
+   PROJECT COSTS
+
+
+
+5. The economic costs of the project included the total capital costs and the operation costs. During appraisal, the
+
+total capital cost of the project was estimated at US$7.9 billion dollars. These costs included capital costs for both
+
+the oil and gas infrastructure and was based on tenders already received by the project’s private sponsors for
+
+
+
+    28The economic analysis is consistent with the following guidelines: (a) World Bank IPF Policy and Directive (b) Power Sector Policy and
+
+    Investment Projects: Guidelines for Economic Analysis, (c) Discounting Costs and Benefits in Economic Analysis of World Bank Projects
+
+    2016.
+
+
+
+                                                                       30
+
+  The World Bank
+
+  Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+
+
+contracts including Floating Production Storage and Offloading unit (FPSO), and Subsea Pipeline System and drilling
+
+costs contracts. The total capital costs also included a 20-year lease cost for FPSO of US$2.4 billion, and the
+
+investments planned in 2026 and 2028 to maintain gas production at the plateau level. However, the operating and
+
+maintenance costs of the FPSO estimated at more than US$100 million per year are recorded as operating
+
+expenditures in the income statement. As oil production was expected to start in the third quarter of 2017, the
+
+planned investments in 2026 and 2028 would be self-financed by oil revenues. The total capital expenditures for the
+
+project was US$4.65 billion for both project phases.
+
+
+
+    World Bank Support
+
+
+
+6. To secure this investment, a comprehensive set of risk mitigation and intervention structures were put in place
+
+to enhance the creditworthiness of GNPC as the offtaker. These included the (a) payment of GNPC receivables into a
+
+segregated account to assure the prioritization of payment for Sankofa gas purchases (b) a cash reserve escrow
+
+account, (c) a Letter of Credit (LC) backstopped by a World Bank IDA Payment Guarantee; and (d) a limited Sovereign
+
+Guarantee. Table 1 presents an overview of this security package. As at project closing, Layer 1 of the security package
+
+had not been triggered as it was never operationalized, and Layer 2 had been triggered and exhausted as GNPC did
+
+not fully fund the escrow account. Also, ENI and Vitol drew down US$192 million of the LC on April 7, 2020.
+
+
+
+              Table 1: Overview OF Risk Mitigation and Intervention Structures for Sankofa Gas Project
+
+
+
+           Security                                Description                                         Remarks
+
+   Layer 1: Government  This Channels all revenues from the on-sale of gas from Sankofa,         The GDA has been
+
+   Disbursement Account Jubilee and TEN as well as GNPC's share of Net CAPI into a               set up but not yet
+
+   (GDA)                Government Disbursement Account (GDA) from which the GSA                 been
+
+                        payments, GNPC's debt service and the replenishment of the               operationalized at
+
+                        Jubilee and TEN escrow accounts will be made on a pari passu             the Bank of Ghana.
+
+                        basis. Following these disbursements, the remaining funds are
+
+                        expected to be used to replenish the Sankofa reserve escrow
+
+                        cash account, if needed, and residual funds released to GNPC.
+
+   Layer 2: Reserve     This account was to be funded by GNPC to the tune of US$210              GNPC did not fully
+
+   escrow account       million equivalent to 4.5 months of gas sales. These funds would         fund the reserve
+
+                        be available if the proceeds from the GDA are insufficient. The          escrow. It only
+
+                        required amount in the escrow would be reduced to 3.5 months             provided an initial
+
+                        in the absence of default under the GSA during the first 5 years         US$100 million for
+
+                        of operation.                                                            the account. This
+
+                                                                                                 was depleted after
+
+                                                                                                 the first invoices and
+
+                                                                                                 has not since been
+
+                                                                                                 replenished.
+
+   Layer 3: US$500 million The LC would be accessible to the Private Sponsors once the first     ENI and Vitol drew
+
+   Commercial Bank LC      two security layers have been exhausted. This covers close to         down           US$192
+
+   backstopped by IDA      one year of gas sales under the GSA and is backstopped by an          million of the LC in
+
+                           IDA Payment Guarantee to repay the LC issuing bank for                April 7, 2020
+
+
+
+                                                            31
+
+  The World Bank
+
+  Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+
+
+                                  amounts drawn by the private sponsors 12 months after the
+
+                                  draw-down.
+
+    Layer 4: Sovereign            The GoG would be liable for gas payments estimated around                            This is yet to be
+
+    Guarantee                     US$600 million per year on average over the life of the GSA once                             triggered
+
+                                  all these layers of security are exhausted.
+
+
+
+7. Alternate Supply Options. At appraisal, the gas price negotiated in the GSA was US$9.80/MMBtu but with a
+
+levelized net economic cost of US$6.60/MMBtu (2014 US$), i.e. after considering direct and indirect revenues to the
+
+GoG. The main alternatives to SGP at the time were imported liquid fuels whose costs were estimated at US$12/MCF
+
+and LNG imports at US$10/MCF, both of which had a higher economic and financial cost than Sankofa. Gas imports
+
+from Nigeria at US$8/MCF at the time was competitive with SGP but had significant security of supply concerns given
+
+growing demand in Nigeria and a past history of unreliability of supply. This made Sankofa gas the cheapest and most
+
+reliable additional fuel source for power generation in the country.
+
+
+
+8. By project closing, some lessons had been learned about the structure of the Ghanaian gas market which
+
+threatened the position of Sankofa as a baseload gas supplier. The institutional framework of the Ghanaian gas sector
+
+is not fully developed, and this has created a misalignment of interests among gas sector institutions. There is
+
+considerable overlap and inefficiencies in the sub-sector, with the GNPC, GNGC, and VRA each acting as gas suppliers
+
+in a market that is structurally not able to sustain a competitive market. GNPC sells gas purchased from the Sankofa
+
+field, GNGC sells gas purchased from the TEN and Jubilee fields, and VRA sells gas purchased from NGas. Each of
+
+these SOEs make decisions about which gas supply to purchase in line with their individual best interest, i.e. the
+
+lowest cost to them. Given that Ten and Jubilee are associated gas sources with an economic marginal cost of zero,
+
+it is clearly more competitive in the market as any positive price is viable for this source29. As a result, Sankofa, as the
+
+only non-associated gas source in the country is in a weaker competing position in such a market environment.
+
+Notwithstanding, with the Take or Pay (ToP) obligations of Sankofa, any displaced ToP quantity by any supply source
+
+does in fact impose an opportunity cost of the Gas price in the GSA. Thus, these individual decisions made by these
+
+market actors are not necessarily in the best economic and financial interest of the country.
+
+
+
+9. Offtake Volumes. Offtake of gas from Sankofa did not begin until August 2018. This was in large part because of
+
+delays in the construction of a critical pipeline infrastructure to transport gas from the SGF in Takoradi (in the Western
+
+region of Ghana) to Tema in the Eastern part of the country where most operational power plants were located. As
+
+of project closing, the infrastructure had been completed successfully and the 450 MW Karpowership, which was a
+
+mobile power plant, had been relocated to Takoradi to be closer to the SGF. As a result, off-taken volumes increased
+
+significantly at the end of 2019 as can be seen in Figure 130.
+
+
+
+10. However, offtake volumes remain very volatile both intra-day and inter-day due to constantly changing offtake
+
+nominations from GNPC resulting from the availability of other gas supply sources and the availability of the thermal
+
+power plants for dispatch. Since the downstream gas supply shutdown of the other sources in April 2019, offtake of
+
+Sankofa gas has increased significantly. However, this cannot be considered as the steady state nominations as this
+
+could change again once supply from other sources come back online.
+
+
+
+
+
+    29 However, associated gas volumes from JUB/TEN in 2019 have been limited by the need to re-inject the gas to maintain oil supply
+
+    volumes.
+
+    30 Daily supply nomination shows what was nominated to the buyer, i.e. what the operators are able to deliver to the buyer, on any
+
+
+
+    given day. These quantities were different from contractual quantities. “Taken Quantity” shows what was off tak en by the buyer in any
+
+    given day (i.e. average volume taken for a given day). This has edged above 150 mmscfd a few times.
+
+
+
+                                                                     32
+
+  The World Bank
+
+  Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+
+
+
+
+                                                            OCTP Volume
+
+                 250.000
+
+
+
+                 200.000
+
+
+
+                 150.000
+
+
+
+                 100.000
+
+
+
+                  50.000
+
+
+
+                   0.000
+
+
+
+
+
+
+
+
+
+11. In the GSA, there is a provision for any gas supplies not taken in earlier years to be banked for five years. Thus,
+
+gas that was not taken in 2018 and 2019 remain available until the end of 2023 and 2024, respectively. However,
+
+given that the maximum production capacity of SGF is 220 MM'scfd, Ghana may be able to absorb all its banked gas
+
+over the next five years if gas demand is sufficiently high. In the absence of any new policy direction to remove the
+
+perverse market incentives that have emerged in the gas supply market, this analysis takes a conservative position
+
+that gas supplied from Sankofa over the short to medium term would not exceed the ToP obligations and could in
+
+fact be lower given historical precedence. Thus, the economic analysis undertaken is based on the offtake projections
+
+made at appraisal from 2020 onwards.
+
+
+
+12. Crude oil prices were an important determinant of the project viability given the indexation of LNG prices to
+
+crude oil prices and the shared capital assets by both the Phase 1 and Phase 2 of the project. In the appraisal analysis,
+
+the 2015 oil price forecast was used but this completion analysis uses the most recent 2020 oil price forecast by the
+
+World Bank as presented in Table 2.
+
+
+
+                                       Table 2: Crude Oil Price Projections in 2015 and 201931
+
+                  Year           2015 Oil Price 2020 Oil Appraisal            Actual     offtake   Actual       offtake
+
+                                 Projections         Price      Offtake       Volumes        and   Volumes          and
+
+                                                  Projections Volumes         Appraisal forecast   forecasts at closing
+
+                                                     (US$)                    (Conservative)       (Optimistic)
+
+                  2018           60               68.3          167           41                   41
+
+                  2019           63               61.7          180           89.5                 89.5
+
+                  2020           66               35.4          180           171                  171
+
+                  2021           69               41.8          180           180                  200
+
+                  2022           72               43.5          180           180                  200
+
+                  2023           76               45.2          180           180                  220
+
+                  2024           76                45.2*        180           180                  220
+
+
+
+
+
+    31   * represents extrapolation estimates based on price trend of projections.
+
+
+
+                                                                         33
+
+  The World Bank
+
+  Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+
+
+             2025          76               48.9         180            180                 220
+
+             2026          76                50.9*       180            180                 220
+
+             2027          76                52.9*       180            180                 220
+
+             2028          76               54.9*        180            180                 220
+
+             2029          76               56.9*        180            180                 220
+
+             2030          76                59          180            180                 220
+
+
+
+            Methodology
+
+
+
+13. The economic analysis follows a standard cost-benefit framework, which compares the present value of incurred
+
+costs to the stream of attributable benefits. The EIRR and NPV of the project inform the project’s viability over its
+
+economic lifetime. The economic benefits of the project are assessed using the avoided-cost approach. In this, the
+
+project benefits are quantified as the economic costs of displaced fuels, i.e. light crude oil until 2021 and LNG from
+
+2022 onwards. An economic discount rate of 10 percent is used in the analysis as was the case at appraisal. The main
+
+revisions in the economic analysis in the ICR analysis were the revision of project costs to reflect the project cost
+
+savings, the revision in crude oil price forecast by the World Bank (using the April 2020 forecast), and the actual and
+
+forecasted offtake volumes.
+
+
+
+            Results
+
+
+
+14. Under the 2020 oil price forecast, the NPV and the ERR of the project were estimated at US$1.3 billion and 14
+
+percent respectively. These were 6.2 percent and US$2.7billion lower than the appraisal estimates. Table 3 presents
+
+the detailed results of the economic analysis at appraisal and completion. Details of the sources change in the NPV
+
+and ERR are in Table 4.
+
+
+
+                             Table 3: NPV and ERR of Sankofa at Appraisal and Completion
+
+
+
+              Including Sunk Costs
+
+                    Appraisal                           Appraisal                            Closing
+
+                      NPV                                $4.0bn                              $1.3 bn
+
+                      ERR                                20.2%                                14%
+
+
+
+                          Table 4: Cumulative change in project NPV and ERR at Project Closing
+
+
+
+                                                            ERR           Change       NPV             Change
+
+                             Appraisal                        20.2%                      $4.0bn
+
+         Capital Cost Effect                                  21.6%           +1.4%      $4.3bn        +$0.3bn
+
+         Crude Oil Price Effect                               15.6%            -6%      $1.7 bn        -$2.6bn
+
+         Offtake Volumes Effect                               14.0%           -1.6%     $1.3 bn        -$0.4bn
+
+                              Closing                         14.0%                     $1.3 bn
+
+
+
+
+
+   Sensitivity Analysis
+
+
+
+
+
+
+
+                                                            34
+
+  The World Bank
+
+  Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+
+
+15. Economic Impacts of Covid-19 Pandemic. One may reasonably expect a substantial global recession in the
+
+aftermath of the Covid-19 Pandemic, but at the time of writing in May 2020, its depth and duration cannot yet be
+
+determined. A significant fall in international energy prices is expected, with the spot prices of LNG having already
+
+fallen to record low levels, although this cannot be fully attributed to the COVID-19 emergency. A World Bank
+
+assessment of the economic impacts of the pandemic categorized Ghana’s exposure as high, based on its commodity
+
+trade exposure and its trade with China. However, there is an anticipated decline in economic growth as a result of
+
+reduced exports, tourism and FDI– which in turn makes a reduction in electricity demand (and gas) likely. This could
+
+lead to a further reduction in off-take volumes and a reduction in the project NPV and ERR.
+
+
+
+16. Low Crude Oil Prices. In addition to the ongoing pandemic, the collapse in crude oil prices in Q1 2020 is creating
+
+significant challenges for oil and gas projects like Sankofa. Given the uncertain nature of the crude oil price, two oil
+
+price sensitivity scenarios were tested. In the low case scenario, oil prices are capped at US$45/bbl till the end of the
+
+project life while in the high case scenario, oil prices bounce back to US$50/bbl already in 2021 and prices recover to
+
+the base case after 2026. Under the lower oil price scenario, the ERR of the project is reduced to 13 percent and the
+
+NPV to US$0.9 million. In the higher oil price scenario, the ERR of the project remains unchanged at 14 percent but
+
+the NPV of the project increases to US$1.4 billion.
+
+
+
+17. Financial Analysis. SGP was designed to ensure that the financial returns are safeguarded. The multi-layered
+
+payment security in place and the fact that the prices are fixed contractually ensures that the revenues of the project
+
+are assured over the project life. As a result, the FIRR and the FNPV of the project remain unchanged despite these
+
+changes. However, delays in payments by GNPC affects the cashflow of the company. However, we do not have
+
+adequate information at this point to assess the actual impacts of these payment delays on the company’s balance
+
+sheet.
+
+
+
+
+
+
+
+
+
+                                                             35
+
+The World Bank
+
+Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+
+
+
+
+         ANNEX 5. BORROWER, CO-FINANCIER AND OTHER PARTNER/STAKEHOLDER COMMENTS32
+
+
+
+
+
+ COMMENTS FROM GOVERNMENT OF GHANA (received on June 22, 2020)
+
+      1. Introduction
+
+ The report represents the World Bank’s (WB) internal evaluation of the Sankofa Gas Project. The measurement
+
+ criteria and methodology are the World Bank’s and the GoG is unable to provide comments on the evaluation
+
+ results without the full benefit of appreciating the details of the methodology.
+
+ All the major issues identified in the ICR which relates to the GoG or its institutions are currently being addressed
+
+ via the Energy Sector Recovery Program (ESRP), which is a four-year roadmap to reach structural balance in the
+
+ energy sector. Implementation of the ESRP will ensure that Ghana’s credit rating is not downgraded, and that
+
+ Ghana continues to attract private investment in its infrastructure projects on competitive terms.
+
+ Nonetheless, GoG finds the report very useful. The lessons and recommendations should serve as guide for future
+
+ operations for the benefit of the gas sector in particular and for mega project executions in Ghana, in general.
+
+ Our comments are in two categories; 1. General comments – this section provides our general comments on the
+
+ WB’s assessment of some key aspects of the project and 2. this section is specific on some paragraphs, to draw
+
+ attention to what may be factual inaccuracies.
+
+
+
+      2. General Comments
+
+
+
+  Project Outcomes         The Sankofa gas project was successfully completed below budget and largely on time.
+
+                           It has provided much-needed stability in gas supply, which was not available when only
+
+                           Jubilee and TEN were supplying gas. As a result, the power sector has become more
+
+                           reliable and outages have been substantially reduced. Switching to gas has also reduced
+
+                           fuel costs and the need to maintain liquid fuel inventories. Some non-power sector
+
+                           industrial customers are planning to move from more expensive fuels to gas. Overall,
+
+                           the Sankofa project can be viewed as a success story for Ghana, with Sankofa gas
+
+                           becoming the backbone gas supplier for the power sector.
+
+  Project Results          After completion of the Takoradi Phase of the TTIP project and the relocation of the
+
+                           Karpowership from Tema to Takoradi in 2019, Sankofa gas volumes offtake has seen an
+
+                           increase in 2019 and early 2020. Total gas consumption in Ghana has increased to
+
+                           slightly more than 310 MMscfd as at mid-2020.
+
+  Project Issues           The issues enumerated in the ICR are artifacts of long-standing liquidity issues with
+
+                           origins in the power sector. The Energy Sector Recovery Program (ESRP) was proposed
+
+                           in 2018 and then approved by Cabinet in 2019. It has been actively pursued by the GoG
+
+                           to bring financial balance to the legacy of a structurally challenged energy sector. When
+
+                           completely implemented by 2023, the ESRP will have addressed the financial and
+
+                           structural issues in the energy sector. These activities, when completed, should bring
+
+                           stability to the payment challenges that have arisen on the Sankofa gas project.
+
+                           The implementation of the Cash Waterfall Mechanism (CWM), a recommendation
+
+                           arising from the ERSP, began in April 2020 and has been a significant improvement in
+
+                           disbursement of energy sector revenues in a fair manner to all sector players
+
+
+
+ 32The ICR team has revised some paragraphs in the final version of the ICR to address some of the comments received by GoG and
+
+ ENI/VITOL
+
+
+
+                                                                 36
+
+The World Bank
+
+Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+
+
+                    Payment Security Package
+
+                    General Disbursement Account now called Government Disbursement Account (GDA)
+
+                    has been set up. GNPC is currently engaging the partners on how to operationalize it.
+
+                    Non-replenishment of Reserve Escrow Account (REA) by GNPC
+
+                    This is largely due to the liquidity challenges of the gas-to-power sector referred to
+
+                    above and will be addressed through the implementation of the ESRP.
+
+                    Drawdown of LC backstopped by World Bank guarantee
+
+                    The Government of Ghana has been making deposits and intends to repay the full loan
+
+                    amount within the 12-month period.
+
+                    Lack of Clarity on Institutional and Offtake Arrangements
+
+                    Government through the Ministry of Energy is currently consulting with the relevant
+
+                    stakeholders to streamline the roles of the gas sector institutions by the end of this year.
+
+                    Underestimation and Delays in WAGP Interconnection
+
+                    This is largely attributable to delays in reaching consensus on certain agreements which
+
+                    were required to allow the contractors to undertake the expansion works in some of the
+
+                    facilities. For example, the Construction Management Agreement (CMA) between Eni
+
+                    and WAPCo and, Eni and GNGC took several months to conclude, whilst, the GTA
+
+                    between WAPCo and GNPC took a couple years.
+
+  Challenges    and Many of the challenges faced by the GoG in the Sankofa gas project stem from the fact
+
+  Lessons Learned   that the country was emerging from a power crisis which disrupted the smooth flow of
+
+                    economic activity. The country has successfully emerged from these crises and is in a
+
+                    stronger position to support projects of this nature in the coming years.
+
+
+
+     3. Specific Comments
+
+
+
+  Paragraph  Statement/ inference from Report                GoG’s Comment
+
+  Para 1     Successive, peaceful transitions of             Ghana's return to multi-party democracy was in
+
+             democratic power in Ghana since ‘1990’          1993. Elections held in1992 and the new
+
+             provided a supportive environment for           constitution took effect on Jan. 7 1993.
+
+             continued economic growth.
+
+  Para    5; The ‘contracted’ daily gas supply through       The contracted daily gas supply through WAGP
+
+  footnote 2 WAGP, most of which was supplied to             is123 MMscfd
+
+             Ghana, was ‘133’ MMscfd.
+
+  Para 25    “However, the first gas supplies did not        First gas supplied from the Sankofa field
+
+             take place until ‘November’ 2018”.              commenced in August 2018. Thus, 6 months behind
+
+                                                             schedule.
+
+
+
+               Quantity of Gas supplied to Power Plants      It should be noted that, the offtake volumes
+
+                                                             recorded in December 2019 and January 2020 were
+
+                                                             due to specific challenges with evacuating gas from
+
+                                                             the Jubilee/TEN Fields (Jubilee planned shutdown,
+
+                                                             TEN pipeline blockage and remediation) and
+
+                                                             subsequent GNGC pipeline blockage and
+
+                                                             remediation. This should have very little impact on
+
+                                                             the projections for 2020 daily average.
+
+
+
+
+
+                                                       37
+
+The World Bank
+
+Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+
+
+  Para 27     PDO Indicator 3: Indirect Project            The PDO target on female beneficiaries appears very
+
+              Beneficiaries                                difficult to measure and marking it as 100%
+
+              PDO Indicator 4: Female Beneficiaries        ‘achieved’ without quantifiable evidence makes it
+
+              Achievement is 100%                          appear a bit arbitrary.
+
+  Para 28     In 2018 and 2019, actual off-take volumes    In 2018, the daily average for the year
+
+              were 126mmscfd and 90.5mmscfd                was 40.74mmscfd and the highest recorded daily
+
+              respectively.                                rate that year was 90.64mmscfd.
+
+  Para 66     “The conclusion was that with gas flows up   The Quantitative Risk Assessment report led to the
+
+              to 60mmscfd and at low pressure, there       descoping of the Tema RMS capacity from the
+
+              would be no risk to the surrounding          originally planned 345 mmscfd to 235 mmscfd. The
+
+              population. Gas flows to Tema during 2019,   current flows from both Takoradi and Tema are well
+
+              one year after the project closing date      above the 60 mmscfd.
+
+              didn’t reach 60mmscfd”.
+
+
+
+
+
+
+
+
+
+                                                     38
+
+The World Bank
+
+Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+
+
+ COMMENTS FROM ENI AND VITOL (received on June 23, 2020)
+
+ Eni and Vitol agree with the key contents of the report and thank the World Bank for the productive engagement
+
+ in its preparation. The fruitful cooperation between the Government of Ghana, the World Bank, Eni, Vitol and
+
+ Ghana National Petroleum Corporation has been crucial for the implementation of an unprecedented project in
+
+ Sub-Saharan Africa: the only deep-water non-associated gas development project entirely dedicated to the
+
+ domestic market in the region, supporting Ghana’s shift from oil-fueled power generation to a cleaner power
+
+ source, with economic as well as environmental benefits for the country. Thanks to Sankofa, Ghana is able to
+
+ count on at least 15 years of stable, reliable, affordable gas supplies, as well as providing a solid foundation for
+
+ local development, energy independence and an expanding role as an energy supplier for the region.
+
+ The cooperation among the key stakeholders mentioned above has allowed the project to overcome significant
+
+ hurdles in arriving to its current state. The ongoing vision and commitment of the Government of Ghana are
+
+ critical to maintain a framework conducive to investment and to ensure the long-term success of the project and
+
+ its contribution to the achievement of the Sustainable Development Goals. We confirm our commitment to
+
+ support the Government of Ghana and the World Bank in the resolution of the outstanding issues described by
+
+ the Report, in order for the project to achieve its full potential.
+
+
+
+ Paragraph 14 and 31
+
+ There is a distinction to be made between the different components of World Bank Group’s support to the
+
+ Sankofa project. While some of them are for the benefit of both Project sponsors (namely the IDA Guarantee and
+
+ the IBRD Enclave Guarantee, if it had been entered into), others are for the exclusive benefit of Vitol, namely the
+
+ IFC financing and the MIGA political guarantee.
+
+
+
+ Paragraph 25. PDO Indicator 1: Quantity of Gas supplied to Power Plants has been assessed as partially achieved
+
+ on the basis of lower than expected consumption of Sankofa gas.
+
+ It’s important to emphasize that viewed from a supply perspective, the Sankofa project has been an outstanding
+
+ success and would be considered, in our view, to have achieved the objective. Sankofa has been able to supply
+
+ gas at and beyond contractual rates from start-up. In fact, in the nearly 2 years since start-up, Sankofa has
+
+ achieved reliability performance figures exceeding 99% percent, with the project now consistently making
+
+ available, to the Country, gas at a rate of 220 MMscfd. Ghana’s gas and power system has benefitted enormously
+
+ from the consistent availability of supply by relying on Sankofa gas to compensate for continued supply volatility
+
+ of associated gas from Jubilee and TEN fields, and piped gas from Nigeria.
+
+ Overall consumption of Sankofa gas has, on the other hand, been constrained by several factors principally
+
+ including delays in completing some of the government infrastructure projects identified at project inception as
+
+ being critical to support the utilization of Sankofa gas. These projects include installation of additional power
+
+ capacity in the Takoradi region and completion of pipeline infrastructure to transport gas from the Takoradi
+
+ region to Tema. DRAFT – SUBJECT TO REVIEW 18/6/2020 CONFIDENTIAL
+
+
+
+ Paragraph 29, 45, 66, 69
+
+ The Sankofa project was comprised of upstream activities undertaken by the private sponsors, plus a number of
+
+ Ghanaian infrastructure projects to connect the Sankofa gas supplies to thermal power plants in both the western
+
+ and eastern regions. For the sake of clarity, the upstream activities include the complex offshore offshore
+
+ investment, offshore gas export pipeline, and onshore receiving facilities. The pipeline infrastructure to connect
+
+ the onshore receiving facility to thermal power plants and to transport gas to gas in eastern markets falls under
+
+ the scope of the infrastructure projects.
+
+
+
+
+
+
+
+
+
+                                                         39
+
+The World Bank
+
+Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+
+
+ Paragraphs 35, 38, 41, 43, 47, 71, 84
+
+ The report makes several references to establishment of the GDA and to the roles of GNPC and other state
+
+ entities in the gas sector.
+
+ The key point as to the GDA (and the other associated escrow accounts comprised in Layer 1 of the security
+
+ package) is not establishment, which occurred at project inception, but the fact that GNPC and the Government
+
+ of Ghana have still not made the arrangements required by the security package contracts to procure the deposit
+
+ in this account of (a) revenues from the on-sale of gas from OCTP, TEN and Jubilee, and (b) disbursements made
+
+ to GNPC from the Petroleum Holding Fund (essentially reflecting GNPC’s oil revenues from its carried and
+
+ participating interests, net of GNPC’s equity financing costs). These contractual obligations have been thoroughly
+
+ discussed and negotiated between GNPC, the Government of Ghana and the Project sponsors in order to comply
+
+ with applicable Ghanaian legislation and to reflect the standard practice of GNPC, the Government of Ghana and
+
+ the Bank of Ghana. Detailed provisions governing the deposit in the GDA and the escrow accounts are reflected
+
+ in the Agreed Payment Process set out in the Multi Party Deed. Since the security package agreements have been
+
+ entered into, the Project sponsors have constantly requested GNPC and the Government of Ghana to comply
+
+ with such contractual obligations and procure that the agreed revenues are deposited in the escrow accounts,
+
+ highlighting how these arrangements were and are critical to the long-term sustainability of the Project.
+
+ The report also mentions GNPC’s lack of liquidity and the fact that it does not act as gas aggregator, however
+
+ there is no clear linkage between these two issues and the problems concerning the escrow accounts and the
+
+ payment for gas. The report should clarify, firstly, that when the project was sanctioned, it was a fundamental
+
+ element of the agreed security package that GNPC would act as the gas aggregator in respect of all gas in Ghana.
+
+ This requirement as to GNPC’s role was reflected in the security package agreements and formed the basis for
+
+ the establishment of the GDA and the Agreed Payment Process. The report should also clarify that the deposit of
+
+ GNPC’s gas on-sale revenues in the GDA, which was specifically designed to support the liquidity of GNPC and
+
+ enhance its ability to pay for the Sankofa gas, hinges on GNPC acting as gas aggregator. The effectiveness of this
+
+ payment mechanism is affected by GNPC’s reduced role and should be assessed in this context. Addressing these
+
+ issues remains critical to resolve the ongoing payment issues and mitigate the payment risk relating to the
+
+ Sankofa gas, and the Private sponsor are constantly engaged in discussions with GNPC and the Government of
+
+ Ghana to that purpose. DRAFT – SUBJECT TO REVIEW 18/6/2020 CONFIDENTIAL
+
+
+
+ Paragraph 32
+
+ According to the report, the IBRD Enclave guarantee was not eventually granted because the Project sponsors
+
+ were able to mobilize sufficient capital to finance the project without recourse to this guarantee. While we concur
+
+ with this recollection, we also believe that the report should clarify that the signing of the IBRD Enclave guarantee
+
+ was subject to the funding the Reserve Escrow Account in full and the implementation of the arrangements to
+
+ deposit funds into the escrow accounts. As detailed in other sections of the report, these requirements were
+
+ never complied with in full by GNPC and the Government of Ghana. Because of such breach by GNPC and the
+
+ Government of Ghana of their contractual obligations regarding the security package, it would not have been
+
+ possible for the Project Sponsors to enter into the IBRD Enclave Guarantee irrespective of their ability to mobilize
+
+ sufficient capital to complete the Project.
+
+
+
+ Paragraph 47
+
+ We would like to highlight that in addition to the initial funding of US$100 million, other subsequent deposits
+
+ were made by the Government of Ghana into the Reserve Escrow Account in order to support payments for
+
+ Sankofa gas. Nonetheless, it should still be noted that none of this deposits was at any time remotely sufficient
+
+ to meet the funding obligations of GNPC and the Government of Ghana in relation to the Reserve Escrow
+
+
+
+
+
+
+
+                                                         40
+
+The World Bank
+
+Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+
+
+ Account. We therefore still concur with the general statement in the report that “[t]hese obligations were either
+
+ not met or, in the case of the [Reserve Escrow Account], met only partially”.
+
+
+
+ Paragraph 74
+
+ In reference to the following statement, it should be clarified that the gas interconnector has been completed
+
+ and gas has been flowing from the western region to Tema since April 2019.
+
+ However, even though these risk continued to be highlighted in subsequent supervision documents through
+
+ closing, only minimal progress on the construction of a gas interconnector and on improvements to the financials
+
+ of ECG and VRA had been made by project closing.
+
+
+
+ Paragraph 86
+
+ We support the comments around the need for a collaborative communication strategy, to articulate the
+
+ significant economic benefits of the country’s first natural gas development. In particular, this communication
+
+ strategy would explain the structure of the Sankofa gas price, and the difference between the headline price and
+
+ the net cost of Sankofa gas, which as highlighted in Annex 4, paragraph 8 of the report, is lower cost than
+
+ imported fuels including liquids, LNG and pipeline gas from Nigeria.
+
+ In reference to the statement “associated gas produced from the nearby Jubilee field was not being charged to
+
+ consumers…”, while Jubilee foundation gas was supplied at zero upstream cost, significant gathering and transfer
+
+ charges are applied before delivery to the end-user.
+
+
+
+
+
+
+
+
+
+                                                       41
+
+The World Bank
+
+Ghana Sankofa Gas Project (P152670)
+
+
+
+
+
+
+
+                            ANNEX 6. SUPPORTING DOCUMENTS (IF ANY)
+
+
+
+
+
+
+
+
+
+                                                42
+
+

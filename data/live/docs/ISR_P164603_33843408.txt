@@ -1,0 +1,959 @@
+            The World Bank                                                                                       Implementation Status & Results Report
+
+            Ghana Productive Safety Net Project (P164603)
+
+
+
+
+
+
+
+Ghana Productive Safety Net Project (P164603)
+
+
+
+
+
+ Western and Central Africa | Ghana | Social Protection & Jobs Global Practice |
+
+ IBRD/IDA | Investment Project Financing | FY 2019 | Seq No: 7 | ARCHIVED on 15-Jun-2022 | ISR51730 |
+
+
+
+
+
+ Implementing Agencies: Ministry of Gender, Children and Social Protection, Ministry of Local Government, Decentralization, and Rural
+
+ Development, The Republic of Ghana
+
+
+
+
+
+
+
+ Key Dates
+
+
+
+
+
+  Key Project Dates
+
+
+
+   Bank Approval Date: 31-Oct-2018                                               Effectiveness Date: 28-Jun-2019
+
+   Planned Mid Term Review Date: 27-Aug-2021                                     Actual Mid-Term Review Date: 27-Sep-2021
+
+   Original Closing Date: 31-Dec-2022                                            Revised Closing Date: 31-Dec-2022
+
+ pdoTable
+
+
+
+ Project Development Objectives
+
+
+
+  Project Development Objective (from Project Appraisal Document)
+
+  To support the Government to strengthen safety net systems that improve the productivity of the poor.
+
+
+
+  Has the Project Development Objective been changed since Board Approval of the Project Objective?
+
+  No
+
+
+
+
+
+ Components Table
+
+
+
+ Name
+
+ Component 1: Productive Inclusion:(Cost $6.00 M)
+
+ Component 2: Labor Intensive Public Works Program:(Cost $21.00 M)
+
+ Component 3: Livelihood Empowerment Against Poverty (LEAP) Cash Transfers:(Cost $167.77 M)
+
+ Component 4: Social Protection Systems Strengthening:(Cost $11.54 M)
+
+ Component 5: Project Management, Coordination, and Capacity Building:(Cost $9.24 M)
+
+
+
+ Overall Ratings
+
+
+
+ Name                                                                          Previous Rating                           Current Rating
+
+
+
+ Progress towards achievement of PDO                                           Moderately Satisfactory                  Moderately Satisfactory
+
+ Overall Implementation Progress (IP)                                          Moderately Satisfactory                  Moderately Satisfactory
+
+ Overall Risk Rating                                                           Moderate                                 Moderate
+
+
+
+
+
+ Implementation Status and Key Decisions
+
+
+
+  The project remains on track to achieving its objectives and is expected to complete all activities three months ahead of the current December 31,
+
+  2022 closing date. The project has significantly improved its implementation pace and marked the following achievements: (a) 51 Percent of
+
+  beneficiaries have initiated or expanded a household enterprise; (b) average annual earnings of unskilled workers in LIPWs has significantly
+
+  increased, exceeding the project target; (c) 70 percent of respondents reporting that the assets (sub-projects) created through LIPW improved their
+
+  livelihoods; (d) steadily increasing the percent of beneficiaries who are identified as extremely poor according to targeting criteria (56 percent); and
+
+  (e) ensuring that LIPW payments and LEAP grants are made on time to beneficiaries (56 percent) while supporting 100 percent of beneficiaries
+
+  open a bank account.
+
+
+
+
+
+
+
+6/15/2022                                                                                                                         Page 1 of 8
+
+            The World Bank                                                                                       Implementation Status & Results Report
+
+            Ghana Productive Safety Net Project (P164603)
+
+
+
+
+
+
+
+  Despite the positive strides made, there are a few challenges that impact implementation progress, including issues of continued government
+
+  contributions to cash transfers, administrative approval delays and staff capacity constraints. In addition, the Ghana National Household Registry
+
+  data collection will reach 7 instead of 8 regions by closure because of reduction in funding due to COVID-19 restructuring towards cash transfers.
+
+  Data collection activities will proceed under GPSNP 2.
+
+
+
+
+
+
+
+
+
+  Risks
+
+
+
+
+
+ Systematic Operations Risk-rating Tool
+
+
+
+
+
+  Risk Category                                              Rating at Approval               Previous Rating                Current Rating
+
+
+
+  Political and Governance                                   Moderate                        Moderate                      Moderate
+
+  Macroeconomic                                              Moderate                        Moderate                      Moderate
+
+  Sector Strategies and Policies                             Low                             Low                           Low
+
+  Technical Design of Project or Program                     Moderate                        Moderate                      Moderate
+
+  Institutional Capacity for Implementation and
+
+                                                             Moderate                        Substantial                   Substantial
+
+  Sustainability
+
+  Fiduciary                                                  Substantial                     Substantial                   Substantial
+
+  Environment and Social                                     Moderate                        Moderate                      Moderate
+
+  Stakeholders                                               Low                             Low                           Low
+
+  Other                                                      --                               --                             --
+
+  Overall                                                    Moderate                        Moderate                      Moderate
+
+
+
+
+
+
+
+  Results
+
+
+
+
+
+ PDO Indicators by Objectives / Outcomes
+
+
+
+
+
+
+
+   To strengthen safety net systems that improve the productivity of the poor
+
+
+
+    IN01149883
+
+    ►Percent of beneficiaires who initiated or expanded a household enterprise (Percentage, Custom)
+
+
+
+                                       Baseline                     Actual (Previous)              Actual (Current)          End Target
+
+
+
+    Value                              0.00                         50.80                          51.00                     70.00
+
+
+
+    Date                               02-Sep-2019                  01-Oct-2021                    31-Mar-2022              31-Dec-2022
+
+
+
+    IN01149884
+
+    ►Average annual earnings of unskilled workers in LIPWs (cedi) (Number, Custom)
+
+
+
+                                       Baseline                     Actual (Previous)              Actual (Current)          End Target
+
+
+
+
+
+
+
+6/15/2022                                                                                                                         Page 2 of 8
+
+            The World Bank                                                                                      Implementation Status & Results Report
+
+            Ghana Productive Safety Net Project (P164603)
+
+
+
+
+
+
+
+
+
+    Value                              0.00                         999.30                        1,078.56                   600.00
+
+
+
+    Date                               02-Sep-2019                  01-Oct-2021                   31-Mar-2022                31-Dec-2022
+
+                                       The data provided is for the year 2020, given the indicator reports on an annual basis. This will be
+
+   Comments:                           updated for 2021 in 2022.
+
+
+
+    IN01149885
+
+    ►Percent of respondents reporting that the assets (sub-projects) created through LIPW improved their livelihoods (Percentage, Custom)
+
+
+
+                                       Baseline                     Actual (Previous)             Actual (Current)           End Target
+
+
+
+    Value                              0.00                         70.00                         70.00                      70.00
+
+
+
+    Date                               02-Sep-2019                  01-Oct-2021                   31-Mar-2022                31-Dec-2022
+
+                                       This reflects findings obtained from third-party assessments from communities where subprojects are
+
+                                       completed. Data on usefulness of dams and roads to beneficiary communities can be obtained after
+
+                                       completion of the facility (small earth dams and dugouts, and roads). For Climate Change Mitigation
+
+   Comments:
+
+                                       Interventions (in this case establishment of plantations), although they contribute to the forest cover, its
+
+                                       direct usefulness to community members will be at the point of fruiting or harvesting from the plantation.
+
+
+
+    IN01150001
+
+    ►Percent of beneficiaries who are identified as extremely poor according to targeting criteria (Percentage, Custom)
+
+
+
+                                       Baseline                     Actual (Previous)             Actual (Current)           End Target
+
+
+
+    Value                              0.00                         40.00                         56.00                      70.00
+
+
+
+    Date                               02-Sep-2019                  01-Oct-2021                   31-Mar-2022                31-Dec-2022
+
+                                       This indicator references both LIPW and LEAP - All LEAP beneficiaries will be validated with GNHR data
+
+                                       as part of reassessment processes planned for completion in 2022, but now delayed. Hence currently, this
+
+                                       indicator cannot be calculated except for data on newly targeted beneficiaries of LEAP, which are 20,000
+
+   Comments:
+
+                                       households. For LIPW, this data is obtained from GNHR, in the 5 northern regions where GNHR data has
+
+                                       been collected
+
+
+
+    IN01150002
+
+    ►Percent of LIPW payments and LEAP grants made on time to beneficiaires (Percentage, Custom)
+
+
+
+                                       Baseline                     Actual (Previous)             Actual (Current)           End Target
+
+
+
+    Value                              0.00                         31.00                         56.00                      75.00
+
+
+
+    Date                               02-Sep-2019                  01-Oct-2021                   31-Mar-2022                31-Dec-2022
+
+                                       Time lapse is period between end date of work period [cut off] and date beneficiary account is credited.
+
+                                       (Allowable time lapse is within 15 calendar days as stated in the POM). The percentage is calculated as
+
+                                       number of payments made within 15 days over the total number of payments. (477/3977) *100 =12%
+
+                                       LEAP
+
+                                       LEAP operates with bi-monthly payment schedule with predetermined payment dates indicated on the
+
+                                       LEAP calendar. All payments made on the stated dates on the calendar are considered payments made
+
+                                       on time. Thus, the percentage is calculated as number of payments made on the stipulated dates divided
+
+   Comments:
+
+                                       by planned payments within that stipulated period. In year 2020, six (6) payments were expected and four
+
+                                       (4) were made on the stipulated dates. In year 2021, as at end of August, four (4) payments are expected
+
+                                       to be made but three have so far been made and one (1) made on time. Percentage payment made on
+
+                                       time therefore is (4+1)/ (6+4) *100= 50%
+
+                                       AVERAGE
+
+                                       The average of LIPW & LEAP gives the combined percentage [Payment (LIPW) + Payment (LEAP)]/ 2
+
+
+
+
+
+
+
+6/15/2022                                                                                                                        Page 3 of 8
+
+            The World Bank                                                                                    Implementation Status & Results Report
+
+            Ghana Productive Safety Net Project (P164603)
+
+
+
+
+
+
+
+    IN01150003
+
+    ►Percent of beneficiaries with a bank account (Percentage, Custom)
+
+
+
+                                       Baseline                    Actual (Previous)            Actual (Current)             End Target
+
+
+
+    Value                              0.00                       100.00                        100.00                       95.00
+
+
+
+    Date                               02-Sep-2019                01-Oct-2021                   31-Mar-2022                  30-Jun-2022
+
+
+
+
+
+
+
+ Intermediate Results Indicators by Components
+
+
+
+
+
+
+
+   Component 1: Productive Inclusion
+
+
+
+    IN01150004
+
+    ►Beneficiaries receiving a start-up grant under the CLASS subcomponent (Number, Custom)
+
+
+
+                                       Baseline                    Actual (Previous)            Actual (Current)             End Target
+
+
+
+    Value                              0.00                       9,033.00                      9,172.00                     15,000.00
+
+
+
+    Date                               02-Sep-2019                01-Oct-2021                   31-Mar-2022                  31-Dec-2022
+
+
+
+    IN01150007
+
+    ►Beneficiaires receiving entrepreneurship training (Number, Custom)
+
+
+
+                                       Baseline                    Actual (Previous)            Actual (Current)             End Target
+
+
+
+    Value                              0.00                       9,244.00                      9,245.00                     15,000.00
+
+
+
+    Date                               02-Sep-2019                01-Oct-2021                   31-Mar-2022                  31-Dec-2022
+
+
+
+   IN01150010
+
+   ►LEAP and LIPW beneficiaries in areas where GCAP and/or Government-led agriculture projects operate referred to agricultural activities
+
+   (Percentage, Custom)
+
+
+
+                                       Baseline                    Actual (Previous)            Actual (Current)             End Target
+
+
+
+    Value                              0.00                       0.00                          43.00                        30.00
+
+
+
+    Date                               02-Sep-2020                01-Oct-2021                   31-Mar-2022                  31-Dec-2022
+
+
+
+                                       Calculations apply to beneficiaries of LEAP and LIPW in the 5 regions of the North.
+
+   Comments:
+
+
+
+
+
+
+
+   Component 2: LIPW
+
+
+
+    IN01150005
+
+    ►LIPW sub-projects with operations and maintenance arrangements in place (Percentage, Custom)
+
+
+
+                                       Baseline                    Actual (Previous)            Actual (Current)             End Target
+
+
+
+    Value                              0.00                       70.00                         70.00                        85.00
+
+
+
+    Date                               02-Sep-2019                01-Oct-2021                   31-Mar-2022                  31-Dec-2022
+
+
+
+    IN01150008
+
+
+
+6/15/2022                                                                                                                       Page 4 of 8
+
+            The World Bank                                                                                      Implementation Status & Results Report
+
+            Ghana Productive Safety Net Project (P164603)
+
+
+
+
+
+
+
+
+
+    ►LIPW beneficiaries participating for two consecutive years (Percentage, Custom)
+
+
+
+                                       Baseline                    Actual (Previous)             Actual (Current)           End Target
+
+
+
+    Value                              0.00                        87.00                         87.00                      65.00
+
+
+
+    Date                               02-Sep-2019                 01-Oct-2021                   31-Mar-2022               31-Dec-2022
+
+
+
+    IN01150011
+
+    ►Beneficiaries of social safety net programs (Number, Corporate)
+
+
+
+                                       Baseline                    Actual (Previous)             Actual (Current)           End Target
+
+
+
+    Value                              0.00                        34,062.00                     34,248.00                  30,000.00
+
+
+
+    Date                               02-Sep-2019                 01-Oct-2021                   31-Mar-2022               31-Dec-2022
+
+
+
+     IN01150016
+
+     Beneficiaries of social safety net programs - Female (Number, Corporate Supplement)
+
+
+
+                                     Baseline                     Actual (Previous)            Actual (Current)            End Target
+
+
+
+     Value                           0.00                         21,339.00                    21,426.00                   18,000.00
+
+
+
+     IN01150019
+
+     Beneficiaries of Safety Nets programs - Cash-for-work, food-for-work and public works (number) (Number, Corporate Breakdown)
+
+
+
+                                     Baseline                     Actual (Previous)            Actual (Current)            End Target
+
+
+
+     Value                           0.00                         34,062.00                    34,248.00                   30,000.00
+
+
+
+     Date                            02-Sep-2019                  01-Oct-2021                  31-Mar-2022                 30-Dec-2022
+
+
+
+
+
+   Component 3: LEAP
+
+
+
+    IN01150006
+
+    ►LEAP Beneficiaires selected using the GNHR (Percentage, Custom)
+
+
+
+                                       Baseline                    Actual (Previous)             Actual (Current)           End Target
+
+
+
+    Value                              0.00                        1.00                          1.00                       75.00
+
+
+
+    Date                               02-Sep-2019                 01-Oct-2021                   31-Mar-2022               31-Dec-2022
+
+                                       Note that LEAP data will be verified using GNHR (i) if new targeting of beneficiaries occurs, which is what
+
+                                       is being reported; and (ii) during the Reassessment process of the LEAP program. Reassessment was
+
+   Comments:                           planned for 2022, but yet to be initiated, and based on availability of GNHR data which currently is in 5
+
+                                       regions.
+
+
+
+    IN01150009
+
+    ►Beneficiaries of social safety net programs (Number, Corporate)
+
+
+
+                                       Baseline                    Actual (Previous)             Actual (Current)           End Target
+
+
+
+    Value                              1,100,000.00                1,516,421.00                  1,540,000.00               1,820,000.00
+
+
+
+    Date                               13-Sep-2018                 01-Oct-2021                   31-Mar-2022               31-Dec-2022
+
+
+
+
+
+
+
+6/15/2022                                                                                                                      Page 5 of 8
+
+            The World Bank                                                                                   Implementation Status & Results Report
+
+            Ghana Productive Safety Net Project (P164603)
+
+
+
+
+
+
+
+     IN01150013
+
+     Beneficiaries of social safety net programs - Female (Number, Corporate Supplement)
+
+
+
+                                     Baseline                    Actual (Previous)            Actual (Current)           End Target
+
+
+
+     Value                           561,000.00                  832,515.00                   924,000.00                 1,104,000.00
+
+
+
+     IN01150015
+
+     Beneficiaries of Safety Nets programs - Unconditional cash transfers (number) (Number, Corporate Breakdown)
+
+
+
+                                     Baseline                    Actual (Previous)            Actual (Current)           End Target
+
+
+
+     Value                           1,100,000.00                1,516,421.00                 1,540,000.00               1,820,000.00
+
+
+
+     Date                            13-Sep-2018                 01-Oct-2021                  31-Mar-2022                30-Dec-2022
+
+
+
+    IN01150017
+
+    ►Percentage of beneficiaries of the LEAP Program enrolled onto the NHIS (Percentage, Custom)
+
+
+
+                                       Baseline                    Actual (Previous)            Actual (Current)         End Target
+
+
+
+    Value                              0.00                       76.00                        78.50                     90.00
+
+
+
+    Date                               02-Sep-2019                01-Oct-2021                  31-Mar-2022               31-Dec-2022
+
+
+
+
+
+
+
+   Component 4: SP Systems
+
+
+
+    IN01150012
+
+    ►Single Window Citizen Engagement Service System established and fully functional (Yes/No, Custom)
+
+
+
+                                       Baseline                    Actual (Previous)            Actual (Current)         End Target
+
+
+
+    Value                              No                         Yes                          Yes                       Yes
+
+
+
+    Date                               02-Sep-2019                01-Oct-2021                  31-Mar-2022               31-Dec-2022
+
+
+
+   IN01150014
+
+   ►Grievance cases resolved through the Single Window Citizen Engagement Service within the stipulated timeframe (disaggregated by
+
+   gender) (Percentage, Custom)
+
+
+
+                                       Baseline                    Actual (Previous)            Actual (Current)         End Target
+
+
+
+    Value                              0.00                       75.00                        75.00                     75.00
+
+
+
+    Date                               02-Sep-2019                01-Oct-2021                  31-Mar-2022               31-Dec-2022
+
+
+
+    IN01150018
+
+    ►Social Protection Monitoring and Evaluation System established and functional (Yes/No, Custom)
+
+
+
+                                       Baseline                    Actual (Previous)            Actual (Current)         End Target
+
+
+
+    Value                              No                         No                           No                        Yes
+
+
+
+    Date                               02-Sep-2019                01-Oct-2021                  31-Mar-2022               31-Dec-2022
+
+                                       The European Union is providing support for the development of a dashboard that will be used to track
+
+                                       Social Protection program data. This dashboard was expected to be finalized by third quarter of 2021, but
+
+   Comments:
+
+                                       has been delayed.
+
+
+
+
+
+
+
+6/15/2022                                                                                                                    Page 6 of 8
+
+            The World Bank                                                                                         Implementation Status & Results Report
+
+            Ghana Productive Safety Net Project (P164603)
+
+
+
+
+
+
+
+    IN01150020
+
+    ►Regions that have data collected on poor households through the GNHR (Number, Custom)
+
+
+
+                                       Baseline                      Actual (Previous)               Actual (Current)          End Target
+
+
+
+    Value                              2.00                         5.00                             5.00                      10.00
+
+
+
+    Date                               02-Sep-2019                  01-Oct-2021                      31-Mar-2022               31-Dec-2022
+
+
+
+    IN01150021
+
+    ►Beneficiaries with a bank account (Percentage, Custom)
+
+
+
+                                       Baseline                      Actual (Previous)               Actual (Current)          End Target
+
+
+
+    Value                              0.00                         100.00                           100.00                    100.00
+
+
+
+    Date                               02-Sep-2019                  01-Oct-2021                      31-Mar-2022               31-Dec-2022
+
+
+
+
+
+
+
+ Performance-Based Conditions
+
+
+
+
+
+
+
+ Data on Financial Performance
+
+
+
+
+
+ Disbursements (by loan)
+
+
+
+ Project        Loan/Credit/TF    Status       Currency        Original    Revised       Cancelled      Disbursed       Undisbursed                % Disbursed
+
+
+
+
+
+ P164603        IDA-63370         Effective    USD               60.00       60.00            0.00            54.49             5.66                      91%
+
+
+
+ P164603        TF-B0469          Effective    USD               20.50       13.05            7.45            13.05             0.00                     100%
+
+
+
+
+
+ Key Dates (by loan)
+
+
+
+ Project         Loan/Credit/TF    Status      Approval Date       Signing Date      Effectiveness Date         Orig. Closing Date      Rev. Closing Date
+
+
+
+ P164603         IDA-63370         Effective   31-Oct-2018         31-Dec-2018       28-Jun-2019                31-Dec-2022             31-Dec-2022
+
+ P164603         TF-B0469          Effective   31-Oct-2018         19-Sep-2019       19-Sep-2019                31-Dec-2022             31-Dec-2022
+
+
+
+
+
+Cumulative Disbursements
+
+
+
+
+
+
+
+
+
+6/15/2022                                                                                                                            Page 7 of 8
+
+            The World Bank                                                                          Implementation Status & Results Report
+
+            Ghana Productive Safety Net Project (P164603)
+
+
+
+
+
+
+
+
+
+  Restructuring History
+
+
+
+
+
+  Level 2 Approved on 16-Aug-2019 ,Level 2 Approved on 24-Jul-2020 ,Level Approved on 01-Sep-2020 ,Level 2 Approved on 06-Apr-2022
+
+
+
+
+
+  Related Project(s)
+
+
+
+
+
+ There are no related projects.
+
+
+
+
+
+
+
+
+
+6/15/2022                                                                                                          Page 8 of 8
+
+

@@ -1,0 +1,3885 @@
+                                                                                              Report No: ICR00233
+
+
+
+                              IMPLEMENTATION COMPLETION AND RESULTS REPORT
+
+                                            (Credit: IDA-63100)
+
+                                                       ON A
+
+                                                      CREDIT
+
+
+
+                                      IN THE AMOUNT OF SDR 21.4 MILLION
+
+                                          (US$30 MILLION EQUIVALENT)
+
+
+
+                                                      TO THE
+
+
+
+                                           REPUBLIC OF GHANA
+
+                                                   FOR
+
+                               GHANA FINANCIAL SECTOR DEVELOPMENT PROJECT
+
+                                             January 28, 2024
+
+
+
+
+
+
+
+
+
+Finance, Competitiveness, and Innovation
+
+Western and Central Africa
+
+
+
+
+
+
+
+
+
+      This document has a restricted distribution and may be used by recipients only in the performance of
+
+      their official duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+The World Bank
+
+Ghana Financial Sector Development Project (P161787)                                      ICR DOCUMENT
+
+
+
+
+
+                                   CURRENCY EQUIVALENTS
+
+
+
+                          Exchange Rate Effective {December 31, 2024)
+
+                              Currency Unit = New Ghanaian Cedi (GHS)
+
+
+
+                                   GHS 14.7 = US$1
+
+
+
+                                      US$1 = SDR 0.77
+
+
+
+                                         FISCAL YEAR
+
+                                   January 1 - December 31
+
+
+
+
+
+
+
+
+
+                        Regional Vice President: Ousmane Diagana
+
+                              Country Director: Robert R. Taliercio
+
+                              Regional Director: Abebe Adugna Dadi
+
+                             Practice Manager: Mehnaz S. Safavian
+
+                          Task Team Leader (s): Carlos Leonardo Vicente, Uloaku Oyewole
+
+                          ICR Main Contributor: Neema Mwingu, Sati Achath
+
+     The World Bank
+
+     Ghana Financial Sector Development Project (P161787)           ICR DOCUMENT
+
+
+
+
+
+
+
+                                     ABBREVIATIONS AND ACRONYMS
+
+
+
+ARB         Association of Rural Banks
+
+BoG         Bank of Ghana
+
+CPF         Country Partnership Framework
+
+CPS         Country Partnership Strategy
+
+CRA         Credit Rating Agency
+
+CTRC        Central Tender Review Committee
+
+CUA         Credit Unions Association
+
+DCRA        Domestic Credit Rating Agency
+
+DDEP        Domestic Debt Exchange Programme
+
+FM          Financial Management
+
+FSD         Financial Sector Division
+
+FSDP        Financial Sector Development Project
+
+GDP         Gross Domestic Product
+
+GDFP        Ghana Development Finance Project
+
+GHAMFIN     Ghana Microfinance Institutions Network
+
+GRM         Grievance Redress Mechanism
+
+GRS         Grievance Redress Service
+
+ICR         Implementation Completion and Results Report
+
+ICT         Information and Communication Technology
+
+IMF         International Monetary Fund
+
+IPF         Investment Project Financing
+
+M&E         Monitoring and Evaluation
+
+MFI         Microfinance Institution
+
+MIS         Management Information System
+
+MoF         Ministry of Finance
+
+MTR         Midterm Review
+
+NFIDS       National Financial Inclusion and Development Strategy
+
+NIC         National Insurance Commission
+
+NPL         Nonperforming Loan
+
+OFISD       Other Financial Institutions Supervision Department
+
+PDO         Project Development Objective
+
+PIA         Project Implementing Agency
+
+PIU         Project Implementation Unit
+
+POS         Point-of-Sale
+
+PPA         Project Preparation Advance
+
+RCB         Rural and Community Bank
+
+S&L         Savings and Loans Company
+
+SEC         Securities and Exchange Commission
+
+SCD         Systematic Country Diagnostic
+
+SDI         Specialized Deposit-taking Institution
+
+SSL         Secure Sockets Layer
+
+STEP        Systematic Tracking of Exchanges in Procurement
+
+       The World Bank
+
+       Ghana Financial Sector Development Project (P161787)   ICR DOCUMENT
+
+
+
+
+
+TA            Technical Assistance
+
+TOC           Theory of Change
+
+TOR           Terms of Reference
+
+USSD          Unstructured Supplementary Service Data
+
+VSLA          Village Savings and Loans Association
+
+             The World Bank
+
+             Ghana Financial Sector Development Project (P161787)                                                                                      ICR DOCUMENT
+
+
+
+
+
+
+
+
+
+                                                        TABLE OF CONTENTS
+
+
+
+DATA SHEET .....................................................................................................................................................i
+
+      I.     PROJECT CONTEXT AND DEVELOPMENT OBJECTIVES ..................................................................................... 1
+
+      I.     OUTCOME ..................................................................................................................................................... 8
+
+      II.    KEY FACTORS AFFECTING IMPLEMENTATION AND OUTCOME ..................................................................... 16
+
+      III.      BANK PERFORMANCE, COMPLIANCE ISSUES, AND RISK TO DEVELOPMENT OUTCOME ............................ 18
+
+      IV.       LESSONS AND RECOMMENDATIONS........................................................................................................ 23
+
+      ANNEX 1. RESULTS FRAMEWORK AND KEY OUTPUTS ......................................................................................... 25
+
+      ANNEX 2. BANK LENDING AND IMPLEMENTATION SUPPORT/SUPERVISION ....................................................... 31
+
+      ANNEX 3. PROJECT COST BY COMPONENT .......................................................................................................... 33
+
+      ANNEX 4. EFFICIENCY ANALYSIS .......................................................................................................................... 34
+
+      ANNEX 5. BORROWER, CO-FINANCIER AND OTHER PARTNER/STAKEHOLDER COMMENTS ................................. 35
+
+      ANNEX 6. SUPPORTING DOCUMENTS (IF ANY) .................................................................................................... 36
+
+             The World Bank
+
+             Ghana Financial Sector Development Project (P161787)                                               ICR DOCUMENT
+
+
+
+
+
+
+
+
+
+    DATA SHEET
+
+
+
+    @#&OPS~Doctype~OPS^dynamics@icrbasicdata#doctemplate
+
+    BASIC DATA
+
+
+
+    Product Information
+
+
+
+    Operation ID                                                     Operation Name
+
+    P161787                                                          Ghana Financial Sector Development Project
+
+
+
+    Product                                                          Operation Short Name
+
+
+
+    Investment Project Financing (IPF)                               Ghana Financial Sector Development
+
+
+
+    Operation Status                                                 Approval Fiscal Year
+
+
+
+    Closed                                                           2019
+
+
+
+    Original EA Category                                             Current EA Category
+
+
+
+    Not Required (C) (Approval package - 20 Sep 2018)                Not Required (C) (Restructuring Data Sheet - 08 Jul 2024)
+
+
+
+
+
+    CLIENTS
+
+
+
+
+
+    Borrower/Recipient                                               Implementing Agency
+
+    Republic of Ghana                                                Ministry of Finance
+
+
+
+
+
+    DEVELOPMENT OBJECTIVE
+
+
+
+    Original Development Objective (Approved as part of Approval Package on 20-Sep-2018)
+
+    The objective of the project is to increase access to financial services by individuals.
+
+    Current Development Objective (Approved as part of Restructuring Package Seq No 1 on 07-Jun-2023)
+
+    The objective of the project is to increase access to financial services by individuals.
+
+    PDO as stated in the legal agreement
+
+    To promote financial sector soundness and access to financial services by individuals
+
+
+
+s
+
+s
+
+s
+
+s
+
+
+
+
+
+
+
+
+
+    @#&OPS~Doctype~OPS^dynamics@icrfinancing#doctemplate
+
+    FINANCING
+
+
+
+
+
+                                                                                                                                 i
+
+          The World Bank
+
+          Ghana Financial Sector Development Project (P161787)                                          ICR DOCUMENT
+
+
+
+
+
+Financing Source                 Original Amount (US$)       Revised Amount (US$)          Actual Disbursed (US$)
+
+World Bank Financing                         30,000,000.00             24,819,196.07                     25,267,062.50
+
+IDA-63100                                    30,000,000.00             24,819,196.07                     25,267,062.50
+
+Total                                        30,000,000.00             24,819,196.07                     25,267,062.50
+
+
+
+RESTRUCTURING AND/OR ADDITIONAL FINANCING
+
+
+
+                                           Amount Disbursed
+
+     Date(s)                   Type                                                   Key Revisions
+
+                                           (US$M)
+
+                                                                 •   Development Objective
+
+                                                                 •   Components
+
+                                                                 •   Results
+
+  07-Jun-2023         Portal                            16.67
+
+                                                                 •   Disbursement Estimates
+
+                                                                 •   Loan Closing Date Extension
+
+                                                                 •   Implementation Schedule
+
+                                                                 •   Disbursement Estimates
+
+   08-Jul-2024        Portal                            25.27    •   Loan Cancellations
+
+                                                                 •   Reallocations
+
+
+
+@#&OPS~Doctype~OPS^dynamics@icrkeydates#doctemplate
+
+KEY DATES
+
+
+
+
+
+                        Key Events                                    Planned Date                    Actual Date
+
+
+
+Concept Review                                                        30-Jan-2018                     30-Jan-2018
+
+
+
+Decision Review                                                       25-Jun-2018                     09-Jul-2018
+
+
+
+Authorize Negotiations                                                07-Aug-2018                     23-Jul-2018
+
+
+
+Approval                                                              20-Sep-2018                     20-Sep-2018
+
+
+
+Signing                                                                17-Jul-2018                    12-Dec-2018
+
+
+
+Effectiveness                                                          17-Jul-2018                    27-Jun-2019
+
+
+
+ICR/NCO                                                               28-Jan-2025                          --
+
+
+
+Restructuring Sequence.01                                            Not Applicable                   07-Jun-2023
+
+
+
+Restructuring Sequence.02                                            Not Applicable                   08-Jul-2024
+
+
+
+Mid-Term Review No. 01                                                25-Apr-2022                     23-May-2022
+
+
+
+Operation Closing/Cancellation                                        30-Jun-2024                     30-Jun-2024
+
+
+
+
+
+
+
+                                                                                                                    ii
+
+          The World Bank
+
+          Ghana Financial Sector Development Project (P161787)                                                   ICR DOCUMENT
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@icrratings#doctemplate
+
+RATINGS SUMMARY
+
+
+
+
+
+               Outcome                               Bank Performance                                M&E Quality
+
+
+
+Moderately Satisfactory                   Moderately Satisfactory                      Substantial
+
+
+
+
+
+ISR RATINGS
+
+
+
+                                                                                                          Actual Disbursements
+
+ No.         Date ISR Archived                  DO Rating                        IP Rating
+
+                                                                                                                 (US$M)
+
+01         27-Dec-2018                Satisfactory                      Satisfactory                                         1.00
+
+02         26-Jun-2019                Satisfactory                      Satisfactory                                         1.00
+
+03         23-Dec-2019                Satisfactory                      Satisfactory                                         1.01
+
+04         26-Jun-2020                Satisfactory                      Satisfactory                                         9.17
+
+05         29-Jan-2021                Moderately Satisfactory           Moderately Satisfactory                              9.17
+
+06         27-Aug-2021                Moderately Satisfactory           Moderately Satisfactory                         11.67
+
+07         22-Apr-2022                Moderately Satisfactory           Satisfactory                                    11.67
+
+08         09-Dec-2022                Moderately Unsatisfactory         Moderately Satisfactory                         16.67
+
+09         23-Jun-2023                Moderately Unsatisfactory         Moderately Satisfactory                         16.67
+
+10         30-Dec-2023                Moderately Satisfactory           Satisfactory                                    19.67
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@icrsectortheme#doctemplate
+
+SECTORS AND THEMES
+
+
+
+
+
+Sectors
+
+                                                                                         Adaptation
+
+                                                                                                             Mitigation
+
+       Major Sector                             Sector                       %          Co-benefits
+
+                                                                                                           Co-benefits (%)
+
+                                                                                        (%)
+
+                                 FY17 - Banking Institutions                     53                   0                  0
+
+
+
+                                 FY17 - Insurance and Pension                     3                   0                  0
+
+FY17 - Financial Sector          FY17 - Other Non-bank Financial
+
+                                                                                  7                   0                  0
+
+                                 Institutions
+
+                                 FY17 - Public Administration -
+
+                                                                                 19                   0                  0
+
+                                 Financial Sector
+
+
+
+                                                                                                                               iii
+
+      The World Bank
+
+      Ghana Financial Sector Development Project (P161787)                                    ICR DOCUMENT
+
+
+
+
+
+FY17 - Information and
+
+Communications            FY17 - ICT Services                       18                    0         0
+
+Technologies
+
+
+
+Themes
+
+     Major Theme                       Theme (Level 2)              Theme (Level 3)           %
+
+                                                                FY17 - Credit
+
+                                                                                                   30
+
+                                                                Infrastructure
+
+                          FY17 - Financial Infrastructure and   FY17 - Financial
+
+                                                                                                   55
+
+                          Access                                inclusion
+
+                                                                FY17 - Payment &
+
+                                                                                                   30
+
+FY17 - Finance                                                  markets infrastructure
+
+                                                                FY17 - Financial Sector
+
+                                                                oversight and
+
+                          FY17 - Financial Stability            policy/banking                     41
+
+                                                                regulation &
+
+                                                                restructuring
+
+FY17 - Human
+
+Development and           FY17 - Gender                                                            27
+
+Gender
+
+FY17 - Private Sector
+
+                          FY17 - ICT                            FY17 - ICT Solutions               63
+
+Development
+
+
+
+
+
+
+
+
+
+                                                                                                        iv
+
+       The World Bank
+
+       Ghana Financial Sector Development Project (P161787)                              ICR DOCUMENT
+
+
+
+
+
+
+
+
+
+ADM STAFF
+
+
+
+
+
+Role                                At Approval                At ICR
+
+
+
+Practice Manager                                               Mehnaz S. Safavian
+
+
+
+Regional Director                                              Abebe Adugna Dadi
+
+
+
+Global Director                                                Mona E. Haddad
+
+
+
+Practice Group Vice President                                  Pablo Saavedra
+
+
+
+Country Director                                               Robert R. Taliercio
+
+
+
+Regional Vice President                                        Ousmane Diagana
+
+
+
+ADM Responsible Team Leader                                    Carlos Leonardo Vicente
+
+
+
+Co-Team Leader(s)                                              Uloaku Oyewole
+
+
+
+ICR Main Contributors              Neema Mwingu, Sati Achath
+
+
+
+
+
+
+
+
+
+                                                                                              Page 1
+
+             The World Bank
+
+             Ghana Financial Sector Development Project (P161787)                                                             ICR DOCUMENT
+
+
+
+
+
+    I.       PROJECT CONTEXT AND DEVELOPMENT OBJECTIVES
+
+
+
+    A. CONTEXT AT APPRAISAL
+
+1.       By 2018, Ghana had experienced nearly two decades of strong economic growth, reaching lower-middle-income
+
+status in 2011. High export prices and domestic and foreign investments, especially in oil, drove growth above 10 percent
+
+during peak production years. However, fiscal mismanagement and external shocks, such as fluctuating oil prices, slowed
+
+growth to 3.5 percent by 2016, with rising fiscal deficit and public debt straining the economy.
+
+
+
+2.       In 2017, the Government implemented fiscal measures that cut fiscal deficit to 5.9 percent of gross domestic
+
+product (GDP), lowered debt-to-GDP ratio to 69.2 percent, and spurred annual growth to 8.5 percent, led by the mining
+
+and oil sectors. Inflation eased, allowing interest rate cuts, but risks from commodity price volatility, energy sector debt,
+
+and regional poverty disparities persisted, with poverty rates rising in areas such as Upper West, Northern, and Volta
+
+region, despite declines elsewhere.
+
+
+
+3.       Ghana’s financial sector had grown significantly, but the banking sector was facing vulnerabilities. Total financial
+
+sector assets rose from 48 percent to 68 percent of GDP between 2010 and 2016. However, the banking sector, which
+
+was the primary holder of financial sector assets, recorded high nonperforming loans (NPLs), which stood at 23.4 percent
+
+by April 2018. Though the average capital adequacy ratio (CAR) remained high at 18 percent, several banks fell below the
+
+regulatory minimum and needed recapitalization. Profitability declined due to low credit growth and increased NPL
+
+provisions.
+
+
+
+4.      At the time of appraisal, Ghana's specialized deposit-taking institutions (SDIs) sector, which includes
+
+microfinance institutions (MFIs),1 rural and community banks (RCBs), savings and loans companies (S&Ls), and finance
+
+houses, faced critical challenges. Despite being vital for financial inclusion, regulatory oversight was under significant
+
+strain. Many SDIs operated unsafely, with undercapitalization, liquidity issues, and frequent violations of prudential
+
+standards. By 2017, 39 percent of MFIs and RCBs were distressed or closed, affecting hundreds of thousands of depositors.
+
+Oversight by Bank of Ghana (BoG), the Association of Rural Banks (ARB) Apex Bank, and the Ghana Co-operative Credit
+
+Unions Association (CUA) was hindered by the rapid licensing of diverse, often undercapitalized institutions managed by
+
+unqualified owners, which strained supervisory capacity.
+
+
+
+5.      Ghana’s financial inclusion had improved notably, with formal account ownership rising from 41 percent in 2010
+
+to 58 percent in 2017, supported by mobile money expansion. Mobile money accounts increased 529 percent between
+
+2012 and 2017, reaching 23.9 million accounts and facilitating nearly a billion transactions. However, access remained low
+
+among certain groups, particularly rural residents, women, and poor regions such as Upper West and Northern Ghana.
+
+These groups are also less likely to own bank accounts due to limited bank penetration. From 2010 to 2017, bank account
+
+ownership grew only slightly, rising from 34 percent to 36 percent.
+
+
+
+6.      This project was designed to address several of these challenges and contribute to financial sector resilience
+
+and improved access to financial services. It was designed in strong collaboration with the International Monetary Fund
+
+(IMF) and other partners to ensure complementary efforts and avoid duplication during the project’s design phase. The
+
+IMF played a significant role in supporting the cleanup and strengthening of the banking sector, focusing on banks, while
+
+the World Bank targeted the SDIs. Coordination efforts involved leveraging studies and technical inputs from other
+
+development partners, such as the German Development Agency.
+
+
+
+
+
+1   MFIs include microfinance companies (MFCs), micro credit companies (MCCs), and financial nongovernmental organizations (NGOs).
+
+
+
+                                                                                                                                     Page 1
+
+         The World Bank
+
+         Ghana Financial Sector Development Project (P161787)                                                 ICR DOCUMENT
+
+
+
+
+
+7.       The implementation of this project faced extraordinary challenges. Just six months after it became effective, the
+
+COVID-19 pandemic halted project implementation for several months because border closures prevented short-term
+
+consultants and resident advisers from traveling to Ghana, which disrupted critical project activities, including the design
+
+of the agency banking model for the ARB Apex Bank and the review of the legal and regulatory framework for the SDI
+
+sector. Similarly, the disruption of supply chains due to COVID-19 delayed the delivery of IT infrastructure for the ARB
+
+Apex Bank. Despite these obstacles, the project team swiftly adapted by leveraging virtual communication tools to conduct
+
+the procurement of goods and consultants, but the disruption significantly slowed momentum. The situation worsened
+
+with the onset of the debt and economic crisis that prompted the Ghanaian authorities to implement a Domestic Debt
+
+Exchange Programme (DDEP). This was the biggest shock to the project implementation environment as it imposed
+
+significant losses on financial institutions (including banks and SDIs), which held a significant amount of government debt.
+
+Many institutions became undercapitalized, and there was a high risk that the financial system could collapse without
+
+decisive action by the authorities. Therefore, and limited resources of the Ministry of Finance (MoF), which was the project
+
+implementing agency (PIA), and BoG, one of the main project beneficiaries, had to redirect their attention and resources
+
+from project implementation to preventing a full-blown financial sector crisis and stabilizing the financial system.
+
+Recognizing the gravity of the situation, at the Government’s request, the World Bank team also shifted its attention and
+
+resources toward the preparation of an emergency financial stability operation to support the recapitalization of the
+
+banking sector.
+
+
+
+8.      These cascading shocks compounded preexisting, long-standing vulnerabilities in the SDI sector. Additionally,
+
+the project was already delayed by a nine-month effectiveness lag due to a protracted recruitment by the MoF of the
+
+Project Coordinator and the Procurement Specialist. Considering the initial nine-month delay in achieving project
+
+effectiveness and the disruption caused by COVID-19, the project’s effective implementation period was reduced to about
+
+four years, even with a nine-month extension of the project closing date.
+
+
+
+B. Theory of Change
+
+
+
+9.      At appraisal, the project team developed a Theory of Change (TOC) which outlined the causal link between
+
+project activities and expected outcomes. The TOC reflected how the project would increase financial sector soundness
+
+and access to financial services by (a) strengthening regulatory and supervisory capacities of BoG and CUA; (b) expanding
+
+financial access points through agent banking and e-banking and connecting Village Savings and Loans Association (VSLAs)
+
+to formal banking channels; (c) enhancing financial literacy and consumer protection; and (d) building institutional
+
+capacity of the MoF and other implementing agencies for sustained impact. Implicit assumptions underpinning the TOC
+
+included rapid effectiveness, the full cleanup of the SDI sector, adequate implementation capacity of the PIA and
+
+beneficiary institutions, strong commitment of beneficiary institutions (particularly the ARB Apex Bank) to lead the
+
+implementation of their activities, absence of major disruptions such as COVID-19, and continued recovery of the Ghanian
+
+economy to support strengthening of the financial sector.
+
+
+
+10.      The project was restructured in June 2023 to adapt to an extraordinarily challenging implementation
+
+environment marked by the delayed effectiveness, limited implementation capacity, COVID-19 disruptions, and the
+
+shock to the banking sector of the DDEP. The key activity related to financial stability—overhauling the SDI regulatory
+
+framework —was cancelled as BoG pivoted their financial stability expertise to manage the impact of the DDEP and
+
+prevent a full-blown banking crisis. Instead, the project concentrated on expanding digital financial services through e-
+
+banking and agent banking, upgrading supervisory and IT systems, and enhancing consumer awareness and protection. It
+
+expanded support to building BoG resolution capacity amid heightened vulnerabilities in the banking sector. Several
+
+outcome and intermediate-level targets were revised to account for the challenges. Consequently, the project’s TOC was
+
+recalibrated to focus exclusively on the financial inclusion objective, as the dual objective of promoting both financial
+
+stability and inclusion proved untenable in the face of the shift in policy priorities and vulnerabilities in the SDI sector.
+
+
+
+                                                                                                                     Page 2
+
+The World Bank
+
+Ghana Financial Sector Development Project (P161787)                          ICR DOCUMENT
+
+
+
+
+
+                                           Theory of Change (Results Chain)
+
+
+
+
+
+
+
+
+
+                                                                                   Page 3
+
+          The World Bank
+
+          Ghana Financial Sector Development Project (P161787)                                                  ICR DOCUMENT
+
+
+
+
+
+A. Project Development Objectives (PDOs)
+
+
+
+11.     At appraisal, the objective of the project was to promote financial sector soundness and access to financial services
+
+by individuals.
+
+
+
+B. Key Expected Outcomes and Outcome Indicators:
+
+
+
+12.     The key outcomes and outcome indicators aimed at increasing financial sector soundness and access to financial
+
+services. Three indicators as shown in table 1 were used to assess the project’s progress toward the achievement of the
+
+PDO.
+
+
+
+                            Table 1. Key Expected Outcome Indicators as Planned at Appraisal (2018)
+
+                                           PDO Indicator                                        Baseline       End Targets
+
+   1      Improved financial sector soundness
+
+         Percentage of reporting SDIs and CU in compliance with their respective minimum
+
+                                                                                                      75%             85%
+
+         capital adequacy ratio or gearing ratio
+
+   2     Increased access to financial services
+
+  (i)    Number of deposit accounts within the RCB network                                       7,200,000      8,500,000
+
+             • of which women                                                                    3,000,000      3,750,000
+
+  (ii)   Number of customers enrolled in the ARB’s e-banking platform                                5,000        250,000
+
+
+
+Components
+
+
+
+Component 1: Improving Financial Sector Regulatory Oversight and Market Transparency and Discipline (Original: US$8
+
+million; Actual: US$3 million)
+
+
+
+13.      This component aimed to enhance the regulatory framework, supervisory capacity, and market transparency
+
+in the financial sector. Specifically, it aimed to support updating SDI regulations, optimizing institutional roles for SDI and
+
+credit unions supervision, and building capacity within BoG’s Other Financial Institutions Supervision Department (OFISD)
+
+through training and technical assistance (TA). The component aimed to support the CUA to strengthen its Supervision
+
+Division, including the development of a supervisory framework, acquisition of a shared core management information
+
+system (MIS) and supervision application, and professional development for credit union managers. Finally, the
+
+component aimed to establish a Domestic Credit Rating Agency (DCRA) to improve market transparency by providing TA,
+
+capacity building, and industry workshops to enhance local expertise and data availability in the credit rating sector.
+
+Component 2: Increasing Outreach of RCBs and MFIs and Linking VSLAs to the Formal Financial Sector (Original: US$13
+
+million; Actual: US$14.09 million)
+
+
+
+14.      This component aimed to enhance financial inclusion by upgrading ARB Apex Bank’s data insfrastructure and
+
+core banking applications (including an e-banking platform) and building capacity to support agent banking services. It
+
+aimed to develop an agent banking network for RCBs, including the design of a business model and operational manuals,
+
+procurement of an information and communication technology (ICT) system and point-of-sale (POS) devices, and training
+
+for staff on network management. Moreover, the component aimed at upgrading the shared MIS of MFIs and training
+
+them on its use to improve reporting and service delivery, and linking VSLAs to formal financial services by establishing
+
+new groups, providing training on governance and financial education, and leveraging expanded access points from the
+
+agent banking initiative to strengthen financial links.
+
+
+
+
+
+
+
+
+
+                                                                                                                       Page 4
+
+         The World Bank
+
+         Ghana Financial Sector Development Project (P161787)                                                 ICR DOCUMENT
+
+
+
+
+
+Component 3: Bolstering Financial Capability and Consumer Protection (Original: US$3.6 million equivalent; Actual:
+
+US$4.28 million).
+
+
+
+15.     This component aimed to enhance financial literacy and strengthen consumer protection mechanisms. Financial
+
+education campaigns utilized traditional methods such as radio and face-to-face interactions, alongside innovative
+
+platforms like SMS/WhatsApp messaging, prerecorded phone lines, and mobile apps to teach concepts like savings,
+
+budgeting, and digital financial services. Consumer protection efforts were designed to focus on building regulatory
+
+capacity through resident advisers, training programs, and developing market conduct supervision strategies for BoG and
+
+National Insurance Commission (NIC). The component also included procuring and implementing complaint management
+
+systems for BoG, NIC, and the Securities and Exchange Commission (SEC), alongside staff training to ensure effective use
+
+of these systems, improving the overall consumer protection framework.
+
+
+
+Component 4: Enhancing the Capacity for the Implementation and Monitoring of Financial Sector Policies and
+
+Supporting Project Implementation (Original: US$3.4 million; Actual: US$3.85 million)
+
+
+
+16.     This component focused on strengthening the MoF’s Financial Sector Division (FSD) and support effective
+
+project execution. It was meant to support training for FSD staff on financial inclusion, the development of a financial
+
+inclusion database, and the publication of reports and briefs, alongside organizing events such as the annual financial
+
+inclusion conference. Another objective was to support a financial inclusion survey, geospatial mapping of access points,
+
+and the development of online databases and visual displays. To ensure smooth project implementation, this component
+
+funded consultant salaries, operational costs, and TA for communication strategies, citizen engagement, and monitoring
+
+and evaluation (M&E) systems. Biannual beneficiary surveys were also conducted to assess satisfaction with upgraded
+
+systems, links, and financial education initiatives.
+
+
+
+C.      SIGNIFICANT CHANGES DURING IMPLEMENTATION (IF APPLICABLE)
+
+
+
+17.      Revised PDOs and outcome targets. The project underwent two restructurings. The first and most significant
+
+restructuring occurred in June 2023 to DDEP’s impact on the soundness of the financial sector, which led to shifting
+
+priorities and implementation challenges. The second, a minor restructuring, occurred in July 2024 at the project’s closure
+
+to cancel undisbursed funds. The team intended to restructure the project immediately after the midterm review (MTR),
+
+but BoG had shifted its attention toward managing the impact of the DDEP, which could have led to collapse of the
+
+financial sector. As a result, BoG needed more time to finalize its plan for reforming the regulatory and institutional
+
+framework for the SDI sector. This plan (never completed) was intended to inform the restructuring, by endorsing key
+
+reforms that the project would support to improve the soundness of the SDI sector. Like BoG, the World Bank team shifted
+
+its focus toward preparation of an emergency financial sector operation to support recapitalization of the banking sector.
+
+The first restructuring revised the original PDO—to promote financial sector soundness and access to financial services by
+
+individuals. In line with the shift in priorities and project scope, the emphasis on ‘financial sector soundness’ was dropped
+
+from the PDO and the wording adjusted to focusing more narrowly on financial inclusion, specifically, ‘To increase access
+
+to financial services by individuals.’ Activities were reprioritized in the DDEP context and the underperforming ones were
+
+cancelled.
+
+
+
+18.     Revised targets for PDO indicators. As shown in table 2, the first PDO indicator—the percentage of reporting SDIs
+
+and CU in compliance with their respective minimum capital adequacy ratio or gearing ratio —was dropped in line with
+
+the dropping of the soundness objective from the PDO, following the cancellation of associated activities amid the DDEP
+
+and the deterioration of the overall financial sector solvency. The other two indicators were retained as follows:
+
+
+
+(a)   Number of deposit accounts within the RCB network: This indicator was unchanged.
+
+
+
+                                                                                                                     Page 5
+
+              The World Bank
+
+              Ghana Financial Sector Development Project (P161787)                                                                ICR DOCUMENT
+
+
+
+
+
+    (b)   Number of customers enrolled in ARB Apex Bank’s e-banking platform: The indicator was unchanged. However, the
+
+          target was revised to reflect the rollout delays, with the baseline reset to zero after discontinuation of the previous
+
+          platform.
+
+19.      Revised components. Changes to the components were also made in June 2023. Key changes included dropping
+
+activities related to regulatory frameworks for SDIs and core banking application for credit unions, reallocating resources
+
+to enhance digital banking, expand agent networks, and link VSLAs to formal financial services. Enrollment targets for
+
+digital platforms were revised.
+
+Component 1 (Improving Financial Sector Regulatory Oversight and Market Transparency and Discipline)
+
+
+
+20.     Changes were made to prioritize enhancing BoG’s resolution capacity while dropping the strengthening of SDI
+
+regulatory and supervisory frameworks. Support for credit unions shifted from digitization efforts to upgrading
+
+supervisory tools and capacity building. Consequently, the component was renamed to ‘Improving Credit Unions’
+
+Regulatory Framework, BoG’s Resolution Capacity, and Market Transparency and Discipline’. The budget for Component
+
+1 was decreased by US$2.15 million to US$5.85 million, due to cost savings and cancellation of the procurement and
+
+implementation of core banking and mobile banking applications for credit unions.
+
+Component 2 (Increasing the Outreach of RCBs and MFIs and Linking VSLAs to Formal Financial Services)
+
+
+
+21.      Component 2’s budget increased from US$13 million to US$14.35 million to cover cost overruns for ARB Apex
+
+Bank activities—ICT upgrades (US$0.8 million) and agent banking component (US$2.25 million), including core IT
+
+applications for agency banking and e-banking. Procurement of the micro-banking application for MFIs were canceled and
+
+replaced by capacity-building initiatives for Ghana Microfinance Institutions Network (GHAMFIN). VSLA efforts shifted to
+
+linking existing, mature groups rather than creating new ones, resulting in US$1.4 million savings.2
+
+Component 3 (Bolstering Financial Capacity and Consumer Protection)
+
+
+
+22.     Minor cost adjustments led to US$0.2 million savings in financial literacy campaigns and revised allocation reduced
+
+to US$1.5 million. BoG’s market conduct support shifted from a resident adviser to short-term technical experts due to
+
+BoG’s preference and difficulty in attracting resident advisers while maintaining all planned activities.
+
+Component 4 (Enhancing Capacity for Policy Implementation and Project Support)
+
+
+
+23.     Component 4’s budget increased from US$3.4 million to US$4.1 million. This included US$0.7 million saved by
+
+canceling geospatial mapping, as well as US$1.4 million added to cover project implementation cost overruns and support
+
+the extended project timeline.
+
+
+
+24.       Other Changes. The project timeline was extended by nine months to June 2024 to ensure the completion of
+
+critical activities.
+
+
+
+Rationale for Changes and Their Implication on the Original Theory of Change (TOC)
+
+
+
+25.     In June 2023, the project was restructured based on findings and recommendations of the MTR conducted in mid-
+
+2022. The MTR found the PDO was still relevant but noted some of the original PDO indicators, particularly the financial
+
+sector soundness indicator, were unlikely to be achieved in the prevailing financial sector context. The restructuring
+
+altered the original TOC by canceling regulatory and supervisory reforms for SDIs. As a result, financial sector soundness
+
+was removed from the Results Framework. Other outcome targets that were deemed overambitious were also revised.
+
+The rationale for the changes is detailed in the following paragraphs.
+
+
+
+2   The shift was based on the evidence that linking mature VSLAs was more likely to be successful than linking new, immature VSLAs.
+
+
+
+                                                                                                                                       Page 6
+
+         The World Bank
+
+         Ghana Financial Sector Development Project (P161787)                                                   ICR DOCUMENT
+
+
+
+
+
+
+
+26.     Shifting priorities. Between 2022 and 2023, the Government implemented the DDEP as a critical response to an
+
+unsustainable debt burden that threatened macroeconomic stability. Domestic public debt, which was held largely by
+
+commercial banks, was restructured and exacerbated vulnerabilities in the financial sector, straining liquidity, solvency,
+
+and investor confidence while redirecting policy priorities toward immediate crisis management. Consequently, BoG
+
+appropriately redirected its focus from long-term reforms to immediate crisis management and financial stability,
+
+including by strengthening of its resolution capacity to deal with distressed financial institutions. This limited the capacity
+
+and urgency to overhaul SDI’s regulatory and supervisory framework. Moreover, the SDI sector was still facing legacy
+
+solvency challenges, which would have muted the impact of the planned reforms.
+
+
+
+27.     Implementation and procurement challenges. The project’s effectiveness was delayed by nine months, limiting
+
+the time available for execution. Limited technical and procurement capacity within the implementing agency and
+
+beneficiary institutions caused delays in drafting terms of reference (TORs), often requiring the World Bank team’s
+
+assistance, bidding processes, and approvals. The Central Tender Review Committee (CTRC), part of Ghana's procurement
+
+process, caused significant delays by questioning some project activities already outlined in the Financing Agreement, cost
+
+appropriateness, and procurement decisions by the implementing agency. Consequently, contracts such as those for
+
+financial education and VSLA links were stuck in CTRC review, awaiting approval.
+
+
+
+28.      Underestimation of needs. Assumptions made during project design underestimated the resources and
+
+infrastructure required for upgrading core banking systems for credit unions. The actual cost of upgrading the core banking
+
+systems was determined after a deeper assessment during implementation. However, in line with best practices, the
+
+project had allocated a US$2 million contingency at appraisal for potential cost overruns related to deployment of IT
+
+solutions, but this amount was significantly reduced due to appreciation of the US dollar against the SDR. If the deeper
+
+assessment to estimate the cost of the core banking system had been completed sooner as planned using the funds set
+
+aside in the Project Preparation Advance (PPA), the additional funding needs would have been identified and addressed
+
+through additional financing.
+
+
+
+29.     Highly ambitious design. The project’s initial objectives and indicators, such as improving financial sector
+
+soundness and achieving high enrollment in digital banking platforms, were highly optimistic. This was warranted by the
+
+strong commitment of the counterparts at project preparation, including to fully cleanup of the banking sector. While
+
+headwinds such as the DDEP and COVID-19 could not have been anticipated, the project could have anticipated the time
+
+lag between the implementation of reforms/rollout of IT solutions (for example, the e-banking platform) and the
+
+achievement of the target results such as the number of customers enrolled in the e-banking platform.
+
+
+
+30.     External factors. The project’s focus on TA, capacity building, and outputs requiring international consultants
+
+made it highly susceptible to travel restrictions. COVID-19 had a dual effect on the financial sector and the project —it
+
+delayed project activities due to logistical issues and the Government’s focus on addressing the pandemic and weakened
+
+borrowers’ loan repayment capacity, which compounded vulnerabilities in the SDI sector. Coupled with lingering
+
+vulnerabilities in the SDI sector, implementing the planned reforms would not have led to the achievement of project
+
+goals related to SDI soundness.
+
+
+
+
+
+
+
+
+
+                                                                                                                       Page 7
+
+         The World Bank
+
+         Ghana Financial Sector Development Project (P161787)                                                ICR DOCUMENT
+
+
+
+
+
+
+
+ I.      OUTCOME
+
+
+
+A.      RELEVANCE OF PDO
+
+
+
+Assessment of Relevance of PDOs and Rating
+
+
+
+Rating: High
+
+
+
+31.      The PDO was closely aligned with the World Bank Group’s Country Partnership Strategy (CPS) for Ghana FY13 –
+
+FY16 (Report No. 76369-GH) and the 2018 Systematic Country Diagnostic (SCD) (Report No. 132010-GH), which informed
+
+the new Country Partnership Framework (CPF) beyond FY2019. The CPS focused on three priorities: (a) improving public
+
+institutions, (b) fostering competitiveness and employment, and (c) protecting the poor and vulnerable. Financial sector
+
+reform was key to supporting Ghana’s competitiveness, financing business growth, and positioning Ghana as a regional
+
+finance hub. The 2018 SCD also emphasized expanding access to finance, strengthening digital financial services, and
+
+improving the regulatory framework.
+
+
+
+32.     The PDO was highly relevant to the World Bank’s CPF for FY22–FY26, which was in effect at the time of project
+
+closure. The CPF prioritizes increasing access to finance for businesses and households by addressing financial
+
+intermediation gaps and supporting micro, small, and medium enterprises. This is to be achieved through a comprehensive
+
+approach integrating financial stability, inclusion, and capital market development, alongside support for digital financial
+
+services, housing finance, and the establishment of the Development Bank of Ghana to unlock long-term investments.
+
+One of the PDO indicators—the number of deposit accounts within the RCB network—is also a CPF result indicator.
+
+
+
+33.     The CPF explicitly supports digital financial services, which were a core focus of the project. Project activities
+
+such as upgrading the ARB Apex Bank’s e-banking platform, linking VSLAs to formal financial services, and enhancing
+
+consumer financial literacy directly addressed the CPF’s goals of leveraging digital transformation to reduce financial
+
+intermediation gaps. These initiatives also targeted underserved populations, including women and rural communities,
+
+further advancing the CPF’s emphasis on inclusive finance. Although the financial sector stability (soundness) objective
+
+was dropped during restructuring, the revised PDO remained relevant as it was closely aligned with the CPF’s strategic
+
+focus on financial inclusion and access. The project aligned with Government initiatives such as the Coordinated
+
+Programme of Economic and Social Development Policies (2017–2024) and the National Financial Inclusion and
+
+Development Strategy (NFIDS) 2018–2023, both aimed at deepening the financial sector, enhancing inclusion,
+
+strengthening regulation, and advancing the transition to electronic payments.
+
+
+
+B. ACHIEVEMENT OF PDOs (EFFICACY)
+
+Assessment of Achievement - Each Objective/Outcome
+
+
+
+34.      The overall efficacy of the project has been assessed using a split evaluation method, separately analyzing
+
+performance before and after restructuring. The project had two main PDO-level indicators based on the revised outcome
+
+of “increased access to financial services by individuals.” By the project’s closure date, one of these indicators had
+
+exceeded its target, while the other had not met the target but exceeded it five months after project closure. The PDO-
+
+level indicator for “improved financial sector soundness,” which was dropped during restructuring, has also been assessed
+
+per split evaluation guidance for revised objectives.
+
+
+
+
+
+
+
+
+
+                                                                                                                    Page 8
+
+           The World Bank
+
+           Ghana Financial Sector Development Project (P161787)                                                                   ICR DOCUMENT
+
+
+
+
+
+                                            Table 2. PDO Achievements (At Project Closing)
+
+                                                                                                 Actual – Post
+
+                                            (Revised)
+
+                                                              Actual at          Actual at          closure
+
+      PDO Indicator          Baseline          End                                                                              Status
+
+                                                            Restructuring        Closure          (November
+
+                                             Targets
+
+                                                                                                     2024)
+
+                                                   Improved financial sector soundness
+
+    Percentage of                  75%              85%            62% Not           Not Applicable                  Indicator dropped
+
+    reporting SDIs and                                                    Applicable                                 during restructuring
+
+    CU in compliance                                                                                                 following the
+
+    with their                                                                                                       cancellation of
+
+    respective                                                                                                       activities supporting
+
+    minimum capital                                                                                                  SDI soundness, given
+
+    adequacy ratio or                                                                                                changes in priorities
+
+    gearing ratio                                                                                                    due to DDEP. See next
+
+                                                                                                                     paragraph for the
+
+                                                                                                                     explanation of declined
+
+                                                                                                                     compliance at MTR.
+
+                                     Increased access to financial services by individuals
+
+    (i) Number of           7,200,000 8,500,000        7,761,794 8,693,344 -
+
+    deposit accounts                                                                                                 Target exceeded
+
+    within the RCB                                                                                                   (102.3%)
+
+    network
+
+    • of which women        3,000,000        3,750,000           3,333,045      3,818,050 -                          Target exceeded
+
+                                                                                                                     (101.8%)
+
+    (ii) Number of                 0.00         80,000              10,165          55,998 90,732                    Target not met before
+
+    customers enrolled                                                                                               closure (70%);
+
+    in the ARB’s e-                                                                                                  exceeded in November
+
+    banking platform                                                                                                 2024, five months after
+
+                                                                                                                     closure (113%)
+
+
+
+35.       The original target measuring an improved financial sector soundness faced headwinds in the midst of COVID-
+
+19 pandemic and DDEP, leading to its removal during restructuring. Initially, the baseline compliance rate was 75 percent,
+
+with a target of 85 percent, but actual performance declined to 62 percent by restructuring. This shortfall reflected the
+
+undercapitalization and governance weaknesses in SDIs, improved regulatory enforcement by BoG,3 and broader impacts
+
+of COVID-19 and macroeconomic pressures on Ghana’s financial sector. These challenges reduced the purchasing power
+
+of SDI borrowers and their ability to repay loans, leading to an increase in NPLs and a decline in the overall soundness of
+
+the SDI sector. The restructuring pivoted the project’s focus to increasing access to financial services, acknowledging the
+
+shift in BoG’s priorities and the systemic nature of financial soundness and the need for broader and long-term structural
+
+reforms beyond the project’s scope.
+
+
+
+
+
+
+
+3 BoG significantly enhanced its supervision and regulatory enforcement as part of a broader cleanup of the SDI sector. These efforts were
+
+independent of the project, driven by BOG’s internal reforms, including hiring additional staff and conducting more frequent onsite inspections.
+
+Key regulatory actions, including stricter enforcement of capital adequacy requirements and reclassification of NPLs, led to short-term worsening of
+
+financial soundness indicators.
+
+
+
+                                                                                                                                           Page 9
+
+           The World Bank
+
+           Ghana Financial Sector Development Project (P161787)                                                                     ICR DOCUMENT
+
+
+
+
+
+36.     The project exceeded its target for increasing deposit accounts, showing significant progress both pre- and post-
+
+restructuring. At the time of restructuring, the project had already made substantial headway, increasing deposit accounts
+
+in the RCB network to 7.76 million (103.5 percent of the intermediate target of 7.5 million) and women-owned accounts
+
+to 3.33 million (104.1 percent of the intermediate target of 3.2 million). After restructuring, which sharpened the project’s
+
+focus on financial access, the project successfully expanded deposit accounts to 8.69 million, exceeding the target of 8.5
+
+million by 2.3 percent, and women-owned accounts reached 3.82 million, surpassing the target of 3.75 million by 1.8
+
+percent. These achievements were driven by targeted interventions such as upgrading the RCB IT systems and core
+
+banking software from T24 R16 to T24 R20, enhancing operational efficiency and customer satisfaction.
+
+
+
+37.      After restructuring, the project exceeded its target for customer enrollment in the ARB Apex Bank’s e-banking
+
+platform. By restructuring, it was clear that the original target of 250,000 customer enrollments in the e-banking platform
+
+was ambitious given the significant time that was needed to procure and install the e-banking platform before customer
+
+enrollment could begin. The platform had been installed and BoG’s limited approval for the piloting of the service with
+
+RCB’s employees led to a modest enrollment of 10,165 customers, falling short of the intermediate target of 100,000.
+
+However, post restructuring, and after securing BoG’s approval to roll out the service to RCBs’ clients, there was
+
+remarkable progress. Enrollments surged to 55,998 by the project’s closure4 and continued to grow, exceeding the target
+
+just five months later, with a total of 90,732 customer enrollments achieved (100.8 percent of the revised end target).
+
+These customers actively used the platform, completing 11,285 transactions worth GHS 3.91 million between October
+
+and December 2023, and an impressive 896,078 transactions valued at GHS 450.24 million from January to November
+
+2024. The new, more reliable Unstructured Supplementary Service Data (USSD) platform, which replaced the earlier U-
+
+Connect system, enabled 360,050 transactions worth GHS 169.3 million.
+
+
+
+38.      The achievement of PDO outcomes was further supported by successes in intermediate-level targets, especially
+
+the linking of VSLAs to the formal financial sector. Before restructuring, the project laid a strong foundation by focusing
+
+on the procurement and implementation of IT upgrades and core applications (T24 and e-banking platforms) as well as
+
+the design of the VSLA link program. This means that, by restructuring, the project had not started to register new VSLA
+
+links and banking agents’ enrollment but had made meaningful progress by starting agent selection and training, setting
+
+the stage for future operations, and initiating efforts to link VSLAs to formal financial institutions. Post restructuring, the
+
+project achieved significant success in linking 2,367 VSLAs, comprising 72,632 members, to formal financial institutions,
+
+far exceeding the revised and original targets of 42,000 and 60,000 by 73 percent and 21 percent, respectively. Among
+
+these, women VSLA members achieved an even greater milestone, surpassing the target of 20,000 by 187 percent. These
+
+links empowered VSLA members to secure their savings within the formal financial system and gain access to larger loans,
+
+which collectively resulted in mobilization of about GHS 5.7 million by financial service providers. By project closure,
+
+regulatory approval for agent banking had not been obtained, hence the agent banking business could not be rolled out.
+
+However, after obtaining the regulatory approval three months after the project closed, the agent banking network has
+
+been rolled out and the target is on track to be achieved by June 2025. As of November 2024, 1,880 agents had been
+
+onboarded. By project closure, 5,535 RCB staff were trained, surpassing the goal of 5,500, and 44 ARB Apex Bank staff also
+
+benefited from training compared to the revised end target of 80.
+
+
+
+39.     Achievement of intermediate-level targets for improving credit unions’ regulatory framework, BoG’s resolution
+
+capacity, and market transparency and discipline showed varied outcomes, with notable progress made post-
+
+restructuring. Before restructuring, the implementation of key activities faced some challenges as the project worked to
+
+navigate the impacts of COVID-19 and the DDEP. These included the delayed rollout of the supervision application for
+
+credit unions and the operationalization of the DCRA. Post restructuring, the project made significant strides. A new
+
+
+
+4 This target could have been achieved by the project's closure if not for the internet outage that disrupted implementation. The outage, lasting at
+
+least two months, affected West and Central Africa in March 2024 due to a break in the region's submarine cable system.
+
+
+
+                                                                                                                                            Page 10
+
+         The World Bank
+
+         Ghana Financial Sector Development Project (P161787)                                                 ICR DOCUMENT
+
+
+
+
+
+regulatory framework for credit unions was developed and implemented, achieving the target. BoG trained 10 staff in
+
+strategic resolution planning, exceeding the target of nine, and strengthening the institutional capability of its newly
+
+established Resolution Office. These efforts will contribute to long-term governance to orderly resolve problem
+
+institutions and improvements and support stability in in the banking sector. With support from a project, CUA upgraded
+
+its supervision application. By project closure, 109 credit unions were using the new supervision application to report to
+
+CUA and the target of 170 was exceeded by 10 percent three months after project closure. The project funded a feasibility
+
+study and business plan that led to the establishment of the DCRA, including its provisional licensing by the SEC,
+
+appointment of a Board of Directors, recruitment of a Chief Executive Officer, development of key policies, and initial
+
+capital contributions from shareholders. However, the DCRA did not become fully operational before the project due to
+
+insufficient time for the consultant to provide technical support and build staff capacity. However, support for
+
+operationalizing the DCRA is expected to continue under the ongoing Ghana Development Finance Project (GDFP)
+
+(P169742).
+
+
+
+40.      Intermediate-level targets related to bolstering financial capability, consumer protection, and financial sector
+
+policy implementation showed mixed results but achieved notable successes. The financial education campaign,
+
+launched post restructuring, exceeded its target by reaching 38 percent of adults age 15 and above, surpassing the goal
+
+of 30 percent. While this was a significant achievement, stakeholders emphasized the need for follow-up efforts to ensure
+
+long-term knowledge retention. In consumer protection, progress in establishing complaints handling systems for BoG,
+
+NIC, and SEC was hindered by difficulties in sourcing qualified consultants to develop System Requirement Specifications
+
+(SRS), leaving insufficient time for system rollout. These systems are now expected to be implemented under the GDFP.
+
+Financial sector policy targets also saw partial progress. A financial inclusion report was produced and shared with
+
+stakeholders, though it fell short of the original target of four reports. Beneficiary satisfaction surveys were conducted as
+
+planned, providing valuable feedback that informed interventions. A financial inclusion database was developed but
+
+remained inaccessible online due to delays in securing secure sockets layer (SSL) certificates. Overall, the project laid
+
+essential groundwork for future initiatives, highlighting areas for continued improvement and investment.
+
+
+
+Justification of Overall Efficacy Rating
+
+
+
+41.     The project's performance pre-restructuring can be rated as Modest, as it faced significant challenges, including
+
+the impacts of COVID-19 and the DDEP, which hindered progress on key targets related to financial sector soundness,
+
+regulatory framework implementation, and consumer protection systems. financial soundness target fell short due to
+
+systemic challenges such as the undercapitalization and governance weaknesses in SDIs, the impact of COVID-19, and
+
+macroeconomic pressures. However, much of the groundwork necessary for future progress was laid during this period.
+
+For example, foundational IT upgrades, including the procurement and installation of the T24 core banking system and
+
+the e-banking platform, were critical for subsequent success. Similarly, the design of the VSLA link program and initial
+
+steps such as agent selection and training created a solid foundation for linking VSLAs to formal financial institutions post
+
+restructuring. Notably, while 65.96 percent of project funds had been disbursed before restructuring, most of these
+
+expenditures were allocated to laying the groundwork for IT upgrades, rather than supporting the soundness objective,
+
+which was later dropped during restructuring.
+
+
+
+42.     Post restructuring, the project’s efficacy is rated as High due to significant progress in financial inclusion, with
+
+several targets exceeded. Deposit accounts in the RCB network surpassed the target, reaching 8.69 million against the
+
+projected 8.5 million, while the target for linking VSLAs to formal financial services was exceeded by 73 percent.
+
+Additionally, the number of customers enrolled in ARB Apex Bank’s e-banking platform grew significantly post project,
+
+ultimately exceeding the target within five months of closure (90,732 versus 80,000). While some intermediate targets,
+
+such as operationalizing agent banking and complaints handling systems, were not fully realized, the project substantially
+
+
+
+
+
+                                                                                                                     Page 11
+
+         The World Bank
+
+         Ghana Financial Sector Development Project (P161787)                                                ICR DOCUMENT
+
+
+
+
+
+improved access to financial services, demonstrating its strong contribution to financial inclusion objectives and achieving
+
+a High efficacy rating. Overall, the restructuring successfully redirected efforts toward achievable and impactful outcomes,
+
+yielding notable successes.
+
+
+
+ C.      EFFICIENCY
+
+
+
+Assessment of Efficiency and Rating
+
+
+
+43.     The efficiency of the project is rated Substantial based on a comprehensive evaluation of the project’s design,
+
+implementation, and resource utilization. The project’s design addressed the specific needs of Ghana’s financial sector,
+
+with a focus on improving access to finance, institutional capacity building, and enhancing regulatory oversight. The
+
+project design was informed by a World Bank TA program under way at the time. The team chose Investment Project
+
+Financing (IPF) for its suitability and flexibility in supporting complex, long-term investments such as infrastructure and
+
+capacity building, enabling a focus on completing essential foundational activities such as procurement, infrastructure
+
+construction, and system development before measurable outcomes can materialize. Unlike PforR or IPF with PBCs, IPF
+
+avoids rigid disbursement conditions, ensuring smoother implementation in contexts where institutional capacity and
+
+monitoring systems are at the development stage.
+
+
+
+44.     The project efficiently mobilized resources, ensuring that funds were allocated to priority areas such as financial
+
+infrastructure development and institutional strengthening, thereby addressing critical bottlenecks in the sector. The
+
+inclusion of financial services reforms and the introduction of modern technologies played a key role in improving the
+
+operational efficiency of financial institutions, particularly rural banks. This targeted approach ensured that resources
+
+were deployed where they were to generate the greatest impact, contributing to improved financial inclusion and the
+
+development of a more robust financial sector.
+
+
+
+45.      While an economic internal rate of return cannot be calculated for a TA project such as this, the project
+
+demonstrated significant efficiency in terms of operational implementation. It surpassed its target for deposit accounts
+
+and linking VSLA members to formal financial services by 2 and 73 percent, respectively. Upgrades to ARB Apex Bank’s
+
+core banking software from T24 R16 to T24 R20 improved operational efficiency and system reliability, allowing ARB Apex
+
+Bank to better serve over 130 RCBs nationwide and enhancing customer satisfaction. For example, the time required for
+
+daily close-of-business activities was significantly reduced from 8 hours to approximately 4.5 hours. Many RCBs reported
+
+a sharp reduction in client service turnaround times, from 20 minutes to just 3 minutes. Additionally, RCBs can now create
+
+and customize their own products to meet specific needs of their customers, without the earlier reliance on standardized
+
+offerings of ARB Apex Bank. ARB Apex Bank's core banking system also enabled susu deposit collectors to use POS devices,
+
+eliminating manual errors and fraud through real-time transaction uploads and instant text confirmations to depositors.
+
+Beyond 5,000 project-funded smart POS devices, RCBs have independently mobilized their own funds to purchase an
+
+additional 688 POS devices. Furthermore, the implementation of a more reliable USSD platform facilitated significant
+
+growth in e-banking transactions, increasing accessibility for underserved populations and strengthening the digital
+
+financial ecosystem. These achievements demonstrate effective use of resources to achieve financial inclusion targets.
+
+Despite these benefits, the project missed key systemic improvements—CUA’s core banking system, the MFI shared
+
+application, and regulators’ complaints handling system.
+
+
+
+46.     Project costs and budget management. The actual component costs of the project remained largely within the
+
+estimates outlined during project appraisal. The total budget of US$30 million, fully funded by the World Bank, was
+
+strategically allocated through detailed annual work plans to focus on priority areas of the financial sector. While there
+
+were usual variances in some components, these were efficiently managed. It is noteworthy that during the restructuring,
+
+
+
+                                                                                                                    Page 12
+
+         The World Bank
+
+         Ghana Financial Sector Development Project (P161787)                                                   ICR DOCUMENT
+
+
+
+
+
+the project scope was thoughtfully refined, allowing for a sharper focus by streamlining objectives. The decision to exclude
+
+the goal related to improving financial sector soundness likely played a key role in effectively managing costs within the
+
+revised Results Framework. By restructuring, US$16.6 million (65.96 percent of funds) had been disbursed. Of this, only
+
+US$1.16 million was spent on activities contributing to the soundness objective under Component 1, representing 14.5
+
+percent of Component 1 budget allocation and just 7 percent of total disbursement. At project closure, 84.2 percent of
+
+funds had been disbursed and approximately SDR 2.7 million (US$4.7 million equivalent) was canceled due to incompletion
+
+of some activities.
+
+
+
+47.     However, critical resource needs for data storage infrastructure to enable the deployment of core banking
+
+application for credit unions had not been established by project approval. The Government received a US$2 million PPA
+
+to complete additional technical assessments to refine scope (including upgrade versus new solutions) and confirm the
+
+budget for the data storage infrastructure; however, the PPA was not effectively used due to limited implementation and
+
+project management capacity.
+
+
+
+48.       Implementation and procurement. The project faced significant delays in procurement and implementation of
+
+certain activities, which affected the project and were compounded by delayed effectiveness, COVID-19 impact, and the
+
+DDEP. For instance, the MoF took more than nine months to recruit a Project Coordinator and a Procurement Specialist,
+
+leading to delayed project effectiveness. Limited capacity within the Project Implementation Unit (PIU) and beneficiary
+
+institutions in drafting the TOR and managing bidding process and contracts was another challenge. Delayed procurement
+
+approvals from the CTRC further affected the progress of implementation. However, the project team demonstrated
+
+flexibility in addressing these challenges by restructuring the project and fast-tracking procurement toward the latter
+
+stages of the project. Progress was further supported by extensive capacity-building initiatives which ensured that post
+
+restructuring, all beneficiary institutions were equipped with the necessary expertise to implement the project effectively.
+
+
+
+49.      COVID-19 response and adaptations. The project efficiently adapted to COVID-19 challenges by making
+
+operational adjustments to maintain continuity. While the pandemic delayed capacity-building activities and procurement
+
+of goods and services, the team realigned resources and timelines to minimize disruptions. It also supported financial
+
+institutions in adopting digital platforms, enabling continued services, and increasing sector resilience. Despite challenges
+
+posed by procurement delays and the COVID-19 pandemic, the project successfully closed on schedule and achieved its
+
+goals within the original financial envelope, demonstrating strong operational and financial efficiency.
+
+Justification of Overall Efficiency Rating
+
+
+
+Rating: Substantial
+
+
+
+50.     The overall efficiency of the project is rated as Substantial. This is due to its effective resource utilization, which
+
+achieved significant progress in financial inclusion and operational efficiency despite challenges. Importantly,
+
+expenditures on underperforming components that did not achieve results, particularly those related to the financial
+
+sector soundness objective, were minimal. Instead, resources were effectively redirected to priority areas, ensuring the
+
+achievement of financial inclusion goals and operational improvements in financial institutions. Flexibility in addressing
+
+delays and strong support from the World Bank further contributed to its success, demonstrating substantial efficiency in
+
+achieving its revised objectives.
+
+
+
+D. JUSTIFICATION OF OVERALL OUTCOME RATING
+
+
+
+51.     The overall outcome rating evaluates the relevance of objectives, efficacy, and efficiency using a six-point scale
+
+ranging from ‘Highly Satisfactory’ (no shortcomings, with a rating of 6) to ‘Highly Unsatisfactory’ (severe shortcomings
+
+
+
+
+
+                                                                                                                      Page 13
+
+         The World Bank
+
+         Ghana Financial Sector Development Project (P161787)                                                ICR DOCUMENT
+
+
+
+
+
+with a rating of 1). The overall outcome rating for the Ghana Financial Sector Development Project is Moderately
+
+Satisfactory, based on a weighted assessment of performance before and after restructuring. Before restructuring, the
+
+project faced challenges due to capacity constraints, COVID-19, and macro-financial challenges and DDEP, all of which
+
+limited progress. However, the restructuring enhanced the project’s focus and impact, leading to significant achievements
+
+in financial inclusion. The groundwork laid during this period, such as foundational IT upgrades, procurement of core
+
+banking systems, and the design of the VSLA link program, was critical to enabling post-restructuring achievements.
+
+
+
+52.      Post restructuring, the project demonstrated significant progress in financial inclusion. Key targets, such as
+
+deposit accounts, women-owned accounts, VSLA links, and e-banking customer enrollments on the e-banking platform,
+
+were exceeded. Additionally, IT system upgrades improved operational efficiency across rural banks, enhancing customer
+
+satisfaction and digital financial services. Although some activities, such as operationalizing agent banking and complaints
+
+handling systems, were not fully completed within the project time frame, the project effectively redirected resources to
+
+high-impact areas, achieving strong outcomes within the original financial envelope. Further, the project achieved its goals
+
+within cost, managed delays, and adapted to external shocks such as COVID-19. Its relevance was also demonstrated
+
+through the strategic alignment of objectives with Ghana's financial sector needs. While modest pre-restructuring
+
+performance reflects the challenges of the initial stage, the substantial achievements post restructuring highlight the
+
+project's effectiveness in improving financial inclusion and operational capacity.
+
+
+
+                       Table 3. Overall Project Development Outcome Rating and its Components
+
+                                                               Original Objectives and        Revised Objectives and/or
+
+                                                                   Targets without            Targets with Restructuring
+
+                                                                    Restructuring
+
+ Relevance of PDO                                                                        High
+
+ Efficacy Assessment                                                    Modest                           High
+
+ Efficiency Assessment                                                              Substantial
+
+ 1 Outcome ratings                                            Moderately Unsatisfactory            Satisfactory
+
+ 2 Numerical value of the outcome ratings                                 3                              5
+
+ 3 Disbursement                                                  US$16.67 million                 US$8.6 million
+
+ 4 Share of disbursement                                           65.96% (0.66)                  34.04% (0.34)
+
+ 5 Weighted value of outcome rating (Row 2 × Row 4)                     1.98                           1.70
+
+                                                                             Moderately Satisfactory
+
+  6   Outcome rating
+
+                                                                              1.98 + 1.70 = 3.68 ≈ 4
+
+
+
+
+
+E. OTHER OUTCOMES AND IMPACTS (IF ANY)
+
+
+
+53.     Gender. The project prioritized gender inclusion, significantly expanding women’s financial access. It exceeded
+
+targets by achieving 3.82 million accounts held by women in the RCB network against the target of 3.75 million. A total of
+
+57,316 women from VSLAs, exceeding the target by 187 percent, were linked to formal financial institutions, empowering
+
+them to grow their businesses and enhancing security of their savings. Additionally, women represented 45 percent of
+
+participants in capacity-building initiatives.
+
+
+
+54.    Institutional strengthening:
+
+(a) Significant institutional support was provided to the ARB Apex Bank and RCB, driving digital transformation and
+
+    operational efficiency. Upgrades to the T24 core banking system enabled RCBs to customize financial products
+
+    independently, while a shared digital banking platform integrated mobile, internet, and agency banking solutions.
+
+
+
+                                                                                                                    Page 14
+
+          The World Bank
+
+          Ghana Financial Sector Development Project (P161787)                                                   ICR DOCUMENT
+
+
+
+
+
+      Staff training enhanced RCBs’ ability to manage digital systems and onboard agents. Visits to Kenya and the
+
+      Philippines provided ARB Apex Bank and RCBs with insights into successful agency banking models and interoperable
+
+      platforms, aligning with planned interventions.
+
+(b)   The project strengthened VSLAs by linking them to formal financial institutions and enhancing their financial
+
+      capacity. These efforts exceeded targets, enabling members to save in the formal banking system, access larger
+
+      loans, and improve financial literacy. Women, as a key focus, exceeded participation targets, gaining financial
+
+      autonomy to invest in income-generating activities.
+
+(c)   CUA benefited from the development of a new regulatory framework and staff training. A total of 472 staff and
+
+      stakeholders, over half of whom were women, received training on topics such as risk management, governance,
+
+      financial literacy, and the regulatory framework for credit union operations. A resident adviser supported the
+
+      upgrade of an offsite supervisory software, including clarifying requirements, creating user stories, and assisting in
+
+      system testing. New policies and rules were proposed to strengthen credit union prudential regime as well as their
+
+      governance and risk management. A Supervisory Technical Oversight Policy was developed to reinforce CUA's role
+
+      as a supervisory authority while clearly separating its regulatory functions from its advocacy activities. CUA also
+
+      received essential IT infrastructure, including computers and vehicles, to enhance its regulatory and oversight
+
+      functions.
+
+(d)   BoG strengthened its resolution functions and market conduct supervision capacity through training and exposure
+
+      to best practices via study visits. Ten (10) of BoG’s Resolution Office staff were trained on how to manage and resolve
+
+      distressed financial institutions effectively. Visits were organized for BoG’s staff to learn from institutions like the US
+
+      Federal Deposit Insurance Corporation and the Deposit Insurance Corporation of Nigeria. These visits provided
+
+      hands-on exposure to global best practices in managing financial sector resolution. BoG’s Market Conduct
+
+      Supervision Unit received support to review the legislative and regulatory framework for market conduct, as well as
+
+      its new risk-based supervision framework. Recommendations were made to enhance both frameworks. Staff capacity
+
+      was bolstered through a visit to the Bank of Italy and virtual workshops with the Bank of Ireland and the UK's Financial
+
+      Conduct Authority.
+
+(e)   The SEC was strengthened through three key initiatives: investor education, complaints handling systems design,
+
+      and capacity development. It launched investor education programs reaching approximately 5 million people to
+
+      clarify regulatory roles and address financial literacy gaps. While the SEC made progress in developing a streamlined
+
+      complaints handling system, including drafting technical requirements and procurement processes, the remaining
+
+      project time frame did not allow for full implementation of the system. Additionally, staff capacity was bolstered
+
+      through targeted training, enabling better drafting of TORs and management of procurements.
+
+(f)   The NIC was strengthened through upgrades to its operational capacity and staff expertise. The NIC benefited from
+
+      a new risk-based market conduct supervision framework developed under the project. NIC staff participated in study
+
+      visits and training on global best practices in market conduct supervision, enhancing their capacity to strengthen the
+
+      insurance sector. With the project’s support, the NIC began developing a complaint handling system. However,
+
+      implementation could not continue due to delays in developing system requirements.
+
+(g)   The MoF was supported to lead the FinScope survey, enhance data collection for financial inclusion, and host
+
+      financial education campaigns. The MoF’s staff were trained to produce financial sector reports and conducting the
+
+      FinScope survey, which provided critical data for evidence-based policy making. The project built the MoF’s capacity
+
+      to design and deliver financial education campaigns. A financial inclusion database was developed but was not
+
+      launched due to delays in acquiring SSL certificates.
+
+55.    Mobilizing private sector financing. Linking VSLAs to formal financial institutions facilitated the mobilization of
+
+about GHS 5.7 million in deposits and enabled extension of loans to underserved populations, boosting private sector
+
+
+
+
+
+                                                                                                                        Page 15
+
+         The World Bank
+
+         Ghana Financial Sector Development Project (P161787)                                                ICR DOCUMENT
+
+
+
+
+
+activity. The upgrades to the core banking system allowed RCBs to offer tailored financial products—savings accounts,
+
+loan packages, and digital payment solutions, meeting the needs of small businesses, farmers, and rural households.
+
+Mobile and internet banking expanded service access in rural areas, attracting previously unbanked customers. Beyond
+
+the 5,000 smart POS devices funded by the project and deployed to agents, RCBs also scaled efforts by self-funding
+
+additional 688 POS devices for deposit mobilization and service delivery.
+
+
+
+56.     Other unintended outcomes and impacts. The project generated several unintended outcomes, both beneficial
+
+and challenging.
+
+Positive Outcomes
+
+
+
+57.     Enhanced capacity on procurement practices. Beneficiaries benefited from enhanced capacity to develop TORs
+
+and procuring goods and services following international best practices, which will extend beyond the project.
+
+58.     Increased awareness and demand for financial services. Financial literacy and education campaigns significantly
+
+boosted the demand for financial services, particularly among underserved populations. These efforts are expected to
+
+continue to expand access and trust in financial services in rural areas, where such services are limited or mistrusted. The
+
+project also inspired increased interest from new VSLA groups, which recognized the benefits of formal financial links and
+
+requested to be included in the project.
+
+
+
+59.     Enhanced use of data for policy decisions. The formalization of VSLAs under the project created a database that
+
+could be leveraged by policy makers and independent organizations for developmental planning and research.
+
+
+
+
+
+Negative Outcomes
+
+
+
+60.      Cancellation of the implementation of the core banking system for credit unions. The development and
+
+implementation of a shared core banking system for credit unions was halted because of delayed completion of technical
+
+specifications and detailed feasibility study, including data hosting arrangements and definition of an affordable pricing
+
+model for credit unions. The need for detailed scoping and design of the core banking application was anticipated during
+
+project design and resources were duly allocated in the PPA. The failure to implement the core banking application created
+
+unmet expectations among credit unions as they had anticipated a more comprehensive platform as an alternative to the
+
+existing platform (CUSoft), which has a myriad of problems. This allegedly resulted in CUA losing over 50 credit union
+
+clients to competing providers of core banking applications, which affected CUA’s reputation.
+
+
+
+ II. KEY FACTORS AFFECTING IMPLEMENTATION AND OUTCOME
+
+
+
+A. KEY FACTORS DURING PREPARATION
+
+
+
+61.      The project preparation benefited from a comprehensive understanding of Ghana's financial sector challenges.
+
+Lessons from prior financial sector initiatives in Ghana and similar contexts were incorporated into the design. A thorough
+
+risk assessment informed mitigation strategies on institutional capacity, financial literacy, and the regulatory framework.
+
+The Government of Ghana showed strong commitment, aligning project objectives with national financial sector goals.
+
+Extensive consultations with stakeholders ensured the project’s responsiveness to local needs and alignment with national
+
+priorities. At the time of project design, there was an IMF program in place which helped push for key financial sector
+
+reforms (including the financial sector cleanup), complemented by World Bank TA on financial stability and inclusion.
+
+However, between 2019 and 2022, there was no IMF program or World Bank Development Policy Operations supporting
+
+financial sector reforms. These programs typically incentivize governments to implement reforms that can accelerate
+
+
+
+
+
+                                                                                                                    Page 16
+
+         The World Bank
+
+         Ghana Financial Sector Development Project (P161787)                                                ICR DOCUMENT
+
+
+
+
+
+project implementation and could have been leveraged to encourage regulatory and supervisory reforms in areas
+
+supported by this project.
+
+
+
+62.     Ambitious project design. The initial project scope was too broad and misaligned with the technical capacity of
+
+implementing agencies, resulting in delayed or dropped activities. The MoF was entrusted with coordinating various
+
+beneficiaries, most with limited capacity to draft TORs and technical specifications for system deployment, managing
+
+procurement, and implementing complex IT solutions, which led to delays. This was compounded by limited management
+
+oversight of activities within the beneficiary institutions, inadequate supervision and monitoring by the MoF, and irregular
+
+Steering Committee meetings to provide guidance. The World Bank team’s assistance to draft TORs and external
+
+consultants were often required, further extending timelines.
+
+
+
+B. KEY FACTORS DURING IMPLEMENTATION
+
+
+
+Positive Enabling Factors
+
+
+
+63.     Institutional commitment. Institutions such as ARB Apex Bank showed strong ownership of the reforms, actively
+
+leading implementation and engaging in capacity-building initiatives. This commitment enabled the successful
+
+implementation of interventions such as upgrading of ARB’s core banking system back-end IT infrastructure, developing
+
+the agency banking model, and deploying the e-banking application. Similarly, the MoF demonstrated strong commitment
+
+and leadership in the implementation of the VSLA link initiative, which ensured the initiative had meaningful impacts on
+
+financial inclusion and access to financial services for underserved communities.
+
+
+
+64.     Adaptive restructuring. Restructuring toward the end of the project refocused activities on achievable goals and
+
+reallocating resources to areas with higher potential for impact, such as IT upgrades and digital banking platforms. By
+
+narrowing the scope, reallocating resources, and adjusting targets, the project avoided spreading resources too thin and
+
+ensured significant progress in key areas such as deposit account expansion, VSLA links, financial education, and RCB
+
+system upgrades.
+
+
+
+Challenges and Key Constraints
+
+
+
+65.     Delayed project effectiveness. Project effectiveness was delayed by nine months for several reasons, and this
+
+affected its overall timeline and the implementation of key activities. The initial recruitment of key personnel for the PIU
+
+faced significant delays due to lengthy administrative procedures and challenges in identifying qualified candidates.
+
+Without the necessary staff in place, early project activities, such as planning, procurement, and stakeholder engagement,
+
+were delayed, creating a bottleneck for implementation.
+
+
+
+66.     Limited project leadership and weak oversight by the MoF. While the MoF was responsible for overall project
+
+coordination, the project faced competing priorities, including the implementation of the DDEP. This diversion of attention
+
+contributed to delays in decision-making and slowed down the project’s progress. Stronger oversight at both the project
+
+and beneficiary levels would have helped mitigate these delays. The project’s Steering Committee did not meet regularly,
+
+which hindered its ability to provide continuous and active oversight.
+
+
+
+67.     The MoF was entrusted with coordinating various beneficiaries, most with limited capacity to draft TORs and
+
+technical specifications for system deployment, managing procurement, and implementing complex IT solutions, which
+
+led to delays. This was compounded by limited management oversight of activities within the beneficiary institutions and
+
+
+
+
+
+
+
+                                                                                                                    Page 17
+
+         The World Bank
+
+         Ghana Financial Sector Development Project (P161787)                                              ICR DOCUMENT
+
+
+
+
+
+inadequate supervision and monitoring by the MoF. The World Bank team’s assistance to draft TORs and e xternal
+
+consultants were often required, further extending timelines.
+
+
+
+68.    COVID-19 pandemic. The pandemic disrupted various project activities, notably procurement of IT infrastructure
+
+and service providers, in-person workshops, and field visits, forcing the project to extend timelines and adapt its
+
+implementation strategies.
+
+
+
+69.      Delays in securing regulatory approvals for the e-banking solution. ARB Apex Bank experienced substantial
+
+delays in securing an operational e-banking license and permission to onboard agents from BoG, postponing the full rollout
+
+of digital financial services and bank agents beyond project closure.
+
+
+
+ III. BANK PERFORMANCE, COMPLIANCE ISSUES, AND RISK TO DEVELOPMENT OUTCOME
+
+
+
+A. QUALITY OF MONITORING AND EVALUATION (M&E)
+
+
+
+70.     The M&E framework of the project demonstrated several strengths at both the design and implementation
+
+stages, contributing to its ability to track progress and guide decision-making. The framework had a clear focus on
+
+financial inclusion outcomes, incorporation of gender-disaggregated metrics, use of beneficiary feedback mechanisms,
+
+and adaptability during implementation. However, the framework suffered from overly ambitious targets and gaps in
+
+systemic indicators, among others.
+
+M&E Design
+
+
+
+71.     Focus on measurable outcomes. The framework included clear, measurable indicators, such as the number of
+
+deposit accounts in the RCB network, e-banking customer enrollment, and financial literacy outreach. These were aligned
+
+with the objectives of expanding financial inclusion and institutional strengthening, with VSLAs targets emphasizing
+
+project’s benefits to underserved groups.
+
+
+
+72.     Target setting. Some initial targets were highly ambitious. For example, 250,000 enrollments in ARB Apex Bank’s
+
+e-banking platform were high given the baseline of 5,000 users and the complexity of procuring and implementing new
+
+technology. Given the complex, phased nature of the project—particularly in its early stages when the focus was on
+
+upgrading IT infrastructure and establishing the foundations for both financial inclusion and sector soundness —the
+
+measurement of progress against the PDOs should have accounted for intermediate milestones as key indicators of
+
+success. The M&E design should have better captured these incremental achievements, such as the installation of backend
+
+systems or data center infrastructure. This approach would ensure that stakeholders can observe tangible progress before
+
+outcome indicators are achieved. Additionally, such intermediate indicators would help avoid perceptions of stagnation,
+
+particularly in cases where final PDO indicators—such as transaction volumes or number of e-banking accounts—can only
+
+be measured after the requisite IT systems have been procured, configured, and are fully operational. Finally, the project
+
+design should have considered installation of the e-banking platform as an outcome or PDO indicator, even if transactions
+
+are not yet flowing, particularly within the typical five-year project implementation time frame.
+
+
+
+73.      Early interventions aimed at improving regulatory and supervisory oversight in the financial sector often led to
+
+an initial increase in the number of financial institutions reporting noncompliance with regulatory ratios. This was an
+
+expected outcome given the legacy solvency issues in Ghana’s financial system and the challenges posed by the COVID-
+
+19 pandemic. These results, while counterintuitive in the short term, reflect the nature of enhanced regulatory scrutiny,
+
+which often uncovers weaknesses and leads to higher reporting of noncompliance before improvements can be realized.
+
+This should have been considered during M&E design.
+
+
+
+
+
+                                                                                                                  Page 18
+
+         The World Bank
+
+         Ghana Financial Sector Development Project (P161787)                                               ICR DOCUMENT
+
+
+
+
+
+
+
+74.     Gender focus. The inclusion of gender-disaggregated indicators, such as the number of deposit accounts owned
+
+by women and the proportion of women-linked VSLAs, ensured that the project explicitly addressed gender equality in
+
+financial inclusion.
+
+
+
+75.     Integration of surveys and feedback mechanism. The system incorporated periodic beneficiary satisfaction
+
+surveys to assess the effectiveness of project interventions, particularly those aimed at expanding access to financial
+
+services for underserved groups. This was a strength, as it allowed the project to gather feedback from stakeholders and
+
+adapt interventions based on the insights collected.
+
+M&E Implementation
+
+
+
+76.     The project’s M&E design was carefully structured to ensure effective oversight and alignment with World Bank
+
+standards. The project implemented a robust M&E system integrated within the institutional frameworks of the MoF and
+
+key agencies such as the ARB Apex Bank and CUA. A dedicated team oversaw data aggregation, activity monitoring, and
+
+systematic reporting, supported by appropriate staffing, training, and tools. Anchored in a Results Framework, the system
+
+tracked PDO and intermediate indicators, with baselines and targets set early and updated collaboratively. It monitored
+
+financial inclusion, capacity building, and institutional strengthening, using beneficiary surveys to assess interventions.
+
+Mechanisms ensured compliance with environmental and social safeguards, and regular progress reviews guided project
+
+adjustments, enhancing its impact and sustainability in Ghana.
+
+M&E Utilization
+
+
+
+77.      The project’s M&E system was crucial for decision-making and maintaining progress toward objectives.
+
+Quarterly monitoring reports and beneficiary surveys provided insights into project progress, allowing for timely
+
+adjustments of interventions, optimization of financial literacy campaigns, and tailoring of services to beneficiary needs.
+
+Beneficiaries’ feedback and evaluations of initiatives facilitated monitoring of progress toward the PDO and intermediate
+
+goals, informed the MTR, and guided evidence-based restructuring. This integration of M&E data into decision-making
+
+strengthened the project’s effectiveness, transparency, and accountability.
+
+Rating: Substantial
+
+
+
+78.     Justification of overall rating of quality of M&E. The project’s M&E quality is rated Substantial. The M&E
+
+framework was well-designed and integral to guiding decision-making and tracking project progress. It demonstrated
+
+adaptability and was instrumental in informing restructuring and intervention adjustments. However, as noted, some of
+
+the target could have less ambitious considering the complexity of procuring and implementing IT systems and the need
+
+for regulatory approvals.
+
+
+
+B. ENVIRONMENTAL, SOCIAL, AND FIDUCIARY COMPLIANCE
+
+
+
+79.      Environmental safeguard compliance. The project was classified as an Environmental Assessment (EA) Category
+
+C with a low-risk rating. It was designed to focus primarily on TA to strengthen Ghana’s regulatory framework for financial
+
+stability and inclusion. Consequently, no environmental safeguard policies were triggered, and no environmental
+
+instruments were prepared at either the design or implementation stages. Although e-waste management concerns arose
+
+during the procurement and technology upgrades under Component 2, ARB Apex Bank (the beneficiary institution)
+
+addressed these by engaging professional e-waste disposal contractors. The ARB Apex Bank waste management policy
+
+was also reviewed to further enhance e-waste management practices.
+
+
+
+80.      Social safeguard compliance. The project was assessed as low risk for social safeguards, with no social safeguard
+
+policies triggered due to the absence of physical works, eliminating the risk of resettlement or livelihood displacement.
+
+
+
+                                                                                                                   Page 19
+
+         The World Bank
+
+         Ghana Financial Sector Development Project (P161787)                                                 ICR DOCUMENT
+
+
+
+
+
+However, during the MTR and subsequent missions, opportunities to strengthen social inclusion and risk management
+
+were identified. Key recommendations included (a) targeting vulnerable groups, particularly women and persons with
+
+disabilities, in initiatives such as the VSLA link program and financial education campaigns and (b) establishing a grievance
+
+redress mechanism (GRM) to provide accessible reporting channels, especially for those with limited literacy or mobility
+
+and allow anonymous reporting.
+
+
+
+
+
+81.     Grievance Redress Services (GRS). The GRS for the project was designed to efficiently handle concerns and
+
+complaints from beneficiaries, ensuring they were addressed in line with national grievance procedures. Managed by the
+
+MoF and the PIU, the GRM allowed for timely resolution of issues, particularly those related to delays in loan
+
+disbursement, access to financial products, and requests for extended grace periods. Informal concerns were frequently
+
+raised during regional consultations, especially regarding the inclusion of vulnerable groups such as women-led
+
+households. According to the project supervision documents and reports, these issues were addressed through TA and
+
+improved communication efforts. These documents also emphasized that by the project’s conclusion, no formal
+
+grievances remained unresolved, reflecting the effectiveness of the GRM in maintaining stakeholder trust and ensuring
+
+smooth project execution. The system was crucial in fostering transparency, inclusivity, and stakeholder confidence,
+
+contributing to the overall success of the FSDP.
+
+
+
+Fiduciary Compliance
+
+
+
+Financial Management (FM)
+
+
+
+82.      The FM arrangements under the project were designed to ensure proper oversight of project funds and
+
+adherence to the World Bank's FM policies. The MoF and the PIU were responsible for maintaining robust FM systems,
+
+which included accurate financial reporting, timely submission of audited financial statements, and effective internal
+
+controls. Throughout the project, FM performance was generally rated as Satisfactory, reflecting sound management of
+
+project resources. Quarterly financial reports were regularly submitted to the World Bank, demonstrating the project’s
+
+ability to meet financial reporting standards. These reports showed that funds were disbursed efficiently, though some
+
+delays in fund flow to subprojects were noted during implementation, which the project team addressed through
+
+strengthened monitoring and supervision mechanisms. During implementation, the project adjusted FM procedures to
+
+address emerging challenges, such as delays in disbursement to beneficiary institutions, particularly after the MTR. The
+
+project team took corrective measures, including enhanced capacity-building activities for implementing agencies and
+
+rural banks to improve their FM skills. This helped streamline the disbursement process, ensuring that funds reached the
+
+intended beneficiaries on time. Additionally, the project complied with all external audit requirements, with clean audit
+
+opinions received in successive audit cycles, reflecting a strong internal control environment and adherence to fiduciary
+
+standards. As noted in the Implementation Status and Results Reports (ISRs), the project successfully implemented risk
+
+mitigation measures, reducing the likelihood of misuse of funds and ensuring transparency in financial transactions.
+
+
+
+83.      In conclusion, the project’s FM arrangements were effective in maintaining fiduciary compliance throughout
+
+the project. While some delays and challenges in disbursement were encountered, the project team’s proactive measures
+
+and adherence to World Bank FM guidelines ensured that the project maintained sound financial oversight, contributing
+
+to its overall success.
+
+
+
+Procurement
+
+
+
+
+
+
+
+
+
+                                                                                                                     Page 20
+
+         The World Bank
+
+         Ghana Financial Sector Development Project (P161787)                                              ICR DOCUMENT
+
+
+
+
+
+84.     The PIU within the MoF was responsible for carrying out procurement under the project. The FSD was appraised
+
+and procurements implemented in accordance with the World Bank’s Procurement Regulations for IPF Borrowers
+
+(Procurement Regulations) dated July 1, 2016, as well as subsequent revisions; the Guidelines on Preventing and
+
+Combating Fraud and Corruption in Projects Financed by IBRD Loans and IDA Credits and Grants, dated October 15, 2006,
+
+and revised in January 2011 and as of July 1, 2016; and other provisions stipulated in the Financing Agreements.
+
+
+
+85.     An assessment during appraisal revealed procurement risks concerning (a) limited capacity, knowledge, and
+
+experience in the application of the World Bank’s Procurement Regulations; (b) delays in procurement processing that is
+
+planning, preparation of TOR/technical specifications, bidding, and contract signing; and (c) weak contract management.
+
+The project thus instituted mitigation measures such as hiring a procurement specialist, targeted training and capacity
+
+building, development of guidance tools such the Project Procurement Strategy for Development (PPSD) as well as hands-
+
+on support by the World Bank staff.
+
+
+
+86.     A Procurement Plan was developed during project preparation and regularly updated through Systematic
+
+Tracking of Exchanges in Procurement (STEP), and all implemented procurement activities were cleared on STEP.
+
+However, the project, during implementation, experienced repeated shortcomings concerning the delay in drafting of
+
+TORs and technical specifications by beneficiary institutions, processing of payment requests, and uploading of documents
+
+on STEP, leading to persistent red flags on STEP. The procurement risk at project closing was thus Substantial with a
+
+performance rating of Moderately Satisfactory.
+
+
+
+C. BANK PERFORMANCE
+
+
+
+87.       Quality at entry. During project preparation, the World Bank assembled a diverse team of specialists to identify
+
+critical challenges in the sector. The project design incorporated innovative approaches, such as linking VSLAs to formal
+
+financial institutions and enhancing digital banking platforms, which were well-suited to addressing Ghana’s financial
+
+inclusion goals. The team also held extensive consultations with the MoF, BoG, local financial institutions, MFIs, and
+
+targeted beneficiaries to ensure project alignment with realities on the ground.
+
+
+
+88.      However, the preparation phase also faced notable shortcomings. While the team conducted in-depth
+
+assessments, some project components, such as the implementation of core banking systems for credit unions were not
+
+fully scoped for technical feasibility or resource needs. Additionally, while stakeholder engagement was comprehensive,
+
+the project’s ambitious scope outpaced institutional capacities. These gaps underscore the importance of focused scoping
+
+and contingency planning. Despite these challenges, the World Bank made mid-course corrections, which ensured
+
+meaningful progress within the project’s revised scope.
+
+
+
+89.     Quality of supervision. The World Bank’s supervision during implementation was proactive and adaptive and
+
+consistently supportive of the PIU and implementing agencies. The World Bank’s technical and fiduciary teams provided
+
+substantial guidance, including capacity-building initiatives and procurement advice. The project team conducted regular
+
+supervision missions and regular check-ins with the PIA and beneficiaries, helping address emerging challenges. At least
+
+10 physical supervision missions were conducted in Ghana, complemented by virtual discussions, supervision meetings,
+
+and missions, particularly during the COVID-19 pandemic. Notably, the entirety of 2020 saw no physical supervision visits
+
+due to pandemic-related restrictions. During this period, the project adapted well by leveraging virtual platforms to
+
+maintain consistent engagement with the PIU, implementing agencies, and beneficiaries. These virtual measures allowed
+
+the team to provide timely support, monitor progress, and address emerging issues, ensuring continuity despite global
+
+disruptions.
+
+
+
+
+
+
+
+                                                                                                                  Page 21
+
+          The World Bank
+
+          Ghana Financial Sector Development Project (P161787)                                                    ICR DOCUMENT
+
+
+
+
+
+90.      A key factor contributing to the project's success was the consistency of the project team. Throughout
+
+implementation, the World Bank's Task Team Leaders and critical team members remained largely unchanged, except for
+
+a single change in the Procurement Specialist, which did not negatively affect project execution. This stable partnership
+
+with the World Bank ensured timely guidance, avoided delays in decision-making, and supported smooth project
+
+implementation.
+
+
+
+91.     The World Bank’s adaptive approach extended to project restructuring, which effectively narrowed the scope to
+
+achievable outcomes. This flexibility was pivotal in achieving significant progress toward objectives. Regular check-ins with
+
+the PIU and beneficiaries further facilitated the resolution of challenges and alignment with stakeholder needs. Despite
+
+these efforts, supervision faced challenges in addressing delays and systemic issues, including procurement bottlenecks
+
+and protracted regulatory approvals. The complaints handling systems for the regulators were delayed, and
+
+macroeconomic instability and institutional capacity constraints limited the broader impact of reforms. Nonetheless, the
+
+proactive and adaptive supervision measures employed by the World Bank team contributed to substantial progress and
+
+demonstrated resilience in the face of external and internal challenges.
+
+
+
+Justification of Overall Rating of Bank Performance
+
+
+
+Rating: Moderately Satisfactory
+
+
+
+92.      The World Bank’s performance is rated Moderately Satisfactory. The rating reflects the World Bank’s
+
+commendable efforts under challenging circumstances, strength in innovation, stakeholder engagement, and adaptive
+
+supervision despite some weaknesses in preparation (for example, broader project scope) and resource scoping.
+
+Significant external challenges such as macroeconomic instability and incomplete cleanup of the SDI sector hindered the
+
+project's ability to meet all initial key objectives, but adjustments made delivered positive outcomes on access to financial
+
+services.
+
+
+
+D. RISK TO DEVELOPMENT OUTCOME
+
+
+
+93.      The risk to the project’s development outcome remains substantial. Despite progress in expanding financial
+
+access and strengthening rural financial institutions, macroeconomic instability—inflation and currency depreciation—
+
+poses risks to the sustainability of reforms. The sustainability of the project’s interventions is contingent on strong
+
+institutional capacity, continued financial and regulatory support, and ongoing investment in infrastructure and training.
+
+The MoF, BoG, CUA, and other stakeholders would need to continue the momentum generated by the project, including
+
+strengthening institutional capacity to oversee and manage the interventions effectively.
+
+94.      Financial inclusion infrastructure. The project focused heavily on expanding digital financial services and
+
+supporting agent banking networks as means of increasing financial inclusion. These interventions, such as the upgrading
+
+of ARB Apex Bank's IT systems and the deployment of agent banking, have strong potential for sustainability, especially
+
+given their scalability. The sustainability risk of the project’s digital financial services and agent banking network initiatives
+
+is mitigated by ARB Apex Bank’s technical capacity and ongoing commitment to these interventions. Despite the project’s
+
+closure, ARB Apex Bank successfully rolled out the agent banking network and continued expanding its reach by procuring
+
+an additional 688 POS devices beyond the 5,000 project-funded devices. The bank’s core banking system plays a crucial
+
+role in enabling susu deposit mobilizers to use POS devices, reducing manual errors and fraud through real-time
+
+transaction uploads and instant text confirmations. Furthermore, RCBs, now equipped with upgraded systems, can
+
+customize financial products to meet the specific needs of their customers, marking a shift from the earlier reliance on
+
+standardized offerings from ARB Apex Bank. All these benefits are expected to continue and expand post project closure.
+
+
+
+
+
+
+
+                                                                                                                         Page 22
+
+         The World Bank
+
+         Ghana Financial Sector Development Project (P161787)                                                 ICR DOCUMENT
+
+
+
+
+
+95.     A key element in ensuring the long-term sustainability of these infrastructure improvements is the fee model
+
+adopted by the ARB Apex Bank. RCBs have always paid a subscription fees to utilize shared core banking systems, which
+
+ensures that the infrastructure remains financially supported even after the project’s closure. This model reflects best
+
+practices in ensuring the financial sustainability of technology platforms, as it creates a steady revenue stream for the
+
+ongoing maintenance and upgrading of digital services. The subscription model also provides an incentive for RCBs to
+
+continue their engagement with the system, as they directly benefit from the enhanced capabilities. This fee-based model
+
+positions the infrastructure as a self-sustaining element of the ARB Apex Bank’s operations, further strengthening the
+
+foundation for long-term financial inclusion and scalable growth. Nevertheless, external financial support for major
+
+upgrade of the systems is likely to be needed. The Government addressed this need in the past.
+
+
+
+96.      Regulatory frameworks and supervisory capacity. The project invested in building the resolution and supervisory
+
+capacity of BoG and the CUA, respectively, which is expected to help maintain financial stability after the project closed.
+
+However, the effectiveness/sustainability of the capacity built would depend on reinforcement of knowledge and capacity,
+
+which requires institutional commitment by beneficiary institutions. The sustainability risk is partly mitigated by the World
+
+Bank continuing its TA to BoG through an active TA program funded by the Swiss State Secretariat for Economic Affairs
+
+under the Finance for Development Trust Fund, specifically focusing on enhancing crisis management and resolution
+
+capacity. Additionally, the recently approved Ghana Financial Sector Stability Project (P180719) will further strengthen
+
+this effort by providing continued resources and expertise to enhance financial sector resilience and improve crisis
+
+management mechanisms.
+
+
+
+97.     Complaints handling system and the DCRA. Initiatives, such as the complaints handling systems and the
+
+operationalization of the DCRA, were deferred to subsequent projects, ensuring their continued development and
+
+eventual implementation. While these deferrals delayed their immediate benefits, they have been strategically aligned
+
+with future operations, ensuring the sustainability and long-term impact of the project’s outcomes. In particular, the
+
+licensing of the DCRA has paved the way for continued support under the GDFP (P169742). This ensures that the DCRA's
+
+operationalization and the broader benefits of the initiative will be fully realized in the future. The development of
+
+complaints handling systems will also be supported under the GDFP.
+
+
+
+ IV. LESSONS AND RECOMMENDATIONS
+
+
+
+98.      Tailoring project design to implementation capacity. Capacity-building projects, particularly supporting the
+
+implementation of IT infrastructure and solutions, are intrinsically complex and risky. Future projects must ensure that
+
+project scope and targets are both ambitious and achievable by conducting thorough assessments of baseline conditions
+
+and implementation capacity during preparation. For example, under this project, although the Government secured a
+
+US$2 million PPA for designing IT systems and developing technical specifications, low capacity within the PIA and
+
+beneficiary institutions prevented the effective use of the PPA to advance implementation readiness. This underscores
+
+the need for future projects to complete comprehensive assessment of beneficiaries’ capacity at preparation stage to
+
+inform tailored interventions. Future projects, particularly those involving large-scale IT investments, procurement, and
+
+institutional reforms, should also adopt more realistic timelines that align with the scope of activities and capacity
+
+constraints. For such projects, the standard five-year implementation period is often inadequate; extending timelines to
+
+six or seven years would provide the necessary time to address challenges and achieve sustainable outcomes.
+
+
+
+99.     Flexibility in project design: Flexibility in project design is crucial for adapting to changing circumstances and
+
+ensuring that critical outcomes remain a priority. In this project, the ability to restructure was instrumental in achieving
+
+progress despite significant challenges. Future projects should incorporate mechanisms for flexibility from the outset,
+
+enabling teams to respond effectively to unforeseen changes and risks.
+
+
+
+                                                                                                                     Page 23
+
+         The World Bank
+
+         Ghana Financial Sector Development Project (P161787)                                                  ICR DOCUMENT
+
+
+
+
+
+
+
+100.     The value of timely adjustments. Early identification of project limitations and swift restructuring decisions can
+
+significantly enhance project effectiveness. While this project benefitted from restructuring, earlier recognition of
+
+challenges and proactive adjustments could have further optimized outcomes. Future projects should prioritize robust
+
+diagnostic tools and continuous monitoring to enable early course corrections when needed.
+
+
+
+101.     Balancing financial stability and inclusion objectives. Future projects in the financial sector should carefully
+
+balance the dual objectives of financial stability and inclusion, particularly in contexts with sector vulnerabilities. While
+
+this project sought to integrate these goals seamlessly, it highlighted that trade-offs are often unavoidable. Projects should
+
+establish clear priorities and realistic expectations about the extent to which both objectives can be pursued
+
+simultaneously. Moreover, the MTR underscored that financial sector soundness is influenced by a wide range of systemic
+
+factors beyond the scope of any single project. Future initiatives should adopt a holistic approach, recognizing the
+
+limitations of stand-alone interventions and coordinating efforts with broader systemic reforms to enhance the likelihood
+
+of achieving sustainable financial stability and inclusion outcomes.
+
+
+
+
+
+
+
+
+
+                                                                                                                     Page 24
+
+              The World Bank
+
+              Ghana Financial Sector Development Project (P161787)                                                                                                            ICR DOCUMENT
+
+
+
+
+
+                                                                 ANNEX 1. RESULTS FRAMEWORK AND KEY OUTPUTS
+
+
+
+@#&OPS~Doctype~OPS^dynamics@icrresultframework#doctemplate
+
+ A. RESULTS FRAMEWORK
+
+
+
+
+
+PDO Indicators by Outcomes
+
+
+
+Increased access to financial services by individuals
+
+           Indicator Name                             Baseline                     Closing Period (Original)              Closing Period (Current)            Actual Achieved at Completion
+
+                                            Result         Month/Year              Result          Month/Year             Result           Month/Year            Result           Month/Year
+
+                                         7,200,000.00       May/2018            8,500,000.00         Jun/2024          8,500,000.00         Jun/2024          8,693,344.00         Jun/2024
+
+Number of deposit accounts within
+
+                                        Comments on achieving targets         End target achieved at 102%
+
+the RCB network (Number)
+
+
+
+                                         3,000,000.00       May/2018            3,750,000.00         Jun/2024          3,750,000.00         Jun/2024          3,818,050.00          Jun/2024
+
+       of which women: (Number)         Comments on achieving targets         End target achieved at 102%
+
+
+
+                                            0.00            Jun/2022             80,000.00           Jun/2024          80,000.00           Jun/2024         55,998.00            Jun/2024
+
+Number of customers enrolled in the
+
+                                        Comments on achieving targets         End target achieved at 70% by project closing date; achieved at 113% five months after project closing date.
+
+ARB’s e-banking platform (Number)
+
+
+
+
+
+
+
+Intermediate Indicators by Components
+
+
+
+
+
+Improving credit unions’ regulatory framework, BoG’s resolution capacity, and market transparency and discipline
+
+           Indicator Name                             Baseline                     Closing Period (Original)              Closing Period (Current)            Actual Achieved at Completion
+
+                                             Result              Month/Year        Result           Month/Year            Result           Month/Year             Result          Month/Year
+
+                                              0.00               May/2018          170.00            Jun/2024             170.00            Jun/2024             109.00             Jun/2024
+
+Number of credit unions reporting to    Comments on achieving targets         End target achieved at 65%. This shortfall is attributed to the timing of the project's closure which coincided
+
+CUA using the new supervision                                                 with the final delivery of the reporting application and the reporting period, leaving limited time for some credit
+
+application (Number)                                                          unions to complete their submissions. Additionally, the application was new to CUA members, and some took
+
+                                                                              longer than expected to familiarize themselves with the system.
+
+
+
+
+
+                                                                                                                                                                                           Page 25
+
+             The World Bank
+
+             Ghana Financial Sector Development Project (P161787)                                                                                                          ICR DOCUMENT
+
+
+
+
+
+                                           No CRA              May/2018     CRA operational        Jun/2024        CRA operational        Jun/2024       CRAG licensed but       Jun/2024
+
+                                                                                                                                                            not fully in
+
+                                                                                                                                                          operation, key
+
+                                                                                                                                                        operational policies
+
+Credit rating agency (CRA) licensed                                                                                                                     developed" but not
+
+and operational (Text)                                                                                                                                      operational
+
+                                       Comments on achieving targets        Partially achieved. CRA licensed but not fully operational. Phase 1 of operationalization completed - rating
+
+                                                                            methodologies and key operational policies developed. Phase 2 involving final operationalization (technical
+
+                                                                            assistance by a reputable partner) will continue under existing project.
+
+Bank of Ghana Resolutions Unit staff        0.00                Feb/2023          9.00             Jun/2024              9.00             Jun/2024             10.00             Jun/2024
+
+trained on strategic resolution        Comments on achieving targets        End target achieved at 111%
+
+planning and receivership monitoring
+
+(Number)
+
+New regulatory framework for credit          No                 Feb/2023          Yes              Jun/2024              Yes              Jun/2024              Yes              Jun/2024
+
+unions developed and under             Comments on achieving targets        End target achieved. New regulatory framework for credit unions developed and under implementation
+
+implementation (Yes/No)
+
+Increasing the Outreach of RCBs and MFIs and Linking VSLAs to the Formal Financial Sector
+
+           Indicator Name                           Baseline                     Closing Period (Original)              Closing Period (Current)           Actual Achieved at Completion
+
+                                           Result              Month/Year        Result           Month/Year            Result          Month/Year             Result          Month/Year
+
+                                            0.00               May/2018         5,000.00           Jun/2024            5,000.00           Jun/2024              0.00             Jun/2024
+
+Number of banking agents
+
+established (Number)                   Comments on achieving targets        End target achieved by 0% at project closing date. After obtaining regulatory regulator post project closing date,
+
+                                                                            1,880 were onboarded as of November 2024.
+
+Number of ARB Apex Bank staff               0.00               May/2018          80.00             Jun/2024             80.00             Jun/2024             59.00             Jun/2024
+
+trained on all upgraded systems        Comments on achieving targets        End target achieved at 74%.
+
+(Number)
+
+Number of RCB’s staff trained by ARB        0.00               May/2018         5,500.00           Jun/2024            5,500.00           Jun/2024           6,079.00            Jun/2024
+
+Apex Bank IT staff on all upgraded     Comments on achieving targets        End target achieved by 105%.
+
+systems (Number)
+
+Number of VSLA members linked to            0.00               May/2018        42,000.00           Jun/2024           42,000.00           Jun/2024           72,632.00           Jun/2024
+
+formal financial service providers     Comments on achieving targets        End target achieved by 173%.
+
+(Number)
+
+       of which women (Number)              0.00                Feb/2023       20,000.00           Jun/2024           20,000.00           Jun/2024           57,316.00           Jun/2024
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                                        Page 26
+
+             The World Bank
+
+             Ghana Financial Sector Development Project (P161787)                                                                                                           ICR DOCUMENT
+
+
+
+
+
+                                      Comments on achieving targets          End target achieved by 286%
+
+
+
+Bolstering Financial Capability and Consumer Protection
+
+           Indicator Name                           Baseline                      Closing Period (Original)             Closing Period (Current)           Actual Achieved at Completion
+
+                                           Result              Month/Year         Result           Month/Year           Result          Month/Year            Result           Month/Year
+
+Percentage of target population             0.00               May/2018           30.00             Jun/2024            30.00             Jun/2024              38              Jun/2024
+
+reached by the financial education    Comments on achieving targets          End target achieved b6 127%. Detailed reports completed on the number of adult population reached by
+
+campaigns (Percentage)                                                       different channels (townhalls, radio, TV, etc).
+
+                                       No applications         May/2018        Applications         Jun/2024        Applications          Jun/2024        No applications       Jun/2024
+
+Complaints handling technology                                              acquired/developed                   acquired/developed
+
+applications for BoG, NIC, and SEC                                            and operational                      and operational
+
+acquired/developed and operational
+
+(Text)                                Comments on achieving targets          End target not achieved. System requirement specification report developed but software development to be
+
+                                                                             considered as phase 2 under an existing project.
+
+Enhancing the Capacity for the Implementation and Monitoring of Financial Sector Policies and Supporting Project Implementation
+
+           Indicator Name                           Baseline                      Closing Period (Original)             Closing Period (Current)           Actual Achieved at Completion
+
+                                           Result              Month/Year         Result           Month/Year           Result          Month/Year            Result           Month/Year
+
+Total number of annual financial            0.00               May/2018            4.00             Jun/2024             4.00             Jun/2024             1.00             Jun/2024
+
+inclusion reports produced and        Comments on achieving targets          End target achieved at 25%.
+
+published by FSD staff (Number)
+
+                                        No database             Jun/2018    Database available      Jun/2024      Database available      Jun/2024         No database          Jun/2024
+
+Financial inclusion database
+
+                                                                                 online                                online
+
+developed and available online
+
+(Text)                                Comments on achieving targets          End target not achieved. The financial inclusion was developed by was not available online.
+
+
+
+                                         No survey             May/2018     Feedback addressed      Jun/2024     Feedback addressed       Jun/2024           3 Surveys          Jun/2024
+
+                                                                            and used to improve                  and used to improve                      completed and
+
+Feedback received from the                                                        project                              project                               feedbacks
+
+beneficiary satisfaction survey                                                interventions                        interventions                         incorporated in
+
+addressed and used to improve                                                                                                                              project design
+
+project interventions (Text)
+
+                                      Comments on achieving targets          End target fully achieved. Surveys were used to improve project interventions, particularly on the upgrade of
+
+                                                                             RCBs' core banking systems and linking of VSLAs to formal financial services providers.
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                                       Page 27
+
+       The World Bank
+
+       Ghana Financial Sector Development Project (P161787)                                                                          ICR DOCUMENT
+
+
+
+
+
+
+
+Increased access to financial services by individuals
+
+                                                                1. Number of deposit accounts within the RCB network
+
+PDO Indicators
+
+                                                                2. Number of customers enrolled in the ARB’s e-banking platform
+
+                                                                1. Increased number of deposit accounts within the RCB nextwork
+
+                                                                    •   Total of 8.69 million deposit accounts opened within the RCBs network,
+
+                                                                        approaching the target of 8.5 million accounts.
+
+Key Outputs                                                         • Total of 3.82 million accounts specifically opened for women, nearing the
+
+(linked to the achievement of the PDO Outcome)                          target of 3.75 million.
+
+                                                                 - Number of customers enrolleld in the e-banking platform financed by project
+
+                                                                   reached 55,998.00 by the project closing date and exceed the target of 80,000
+
+                                                                   five months after the project closing date
+
+
+
+
+
+
+
+Enhancing the Capacity for the Implementation and Monitoring of Financial Sector Policies and Supporting Project Implementation
+
+
+
+
+
+
+
+                                                                1. Total number of annual financial inclusion reports produced and published by
+
+                                                                FSD staff
+
+Intermediate Results Indicators                                 2. Financial inclusion database developed and available online
+
+                                                                3. Feedback received from the beneficiary satisfaction survey addressed and used
+
+                                                                to improve project interventions
+
+                                                                1. Financial inclusion report conceptualized and fne financial inclusion report was
+
+                                                                   produced and published by FSD staff.
+
+Key Outputs
+
+                                                                2. Financial inclusion demand side survey completed and disseminated
+
+(linked to the achievement of the Component)
+
+                                                                3. Financial inclusion database developed but not online.
+
+                                                                4. 3 Surveys completed and feedbacks incorporated in project design.
+
+Bolstering Financial Capability and Consumer Protection
+
+
+
+
+
+
+
+                                                                                                                                                Page 28
+
+      The World Bank
+
+      Ghana Financial Sector Development Project (P161787)                                                                           ICR DOCUMENT
+
+
+
+
+
+
+
+                                                                1. Percentage of target population reached by the financial education campaigns
+
+Intermediate Results Indicators                                 2. Complaints handling technology applications for BoG, NIC, and SEC
+
+                                                                acquired/developed and operational
+
+                                                                1. 38% of targeted population was reached by the financial education campaign.
+
+                                                                2. Financial education campaign designed and fully implemented using traditional
+
+                                                                   and non-traditional channels
+
+Key Outputs
+
+                                                                3. Complaints handling applications are neither developed nor operational, but
+
+(linked to the achievement of the Component)
+
+                                                                   technical specifications completed
+
+                                                                4. Market conduct supervision approaches for BoG and NIC developed and
+
+                                                                   implemented, and staff trained
+
+
+
+Increasing the Outreach of RCBs and MFIs and Linking VSLAs to the Formal Financial Sector
+
+                                                                1. Number of banking agents established
+
+                                                                2. Number of ARB Apex Bank staff trained on all upgraded systems
+
+Intermediate Results Indicators                                 3. Number of RCB’s staff trained by ARB Apex Bank IT staff on all upgraded
+
+                                                                   systems
+
+                                                                4. Number of VSLA members linked to formal financial service providers
+
+                                                                1. No banking agent established pending regulatory approval
+
+                                                                2. ARB’s core banking application and back-end IT infrastructure (servers,
+
+                                                                   firewalls, etc) deployed and improved data capacity, operational efficiency, and
+
+                                                                   customer satisfaction
+
+Key Outputs                                                     3. Agency banking and e-banking applications procured and deployed
+
+(linked to the achievement of the Component)                    4. POS devices procured and configured
+
+                                                                5. 59 ARB Apex Bank staff trained on all upgraded systems
+
+                                                                6. 6,079 RCB’s staff trained by ARB Apex Bank IT staff on all upgraded systems
+
+                                                                7. VSAL kinkage program developed and implemented
+
+                                                                8. 72,632 of VSLA members linked to formal financial service providers
+
+
+
+Improving credit unions’ regulatory framework, BoG’s resolution capacity, and market transparency and discipline
+
+
+
+                                                                                                                                                Page 29
+
+      The World Bank
+
+      Ghana Financial Sector Development Project (P161787)                                                                       ICR DOCUMENT
+
+
+
+
+
+
+
+                                                             1. Number of credit unions reporting to CUA using the new supervision
+
+                                                                application
+
+                                                             2. Credit rating agency (CRA) licensed and operational
+
+Intermediate Results Indicators                              3. Number of Bank of Ghana Resolution Unit staff trained on strategic resolution
+
+                                                                planning and receivership monitoring
+
+                                                             4. New regulatory framework for credit unions developed and under
+
+                                                                implementation
+
+                                                             1. Supervision application developed and used and 109 credit unions used it to
+
+                                                                report to CUA
+
+                                                             2. Credit rating agency (CRA) licensed but not operational
+
+Key Outputs                                                  3. 10 staff of Bank of Ghana Resolution Unit trained on strategic resolution
+
+(linked to the achievement of the Component)                    planning and receivership monitoring
+
+                                                             4. New regulatory framework for credit unions developed and under
+
+                                                                implementation
+
+                                                             5. 36 staff of CUA’s supervison staff trained
+
+
+
+
+
+
+
+
+
+                                                                                                                                              Page 30
+
+        The World Bank
+
+        Ghana Financial Sector Development Project (P161787)                                               ICR DOCUMENT
+
+
+
+
+
+
+
+                     ANNEX 2. BANK LENDING AND IMPLEMENTATION SUPPORT/SUPERVISION
+
+
+
+
+
+   A. TASK TEAM MEMBERS
+
+
+
+
+
+ Name                                                       Role
+
+ Carlos Leonardo Vicente                                    Team Leader
+
+ Uloaku Oyewole                                             Team Leader
+
+ Robert Wallace DeGraft-Hanson                              Financial Management Specialist
+
+ Buniyaminu Abdul Kadiri                                    Procurement Specialist
+
+ Charles John Aryee Ashong                                  Procurement Specialist
+
+ Muhammad Abbass Rahimi                                     Procurement Specialist
+
+ Patrick Kwadwo Ansah                                       Procurement Specialist
+
+ Kobina Otu Okyne                                           Environmental Specialist
+
+ Georgette Baaba Atakorah                                   Environmental Specialist
+
+ Justice Odoiquaye Odoi                                     Environmental Specialist
+
+ Nneka Okereke                                              Social Specialist
+
+ Lydia Sam                                                  Procurement Team
+
+ Tanangachi Ngwira                                          Team Member
+
+ Zuleiya Abisola Seidu Akinade                              Team Member
+
+ Swee Ee Ang                                                Team Member
+
+ Barbara Monica Wiafe                                       Team Member
+
+ Delia Buisi Dean                                           Team Member
+
+
+
+@#&OPS~Doctype~OPS^dynamics@icrannexstafftime#doctemplate
+
+   B. STAFF TIME & COST
+
+
+
+
+
+                                                                           Staff Time & Cost
+
+Stage of Project Cycle
+
+                                       No. of Staff Weeks                      US$ (including travel and consultant costs)
+
+
+
+Preparation
+
+FY17                                                               5.488                                       35,724.33
+
+
+
+FY18                                                               8.665                                       70,720.12
+
+
+
+
+
+                                                                                                                     Page 31
+
+        The World Bank
+
+        Ghana Financial Sector Development Project (P161787)            ICR DOCUMENT
+
+
+
+
+
+FY19                                                            6.050     47,038.77
+
+
+
+FY20                                                            0.425      2,339.88
+
+
+
+Total                                                           20.63    155,823.10
+
+
+
+Supervision/ICR
+
+FY19                                                           11.665     85,490.15
+
+
+
+FY20                                                           17.082    132,825.43
+
+
+
+FY21                                                           19.288    117,201.24
+
+
+
+FY22                                                           24.461    215,036.18
+
+
+
+FY23                                                           23.673    240,120.25
+
+
+
+FY24                                                           24.457    144,981.44
+
+
+
+FY25                                                            3.150     55,424.82
+
+
+
+Total                                                          123.78    991,079.51
+
+
+
+
+
+
+
+
+
+                                                                               Page 32
+
+        The World Bank
+
+        Ghana Financial Sector Development Project (P161787)                                    ICR DOCUMENT
+
+
+
+
+
+
+
+                                    ANNEX 3. PROJECT COST BY COMPONENT
+
+
+
+
+
+                                                                  Amount at Approval      Actual at Project
+
+                          Component
+
+                                                                    (US$, millions)    Closing (US$, millions)
+
+Improving credit unions’ regulatory framework, BoG’s resolution
+
+                                                                         5.8                    3.00
+
+capacity, and market transparency and discipline
+
+Increasing the Outreach of RCBs and MFIs and Linking VSLAs to
+
+                                                                         14.3                  14.09
+
+the Formal Financial Sector
+
+Bolstering Financial Capability and Consumer Protection                  3.4                    4.28
+
+Enhancing the Capacity for the Implementation and Monitoring
+
+of Financial Sector Policies and Supporting Project                      4.1                    3.85
+
+Implementation
+
+Unallocated amount                                                       1.0                    0.00
+
+Total                                                                    28.6                  25.22
+
+
+
+
+
+
+
+
+
+                                                                                                          Page 33
+
+          The World Bank
+
+          Ghana Financial Sector Development Project (P161787)          ICR DOCUMENT
+
+
+
+
+
+
+
+                                         ANNEX 4. EFFICIENCY ANALYSIS
+
+
+
+
+
+See Section II D
+
+
+
+
+
+
+
+
+
+                                                                               Page 34
+
+          The World Bank
+
+          Ghana Financial Sector Development Project (P161787)                                         ICR DOCUMENT
+
+
+
+
+
+
+
+               ANNEX 5. BORROWER, CO-FINANCIER AND OTHER PARTNER/STAKEHOLDER COMMENTS
+
+
+
+The Implementation Completion and Results Report (ICR) was shared with the Borrower before its finalization, and the
+
+Borrower was given one work week to provide comments to the World Bank. However, by the time the ICR was finalized,
+
+no comments had been received from the Borrower.
+
+
+
+
+
+
+
+
+
+                                                                                                                Page 35
+
+         The World Bank
+
+         Ghana Financial Sector Development Project (P161787)                  ICR DOCUMENT
+
+
+
+
+
+
+
+                                   ANNEX 6. SUPPORTING DOCUMENTS (IF ANY)
+
+
+
+
+
+1.   Project Appraisal Document, Report No.: PAD-2862, dated August 29, 2018
+
+
+
+2.   Project Restructuring Paper, Report No.: RES 00218
+
+
+
+3.   Implementation Status and Results Reports: 1 through 10
+
+4.   Financing Agreements; Amendments
+
+5.   Aide Memoires (AMs)
+
+
+
+
+
+
+
+
+
+                                                                                      Page 36
+
+

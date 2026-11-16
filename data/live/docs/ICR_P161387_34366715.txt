@@ -1,0 +1,5571 @@
+                                     FOR OFFICIAL USE ONLY
+
+
+
+                                                                    Report No: ICR00006623
+
+                       INTERNATIONAL DEVELOPMENT ASSOCIATION
+
+
+
+
+
+                IMPLEMENTATION COMPLETION AND RESULTS REPORT
+
+                                           IDA-61330
+
+
+
+                                             ON A
+
+
+
+                                            CREDIT
+
+
+
+                          IN THE AMOUNT OF EUR 131.6 MILLION
+
+
+
+                              (US$ 150 MILLION EQUIVALENT)
+
+
+
+                                              TO
+
+
+
+                                      The Republic of Kenya
+
+
+
+                                             FOR A
+
+         Program to Strengthen Governance for Enabling Service Delivery and Public
+
+                              Investment in Kenya (GESDeK)
+
+                                     PROGRAM-FOR-RESULTS
+
+                                         June 25, 2024
+
+
+
+Governance Global Practice
+
+Eastern and Southern Africa Region
+
+                    CURRENCY EQUIVALENTS
+
+
+
+             (Exchange Rate Effective June 18, 2024)
+
+
+
+
+
+                         Currency Unit = Kenya Shillings (KES)
+
+                            128.50 KES = US$1
+
+                             0.93 EUR = US$1
+
+
+
+                          FISCAL YEAR
+
+                         July 1 - June 30
+
+
+
+
+
+
+
+
+
+Regional Vice President: Victoria Kwakwa
+
+      Country Director: Keith E. Hansen
+
+     Regional Director: Hassan Zaman
+
+     Practice Manager: Manuel Antonio Vargas Madrigal
+
+  Task Team Leader(s): Leonard Mutuku Matheka, Onur Erdem
+
+  ICR Main Contributor: Djeniffer Zamy Lima Melo
+
+                    ABBREVIATIONS AND ACRONYMS
+
+AFD        Agence Française de Développement
+
+CoA        Chart of Accounts
+
+COB        Controller of Budget
+
+CPF        Country Partnership Framework
+
+CS         Communication Strategy
+
+DLI        Disbursement Linked Indicator
+
+DLR        Disbursement Linked Result
+
+DPF        Development Policy Financing
+
+EACC       Ethics and Anti-Corruption Commission
+
+E-ProMIS   Electronic Project Monitoring Information System
+
+ESS        Environmental and Social Safeguards
+
+ESSA       Environmental and Social Systems Assessment
+
+FS         Financial Statement
+
+FSA        Fiduciary Systems Assessment
+
+GDP        Government Digital Payments
+
+GHRIS      Government Human Resource Information System
+
+GIMIS      Government Investments Management Information System
+
+GoK        Government of Kenya
+
+HR         Human Resource
+
+ICR        Implementation Completion and Results Report
+
+IFMIS      Integrated Financial Management Information System
+
+IMF        International Monetary Fund
+
+IPF        Investment Project Financing
+
+IPSAS      International Public Sector Accounting Standards
+
+IRI        Intermediate Result Indicator
+
+IVA        Independent Verification Agent
+
+JTC        Joint Technical Committee
+
+KADP       Kenya Accountable Devolution Program
+
+MDA        Ministries, Departments and Agencies
+
+MTR        Mid-term Review
+
+NT         National Treasury
+
+OAG        Office of the Auditor General
+
+OCDS       Open Contracting Data Standards
+
+PAD        Program Appraisal Document
+
+PAP        Program Action Plan
+
+PDO        Program Development Objective
+
+PEFA       Public Expenditure and Financial Accountability
+
+PFM        Public Financial Management
+
+PFRMS      Public Financial Management Reform Strategy
+
+PforR      Program-for-Results
+
+PIM        Public Investment Management
+
+PIMIS   Public Investment Management Information System
+
+POM     Program Operations Manual
+
+PPAD    Public Procurement and Asset Disposal Act
+
+PPRA    Public Procurement Regulatory Authority
+
+PSC     Program Steering Committee
+
+QA      Quality Assurance
+
+RA      Results Area
+
+RF      Results Framework
+
+SC      State Corporations
+
+SDD     System Design Document
+
+SDPS    State Department for Public Service
+
+SPP     State Procurement Portal
+
+SRS     System Requirement Specification
+
+UAT     User Acceptance Test
+
+UHR     Unified Human Resource
+
+UPN     Unified Payroll Number
+
+                                                          TABLE OF CONTENTS
+
+
+
+
+
+DATA SHEET .......................................................................................................................... 1
+
+I.    PROGRAM CONTEXT AND DEVELOPMENT OBJECTIVES.................................................... 5
+
+      A. CONTEXT AT APPRAISAL AND THEORY OF CHANGE .................................................................5
+
+      B. SIGNIFICANT CHANGES DURING IMPLEMENTATION ................................................................9
+
+II.   OUTCOME .................................................................................................................... 12
+
+      A. RELEVANCE .......................................................................................................................... 12
+
+      B. ACHIEVEMENT OF PDOs (EFFICACY) ...................................................................................... 13
+
+      C. JUSTIFICATION OF OVERALL OUTCOME RATING .................................................................... 18
+
+      D. OTHER OUTCOMES AND IMPACTS ........................................................................................ 18
+
+III. KEY FACTORS THAT AFFECTED IMPLEMENTATION AND OUTCOME ................................ 19
+
+      A. KEY FACTORS DURING PREPARATION ................................................................................... 19
+
+      B. KEY FACTORS DURING IMPLEMENTATION ............................................................................. 19
+
+IV. BANK PERFORMANCE, COMPLIANCE ISSUES, AND RISK TO DEVELOPMENT OUTCOME .. 19
+
+      A. QUALITY OF MONITORING AND EVALUATION ....................................................................... 19
+
+      B. ENVIRONMENTAL, SOCIAL, AND FIDUCIARY COMPLIANCE ..................................................... 20
+
+      C. BANK PERFORMANCE ........................................................................................................... 21
+
+      D. RISK TO DEVELOPMENT OUTCOME ....................................................................................... 22
+
+V. LESSONS AND RECOMMENDATIONS ............................................................................. 22
+
+ANNEX 1. RESULTS FRAMEWORK, DISBURSEMENT LINKED INDICATORS, AND PROGRAM
+
+ACTION PLAN ...................................................................................................................... 24
+
+ANNEX 2. BANK LENDING AND IMPLEMENTATION SUPPORT/SUPERVISION ......................... 54
+
+ANNEX 3. PROGRAM EXPENDITURE SUMMARY ................................................................... 57
+
+ANNEX 4. BORROWER’S COMMENTS ................................................................................... 58
+
+ANNEX 5. SUPPORTING DOCUMENTS (IF ANY) ..................................................................... 59
+
+     The World Bank
+
+     Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+     (P161387)
+
+
+
+
+
+
+
+
+
+DATA SHEET
+
+
+
+
+
+BASIC INFORMATION
+
+
+
+
+
+Product Information
+
+Program ID                   Program Name                              Financing Instrument
+
+
+
+                            Program to Strengthen Governance for
+
+P161387                     Enabling Service Delivery and Public       Program-for-Results Financing
+
+                            Investment in Kenya (GESDeK)
+
+
+
+Country                                                                IPF Component
+
+
+
+Kenya                                                                  No
+
+
+
+
+
+
+
+Organizations
+
+
+
+Borrower                                                Implementing Agency
+
+
+
+                                                        Ministry of Public Service, Performance and Delivery
+
+The National Treasury of Kenya                          Management, Office of the Auditor General, The National
+
+                                                        Treasury
+
+
+
+
+
+Program Development Objective (PDO)
+
+Original PDO
+
+To improve utilization and transparency of resource management in selected service delivery MDAs.
+
+
+
+
+
+
+
+
+
+                                                                                                       Page 1 of 59
+
+                The World Bank
+
+                Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+                (P161387)
+
+
+
+
+
+
+
+FINANCING
+
+ FINANC E_TBL
+
+
+
+
+
+
+
+
+
+                                Original Amount (US$)                    Revised Amount (US$)         Actual Disbursed (US$)
+
+ World Bank Administered Financing
+
+                                                      150,000,000                  150,000,000                  139,460,039
+
+ IDA-61330
+
+ Total                                                150,000,000                  150,000,000                  139,460,039
+
+ Non-World Bank Administered Financing
+
+ Borrower/Recipient                                              0                           0                               0
+
+ Total                                                           0                           0                               0
+
+ Total Program Cost                                   150,000,000                  150,000,000                  139,460,039
+
+
+
+
+
+KEY DATES
+
+
+
+FIN_TABLE_DAT
+
+Program                       Approval          Effectiveness        MTR Review         Original Closing    Actual Closing
+
+P161387                       07-Sep-2017       15-Jan-2018          30-Nov-2020        31-Dec-2022         31-Dec-2023
+
+
+
+
+
+
+
+RESTRUCTURING AND/OR ADDITIONAL FINANCING
+
+
+
+Date(s)                               Amount Disbursed (US$M) Key Revisions
+
+29-Oct-2021                                              59.38 Change in Results Framework
+
+                                                               Change in Loan Closing Date(s)
+
+                                                               Reallocation between and/or Change in DLI
+
+                                                               Change in Disbursements Arrangements
+
+                                                               Change in Implementation Schedule
+
+
+
+
+
+
+
+KEY RATINGS
+
+
+
+Outcome                                          Bank Performance                       M&E Quality
+
+Satisfactory                                     Satisfactory                           Substantial
+
+
+
+
+
+
+
+
+
+                                                                                                                    Page 2 of 59
+
+      The World Bank
+
+      Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+      (P161387)
+
+
+
+
+
+
+
+RATINGS OF PROGRAM PERFORMANCE IN ISRs
+
+
+
+                                                                                                  Actual
+
+No.              Date ISR Archived                DO Rating               IP Rating           Disbursements
+
+                                                                                                 (US$M)
+
+01                    16-Jun-2018                 Satisfactory           Satisfactory                           0
+
+02                    18-Jan-2019                 Satisfactory           Satisfactory                    18.35
+
+03                    02-Aug-2019                 Satisfactory           Satisfactory                    18.35
+
+04                    13-Mar-2020         Moderately Satisfactory   Moderately Satisfactory              37.07
+
+05                    05-Nov-2020         Moderately Satisfactory   Moderately Satisfactory              37.07
+
+06                    25-May-2021         Moderately Satisfactory   Moderately Satisfactory              59.38
+
+07                    08-Feb-2022         Moderately Satisfactory   Moderately Satisfactory              59.38
+
+08                    29-Oct-2022         Moderately Satisfactory   Moderately Satisfactory              65.38
+
+09                    12-Jun-2023                 Satisfactory           Satisfactory                    65.38
+
+
+
+
+
+SECTORS AND THEMES
+
+
+
+Sectors
+
+Major Sector/Sector                                                                                            (%)
+
+
+
+
+
+Public Administration                                                                                          85
+
+        Central Government (Central Agencies)                                                                  85
+
+
+
+
+
+
+
+Information and Communications Technologies                                                                    15
+
+        Public Administration - Information and
+
+                                                                                                               15
+
+        Communications Technologies
+
+
+
+
+
+Themes
+
+Major Theme/ Theme (Level 2)/ Theme (Level 3)                                                                  (%)
+
+
+
+
+
+
+
+
+
+                                                                                                       Page 3 of 59
+
+       The World Bank
+
+       Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+       (P161387)
+
+
+
+
+
+
+
+Public Sector Management                                                                                           60
+
+            Public Finance Management                                                                              60
+
+                      Public Expenditure Management                                                                40
+
+
+
+                      Domestic Revenue Administration                                                              10
+
+
+
+                      Debt Management                                                                              10
+
+
+
+            Public Administration                                                                                  40
+
+                      Administrative and Civil Service Reform                                                      10
+
+                      Transparency, Accountability and Good
+
+                                                                                                                   10
+
+                      Governance
+
+                      E-Government, incl. e-services                                                               10
+
+
+
+                      Public Assets and Investment Management                                                      10
+
+
+
+
+
+ADM STAFF
+
+Role                                              At Approval                          At ICR
+
+
+
+Regional Vice President:                          Makhtar Diop                         Victoria Kwakwa
+
+
+
+Country Director:                                 Diarietou Gaye                       Keith E. Hansen
+
+
+
+Director:                                         Deborah L. Wetzel                    Hassan Zaman
+
+                                                                                       Manuel Antonio Vargas
+
+Practice Manager:                                 George Addo Larbi
+
+                                                                                       Madrigal
+
+                                                  Jens Kromann Kristensen, Ikechi B.   Leonard Mutuku Matheka,
+
+Task Team Leader(s):
+
+                                                  Okorie                               Onur Erdem
+
+ICR Contributing Author:                                                               Djeniffer Zamy Lima Melo
+
+
+
+
+
+
+
+
+
+                                                                                                             Page 4 of 59
+
+     The World Bank
+
+     Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+     (P161387)
+
+
+
+
+
+
+
+I. PROGRAM CONTEXT AND DEVELOPMENT OBJECTIVES
+
+
+
+A. CONTEXT AT APPRAISAL AND THEORY OF CHANGE
+
+   Context
+
+
+
+   1. At appraisal in 2017, Kenya was experiencing a period of stable economic growth while undertaking reforms
+
+      in public institutions. Progress on a range of governance reforms was accelerated by the Constitution 2010,
+
+      which gave way to the decentralization process, with certain government functions, staff, and funds transferred
+
+      to 47 counties. Concurrently, national ministries, departments, and agencies (MDAs) were restructured,
+
+      oversight bodies like Parliament and the Ethics and Anti-Corruption Commission (EACC) were strengthened, and
+
+      the Office of the Controller of Budget (COB) and the Office of the Auditor General (OAG) were established as
+
+      Supreme Audit Institutions from the defunct Office of the Auditor and Controller of the Budget. The Kenyan
+
+      government also made improvements in national revenue administration and expenditure management through
+
+      the enactment of the Public Financial Management (PFM) law in 2012 and attendant regulations in 2015.
+
+   2. Despite notable progress, governance reforms did not fully translate into desired functional changes. Public
+
+      sector management systems did not deliver on core functionalities. The main challenges included ineffective
+
+      oversight and accountability, weak implementation and enforcement of laws and regulations, as well as
+
+      inefficient public investment management (PIM) and procurement. Kenya’s 2012 Public Expenditure and
+
+      Financial Accountability (PEFA) included thirteen C and nine D scores across various indicators. The country
+
+      ranked 146 out of 176 countries in the 2016 Transparency International Global Corruption Index, indicating the
+
+      persistence of rent seeking behavior in the public sector. Issue in public procurement, such as lack of integration
+
+      of policies and systems, lack of transparency, and limited technical expertise, led to delays and cost overruns.
+
+      Budget predictability was also a challenge as ineffective cash management systems undermined planning of
+
+      expenditures for service delivery causing budget shortfalls and underfunding of MDAs. Finally, human resource
+
+      data was fragmented and inconsistent, which limited decision making on the wage bill, human resource
+
+      management and budgeting.
+
+   3. The Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+      was designed to help the government address these challenges. The Program centered on policies and systems
+
+      foundational for achieving the results desired under the Public Financial Management Reform Strategy (PFMRS)
+
+      from 2018 to 2023. The main objective of the PFMRS was to ensure “a public finance system that promotes
+
+      transparency, accountability, equity, fiscal discipline and efficiency in the management and use of public
+
+      resources for improved service delivery and economic development.” PFMRS for 2018-2023 represented the
+
+      first time that the Government of Kenya (GoK) was adopting a results-oriented outlook regarding PFM reforms.
+
+   4. GESDeK introduced and piloted several policies and systems that constitute the cornerstones of a well-
+
+      functioning PFM system. GESDeK promoted engagement and interventions across a wide range of foundational
+
+      matters regarding each step of the PFM cycle from the macro-fiscal framework and the credibility of the budget
+
+      to financial reporting and external oversight. Participating MDAs were incentivized to produce the inputs needed
+
+      for the achievement of the desired results under the Program.
+
+
+
+
+
+
+
+
+
+                                                                                                              Page 5 of 59
+
+  The World Bank
+
+  Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+  (P161387)
+
+
+
+
+
+
+
+Theory of Change (Results Chain)
+
+5. The results chain for GESDeK is presented in Figure 1. The results chain in the Program Appraisal Document
+
+   (PAD) was modified to better portray the linkages between key challenges and Program outputs and outcomes.
+
+   The Program focused on strengthening the functionality of Kenya’s public finance system with the objective of
+
+   improving utilization and transparency of resource management in selected MDAs. This would be achieved
+
+   through improved public investment management systems, budget planning and cash management,
+
+   procurement systems, human resources data and payroll management, and audit and oversight of public
+
+   resources.
+
+
+
+                                                             Figure 1. Results Chain
+
+
+
+               Challenges                                 Program Outputs                              Program Outcomes
+
+
+
+
+
+
+
+
+
+                                                                                                                                                 PDO: To improve utilization and transparency of resource management in selected service delivery
+
+   Poor systems and processes in place for
+
+                                                Establishment of PIM Manual, PIM Unit, and
+
+   selection, design, implementation, and                                                           Prioritized Public Investments
+
+                                                            PIM ICT Platfrom.
+
+     evaluation of infrastructure projecs.
+
+
+
+
+
+
+
+
+
+ Inadequate budget planning undermines the           Improved revenue forecasting and
+
+                                                                                               Reliable Funding for Service Delivery and
+
+    quantity, quality, cost and timeliness of    implementation of new guidelines for cash
+
+                                                                                                         Investment Projects
+
+  planned expenditures for service delivery.          planning including cash release.
+
+
+
+
+
+
+
+
+
+  Lack of cohesive policies, transparency and
+
+ enforcement, and technical expertise lead to   Functional e-Procurement system, and public
+
+                                                                                                Efficient and Transparent Procurement
+
+    project delays, cost overruns, and weak        procurement and asset disposal portal.
+
+     accountability in public procurement.
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                                              MDAs
+
+     Fragmented and inconsistent human
+
+   resource data limits decisionmaking and         Functional payroll data base and data
+
+                                                                                                        Consolidated Staff Data
+
+    planning on wage bill, human resource                        cleaning.
+
+        management, and budgeting.
+
+
+
+
+
+
+
+
+
+ Capacity challenges hinder OAG's ability to
+
+                                                Risk based audit codes; Implementation of
+
+ meet its mandate in auditing public funds                                                    Timely and Quality Financial Statements and
+
+                                                Quality Control, and Assurance Framework;
+
+ with implications on timeliness and quality                                                                     Audit
+
+                                                   Use of Audit Management Software.
+
+  of audit reports submitted to Parliament.
+
+
+
+
+
+
+
+
+
+   Transparency and external accountability         Establishment of dedicated budget
+
+ undermined by limited access to, and lack of      portal in NT; Disclosure of budget and     Strengthened Fiduciary Assurance and Risk
+
+  ownership of, service delivery information     spending; NT quality assurance of Annual;                 Management
+
+        provided by existing systems.                       Financial Statements.
+
+
+
+
+
+
+
+
+
+                                                                                                                                            Page 6 of 59
+
+  The World Bank
+
+  Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+  (P161387)
+
+
+
+
+
+
+
+Rationale for PforR Support, and Program Scope and Boundaries
+
+
+
+6. The PforR instrument was selected to incentivize GoK to focus on achieving impactful outcomes in PFM . The
+
+   entrenched PFM and governance challenges required long-term engagement, which made Development Policy
+
+   Financing (DPF) an unsuitable instrument at the time. Furthermore, the government had a robust results-
+
+   oriented PFM reform program, for which adequate resources had been historically allocated from the national
+
+   budget and complemented by technical assistance (TA) from the Kenya Accountable Devolution Program (KADP)
+
+   multi-donor trust fund. Accordingly, an Investment Project Finance (IPF) was not deemed necessary nor
+
+   requested by GoK during implementation. Lastly, the World Bank provided advisory support and policy dialogue
+
+   during the formulation of the results-oriented PFMRS for 2018-2023, making a PforR aligned to the Strategy the
+
+   appropriate instrument.
+
+7. The Program boundaries were defined around six Results Areas (RAs) tracked through the achievement of 27
+
+   disbursement-linked indicators (DLIs). The DLIs served as PDO indicators and intermediate indicators. The RAs—
+
+   described in greater detail in the following sections—included: (i) prioritized public investments; (ii) reliable
+
+   funding for service delivery and public investments; (iii) efficient and transparent procurement; (iv) consolidated
+
+   staff data; (v) timely and quality financial statements and audits; and (vi) strengthened fiduciary assurance and
+
+   transparency. Each RA contained key steps towards the achievement of improved functional performance of
+
+   Kenya’s public finance system for effective service delivery, aligned with the PFMRS. GESDeK supported five out
+
+   of the seven thematic areas of the PFRMRs, as shown in Figure 2.
+
+
+
+                                    Figure 2. PFMRS Themes Linked to PforR RAs
+
+     PFMRS Theme                                                                                    PforR RA
+
+     Theme 1– Macro-Economic Management and Resource Mobilization                                       2
+
+     Theme 2 – Strategic Planning and Resource Allocation                                                 1
+
+     Theme 3 – Budget Execution, Accounting and Reporting and Review                               2, 3, 4 and 6
+
+     Theme 4 – Independent Audit and Oversight                                                            5
+
+     Theme 5 – Fiscal Decentralization and Intergovernmental Fiscal Relations                           n.a.
+
+     Theme 6 – Legal and Institutional Framework                                                        n.a.
+
+     Theme 7 – IFMIS and other PFM Systems                                                              all
+
+
+
+Program Development Objectives (PDOs)
+
+8. The Program's objective was to improve resource management utilization and transparency in selected service
+
+   delivery MDAs. The PDO statement in the PAD and Financing Agreement were the same.
+
+
+
+Key Expected Outcomes and Outcome Indicators
+
+9. The Program-supported results areas were expected to lead to: (a) “improved utilization” and (b) “improved
+
+   transparency” of resources management in selected MDAs. The key expected outcomes and related indicators
+
+   are reflected in Figure 3. The DLIs at PDO level were designed to measure implementation of reforms by line
+
+   MDAs responsible for service delivery and public investment, ensuring the functional deployment of the
+
+   intended reforms. DLIs were developed along the results chains with some focusing on outputs and others closer
+
+   to outcomes. The DLIs selected as PDO level indicators were those associated with the later years of the
+
+   operation, thus more closely aligned with the outcome level.
+
+
+
+
+
+                                                                                                              Page 7 of 59
+
+  The World Bank
+
+  Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+  (P161387)
+
+
+
+
+
+
+
+                                            Figure 3.Outcome Indicators
+
+
+
+
+
+
+
+
+
+Program Results Areas and DLIs
+
+10. RA 1 aimed to strengthen public investment management. The associated DLI was “number of projects with
+
+    capital allocations above KSH.100 million which were in compliance with procedures in PIM manual.” To achieve
+
+    this target, activities under RA 1 included: (a) the development of a PIM manual which included project
+
+    identification, appraisal, budgeting, implementation, reporting, and monitoring and evaluation (M&E); (b) the
+
+    establishment of a dedicated PIM unit with basic staff in place and trained to perform the National Treasury (NT)
+
+    gate-keeping role; and (c) the enhancement of Electronic Project Monitoring Information System (e-ProMIS) to
+
+    deliver requirements of the PIM manual, with interface between e-ProMIS and Integrated Financial Management
+
+    Information System (IFMIS) tested and live. The goal was to strengthen planning and oversight over public
+
+    investment projects. Projects would be selected by MDAs based on sound appraisal criteria, alignment with
+
+    economic and strategic priorities, and realistic projections of their returns. This in turn was expected to lead to
+
+    higher returns on public investments with minimal delays and cost overruns, value-for-money, and strong
+
+    accountability.
+
+11. RA 2 supported efforts to strengthen cash planning and cash management. The associated DLIs are listed in
+
+    Figure 3. Activities under RA 2 included: a) encouraging greater realism in revenue forecasting used in the
+
+    budget; (b) supporting the preparation of borrowing plans consistent with delivering cash for MDAs based on
+
+    their cash plans; (c) introducing a new cash management and exchequer system which ensured all GoK releases
+
+    to MDA bank accounts were made automatically following MDA approvals in IFMIS; and (d) the development
+
+
+
+
+
+                                                                                                            Page 8 of 59
+
+    The World Bank
+
+    Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+    (P161387)
+
+
+
+
+
+
+
+      and implementation of guidelines that required that revised MDA cash plans protected service delivery and
+
+      infrastructure budget priorities. The objective was to ensure efficient and effective budget utilization, accurate
+
+      and timely accounting and reporting, and effective control, scrutiny, and review of expenditure of public
+
+      resources.
+
+  12. RA 3 focused on strengthening procurement and asset disposal functions in the public sector. The activities
+
+      under RA 3 included upgrading and implementing the e-procurement system to meet the requirements of
+
+      procurement entities, oversight institutions, and suppliers in accordance with relevant laws and regulations. It
+
+      also supported the establishment of mechanisms for encouraging compliance with the Public Procurement and
+
+      Asset Disposal Act (PPAD) Act of 2015 in the context of the upgraded system and greater transparency through
+
+      the State Procurement Portal (SPP). Finally, it aimed to ensure that the e-procurement system and SPP were up
+
+      to date and included appropriate information on tenders, awards, contract implementation, and complaints
+
+      follow-up by disclosing procurement data and following Open Contracting Data Standards (OCDS).
+
+  13. RA 4 supported efforts to consolidate staff data and strengthen payroll management. The associated DLI was
+
+      “number of MDAs whose payroll data has been uploaded to Government Human Resource Information System
+
+      (GHRIS) and are up to date.” To achieve this target, outputs included: (a) increased GHRIS functionality to handle
+
+      consolidated human resource data from MDAs and interfacing with IFMIS; (b) the development and issuance of
+
+      regulations and standards on itemized payroll details consistent with enhanced GHRIS functionality and sharing
+
+      of data; (c) restructuring and uploading of data from different payroll systems across service delivery MDAs; and
+
+      (d) publishing of basic wage bill data by administrative/service delivery unit, consistent with the Chart of
+
+      Accounts (CoA). This would in turn enable sound decision-making on wage-bill and human resource
+
+      management.
+
+  14. RA 5 aimed to enhance the timeliness, quality, and relevance of financial statements and audit reports. The
+
+      related interventions were: (a) implementation of risk-based audit strategies; (b) adoption of the audit
+
+      management software; (c) revision of audit methodologies in line with international standards; (d) ability of the
+
+      IFMIS to generate MDA financial statements; and (e) adoption of International Public Sector Accounting
+
+      Standards (IPSAS) compliant financial statements by MDAs. The goal was to ensure that timely and quality audit
+
+      reports would be presented in a manner that facilitated stakeholders’ ability to understand and scrutinize the
+
+      impact on service delivery.
+
+  15. RA 6 interventions aimed to strengthen fiduciary assurance and transparency. The supporting activities
+
+      included: (a) MDAs, and increasingly the public, could access multi-year itemized and facility level budget and
+
+      outturn data for all MDAs in searchable form through the budget module of IFMIS; and (b) updated manuals and
+
+      Quality Assurance (QA) framework for internal audit would be in place to strengthen assurance and risk
+
+      management. Achievement of these results would ensure that stakeholders inside and outside government
+
+      would have access to appropriate and relevant information on service delivery. Information would be timely,
+
+      reliable, trusted and used in decision-making and accountability processes.
+
+
+
+B. SIGNIFICANT CHANGES DURING IMPLEMENTATION
+
+  Revised PDOs Outcome Targets, Result Areas, and DLIs
+
+  16. The Program was restructured on October 29, 2021. The PDO remained the same, but changes were made to
+
+      select DLIs, DLRs, and associated targets and two new RAs were introduced. Other changes included the
+
+      reallocation of disbursement amounts and a no-cost extension of the Program closing date by 12 months to
+
+      December 31, 2023.
+
+
+
+
+
+                                                                                                             Page 9 of 59
+
+  The World Bank
+
+  Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+  (P161387)
+
+
+
+
+
+
+
+17. RA 1: Changes to DLI 1 (Prioritized Public Investments). The modifications under this RA included: (a) replacing
+
+    references to the “PIM Manual” with “PIM Guidelines,” which were disseminated widely across MDAs, and
+
+    constituted the foundation for the draft PIM Regulations, a Prior Action under a DPF series; (b) new actions for
+
+    the completion of the inventory of public investment projects to address challenges regarding nonperforming and
+
+    stalled projects in the development budget that became a Government priority under the focus on fiscal
+
+    consolidation in the wake of the COVID-19 crisis; and (c) deleting references to e-ProMIS as the platform for the
+
+    automation of the PIM process as GoK opted for a more advanced and suitable technology.
+
+18. RA 2: Changes to DLI 2.1 (Reliable Funding for Service Delivery and Investment Projects), DLI 2.2 (Improved
+
+    Revenue Projections), and DLI 2.3 (Reliability of Domestic Financing). DLI 2.2 and DLI 2.3 were deleted due to
+
+    challenges regarding persistent difficulties in revenue forecasting in an uncertain fiscal environment. However,
+
+    the substance of the related reforms was not lost as it was incorporated in the International Monetary Fund (IMF)
+
+    program and the Inclusive Growth and Fiscal Management DPF (P168204). The modifications to DLI 2.1 were
+
+    intended to align the next phase of actions to improve cash management practices anticipated under this RA with
+
+    the provisions of the new Cash Management Framework that was developed by the NT as part of the PFMRS and
+
+    with support from the Program. The new DLRs under DLI 2.1 aimed at leveraging the power of automation to
+
+    consolidate the gains achieved and to institutionalize a more efficient process for cash planning and approval
+
+    decisions within the NT.
+
+19. RA 3: Changes to DLI 3 (Efficient and Transparent Procurement). Adjustments were made to the timeline for the
+
+    intended number of MDAs using a full-fledged e-procurement system in compliance with the PPAD and following
+
+    the OCDS. The modifications aimed to address the delays experienced in the formulation of the e-procurement
+
+    roadmap and the procurement process for the development of the new e-GP platform.
+
+20. RA 4: Changes to DLI 4 (Consolidated Staff Data). The modification was to adjust the timeline for the intended
+
+    number of MDAs whose payroll data were uploaded to GHRIS. The modification addressed the delays experienced
+
+    in the formulation of the roadmap for the development of GHRIS and the subsequent implementation of the
+
+    roadmap.
+
+21. RA 5: Changes to DLI 5.1 (Timely and Quality Financial Statements and Audits) . The targets for DLI 5.1 –
+
+    percentage of MDAs for which the NT had reviewed the quality of annual financial statements generated from
+
+    IFMIS and submitted to the OAG within four months, were increased from 30 to 40 percent for 2021, and 50
+
+    percent for 2022. The change acknowledged the OAG’s swift and successful response to the COVID-19 pandemic
+
+    by availing the Auditor General to perform a special audit of the COVID-19 funds spent by selected MDAs and all
+
+    47 counties. A new DLR was introduced regarding special audits on the use of funds disbursed to MDAs for
+
+    expenditures relating to programs to address the COVID-19 crisis. The restructuring also adjusted the number of
+
+    months that the DLR expected to achieve between the receipt of consolidated financial statements and their
+
+    submission to Parliament (from four to seven months in 2021 and three to five months in 2022) due to the delays
+
+    experienced in the appointment of a new Auditor General that caused a backlog of pending audits.
+
+22. RA 6: Changes to DLI 6.1 (Transparent Institutions) and DLI 6.2 (Strengthened Fiduciary Assurance and Risk
+
+    Management). DLI 6.1, which looked at the number of MDAs for which information regarding program and
+
+    project expenditure and transfers to service delivery units was publicly available, was revised to target
+
+    information at program and sub-program levels for all MDAs, as well as at the service delivery unit level for one
+
+    MDA. DLI 6.2, which targeted annual and quarterly MDA Internal Audit Reports being prepared and undergoing
+
+    quality assurance in line with enhanced procedures for audit quality assurance, risk management, and follow up,
+
+    was changed with increase in the original target from 20 to 25 MDAs. The modifications under this RA overall
+
+    aimed at: (i) adjusting the timelines in DLRs under DLI 6.1 regarding the development of the citizen budget portal
+
+
+
+                                                                                                         Page 10 of 59
+
+  The World Bank
+
+  Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+  (P161387)
+
+
+
+
+
+
+
+    due to delays experienced in the development of the technical specifications for the platform; and (ii)
+
+    institutionalizing the improvements achieved regarding the introduction of improved internal audit processes by
+
+    investing in the continuation of activities under the DLRs supporting DLI 6.2 for two more budget cycles.
+
+23. RA 7: New DLI 7 (Transparency and Oversight of State Corporations). Discrepancies between budget allocations
+
+    and outcomes, as well as manual processes for budget management and reporting, were among the challenges
+
+    affecting the governance, management, and oversight of State Corporations (SCs) in Kenya. Improving the
+
+    governance of SCs was an increasingly pertinent topic in the context of the Kenya’s aspirations to become a
+
+    middle-income country rooted in private sector-led growth. The new DLI 7 aimed at developing and introducing
+
+    a Government Investment Management Information System (GIMIS) across SCs for the preparation and
+
+    submission of data on corporate, budget, and statutory requirements of SCs.
+
+24. RA 8: New DLI 8 (eCitizen as an Integrated Platform for Government Service Delivery). The Government Digital
+
+    Payments (GDP) Unit within the NT ensured that citizens, non-citizens, and business entities had access to
+
+    government services online and could make payments electronically and conveniently on the eCitizen platform,
+
+    using their preferred method of payment, 24-hours a day and from wherever they may be in the world. GDP had
+
+    an ambitious three-year plan to reengineer the eCitizen portal and onboard additional services onto the platform
+
+    to make eCitizen the medium of choice for citizens and businesses to conduct their transactions with the
+
+    Government. The new DLI 8 aimed at substantially increasing the number of public services onboarded on the
+
+    eCitizen platform, which would be reengineered in line with citizen-centered design principles with Program
+
+    support. The DLI would also support the formulation of a change management and communications strategy,
+
+    regarding the scope, nature, introduction, and rollout of services offered on eCitizen. The overarching objective
+
+    of the initiatives proposed for inclusion in the Program was to enhance the uptake of eCitizen by the public sector
+
+    and citizens.
+
+Rationale for Changes and their Implication for the Original Theory of Change
+
+25. After the Mid-Term Review (MTR), the WB, AFD, and GoK agreed to changes that would enable the
+
+    achievement of envisioned outcomes given early implementation challenges and a new strategic vision. The
+
+    rationale for restructuring was primarily to: (i) better align GESDeK with the PFMRS for 2018-2023, considering
+
+    that the Program had begun before the Strategy was completed; and (ii) respond to the government's economic
+
+    recovery goals and higher ambition in the aftermath of the COVID-19 disruptions. The Program's duration was
+
+    extended by one year to make up for the initial delays caused by the prolonged election period in 2017 due to
+
+    the nullification and repeat of the presidential election. Additionally, the MTR revealed that certain actions and
+
+    DLIs had not been achieved as planned. The underperformance of some RAs threatened the achievement of the
+
+    Program objectives, especially those involving automation processes which had stalled due to delays in
+
+    government procurement processes.
+
+26. Achievement of the DLI regarding the introduction of IT systems to improve PFM business processes suffered
+
+    delays. DLI 1c was off-track due to delays in launching the procurement process for enhancing the PIM system.
+
+    Additionally, the intended enhancements to the e-ProMIS platform expected to operationalize the PIM guidelines
+
+    and streamline the PIM process was deemed inadequate to respond to the functional requirements for a full-
+
+    fledged Public Investment Management Information System (PIMIS). The NT decided to invest in developing a
+
+    new PIMIS that would ensure the achievement of the related RA.
+
+27. Automation initiatives for public procurement and HR management faced similar challenges. The consultations,
+
+    review, and approval process for the e-Procurement Plan and Roadmap took longer than anticipated during the
+
+    planning stage, impacting the achievement of DLIs that depended on the completion of this action (i.e., DLR 3b
+
+
+
+
+
+                                                                                                          Page 11 of 59
+
+     The World Bank
+
+     Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+     (P161387)
+
+
+
+
+
+
+
+       and DLR 3c.) Progress toward the achievement of DLR 4b was also limited due to the delays in the procurement
+
+       process for both the development of the GHRIS and the hardware for the data warehouse to consolidate and host
+
+       HR data, on which the achievement of this DLR depended. Lastly, DLI 5.3 was only partially achieved because of
+
+       outstanding challenges regarding the reconciliation of the annual financial statements of MDAs with data in the
+
+       IFMIS.
+
+   28. Revenue collection actions were undermined by institutional challenges to revenue forecasting and the COVID-
+
+       19 pandemic. DLR 2.2a was not achieved in three consecutive years due to persistent divergences between actual
+
+       revenue collection and the actual budget. This was due to multiple factors including inefficiencies in the
+
+       institutional arrangements for budget formulation whereby the legislature could significantly alter the proposed
+
+       revenue mobilization measures and the period of fiscal uncertainty created by the pandemic. Since the likelihood
+
+       of achieving this DLI was extremely low, it was deleted.
+
+   29. New thematic areas were introduced to strengthen the Program’s focus on enabling service delivery and
+
+       facilitating accountability and transparency. The new RAs were: (i) Management Information System (MIS) for
+
+       SCs; and (ii) expansion of eCitizen portal services. Improving the governance of SCs was critical for Kenya’s goals
+
+       of private sector-led growth and provision of quality public services to citizens and businesses. The introduction
+
+       of eCitizen would enable citizens and businesses to perform many widely used, fee-based transactions online,
+
+       which would reduce fraudulent invoicing for government transactions, resulting in revenue growth for the
+
+       government.
+
+   30. These changes led to a satisfactory implementation progress after the MTR . The alignment of the PFMRS for
+
+       2018-2023 with the GESDeK RAs guaranteed adequate resource allocation and financing to achieve the desired
+
+       reforms. Secondly, government prioritized and provided the authorizing environment, appropriate coordination,
+
+       and monitoring framework – described later in the M&E section – that accelerated the achievement of results.
+
+
+
+II. OUTCOME
+
+
+
+A. RELEVANCE
+
+   Relevance of PDO
+
+   31. The PDO is rated as highly relevant to Kenya’s PFM reform efforts and is aligned with the current Country
+
+       Partnership Framework (CPF) for Kenya (FY23-28). Objectives 1 and 2 of the CPF are “boosting Kenya’s fiscal and
+
+       debt sustainability” and “improving public expenditure transparency and effectiveness.” The CPF corresponds to
+
+       measures that will increase domestic revenue mobilization and strengthen the mechanisms for resource
+
+       allocation and spending. It is aligned with Kenya’s PFM reform momentum since NT established the PFM Reform
+
+       Program in 2006. The reforms in consecutive budget cycles aimed to contribute to fiscal sustainability, strengthen
+
+       financial governance in the public sector, use the budget as a tool to reduce poverty levels, increase transparency
+
+       and accountability in the management of public funds, and improve service delivery to the citizens.
+
+   32. The Program objectives were strongly aligned with the PFM Reform Strategy of 2018 to 2023 and reinforced in
+
+       the new PFMRS for 2023 to 2028. The new strategy focuses on the following results areas: (a) sustainable and
+
+       predictable fiscal space to deliver government programs; (b) strategic and transparent spending on public
+
+       investment and service delivery in line with national and county policy commitments; (c) reliable cash for service
+
+       delivery and public investments; (d) value for money in procurement and contract management; (e) value for
+
+       money, performance, and accountability in staffing for service delivery; (f) effective management of public
+
+       resources in education and health institutions and other service facilities; (g) disciplined financial management;
+
+
+
+
+
+                                                                                                             Page 12 of 59
+
+    The World Bank
+
+    Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+    (P161387)
+
+
+
+
+
+
+
+      and (h) accurate reporting and accountability delivered through audit, oversight, and follow-up. The strategy
+
+      emphasizes automation as a crosscutting enabler underpinning these RAs and mainstreaming climate and gender
+
+      considerations across the PFM cycle.
+
+  33. GESDeK paved the way for a new PforR operation, GESDeK II (P180287), approved by the Board in December
+
+      2023. GESDeK II builds on the achievements registered under GESDeK and will constitute the principal
+
+      government program supporting the implementation of the PFMRS for 2023–2028. The strategy encompasses
+
+      several dimensions of government-wide institutional efficiency, accountability, and transparency across the
+
+      public sector, while maintaining the result-oriented outlook introduced under its predecessor. It incentivizes the
+
+      institutionalization of reforms regarding revenue mobilization, expenditure efficiency and accountability,
+
+      government coordination, and external oversight, among other priorities. This is a testament that the PDO
+
+      remains highly relevant for GoK’s PFM reform agenda.
+
+  Relevance of DLIs
+
+  34. The relevance of DLIs to the achievement of the Program objectives is rated as Substantial. Prior to
+
+      restructuring, GESDeK comprised 27 DLIs, of which 16 were IRIs, and 11 were output and outcome indicators.
+
+      While the output and outcome indicators were scalable, the intermediate result indicators were foundational.
+
+      They referred to the interventions necessary to bring about the expected change and were scheduled to be
+
+      achieved during the first year of implementation. Delays or failure to deliver the IRIs increased the risk of failure
+
+      to efficiently achieve PDO because of knock-on effects.
+
+  35. While the large number of DLIs created implementation risks, this approach was necessary to establish the
+
+      foundations of a robust PFM system. The level of detailed engagement and comprehensive scope was necessary
+
+      at the time for two reasons: the breadth of the reforms that the government wanted to achieve under the reform
+
+      strategy and the fact that it was adopting a result-oriented focus for the first time. As part of this approach, the
+
+      participating MDAs were incentivized to produce the inputs needed for the achievement of the desired results.
+
+      While necessary, the number of DLIs did prove challenging during implementation, which was a lesson that
+
+      informed the design of GESDeK II, defined by fewer DLIs.
+
+  Rating of Overall Relevance
+
+
+
+  36. Based on the assessment above, the overall relevance is rated as High.
+
+
+
+B. ACHIEVEMENT OF PDOs (EFFICACY)
+
+  Assessment of Achievement of Each Objective or Outcome
+
+ 37. The efficacy of the PDO is rated as Substantial. The Program met or exceeded all but two of the eight PDO indicators
+
+     as shown in Error! Reference source not found.. Highlights of the achievements under GESDeK include: (a) user-
+
+     accepted e-GP system; (b) an automated cash management system; (c) user-accepted Public Investment
+
+     Management Information System (PIMIS); (d) user-accepted Unified Human Resource (UHR) system that
+
+     consolidates public sector payroll data; (e) user-accepted information management system facilitating financial and
+
+     fiscal risk management in State Corporations (SCs); and (f) reengineered eCitizen portal that enables citizens and
+
+     businesses to conduct and pay for government services online. These achievements are expected to improve
+
+     delivery of core government services, which benefit the national MDAs, the private sector, and citizens.
+
+ 38. The PDO focused on “service delivery improvements in selected MDAs” while the actual scope of the PforR was
+
+     crosscutting, in terms of PFM reforms, across the entire public sector . The Program did not explicitly work directly
+
+     with selected service delivery MDAs. However, an assumption was made that crosscutting reforms would indirectly
+
+
+
+                                                                                                              Page 13 of 59
+
+   The World Bank
+
+   Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+   (P161387)
+
+
+
+
+
+
+
+    lead to these service delivery improvements in MDAs in charge of public service provision. Given that the
+
+    government prepares program-based budgets, the Program focused specifically on priority programs and projects,
+
+    which were specified in the Program Operations Manual (POM) Therefore, while the PDO statement could have
+
+    been better formulated at inception, it was still highly relevant, and the objectives were largely achieved in terms of
+
+    service delivery.
+
+39. The achievement of the PDO indicators and DLRs were verified by a reputable Independent Verification Agent
+
+    (IVA). The verification protocols were defined in the POM and involved structured walkthroughs of all activities
+
+    undertaken or systems developed under each DLR. The IVA reports were not only instrumental in verifying the
+
+    results but also in revealing areas for improvement. The findings helped shed light on areas where PFMRS could
+
+    continue pushing for better performance beyond Program closing.
+
+                                             Figure 4. Achievement of PDO Indicators (DLIs)1
+
+  PDO Indicator                                                                                                     Baseline    Target     Actual   Achieved
+
+  PDO Indicator 1: Prioritized Public Investments
+
+                                                                                                                        0         30         34
+
+  Projects with capital allocation above KES.100m in complance with procedures in PIM Guidelines (number)
+
+  PDO Indicator 2: Reliable Funding for Service Delivery and Investment Projects
+
+                                                                                                                       No         Yes       Yes
+
+  Cash management functionality strengthened through automation in IFMIS and Hyperion budget system (y/n)
+
+  PDO Indicator 3: Efficient and Transparent Procurement
+
+  MDAs using the e-Procurement System in compliance with the PPAD Act, 2015, and attendant Regulations for              0          5         12
+
+  the full fiscal year and procurement data disclosed in SPP following OCDS (number)
+
+  PDO Indicator 4: Consolidated Staff Data
+
+                                                                                                                        0         10        211
+
+  Number of MDAs whose payroll data has been uploaded to GHRIS and are up to date
+
+
+
+  PDO Indicator 5: Timely and Quality Financial Statements and Audit
+
+  (i) The percentage of service delivery MDAs the NT has reviewed the quality of Annual FS generated from IFMIS         0         50         59
+
+  and has submitted to the OAG within legal timeliness (3 months)
+
+  (ii) Percentage of MDAs, whose financial statement audits have been completed within 3 months after OAG               0         50         59
+
+  receipt of final financial statements using an improved methodology, undergone quality assurance
+
+  (iii) Months between receipt of final consolidated financial reports by OAG and submission of audited                10          5         4
+
+  financial statements to Parliament
+
+  PDO Indicator 6a: Transparent Institutions
+
+  Percentage of MDAs whose information is publicly available online in searchable form on a) sub-program                0        100        100
+
+  expenditure, b) project expenditure and c) transfers to at least one service delivery units
+
+  PDO Indicator 6b: Strengthened Fiduciary Assurance and Risk Management
+
+  MDA Internal Audit Reports have been prepared and undergone quality assurance in line with enhanced                   0         25         26
+
+  procedures for assurance, risk management and audit follow-up (number)
+
+  PDO Indicator 7: Strengthened Transparency and Oversight
+
+                                                                                                                       No         Yes       Yes
+
+  State Corporations (SCs) budgets and reports are linked to performance targets
+
+  PDO Indicator 8: Citizen Integrated Platform
+
+                                                                                                                      300        577       7,793
+
+  Number of services onboarded on re-engineered e-citizen Portal
+
+
+
+40. Achievement of Outcome 1, Prioritized Public Investments, is rated as Substantial. The PDO indicator and all
+
+    intermediate indicators were achieved. This includes: (a) the establishment of a PIM Unit in the National Treasury;
+
+    (b) the creation of PIM regulations, project appraisal manuals, and sector specific methodologies for infrastructure,
+
+    health, and education sectors at the national level; and (c) development of a user-accepted Public Investment
+
+    Management Information System (PIMIS). The PIM framework laid essential institutional foundation for the
+
+    implementation of public investment across national and sub-national levels envisaged in GESDeK II and the Second
+
+
+
+    1PDO Indicators 2 and 3 are marked as partially achieved because some related DRLs were not achieved (see paragraphs 41 and 42 for details).
+
+    The confirmation date is the date the World Bank provided disbursement notification to the Borrower.
+
+
+
+
+
+                                                                                                                                           Page 14 of 59
+
+   The World Bank
+
+   Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+   (P161387)
+
+
+
+
+
+
+
+     Kenya Devolution Support Program (KDSP II). The public investment reform efforts were central in effective
+
+     allocation of resources and public spending, further promoting GoK’s fiscal consolidation efforts.
+
+  DLI and DLRs                                                                                                                      Confirmation   Achievement          Disbursement
+
+                                                                                                                                       (Date )       (Yes, Prt, No)       ( EUR million)
+
+  DLI 1: Prioritized Public Investments                                                                                                                                       17.56
+
+   DLR 1.0a     PIM Unit established in NT                                                                                            Oct-2020                                2.20
+
+   DLR 1.0b     Approved PIM manual & user requirements which address key challenges in PIM                                           Oct-2020                                2.20
+
+                At least 10 projects that have been approved for inclusion in the public investment project pipeline comply with
+
+   DLR 1.5a                                                                                                                           May-2022                                1.75
+
+                the project concept note (PCN), pre-feasibility and feasibility provisions outlined in the PIM Guidelines
+
+                Automation of the PCN, pre-feasibility and feasibility phases of the public investment project cycle enabled
+
+   DRL 1.5b                                                                                                                           Jun-2023                                0.88
+
+                through the completion of the pre-investment module in the PIMIS
+
+                PIM Manuals completed for (i) economic appraisal of projects, (ii) national parameters and commodity-specific
+
+   DLR 1.5c                                                                                                                           May-2022                                0.88
+
+                conversion factors to be used in project preparation, and (ii) monitoring and evaluation of projects
+
+                Project stock-take exercise completed for all ongoing and new projects and project inventory up to date in
+
+   DLR 1.5d     Hyperion for at least 10 service delivery MDAs in the infrastructure, health, and education sectors, with             May-2022                                2.63
+
+                information regarding the status of the projects and multi-year commitments
+
+                At least 30 projects that have been approved for inclusion in the public investment project pipeline comply with
+
+   DLR 1.6a                                                                                                                           Jun-2023                                1.75
+
+                the PCN, pre-feasibility and feasibility provisions outlined in the PIM Guidelines
+
+                Automation of budgeting, Monitoring and Evaluation (M&E), and reporting phases of the public investment
+
+   DLR 1.6b                                                                                                                           Jun-2023                                1.75
+
+                project cycle enabled through the completion of these modules in PIMIS
+
+                Sector-specific PIM methodologies developed for infrastructure, health, and education sectors at the national
+
+   DLR 1.6c                                                                                                                           Apr-2024                                0.88
+
+                level
+
+                Project stock-take exercise completed for all ongoing and new projects and project inventory up to date in
+
+   DLR 1.6d     Hyperion for at least 20 service delivery MDAs, with information regarding the status of the projects and             May-2022                                2.63
+
+                multiyear commitments
+
+
+
+
+
+41. Achievement of Outcome 2, Reliable Funding for Service Delivery and Investment Projects is rated as Substantial.
+
+    All but one of the indicators were fully achieved. The NT completed the preparation of an aggregate cash plan and
+
+    the design of an automated cash management system to improve the predictability of fund flows regarding
+
+    government services and projects. The achievement of DLR 2.1a was an intermediate target to pave the way for the
+
+    automation of the cash management system, including cash planning, exchequer requisitioning, and release.
+
+    However, the use of automated approval process workflows was intermittent. The IVA revealed that cash planning,
+
+    approval, and production of monthly exchequer release reports were not used consistently.
+
+ DLI and DLRs                                                                                                                      Confirmation    Achievement          Disbursement
+
+                                                                                                                                      (Date )       (Yes, Prt, No)       ( EUR million)
+
+ DLI 2.1 Reliable funding for Service Delivery and Investment Projects                                                                                                      14.46
+
+  DLR 2.1a    UAT of cash management and exchequer systems                                                                           Oct-2020                                1.30
+
+  DLR 2.1a    Guidelines adopted by NT which require that revised MDA cash plans protect service delivery
+
+                                                                                                                                     May-2022                                1.32
+
+    5(a)      and infrastructure budget priorities
+
+              The cash management system strengthened in Hyperion and IFMIS, with (i) MDA cash allocations set using
+
+              category limits from the annual aggregate including in-year cash plans; (ii) MDA cash plans preparation within
+
+  DLR 2.1a
+
+              cash allocations and consolidated using Hyperion; (iii) exchequer register functionality prepared; (iv) requests       May-2022                                1.32
+
+    5(b)
+
+              within limits are processed within the expenditure category limits subject to unforeseen contingencies; and (v)
+
+              exchequer reports and cash management reports generated.
+
+  DLR 2.1a
+
+              The cash management system strengthened in Hyperion and IFMIS "..."                                                    Jun-2023                                2.63
+
+    5(b)
+
+  DLR 2.1a    Automation of the approval process workflow for (i) annual and revised aggregate cash plans in Hyperion and
+
+                                                                                                                                     Jun-2023                                4.39
+
+    5(c)      (ii) receivers of revenue and exchequer releases in line with the cash management framework categories in IFMIS
+
+              Percentage of approvals for (i) annual and revised aggregate cash plans processed using Hyperion and (ii)
+
+   2.1a.6                                                                                                                            Apr-2024                                0.00
+
+              receivers of revenue and exchequer releases processed using IFMIS
+
+  DLR 2.1d    Annual exchequer releases to GoK capital budget allocations as a percent of the approved budget.                       Oct-2020                                1.76
+
+              In year borrowing plan consistent with delivering cash for MDAs based on a compilation of the cash plans using
+
+  DLR 2.3a                                                                                                                           Oct-2020                                1.76
+
+              the new system
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                      Page 15 of 59
+
+   The World Bank
+
+   Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+   (P161387)
+
+
+
+
+
+
+
+42. Achievement of Outcome 3, Efficient and Transparent Procurement, is rated as Substantial. Two of the three
+
+    indicators were achieved while one indicator was partially achieved. The critical reform steps involved the review
+
+    and upgrading of the existing procurement system. The NT hired a contractor to design and implement an e-GP
+
+    system that would be used by all public procuring entities in both national and county governments. Under DLR 3.6
+
+    the e-procurement system Module on Registration and Procurement Planning was fully piloted and the module for
+
+    uploading the Standard Tender Documents was created. However, data from the Public Procurement Regulatory
+
+    Authority (PPRA), updated Standard Tender Documents templates, and the Annual Procurement Plan template had
+
+    not been customized and uploaded to the system. Therefore, at Program completion, several actions under DLR 3.6
+
+    had not been fully piloted as required, including: (a) requisition and e-bidding; (b) Contract Management module;
+
+    (c) and e-publication of data in compliance with the OCDS module. The development and customization of the
+
+    templates was ongoing at Program close. Lastly, delayed integration with IFMIS was a challenge that delayed the e-
+
+    Payment and e-Guarantee Management modules.
+
+ DLI and DLRs                                                                                                               Confirmation   Achievement         Disbursement
+
+                                                                                                                               (Date )      (Yes, Prt, No)       ( EUR million)
+
+  DLI 3: Efficient and Transparent Procurement                                                                                                                       7.02
+
+              Government Procurement (e-GP) system including the state procurement portal, aligned to requirements of the
+
+   DLR 3.5a                                                                                                                   May-2022                               3.51
+
+              Public Procurement and Asset Disposal Act (PPADA) and attendant regulations
+
+              e-GP Project Implementation Unit established, developer/contractor in place, and System Requirement
+
+   DLR 3.5b                                                                                                                   Jun-2023                               3.51
+
+              Specification (SRS) and System Design Document (SDD) approved
+
+              At least 5 MDAs have piloted the e-GP System modules on registration, procurement planning, and contract
+
+   DLR 3.6                                                                                                                    Apr-2024                               0.00
+
+              management through invoicing
+
+
+
+43. Achievement of Outcome 4, Consolidated Staff Data, is rated as Substantial. All targets were achieved. The initial
+
+    reform step was to develop a roadmap with business processes and technical/user requirements for the upgraded
+
+    GHRIS linked to IFMIS. This was achieved, albeit outside the planned timeline of June 2018. The PDO indicator of
+
+    having at least 10 MDAs' payroll data posted in the improved GHRIS system, was exceeded due to the ease of
+
+    transitioning MDAs from the Integrated Personnel and Payroll Database (IPPD) system to the upgraded GHRIS
+
+    system. Despite these achievements, the IVA report noted that there is a need to harmonize codes for GHRIS and
+
+    IFMIS to make comparisons easier and more transparent. While DLR 4.5 and DLR 4.6 were achieved according to
+
+    requirements in the POM, the IVA report revealed inconsistencies between the payroll system and IFMIS. The basic
+
+    salary and allowances codes in GHRIS and IFMIS were different due to employees who are on manual payrolls, salary
+
+    market adjustments, and the special salary category.
+
+  DLI and DLRs                                                                                                              Confirmation   Achievement          Disbursement
+
+                                                                                                                                (Date )     (Yes, Prt, No)        ( EUR million)
+
+  DLI 4: Consolidated Staff Data                                                                                                                                     10.53
+
+              Plan adopted GHRIS to be enhanced to handle consolidated Human Resource (HR) data from MDAs which
+
+   DLR 4.0a                                                                                                                   Oct-2020                                1.76
+
+              interfaces with IFMIS
+
+              Upgraded GHRIS is operational, including use of UPN, HR data warehouse, and Payroll module operational, as
+
+    DLR 4.5                                                                                                                   Jun-2023                                5.26
+
+              well as payroll data for teachers and one other MDA uploaded into GHRIS
+
+    DLR 4.6   Payroll data for 10 MDAs uploaded into GHRIS                                                                    Jun-2023                                3.51
+
+
+
+
+
+44. Achievement of Outcome 5, Timely and Quality Financial Statements and Audit, is rated as High. This RA addressed
+
+    challenges related to the lateness in annual audit reporting, inadequate audit follow-up, and weak linkage to the
+
+    evaluation of MDA service delivery. Despite initial delays with the appointment of the Auditor General, the PDO end
+
+    targets were exceeded. The months between receipt of consolidated financial statements by OAG and submission
+
+    of audited financial statements to Parliament were reduced from 10 months at the beginning of the Program to 4
+
+    months compared to 5 months end target. Additionally, 59 percent of MDAs’ financial statement audits were
+
+    completed within three months after receipt by OAG, compared to an end target of 50 percent.
+
+
+
+
+
+
+
+                                                                                                                                                             Page 16 of 59
+
+   The World Bank
+
+   Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+   (P161387)
+
+
+
+
+
+
+
+ DLI and DLRs                                                                                                                  Confirmation   Achievement          Disbursement
+
+                                                                                                                                  (Date )      (Yes, Prt, No)        ( EUR million)
+
+ DLI 5.1 & 5.2: Timely, Quality Assured, Financial Statements and Audits                                                                                                24.12
+
+               The percentage of MDAs the National Treasury has reviewed the quality of Annual Financial Statements
+
+   DLR 5.1                                                                                                                       Oct-2020                                2.63
+
+               generated from IFMIS and has submitted to the OAG within four months
+
+               The percentage of MDAs for which the NThas reviewed the quality of Annual Financial
+
+  DLR 5.1.5                                                                                                                      Jun-2023                                1.75
+
+               Statements generated from IFMIS and has submitted to the OAG within 4 months (targe 40%)
+
+               The percentage of MDAs for which the NThas reviewed the quality of Annual Financial
+
+  DLR 5.1.6                                                                                                                      Jun-2023                                3.07
+
+               Statements generated from IFMIS and has submitted to the OAG within 4 months (target 50%)
+
+   DLR 5.2a    Approval of audit codes that classify risk clusters to enable efficient targeting of audit resource               Oct-2020                                0.88
+
+  DLR 5.2a.5 Special COVID related expenditure audits                                                                            May-2022                                2.63
+
+             Percentage of MDAs whose financial statement audits have been completed within 3 months after OAG receipt of
+
+  DLR 5.2a.6                                                                                                                     Jun-2023                                4.37
+
+             final financial statements using an improved methodology, undergone quality assurance (target 50%)
+
+  DLR 5.2b     Enhanced audit methodology and quality assurance framework in place                                               Oct-2020                                0.45
+
+             Months between receipt of final consolidated financial reports by OAG and submission of the audited financial
+
+  DLR 5.2b.5                                                                                                                     May-2022                                1.75
+
+             statements to Parliament
+
+               Months between receipt of final consolidated financial reports by OAG and submission of the audited financial
+
+  DLR 5.2b.6                                                                                                                     Jun-2023                                4.37
+
+               statements to Parliament (target 5 months)
+
+               Percentage of MDAs, whose financial statement audits have been completed within three months after OAG
+
+   DLR 5.2c                                                                                                                      Oct-2020                                1.76
+
+               receipt of final financial statements using an improved methodology, undergone quality assurance
+
+               Months between receipt of consolidated and quality assured financial statements by OAG and submission of the
+
+  DLR 5.2d                                                                                                                       Oct-2020                                0.45
+
+               audited financial statements to Parliament
+
+
+
+45. Achievement of Outcome 6a, Transparent Institutions, is rated as High. This RA aimed to build transparent
+
+    institutions by ensuring that stakeholders can access timely, reliable, and relevant information on service delivery.
+
+    By Program close, the PDO indicator was achieved with 100 percent of MDAs having information publicly available
+
+    and in searchable form by program and sub-program, and at least 2 MDAs had information available on transfers to
+
+    service delivery units, which exceeded the target of 1.
+
+ DLI and DLRs                                                                                                                  Confirmation   Achievement          Disbursement
+
+                                                                                                                                  (Date )      (Yes, Prt, No)        ( EUR million)
+
+ DLI 6.1: Transparent Institutions                                                                                                                                       9.65
+
+               MDAs can access the Analytical Repository for multi-year budget data in searchable form by program and sub-
+
+  DLR 6.1.5                                                                                                                      May-2022                                2.63
+
+               program through the budget module in IFMIS.
+
+               UAT for the Budget Portal interface which provides information in a searchable form on programs and sub-
+
+  DLR 6.1.6a                                                                                                                     Jun-2023                                3.51
+
+               programs, and for at least 1 MDA, information on transfers to service delivery units
+
+               For all MDAs, information is publicly available and in searchable form by program and subprogram, and for at
+
+  DLR 6.1.6b                                                                                                                     Jun-2023                                3.51
+
+               least 1 MDA, information available on transfers to service delivery units
+
+
+
+46. Achievement of Outcome 6b, Strengthened Fiduciary Assurance and Risk Management, is rated as High. All DLRs
+
+    were achieved. As part of efforts to strengthen internal audit in MDAs, a diagnostic study of the internal audit was
+
+    conducted and the quality assurance framework for internal audit updated. The PDO indicator was exceeded, with
+
+    26 (compared to a target of 25) MDAs’ Internal Audit Reports prepared with quality assurance in line with enhanced
+
+    procedures for assurance, risk management, and audit follow-up.
+
+ DLI and DLRs                                                                                                                  Confirmation   Achievement          Disbursement
+
+                                                                                                                                   (Date )      (Yes, Prt, No)       ( EUR million)
+
+ DLI 6.2: Strengthened Fiduciary Assurance and Risk Management                                                                                                           14.04
+
+   DLR 6.2a     Complete diagnostic study of internal audit                                                                      Oct-2020                                 0.88
+
+                Updated manuals and QA framework for internal audit in place to strengthen assurance and risk management
+
+   DLR 6.2b                                                                                                                      Oct-2020                                 0.88
+
+                are in place
+
+                MDAs Internal Audit Reports have been prepared and undergone quality assurance in line with enhanced
+
+   DLR 6.2.5                                                                                                                     May-2022                                 6.14
+
+                procedures for assurance, risk management and audit follow up (target: 20 MDAs.)
+
+                Internal Audit Reports have been prepared and undergone quality assurance in line with
+
+   DLR 6.2.6                                                                                                                     Jun-2023                                 6.14
+
+                enhanced procedures for assurance, risk management and audit follow up (target: 25 MDAs.)
+
+
+
+47. Achievement of Outcome 7, Strengthened Transparency and Oversight is rated as High . The achievements included
+
+    the approval of user requirements and completion of acceptance testing for the GIMIS for SCs as well as the target
+
+
+
+                                                                                                                                                                 Page 17 of 59
+
+    The World Bank
+
+    Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+    (P161387)
+
+
+
+
+
+
+
+     for number of SCs submitting data on corporate, budget, and statutory requirements using the GIMIS. The PDO
+
+     indicator requiring SCs to utilize GIMIS was exceeded. By Program close, 258 SCs were using GIMIs, which far
+
+     exceeded the target of 30 SCs.
+
+  DLI and DLRs                                                                                                             Confirmation   Achievement         Disbursement
+
+                                                                                                                              (Date )      (Yes, Prt, No)       ( EUR million)
+
+  DLI 7: Transparency and Oversight of State Corporations                                                                                                          14.91
+
+    DLR 7.5a   Approved user requirements for GIMIS                                                                          May-2022                               0.88
+
+   DLR 7.5b    Approved UAT for GIMIS.                                                                                       May-2022                               3.51
+
+    DLR 7.5c   Number of State Corporations submitting data on corporate, budget, and statutory requirements using a MIS     May-2022                               5.26
+
+    DLR 7.6    Investment module developed in GIMIS.                                                                         Jun-2023                               5.26
+
+
+
+
+
+ 48. Achievement of Outcome 8, Citizen Integrated Platform, is rated as High . The user requirements and UAT for the
+
+     eCitizen portal were approved as well as the publicity and change management strategy. The PDO's achievement
+
+     received a significant boost following the transition to a new administration that took office in September 2022 and
+
+     declared digitization of government services a top priority. The Program's goal of onboarding 277 services on
+
+     eCitizen, was exceeded due to the GoK’s commitment. As a result, 7,793 services were onboarded by Program close.
+
+  DLI and DLRs                                                                                                             Confirmation   Achievement         Disbursement
+
+                                                                                                                              (Date )      (Yes, Prt, No)       ( EUR million)
+
+  DLI 8: Strengthened Service Delivery                                                                                                                             13.16
+
+    DLR 8.5a   Approved user requirements for reengineered eCitizen                                                          May-2022                               0.88
+
+   DLR 8.5b    Approved Change Management and Communications Strategy for eCitizen                                           May-2022                               0.88
+
+    DLR 8.6a   UAT for re-engineered eCitizen completed                                                                      Jun-2023                               0.88
+
+   DLR 8.6b    277 new services onboarded on eCitizen                                                                        Jun-2023                              10.53
+
+
+
+
+
+  Rating of Overall Efficacy
+
+ 49. The overall efficacy rating of Substantial is justified by the evidence presented above. The operation met in full
+
+     and exceeded most of the targets established under both the PDO and intermediate-level indicators. At Program
+
+     close 48 out of 50 (96 percent) DLRs were achieved.
+
+
+
+C. JUSTIFICATION OF OVERALL OUTCOME RATING
+
+ 50. The overall outcome is rated as Satisfactory based on the High relevance of the PDO and the Substantial rating of
+
+     the Program’s efficacy.
+
+
+
+D. OTHER OUTCOMES AND IMPACTS
+
+ Poverty Reduction and Shared Prosperity
+
+ 51. The Program contributed to poverty reduction and shared prosperity by bringing services closer to citizens and
+
+     improving PFM systems that enhance efficiency in service delivery. Beneficiaries of the Program are expected
+
+     to see an improvement in the provision of core government services through utilization of electronic services,
+
+     increased transparency for citizens and businesses, as well as timeliness of cash flow into service delivery MDAs.
+
+     For instance, the eCitizen platform enables citizens and businesses to conduct and pay for government services
+
+     online. Similarly, e-GP allows more vendors to gain access to government procurement opportunities. The online
+
+     budget portal enables citizens to access budgetary and spending data of service delivery units, which promotes
+
+     public engagement and scrutiny, while the cash management framework enhances GoK’s capabilities in
+
+     managing cash, commitment control, fiscal consolidation, and transfers to service delivery MDAs.
+
+
+
+
+
+
+
+                                                                                                                                                            Page 18 of 59
+
+     The World Bank
+
+     Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+     (P161387)
+
+
+
+
+
+
+
+III. KEY FACTORS THAT AFFECTED IMPLEMENTATION AND OUTCOME
+
+
+
+A. KEY FACTORS DURING PREPARATION
+
+  52. A key factor during preparation that affected implementation was that GESDeK was the first-ever PFM PforR
+
+      in Kenya. The novelty of the instrument led to a mismatch in expectations and limited understanding of the PforR
+
+      concept created weaknesses in work programming, planning, and coordination at Program inception. To address
+
+      this capacity gap, the Bank provided TA to facilitate the development of work plans. Furthermore, the timing of
+
+      the Program design coincided with the drafting of the PFMRS for 2018-2023. As a result, GESDeK had to be initially
+
+      anchored under its predecessor, which was more input-driven compared to the output orientation key for the
+
+      success of a PforR. The Bank team navigated this challenge by continuously sensitizing GoK on the main elements
+
+      of a PforR, thereby charting a path to a better understanding of the instrument and achievement of results.
+
+ B. KEY FACTORS DURING IMPLEMENTATION
+
+  53. Factors subject to the control of government and/or implementing entities. Overall, the Program’s success and
+
+      achievements can be attributed in part to the NT, whose performance was strong across the life of the Program,
+
+      as well as the strong engagement with the responsible units of Ministry of Public Service, Performance and
+
+      Delivery Management, and the OAG. The Program Coordinator ensured effective coordination and timely inputs
+
+      from different sectoral focal points. The main challenges the Government faced were related to delays at the
+
+      onset of the Program that had a knock-on effect on planned interventions. The slow start to GESDeK was mainly
+
+      due to an extended election period in 2017. The Program became effective in the middle of the fiscal year when
+
+      the budget and workplans had already been prepared and the budget passed by Parliament. Thus, the Program
+
+      effectively started after one year, which impacted the achievement of results planned in the first year.
+
+  54. Factors subject to World Bank control. The project benefited from the fact that both Task Team Leaders (TTLs)
+
+      were field-based, and one remained the same throughout implementation. Regular missions were conducted,
+
+      and strong relationships were established with government counterparts. This allowed the team to interact
+
+      regularly with NT, which facilitated the successful implementation of the Program. The World Bank task team
+
+      was able to work closely with the GoK and rapidly respond to emerging issues. Relatedly, a key factor that played
+
+      a role in the success of the Program was the timely restructuring at the MTR.
+
+  55. Factors outside the control of government and/or implementing entities. The COVID-19 pandemic created
+
+      delays in achieving the DLIs scheduled for the first two years of the project. The containment measures
+
+      implemented to fight the COVID-19 pandemic led to delays in implementing some planned activities, particularly
+
+      those related to capacity building, development of work plans, and engagement with stakeholders. Engagement
+
+      with key stakeholders was carried out mostly through virtual meetings.
+
+
+
+IV. BANK PERFORMANCE, COMPLIANCE ISSUES, AND RISK TO DEVELOPMENT OUTCOME
+
+
+
+A. QUALITY OF MONITORING AND EVALUATION
+
+   M&E Design
+
+  56. The M&E arrangements were robust. They included five key tools, namely: (a) the Results Framework (RF); (b)
+
+      Results Team Reporting; (c) the Program Action Plan (PAP); (d) IVA for DLIs; and (e) implementation support
+
+      missions and other diagnostic exercises. The PFM Reform Secretariat at the NT coordinated the implementation
+
+      of PFM reforms. To effectively implement GESDeK, Result Teams, responsible for the achievement and reporting
+
+      of specific DLIs, were introduced in the governance structure. Ernst & Young (EY) LLP Kenya was contracted by NT
+
+
+
+                                                                                                            Page 19 of 59
+
+    The World Bank
+
+    Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+    (P161387)
+
+
+
+
+
+
+
+      for four years from 2019-2023 as the IVA, which facilitated verification. Furthermore, M&E design was
+
+      strengthened by several key initiatives including: (a) development of the GESDeK POM that outlined the strategies,
+
+      rules, procedures, and guidance for the implementation of the PforR; (b) development of the M&E Framework for
+
+      the PFMRS for 2018-2023; and (c) formulation of a Communication Strategy (CS) for 2018-2023 outlining the
+
+      measures to be implemented to increase stakeholders’ support for PFM reform implementation.
+
+  M&E Implementation
+
+ 57. Reporting data for the RF indicators was done throughout the Program's life. The selected performance
+
+     indicators were tracked regularly, and the RF was updated promptly during supervision missions. The POM
+
+     outlined the detailed verification protocol, checklists, and supporting evidence required for the IVA process, which
+
+     enabled the quality of the independent verification practices. The IVA’s approach included: (i) statements of the
+
+     validity of supporting evidence, methodology, and tasks undertaken by the IVA; (ii) confirmation of the application
+
+     of DLI protocols by implementing agencies and statement of the activities carried out by the IVA to do so; (iii)
+
+     confirmation of whether or not DLRs had been achieved or whether the IVA was unable to reach a conclusion on
+
+     the achievement of the results; and (iv) statement of any outstanding issues, responsibilities, timelines, and
+
+     documentation of the process of resolving any issues with implementing agencies. In addition to the IVA process,
+
+     implementation support missions were conducted annually by the World Bank and AFD. To strengthen the Result
+
+     Team mechanism, the PFMRS engaged a Program Coordinator at the Secretariat to coordinate, support, and work
+
+     with each Result Team, including planning, budgeting, monitoring, and reporting on the achievement of the DLIs.
+
+  M&E Utilization
+
+ 58. Data was made available regularly for the RF and was used to inform the analysis for this ICR . The first IVA report
+
+     was produced covering two financial years, 2017/18 and 2018/19, and formed the basis for disbursement of
+
+     Program funds for 2020/21. Thereafter, three IVA reports were produced through the life of the Program. The
+
+     confirmation of achievement of results was the basis for disbursement of funds. While utilization was satisfactory,
+
+     some measurement challenges were observed. For instance, in the beginning of implementation, the full
+
+     automation of the cash management function was delayed, and the institutional arrangements for cash
+
+     management did not work as programmed. The IVA report concluded that a lack of relevant data hampered the
+
+     measurement of DLR2.3 b and DLR2.1(c), which led to restructuring of this DLR. Despite these minor challenges,
+
+     data collection and availability were adequate thought the operation.
+
+  Justification of Overall Rating of M&E Quality
+
+ 59. Based on the analysis presented above, the overall rating for M&E is Substantial.
+
+
+
+B. ENVIRONMENTAL, SOCIAL, AND FIDUCIARY COMPLIANCE
+
+  Environmental and Social
+
+ 60. Environmental and Social Safeguards (ESS) performance is rated as Satisfactory. As a standalone PforR, the
+
+     environmental and social system assessment (ESSA) was conducted, and only two out of the six World Bank Core
+
+     Principles on ESS applied. This included, Core Principle number 1, General Principle of Environmental and Social
+
+     Assessment, and number 3 on Public and Worker Safety. The environmental and social risks and impacts of
+
+     activities under GESDeK were assessed as “low” or “negligible” because low quantities of electronic equipment
+
+     were procured for the program and did not present significant or severe impacts to both the biophysical and social
+
+     environment. In addition, the PIM regulations were subjected to public participation in line with the Constitutional
+
+
+
+
+
+
+
+                                                                                                            Page 20 of 59
+
+    The World Bank
+
+    Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+    (P161387)
+
+
+
+
+
+
+
+      requirements, the specific PIM methodologies manuals for infrastructure, health and education sectors were
+
+      developed consultatively with the relevant MDAs, and no grievances were registered during implementation.
+
+  Fiduciary
+
+ 61. Financial Management performance is rated as Satisfactory. The accounting function under GESDeK performed
+
+     adequately in line with the PFM Act and regulations. Transactions were systematically captured in IFMIS and there
+
+     was adequate staff capacity for fiduciary oversight. The staffing level in the finance and accounting departments
+
+     of the implementing entities were adequate. There was a notable improvement in the timely submission of annual
+
+     financial statements to the OAG. However, there were delays in submitting the audited financial statements of
+
+     the entities to the Bank. The last audit report from the NT, dated June 30, 2022, was qualified due to issues with
+
+     the accuracy and validity of prior year adjustments, the recording of asset acquisitions, the propriety of purchasing
+
+     specialized materials and services, and unauthorized use of surplus. It is important to note that these issues
+
+     pertained to the general operations of the NT and were not specific to the Program.
+
+ 62. Procurement performance is rated as Satisfactory . Under GESDeK, procurement processes were conducted in
+
+     line with the provisions of the law. Procurement manuals were developed internally by the regulator and the
+
+     MDAs to guide the procurement processes. The Bank provided intensive advisory and quality assurance support
+
+     for activities under RA 3 regarding e-GP and is expected to continue providing the required technical assistance
+
+     and support during the piloting and rollout of the system across the country in GESDeK II through KADP.
+
+
+
+C. BANK PERFORMANCE
+
+  Quality at Entry
+
+ 63. The quality at entry was Satisfactory. As mentioned in previous sections, this was the first PFM PforR for the NT,
+
+     the OAG, and the State Department for Public Service (SDPS) in Kenya. The unfamiliarity with the PforR model
+
+     resulted in a slower initial uptake and a lag in achieving results during the first year. The selection of DLIs could
+
+     have been further simplified, especially given the implementing agencies' first PforR experience. However, a
+
+     comprehensive set of DLIs represented an opportunity to establish the foundational elements of a robust PFM
+
+     system. Additionally, the design could have anticipated some of the challenges regarding the difficulty in procuring
+
+     IT systems and tying DLIs to the legislative process. The Bank team included these as difficult but critical areas to
+
+     achieve substantial PFM reforms and mitigated some of these challenges by providing extensive technical
+
+     assistance and close implementation support to the GoK.
+
+  Quality of Supervision
+
+ 64. Quality at supervision was Satisfactory. The Bank task team conducted regular implementation support missions
+
+     and was able to quickly resolve issues as they emerged. During COVID-19, access to the client was limited, but was
+
+     resolved with virtual meetings. After the MTR the Program was restructured reflecting sound judgement and a
+
+     timely response in addressing challenges that threatened to undermine achievement of results. The Program
+
+     progressed from Moderately Satisfactory at mid-term to Satisfactory at closing. This was due to strong technical
+
+     assistance from various development partners, including the World Bank, who formed a PFM Sector Donors
+
+     Working Group, and the implementing agencies’ eventual grasp of the PforR instrument as well as their ownership
+
+     of the results given GoK’s prioritization of the reforms in the PFMRS for 2018-2023.
+
+  Justification of Overall Rating of Bank Performance
+
+ 65. The overall rating of Bank performance is Satisfactory based on the justification presented above.
+
+
+
+
+
+
+
+                                                                                                             Page 21 of 59
+
+     The World Bank
+
+     Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+     (P161387)
+
+
+
+
+
+
+
+ D. RISK TO DEVELOPMENT OUTCOME
+
+  66. The risk to development outcome is low. GESDeK established essential foundations for the implementation and
+
+      performance monitoring structure to deepen PFM reforms across MDAs. The government has a robust results-
+
+      oriented PFM reform program, for which adequate resources are and will be allocated from the national budget,
+
+      including for the capacity building and TA resources required to accelerate reform momentum. These resources
+
+      are and will be complemented by TA from development partners. The continuation of the PforR instrument under
+
+      GESDeK II will ensure the sustainability of development objectives related to PFM reforms.
+
+  67. The Program expenditure framework, including under follow-on operation, GESDeK II, remains fiscally
+
+      sustainable. The government’s medium-term fiscal trajectory is sound, and the PFM reform program is included
+
+      in the medium-term expenditure framework. The PFM reform program has been in place since 2006 and is
+
+      reliably funded. Participating MDAs are granted the authority to incur commitments and expenditures to enable
+
+      them to achieve results under the PFMRS based on the work plans that they submit to the PFM Reform
+
+      Secretariat at the beginning of the fiscal year. The PFM reform program has further flexibility regarding in-year
+
+      budget reallocations to meet the advisory and capacity-building needs that may emerge during the fiscal year.
+
+  68. Macroeconomic, political, and governance risks can impact the sustainability of the development outcomes
+
+      achieved. The fiscal consolidation agenda may face challenges due to a demand for higher spending to lower the
+
+      cost of living, potential introduction of subsidies, and revenues falling short of projections. A cycle of climate-
+
+      induced natural disasters could pose fiscal pressures due to the urgent need to rebuild damaged infrastructure
+
+      and provide social protection. Also, the substantive and politically sensitive nature of the reforms proposed by
+
+      GoK regarding enhancing revenues and accountability in public spending bear political economy implications.
+
+  69. The WB will mitigate macroeconomic and political risks through the interventions under GESDeK II. The reforms
+
+      that GESDeK II will support are designed to increase revenue collection and improve efficiency in spending, which
+
+      should mitigate fiscal pressures over the medium-term. The World Bank will liaise with the IMF and other
+
+      development partners to monitor fiscal stability and recalibrate Program actions during implementation. GESDeK
+
+      II makes an intentional effort to forge an alliance between the Executive and Parliamentary liaisons. It is expected
+
+      that this effort will provide a channel of engagement that mitigates the extent to which political contestation may
+
+      affect reform progress.
+
+
+
+V. LESSONS AND RECOMMENDATIONS
+
+
+
+  70. In designing DLIs, it is important to avoid indicators that depend on the legislative approval process. In GESDeK,
+
+      DLR 2.2a “Actual domestic (tax plus non-tax) revenue collections as a percentage of the annual budget” – was not
+
+      achieved in three consecutive years due to significant differences between actual revenue collection and the
+
+      budgeted revenue. The growing divergences between actual revenue collection and the budget were attributed
+
+      to multiple factors, including institutional arrangements for budget formulation where the legislature could
+
+      significantly alter the proposed revenue mobilization measures. However, reform momentum was not lost as
+
+      reforms related revenue were incorporated in the IMF program and the Inclusive Growth and Fiscal Management
+
+      DPF (P168204), further strengthening the link between the PforR instrument and other existing programs.
+
+      Nonetheless, it is recommended that future program designs should carefully consider the potential impact of
+
+      legislative processes on the achievement of DLIs. Specifically, DLIs should be formulated to minimize reliance on
+
+      legislative approval, which can introduce unpredictability and delay. Therefore, to enhance the likelihood of
+
+      achieving DLIs, it is advisable to select indicators that are within the direct control or influence of the implementing
+
+      agencies.
+
+
+
+
+
+                                                                                                                 Page 22 of 59
+
+       The World Bank
+
+       Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+       (P161387)
+
+
+
+
+
+
+
+    71. Opting for fewer focused DLIs has the potential to enable higher disbursements and greater achievement of
+
+        strategic outcomes. The 27 DLIs under GESDeK, while considered necessary at the time of appraisal, ultimately
+
+        proved cumbersome, making it difficult to track outcomes. Having fewer DLIs related to strategic outcomes, with
+
+        the right level of ambition, yet realistic, makes the PforR instrument more effective. This streamlined approach
+
+        allows for a more focused and strategic allocation of resources, ensuring that each DLI is closely aligned with the
+
+        Program's core objectives. It simplifies the M&E process, making it easier for implementing agencies to track
+
+        progress and measure outcomes effectively. Fewer DLIs reduce the administrative burden, allowing teams to
+
+        concentrate on achieving results rather than managing a complex set of indicators. This focus on key outcomes
+
+        can also enhance the clarity and transparency of the program, making it more straightforward for stakeholders to
+
+        understand the program's goals and the criteria for success.
+
+    72. Quality of technical design complemented by adequate financing and TA were critical success factors in the
+
+        achievement of results. GESDeK was primarily centered on the policies and systems that were foundational for
+
+        the achievement of the results desired under GoK’s PFMRS. The Program promoted engagement and
+
+        interventions across a wide range of foundational matters regarding reform steps of the PFM cycle, including the
+
+        macro-fiscal framework, budget credibility, financial reporting, and external oversight. This level of detailed
+
+        engagement and comprehensive scope was necessary given the country’s PFM and public sector reform
+
+        trajectory. The Program introduced and piloted several policies and systems that constitute the cornerstones of a
+
+        well-functioning PFM system. Anchored on the results based PFMRS for 2018-2023, GESDeK incentivized GoK to
+
+        accelerate the achievement of the results in a manner that was coordinated and sufficiently financed by the NT.
+
+        The incentive structure was such that PFMR Secretariat had the flexibility to allocate and reallocate government
+
+        resources based on demands from implementing MDAs who also responded to program-based budgets linked to
+
+        performance management targets. The reform efforts were complemented by TA from various development
+
+        partners including the World Bank who formed a PFM Sector Donors Working Group. Having a multi-donor trust
+
+        fund, KADP, to provided TA and quality assurance was critical, particularly regarding ICT related reforms.
+
+    73. Alignment of the PforR Program to reflect evolving government priorities was critical. External disruptions due
+
+        to COVID-19, leading to increase in global prices, slowed down implementation and achievement of the targeted
+
+        results under the Program. This was further exacerbated by change of government with realigned priorities.
+
+        Following MTR, the operation was restructured to reflect the changing government priorities to mitigate COVID-
+
+        19 interruptions, promote economic resilience and recovery, and rollout e-government services as well as SC
+
+        reforms to bolster fiscal consolidation. Despite spending budget cuts across government, funding for the
+
+        earmarked reforms under the PFMRS and the Program was viewed as a quasi-budget support to boost financing
+
+        of government priorities amid fiscal and economic meltdown.
+
+.
+
+
+
+
+
+
+
+
+
+                                                                                                              Page 23 of 59
+
+    The World Bank
+
+    Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+    (P161387)
+
+
+
+
+
+
+
+                     ANNEX 1. RESULTS FRAMEWORK, DISBURSEMENT LINKED INDICATORS, AND PROGRAM ACTION PLAN
+
+
+
+Annex 1A. RESULTS FRAMEWORK
+
+
+
+(i) PDO Indicators
+
+
+
+
+
+ Objective/Outcome: PDO Indicator 1: Prioritized Public Investments
+
+                                                                                                     Formally Revised   Actual Achieved at
+
+ Indicator Name                 Unit of Measure Baseline                   Original Target
+
+                                                                                                     Target             Completion
+
+
+
+ Projects with capital           Number           0.00                      30.00                                       34.00
+
+ allocation above KES.100m in
+
+ complance with procedures                        30-Jun-2016               07-Sep-2017                                 31-Dec-2023
+
+ in PIM Guidelines
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target exceeded.
+
+
+
+
+
+
+
+
+
+ Objective/Outcome: PDO Indicator 2: Reliable Funding for Service Delivery and Investment Projects
+
+                                                                                                     Formally Revised   Actual Achieved at
+
+ Indicator Name                 Unit of Measure Baseline                   Original Target
+
+                                                                                                     Target             Completion
+
+
+
+ Cash management                 Yes/No           No                        No                                          Yes
+
+ functionality strengthened
+
+ through automation in IFMIS                      30-Jun-2016               07-Sep-2017                                 31-Dec-2023
+
+ and Hyperion budget system
+
+
+
+
+
+                                                                                                                                 Page 24 of 59
+
+    The World Bank
+
+    Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+    (P161387)
+
+
+
+
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target partially achieved. Cash management and exchequer system automated but partially used.
+
+
+
+
+
+
+
+
+
+ Objective/Outcome: PDO Indicator 3: Efficient and Transparent Procurement
+
+                                                                                                        Formally Revised          Actual Achieved at
+
+ Indicator Name                    Unit of Measure Baseline                   Original Target
+
+                                                                                                        Target                    Completion
+
+
+
+ MDAs using the e-                 Number           0.00                      20.00                     5.00                      12.00
+
+ Procurement System in
+
+ compliance with the PPAD                           30-Jun-2016               07-Sep-2017               29-Oct-2021               31-Dec-2023
+
+ Act, 2015, and attendant
+
+ Regulations for the full fiscal
+
+ year and procurement data
+
+ disclosed in SPP following
+
+ OCDS
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target partially achieved. 12 MDAs were piloted, but not all modules were fully deployed as planned - information availability via the Procurement
+
+Information, Portal, and Contract Management up to Invoicing.
+
+
+
+
+
+
+
+
+
+ Objective/Outcome: PDO Indicator 4: Consolidated Staff Data
+
+                                                                                                        Formally Revised          Actual Achieved at
+
+ Indicator Name                    Unit of Measure Baseline                   Original Target
+
+                                                                                                        Target                    Completion
+
+
+
+
+
+                                                                                                                                             Page 25 of 59
+
+    The World Bank
+
+    Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+    (P161387)
+
+
+
+
+
+
+
+ Number of MDAs whose             Number           0.00                      20.00                    10.00                     211.00
+
+ payroll data has been
+
+ uploaded to GHRIS and are                         30-Jun-2016               07-Sep-2027              29-Oct-2021               31-Dec-2023
+
+ up to date
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target exceeded. While the goal was to have at least 10 MDAs' payroll data posted in the improved GHRIS system, it was exceeded due to the ease of
+
+transitioning MDAs from the Integrated Personnel and Payroll Database (IPPD) system to the upgraded GHRIS system.
+
+
+
+
+
+
+
+
+
+ Objective/Outcome: PDO Indicator 5: Timely and Quality Financial Statements and Audit
+
+                                                                                                      Formally Revised          Actual Achieved at
+
+ Indicator Name                  Unit of Measure Baseline                    Original Target
+
+                                                                                                      Target                    Completion
+
+
+
+ (i) The percentage of service    Percentage       0.00                      50.00                                              59.00
+
+ delivery MDAs the NT has
+
+ reviewed the quality of                           31-Aug-2016               29-Oct-2021                                        31-Dec-2023
+
+ Annual FS generated from
+
+ IFMIS and has submitted to
+
+ the OAG within legal
+
+ timeliness (3 months)
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target achieved.
+
+
+
+
+
+
+
+
+
+                                                                                                                                          Page 26 of 59
+
+    The World Bank
+
+    Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+    (P161387)
+
+
+
+
+
+
+
+                                                                                                   Formally Revised   Actual Achieved at
+
+ Indicator Name                    Unit of Measure Baseline               Original Target
+
+                                                                                                   Target             Completion
+
+
+
+ (ii) Percentage of MDAs,          Percentage      0.00                    50.00                    50.00             59.00
+
+ whose financial statement
+
+ audits have been completed                        30-Jun-2016             07-Sep-2017              29-Oct-2021       31-Dec-2023
+
+ within 3 months after OAG
+
+ receipt of final financial
+
+ statements using an
+
+ improved methodology,
+
+ undergone quality assurance
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target achieved.
+
+
+
+
+
+
+
+
+
+                                                                                                   Formally Revised   Actual Achieved at
+
+ Indicator Name                    Unit of Measure Baseline               Original Target
+
+                                                                                                   Target             Completion
+
+
+
+ (iii) Months between receipt      Number          10.00                   3.00                     5.00              4.00
+
+ of final consolidated financial
+
+ reports by OAG and                                30-Jun-2016             07-Sep-2017              29-Oct-2021       31-Dec-2023
+
+ submission of audited
+
+ financial statements to
+
+ Parliament
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target achieved.
+
+
+
+
+
+                                                                                                                               Page 27 of 59
+
+    The World Bank
+
+    Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+    (P161387)
+
+
+
+
+
+
+
+
+
+ Objective/Outcome: PDO Indicator 6a: Transparent Institutions
+
+                                                                                                   Formally Revised   Actual Achieved at
+
+ Indicator Name                   Unit of Measure Baseline                Original Target
+
+                                                                                                   Target             Completion
+
+
+
+ Percentage of MDAs whose         Percentage      0.00                    100.00                    100.00            100.00
+
+ information is publicly
+
+ available online in searchable                   30-Jun-2016             07-Sep-2017               29-Oct-2021       31-Dec-2023
+
+ form on a) sub-program
+
+ expenditure, b) project
+
+ expenditure and c) transfers
+
+ to at least one service
+
+ delivery units
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target achieved.
+
+
+
+
+
+
+
+
+
+ Objective/Outcome: PDO Indicator 6b: Strengthened Fiduciary Assurance and Risk Management
+
+                                                                                                   Formally Revised   Actual Achieved at
+
+ Indicator Name                   Unit of Measure Baseline                Original Target
+
+                                                                                                   Target             Completion
+
+
+
+ MDA Internal Audit Reports       Number          0.00                    20.00                     25.00             26.00
+
+ have been prepared and
+
+ undergone quality assurance                      30-Jun-2016             07-Sep-2017               29-Oct-2021       31-Dec-2023
+
+ in line with enhanced
+
+ procedures for assurance,
+
+
+
+                                                                                                                               Page 28 of 59
+
+    The World Bank
+
+    Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+    (P161387)
+
+
+
+
+
+
+
+ risk management and audit
+
+ follow-up
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target achieved.
+
+
+
+
+
+
+
+
+
+ Objective/Outcome: PDO Indicator 7: Strengthened Transparency and Oversight
+
+                                                                                                   Formally Revised   Actual Achieved at
+
+ Indicator Name                  Unit of Measure Baseline                 Original Target
+
+                                                                                                   Target             Completion
+
+
+
+ State Corporations (SCs)        Yes/No           No                      Yes                                         Yes
+
+ budgets and reports are
+
+ linked to performance targets                    31-Aug-2021             29-Oct-2021                                 31-Dec-2023
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target achieved.
+
+
+
+
+
+
+
+
+
+ Objective/Outcome: PDO Indicator 8: Citizen Integrated Platform
+
+                                                                                                   Formally Revised   Actual Achieved at
+
+ Indicator Name                  Unit of Measure Baseline                 Original Target
+
+                                                                                                   Target             Completion
+
+
+
+ Number of services              Number           300.00                  577.00                                      7,793.00
+
+ onboarded on re-engineered
+
+ e-citizen Portal                                 31-Aug-2021             29-Oct-2021                                 31-Dec-2023
+
+
+
+
+
+                                                                                                                                 Page 29 of 59
+
+    The World Bank
+
+    Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+    (P161387)
+
+
+
+
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target exceeded. The overachievement was largely driven by government focus on digitalization and revenue consolidation through eCitizen.
+
+
+
+
+
+
+
+
+
+(ii) Intermediate Results Indicators
+
+
+
+
+
+ Results Area: Prioritised Public Investments
+
+                                                                                                     Formally Revised          Actual Achieved at
+
+ Indicator Name                   Unit of Measure Baseline                  Original Target
+
+                                                                                                     Target                    Completion
+
+
+
+ IRI 1.1: Dedicated unit           Yes/No          No                       Yes                                                Yes
+
+ established with staff
+
+ deployed assigned                                 30-Jun-2016              07-Sep-2017                                        31-Dec-2023
+
+ performing NT PIM roles.
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target achieved.
+
+
+
+
+
+
+
+
+
+                                                                                                     Formally Revised          Actual Achieved at
+
+ Indicator Name                   Unit of Measure Baseline                  Original Target
+
+                                                                                                     Target                    Completion
+
+
+
+ IRI 1.2: Approved PIM             Yes/No          No                       Yes                                                Yes
+
+
+
+
+
+
+
+                                                                                                                                            Page 30 of 59
+
+    The World Bank
+
+    Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+    (P161387)
+
+
+
+
+
+
+
+ manual & user requirements                        30-Jun-2016               07-Sep-2017                              31-Dec-2023
+
+ which address key challenges
+
+ in PIM
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target achieved.
+
+
+
+
+
+
+
+
+
+                                                                                                   Formally Revised   Actual Achieved at
+
+ Indicator Name                    Unit of Measure Baseline                  Original Target
+
+                                                                                                   Target             Completion
+
+
+
+ IRI 1.4 Projects baseline stock   Yes/No          No                        No                     Yes               Yes
+
+ taking completed and
+
+ inventory up to date in                           31-Aug-2021               07-Sep-2017            29-Oct-2021       31-Dec-2023
+
+ Hyperion
+
+
+
+
+
+Comments (achievements against targets):
+
+
+
+
+
+
+
+
+
+Results Area: Reliable Funding for Service Delivery and Public Investments
+
+                                                                                                   Formally Revised   Actual Achieved at
+
+ Indicator Name                    Unit of Measure Baseline                  Original Target
+
+                                                                                                   Target             Completion
+
+
+
+ IRI 2.1: Guidelines adopted       Yes/No          No                        Yes                    Yes               Yes
+
+ by NT which require that
+
+ revised MDA cash plans                            30-Jun-2016               07-Sep-2017            29-Oct-2021       31-Dec-2023
+
+
+
+
+
+                                                                                                                               Page 31 of 59
+
+    The World Bank
+
+    Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+    (P161387)
+
+
+
+
+
+
+
+ protect service delivery and
+
+ infrastructure budget
+
+ priorities
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target achieved.
+
+
+
+
+
+
+
+
+
+                                                                                                   Formally Revised   Actual Achieved at
+
+ Indicator Name                 Unit of Measure Baseline                  Original Target
+
+                                                                                                   Target             Completion
+
+
+
+ IRI 2.5: The automated         Yes/No           No                        No                       Yes               Yes
+
+ annual including in-year
+
+ aggregate cash plans (with                      31-Aug-2021               07-Sep-2017              29-Oct-2021       31-Dec-2023
+
+ revenue projections and
+
+ borrowing requirements) in
+
+ line with approved cash
+
+ management framework.
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target achieved.
+
+
+
+
+
+
+
+
+
+                                                                                                   Formally Revised   Actual Achieved at
+
+ Indicator Name                 Unit of Measure Baseline                  Original Target
+
+                                                                                                   Target             Completion
+
+
+
+ IRI 2.6: projected in year     Yes/No           No                        No                       Yes               No
+
+
+
+
+
+                                                                                                                               Page 32 of 59
+
+    The World Bank
+
+    Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+    (P161387)
+
+
+
+
+
+
+
+ MDA exchequer allocations,                       31-Aug-2021              07-Sep-2017              29-Oct-2021       31-Dec-2023
+
+ which are uploaded into the
+
+ system and approved in line
+
+ with the cash management
+
+ framework.
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target partially achieved.
+
+
+
+
+
+
+
+
+
+ Results Area: Efficient and Transparent Procurement
+
+                                                                                                   Formally Revised   Actual Achieved at
+
+ Indicator Name                 Unit of Measure Baseline                  Original Target
+
+                                                                                                   Target             Completion
+
+
+
+ IRI 3.1: UAT for upgraded e-    Yes/No           No                      Yes                       Yes               Yes
+
+ procurement and State
+
+ Procurement Portal (SPP)                         30-Jun-2016             07-Sep-2017               29-Oct-2021       31-Dec-2023
+
+ complete
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target achieved.
+
+
+
+
+
+
+
+
+
+                                                                                                   Formally Revised   Actual Achieved at
+
+ Indicator Name                 Unit of Measure Baseline                  Original Target
+
+                                                                                                   Target             Completion
+
+
+
+
+
+                                                                                                                               Page 33 of 59
+
+    The World Bank
+
+    Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+    (P161387)
+
+
+
+
+
+
+
+ IRI 3.2: roadmap agreed for     Yes/No          No                        Yes                      Yes               Yes
+
+ upgrading e-procurement
+
+ system including SPP, aligned                   30-Jun-2016               07-Sep-2017              29-Oct-2021       31-Dec-2023
+
+ to requirements of PPADA
+
+ and attendant regulations.
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target achieved.
+
+
+
+
+
+
+
+
+
+                                                                                                   Formally Revised   Actual Achieved at
+
+ Indicator Name                  Unit of Measure Baseline                 Original Target
+
+                                                                                                   Target             Completion
+
+
+
+ IRI 3.3: e-GP Project           Yes/No          No                        No                       Yes               Yes
+
+ Implementation Unit
+
+ established,                                    30-Jun-2016               07-Sep-2017              29-Oct-2021       31-Dec-2023
+
+ developer/contractor in
+
+ place, and System
+
+ Requirement Specification
+
+ (SRS) and System Design
+
+ Document (SDD) approved.
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target achieved.
+
+
+
+
+
+
+
+
+
+                                                                                                                               Page 34 of 59
+
+    The World Bank
+
+    Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+    (P161387)
+
+
+
+
+
+
+
+Results Area: Consolidated Staff Data
+
+                                                                                                   Formally Revised   Actual Achieved at
+
+ Indicator Name                  Unit of Measure Baseline                 Original Target
+
+                                                                                                   Target             Completion
+
+
+
+ IRI 4.1: GHRIS enhanced to      Yes/No           No                      Yes                       Yes               Yes
+
+ handle consolidated HR data
+
+ from MDAs and interfaces                         30-Jun-2016             07-Sep-2017               29-Oct-2021       31-Dec-2023
+
+ with IFMIS
+
+
+
+
+
+Comments (achievements against targets):
+
+
+
+
+
+
+
+                                                                                                   Formally Revised   Actual Achieved at
+
+ Indicator Name                  Unit of Measure Baseline                 Original Target
+
+                                                                                                   Target             Completion
+
+
+
+ IRI 4.2 Upgraded GHRIS          Yes/No           No                       No                       Yes               Yes
+
+ operational, including use of
+
+ UPN, HR data warehouse and                       31-Aug-2021              07-Sep-2017              29-Oct-2021       31-Dec-2023
+
+ Payroll module operational
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target achieved.
+
+
+
+
+
+
+
+
+
+Results Area: Timely and Quality Financial Statements and Audit
+
+
+
+
+
+
+
+                                                                                                                               Page 35 of 59
+
+    The World Bank
+
+    Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+    (P161387)
+
+
+
+
+
+
+
+                                                                                                   Formally Revised   Actual Achieved at
+
+ Indicator Name                 Unit of Measure Baseline                  Original Target
+
+                                                                                                   Target             Completion
+
+
+
+ IRI 5.1: The percentage of     Percentage       10.00                    50.00                     50.00             59.00
+
+ service delivery MDAs the
+
+ National Treasury has                           30-Jun-2016              07-Sep-2017               29-Oct-2021       31-Dec-2023
+
+ reviewed the quality of
+
+ Annual Financial Statements
+
+ generated from IFMIS and
+
+ has submitted to the OAG
+
+ within 4 months.
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target achieved.
+
+
+
+
+
+
+
+
+
+                                                                                                   Formally Revised   Actual Achieved at
+
+ Indicator Name                 Unit of Measure Baseline                  Original Target
+
+                                                                                                   Target             Completion
+
+
+
+ IRI 5.2: Approval of audit     Yes/No           No                        Yes                      Yes               Yes
+
+ codes that classify risk
+
+ clusters to enable efficient                    30-Jun-2016               07-Sep-2017              29-Oct-2021       31-Dec-2023
+
+ targeting of audit resource
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target achieved.
+
+
+
+
+
+
+
+
+
+                                                                                                                               Page 36 of 59
+
+    The World Bank
+
+    Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+    (P161387)
+
+
+
+
+
+
+
+
+
+                                                                                                   Formally Revised   Actual Achieved at
+
+ Indicator Name                   Unit of Measure Baseline                Original Target
+
+                                                                                                   Target             Completion
+
+
+
+ IRI 5.3: Enhanced audit          Yes/No          No                       Yes                      Yes               Yes
+
+ methodology and quality
+
+ assurance framework in                           30-Jun-2016              07-Sep-2017              29-Oct-2021       31-Dec-2023
+
+ place
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target achieved.
+
+
+
+
+
+
+
+
+
+                                                                                                   Formally Revised   Actual Achieved at
+
+ Indicator Name                   Unit of Measure Baseline                Original Target
+
+                                                                                                   Target             Completion
+
+
+
+ IRI 5.4: Special COVID related   Number          0.00                     0.00                     47.00             47.00
+
+ expenditure audits
+
+                                                  31-Aug-2021              07-Sep-2017              29-Oct-2021       31-Dec-2023
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target achieved.
+
+
+
+
+
+
+
+
+
+Results Area: Strengthened Fiduciary Assurance and Transparency
+
+
+
+
+
+                                                                                                                               Page 37 of 59
+
+    The World Bank
+
+    Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+    (P161387)
+
+
+
+
+
+
+
+                                                                                                   Formally Revised   Actual Achieved at
+
+ Indicator Name                  Unit of Measure Baseline                 Original Target
+
+                                                                                                   Target             Completion
+
+
+
+ IRI 6.1: MDAs’ information      Yes/No          No                       No                        Yes               Yes
+
+ publicly available online in
+
+ searchable form on (a)                          30-Jun-2016              07-Sep-2017               29-Oct-2021       31-Dec-2023
+
+ program expenditure, (b)
+
+ sub-program expenditures
+
+ and (c) at least one MDA
+
+ transfers to service delivery
+
+ units
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target achieved.
+
+
+
+
+
+
+
+
+
+                                                                                                   Formally Revised   Actual Achieved at
+
+ Indicator Name                  Unit of Measure Baseline                 Original Target
+
+                                                                                                   Target             Completion
+
+
+
+ IRI 6.2: UAT for the Budget     Yes/No          No                        Yes                      Yes               Yes
+
+ Portal interface which
+
+ provides information in a                       30-Jun-2016               07-Sep-2017              29-Oct-2021       31-Dec-2023
+
+ searchable form on programs
+
+ and sub-programs, and for at
+
+ least 1 MDA, information
+
+ available on transfers to
+
+ service deliver
+
+
+
+
+
+
+
+
+
+                                                                                                                               Page 38 of 59
+
+    The World Bank
+
+    Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+    (P161387)
+
+
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target achieved.
+
+
+
+
+
+
+
+
+
+                                                                                                   Formally Revised   Actual Achieved at
+
+ Indicator Name                 Unit of Measure Baseline                  Original Target
+
+                                                                                                   Target             Completion
+
+
+
+ IRI 6.3:Updated manuals and    Yes/No           No                        Yes                      Yes               Yes
+
+ QA framework for internal
+
+ audit in place to strengthen                    30-Jun-2016               07-Sep-2017              29-Oct-2021       31-Dec-2023
+
+ assurance and risk
+
+ management are in place
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target achieved.
+
+
+
+
+
+
+
+
+
+                                                                                                   Formally Revised   Actual Achieved at
+
+ Indicator Name                 Unit of Measure Baseline                  Original Target
+
+                                                                                                   Target             Completion
+
+
+
+ IRI 6.4: Complete diagnostic   Yes/No           No                        Yes                      Yes               Yes
+
+ study of internal audit
+
+                                                 30-Jun-2016               07-Sep-2017              29-Oct-2021       31-Dec-2023
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target achieved.
+
+
+
+
+
+
+
+                                                                                                                               Page 39 of 59
+
+    The World Bank
+
+    Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+    (P161387)
+
+
+
+
+
+
+
+
+
+ Results Area: State Corporations Transparency and Oversight
+
+                                                                                                   Formally Revised   Actual Achieved at
+
+ Indicator Name                 Unit of Measure Baseline                  Original Target
+
+                                                                                                   Target             Completion
+
+
+
+ IRI 7.1: Approved User          Yes/No           No                      No                        Yes               Yes
+
+ Acceptance Test (UAT) for
+
+ the SCs MIS                                      31-Aug-2021             07-Sep-2017               29-Oct-2021       31-Dec-2023
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target achieved.
+
+
+
+
+
+
+
+
+
+                                                                                                   Formally Revised   Actual Achieved at
+
+ Indicator Name                 Unit of Measure Baseline                  Original Target
+
+                                                                                                   Target             Completion
+
+
+
+ IRI 7.2. No. of State           Number           0.00                     0.00                     30.00             258.00
+
+ Corporations submitting
+
+ required data using the MIS                      31-Aug-2021              07-Sep-2017              29-Oct-2021       31-Dec-2023
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target exceeded.
+
+
+
+
+
+
+
+
+
+                                                                                                                               Page 40 of 59
+
+    The World Bank
+
+    Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+    (P161387)
+
+
+
+
+
+
+
+
+
+ Results Area: Strengthened Service Delivery
+
+                                                                                                   Formally Revised   Actual Achieved at
+
+ Indicator Name                  Unit of Measure Baseline                 Original Target
+
+                                                                                                   Target             Completion
+
+
+
+ IRI 8.1: Approved User          Yes/No          No                       No                        Yes               Yes
+
+ Acceptance Testing (UAT) for
+
+ re-engineered e-citizen                         31-Aug-2021              07-Sep-2017               29-Oct-2021       31-Dec-2023
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target achieved.
+
+
+
+
+
+
+
+
+
+                                                                                                   Formally Revised   Actual Achieved at
+
+ Indicator Name                  Unit of Measure Baseline                 Original Target
+
+                                                                                                   Target             Completion
+
+
+
+ IRI 8.2 Publicity and change    Yes/No          No                        No                       Yes               Yes
+
+ management strategy
+
+ developed                                       31-Aug-2021               07-Sep-2017              29-Oct-2021       31-Dec-2023
+
+
+
+
+
+ Comments (achievements against targets):
+
+Target achieved.
+
+
+
+
+
+
+
+
+
+                                                                                                                               Page 41 of 59
+
+    The World Bank
+
+    Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+    (P161387)
+
+
+
+
+
+ANNEX 1B. DISBURSEMENT LINKED INDICATORS
+
+
+
+DLI IN01403566 TABLE
+
+DLI 1: DLI 1: Prioritized Public Investments (Number)
+
+                                          By end FY     By end FY     By end FY     By end FY    By end FY    By end FY    By end FY
+
+                           Baseline                                                                                                         Total
+
+                                           2017/18       2018/19       2019/20       2020/21      2021/22      2022/23      2023/24
+
+Original values               0.00           0.00          0.00          0.00            0.00      0.00         0.00         0.00
+
+
+
+Actual values                                0.00          0.00          0.00            0.00      0.00         30.00        0.00
+
+
+
+                                         5,000,000.        0.00          0.00            0.00    7,000,000.   8,000,000.     0.00
+
+Allocated amount ($)                                                                                                                    20,000,000.00
+
+                                             00                                                      00           00
+
+
+
+                                                           0.00          0.00       5,000,000.   9,000,000.   5,000,000.   1,000,000.
+
+Disbursed amount ($)                         0.00                                                                                       20,000,000.00
+
+                                                                                        00           00           00           00
+
+
+
+Comments (achievements against targets):
+
+The DLI was achieved.
+
+
+
+
+
+
+
+
+
+DLI IN01403567 TABLE
+
+DLI 2: DLI 2.1: Reliable funding for Service Delivery and Investment Projects (Yes/No)
+
+                                          By end FY     By end FY     By end FY     By end FY    By end FY    By end FY    By end FY
+
+                           Baseline                                                                                                         Total
+
+                                           2017/18       2018/19       2019/20       2020/21      2021/22      2022/23      2023/24
+
+
+
+Original values               No
+
+
+
+Actual values                                                                                                    Yes
+
+
+
+
+
+
+
+                                                                                                                                         Page 42 of 59
+
+    The World Bank
+
+    Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+    (P161387)
+
+
+
+
+
+
+
+                                        1,500,000.    2,000,000.       0.00       2,000,000.   11,000,000    2,000,000.       0.00
+
+Allocated amount ($)                                                                                                                      18,500,000.00
+
+                                            00            00                          00           .00           00
+
+
+
+                                                         0.00          0.00       5,500,000.   3,000,000.    8,000,000.       0.00
+
+Disbursed amount ($)                       0.00                                                                                           16,500,000.00
+
+                                                                                      00           00            00
+
+
+
+Comments (achievements against targets):
+
+This DLI is partially achieved. The aggregate annual and in-year cash plans are done and approved through IFMIS but not Hyperion. Budgeting for the
+
+Receivers of Revenue is done through Hyperion functionality, which are then exported to the General Ledger interface to the IFMIS system. Collection of
+
+revenue is done through the IFMIS system.
+
+
+
+
+
+
+
+
+
+DLI IN01403568 TABLE
+
+DLI 3: DLI 3: Efficient and Transparent Procurement (Number)
+
+                                         By end FY    By end FY     By end FY     By end FY     By end FY    By end FY     By end FY
+
+                          Baseline                                                                                                             Total
+
+                                          2017/18      2018/19       2019/20       2020/21       2021/22      2022/23       2023/24
+
+Original values              0.00          0.00          0.00          0.00          0.00         0.00          0.00          0.00
+
+
+
+Actual values                              0.00          0.00          0.00          0.00         0.00          5.00          0.00
+
+
+
+                                                         0.00          0.00          0.00      8,000,000.    5,000,000.       0.00
+
+Allocated amount ($)                       0.00                                                                                           13,000,000.00
+
+                                                                                                   00            00
+
+
+
+                                                         0.00          0.00          0.00      4,000,000.    4,000,000.       0.00
+
+Disbursed amount ($)                       0.00                                                                                           8,000,000.00
+
+                                                                                                   00            00
+
+
+
+Comments (achievements against targets):
+
+
+
+
+
+                                                                                                                                            Page 43 of 59
+
+    The World Bank
+
+    Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+    (P161387)
+
+
+
+
+
+The DLI was partially achieved. The related DLRs were met except for DLR3.6: At least 5 MDAs piloted on the e-Procurement System on registration,
+
+procurement planning and contract management through invoicing. 12 MDAs were piloted. Other requirements under the DLR were partially
+
+implemented including information availability via the Procurement Information Portal.
+
+
+
+
+
+
+
+
+
+DLI IN01403569 TABLE
+
+DLI 4: DLI 4: Consolidated Staff Data (Number)
+
+                                         By end FY     By end FY     By end FY    By end FY    By end FY     By end FY     By end FY
+
+                           Baseline                                                                                                           Total
+
+                                          2017/18       2018/19       2019/20      2020/21      2021/22       2022/23       2023/24
+
+Original values              0.00           0.00          0.00          0.00        0.00          0.00          0.00         0.00
+
+
+
+Actual values                               0.00          0.00          0.00        0.00          0.00         10.00         0.00
+
+
+
+                                         2,000,000.       0.00          0.00        0.00       6,000,000.    4,000,000.      0.00
+
+Allocated amount ($)                                                                                                                     12,000,000.00
+
+                                             00                                                    00            00
+
+
+
+                                                          0.00          0.00     2,000,000.       0.00      10,000,000       0.00
+
+Disbursed amount ($)                        0.00                                                                                         12,000,000.00
+
+                                                                                     00                         .00
+
+
+
+Comments (achievements against targets):
+
+DLI target achieved.
+
+
+
+
+
+
+
+
+
+DLI IN01403570 TABLE
+
+DLI 5: DLI 5.1: Timely, Quality Assured, Financial Statements (Percentage)
+
+                                         By end FY     By end FY     By end FY    By end FY    By end FY     By end FY     By end FY
+
+                           Baseline                                                                                                           Total
+
+                                          2017/18       2018/19       2019/20      2020/21      2021/22       2022/23       2023/24
+
+
+
+
+
+                                                                                                                                           Page 44 of 59
+
+    The World Bank
+
+    Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+    (P161387)
+
+
+
+
+
+
+
+Original values                0.00           0.00          0.00        0.00         0.00         0.00          0.00        0.00
+
+
+
+Actual values                                 0.00          0.00        0.00         0.00         10.00        50.00        0.00
+
+
+
+                                           1,000,000.    2,000,000.     0.00         0.00       2,000,000.   3,500,000.     0.00
+
+Allocated amount ($)                                                                                                                  8,500,000.00
+
+                                               00            00                                     00           00
+
+
+
+                                                            0.00        0.00       3,000,000.     0.00       5,500,000.     0.00
+
+Disbursed amount ($)                          0.00                                                                                    8,500,000.00
+
+                                                                                       00                        00
+
+
+
+Comments (achievements against targets):
+
+DLI target achieved.
+
+
+
+
+
+
+
+
+
+DLI IN01403571 TABLE
+
+DLI 6: DLI 5.2 Timely, Efficient, Quality Audits (Percentage)
+
+                                           By end FY     By end FY    By end FY    By end FY    By end FY    By end FY    By end FY
+
+                            Baseline                                                                                                      Total
+
+                                            2017/18       2018/19      2019/20      2020/21      2021/22      2022/23      2023/24
+
+Original values                0.00           0.00          0.00        0.00         0.00         0.00          0.00        0.00
+
+
+
+Actual values                                 0.00          0.00        0.00         0.00         0.00         50.00        0.00
+
+
+
+                                           1,000,000.    1,000,000.   2,000,000.     0.00       5,000,000.   10,000,000     0.00
+
+Allocated amount ($)                                                                                                                  19,000,000.00
+
+                                               00            00           00                        00           .00
+
+
+
+                                                            0.00        0.00       4,000,000.   5,000,000.   10,000,000     0.00
+
+Disbursed amount ($)                          0.00                                                                                    19,000,000.00
+
+                                                                                       00           00           .00
+
+
+
+Comments (achievements against targets):
+
+
+
+
+
+                                                                                                                                       Page 45 of 59
+
+    The World Bank
+
+    Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+    (P161387)
+
+
+
+
+
+DLI target achieved.
+
+
+
+
+
+
+
+
+
+DLI IN01403572 TABLE
+
+DLI 7: DLI 6.1: Transparent Institutions (Number)
+
+                                         By end FY   By end FY   By end FY      By end FY   By end FY    By end FY    By end FY
+
+                           Baseline                                                                                                   Total
+
+                                          2017/18     2018/19     2019/20        2020/21     2021/22      2022/23      2023/24
+
+Original values              0.00           0.00       0.00         0.00          0.00         0.00           0.00      0.00
+
+
+
+Actual values                               0.00       0.00         0.00          0.00         0.00          100.00     0.00
+
+
+
+                                                       0.00         0.00          0.00      3,000,000.   8,000,000.     0.00
+
+Allocated amount ($)                        0.00                                                                                  11,000,000.00
+
+                                                                                                00           00
+
+
+
+                                                       0.00         0.00          0.00      3,000,000.   8,000,000.     0.00
+
+Disbursed amount ($)                        0.00                                                                                  11,000,000.00
+
+                                                                                                00           00
+
+
+
+Comments (achievements against targets):
+
+DLI target achieved.
+
+
+
+
+
+
+
+
+
+DLI IN01403573 TABLE
+
+DLI 8: DLI 6.2: Strengthened Fiduciary Assurance and Risk Management (Number)
+
+                                         By end FY   By end FY   By end FY      By end FY   By end FY    By end FY    By end FY
+
+                           Baseline                                                                                                   Total
+
+                                          2017/18     2018/19     2019/20        2020/21     2021/22      2022/23      2023/24
+
+Original values              0.00           0.00       0.00         0.00          0.00         0.00           0.00      0.00
+
+
+
+
+
+
+
+                                                                                                                                   Page 46 of 59
+
+    The World Bank
+
+    Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+    (P161387)
+
+
+
+
+
+
+
+Actual values                              0.00         0.00          0.00       0.00          0.00          25.00      0.00
+
+
+
+                                        1,000,000.   1,000,000.       0.00       0.00       7,000,000.   7,000,000.     0.00
+
+Allocated amount ($)                                                                                                              16,000,000.00
+
+                                            00           00                                     00           00
+
+
+
+                                                        0.00          0.00     2,000,000.   7,000,000.   7,000,000.     0.00
+
+Disbursed amount ($)                       0.00                                                                                   16,000,000.00
+
+                                                                                   00           00           00
+
+
+
+Comments (achievements against targets):
+
+DLI target achieved.
+
+
+
+
+
+
+
+
+
+DLI IN01403574 TABLE
+
+DLI 9: DLI 7: Transparency and Oversight of State Corporations (Number)
+
+                                        By end FY     By end FY    By end FY   By end FY    By end FY    By end FY    By end FY
+
+                          Baseline                                                                                                    Total
+
+                                         2017/18       2018/19      2019/20     2020/21      2021/22      2022/23      2023/24
+
+Original values              0.00          0.00         0.00          0.00       0.00          0.00          0.00       0.00
+
+
+
+Actual values                              0.00         0.00          0.00       0.00          0.00          30.00      0.00
+
+
+
+                                                        0.00          0.00       0.00       11,000,000   6,000,000.     0.00
+
+Allocated amount ($)                       0.00                                                                                   17,000,000.00
+
+                                                                                                .00          00
+
+
+
+                                                        0.00          0.00       0.00       11,000,000   6,000,000.     0.00
+
+Disbursed amount ($)                       0.00                                                                                   17,000,000.00
+
+                                                                                                .00          00
+
+
+
+Comments (achievements against targets):
+
+DLI target achieved.
+
+
+
+
+
+
+
+                                                                                                                                   Page 47 of 59
+
+    The World Bank
+
+    Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+    (P161387)
+
+
+
+
+
+
+
+
+
+DLI IN01403575 TABLE
+
+DLI 10: DLI 8: Strengthened Service Delivery (Number)
+
+                                        By end FY       By end FY     By end FY   By end FY      By end FY    By end FY    By end FY
+
+                          Baseline                                                                                                             Total
+
+                                         2017/18         2018/19       2019/20     2020/21        2021/22      2022/23      2023/24
+
+Original values            300.00          0.00           0.00            0.00      0.00           0.00          0.00         0.00
+
+
+
+Actual values                              0.00           0.00            0.00      0.00           0.00        577.00         0.00
+
+
+
+                                                          0.00            0.00      0.00         2,000,000.   13,000,000      0.00
+
+Allocated amount ($)                       0.00                                                                                          15,000,000.00
+
+                                                                                                     00           .00
+
+
+
+                                                          0.00            0.00      0.00         2,000,000.   13,000,000      0.00
+
+Disbursed amount ($)                       0.00                                                                                          15,000,000.00
+
+                                                                                                     00           .00
+
+
+
+Comments (achievements against targets):
+
+DLI target achieved.
+
+
+
+
+
+
+
+
+
+ANNEX 1C. PROGRAM ACTION PLAN
+
+PAP_TBL
+
+                                                                                           Achieved
+
+Action                                                           Timing                                Completion Measurement
+
+                                                                                           (Yes/No)
+
+
+
+Annual budget provisions under the          Recurrent            Yearly                    Yes         Budget Provisions Annually by June 30
+
+PFMRS & respective implementing entities
+
+
+
+
+
+                                                                                                                                           Page 48 of 59
+
+    The World Bank
+
+    Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+    (P161387)
+
+
+
+
+
+are matched to the annual estimated
+
+costs for the planned program activities to
+
+pre-finance inputs contributing to the
+
+achievement of the Disbursements Linked
+
+Results (DLRs).
+
+
+
+Comments:
+
+Performed regularly annually, and during supplemental budgeting.
+
+
+
+
+
+
+
+Timely release of exchequer funds             Recurrent      Quarterly                 Yes          Exchequer Releases Monthly
+
+commensurate with requests (as reflected
+
+in implementing agencies annual work
+
+plans and cash plans) from the
+
+implementing agencies to pre-finance
+
+inputs to achieve the DLRs.
+
+
+
+Comments:
+
+Performed regularly as part of the annual cash management cycle. The program was sufficiently resourced.
+
+
+
+
+
+
+
+Design specific reports in line with the      Recurrent      Quarterly                 Yes          Design the reports in IFMIS October 31, 2017.
+
+expenditure framework to facilitate                                                                 Budget execution reports every 12 months
+
+generation of program expenditures from
+
+IFMIS.
+
+
+
+
+
+Comments:
+
+
+
+
+
+                                                                                                                                         Page 49 of 59
+
+    The World Bank
+
+    Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+    (P161387)
+
+
+
+
+
+The reports were integrated in the government program mapped in IFMIS.
+
+
+
+
+
+
+
+Prepare institutional annual financial       Recurrent        Yearly                    Yes          Annually not later than September 30, 2017
+
+statements for the three implementing
+
+agencies with appropriate disclosure
+
+notes outlining the program expenditures
+
+in line with the agreed expenditure
+
+framework
+
+
+
+Comments:
+
+Delays in the appointment of the Auditor-General affected the timely completion of the 2018/19 and 2019/20 audit leading to backlog. After the
+
+appointment of the Auditor-General, the backlog was addressed.
+
+
+
+
+
+
+
+The auditor for the OAG has been             Due Date         15-Dec-2020               Yes          Appointment of the Auditor for the OAG
+
+appointed.
+
+
+
+Implementing Agencies Establish and          Recurrent        Semi-Annually             Yes          Continuously monitored every 6 months
+
+maintain: (i) PFM Standing Committee; (ii)
+
+Audit Committees; (iii) Internal Risk
+
+Management Framework including F&C
+
+risks; (iv) Risk Registers and Internal
+
+Control Framework in line with the
+
+PFMAct 2012 and PFM Reg
+
+
+
+Implementing Agencies - compliance with      Due Date         31-Jan-2018               Yes          Continuous
+
+the applicable business standards as per
+
+the Regulations
+
+
+
+
+
+                                                                                                                                          Page 50 of 59
+
+    The World Bank
+
+    Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+    (P161387)
+
+
+
+
+
+
+
+
+
+Implementing Agencies establish a filing    Recurrent       Yearly                    Yes         Continuous
+
+and records management system in
+
+accordance with the provisions of the
+
+PPAD Act 2015 and attendant Regulations
+
+
+
+Comments:
+
+Manuals/ templates/standard forms and guidance notes on procurement filing and records management were prepared and consistent with the provisions
+
+of the Public Procurement and Asset Disposal (PPAD) Act 2015 and attendant Regulations.
+
+
+
+
+
+
+
+PPRA shares on a quarterly basis with       Due Date        30-Jun-2020               Yes         Continuous
+
+Implementing Departments the list of
+
+firms on the WB, UN, EU and French
+
+Financial Sanctions Lists.
+
+
+
+Implementation of e-procurement in the      Recurrent       Continuous                Yes         Continuous
+
+three implementing agencies as part of
+
+the first phase.
+
+
+
+
+
+Comments:
+
+Implementation of e-procurement to start once UAT for upgraded e-procurement and State Procurement Portal was completed.
+
+
+
+
+
+
+
+Establishment of complaints and reporting   Recurrent       Continuous                Yes         Within 6 months of effectiveness
+
+system at the PFMR Secretariat
+
+
+
+
+
+                                                                                                                                     Page 51 of 59
+
+     The World Bank
+
+     Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+     (P161387)
+
+
+
+
+
+
+
+Comments:
+
+Framework for PFMR complaints and reporting system was set out in the PFMR Strategy POM.
+
+
+
+
+
+
+
+Implementing agencies publish annual            Recurrent    Yearly                     Yes         Resolution of Public Complaints
+
+performance against the “resolution of
+
+public complaints” and “corruption
+
+prevention indicators” under the
+
+Performance Contacting system.
+
+
+
+Comments:
+
+NT and State Department of Public Service received their compliance certificates issued by the Ombudsman. Sensitization of implementing agencies on the
+
+complaints handling requirements was conducted.
+
+
+
+
+
+
+
+•Establish and maintain risk register for       Due Date     31-Dec-2018                Yes         Risk register updated based on actions completed
+
+the program                                                                                         and emerging MDA risks as they emerge
+
+•Reporting on recommendations made to
+
+mitigate against risks identified in the risk
+
+register
+
+
+
+
+
+Managing and mitigating impacts                 Recurrent    Yearly                     Yes         Implementing the requirements of the 1999
+
+associated with e-waste                                                                             Environmental Management and Coordination Act
+
+                                                                                                    (EMCA) (as amended in 2015), Waste Management
+
+                                                                                                    Regulations, E-waste Management Guidelines and
+
+                                                                                                    Draft E-Waste regulations
+
+
+
+
+
+                                                                                                                                         Page 52 of 59
+
+The World Bank
+
+Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+(P161387)
+
+
+
+
+
+
+
+
+
+                                                                                                         Page 53 of 59
+
+    The World Bank
+
+    Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+    (P161387)
+
+
+
+
+
+
+
+                       ANNEX 2. BANK LENDING AND IMPLEMENTATION SUPPORT/SUPERVISION
+
+
+
+
+
+ A. TASK TEAM MEMBERS
+
+
+
+Name                                                     Role
+
+Preparation
+
+Onur Erdem, Leonard Mutuku Matheka                       Task Team Leader(s)
+
+
+
+Joel Buku Munyori                                        Procurement Specialist(s)
+
+
+
+Henry Amena Amuguni                                      Financial Management Specialist
+
+
+
+John Kuria Kimotho                                       Team Member
+
+
+
+Diana Mwikali Nzioki                                     Team Member
+
+
+
+Ben Okindo Ayako Miranga                                 Environmental Specialist
+
+
+
+Vanessa Sigrid Tilstone                                  Social Specialist
+
+
+
+Carolyne Awuor Okumu Odicko                              Team Member
+
+
+
+Christine Anyango Owuor                                  Team Member
+
+
+
+Joyce Cheruto Bett                                       Team Member
+
+
+
+Josphine Kabura Kamau                                    Team Member
+
+
+
+Tesfaye Ayele                                            Procurement Team
+
+
+
+Lucy Anyango Musira                                      Team Member
+
+
+
+Nagaraju Duthaluri                                       Team Member
+
+
+
+Kimberly Vilar                                           Social Specialist
+
+
+
+Timothy Stephen Williamson                               Team Member
+
+
+
+Dahir Elmi Warsame                                       Procurement Team
+
+
+
+Supervision/ICR
+
+Leonard Mutuku Matheka, Onur Erdem                       Task Team Leader(s)
+
+
+
+
+
+
+
+                                                                                                     Page 54 of 59
+
+    The World Bank
+
+    Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+    (P161387)
+
+
+
+
+
+
+
+Joel Buku Munyori                                        Procurement Specialist(s)
+
+Henry Amena Amuguni                                      Financial Management Specialist
+
+Annastacia Waithera Wacheke                              Financial Management Specialist
+
+Jacinta Achote Murunga                                   Social Specialist
+
+Diana Mwikali Nzioki                                     Team Member
+
+Evelyn Irene Mbaire Kagwanjah                            Team Member
+
+Ben Okindo Ayako Miranga                                 Environmental Specialist
+
+Carolyne Awuor Okumu Odicko                              Team Member
+
+Christine Anyango Owuor                                  Team Member
+
+Josphine Kabura Kamau                                    Team Member
+
+Lucy Anyango Musira                                      Team Member
+
+Rita Obioma Itoro-Godfrey                                Team Member
+
+Gladys Akurut Alupo                                      Procurement Team
+
+Sangeeta Kumari                                          Social Specialist
+
+Pascal Tegwa                                             Team Member
+
+Dahir Elmi Warsame                                       Procurement Team
+
+
+
+
+
+
+
+
+
+B. STAFF TIME AND COST
+
+
+
+
+
+                                                             Staff Time and Cost
+
+Stage of Project Cycle
+
+                                No. of staff weeks                      US$ (including travel and consultant costs)
+
+Preparation
+
+FY17                            56.493                                                                 375,783.84
+
+FY18                            22.270                                                                 156,050.96
+
+FY19                            .475                                                                      6,199.04
+
+FY20                            .200                                                                        510.80
+
+
+
+Total                           79.44                                                                  538,544.64
+
+
+
+
+
+                                                                                                       Page 55 of 59
+
+   The World Bank
+
+   Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+   (P161387)
+
+
+
+
+
+
+
+Supervision/ICR
+
+FY18                         4.550                                                                   30,002.54
+
+FY19                         24.328                                                                153,025.68
+
+FY20                         42.909                                                                192,728.07
+
+FY21                         42.508                                                                259,448.46
+
+FY22                         38.342                                                                205,529.12
+
+FY23                         19.467                                                                122,491.31
+
+FY24                         15.952                                                                  81,166.43
+
+Total                        188.06                                                               1,044,391.61
+
+
+
+
+
+
+
+
+
+                                                                                                    Page 56 of 59
+
+    The World Bank
+
+    Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+    (P161387)
+
+
+
+
+
+
+
+                                          ANNEX 3. PROGRAM EXPENDITURE SUMMARY
+
+
+
+
+
+
+
+   Source of Program                 Type of Co-                                        Actual Expenditures (Disbursement)
+
+                                                          Estimates at
+
+ Financing (US$ million)              Financing            Appraisal2                   Actual                Percentage of Appraisal
+
+
+
+World Bank                              Joint                  150                        139                             93%
+
+
+
+Borrower                                Joint                  417                        948                            227%
+
+
+
+Other Partners3                        Parallel                 65                        62                              95%
+
+
+
+Total                                                          632                       1,149                           182%
+
+
+
+
+
+
+
+
+
+        2 Estimates at appraisalexclude the one-year extension (FY 2022/23) post Program Restructuring. Because the Borrower’s actuals
+
+        contain the additional year, it is significantly higher compared to estimates at appraisal.
+
+        3 The amount was in Euro and converted to USD at the June 3, 2024, exchange rate.
+
+
+
+
+
+
+
+                                                                                                                                 Page 57 of 59
+
+     The World Bank
+
+     Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+     (P161387)
+
+
+
+
+
+
+
+                                         ANNEX 4. BORROWER’S COMMENTS
+
+
+
+
+
+
+
+On April 15, 2024, the World Bank received the first draft of GoK’s Program Completion Report. The GoK’s final Completion
+
+Report will be filed in WBDocs for information and reference. The World Bank also received and incorporated GoK’s
+
+comments on the World Bank’s ICR.
+
+
+
+
+
+
+
+
+
+                                                                                                           Page 58 of 59
+
+    The World Bank
+
+    Program to Strengthen Governance for Enabling Service Delivery and Public Investment in Kenya (GESDeK)
+
+    (P161387)
+
+
+
+
+
+
+
+                                   ANNEX 5. SUPPORTING DOCUMENTS (IF ANY)
+
+
+
+
+
+1. Aide Memoires and Implementation Status & Results Reports (ISR). 2018 – 2023.
+
+
+
+2. Erdem, Onur. Disclosable Restructuring Paper - Program to Strengthen Governance for Enabling Service Delivery and
+
+   Public Investment in Kenya (GESDeK) - P161387 (English). Washington, D.C.: World Bank Group.
+
+   http://documents.worldbank.org/curated/en/447691635500209448
+
+
+
+3. Independent Verification Agent (IVA) Reports I-IV. 2020-2024.
+
+
+
+4. Mid-Term Review (MTR) Report. 2020.
+
+
+
+5. Republic of Kenya, the National Treasury. 2024. Program Implementation Completion and Results Report for
+
+   GESDeK.
+
+
+
+6. World Bank.2022. Kenya - Country Partnership Framework for the Period FY23-FY28. Washington, D.C.: World Bank
+
+   Group. http://documents.worldbank.org/curated/en/099205010262216711/
+
+
+
+7. World Bank. 2017. Program Appraisal Document. Kenya - Program to Strengthen Governance for Enabling Service
+
+   Delivery and Public Investment Project. Washington, D.C.: World Bank Group.
+
+   http://documents.worldbank.org/curated/en/227841505008834515
+
+
+
+
+
+
+
+
+
+                                                                                                       Page 59 of 59
+
+

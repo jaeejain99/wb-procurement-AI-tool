@@ -1,0 +1,5063 @@
+                                            FOR OFFICIAL USE ONLY
+
+                                                                                              Report No: PAD00050
+
+
+
+                               INTERNATIONAL DEVELOPMENT ASSOCIATION
+
+
+
+                                       PROJECT APPRAISAL DOCUMENT
+
+
+
+                                                      ON A
+
+
+
+                                               PROPOSED CREDIT
+
+
+
+                              IN THE AMOUNT OF US$250 MILLION
+
+             OF WHICH US$60 MILLION FROM SCALE-UP WINDOW-SHORTER MATURY LOAN
+
+
+
+                                                     TO THE
+
+
+
+                                             REPUBLIC OF GHANA
+
+
+
+                                                    FOR THE
+
+
+
+                                    GHANA FINANCIAL STABILITY PROJECT
+
+
+
+                                                  MAY 7, 2024
+
+
+
+
+
+
+
+
+
+ Finance, Competitiveness and Innovation Global Practice
+
+ Western and Central Africa Region
+
+
+
+
+
+
+
+
+
+This document has a restricted distribution and may be used by recipients only in the performance of their official
+
+duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+                     CURRENCY EQUIVALENTS
+
+
+
+             (Exchange Rate Effective March 31, 2024)
+
+
+
+                Currency Unit = Ghana Cedi (GHS)
+
+                   GHS 13.25 = US$1.00
+
+
+
+                           FISCAL YEAR
+
+                     January 1 - December 31
+
+
+
+
+
+
+
+
+
+Regional Vice President:   Ousmane Diagana
+
+      Country Director:    Robert R. Taliercio
+
+      Regional Director:   Abebe Adugna Dadi
+
+     Practice Manager:     Mehnaz S. Safavian
+
+    Task Team Leaders:     Carlos Leonardo Vicente, Cedric Mousset
+
+The World Bank
+
+Ghana Financial Stability Project (P180719)
+
+
+
+
+
+                                 ABBREVIATIONS AND ACRONYMS
+
+
+
+ AfDB            African Development Bank
+
+ AM              Accountability Mechanism
+
+ AQR             Asset Quality Review
+
+ AT1             Additional Tier 1
+
+ BoG             Bank of Ghana
+
+ CAGD            Controller and Accountant General Department
+
+ CAR             Capital Adequacy Ratio
+
+ CCDR            Country Climate and Development Report
+
+ CET1            Common Equity Tier 1
+
+ CPF             Country Partnership Framework
+
+ CRR             Cash Reserve Ratio
+
+ CTRC            Central Tender Review Committee
+
+ DA              Designated Account
+
+ DBG             Development Bank Ghana
+
+ DDEP            Domestic Debt Exchange Program
+
+ DPF             Development Policy Financing
+
+ E&S             Environmental and Social
+
+ ECF             Extended Credit Facility
+
+ ESHS            Environment, Social, Health, and Safety
+
+ ESMS            Environmental and Social Management System
+
+ ESS             Environmental and Social Standards
+
+ ETC             Entity Tender Committee
+
+ FCDO            Foreign, Commonwealth and Development Office
+
+ FIF             Financial Intermediary Financing
+
+ FM              Financial Management
+
+ FSD             Financial Sector Division
+
+ FSSS            Financial Sector Strengthening Strategy
+
+ GAS             Ghana Audit Service
+
+ GAT             Ghana Amalgamated Trust
+
+ GBV             Gender-Based Violence
+
+ GDFP            Ghana Development Finance Project
+
+ GDP             Gross Domestic Product
+
+ GDPC            Ghana Deposit Protection Corporation
+
+ GDPF            Ghana Deposit Protection Fund
+
+ GETP            Ghana Economic Transformation Project
+
+ GFSDP           Ghana Financial Sector Development Project
+
+ GFSF            Ghana Financial Stability Fund
+
+ GFSDP           Ghana Financial Sector Development Project
+
+ GHG             Greenhouse Gas
+
+ GIFMIS          Ghana Integrated Financial Management Information System
+
+ GoG             Government of Ghana
+
+ GRS             Grievance Redress Service
+
+ ICR             Implementation Completion and Results Report
+
+The World Bank
+
+Ghana Financial Stability Project (P180719)
+
+
+
+
+
+ IFR             Interim Financial Report
+
+ IMF             International Monetary Fund
+
+ IPF             Investment Project Financing
+
+ LoC             Line of Credit
+
+ M&E             Monitoring and Evaluation
+
+ MDA             Ministries, Departments, and Agency
+
+ MoF             Ministry of Finance
+
+ MSME            Micro, Small, and Medium Enterprise
+
+ NDC             Nationally Determined Contribution
+
+ NIB             National Investment Bank
+
+ NIC             National Insurance Commission
+
+ NPL             Nonperforming Loan
+
+ NPRA            National Pension Regulatory Authority
+
+ OCC             Official Creditor Committee
+
+ PCC             Project Coordination Committee
+
+ PCE             Private Capital Enabling
+
+ PCG             Partial Credit Guarantee
+
+ PCM             Private Capital Mobilized
+
+ PDO             Project Development Objective
+
+ PFMU            Project Financial Management Unit
+
+ PIU             Project Implementation Unit
+
+ PPSD            Project Procurement Strategy for Development
+
+ PRAMS           Procurement Risk Assessment and Management System
+
+ RWA             Risk-Weighted Asset
+
+ SDI             Specialized Deposit-Taking Institution
+
+ SEA             Sexual Exploitation and Abuse
+
+ SEC             Securities and Exchange Commission
+
+ SEP             Stakeholder Engagement Plan
+
+ SH              Sexual Harassment
+
+ SME             Small and Medium Enterprise
+
+ STEP            Systematic Tracking of Exchanges in Procurement
+
+ TTL             Task Team Leader
+
+ WBG             World Bank Group
+
+The World Bank
+
+Ghana Financial Stability Project (P180719)
+
+
+
+
+
+                                                            TABLE OF CONTENTS
+
+
+
+DATASHEET ........................................................................................................................... i
+
+I.    STRATEGIC CONTEXT ..................................................................................................... 1
+
+      A. Country Context.............................................................................................................................. 1
+
+      B. Sectoral and Institutional Context ...................................................................................................3
+
+      C. Relevance to Higher Level Objectives ..............................................................................................8
+
+II.   PROJECT DESCRIPTION ................................................................................................ 10
+
+      A. Project Development Objective (PDO) ..........................................................................................10
+
+      B. Project Components ......................................................................................................................10
+
+      C. Project Beneficiaries ......................................................................................................................15
+
+      D. Results Chain..................................................................................................................................15
+
+      E. Rationale for World Bank Involvement and Role of Partners ........................................................16
+
+      F. Lessons Learned and Reflected in the Project Design....................................................................16
+
+III. IMPLEMENTATION ARRANGEMENTS ........................................................................... 17
+
+      A. Institutional and Implementation Arrangements ..........................................................................17
+
+      B. Results Monitoring and Evaluation Arrangements ........................................................................17
+
+      C. Sustainability ..................................................................................................................................18
+
+IV. PROJECT APPRAISAL SUMMARY .................................................................................. 18
+
+      A. Technical, Economic and Financial Analysis ..................................................................................18
+
+      B. Fiduciary .........................................................................................................................................19
+
+      C. Legal Operational Policies ..............................................................................................................21
+
+      D. Environmental and Social ..............................................................................................................21
+
+V.    GRIEVANCE REDRESS SERVICES .................................................................................... 24
+
+VI. KEY RISKS .................................................................................................................... 24
+
+VII. RESULTS FRAMEWORK AND MONITORING .................................................................. 26
+
+ANNEX 1: Implementation Arrangements and Support Plan ................................................ 31
+
+ANNEX 2: Key Features of Additional Tier 1 (AT1) Capital .................................................... 39
+
+ANNEX 3: Financial Intermediary Assessment ..................................................................... 40
+
+ANNEX 4: Regulatory Relief Measures Granted to Banks by BoG ......................................... 42
+
+ANNEX 5: Overview of the Ghana Financial Stability Fund ................................................... 43
+
+      The World Bank
+
+      Ghana Financial Stability Project (P180719)
+
+
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padbasicinformation#doctemplate
+
+DATASHEET
+
+
+
+
+
+BASIC INFORMATION
+
+
+
+
+
+Project
+
+                         Operation Name
+
+Beneficiary(ies)
+
+Ghana                    Ghana Financial Stability Project
+
+                                                      Environmental and Social Risk
+
+Operation ID             Financing Instrument
+
+                                                      Classification
+
+                         Investment Project
+
+P180719                                               Substantial
+
+                         Financing (IPF)
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padprocessing#doctemplate
+
+Financing & Implementation Modalities
+
+[ ] Multiphase Programmatic Approach (MPA)                       [ ] Contingent Emergency Response Component (CERC)
+
+[ ] Series of Projects (SOP)                                     [ ] Fragile State(s)
+
+[ ] Performance-Based Conditions (PBCs)                          [ ] Small State(s)
+
+
+
+[✓] Financial Intermediaries (FI)                                [ ] Fragile within a non-fragile Country
+
+[ ] Project-Based Guarantee                                      [ ] Conflict
+
+[ ] Deferred Drawdown                                            [ ] Responding to Natural or Man-made Disaster
+
+[ ] Alternative Procurement Arrangements (APA)                   [ ] Hands-on Expanded Implementation Support (HEIS)
+
+
+
+
+
+Expected Approval Date                  Expected Closing Date
+
+30-May-2024                             30-Jun-2028
+
+Bank/IFC Collaboration                  Joint Level
+
+Yes                                     Complementary or Interdependent project requiring active coordination
+
+
+
+
+
+Proposed Development Objective(s)
+
+To support the recapitalization of viable banks and specialized deposit-taking institutions to contribute to financial
+
+stability.
+
+
+
+Components
+
+
+
+
+
+                                                                                                                     Page i
+
+      The World Bank
+
+      Ghana Financial Stability Project (P180719)
+
+
+
+
+
+ Component Name                                                          Cost (US$)
+
+ Capitalization of Fund A1 of Ghana Financial Stability Fund         406,000,000.00
+
+ Technical Assistance                                                 25,000,000.00
+
+ Project Management, Monitoring and Evaluation                         5,000,000.00
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padborrower#doctemplate
+
+Organizations
+
+Borrower:                        THE REPUBLIC OF GHANA
+
+Implementing Agency:             Ministry of Finance
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padfinancingsummary#doctemplate
+
+PROJECT FINANCING DATA (US$, Millions)
+
+
+
+
+
+Maximizing Finance for Development
+
+
+
+Is this an MFD-Enabling Project (MFD-EP)?                      Yes
+
+
+
+Is this project Private Capital Enabling (PCE)?                No
+
+
+
+SUMMARY
+
+
+
+  Total Operation Cost                                                      436.00
+
+
+
+  Total Financing                                                           436.00
+
+             of which IBRD/IDA                                              250.00
+
+
+
+  Financing Gap                                                               0.00
+
+
+
+DETAILS
+
+
+
+ World Bank Group Financing
+
+   International Development Association (IDA)                              250.00
+
+
+
+      IDA Shorter Maturity Loan (SML)                                       250.00
+
+
+
+ Non-World Bank Group Financing
+
+   Commercial Financing                                                     186.00
+
+
+
+      Unguaranteed Commercial Financing                                     186.00
+
+
+
+
+
+
+
+
+
+                                                                              Page ii
+
+        The World Bank
+
+        Ghana Financial Stability Project (P180719)
+
+
+
+
+
+IDA Resources (US$, Millions)
+
+
+
+                                                                                           Guarantee
+
+                            Credit Amount      Grant Amount          SML Amount                          Total Amount
+
+                                                                                             Amount
+
+
+
+National
+
+Performance-Based                     0.00               0.00                 190.00              0.00         190.00
+
+Allocations (PBA)
+
+
+
+Scale-Up Window
+
+                                      0.00               0.00                  60.00              0.00          60.00
+
+(SUW)
+
+
+
+Total                                 0.00               0.00                 250.00              0.00         250.00
+
+
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@paddisbursementprojection#doctemplate
+
+Expected Disbursements (US$, Millions)
+
+WB Fiscal Year              2024                 2025                 2026                2027             2028
+
+Annual                       0.00                47.00                74.00               63.00            66.00
+
+Cumulative                   0.00                47.00               121.00              184.00            250.00
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padclimatechange#doctemplate
+
+PRACTICE AREA(S)
+
+
+
+
+
+Practice Area (Lead)                                            Contributing Practice Areas
+
+Finance, Competitiveness and Innovation
+
+
+
+CLIMATE
+
+
+
+
+
+Climate Change and Disaster Screening
+
+Yes, it has been screened and the results are discussed in the Operation Document
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padrisk#doctemplate
+
+SYSTEMATIC OPERATIONS RISK- RATING TOOL (SORT)
+
+
+
+
+
+Risk Category                                                                   Rating
+
+1. Political and Governance                                                     ⚫ Substantial
+
+
+
+                                                                                                               Page iii
+
+      The World Bank
+
+      Ghana Financial Stability Project (P180719)
+
+
+
+
+
+2. Macroeconomic                                                            ⚫ High
+
+3. Sector Strategies and Policies                                           ⚫ Substantial
+
+4. Technical Design of Project or Program                                   ⚫ Substantial
+
+5. Institutional Capacity for Implementation and Sustainability             ⚫ Substantial
+
+6. Fiduciary                                                                ⚫ Moderate
+
+7. Environment and Social                                                   ⚫ Substantial
+
+8. Stakeholders                                                             ⚫ Substantial
+
+9. Overall                                                                  ⚫ Substantial
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padcompliance#doctemplate
+
+POLICY COMPLIANCE
+
+
+
+
+
+Policy
+
+Does the project depart from the CPF in content or in other significant respects?
+
+[ ] Yes      [✓] No
+
+
+
+Does the project require any waivers of Bank policies?
+
+[ ] Yes [✓] No
+
+
+
+
+
+
+
+ENVIRONMENTAL AND SOCIAL
+
+
+
+
+
+Environmental and Social Standards Relevance Given its Context at the Time of Appraisal
+
+E & S Standards                                                                     Relevance
+
+ESS 1: Assessment and Management of Environmental and Social Risks and
+
+                                                                                    Relevant
+
+Impacts
+
+ESS 10: Stakeholder Engagement and Information Disclosure                           Relevant
+
+ESS 2: Labor and Working Conditions                                                 Relevant
+
+ESS 3: Resource Efficiency and Pollution Prevention and Management                  Relevant
+
+ESS 4: Community Health and Safety                                                  Relevant
+
+ESS 5: Land Acquisition, Restrictions on Land Use and Involuntary Resettlement      Relevant
+
+ESS 6: Biodiversity Conservation and Sustainable Management of Living Natural
+
+                                                                                    Relevant
+
+Resources
+
+ESS 7: Indigenous Peoples/Sub-Saharan African Historically Underserved
+
+                                                                                    Relevant
+
+Traditional Local Communities
+
+
+
+                                                                                                Page iv
+
+       The World Bank
+
+       Ghana Financial Stability Project (P180719)
+
+
+
+
+
+ESS 8: Cultural Heritage                                                            Relevant
+
+ESS 9: Financial Intermediaries                                                     Relevant
+
+NOTE: For further information regarding the World Bank’s due diligence assessment of the Project’s potential
+
+environmental and social risks and impacts, please refer to the Project’s Appraisal Environmental and Social Review
+
+Summary (ESRS).
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padlegalcovenants#doctemplate
+
+LEGAL
+
+Legal Covenants
+
+Sections and Description
+
+Not later than 90 days after the Effectiveness Date or such later date as agreed with the Association, establish and
+
+thereafter maintain throughout the implementation of the project, a Project Coordination Committee with functions,
+
+responsibilities, and sufficient resources acceptable to the Association.
+
+Not later than 90 days after the Effectiveness Date or or such later date as agreed with the Association, assign an
+
+additional project accountant to the project.
+
+No later than 90 days after the Effective Date or such later date as agreed with the Association, establish, publicize,
+
+maintain and operate an accessible grievance mechanism, to receive and facilitate resolution of concerns and
+
+grievances of Project-affected people, and take all measures necessary and appropriate to resolve, or facilitate the
+
+resolution of, such concerns and grievances, in a manner acceptable to the Association.
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padconditions#doctemplate
+
+Conditions
+
+Type                              Citation                    Description                    Financing Source
+
+                                                              The Recipient has prepared
+
+                                                              and adopted a Project
+
+                                                              Implementation Manual in
+
+Effectiveness                     Article V of the FA                                        IBRD/IDA
+
+                                                              form and substance
+
+                                                              satisfactory to the
+
+                                                              Association.
+
+                                                              The Recipient, through he
+
+                                                              MoF recruited a qualified
+
+                                                              Investment Advisory Firm
+
+                                  Schedule 2, Section III
+
+Disbursement                                                  to support the Secretariat     IBRD/IDA
+
+                                  (B)(1)(b)(i)
+
+                                                              under terms and conditions
+
+                                                              satisfactory to the
+
+                                                              Association.
+
+                                                              The Recipient, through the
+
+                                                              MoF established an ESMS,
+
+                                  Schedule 2, Section III
+
+Disbursement                                                  including qualified            IBRD/IDA
+
+                                  (B)(1)(b)(ii)
+
+                                                              environmental and social
+
+                                                              specialist(s) (through the
+
+
+
+                                                                                                                  Page v
+
+     The World Bank
+
+     Ghana Financial Stability Project (P180719)
+
+
+
+
+
+                                                   Investment Advisory Firm)
+
+                                                   under terms and conditions
+
+                                                   all in a manner satisfactory
+
+                                                   to the Association.
+
+                                                   The Recipient has revised
+
+                                                   and adopted the GFSF
+
+                                                   Operational Framework in
+
+                                                   form and substance
+
+Effectiveness                Article V of FA                                      IBRD/IDA
+
+                                                   satisfactory to the
+
+                                                   Association, and it has
+
+                                                   published it on the MoF’s
+
+                                                   website.
+
+
+
+
+
+
+
+
+
+                                                                                             Page vi
+
+         The World Bank
+
+         Ghana Financial Stability Project (P180719)
+
+
+
+
+
+    I. STRATEGIC CONTEXT
+
+
+
+    A. Country Context
+
+
+
+1.      In 2022, a confluence of preexisting structural bottlenecks and external shocks brought Ghana into a deep
+
+macroeconomic crisis. Even before the COVID-19 pandemic, Ghana maintained an expansionary fiscal stance, financed
+
+largely by commercial debt (external and domestic). The COVID-19 pandemic and the Russia’s invasion of Ukraine,
+
+combined with the tightening of global financial conditions, exacerbated the country’s macroeconomic vulnerabilities. In
+
+2022, the combination of tightening financial conditions, rapidly rising debt levels (from 79.6 percent of gross domestic
+
+product [GDP] in 2021 to 92.4 percent of GDP in 2022), high inflation (from 12.6 percent in December 2021 to 54.1 percent
+
+in December 2022), steep depreciation of Ghana’s currency,1 and the dwindling foreign international reserves led to a
+
+macro-financial crisis and loss of access to the Eurobond markets.
+
+
+
+2.      The loss of access to the Eurobond market, combined with high levels of uncertainty and loss of investor
+
+confidence, led to large capital outflows, which in turn added to the pressures on the exchange rate and created a
+
+negative feedback loop with inflation. In 2022, inflation continued to rise despite monetary tightening and decelerating
+
+economic activity. As the Government of Ghana (GoG) turned increasingly to the domestic financial sector for funding,
+
+market interest rates rose and became a hindrance for the private sector, while banks built excessive exposure to the
+
+sovereign. These developments severely curtailed the post-COVID-19 economic recovery as growth slowed down to 3.1
+
+percent in 2022. As growth slowed down and inflationary pressures continued to build, tax revenues plummeted, and
+
+investors began to lose confidence in Ghana’s public debt sustainability.
+
+
+
+3.      In December 2022, Ghana announced a restructuring of its debt and sought International Monetary Fund (IMF)
+
+support through the Extended Credit Facility (ECF). On December 5, 2022, the GoG announced its Domestic Debt
+
+Exchange Programme (DDEP), which was completed in September 2023. On December 19, 2022, Ghana announced a
+
+moratorium on all official bilateral and commercial external debt repayments and requested debt treatment to the Paris
+
+Club under the G20 Common Framework.2 Ghana restructured its domestic debt in two phases, the largest share of which
+
+was held by financial institutions (figure 1). The first phase was completed on February 21, 2023, and covered local
+
+currency domestic bonds issued by the Government and select state-owned enterprises (17.8 percent of GDP). The total
+
+amount exchanged was GHS 82.9 billion (US$7.2 billion) or 85 percent of the GHS 97.7 billion (US$8.5 billion) eligible
+
+bonds. Financial institutions tendered GHS 60.6 billion (US$5.3 billion), with banks alone tendering GHS 48.4 billion
+
+(US$4.2 billion). The second phase was completed in September 2023 and covered locally issued US$ government bonds
+
+(1.1. percent of GDP), cocoa bills issued by the Cocoa Marketing Board (1.4 percent of GDP), and bonds held by pension
+
+funds (4.4 percent of GDP). Investors were offered new bonds with lower coupon rates and longer maturities. As a result,
+
+the weighted average interest rate on domestic debt reduced from 21.2 percent at the end of December 2022 to 12.7
+
+percent at the end of September 2023, while the average time to maturity increased from 2.7 years to 6.2 years.
+
+
+
+
+
+
+
+
+
+1 The year-on-year depreciation of GHS accelerated sharply in the first 11 months of 2022, from around 15 percent in the first quarter to 54 percent
+
+in November 2022, but it slowed down to 30 percent by the end of the year. The GHS has continued to depreciate in 2023 but at a slower pace.
+
+2 On May 12, 2023, the Paris Club, China, India, Saudi Arabia, and Türkiye formed an Official Creditor Committee (OCC - co-chaired by China and
+
+
+
+France) and provided financing assurances to Ghana.
+
+
+
+                                                                                                                                      Page 1 of 43
+
+         The World Bank
+
+         Ghana Financial Stability Project (P180719)
+
+
+
+
+
+                     Figure 1. Holding Structure of Domestic Government Securities (in percent, December 2022)
+
+
+
+                                                        1%                               Banks
+
+                                                               0.4%
+
+                                                     2%                                  Firms and Institutions
+
+                                                7%
+
+
+
+                                                                                         Bank of Ghana
+
+                                        11%
+
+                                                                                32%      Individuals
+
+
+
+                                                                                         Non-residents
+
+
+
+                                                                                         Rural banks
+
+                                    22%
+
+                                                                                         Insurance Companies
+
+
+
+                                                                         26%             Social Security and National
+
+                                                                                         Insurance Trust (SSNIT)
+
+                                     Source: Bank of Ghana; World Bank staff calculations.
+
+
+
+4.       Economic conditions have improved over 2023 owing to the authorities’ effort toward restoring fiscal and debt
+
+sustainability, bolstering growth prospects, curbing inflation, and buttressing financial sector stability. Growth, inflation,
+
+and international reserve accumulation outperformed the IMF program objectives for 2023 and the exchange rate has
+
+broadly stabilized. Despite the impact of the crisis on investor confidence, inflation’s effect on households’ purchasing
+
+power, and the ongoing fiscal consolidation, growth in 2023 has proven more resilient than expected, reaching 2.3
+
+percent. Inflation declined to 23.2 percent in December 2023 from a peak of 54.1 percent in December 2022 owing to the
+
+tight monetary policy stance adopted by Bank of Ghana (BoG).3 Moreover, the public finance outlook has improved owing
+
+to (a) front-loaded fiscal consolidation as part of the 2024 budget; (b) the completion of the domestic debt restructuring
+
+in 2023; (c) an agreement with Official Creditors on January 12, 2024, for the comprehensive restructuring of US$5.4 billion
+
+of debt under the G20 Common Framework; (d) the completion of the First Review under the IMF’s ECF on January 19,
+
+2023, enabling disbursement of the second tranche of the IMF program (US$600 million); and (e) the approval of the
+
+World Bank's First Resilient Recovery Development Policy Financing (DPF, P180718) (US$300 million) on January 23, 2024.
+
+
+
+5.        The outlook remains challenging with significant downside risks. GDP growth is projected to remain weak in
+
+2024 (2.8 percent) because of the ongoing fiscal consolidation, macroeconomic uncertainty, elevated interest rates and
+
+inflation, and financial sector and energy sector weaknesses. GDP growth is expected to slowly recover to 4.4 percent in
+
+2025 and gradually rise toward potential in 2026, aided by ongoing structural reforms. However, there are four significant
+
+risks. First, low levels of capitalization and high nonperforming loans (NPLs) may further constrain the banking sector’s
+
+ability to provide credit to the real sector and support economic recovery. Second, the realization of contingent liabilities
+
+from the energy sector could result in additional financing needs. Third, domestic policy slippages due to the political
+
+cycle, with spending pressures before the elections in December 2024, risk derailing the Government’s resolve on fiscal
+
+discipline and macroeconomic recovery. Fourth, any delay in the external commercial debt restructuring process could
+
+compromise continued adherence to the IMF program. Moreover, risks could result from commodity price shocks and
+
+longer-than-expected tight monetary policy stance in advanced economies. The proposed project seeks to partly mitigate
+
+the first risk while the IMF-ECF program and the World Bank’s DPF series (P180718) will mitigate the remaining risks.
+
+
+
+
+
+
+
+
+
+3BoG raised its policy rate by 15.5 percentage points from January 2022 to 30 percent as of end-October 2023, before lowering it by 1 percentage
+
+point in January 2024 to 29 percent. It also increased the banks’ minimum reserve requirements.
+
+
+
+                                                                                                                                    Page 2 of 43
+
+          The World Bank
+
+          Ghana Financial Stability Project (P180719)
+
+
+
+
+
+6.      Ghana is highly vulnerable to extreme weather events and climate change; without sufficient adaptation, this
+
+could impair growth in the medium term. According to the Ghana Country Climate and Development Report (CCDR)4 of
+
+2022, half of Ghana’s coastline is vulnerable to erosion and flooding because of sea level rise. Without prompt actions,
+
+higher temperatures and heat stress will affect crop and labor productivity, and more erratic rainfall patterns will damage
+
+buildings and infrastructure. Land degradation, water insecurity, and air pollution will also hamper human capital and
+
+productivity. Income could decline by up to 40 percent for poor households by 2050 and at least 1 million more people
+
+could fall into poverty due to climate shocks unless climate actions are taken.
+
+
+
+7.      Ghana’s updated Nationally Determined Contribution (NDC) under the Paris Agreement outlines 19 policy
+
+actions requiring an investment of US$9.3 billion to US$15.5 billion from 2020 to 2030 to build a resilient low-carbon
+
+economy capable of withstanding the impact of climate change and contributing to global emission reduction efforts.
+
+To achieve the ambition of a low-carbon economy, a resilient financial system capable of promoting sustainable practices
+
+in areas such as food security, infrastructure, and energy is needed.
+
+
+
+    B. Sectoral and Institutional Context
+
+
+
+Banking Sector Performance before the DDEP
+
+
+
+8.      Ghana’s financial sector is dominated by banks. Total financial sector assets were equivalent to 48 percent of
+
+GDP (or US$35.1 billion) in 2022. Banks held three-quarters of such assets (figure 2, panel a) and provided critical services
+
+such as deposits, domestic and cross-border payments, and credit. There are 23 commercial banks: 14 private foreign
+
+owned (mostly subsidiaries of Pan-African groups from South Africa, Nigeria, and Togo), 5 domestic-private, and 4 state-
+
+owned banks. The state also has significant ownership interests in three domestic private banks through the Ghana
+
+Amalgamated Trust (GAT).5 Foreign-owned banks held the bulk of assets, loans, and deposits (figure 2, panel b). Pension
+
+funds, the second largest subsector, held 16 percent of the total assets. Specialized deposit-taking institutions (SDIs)—
+
+comprising rural and community banks, microfinance institutions, savings and loans, and finance houses—held only 3
+
+percent of the assets, the same percentage held by insurance companies. Despite their small share of the financial sector,
+
+SDIs play an important role as the only institutions serving low-income households, including in rural areas. For instance,
+
+SDIs hold about 10.5 million deposit accounts, most of which belong to women.
+
+
+
+
+
+
+
+
+
+4
+
+ https://openknowledge.worldbank.org/server/api/core/bitstreams/9c9764c1-076d-5dcc-8339-6e4f0de2b610/content
+
+5GAT is a state-owned limited liability company established in 2018 to raise funds to capitalize domestic-owned banks that were unable to meet
+
+the minimum paid-up capital of GHS 400 million that came into force in January 2018.
+
+
+
+                                                                                                                                    Page 3 of 43
+
+         The World Bank
+
+         Ghana Financial Stability Project (P180719)
+
+
+
+
+
+                                   Figure 2. Structure of the Financial Sector (in percent, December 2022)
+
+
+
+                         a. Assets by type of institution                             b. Banking sector assets, loans, and
+
+                                                                                            deposits by ownership
+
+                        3%    3%
+
+                   4%                                     Banks            80
+
+                                                                           60
+
+                                                          Pension
+
+           16%                                                             40
+
+                                                          funds
+
+                                                          Insurance        20
+
+                                                          companies          0
+
+                                                          Securities             Foreign-owned       Domestic state- Domestic private
+
+                                                          firms                                         owned
+
+                                             75%          SDIs
+
+                                                                                            Assets      Loans    Deposits
+
+
+
+         Source: Annual Reports of BoG, NIC, NPRA, and SEC; World Bank staff calculations.
+
+
+
+9.       Before the DDEP, the banking sector appeared largely sound following public interventions from 2017 to 2019
+
+to quell the impact of financial stress. The average capital adequacy ratio (CAR) stood at 16.4 percent in September 2022,
+
+above the regulatory minimum of 13 percent.6 Most banks appeared well capitalized, profitable, and liquid. The average
+
+return on assets and equity was 4.5 percent and 21.9 percent, respectively. However, the average NPL ratio was high at
+
+14.1 percent (even if highly provisioned). Operational efficiency was also an issue, with a high cost-to-income ratio of 80.2
+
+percent. Between 2017 and 2019, BoG resolved nine domestic banks and liquidated 411 SDIs.7 The availability of public
+
+funds was key in making this possible. The GoG spent 5.5 percent of GDP to support the resolution of banks, SDIs, and
+
+fund managers. The cleanup was not completed as some SDIs and fund management companies remained
+
+undercapitalized and unable to meet their obligations to depositors and investors. One state-owned bank continues to
+
+operate without complying with BoG requirements. These institutions are known as ‘legacy issues’, and the authorities
+
+have committed to address them by end-2024.
+
+
+
+10.      The authorities embarked on significant reforms over the past decade to strengthen banking regulation and
+
+their ability to effectively supervise and resolve banks. They implemented International Financial Reporting Standards
+
+and regulatory reforms aligned with Basel III, which helped improve the reliability of financial and prudential metrics. BoG
+
+enhanced its capacity to implement risk-based supervision. The Banks and Specialized Deposit-Taking Institutions Act,
+
+2016 (Act 930) strengthened BoG’s prompt corrective action framework as well as bank resolution powers and tools,
+
+which were used during the 2017–2018 financial sector cleanup. However, lack of ex ante resolution funding and material
+
+gaps in the deposit insurance system remain a challenge.8
+
+
+
+Impact of the DDEP on Ghana’s Banking Sector
+
+
+
+11.     The DDEP severely affected the solvency of many banks that held large amounts of domestic public debt at the
+
+onset of the DDEP. Government securities accounted for about 40 percent of the banking system’s assets, represented
+
+3.4 times regulatory capital on average, and were a key driver of many banks’ profitability. Banks recorded DDEP-related
+
+
+
+6 September of 2022 was the last reporting quarter before the launch of the DDEP.
+
+7 Two banks were resolved using purchase and assumption transactions and seven through the establishment of a bridge bank.
+
+8 The Ghana Deposit Protection Fund (GDPF) has limited resources. Its mandate does not allow it to support resolution when this would be the
+
+
+
+lowest cost option, and it only offers a low deposit coverage of GHS 6,250 (US$572 equivalent) for bank depositors and GHS 1,250 (US$114
+
+equivalent) for SDI depositors. The coverage limit for banks is equivalent to 26 percent of per capital in 2022 compared to a median coverage in
+
+lower-middle-income countries of about 200 percent.
+
+
+
+                                                                                                                                        Page 4 of 43
+
+         The World Bank
+
+         Ghana Financial Stability Project (P180719)
+
+
+
+
+
+impairment charges of GHS 16.3 billion (US$1.5 billion) in 2022.9 As a result, the industry incurred an aggregate loss of
+
+GHS 8 billion (US$696 million), with only 6 banks out of 23 recording a profit in 2022. Half of the system’s regulatory capital
+
+was wiped out in December 2022 and the average CAR without regulatory reliefs fell below the minimum of 13 percent.
+
+Domestic-owned banks (state owned and private) were the most affected due to their higher exposures to GoG debt and
+
+lower capital buffers. Despite the banking industry’s strong profitability in 2023, some banks are yet to meet a 13 percent
+
+CAR and require additional capital to swiftly do so. There was no sign of liquidity stress following the DDEP shock.
+
+
+
+12.      While financial stability has been preserved, the availability of credit and correspondent banking services
+
+declined, hampering economic recovery. BoG estimates that the ratio of private sector credit to GDP declined from 10.4
+
+percent in December 2022 to 8.3 percent in December 2023. In addition to concerns about borrowers’ creditworthiness
+
+due to high interest rates and the adverse environment, some banks aim to cut credit to reduce their risk-weighted assets
+
+(RWAs) and improve their CARs. Moreover, correspondent banks curtailed the services they offer to Ghanaian banks,
+
+constraining the ability of some banks to engage in trade finance, access foreign exchange, and provide related services
+
+to their customers. Banks’ off-balance sheet transactions (mainly trade finance and guarantees) contracted by 33 percent
+
+in the year ending October 2023. The restoration of sound capital buffers of the weakest banks is a precondition to restore
+
+their ability to support the economic recovery.
+
+
+
+13.      The impact of the DDEP on SDIs is limited to a few institutions. About one-fifth of the 366 existing SDIs exchanged
+
+bonds worth about GHS 1.1 billion (US$101 million). Bond holdings among SDIs were relatively low because SDIs prefer to
+
+invest in Treasury Bills and had no holdings of Eurobonds or locally issued US$ government bonds. The SDI sector was in
+
+a weak solvency position before the DDEP.
+
+
+
+Authorities’ Actions to Mitigate Financial Stability Risks
+
+
+
+14.     In June 2023, in consultation with the World Bank and IMF, the authorities approved a Financial Sector
+
+Strengthening Strategy (FSSS) to preserve financial stability. The FSSS’s key measures are summarized in box 1. Its
+
+implementation will be financed using the 2.6 percent of GDP (~US$2 billion) set aside by the GoG for financial sector
+
+support under the IMF program (including this project’s proposed contribution). This 2.6 percent of GDP—added to private
+
+shareholders’ contributions—is material to cover the authorities’ initial estimate of the solvency gap arising from the DDEP
+
+across the financial sector (GHS 23.8 billion or US$2.1 billion), including from the banking and non-banking sectors.10 This
+
+estimated gap includes the cost of dealing with the ‘legacy issues’. Should additional financial sector support be required
+
+over and above the 2.6 percent of GDP, the Government indicated in the FSSS that it “will stand ready to do all it takes to
+
+provide the necessary fiscal backstop to help preserve the stability of the financial system.”
+
+
+
+
+
+
+
+
+
+9Bank of Ghana. 2023. “Financial Stability Review 2022.” Impairments related to phase 1 of the DDEP are fully reflected at end-2022.
+
+10The banking sector includes banks and SDIs while the non-banking sector includes insurance companies, corporate pension trustees, fund
+
+managers, and broker dealers.
+
+
+
+                                                                                                                                  Page 5 of 43
+
+          The World Bank
+
+          Ghana Financial Stability Project (P180719)
+
+
+
+
+
+                                         Box 1. FSSS Key Measures to Mitigate Financial Stability Risks
+
+      •    Operationalization of the Ghana Financial Stability Fund (GFSF). In 2023, the Parliament appropriated about US$500
+
+           million equivalent to Fund A2 of the GFSF.
+
+      •    Submission by banks of plans to complete recapitalization by end-2025. BoG reviewed the plans by September 2023
+
+           (IMF-ECF’s structural benchmark achieved).
+
+      •    Legacy troubled institutions, including state-owned National Investment Bank (NIB), SDIs, and fund management
+
+           companies, to be addressed by end-2024. For this purpose, the Parliament appropriated GHS 4 billion (US$348 million)
+
+           in the 2024 budget. Regarding NIB, BoG and the Ministry of Finance (MoF) will design and begin to implement, by end-
+
+           March 2024, a credible, comprehensive, and cost-effective plan that seeks to address NIB’s insolvency challenges by
+
+           end-2024 (IMF-ECF’s structural benchmark).
+
+      •    Strengthening of the deposit insurance by amending the Ghana Deposit Protection Corporation (GDPC) Act, 2016 (Act
+
+           931) by end-2024 to expand the GDPC’s mandate and increasing the reserves of the GDPF by end -2025 (triggers for
+
+           the World Bank DPF series).
+
+      •    Review by BoG of its prudential regime to identify required amendments to better mitigate the risks of banks’
+
+           sovereign exposures and implement such amended rules as needed before end-June 2025 (trigger for the World Bank
+
+           DPF series).
+
+      •    Suspension of dividend payments by all banks until further notice.
+
+      •    Review of banks’ business models required by BoG to align them with changing market conditions.
+
+
+
+15.      A key priority under the FSSS is setting up the GFSF, which can provide solvency and liquidity support to financial
+
+institutions affected by the DDEP. The GFSF will not be a separate legal entity from the MoF; it will operate with dedicated
+
+MoF’s accounts at BoG. As depicted in annex 5, the GFSF can comprise a solvency window (Fund A) and a liquidity window
+
+(Fund B). The Government is prioritizing the solvency window. Fund A is split into Fund A1 and Fund A2.
+
+
+
+16.      Key features of Fund A1. Fund A1 will be initially capitalized by the GoG (in cash) using IDA proceeds to provide
+
+Additional Tier 1 (AT1) capital (annex 2) to eligible undercapitalized banks and SDIs only (both private and state owned).
+
+It will not take ownership interests or dilute existing shareholders and will require matching contributions from
+
+shareholders. In addition, it will require banks applying for support to have a minimum Common Equity Tier 1 (CET1) ratio
+
+of 8.125 percent. The purpose of shareholder contributions and minimum CET1 is to ensure that only viable banks receive
+
+support, and, in case of losses, shareholders bear such losses before Fund A1/MoF.11 Moreover, the ability to raise equity
+
+at this point is a signal of future ability to do so if conditions made it necessary.
+
+
+
+17.     Key features of Fund A2. Fund A2 is capitalized by the GoG largely using bonds and will support all types of
+
+financial institutions (banks, insurance companies, and SEC-regulated entities), prioritizing those in which the state has
+
+equity interest.12 It will purchase shares in eligible financial institutions. Fund A2 is already operational and deploying the
+
+US$500 million allocated to it in the 2024 budget to eligible domestic institutions. The eligibility criteria for Fund A2 is
+
+spelled out in the GFSF’s Operational Framework and include (a) full participation in the DDEP; (b) submission of viable
+
+capital restoration plan notwithstanding the GoG debt restructuring impact and discounting regulatory reliefs; (c)
+
+commitment from shareholders to inject additional capital to complement the GoG’s funding (in a ratio of 1 to 1) to ensure
+
+that the dilution of private shareholders is kept to a minimum; and (d) evidence of strong governance, prudent
+
+management, and full compliance with regulatory directives.
+
+
+
+
+
+
+
+11 In the context of this project, a bank is deemed viable when it meets the minimum CET1 ratio of 8.125 percent, demonstrates its ability to raise
+
+new capital at least equivalent to the amount of AT1 that Fund A1 would provide, and is not subject to resolution actions by BoG or to any other
+
+supervisory actions that are likely to trigger such resolution. As part of its supervisory activities, BoG is also conducting broader viability assessment,
+
+including an assessment of individual banks’ risk and business profile.
+
+12 Including systemically important insurance companies and Securities and Exchange Commission (SEC)-regulated entities.
+
+
+
+
+
+                                                                                                                                            Page 6 of 43
+
+         The World Bank
+
+         Ghana Financial Stability Project (P180719)
+
+
+
+
+
+18.     Fund A1 and Fund A2 are complementary. Instead of using Fund A2 only to meet their recapitalization needs,
+
+banks and SDIs may have the incentive to access Fund A1 because it offers support in cash and does not take ownership
+
+interests (non-dilutive). Thus, they could first tap into Fund A2 to meet the minimum CET1 of 8.125 percent required for
+
+Fund A1 and then access Fund A1, provided they meet all eligibility requirements. Banks and SDIs can also access Fund A1
+
+without tapping Fund A2, provided they meet Fund A1 eligibility criteria.
+
+
+
+19.     The governance of the GFSF will aim to ensure transparency and market confidence. A five-member Investment
+
+Committee has been established to oversee the GFSF. The committee includes one senior representative from each of the
+
+following five institutions: the MoF (as Chair), BoG, National Insurance Commission (NIC), National Pension Regulatory
+
+Authority (NPRA), and SEC. Four representatives of industry associations are on the Investment Committee as observers.
+
+The Investment Committee started regular meetings in early February 2024 to decide on support to individual banks by
+
+Fund A2. To enhance transparency, the MoF will publicly disclose relevant information regarding the operations of the
+
+GFSF, including its Operational Framework, eligibility criteria, list of beneficiary institutions, and performance. Material
+
+events related to individual institutions such as acceptance or rejection of a request for support and coupon cancellation
+
+and principal write-off would also be disclosed, but with a time lag to avoid unintended market consequences.
+
+
+
+20.      The MoF designated its Financial Sector Division (FSD) as the Secretariat to manage Fund A1. The Secretariat—
+
+comprising technical staff from banking, capital markets, financial markets and innovation, and insurance and pension
+
+units of the FSD—will be responsible for the operational aspects of Fund A1 (see section II.A), supported by a competitively
+
+selected investment advisory firm. The MoF will directly inject capital into state-owned banks and other financial
+
+institutions owned by the state, while GAT will manage support to private financial institutions, including to the banks
+
+where GAT has ownership interests.
+
+
+
+21.     At the same time that the FSSS was being developed and the GFSF was being designed, BoG also requested
+
+undercapitalized banks to submit recapitalization plans showing a path to return to the minimum CAR of 13 percent by
+
+end-2025.13 BoG expects all banks with approved recapitalization plans to meet their annual 2023 targets and has
+
+committed to initiate corrective measures by end-March 2024 against banks that fail to meet minimum annual
+
+recapitalization targets (IMF-ECF’s structural benchmark). Expected sources of recapitalization include retained profits
+
+and new capital injections from existing and new shareholders. It is anticipated that some state-owned and domestic-
+
+owned private banks with state interest will immediately draw from the GFSF to help achieve recapitalization milestones
+
+outlined in their recapitalization plans. BoG will require an update of recapitalization plans in the first half of 2024 for
+
+banks that remain undercapitalized after closing their 2023 financial statements.
+
+
+
+22.      While BoG expects banks to achieve their 2023 recapitalization targets, there are risks that could derail
+
+achieving the 2024 and 2025 targets, underscoring the relevance of the GFSF to be available to support viable but
+
+undercapitalized banks reach the minimum CAR. It could prove more challenging to meet recapitalization targets if
+
+profitability is lower than expected due to a combination of lower interest income because of expected decline in interest
+
+rates, elevated operational costs, higher cost of risk (the NPL ratio has been increasing, from 16 percent in December 2022
+
+to 20.7 percent in December 2023), and additional impairment on Eurobonds if the final terms of the exchange turn out
+
+to be less favorable than what banks assumed. Moreover, the review of the 2023 accounts by external auditors and the
+
+outcomes of BoG’s on-site review of all banks’ assets conducted in Q4 2023 could also affect impairments that banks need
+
+to recognize.14 According to BoG, the objective of the asset review is “to assess the health of banks’ loan and investment
+
+
+
+
+
+13 BoG developed a note to guide the preparation of plans and had multiple iterations with concerned banks before completing the review of the
+
+plans.
+
+14 https://www.bog.gov.gh/wp-content/uploads/2023/10/GOVERNORS-ADDRESS-GAB-40TH-ANNUAL-GENERAL-MEETING-021023.pdf. The review
+
+
+
+covered all 23 banks and focused on the valuation of loans, securities, and other assets.
+
+
+
+                                                                                                                                 Page 7 of 43
+
+            The World Bank
+
+            Ghana Financial Stability Project (P180719)
+
+
+
+
+
+portfolios to determine if their asset classification is in line with BoG’s classification norms as well as International Financial
+
+Reporting Standards.” The review was completed by BoG staff.
+
+
+
+ C. Relevance to Higher Level Objectives
+
+
+
+23.     Unlike typical World Bank-funded financial sector crisis response projects that often support the cleanup of the
+
+financial sector after bank failures, this proposed project is unique in that it seeks to provide ex ante solvency support
+
+to viable banks and SDIs to improve their soundness and boost overall trust in financial sector resilience. The project
+
+would directly support the implementation of the Government’s FSSS to preserve financial stability post DDEP. Specifically,
+
+it would contribute to the capitalization of Fund A1 of the GFSF, focusing on the provision of non-dilutive capital support
+
+to viable banks and SDIs affected by the DDEP. The project is expected to immediately benefit some currently
+
+undercapitalized but viable banks (mainly domestic owned) and SDIs, support other banks and SDIs that—due to potential
+
+new losses not yet factored into the recapitalization plans—may fall below the minimum CAR, and help build confidence
+
+in the ability of the authorities to support financial stability, among others, by providing a backstop against unexpected
+
+losses. Banks and SDIs would be expected to first mobilize new capital contributions (excluding retained profits) from
+
+shareholders and then use the project support to top up such contributions to meet the minimum CAR.
+
+
+
+24.     The rationale for the World Bank to intervene ex ante is because having a recapitalization fund provides
+
+incentives for banks to recognize losses early and allows BoG to take swifter action, thereby protecting depositors, the
+
+financial sector, and the economy and avoiding the costs associated with a financial crisis. Eligible banks in need of
+
+solvency support will have the option to seek support from Fund A1, encouraging BoG to deliver on its commitment of
+
+taking corrective measures against banks that fail to uphold recapitalization plans. International experience shows that
+
+twin debt and banking crises are among the costliest, resulting in a reduction in real income per capita of up to 7 percent
+
+compared to precrisis levels (World Bank, forthcoming). In fact, the fiscal cost of cleaning up Ghana’s financial sector
+
+between 2017 and 2019 was about 5.5 percent of GDP and contributed to the debt distress that followed. The fiscal cost
+
+and output losses of Ghana’s 1982–1983 crisis were 6 percent and 45 percent, respectively, while NPLs peaked at 35
+
+percent.15 About 81 percent of deposit accounts in Ghana’s banking sector have a balance less than GHS 500 (US$43) and
+
+therefore millions of small depositors would stand to lose their savings. Women would be the most affected among the
+
+SDIs’ customers, as they account for majority of the account holders.
+
+
+
+25.      The proposed amount of the project alone is not sufficient to offset the capitalization needs of the entire
+
+banking sector, but it is expected to complement the capital contributions from private shareholders and the GoG,
+
+amplifying its contribution to building public confidence and mitigating risks to financial stability. The project design
+
+requires contributions of new capital (excluding retained profits) from new or existing shareholders. Out of its 2.6 percent
+
+of GDP programmed for financial sector support, the Government has already appropriated US$500 million equivalent to
+
+Fund A2 and is available for those banks and SDIs facing shareholder shortfalls, including to meet the minimum CET1
+
+capital of 8.125 percent required to access Fund A1. While no other development partners have committed funding to
+
+the GFSF thus far, the African Development Bank (AfDB)—through its Fiscal Consolidation and Economic Reform
+
+Program—is supporting the development of an Insurance Sector Strengthening Strategy and a Climate Financing Strategy.
+
+The Foreign, Commonwealth and Development Office (FCDO) of the United Kingdom Government supported the
+
+development of the Operational Framework for the GFSF and capacity building of the MoF and GAT to manage Fund A2.
+
+
+
+26.     Alternative interventions were considered with the authorities and discarded during the design of this project.
+
+These included (a) capitalizing the GDPF; (b) supporting the provision of credit to the economy through a line of credit
+
+
+
+15Laeven,Luc, and Fabian Valencia. 2012. “Systemic Banking Crises Database: An Update.” IMF Working Paper WP/12/163, IMF, Wash ington, DC.
+
+https://www.imf.org/external/pubs/ft/wp/2012/wp12163.pdf.
+
+
+
+                                                                                                                               Page 8 of 43
+
+         The World Bank
+
+         Ghana Financial Stability Project (P180719)
+
+
+
+
+
+(LoC) and Partial Credit Guarantees (PCGs) to crowd in private sector financing; and (c) establishing and capitalizing a
+
+resolution fund. Capitalizing the GDPF would improve its capacity to compensate depositors in the worst-case scenario,
+
+thereby boosting public confidence in the banking sector and lowering the probability of a systemic crisis. However,
+
+capitalizing the GDPF would not be effective before the completion of key reforms, including increasing the deposit
+
+coverage limits and expanding the mandate of the GDPF to enable it to participate in resolution. The World Bank is
+
+supporting these reforms through the DPF series. Similarly, the World Bank is already providing LoCs and PCGs through
+
+the Ghana Development Finance Project (GDFP, P169742). Moreover, deploying additional LoCs and PCGs without
+
+strengthening the soundness of banking sector would be of limited impact. Finally, the project amount would be too small
+
+to capitalize a credible resolution fund.16
+
+
+
+27.     The World Bank DPF series and the IMF-ECF complement this proposed project by supporting reforms that are
+
+expected to improve the macroeconomic environment which would enable financial institutions to operate profitably
+
+and generate internal capital. The DPF series supports the Government’s efforts to restore macroeconomic stability and
+
+lay the foundations for sustainable and resilient economic growth. Specifically, it seeks to restore fiscal sustainability,
+
+support financial sector stability and private sector development, improve energy sector financial discipline, and
+
+strengthen social and climate resilience. On the financial sector, the DPF supports the following reforms: (a) amendment
+
+of the GDPC’s Act to expand the corporation’s mandate to contribute to resolution funding and increasing the reserves of
+
+the GFSF and (b) strengthening of BoG’s prudential regime for banks’ sovereign exposures. Similarly, the IMF-ECF supports
+
+reforms to restore macroeconomic stability and debt sustainability as well as spur growth. It also supports specific financial
+
+sector measures such as the completed approval of banks’ recapitalization plans by BoG, addressing of ‘legacy issues’, and
+
+corrective measures by BoG against banks that fail to uphold minimum recapitalization requirements.
+
+
+
+28.      By supporting interventions to safeguard financial stability, the project complements other World Bank projects
+
+directly supporting economic recovery and job creation in Ghana. The GDFP (P169742) supported the establishment of
+
+the Development Bank Ghana (DBG) and provides it with a US$175 million LoC to facilitate long-term financing to small
+
+and medium enterprises (SMEs) and small corporates through participating banks and SDIs. The same project will also
+
+provide US$50 million to the DBG to capitalize a PCG facility aimed at encouraging financial institutions to lend to SMEs.
+
+The Ghana Financial Sector Development Project (GFSDP, P161787) supports financial inclusion and was recently
+
+restructured, including to enable the GoG to mobilize technical support for the design of this proposed project. The Ghana
+
+Economic Transformation Project (P166539) is supporting business environment reforms, investment promotion and
+
+spatial development interventions to crowd in investments, and venture capital to promote entrepreneurship and SME
+
+growth. Moreover, the Ghana Jobs and Skills Project (GJSP, P166996) supports the development of labor force skills
+
+needed by enterprises, including through financing the provision of apprenticeship training and competitive business
+
+start-up grants for individuals as well as competitive grants to private enterprises for expanded employment.
+
+
+
+29.      The proposed project is closely aligned with the World Bank Group’s (WBG) FY22–26 Country Partnership
+
+Framework’s (CPF),17 as it strives to balance emergency economic crisis response with creating the conditions for long-
+
+term resilient recovery. Consistent with the WBG COVID-19 Response Framework, the CPF seeks to support the GoG in
+
+managing the impact of the COVID-19 crisis through preserving critical human capital and capabilities while taking the
+
+opportunity to build back better for a dynamic and diversified economy, creating job opportunities for a greener, more
+
+resilient, and inclusive society. The three focus areas of the CPF are (1) Enhancing Conditions for Private Sector
+
+Development with Quality Job Growth; (2) Improving Inclusive Service Delivery; and (3) Promoting Sustainable Resilient
+
+
+
+
+
+
+
+16 The World Bank has secured funding to support BoG to complete a feasibility assessment for the establishment of an industry-funded resolution
+
+fund.
+
+17 Report No: 157249. Discussed at the Board on January 22, 2022.
+
+
+
+
+
+                                                                                                                                   Page 9 of 43
+
+        The World Bank
+
+        Ghana Financial Stability Project (P180719)
+
+
+
+
+
+Development. The proposed project will support focus area (1) through Pillar 2, via greater financial sector stability, which
+
+is critical for objective 1.2 (increased access to finance).
+
+
+
+30.      The proposed project is also fully aligned with the WBG’s Global Crisis Response Framework. As stated in the
+
+framework, “the WBG’s objective is to provide mutually re-enforcing support by addressing short-term shocks to improve
+
+prospects for long-term sustainable development, while developing long-term resilience to help prepare for future
+
+shocks.” Pillar II of the framework calls for Protecting People and Preserving Jobs to help mitigate the medium -to-long-
+
+term impact of crises, including through the promotion of financial market stability. The project aims to contribute to
+
+financial sector stability by providing timely support for the recapitalization of the banking sector, thereby improving the
+
+sector’s ability to support private sector job creation. The total cost of the project is US$436 million, consisting of a US$250
+
+million IDA credit and US$186 million from unguaranteed commercial financing. The IDA credit includes a US$60 million
+
+Scale-up Window-Shorter Maturity Loan (SUW-SML).
+
+
+
+31.      Finally, the project is consistent with Ghana’s NDC and aligns well with the Ghana CCDR, emphasizing the crucial
+
+role of the financial sector in mobilizing and redirecting finance to the real sector, especially in promoting green finance.
+
+The project supports the recapitalization of the banking sector, enabling it to play the role envisaged in the CCDR, and
+
+projects that contribute to climate adaptation. BoG has established and adopted risk frameworks, directives, and
+
+sustainable banking principles, requiring banks and SDIs to implement comprehensive risk management strategies
+
+covering key considerations such as governance, environmental, social, ethical, and liquidity risks, among others. This
+
+project would complement these efforts by supporting the upgrade or establishment of Environmental and Social
+
+Management Systems (ESMSs) of some beneficiary banks and SDIs.
+
+
+
+ II. PROJECT DESCRIPTION
+
+
+
+ A. Project Development Objective (PDO)
+
+
+
+PDO Statement
+
+
+
+32.     To support the recapitalization of viable banks and specialized deposit-taking institutions to contribute to
+
+financial stability.
+
+
+
+PDO Level Indicators
+
+
+
+ 33.    Two indicators will be used to assess the project’s progress toward the achievement of the PDO:
+
+        •   Banking sector assets held by adequately capitalized banks (without regulatory relief) (percentage)
+
+        •   Banks adequately capitalized (without regulatory relief) (percentage)
+
+
+
+ B. Project Components
+
+
+
+34.     Figure 3 provides the overview of the project, including financing allocation by component.
+
+
+
+
+
+
+
+
+
+                                                                                                                   Page 10 of 43
+
+         The World Bank
+
+         Ghana Financial Stability Project (P180719)
+
+
+
+
+
+                                                            Figure 3. Project Overview
+
+
+
+
+
+
+
+
+
+Component 1: Capitalization of Fund A1 of Ghana Financial Stability Fund (US$406 million, of which US$220 IDA and
+
+US$186 million Unguaranteed Commercial Financing)
+
+
+
+35.      Component 1 will capitalize Fund A1 of the GFSF to support (alongside shareholders) the recapitalization of
+
+viable banks and SDIs and contribute to financial stability. This component (Fund A1) will serve three main specific
+
+purposes: (a) immediately support some currently undercapitalized but viable banks (mainly domestic owned) and SDIs
+
+to reach the minimum CAR; (b) assist other banks and SDIs that—due to potential new losses not yet factored into the
+
+recapitalization plans—may fall below the minimum CAR and need support to complement shareholders’ recapitalization
+
+efforts; and (c) help build confidence in the ability of the authorities to support financial stability if needed by providing a
+
+backstop against unexpected losses.
+
+
+
+36.      Fund A1 will inject non-dilutive AT1 capital into banks and SDIs by purchasing capital-eligible debt securities
+
+voluntarily issued by these institutions (annex 2). Capital injections will be capped at the maximum AT1 allowed by BoG’s
+
+capital regulation (currently 1.5 percent of a bank’s RWAs). The resulting CAR after Fund A1 support will not exceed the
+
+minimum required by BoG in normal time, which is 13 percent for banks and 10 percent for SDIs. Banks and SDIs will issue
+
+AT1 instruments using standardized documentation.
+
+
+
+37.       Key terms of the proposed AT1 instrument for banks are as follows:18
+
+          •     Banks’ minimum CET1 at issuance: 8.125 percent.
+
+          •     Trigger point or level of CET1 at which the AT1 instrument is used to absorb losses: 5.125 percent.
+
+
+
+
+
+
+
+18Viable banks and SDIs under this project are those that meet eligibility criteria (including minimum CET1 ratio of 8.125 percent and ability to raise
+
+new capital). BoG conducts a broader viability assessment as part of its supervisory activities. All capital ratios are without regulatory reliefs.
+
+
+
+                                                                                                                                       Page 11 of 43
+
+          The World Bank
+
+          Ghana Financial Stability Project (P180719)
+
+
+
+
+
+           •    Loss absorption mechanism when the trigger point is reached: cancellation of the AT1 instrument (that is,
+
+                the MoF loses money).
+
+           •    Exit through cancellation, sale of the outstanding AT1 instrument by the MoF to other investors, or buyback
+
+                by the issuer bank after five years with approval from BoG.
+
+           •    Interest/coupon rate to be paid to the MoF will be indexed to the rate of the longest-dated exchanged
+
+                government bond plus a spread.19
+
+
+
+     38. Eligibility criteria for Fund A1 are objective and predictable to encourage participation while limiting access to
+
+     viable institutions only. Once a bank/SDI meets eligibility criteria and issues AT1 securities, Fund A1 will purchase such
+
+     securities. The main eligibility criteria for banks (to be detailed in the Project Implementation Manual [PIM]) include the
+
+     following:
+
+
+
+           •    Undergo an independent due diligence by a reputable firm to ensure that all markdowns and losses have
+
+                been adequately booked.20
+
+           •    Meet but not exceed the minimum CAR of 13 percent for banks and 10 percent for SDIs after receiving
+
+                support from Fund A1.
+
+           •    Have minimum CET1 of 8.125 percent at the time of seeking support from Fund A1. This provides an objective
+
+                indication that the bank is viable and also protects the MoF against losses.
+
+           •    Participated fully in the DDEP.
+
+           •    Comply with BoG capital requirements before phase 1 of the DDEP, as Fund A1 does not aim to address
+
+                legacy issues.
+
+           •    Have minimum contribution of new capital from existing and new shareholders of at least the amount to be
+
+                injected by Fund A1 (1:1 ratio).21
+
+           •    Should not have unresolved material breaches of legal and regulatory requirements (or be likely to encounter
+
+                such situation), including, but not limited to, key prudential metrics, governance, and requirements related
+
+                to anti-money laundering and combating the financing of terrorism. Additionally, should not be subject or
+
+                likely to be subject to other actions, jeopardizing the viability of the institution including resolution.
+
+           •    Comply with the project’s environmental and social (E&S) requirements.
+
+
+
+39.     Expected users of Fund A1. The immediate users are expected to be domestic-owned banks (state owned and
+
+private) that are currently undercapitalized, have direct or indirect state participation, and plan to raise new capital from
+
+shareholders. This group of banks (with about 27 percent of RWAs) would be expected to tap about 19 percent of Fund
+
+A1. A small part of the remaining portion would be expected to support SDIs while the bulk would act as buffer to support
+
+(a) banks that project to meet minimum CAR using retained profits, but their recapitalization efforts may fall short and (b)
+
+
+
+
+
+
+
+19 This is consistent with banks’ participation in the DDEP.
+
+20 These due diligences will be done based on terms of reference to be agreed under the project and by firms to be compensated by the project.
+
+The due diligences will not be full-fledged AQRs, but audit assessments and certification of financial positions of the institutions applying to Fund
+
+A1. To ensure that the due diligences do not delay the deployment of support to banks and SDIs, audit firms will be procured ex ante and
+
+prepositioned to complete the due diligences as soon as possible.
+
+21 The mobilization of external capital by banks is key to leverage the GFSF contribution and provide a credible indication of further external
+
+
+
+support if needed. To avoid doubt, retained earnings will not be considered as new capital.
+
+
+
+                                                                                                                                        Page 12 of 43
+
+         The World Bank
+
+         Ghana Financial Stability Project (P180719)
+
+
+
+
+
+banks and SDIs that—due to potential new losses not yet factored into the recapitalization plans—may fall below the
+
+minimum CAR.
+
+
+
+40.       The eligibility criteria for SDIs and calibration of the key terms of their AT1 instrument will be similar to banks
+
+but adjusted to the SDIs’ special circumstances, including applicable prudential regime. For instance, the minimum
+
+capital ratio for participation will be set in relation to Tier 1 capital rather than CET1. The PIM will elaborate on the
+
+eligibility criteria and key terms. The number of potentially eligible SDIs is expected to be small because most of the SDIs
+
+that participated in the DDEP were already undercapitalized before the DDEP (‘legacy issues’).
+
+
+
+41.      Risk of underuse or overuse of Fund A1 and proposed mitigation measures. As of March 2024, when project
+
+preparation was finalized, the likelihood of underuse is high if (a) banks continue to make profits which help generate
+
+internal capital and (b) there are no additional shocks to the financial sector. Even with limited use, Fund A1 is still expected
+
+to support financial stability by building confidence in the authorities’ ability to intervene if needed. The MoF, BoG, and
+
+the World Bank will periodically examine whether any unused funds should be cancelled or reallocated. The risk of overuse
+
+appears low in the near term as the amount allocated to Fund A1 could meet the potential AT1 capital needs of the entire
+
+banking sector, based on the existing BoG regulation. If requests exceed available resources, the PIM will require the GFSF
+
+Investment Committee to seek guidance from BoG on which requests should be prioritized based on systemic importance.
+
+In addition, the GoG has committed to deploy additional resources to support the financial sector as needed.
+
+
+
+42.      Fund A1 management. The MoF has designated the FSD as the Secretariat to manage Fund A1. To strengthen the
+
+Secretariat’s capacity, the MoF will competitively recruit a qualified investment advisory firm comprising an investment
+
+specialist, an accounting and administration officer, and E&S specialist(s). Key functions of the Secretariat and the
+
+investment advisory firm will include (a) developing key manuals and processes for Fund A1; (b) verifying banks’ and SDIs’
+
+compliance with the eligibility criteria; (c) commissioning independent due diligence of banks and SDIs; (d) recommending
+
+approval and subscription of AT1 instruments; and (e) regular monitoring and reporting on the performance of the Fund.
+
+The five-member Investment Committee described in section I.B will make investment decisions based on the eligibility
+
+criteria above, to be detailed in the PIM.
+
+
+
+43.      Private capital mobilized (PCM). The project is expected to mobilize about US$186 million (unguaranteed) from
+
+private sector shareholders, including US$68 million in FY25 shortly after implementation starts. This estimate is based on
+
+expected contributions from private sector shareholders of banks that are likely to tap support from Fund A1, immediately
+
+or over the course of the project.22
+
+
+
+44.     Disbursement Conditions. Disbursements from the World Bank under this component will be made after the
+
+Recipient has met the following conditions: (a) recruited a qualified investment advisory firm, with requisite staff including
+
+an investment specialist, accounting and administration officer, and E&S specialist(s) and (b) adopted an ESMS. These
+
+conditions are required to ensure implementation readiness for Component 1 but not for Components 2 and 3 of the
+
+project. Turning these disbursement conditions into effectiveness conditions would hold up funding for the recruitment
+
+
+
+22These estimates are based on available data as of December 2023, eligibility criteria, and discussions with individual banks. While a minimum ratio
+
+of new CET1 to new AT1 of 1 always applies, the actual ratio may be much higher in practice, for example, where shareholders need to bring more
+
+CET1 to meet the required minimum CET1 ratio of 8.125 percent at the time of seeking support from Fund A1. For FY25, five domestic-owned banks
+
+are expected to rapidly seek support from Fund A1. For private domestic banks, PCM calculations assume that they will only raise half of their capital
+
+needs from private sources. The remaining portion is expected to be provided by the Government (including through Fund A2), and together with
+
+Government’s support to state-owned banks, does not count as PCM. Beyond FY25, there is high uncertainty on the usage profile of Fund A1 and the
+
+project acts as a backstop. For FY26–28, the estimates are thus based on the assumption that disbursement would be equal each year, that banks ’
+
+shareholders would in practice need to bring two of new shareholder capital for one of AT1 (much less than observed for the five banks likely to
+
+immediately approach Fund A1 but still above the minimum requirement of 1 to 1 as material losses would be the cause for approaching Fund A1),
+
+and one-third of external capital would be raised from the private sector.
+
+
+
+                                                                                                                                      Page 13 of 43
+
+       The World Bank
+
+       Ghana Financial Stability Project (P180719)
+
+
+
+
+
+of the investment advisory firm under Component 2. The MoF has initiated the recruitment of the investment advisory
+
+firm and development of the ESMS, both expected to be completed by end-June 2024.
+
+
+
+Component 2: Technical Assistance (US$25 million)
+
+
+
+45.     This component will finance technical assistance to improve BoG’s assessment of banking sector risks and
+
+inform the development of appropriate remedies, enhance GDPC’s preparedness, complete due diligence of banks and
+
+SDIs, and build the E&S risk management capacity of banks and SDIs. The component will finance the following activities:
+
+        •    Independent asset quality review (AQR) for banks. Unless banking sector conditions improve significantly,
+
+             an independent AQR would be completed by reputable firms to provide an up-to-date picture regarding the
+
+             quality of banks’ assets. The AQR would be based on rigorous methodologies aligned with international
+
+             standards and good practices. The AQR would determine possible shortfalls in the recognition of losses as
+
+             well as the resulting shortfalls in capital levels. Where applicable, this would allow BoG to request banks to
+
+             submit recapitalization plans and develop strategies to reduce NPLs, ultimately contributing to the overall
+
+             stability of the financial sector. The AQR would also be key to strengthen confidence in numbers published
+
+             by the banking system and authorities’ responses to actual weaknesses.
+
+        •    Independent due diligence of each bank and SDI by qualified firms to ensure that all markdowns and losses
+
+             have been adequately booked at the time of accessing Fund A1.
+
+        •    Upgrade of GDPC’s depositor payout system. GDPC’s core application (‘the Integrator’) lacks key modules,
+
+             including the data quality assessment module, claims and complaints administration, client and
+
+             administration portal, and data warehouse module. The deployment of these modules would ensure data
+
+             quality and enable a swift depositor payout. Consulting services will be procured to review the existing
+
+             system, develop technical specifications for the upgrade, complete the upgrade, and train staff (including
+
+             through payout simulation exercises). Procurement of basic IT hardware may also be contemplated based
+
+             on the system’s review outcomes.
+
+        •    Upgrade/establishment of beneficiary banks’ and SDIs’ ESMSs to fully meet World Bank requirements,
+
+             including climate and disaster risks screening of subprojects on an ongoing basis to ensure lending and
+
+             investment activities are resilient to climate change impacts (adaptation) and contribute to Ghana’s effort
+
+             to reduce greenhouse gas (GHG) emissions (mitigation).
+
+        •    Where needed, additional technical assistance to BoG and GDPC to address any emerging financial stability
+
+             risks.
+
+
+
+ Component 3: Project Management, Monitoring and Evaluation (US$5 million)
+
+
+
+46.      This component will cover project implementation costs, including the compensation of an investment advisory
+
+firm, capacity building of FSD staff, coordination, procurement, financial management (FM), M&E, and other related costs.
+
+Specifically, it will cover consultants’ salaries and related expenses, operational costs, implementation of the Stakeholder
+
+Engagement Plan (SEP), data collection for M&E, and other project implementation expenses. Stakeholder engagement
+
+will entail the completion of annual surveys of beneficiaries (mainly banks and SDIs) to assess their satisfaction with the
+
+solvency support and technical assistance provided under the project and share lessons learned.
+
+
+
+
+
+
+
+
+
+                                                                                                               Page 14 of 43
+
+       The World Bank
+
+       Ghana Financial Stability Project (P180719)
+
+
+
+
+
+ C. Project Beneficiaries
+
+
+
+47.    The primary beneficiaries of the project are eligible banks and SDIs whose solvency has been impaired by the
+
+DDEP but are viable. Through direct support to banks and SDIs, the project will ultimately benefit the following subgroups
+
+and Ghana’s financial sector and economy:
+
+        •    Depositors and other financial consumers that will continue to have access to savings, payments, and other
+
+             core financial services provided by adequately capitalized banks and SDIs.
+
+        •    Economic growth and productivity. The project supports financial stability, a critical public good that will
+
+             benefit the broader financial sector and the economy. Given the dominance and importance of the banking
+
+             sector, its stability is key to overall financial stability, which in turn is required for the provision of credit to
+
+             firms and households as well as for economic growth.
+
+        •    BoG and GDPC, two institutions that will receive technical assistance and capacity building under Component
+
+             2 to enhance their ability to support financial stability.
+
+ D. Results Chain
+
+
+
+48.     Figure 4 provides a visual depiction of the Theory of Change underpinning the project.
+
+                                                Figure 4. Project Results Chain
+
+
+
+
+
+
+
+
+
+                                                                                                                    Page 15 of 43
+
+           The World Bank
+
+           Ghana Financial Stability Project (P180719)
+
+
+
+
+
+ E. Rationale for World Bank Involvement and Role of Partners
+
+
+
+49.     Financial stability is a public good and therefore there is a strong rationale for the World Bank to contribute to
+
+its provision in Ghana. By supporting the recapitalization of viable banks and SDIs, the project contributes to the
+
+protection of depositors, the financial sector, and the economy and to a reduced likelihood of the high costs associated
+
+with a financial crisis. As noted in section IV.D, such costs tend to have a disproportionate negative impact on the
+
+vulnerable segments of society, including women and the poor.
+
+
+
+50.     The project is a culmination of an intense dialogue between the GoG, the IMF, and the World Bank on how to
+
+assess the impact of the DDEP on the financial sector and mitigate its impacts. Additionally, the World Bank, in
+
+collaboration with the IMF, consulted closely with the GoG on the development of FSSS and the design of the GFSF.
+
+Moreover, the project builds on World Bank experience in helping Recipient countries manage financial crisis, including
+
+during the Global Financial Crisis. Finally, the project leverages seven years of the World Bank’s engagement with BoG on
+
+bank resolution and crisis management, which culminated with the liquidation by BoG of more than 400 SDIs and the
+
+establishment of Ghana’s Financial Stability Council and BoG’s Resolution Office.
+
+
+
+51.     Three other development partners are directly supporting government efforts to restore financial stability.
+
+Through its ECF, the IMF supports reforms to restore macroeconomic stability and debt sustainability as well as spur
+
+growth. It also supports specific financial sector measures such as the approval of banks’ recapitalization plans by BoG
+
+(completed in September 2023), implementation by BoG of corrective measures against banks that fail to uphold annual
+
+recapitalization targets, and development and implementation of a strategy to address NIB’s solvency challenges. The
+
+AfDB has approved a Budget Support Operation which supports, among other reforms, improved domestic revenue
+
+mobilization and financial sector development, including the development of an Insurance Sector Strengthening Strategy
+
+and a Climate Financing Strategy. Finally, the FCDO of the United Kingdom Government supported the development of
+
+the GFSF’s Operational Framework.
+
+
+
+ F. Lessons Learned and Reflected in the Project Design
+
+52.      Acting preemptively and avoiding bailouts is key to preserving financial stability at lowest cost. Early
+
+interventions to prevent or lessen the impact of a financial crisis are associated with the low cost of the overall crisis. This
+
+is particularly the case if interventions seek to minimize moral hazard and bailouts by requiring owners to share the
+
+burden. In this context, the project supports the recapitalization of the banking system to help it withstand shocks. To
+
+limit moral hazard, shareholders are required to share the burden by contributing new capital and to bear losses before
+
+the MoF/GoG. Moreover, support is limited to viable banks and SDIs.
+
+
+
+53.      Sequencing and focus on financial sector vulnerabilities and immediate needs. A key criticism from the
+
+Independent Evaluation Group's (IEG) evaluation of the WBG’s response to the Global Financial Crisis23 is that financial
+
+sector and fiscal management operations had limited short-term crisis-response policy content and were based on areas
+
+that lent themselves to swift preparation, often through prior or ongoing engagement. This project takes this finding into
+
+account, tailoring its design and content to the immediate solvency challenges imposed by the DDEP. The project’s priority
+
+is to address immediate solvency needs while supporting the authorities (through the DPF series) to prepare for the
+
+resolution of nonviable institutions (including legacy issues), including through the amendment of the GDPC’s Act and
+
+capitalization of GDPF.
+
+
+
+54.        Strong Recipient ownership and commitment is indispensable. Therefore, project preparation was contingent
+
+
+
+23   https://documents1.worldbank.org/curated/en/196221468147556098/pdf/668410corrigen0C0disclosed020210120.pdf
+
+
+
+                                                                                                                   Page 16 of 43
+
+       The World Bank
+
+       Ghana Financial Stability Project (P180719)
+
+
+
+
+
+on the development of the FSSS by the Government to restore financial stability following the DDEP. All the interventions
+
+supported under this project are part of the FSSS. Additionally, the Government is contributing its own resources toward
+
+the capitalization of Fund A2 of the GFSF, without which the impact of the AT1 financed by this project would be limited.
+
+
+
+55.      Analytical work is key to informing the design of lending operations. The project design is informed by multiple
+
+assessments conducted by BoG and World Bank staff. These assessments informed the estimation of capitalization needs
+
+and calibration of proposed support. The type and scope of the analytical work was tailored to the evolving nature of the
+
+DDEP’s shock on the financial sector. Instead of producing traditional Advisory Services and Analytics (ASA) reports, the
+
+World Bank team opted for short and just-in-time analysis and presentations outlining impacts and solutions at specific
+
+points in time.
+
+
+
+ III. IMPLEMENTATION ARRANGEMENTS
+
+
+
+
+
+ A. Institutional and Implementation Arrangements
+
+
+
+56.     The MoF —through its FSD—will have the institutional responsibility for coordination and management of the
+
+project. It will be responsible for the procurement of goods and consulting and non-consulting services, FM, reporting,
+
+and M&E. Specifically, the project will be managed by the FSD Project Implementation Unit (PIU) overseeing the GFSDP
+
+(P161787) and the GDFP (P169742). The PIU comprises FSD staff and three consultants—a project coordinator, a
+
+procurement specialist, and an M&E specialist. The Director of the FSD will be the project director and day-to-day
+
+supervisor of the implementation of the project.
+
+
+
+57.       The FSD (Fund A1 Secretariat) will implement Component 1 under the oversight of the GFSF Investment
+
+Committee. It will be supported by a qualified investment advisory firm. The FSD/MoF will also be responsible for the
+
+implementation of Components 2 and 3, working with BoG and the GDPC as technical leads. As detailed in annex 1, a
+
+Project Coordination Committee (PCC) will be established to ensure effective interagency coordination, particularly at the
+
+initial stage of project implementation.
+
+
+
+ B. Results Monitoring and Evaluation Arrangements
+
+
+
+58.     Project M&E will be the responsibility of the MoF/FSD, working closely with the investment advisory firm, BoG,
+
+and the GDPC. M&E will be carried out using the Results Framework presented in section VII, which includes PDO and
+
+intermediate indicators. With input from the Secretariat, BoG, and the GDPC, the MoF will prepare half-yearly monitoring
+
+reports. Feedback from project beneficiaries (mainly banks and SDIs) will be collected through annual surveys to be
+
+financed by the project and the results shared with all key stakeholders. A mid-term review will take place approximately
+
+24 months into project implementation to further assess progress and incorporate lessons learned. An Implementation
+
+Completion and Results Report (ICR) will be prepared upon the completion of the project.
+
+
+
+59.     The performance of Fund A1 will be closely monitored throughout project implementation. The MoF/FSD will
+
+prepare half-yearly unaudited financial statements, half-yearly and annual management reports, and annual audited
+
+financial statements (part of the overall project audit). The management reports should include information on Fund A1’s
+
+subscriptions of AT1 instruments and key performance indicators of supported banks and SDIs. As noted in section II.B,
+
+the MoF, BoG, and the World Bank will periodically examine whether any unused funds in Fund A1 should be cancelled or
+
+reallocated.
+
+
+
+
+
+
+
+
+
+                                                                                                             Page 17 of 43
+
+        The World Bank
+
+        Ghana Financial Stability Project (P180719)
+
+
+
+
+
+ C. Sustainability
+
+
+
+60.      Interventions supported by this project are expected to be sustainable. Support under Component 1 will focus
+
+on viable banks and SDIs which are expected to operate without the need for continued government support. Additionally,
+
+the required contribution by existing or new shareholders reduces moral hazard and demonstrates shareholders’
+
+commitment to their institutions going forward. The Ghanaian economy is expected to recover and offer opportunities
+
+for supported banks to grow and operate without government assistance, which for many banks only became necessary
+
+because of the DDEP. As outlined in the FSSS, the GoG, in consultation with BoG, plans to undertake the necessary
+
+structural reforms to improve the profitability of state-owned banks, promote their viability, ensure value for money, and
+
+facilitate an orderly government exit. Among other measures, the GoG will undertake a detailed review of the governance,
+
+business models, risk management system of state-owned banks and implement necessary reforms over the next three
+
+years to ensure that new capital is conserved and deployed to grow the banks’ balance sheets on a sustainable basis.
+
+Component 2 supports the GDPC upgrade of its depositor payout system. This system will enable the GDPC to execute
+
+deposit payouts more efficiently. The GDPC has sufficient income to cover its operations, including the maintenance costs
+
+of the new system. Finally, banks and SDIs will receive technical assistance to upgrade their ESMSs. The benefits of this
+
+technical assistance will transcend these institutions’ access to solvency support. It will enable them to access other
+
+funding opportunities to expand their businesses while contributing to E&S sustainability.
+
+
+
+ IV. PROJECT APPRAISAL SUMMARY
+
+
+
+ A. Technical, Economic and Financial Analysis
+
+
+
+61.       The technical design of the operation, in particular the provision of support through the AT1 instrument under
+
+strict eligibility criteria, is based on the careful consideration of a range of factors. The financial instrument chosen to
+
+deliver capital support, AT1 securities, is consistent with Basel III standards which were transposed into BoG regulation.
+
+AT1 instruments do not dilute shareholders’ rights, a feature that is strongly valued by the banks consulted. The calibration
+
+of the required minimum CET1 threshold for accessing Fund A1 reflects international practices. The requirement to bring
+
+new capital to access Fund A1 also seeks to reduce moral hazard, better protect the MoF, and demonstrate shareholders’
+
+continued commitment to support their banks going forward. The MoF was made aware of the risks embedded in the AT1
+
+instrument, which would materialize if the instrument is written off due to deterioration of banks’ solvency (for example,
+
+due to new losses).
+
+
+
+62.      There are potentially substantial economic benefits associated with the success of this project. International
+
+experiences and Ghana’s own history with banking crisis show how costly they could be in terms of output losses, surge
+
+in public debt, and duration when they occur jointly with fiscal crisis. For example, the fiscal cost and output losses of
+
+Ghana’s 1982–83 crisis were 6 percent and 45 percent, respectively. By strengthening the capital positions of banks and
+
+SDIs as well as their ability to withstand shocks, the project—along with the IMF’s ECF and the World Bank’s DPF series—
+
+seeks to lower the likelihood that existing macro-fiscal challenges are amplified by stress in the financial system. By helping
+
+strengthen banks, the project also reduces the likelihood of an acute downward spiral in credit provision that could
+
+damage already subdued economic growth prospects. Furthermore, preserving the stability of the banking and SDIs
+
+sectors would help protect depositors’ savings and the availability of other core financial services for millions of lo w-
+
+income households. On balance, the benefits of lowering the likelihood of incurring such substantial costs outweigh the
+
+cost of this project.
+
+
+
+63.     The project is aligned with the adaptation and mitigation goals of the Paris Agreement.
+
+
+
+
+
+                                                                                                                  Page 18 of 43
+
+       The World Bank
+
+       Ghana Financial Stability Project (P180719)
+
+
+
+
+
+           •    Assessment and reduction of adaptation risks. As mentioned in paragraph 6, the main climate risks are
+
+                sea level rise, flooding, and increasing temperatures. The capacity of banks and SDIs is bolstered through
+
+                technical assistance to enhance their risk assessment and management practices, ensuring thorough due
+
+                diligence and screening for climate-related risks. The project envisages managing and reducing these risks
+
+                through technical assistance to banks and SDIs to enhance their E&S risk management frameworks. This
+
+                approach ensures that banks and SDIs are better equipped to handle the challenges posed by climate
+
+                change while aligning with best practices and the goals of Ghana’s NDC.
+
+
+
+           •    Assessment and reduction of mitigation risks. The project’s activities pose low risks due to their focus on
+
+                strengthening the resilience and stability of the financial sector and promoting sustainable banking. These
+
+                activities will not lead to a significant increase in GHG emissions or any form of carbon lock-in. Additionally,
+
+                the project will work with the MoF to ensure that beneficiary financial institutions do not approve any new
+
+                financial commitments toward activities on the list of universally non-aligned activities (particularly coal
+
+                and peat) and obligate them to reduce their exposure to these activities to zero over time.
+
+
+
+64.     The financial intermediary financing (FIF) assessment (annex 3) shows that the project is in line with World
+
+Bank’s Investment Project Financing (IPF) FIF guideline. Unlike a traditional FIF with an LoC, which requires a conducive
+
+macroeconomic environment and the soundness of the financial sector (for example, adequate capitalization and low
+
+NPLs), this project is motivated by the macroeconomic and banking sector vulnerabilities discussed in section I. Therefore,
+
+instead of focusing on the adequacy of the macroeconomic environment and banking sector soundness, the assessment
+
+focused on the proposed pricing of the AT1 securities and associated subsidies. Compared to prevailing interest rates, the
+
+proposed pricing entails a subsidy, which is needed to encourage banks to bring shareholder capital and contribute to
+
+financial stability. The subsidy can be considered the least cost way of achieving the project development’s objective
+
+compared to the fiscal and output costs of letting viable institutions undercapitalize or fail. However, as the
+
+macroeconomic environment improves and interest rates decline, the subsidy element is expected to decline
+
+considerably. Consistent with the IPF FIF guideline, the subsidies are transparent, fiscally accounted for and sustainable,
+
+time-bound, and are not expected to hinder competition.
+
+
+
+ B. Fiduciary
+
+
+
+(i) Financial Management
+
+
+
+65.      Consistent with the guidelines as per World Bank Policy and Directive for IPF, an FM assessment was conducted
+
+at the Finance and Account Unit of the MoF. The MoF is the default lead implementing agency for the project, and
+
+activities will be coordinated by the PIU of the FSD.
+
+
+
+66.      As documented in annex 1, the MoF/FSD’s FM arrangements satisfy the World Bank’s minimum requirements
+
+under IPF Policy and Directive; FM risk is rated Moderate. The reasons include, among others, that the MoF/FSD through
+
+its Project Financial Management Unit (PFMU) is currently providing FM support to IDA-funded projects: GFSDP (P161787),
+
+GDFP (P169742), GETP (P166539), and GJSP (P166996). These have been effectively implemented without significant
+
+internal control lapses or fiduciary weaknesses. The PFMU has an adequate number of staff with varying skills and
+
+understanding of IDA fiduciary requirements.
+
+
+
+67.     The Director of Accounts of the MoF, a qualified chartered accountant with the requisite years of experience,
+
+will have overall fiduciary responsibility for all FM aspects of the project. The routine daily transactional processing and
+
+reporting will be assigned to a dedicated project accountant in the capacity of senior accountant of the ministry —a staff
+
+
+
+                                                                                                                  Page 19 of 43
+
+        The World Bank
+
+        Ghana Financial Stability Project (P180719)
+
+
+
+
+
+of Controller and Accountant General Department (CAGD) and part of the PFMU—and supported by a team of other junior
+
+staff to ensure adequate segregation of duties. The project accountant will ensure that, throughout project
+
+implementation, there are adequate FM systems in place which can report adequately on the use of project funds as well
+
+as ensure that these are used for the intended purposes and in line with the PDO. To ensure effective workload balance
+
+and adequate project implementation, the World Bank recommends that, no later than 90 days after effectiveness of this
+
+project, the Recipient strengthen the Accounting Unit by seconding an additional project accountant who will be solely
+
+responsible for the FM aspects of project implementation and report functionally to the Director of Accounts of the MoF.
+
+
+
+68.      Based on the risk rating of the project and the current FM arrangements, project implementation will be
+
+monitored closely. The World Bank will complete four quarterly on-site visits during the first year of project
+
+implementation to ascertain the adequacy of the systems. The visits will be supplemented by desk reviews of the interim
+
+financial reports (IFRs) and audit reports. The objectives of the FM supervision missions will include ensuring that strong
+
+FM systems are maintained throughout the project’s tenure. In adopting a risk-based approach to FM supervision, the key
+
+risk areas of focus will include assessing the accuracy and reasonableness of budgets, their predictability and execution,
+
+compliance with payment and fund disbursement arrangements, and the ability of the systems to generate reliable
+
+financial reports.
+
+
+
+69.      Advances and documentation of expenditures under Component 1 will be as follows: (a) requests for advances
+
+to Fund A1 will be accompanied by a six-month forecast of capital support needs of banks and SDIs, drafted by the MoF’s
+
+Secretariat for Fund A1 and approved by the Investment Committee and the Director of MoF’s FSD and (b) documentation
+
+of eligible capital support payments will be accompanied by (i) a statement of disbursements to eligible banks and SDIs,
+
+signed by the Director of MoF’s FSD, as well bank statements evidencing the transfer of funds to banks and SDIs; and (ii)
+
+details of eligible capital support payment, to be included in the IFR. Advances to Fund A1 are not considered eligible
+
+expenditures. Documentation will only occur once the eligible banks and SDIs have received the capital support payments.
+
+At project closing date, any undocumented capital support payments will be refunded to the World Bank. Fund A1’s last
+
+disbursement date to banks and SDIs will be the project’s closing date.
+
+
+
+(ii) Procurement
+
+
+
+70.     Procurement under this project will follow World Bank procurement regulations, guidelines, and standard
+
+documents. Specifically, it will be in accordance with the World Bank’s ‘Procurement Regulations for IPF Borrowers’
+
+(Procurement Regulations), 5th Edition, dated September 2023; ‘Guidelines on Preventing and Combating Fraud and
+
+Corruption in Projects Financed by IBRD Loans and IDA Credits and Grants’, dated July 1, 2016; and other provisions
+
+stipulated in the Financing Agreements. Accordingly, the World Bank’s Standard Procurement Documents for the
+
+international market approach, with relevant modifications for the national market approach, as well as any
+
+enhancements to address environment, social, health, and safety (ESHS) issues including gender-based violence (GBV),
+
+sexual exploitation and abuse (SEA), and sexual harassment (SH) will be used.
+
+
+
+71.     The Procurement Plan for the first 18 months has been prepared and will be uploaded in the Systematic Tracking
+
+of Exchanges in Procurement (STEP) tool. The plan will be based on the Project Procurement Strategy for Development
+
+(PPSD) agreed upon at negotiations, and it will be updated as and when required. STEP will be the primary platform for
+
+submitting, reviewing, and clearing all Procurement Plans and prior review procurement activities. Also, project
+
+procurement risk ratings and performance assessments will be undertaken using the World Bank Procurement Risk
+
+Assessment and Management System (PRAMS).
+
+
+
+72.      The PPSD summary indicates that the operational context for the procurement under the project is favorable.
+
+Political, sustainability, and technological parameters are encouraging, given that there is political stability in the country
+
+
+
+                                                                                                                  Page 20 of 43
+
+       The World Bank
+
+       Ghana Financial Stability Project (P180719)
+
+
+
+
+
+with relatively good security as well as technological infrastructure. Relevant safeguard instruments will be developed to
+
+address all sustainability issues as assessed and identified. The economic terrain is, however, not favorable due to the
+
+recent high inflation and depreciation of the Ghana Cedi, which could affect market predictability and pricing. To mitigate
+
+this risk, price adjustment provisions will be included in all contracts, irrespective of the duration, value, and complexity,
+
+to cater for local price fluctuations due to any unanticipated microeconomic challenges. In addition, it is expected that the
+
+macroeconomic reforms being pursued by the GoG, especially under the IMF program and World Bank DPF series, will
+
+help improve the procurement environment to make it more competitive and realistic and facilitate the achievement of
+
+value for money.
+
+
+
+73.      The number of procurement activities of the project is expected to be minimal. Therefore, the procurement
+
+consultant of the GDFP (P169742), under implementation by the MoF/FSD, will also be responsible for this proposed
+
+project.
+
+
+
+74.    The inherent procurement risk is assessed as Substantial. This risk rating reflects the weaknesses demonstrated
+
+by the FSD/MoF in the implementation of the GFSDP (P161787) and GDFP (P169742), including (a) delays in the
+
+preparation of terms of reference and technical specifications; (b) weak contract management and inadequate filing and
+
+recordkeeping; and (c) procurement delays, especially evaluations and Entity Tender Committee (ETC) and Central Tender
+
+Review Committee (CTRC) approvals.
+
+
+
+75.     The project proposes the following three procurement risk mitigation strategies: (a) adequate procurement
+
+planning to fit the meeting schedules of ETC and CTRC; (b) close World Bank support and supervision in preparing the
+
+terms of reference and technical specifications for early commencement of the procurement processes; and (c) contract
+
+management support and supervision of filing as well as recordkeeping. The residual procurement risk after
+
+implementation of these mitigation measures is assessed as Moderate.
+
+
+
+ C. Legal Operational Policies
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@padlegalpolicy#doctemplate
+
+ Legal Operational Policies                                                             Triggered?
+
+ Projects on International Waterways OP 7.50                                            No
+
+ Projects in Disputed Area OP 7.60                                                      No
+
+
+
+ D. Environmental and Social
+
+
+
+76.     Overall E&S risk of the project is Substantial.
+
+
+
+        •    The project anticipates substantial environmental risks. These risks are mainly indirect since the banks and
+
+             SDIs will use the funds for various purposes, and the project’s funds will not be segregated from their other
+
+             sources of funding. The indirect potential impacts would be from subprojects/portfolios of the eligible banks
+
+             and SDIs. Therefore, the World Bank’s environmental risk management requirements apply to the entire
+
+             portfolio of banks and SDIs. The assessment of environmental risk associated with lending will be done
+
+             through banks’ and SDIs’ own E&S risk management procedures. Activities or operations of borrowers,
+
+             including individuals and micro, small, and medium enterprises (MSMEs) in sectors such as agriculture,
+
+             wholesale/retail, manufacturing, and services, may pose direct or indirect environmental risks. For
+
+             agriculture, this includes issues such as erosion, land degradation, habitat disturbance, pollution, and health
+
+                                                                                                                 Page 21 of 43
+
+         The World Bank
+
+         Ghana Financial Stability Project (P180719)
+
+
+
+
+
+               hazards due to pesticide use. Manufacturing operations may entail pollution, waste generation, occupational
+
+               safety risks, and unsustainable resource use.
+
+
+
+         •     The project faces substantial social risks. Supporting undercapitalized banks and SDIs can lead to
+
+               misunderstandings and confusion among stakeholders, particularly as some stakeholders face economic
+
+               hardship. The MoF has prepared an SEP24 that provides clear information to stakeholders, including the
+
+               public, regulators, and financial institutions, about the project's objectives and processes. Banks’ and SDIs’
+
+               borrowers, including individuals and MSMEs in agriculture, wholesale/retail, manufacturing, and services
+
+               sectors, may pose direct or indirect social risks. These risks include disruptions in livelihoods, social tensions,
+
+               labor issues such as poor working conditions and child labor, health risks from chemical exposure in
+
+               agriculture, conflicts over resources such as water, impacts on cultural heritage and traditions, gender and
+
+               income inequality, lack of inclusion, insufficient community engagement, and weak grievance management
+
+               systems.
+
+
+
+77.     SEA and SH risks is rated low for the project using the World Bank SEA/SH risks screening tool. However, funds
+
+from Fund A1 will not be ring-fenced or segregated from the beneficiary banks and SDIs’ other funding sources and
+
+operations, therefore presenting potential SEA/SH risks due to the unknown scope and nature of end use of project funds.
+
+The MoF will prepare an SEA/SH Action Plan as part of its ESMS and will require beneficiary banks and SDIs to develop an
+
+SEA/SH Action Plan with workers’ Code of Conduct as part of their own ESMSs.
+
+
+
+78.     Assessment and management of E&S risks and impacts. The Appraisal Environmental and Social Review Summary
+
+(ESRS) and the Environmental and Social Commitment Plan25 have been prepared and disclosed in March 2023. The
+
+integration of E&S risk management measures into the activities of the MoF and beneficiaries of Fund A1 will be governed
+
+by ESS 9. ESS 9 requires the MoF and the beneficiary financial institutions to establish and maintain effective E&S policies,
+
+systems, procedure, and capacity for assessing, managing, and monitoring risks and impacts of subprojects as well as
+
+managing overall portfolio risk in a responsible manner, through an ESMS. The ESMSs will include (a) an E&S policy; (b)
+
+clearly defined procedures for the identification, assessment, and management of the E&S risks and impacts of
+
+subprojects; (c) organizational capacity and competency; (d) monitoring and review of E&S risks of banks and SDIs and
+
+their portfolios; and (e) external communications mechanism.
+
+
+
+79.      ESMS for MoF. The MoF will establish an ESMS consistent with ESS 9. The MoF has already commissioned an
+
+international consulting firm with vast experience working in Ghana to develop the ESMS. The terms of reference for the
+
+assignment have been reviewed and approved by the World Bank. The World Bank will review the ESMS before disclosure
+
+of its elements. The review will ensure the MoF can mainstream an integrated climate and disaster risk identification,
+
+screening, monitoring, and management into the project’s activities on an ongoing basis to enhance resilience and
+
+sustainability. Additionally, the MoF will retain E&S specialist(s) (the same specialists to be provided by the investment
+
+advisory firm) for the implementation of the ESMS. Both the preparation of the ESMS and disclosure of its summary and
+
+the retention of an E&S specialist(s) are disbursement conditions for Category 1/Component 1. The MoF will periodically
+
+review the effectiveness of the ESMS and adjust it as needed in a manner acceptable to the World Bank.
+
+
+
+80.     ESMS for banks and SDIs. The MoF will require beneficiary banks and SDIs to establish effective ESMSs to evaluate,
+
+categorize, mitigate, and manage social and environmental risks, especially in lending to clients. The project will offer
+
+technical assistance and capacity building to eligible banks and SDIs to establish ESMS policies and procedures.
+
+
+
+24 The Ministry of Finance disclosed the Stakeholder Engagement Plan (SEP) in September 2024. The document can be accessed via:
+
+https://mofep.gov.gh/sites/default/files/adverts/Stakeholder-Engagement-Plan.pdf. It was also made available on the World Bank intranet on
+
+March 7, 2024.
+
+25 https://www.mofep.gov.gh/sites/default/files/adverts/Environmental-and-Social-Commitment-Plan.pdf.
+
+
+
+
+
+                                                                                                                                Page 22 of 43
+
+        The World Bank
+
+        Ghana Financial Stability Project (P180719)
+
+
+
+
+
+Additionally, it will equip loan officers with the essential skills for screening and identifying risks including those related to
+
+climate change and disasters. Integrating climate and disaster risk elements into the ESMS is to ensure that lending and
+
+investment activities are resilient to climate change impacts (adaptation) and contribute to Ghana’s effort to reduce GHG
+
+emissions (mitigation). Adequate ESMS will be a condition of eligibility for the banks and SDIs. To receive support from
+
+the project, banks and SDIs identified to have inadequate ESMS would be required to use the project’s ESMS checklists to
+
+be provided by the MoF for loan screening. This interim measure will be in place until they fully develop and implement
+
+their ESMS within six months after receiving support. The ESMS will require the banks and SDIs to screen against an
+
+exclusion list that will be prepared and included in the PIM. Banks and SDIs will utilize a rigorous screening process to
+
+identify and flag projects with potential high E&S risks within their portfolios. Such projects will undergo thorough
+
+assessment and scrutiny that will be consistent with ESS 9 requirements. Additionally, the project will implement robust
+
+measures to manage and mitigate potential risks, ensuring adherence to environmental regulations and fostering
+
+responsible and sustainable project outcomes. The ESMS will incorporate templates designed to facilitate regular
+
+reporting to the MoF and the World Bank on a semiannual basis. These reporting templates will provide insights into the
+
+E&S profile and risks associated with the banks’ and SDIs’ portfolios.
+
+
+
+81.      Gender and social issues. As noted in section I.C, women own most of the deposit accounts in SDIs. Additionally,
+
+small depositors with account balances of less than GHS 500 (US$43) account for 80 percent of total depositors in Ghana.
+
+Moreover, financial crises have negative effects on the social and economic well-being of households, particularly the
+
+poor.26 The effects depend on the severity of the crisis and can be transmitted through four channels: (a) credit market
+
+shocks through plummeting financial markets; (b) income and employment shocks through the weakened labor market;
+
+(c) relative price changes through product markets; and (d) education, health, and social protection shocks through
+
+reduced government services. By supporting the recapitalization of viable banks and SDIs, the project contributes to
+
+financial stability and the reduction of the likelihood of a financial crisis, thereby protecting women, small savers, and
+
+vulnerable households that often lack economic means to bounce back from economic shocks. The project will monitor
+
+how support to banks’ and SDIs’ recapitalization protects the savings of women by tracking the share of women deposit
+
+accounts in well-capitalized banks.
+
+
+
+82.      Climate change. The project supports climate mitigation and adaptation efforts by strengthening the capital
+
+positions of banks and SDIs, which would enable them to mobilize and redirect finance toward low-carbon and climate-
+
+resilient investments. Moreover, Component 2 will provide targeted technical assistance to banks and SDIs to help them
+
+upgrade their ESMS. The enhanced ESMS will improve banks’ and SDIs’ risk assessment and management practices,
+
+particularly in relation to potential climate-related risks to ensure that lending and investment activities are resilient to
+
+climate change impacts (adaptation) and contribute to Ghana’s effort to reduce GHG emissions (mitigation). Furthermore,
+
+by enhancing their ability to evaluate and manage these risks, banks and SDIs can more confidently invest in and lend to
+
+projects that support climate mitigation and adaptation.
+
+
+
+83.     Citizen engagement. As noted earlier, the MoF has developed an SEP to guide its communication, active
+
+consultation, and engagement with stakeholders during project implementation, building on consultations carried out
+
+during project preparation. Feedback from these consultations and engagements will be used to improve project
+
+implementation, including, if necessary, through project restructuring. After the start of implementation, the project will
+
+carry out a satisfactions survey with project beneficiaries. Survey respondents will include staff of banks and SDIs that
+
+received financial support from Fund A1 or technical assistance to upgrade their ESMSs as well as staff of the GDPC using
+
+the upgraded depositor payout system. The survey will be completed annually to assess the beneficiaries’ satisfaction with
+
+the financial and nonfinancial support provided as well as to capture lessons learned. The survey will be coordinated by
+
+
+
+26
+
+ Independent Evaluation Group. 2012. “The World Bank Group's Response to the Global Economic Crisis: Phase 2.” World Bank Group,
+
+Washington, DC. http://hdl.handle.net/10986/21340.
+
+
+
+                                                                                                                             Page 23 of 43
+
+       The World Bank
+
+       Ghana Financial Stability Project (P180719)
+
+
+
+
+
+the MoF/FSD, with technical inputs from the investment advisory firm, BoG, and the GDPC. The project will close the
+
+feedback loop by analyzing and using the feedback captured through the surveys to strengthen and calibrate
+
+implementation. The results of the survey will be summarized in a report and publicly disclosed by the MoF. Moreover,
+
+the project’s grievance mechanism will allow the project to respond to project-related queries or clarifications, resolve
+
+problems with implementation, and address any grievances in an effective manner.
+
+
+
+ V. GRIEVANCE REDRESS SERVICES
+
+
+
+84.     Grievance redress. Communities and individuals who believe that they are adversely affected by a project
+
+supported by the World Bank may submit complaints to existing project-level grievance mechanisms or the Bank’s
+
+Grievance Redress Service (GRS). The GRS ensures that complaints received are promptly reviewed in order to address
+
+project-related concerns. Project affected communities and individuals may submit their complaint to the Bank’s
+
+independent Accountability Mechanism (AM). The AM houses the Inspection Panel, which determines whether harm
+
+occurred, or could occur, as a result of Bank non-compliance with its policies and procedures, and the Dispute Resolution
+
+Service, which provides communities and borrowers with the opportunity to address complaints through dispute
+
+resolution. Complaints may be submitted to the AM at any time after concerns have been brought directly to the attention
+
+of Bank Management and after Management has been given an opportunity to respond. For information on how to submit
+
+complaints to the Bank’s Grievance Redress Service (GRS), visit http://www.worldbank.org/GRS. For information on how
+
+to submit complaints to the Bank’s Accountability Mechanism, visit https://accountability.worldbank.org.
+
+
+
+ VI. KEY RISKS
+
+
+
+85.     Overall risk of the project is Substantial. Macroeconomic risk is High, while political and governance risk, sector
+
+strategies and policies risk, technical design risk, institutional capacity for implementation and sustainability risk,
+
+stakeholders risk, and E&S risks are Substantial.
+
+
+
+86.     Political and governance risk is Substantial. Ghana is a mature democracy and a haven of stability in a troubled
+
+region. However, the national elections scheduled for end-2024 could lead to policy slippages or reversals as well as
+
+expenditure overruns. This could reduce the Government’s support to the financial sector, particularly the availability of
+
+funding for the cleanup of legacy institutions, to further resource Fund A2 if additional CET1 capital needs arise, and to
+
+take other actions that may be needed to preserve financial stability. To mitigate this risk, the Government has already
+
+earmarked part of the funding (about US$348 million in 2024) for legacy issues. In addition, under the FSSS and the IMF
+
+program, the Government publicly committed to complete the recapitalization of the banking sector by end of 2025.
+
+
+
+87.      Macroeconomic risk is High. Deterioration of the macroeconomic environment (mainly high inflation and interest
+
+rates) would increase banks’ and SDIs’ NPLs and limit opportunities for them to make profits and build internal capital. It
+
+could also reduce the shareholders’ incentive to bring new capital. Taken together, these could deteriorate banks’ and
+
+SDIs’ soundness and overall financial stability. The DPF series and the IMF-ECF are the two main mitigants of this risk—
+
+both support reforms that are expected to improve the macroeconomic environment and enable financial institutions to
+
+operate profitably and generate internal capital. In fact, economic conditions have improved over the course of 2023,
+
+despite the challenging outlook. Nevertheless, the residual risk is high because the path toward macroeconomic stability
+
+leaves little margin for policy slippages and external shocks that would affect economic growth.
+
+
+
+88.      Sector strategies and policies risk is Substantial. The Government has outlined a strategy to safeguard financial
+
+stability post DDEP, including a requirement for banks to develop and implement recapitalization plans. However, the
+
+well-intended regulatory reliefs granted by BoG may reduce immediate demand for support under Fund A1, particularly
+
+
+
+
+
+                                                                                                              Page 24 of 43
+
+         The World Bank
+
+         Ghana Financial Stability Project (P180719)
+
+
+
+
+
+among institutions that plan to recapitalize through retained earnings.27 To mitigate this risk, the interest by
+
+undercapitalized banks to grow their business—including by holding more risky assets such as loans—is expected to
+
+encourage them to front-load their recapitalization efforts, thereby seeking support from this project.28 Moreover, other
+
+banks would be expected to tap project support if their solvency situation deteriorates due to unaccounted losses or they
+
+cannot execute their recapitalization plans as expected. Even without full utilization, Fund A1 would contribute to building
+
+confidence in the ability of the authorities to respond to stress in the banking sector if needed.
+
+
+
+89.      Technical design of the project risk is Substantial. The project uses an AT1 instrument that is relatively new and
+
+has not previously been used in a World Bank lending operation. It presents risks that the MoF could lose funds if
+
+beneficiary banks reach the CET1 level trigger for the cancellation of the AT1 instrument to absorb losses. However, this
+
+risk is mitigated through the rigorous entry criteria defined for Fund A1, including the need for beneficiary banks to have
+
+a capital buffer above the trigger point and to undergo an independent due diligence to ensure that there are no hidden
+
+losses. Although new, this design does not present significant risks to the achievement of the PDO, which aims for 90
+
+percent of banks to be adequately capitalized and 95 percent of the assets of the banking sector to be held by well-
+
+capitalized banks. Nevertheless, the risk is rated Substantial because uncertainty remains over the impact of high and
+
+increasing NPLs and challenging macroeconomic environment on the banking sector. Additionally, experience is limited
+
+with this instrument in such a volatile environment.
+
+
+
+90.     Institutional capacity for implementation and sustainability risk is Substantial . The successful implementation
+
+of the project requires the resourcing of the FSD (Fund A1 Secretariat) to effectively manage Fund A1. Without the
+
+requisite capacity, the Secretariat would face challenges to establish the necessary procedures for the management of
+
+Fund A as well as to quickly review applications, order due diligences of banks and SDIs, and make recommendations to
+
+the Investment Committee. As noted in section III.A, the Secretariat will be strengthened through the competitive
+
+recruitment of a qualified investment advisory firm. Additionally, the project (under Component 3) will build the capacity
+
+of FSD staff to manage Fund A1. Strong focus on viability as part of the eligibility criteria is expected to reduce the
+
+sustainability risk, by ensuring that the project only supports institutions with prospects to remain solvent and provide
+
+core financial services to the economy well beyond the closure of this project.
+
+
+
+91.      Stakeholders risk is Substantial. Some stakeholders may question why taxpayers should bear the consequences
+
+of the DDEP on banks and SDIs. To address this concern, the Government developed an SEP to guide its engagement with
+
+the public, focusing on the benefits of financial stability for the economy, including highlighting the fact that about
+
+60 percent of the Ghanaian population has financial accounts (including mobile money) and therefore stands to benefit
+
+from continued availability of core financial services. The communication will also emphasize that the project is not bailing
+
+out banks and SDIs but rather using AT1 instrument to complement shareholder contributions. While the GFSF is broadly
+
+considered a welcome intervention to safeguard the stability of the financial sector, a member of Parliament challenged
+
+the constitutionality of the GFSF and the legality of its Operational Framework, arguing that it should have been
+
+established by an Act of Parliament. To mitigate this risk, on April 29, 2024, the Attorney General issued a legal opinion,
+
+satisfactory to the World Bank, confirming the constitutionality of the GFSF and its Operational Framework.
+
+
+
+92.     Environmental and social risks are rated high. Assessment of environment and social risk as well as proposed risk
+
+mitigation measures are provided in Section D above.
+
+
+
+
+
+
+
+27 As noted, for capital adequacy computation purposes, banks are required to recognize each year (starting in FY22 through FY25) only one-
+
+quarter of their DDEP-related impairment losses. They are also required to inject one-third of the capital each year from 2023 through 2025 to
+
+restore the minimum CAR of 13 percent by end of 2025.
+
+28 Banks are required to hold minimum capital of 13 percent of their RWAs. Therefore, they need to increase capital if they increase RWAs.
+
+
+
+
+
+                                                                                                                                    Page 25 of 43
+
+        The World Bank
+
+        Ghana Financial Stability Project(P180719)
+
+
+
+
+
+
+
+                                                                  VII. RESULTS FRAMEWORK AND MONITORING
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padannexresultframework#doctemplate
+
+PDO Indicators by PDO Outcomes
+
+
+
+   Baseline                                                    Period 1                                                    Closing Period
+
+                                                                              Improved Financial Stability
+
+   Banking sector assets held by adequately capitalized banks (without regulatory relief) (Percentage)
+
+   Dec/2022                                                    Jun/2026                                                    Jun/2028
+
+   31                                                          80                                                          95
+
+   Banks adequately capitalized (without regulatory relief) (Percentage)
+
+   Dec/2022                                                    Jun/2026                                                    Jun/2028
+
+   43                                                          85                                                          90
+
+
+
+
+
+Intermediate Indicators by Components
+
+
+
+   Baseline                                                    Period 1                                                     Closing Period
+
+                                                                Capitalization of Fund A1 of Ghana Financial Stability Fund
+
+   New external capital raised by banks and SDIs which receive support from Fund A1 (Amount(USD))
+
+   Dec/2022                                                    Jun/2026                                                     Jun/2028
+
+   0                                                           426000000                                                    665000000
+
+     ➢Of which from private sector shareholders (Amount(USD))
+
+   Dec/2022                                                    Jun/2026                                                     Jun/2028
+
+   0                                                           107000000                                                    186000000
+
+   Additional Tier 1 securities issued by banks and SDIs and acquired by Fund A1 (Amount(USD))
+
+   Dec/2023                                                    Dec/2026                                                     Jun/2028
+
+   0                                                           101000000                                                    220000000
+
+   Bank credit held by adequately capitalized banks (Percentage)
+
+   Dec/2022                                                    Jun/2026                                                     Dec/2028
+
+   29                                                          80                                                           95
+
+   Women deposit accounts in adequately capitalized banks (Percentage)
+
+   Dec/2023                                                    Jun/2026                                                     Jun/2028
+
+
+
+
+
+
+
+                                                                                                                                             Page 26 of 43
+
+     The World Bank
+
+     Ghana Financial Stability Project(P180719)
+
+
+
+
+
+26                                                       75                                                        90
+
+                                                                             Technical Assistance
+
+AQR of banks completed (where applicable (Text)
+
+Dec/2023                                                    Jun/2026                                               Jun/2028
+
+No AQR                                                      AQR initiated                                          AQR completed
+
+All banks and SDIs with ESMS gaps when they receive support from Fund A1 have received capacity building to address such gaps (Text)
+
+Dec/2023                                                    Jun/2026                                               Jun/2028
+
+No ESMS gaps identified                                     Capacity building ongoing                              Capacity building provided to address ESMS gaps
+
+Payout system of the GDPC upgraded (Text)
+
+Dec/2023                                                    Jun/2026                                               Jun/2028
+
+System has gaps                                             System designed and undergoing testing                 System upgraded
+
+                                                                  Project Management, Monitoring and Evaluation
+
+Beneficiaries satisfied with project-delivered services/support (Percentage)
+
+Dec/2023                                                    Jun/2026                                               Jun/2028
+
+0                                                           60                                                     80
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                     Page 27 of 43
+
+        The World Bank
+
+        Ghana Financial Stability Project (P180719)
+
+
+
+
+
+Monitoring & Evaluation Plan: PDO Indicators by PDO Outcomes
+
+
+
+                                              Improved Financial Stability to Enable Provision of Credit
+
+                            Bank assets held by adequately capitalized banks (without regukatory relief) (Percentage)
+
+                           Adequately capitalized banks (on solo basis) are banks that meet the minimum capital adequacy ratio of 13 percent,
+
+      Description          without considering any regulatory reliefs. The indicator will be calculated as the amount of assets held by adequately
+
+                           capitalized banks divided by the total bank assets times 100.
+
+     Frequency             Semiannually (end-June and end-December)
+
+    Data source            BoG prudential returns
+
+Methodology for Data
+
+                           MoF/FSD to request data from BoG
+
+     Collection
+
+Responsibility for Data
+
+                           MoF/FSD
+
+     Collection
+
+                                       Banks adequately capitalized (without regukatory relief) (Percentage)
+
+                           Adequately capitalized banks (on solo basis) are banks that meet the minimum capital adequacy ratio of 13 percent,
+
+      Description          without considering any regulatory reliefs. The indicator will be calculated as the number of adequately capitalized banks
+
+                           divided by the total number of banks times 100.
+
+     Frequency             Semiannually (end-June and end-December)
+
+    Data source            BoG prudential returns
+
+Methodology for Data
+
+                           MoF/FSD to request data from BoG
+
+     Collection
+
+Responsibility for Data
+
+                           MoF/FSD
+
+     Collection
+
+
+
+
+
+Monitoring & Evaluation Plan: Intermediate Results Indicators by Components
+
+
+
+Capitalization of Fund A1 of Ghana Financial Stability Fund
+
+New external capital raised by banks and SDIs which receive support from Fund A1 (Amount(US$))
+
+                            Total new external capital (recognized as CET1 by BoG) raised by banks and SDIs ahead of receiving support from Fund
+
+                            A1. This will include all the new capital raised from new or existing shareholders. Only capital raised after December 2022
+
+Description
+
+                            will count. Retained profits, revaluations, and other accounting adjustments positively affecting Core Equity Tier 1 will
+
+                            not be considered new capital.
+
+Frequency                   Semiannually (end-June and end-December)
+
+Data source                 Banks and SDIs
+
+Methodology for Data        Banks and SDIs will provide this information to the MoF FSD/investment advisory firm when applying for support under
+
+Collection                  Fund A1 and will provide updates every six months.
+
+Responsibility for Data
+
+                            MoF/FSD
+
+Collection
+
+Of which from private sector shareholders
+
+                            Total new capital raised by banks and SDIs, from private sector shareholders, ahead of receiving support from Fund A1 of
+
+                            the GFSF. This will include all the new funds raised from new or existing private shareholders, including any amounts
+
+Description
+
+                            raised to meet minimum contribution under Fund A2. Only funds raised after the operationalization of the GFSF will
+
+                            count. Retained profits, converted or not to capital, will not count.
+
+Frequency                   Semiannually (end-June and end-December)
+
+Data source                 Banks and SDIs
+
+Methodology for Data        Banks and SDIs will provide this information to the MoF FSD/investment advisory firm when applying for support under
+
+Collection                  Fund A1 and will provide updates every six months.
+
+Responsibility for Data
+
+                            MoF/FSD
+
+Collection
+
+Additional Tier 1 securities issued by banks and SDIs and acquired by Fund A1 (Amount(USD))
+
+
+
+
+
+                                                                                                                                       Page 28 of 43
+
+        The World Bank
+
+        Ghana Financial Stability Project (P180719)
+
+
+
+
+
+                          Amount of Additional Tier 1 securities issued by banks and SDIs and acquired by Fund A1 in accordance with the AT1
+
+Description
+
+                          term sheet
+
+Frequency                 Semiannually (end-June and end-December)
+
+Data source               Banks and SDIs
+
+Methodology for Data
+
+                          MoF FSD/investment advisory firm will keep track of all Fund A1 investments.
+
+Collection
+
+Responsibility for Data
+
+                          MoF/FSD
+
+Collection
+
+Bank credit held by adequately capitalized banks (Percentage)
+
+                          Adequately capitalized banks (on solo basis) are banks that meet the minimum CAR of 13 percent, without considering
+
+Description               any regulatory reliefs. The indicator will be calculated as the volume of loans and advances held by adequately
+
+                          capitalized banks divided by the total volume of loans and advances of banks times 100.
+
+Frequency                 Semiannually (end-June and end-December)
+
+Data source               BoG prudential returns
+
+Methodology for Data
+
+                          MoF/FSD to request data from BoG
+
+Collection
+
+Responsibility for Data
+
+                          MoF/FSD
+
+Collection
+
+Women deposit accounts in adequately capitalized banks (Percentage)
+
+                          Total number of deposit accounts held by women in well-capitalized banks divided by the total number women deposit
+
+Description
+
+                          accounts in the banking system times 100.
+
+Frequency                 Semiannually (end-June and end-December)
+
+Data source               Banks
+
+Methodology for Data
+
+                          GDPC will share ifnromation on female accounts with BoG. BoG will compute the indicator and report to MoF/FSD
+
+Collection
+
+Responsibility for Data
+
+                          MoF/FSD
+
+Collection
+
+Technical Assistance
+
+AQR of banks completed (where applicable (Text)
+
+Description               AQR completed and reports delivered to BoG
+
+Frequency                 Semiannually (end-June and end-December)
+
+Data source               BoG
+
+Methodology for Data
+
+                          BoG will report to MoF/FSD on the status of the AQR
+
+Collection
+
+Responsibility for Data
+
+                          MoF/FSD
+
+Collection
+
+All banks and SDIs with ESMS gaps when they receive support from Fund A1 have received capacity building to address such gaps (Text)
+
+                          ESMS gaps will be identified at the application/due diligence stage and each bank or SDI will receive capacity building to
+
+Description
+
+                          address such gaps within a certain period.
+
+Frequency                 Semiannually (end-June and end-December)
+
+Data source               MoF/FSD
+
+Methodology for Data      Progres reports from MoF FSD/investment advisory firm will provide details about ESMS technical assistance provided to
+
+Collection                banks and SDIs, including scope and status of support,.
+
+Responsibility for Data
+
+                          MoF/FSD
+
+Collection
+
+Payout system of the GDPC upgraded (Text)
+
+                          Upgrade means the development and integrations of key modules such as the data quality assessment module, claims
+
+Description
+
+                          and complaints administration, and client and administration portal
+
+Frequency                 Semiannually (end-June and end-December)
+
+Data source               GDPC
+
+
+
+
+
+                                                                                                                                     Page 29 of 43
+
+        The World Bank
+
+        Ghana Financial Stability Project (P180719)
+
+
+
+
+
+Methodology for Data
+
+                            Proress reports on the upgrade
+
+Collection
+
+Responsibility for Data
+
+                            MoF/FSD
+
+Collection
+
+Project Management, Monitoring and Evaluation
+
+Beneficiaries satisfied with project-delivered services/support (Percentage)
+
+                            Percentage of survey respondent project beneficiaries satisfied with project-delivered services/support. The MoF/FSD
+
+Description
+
+                            will carry out one survey each year.
+
+Frequency                   Annual (end-December)
+
+Data source                 Survey
+
+Methodology for Data
+
+                            Survey of beneficiaries
+
+Collection
+
+Responsibility for Data
+
+                            MoF/FSD
+
+Collection
+
+
+
+
+
+
+
+
+
+                                                                                                                                    Page 30 of 43
+
+        The World Bank
+
+        Ghana Financial Stability Project (P180719)
+
+
+
+
+
+
+
+                                ANNEX 1: Implementation Arrangements and Support Plan
+
+
+
+1.      The MoF—through its FSD—will have the institutional responsibility for coordination and management of the
+
+project. Specifically, the project will be managed by the existing FSD PIU. The FSD is the designated Secretariat for the
+
+management of Fund A1 (Component 1) under the oversight of the GFSF Investment Committee and supported by a
+
+qualified investment advisory firm. In coordination with BoG and the GDPC, the MoF/FSD will also be responsible for the
+
+implementation of Components 2 and 3.
+
+
+
+2.        A PCC will be established no later than 90 days after project effectiveness to coordinate project implementation.
+
+It will be chaired by the project director and will comprise representatives (focal points) from the MoF’s FSD and External
+
+Resource Mobilization and Economic Relations Division, BoG, and the GDPC. The PCC will (a) monitor technical and
+
+operational aspects of the project; (b) review and approve half-annual progress reports prepared by the project
+
+coordinator; and (c) proactively address any technical or implementation problems affecting the progress of the project.
+
+The PCC will meet at least quarterly to review the progress of the project and agree on the next steps. Before the PCC
+
+meetings, focal points will prepare quarterly updates of their respective activities, which will feed into the half-annual
+
+project reports.
+
+
+
+3.      Monitoring and evaluation. The M&E specialist at the MoF will lead the tracking of the results indicators in section
+
+VII. Working with the Secretariat and the investment advisory firm, the MoF will develop additional indicators to capture
+
+other contributions of the project to the financial sector in Ghana.
+
+
+
+4.      E&S. The MoF will retain E&S specialist(s) (the same specialists to be provided by the investment advisory firm) to
+
+lead the implementation of the ESMS, including supporting banks and SDIs in implementing robust ESMS. The MoF will
+
+also lead the implementation of the SEP.
+
+
+
+I.   Implementation Support Plan
+
+
+
+Strategy and Approach for Implementation Support
+
+
+
+5.      Implementation support will aim at ensuring the achievement of the project’s objectives. It will focus on the
+
+mitigation of the project’s technical, institutional, and fiduciary risks. The implementation plan is tailored to the needs o f
+
+the project and identifies resources to be deployed by the World Bank to meet its fiduciary obligation and help the MoF
+
+achieve the project’s objectives.
+
+
+
+6.      The implementation support team will include task team leaders (TTLs) and relevant specialists. One TTL and
+
+technical specialists on FM, procurement, environmental risk, and social development are based in Ghana. In addition to
+
+undertaking regular implementation support missions, the team will provide ongoing implementation support taking
+
+advantage of the teams’ presence in the field. The team will conduct at least two implementation support missions per
+
+year.
+
+
+
+7.      Project implementation support by the World Bank team will cover the following aspects:
+
+
+
+        •     Management of Recipient country relationship. The TTLs will coordinate and oversee project
+
+              implementation support, ensuring regular communication with the MoF, deployment of resources to
+
+              address project implementation challenges, and monitoring of the project’s progress toward the PDO.
+
+
+
+
+
+
+
+                                                                                                                    Page 31 of 43
+
+        The World Bank
+
+        Ghana Financial Stability Project (P180719)
+
+
+
+
+
+        •    Technical. Technical experts will support the implementation of various activities, ensuring that these are
+
+             aligned with the PDO and agreed Annual Work Plans and (AWPs) and budget. Technical experts will also
+
+             provide inputs to the development of terms of reference for various activities under Component 2 and 3,
+
+             review technical reports and other outputs, verify compliance with Fund A1 eligibility criteria, and support
+
+             the MoF in ensuring that the M&E framework continuously meets the needs of the project.
+
+        •    Financial management. An FM specialist will assist the MoF in maintaining an efficient and reliable FM
+
+             system capable of accurate and timely reporting on the uses of project funds. Based on the risk rating of the
+
+             project and the current FM arrangements, it is expected that during the first year of project implementation,
+
+             there will be four quarterly on-site visits to ascertain the adequacy of systems. The visits will be
+
+             supplemented by desk reviews of the IFRs and audit reports. The FM supervision will adopt a risk-based
+
+             approach, focusing on key risk areas such as the accuracy and reasonableness of budgets, their predictability
+
+             and execution, compliance with payment and fund disbursement arrangements, and the ability of the
+
+             systems to generate reliable financial reports. Training will be provided to the project team as needed.
+
+        •    Procurement. A procurement specialist will provide ongoing guidance and support to the MoF, BoG, and
+
+             GDPC to ensure quality procurement. Support will include continuous training and organization of
+
+             procurement clinics to enhance the knowledge of the project’s procurement team; review of procurement
+
+             activities subject to the World Bank’s prior review; and completion of post-procurement reviews, ensuring
+
+             that recommendations of the reviews are implemented on time. Based on the procurement risk rating—
+
+             Moderate—the procurement specialist will conduct at least one on-site supervision mission per year and at
+
+             least 20 percent of contracts eligible for post review will be subject to procurement post reviews and
+
+             technical reviews.
+
+
+
+8.      E&S. An environmental specialist and a social specialist will ensure ongoing support to the MoF on managing E&S
+
+risks and will join project implementation support missions.
+
+
+
+II. Financial Management Assessment and Arrangements
+
+
+
+Introduction and Summary
+
+
+
+9.      Consistent with the guidelines as per World Bank Policy and Directive for IPF, an FM assessment was conducted
+
+at the Finance and Account Unit of the MoF. The objective of the assessment was to determine whether (a) the lead
+
+implementing agency (MoF/FSD) has adequate FM arrangements to ensure that the project funds will be used for the
+
+intended purposes and in an efficient and economical way; (b) the project’s financial reports will be prepared in an
+
+accurate, reliable, and timely manner; and (c) the entities’ assets will be safeguarded.
+
+
+
+10.      In line with the World Bank’s default of using aspects of the country system that are reliable, the project’s FM
+
+systems are expected to be fully mainstreamed into the existing fiduciary arrangements of the Government. Overall, the
+
+assessment of the FM risk of the Finance and Account Unit of the MoF/FSD concluded that the FM risk rating is Moderate.
+
+The MoF, through its PFMU, is currently providing FM support to IDA-funded projects: GFSDP (P161787), GDFP (P169742),
+
+GETP (P166539), and GJSP (P166996). These have been effectively implemented without significant internal control lapses
+
+or fiduciary concerns.
+
+
+
+Project Financial Management
+
+
+
+
+
+
+
+
+
+                                                                                                               Page 32 of 43
+
+        The World Bank
+
+        Ghana Financial Stability Project (P180719)
+
+
+
+
+
+11.     The key FM arrangements are as follows: the Director of Accounts of the MoF will have overall fiduciary
+
+responsibility for all FM aspects of the project. The routine daily transactional processing and reporting will be assigned
+
+to a dedicated project accountant. The proposed project accountant must be a qualified chartered accountant assigned
+
+or seconded by the CAGD. The responsibility of the project accountant is to ensure that, throughout project
+
+implementation, there are adequate FM systems in place to report on the use of project funds and verify that the funds
+
+are used for the intended purposes and in line with the PDO.
+
+
+
+12.      In addition, and under the supervision of the Director of Accounts, the project accountant will ensure compliance
+
+with financial covenants such as submitting acceptable Statement of Expenditure reports and IFRs, maintaining internal
+
+controls over project expenditure, and engaging external auditors. The project accountant will also be responsible for
+
+maintaining and operating the project’s Designated Account (DA), as well as supporting the processing of payments to
+
+contractors and service providers. To strengthen the technical capacity of the Recipient’s accountants and other project
+
+staff, the World Bank FM specialist will conduct trainings on World Bank FM and disbursement guidelines.
+
+
+
+Strengths and Weaknesses of the Financial Management System
+
+
+
+13.      The MoF Accounts Unit—being part of the MoF Accounts and Finance Department—is fully functional and is
+
+staffed with accountants having varying levels of experience, particularly in public sector accounting. The existing project
+
+accountant and assistants within the unit have been involved in the implementation of World Bank-funded projects.
+
+However, given the envisaged workload, the World Bank recommends that, no later than three months after effectiveness
+
+of this project, the Recipient strengthens the Accounts Unit by seconding an additional dedicated accounts staff to support
+
+implementation who will be solely responsible for the FM aspects of project implementation and report functionally to
+
+the Director of Accounts of the MoF.
+
+
+
+                                                     Table 1.1. Action Plan
+
+ No.                 Description                     Responsibility                      Target Completion Date
+
+  1.   Assign an additional project accountant   Director of Accounts     No later than 90 days after project effectiveness
+
+
+
+Summary Financial Management Assessment
+
+
+
+14.    A summary of the key findings of the FM arrangements assessed at the MoF is presented in the following
+
+paragraphs.
+
+
+
+Budgeting Arrangements
+
+
+
+15.     The MoF, as part of government ministries, departments, and agencies (MDAs), follows the budget preparation
+
+guidelines according to the Public Financial Management Act, 2016 (Act 921) and the annual budget guidelines issued by
+
+the MoF. Specifically, for this project, the budget will be derived from the IDA allocations which will serve as the basis for
+
+preparing the initial AWPs and Procurement Plans.
+
+
+
+16.     The Director of FSD, working in collaboration with the Director of Accounts, is responsible for initiating the
+
+budgeting process for the project and obtaining inputs (activities, schedules, timelines, and cost) from the beneficiary
+
+agencies. Once the budget is completed, it will be approved by the Chief Director for onward submission to the World
+
+Bank for review and clearance. The current budgetary control processes used mostly for the Government’s discretionary
+
+budget are capable of monitoring commitments and outstanding balances, and this helps reduce the risk of multiple
+
+
+
+
+
+
+
+                                                                                                                       Page 33 of 43
+
+        The World Bank
+
+        Ghana Financial Stability Project (P180719)
+
+
+
+
+
+payments. The assessment indicated that the Government’s budgeting processes are satisfactory and can be relied upon
+
+to reflect the various components to be implemented.
+
+
+
+Accounting Arrangements
+
+
+
+17.      Under the oversight and supervision of the Director of Accounts of the MoF, a dedicated project accountant will
+
+be assigned by the Recipient and will be responsible for the overall fiduciary aspects of the project. Specific accounting
+
+issues, such as recording and processing of payment vouchers, will be handled by staff within the PFMU of the Accounts
+
+Department of MoF. The Accounts Unit staff are familiar with World Bank FM and disbursement guidelines and
+
+operational policies. Specifically, for this project, the daily transactional issues will be the responsibility of the dedicated
+
+project accountant as assigned by the Director of Accounts and approved by the Chief Director.
+
+
+
+18.      The automated Ghana integrated financial management information system (GIFMIS) using Oracle Financials is
+
+the Government’s default accounting system for managing all government funding. The accounting and reporting on the
+
+uses of the project’s funds will be maintained using the GIFMIS platform.
+
+
+
+Internal Control and Internal Auditing
+
+
+
+19.     Consistent with the decision to adopt aspects of the use of country systems for implementation, the project’s
+
+internal controls will rely on the Government’s established accounting and internal control guidelines as documented in
+
+the Public Financial Management Act, 2016 (Act 921). In addition, the expenditure initiation and related controls will
+
+follow the authorization and approval processes within the MoF, complemented by additional guidelines according to the
+
+World Bank’s FM and Disbursement Policy. The MoF has a functioning Internal Audit Unit led by the Head Internal Auditor
+
+who is adequately qualified and experienced to help ensure a sound control environment throughout project
+
+implementation.
+
+
+
+20.      The FM assessment indicated that the internal audit and control environment is adequate for project
+
+implementation. The role of the internal audit will be regularly assessed during supervision missions by reviewing their
+
+reports and management responsiveness to their findings. This is to ensure that the role is not limited to transactional
+
+reviews (pre-auditing) but adds value to the overall control environment through risk assessment. The Head of Internal
+
+Audit is required to include the project in MoF’s internal audit work plan and to periodically perform risk-based audits to
+
+monitor project activities and provide half-yearly internal audit reports.
+
+
+
+Funds Flow and Disbursement Arrangements
+
+
+
+21.      This operation is an IDA credit of US$250 million. Proceeds of the credit will be used by the MoF and other
+
+beneficiary agencies for payment of eligible expenditures as defined in the Financing Agreement and further detailed in
+
+the respective AWPs and budgets. The proposed arrangement is to use a single DA denominated in US dollars and
+
+specifically opened at BoG. The DA shall be under the direct responsibility of the Chief Director but managed and operated
+
+by the Director of Accounts in collaboration with the Director of FSD. When funds are received into the DA, it is expected
+
+that within reasonable time, and bearing in mind the advert effect of potential exchange losses, the portion relating to
+
+capitalization of Fund A1 of the GFSF shall be transferred to Fund A1 and documentary evidence provided to the World
+
+Bank.
+
+
+
+22.    Disbursement arrangements have been designed in consultation with the MoF after considering the assessments
+
+of the MoF’s FM capacities and anticipated cash flow needs of the project. Proceeds of the financing will follow the
+
+
+
+
+
+
+
+                                                                                                                     Page 34 of 43
+
+         The World Bank
+
+         Ghana Financial Stability Project (P180719)
+
+
+
+
+
+standard World Bank procedures for IPF, to be used by the Recipient for eligible expenditures as defined in the Financing
+
+Agreement.
+
+
+
+23.      Based on the assessment of FM systems, the proceeds for the IDA credit will be disbursed to the project using
+
+report-based disbursement procedures through submission of IFRs. The IFRs (including the procurements subject to prior
+
+reviews and DA reconciliation statement) will also serve as the basis for withdrawals from the World Bank. Subsequent
+
+replenishments of the DA would be done based on the forecast of the net expenditures, including capital support needs
+
+from banks and SDIs under Fund A1. Requests for advances to Fund A1 will be accompanied by a six-month forecast of
+
+capital support needs of banks and SDIs, drafted by the MoF’s Secretariat for Fund A1 and approved by the Investment
+
+Committee and the Director of MoF’s FSD.
+
+
+
+                                                 Table 1.2. Disbursement Categories
+
+
+
+                                                                    Amount of the Financing         Percentage of Expenditure to Be
+
+                           Category
+
+                                                                  Allocated (expressed in US$)        Financed (inclusive of taxes)
+
+
+
+ (1) Capital support to eligible banks and SDIs through Fund
+
+                                                                          220,000,000                              100
+
+ A1 under Part 1 of the project
+
+
+
+ (2) Goods, works, non-consulting services, consulting
+
+ services, Training and Operating Costs under Parts 2 and 3                30,000,000                              100
+
+ of the project
+
+
+
+ Total                                                                    250,000,000
+
+Note: Additional and final instructions for disbursements will be provided in a disbursement letter to be issued for the project.
+
+
+
+Disbursement Conditions
+
+
+
+24.     Under Category 1: Capitalization of Fund A1. Disbursement shall only be made under this category provided that
+
+the Recipient has met the following conditions: (a) recruited a qualified investment advisory firm, with requisite staff
+
+including an investment expert, an accounting and administration officer, and E&S specialist(s) and (b) adopted an ESMS.
+
+
+
+Financial Reporting Arrangements
+
+
+
+25.    The project will be required to prepare and submit quarterly IFRs to account for activities funded under this credit.
+
+The project accountant is responsible for preparing and submitting acceptable quarterly IFRs. IFRs for the project are
+
+expected to be submitted not later than 45 days after the end of each calendar quarter.
+
+
+
+26.     The financial reports will be designed to provide relevant and timely information to the project management and
+
+to various stakeholders monitoring the project’s performance. These reports should at the minimum include the following:
+
+
+
+         (a)   A statement of sources and uses of funds by components according to the Project Appraisal Document
+
+               (useful in the implementation of the components)
+
+         (b)   A statement of sources and uses of funds showing the expenditure by category according to the Financing
+
+               Agreement (for allocating expenditure according to the Financing Agreement)
+
+         (c)   A budget variance report comparing the utilization of approved budget against expenditure (useful to the
+
+               TTL for monitoring implementation and fund utilization)
+
+
+
+
+
+                                                                                                                            Page 35 of 43
+
+        The World Bank
+
+        Ghana Financial Stability Project (P180719)
+
+
+
+
+
+        (d)   A DA reconciliation statement
+
+        (e)   A list of payments (relating to that semester) made against contracts subject to the World Bank’s prior review
+
+              of current commitments, that is, signed and ongoing contracts
+
+        (f)   A cash forecast for six months (to be the basis of requesting for additional funding)
+
+        (g)   Any other report that shall be required to provide further and better particulars on project expenditure.
+
+
+
+27.     Documentation of eligible capital support payments under Category 1 will be accompanied by (a) a statement of
+
+disbursements to eligible banks and SDIs, signed by the Director of MoF’s FSD, as well as bank statements evidencing the
+
+transfer of funds to banks and SDIs and (b) details of eligible capital support payment, to be included in the IFR. Advances
+
+to Fund A1 are not considered eligible expenditures. Documentation will only occur once the eligible banks and SDIs have
+
+received the capital support payments. At project closing date, any undocumented capital support payments will be
+
+refunded to the World Bank.
+
+
+
+Auditing
+
+
+
+28.      In line with its mandate according to the Audit Service Act, 2000 (Act 584), the Auditor General is solely responsible
+
+for the auditing of all funds under the consolidated fund and all public funds received by MDAs. The capacity of the Ghana
+
+Audit Service (GAS) is assessed as generally satisfactory. In this regard, and consistent with the use of country FM systems,
+
+the GAS will conduct the audit of the project’s financial statements.
+
+
+
+29.     Consistent with this practice, the GAS will audit the funds allocated and disbursed and issue a single integrated
+
+audit opinion which will be submitted to the World Bank. However, in case of workload challenges given the need to
+
+comply with other statutory assignments, the Recipient may opt for the project to competitively engage a private audit
+
+firm to undertake the annual audits of the project, including Fund A1. The audit of the project’s financial statements will
+
+be performed on an annual basis. An audit report together with management letters should be submitted to the World
+
+Bank within six months after the end of the Government’s fiscal year (December 31). The audit reports will be publicly
+
+disclosed by the World Bank in accordance with its disclosure policy.
+
+
+
+Conclusion of the Assessment
+
+
+
+30.    The project’s FM arrangements, as documented in the preceding paragraphs, indicate that they satisfy the World
+
+Bank’s minimum requirements as per World Bank Policy on IPF. Overall, the FM residual risk is assessed and rated as
+
+Moderate.
+
+
+
+Implementation Support Plan
+
+
+
+31.     Based on the risk rating of the project and the current FM arrangements, it is expected that in the first year of
+
+implementation there will be four quarterly on-site visits to ascertain adequacy of systems. The on-site visits will be
+
+supplemented by desk reviews of IFRs and audit reports. The objective of the FM supervision missions will include ensuring
+
+that strong FM systems are maintained for the project throughout its tenure. In adopting a risk-based approach to FM
+
+supervision, the key risk areas of focus will include assessing the accuracy and reasonableness of budgets, their
+
+predictability and budget execution, compliance with payment and fund disbursement arrangements, and the ability of
+
+the systems to generate reliable financial reports.
+
+
+
+
+
+
+
+
+
+                                                                                                                    Page 36 of 43
+
+        The World Bank
+
+        Ghana Financial Stability Project (P180719)
+
+
+
+
+
+III. Procurement Arrangements and Implementation Support Plan
+
+
+
+32.      Procurement management. Procurement under the proposed project will be in accordance with the World Bank’s
+
+‘Procurement Regulations for IPF Borrowers’ (Procurement Regulations), 5th Edition, dated September 2023; the
+
+‘Guidelines on Preventing and Combating Fraud and Corruption in Projects Financed by IBRD Loans and IDA Credits and
+
+Grants’, dated July 1, 2016; and other provisions stipulated in the Financing Agreements. The procurement documents
+
+will be based on the World Bank’s Standard Procurement Documents for the international market approach, with relevant
+
+modifications for the national market approach as well as any enhancements to address ESHS issues including GBV, SEA,
+
+and SH. Procurement complaints’ review and resolution will be undertaken by the Recipient in line with World Bank
+
+requirements in the Procurement Regulations.
+
+
+
+33.      PPSD summary. The PPSD has been prepared and covers all the relevant procurement activities for the first 18
+
+months of the project. The PPSD findings indicate that the operational context for the procurement under the project is
+
+favorable as the economic, political, sustainability, and technological parameters are encouraging, given that there is
+
+political stability in the country with relatively good security. The project will leverage the use of technological
+
+infrastructure available in the country to improve stakeholder participation, delivery, monitoring, and reporting on the
+
+project. The sustainability issues regarding safeguards will be addressed using the relevant safeguard instrument to be
+
+prepared for the project. Further, ESHS/GBV/SEA/SH issues will be addressed through relevant provisions in the World
+
+Bank standard bidding documents.
+
+
+
+34.     High inflation and depreciation of the GHS was, however, identified to be the main economic risk to the project’s
+
+procurement activities, as it could affect market predictability and pricing. To mitigate this risk, price adjustment
+
+provisions will be included in all contracts, irrespective of the duration, value, and complexity, to cater for local price
+
+fluctuations due to inflation and the depreciation of the GHS. In addition, it is expected that the macroeconomic reforms
+
+being pursued by the GoG, especially under the IMF program and the World Bank DPF series, will help improve the
+
+procurement environment to make it more competitive and realistic and aid in the achievement of value for money.
+
+
+
+35.     Nonetheless, the operational context is generally conducive with opportunities to leverage, including good
+
+procurement governance and systems, anti-corruption mechanisms, strong ESHS systems, advanced technologies, among
+
+others. Also, there are several competent and capable service providers in the sector as witnessed under GFSDP (P161787)
+
+and GDFP (P169742). The procurement packages will therefore be structured in a transparent and participatory manner
+
+to attract qualified and potential bidders and ensure value for money with integrity.
+
+
+
+36.    Procurement implementation arrangement. The MoF/FSD, currently implementing GFSDP (P161787) and GDFP
+
+(P169742), is the proposed implementing agency for the project. The number of procurement activities for the project is
+
+expected to be minimal. Thus, the procurement consultant of the GDFP (P169742) will also be responsible for this
+
+proposed project. The consultant of the GDFP (P169742) is proficient in World Bank procurement framework as well as
+
+procedures and will manage and report on the project’s procurement.
+
+
+
+37.     Procurement capacity assessment. The assessment was conducted in accordance with the Operations Core
+
+Services-Procurement Policy and Services Guidelines and the World Bank PRAMS. The MoF is a declared procurement
+
+entity and undertakes procurements according to the Ghana Public Procurement Act 663, amended by Act 914. Therefore,
+
+the MoF has the stipulated procurement structure (for example, Procurement Unit, Head of Procurement, and ETC) to
+
+undertake public procurement per the act. The MoF has good experience in implementing World Bank-funded projects
+
+and is currently implementing GFSDP (P161787) and GDFP (P169742). Procurement performance on both projects could,
+
+however, be improved.
+
+
+
+
+
+                                                                                                                Page 37 of 43
+
+        The World Bank
+
+        Ghana Financial Stability Project (P180719)
+
+
+
+
+
+38.      Summary assessment of the procurement risk. The inherent procurement risk is assessed as Substantial. This risk
+
+rating reflects the weaknesses demonstrated by the FSD/MoF in the implementation of the GFSDP (P161787) and GDFP
+
+(P169742), including (a) delays in the preparation of terms of reference and technical specifications; (b) weak contract
+
+management and inadequate filing and recordkeeping; and (c) procurement delays, especially evaluations and ETC and
+
+CTRC approvals.
+
+
+
+39.     The project proposes the following three procurement risk mitigation strategies: (a) adequate procurement
+
+planning to meet the meeting schedules of the ETC and CTRC to facilitate approvals; (b) close World Bank support and
+
+supervision in preparing the terms of reference and technical specifications for early commencement of procurement
+
+processes; and (c) contract management support and supervision of filing as well as recordkeeping.
+
+
+
+40.     The residual procurement risk after implementation of these measures is thus Moderate. The respective prior
+
+review and methods thresholds are indicated in table 1.3.
+
+
+
+                                     Table 1.3. Prior Review and Methods Thresholds
+
+
+
+
+
+
+
+
+
+41.     Procurement planning. The Procurement Plans will be prepared in STEP based on the cleared and latest version
+
+of the PPSD. STEP will be the primary platform to be used to submit, review, and clear all Procurement Plans and prior
+
+review procurement activities. The Procurement Plan will be updated in agreement with the World Bank project team at
+
+least annually or as required to reflect the actual project implementation needs.
+
+
+
+42.      Operating cost procedures. Operating costs financed by the project are incremental expenses related to
+
+implementation and will thus not be captured in the Procurement Plan. The procedures for managing these expenditures
+
+will be governed by the Recipient’s own administrative procedures acceptable to the World Bank.
+
+
+
+43.     Frequency of procurement supervision. In addition to the prior review supervision, which will be carried out by
+
+the World Bank, one field supervision mission will be conducted each year to carry out post review of procurement actions
+
+to determine whether they comply with the requirements of the Legal Agreement. The procurement post reviews will be
+
+carried out by the World Bank (or the World Bank may use the GAS to carry out the post reviews) and should cover at
+
+least 20 percent of post review contracts. Irrespective of the World Bank annual procurement post review, the project
+
+may undertake the Independent Procurement Audit, as required.
+
+
+
+
+
+
+
+
+
+                                                                                                              Page 38 of 43
+
+       The World Bank
+
+       Ghana Financial Stability Project (P180719)
+
+
+
+
+
+
+
+                               ANNEX 2: Key Features of Additional Tier 1 (AT1) Capital
+
+
+
+
+
+AT1 is part of BoG’s Capital Framework introduced in 2018 through the Capital Requirements Directive. It is consistent
+
+with Basel III requirements.
+
+Based on BoG Directive, AT1 is a debt security with capital-like features, including the following:
+
+  • Deep subordination to depositors, general creditors, and other subordinated debt of the bank
+
+  • No expiration/maturity date
+
+  • Ability to absorb losses while the bank is still operating (going concern), either through cancellation/write-down
+
+    or conversion of the security to ordinary shares
+
+  • Coupons or interest paid to the buyer of the security (in this case MoF) only if the bank has profits or reserves to
+
+    distribute; missed coupon payments are noncumulative
+
+  • Only the issuing bank can purchase back the security no sooner than five years, subject to approval by the
+
+    regulator
+
+  • Requires a prespecified trigger point (usually a CET1 ratio) for cancellation/write-down or conversion.
+
+
+
+
+
+
+
+
+
+                                                                                                              Page 39 of 43
+
+             The World Bank
+
+             Ghana Financial Stability Project (P180719)
+
+
+
+
+
+
+
+                                                 ANNEX 3: Financial Intermediary Assessment
+
+
+
+1.       As detailed in section I.A., Ghana’s macroeconomic environment has deteriorated despite recent signs of
+
+improvement. Large fiscal imbalances have forced the Government to restructure its domestic debt, the bulk of which
+
+was held by banks and other financial institutions. Inflation is high (23.2 percent in December 2023, down from a peak of
+
+54.1 in December 2022), and average lending rates are around 30 percent. Growth is expected to remain subdued in 2024.
+
+
+
+2.       The direct and indirect impacts of the debt restructuring shook the solvency of the banking sector. Without
+
+regulatory relief, the average CAR29 fell below the regulatory minimum since end-2022. State-owned banks and domestic
+
+private banks were the most severely affected due to their higher exposures and lower capital buffers. NPLs rapidly
+
+increased in 2023 to reach 20.7 percent of loans in December 2023, compared to 16 percent 12 months before. High NPLs
+
+are likely to generate additional capital shortfalls.
+
+
+
+3.       The project’s main objective is to contribute to the recapitalization of banks and SDIs to safeguard financial
+
+stability. Unlike a traditional FIF with an LoC, which requires a conducive macroeconomic environment and the soundness
+
+of the financial sector (adequate capitalization, low NPLs, and so on), this project is motivated by the macroeconomic and
+
+banking sector vulnerabilities discussed above. Nevertheless, the macroeconomic environment and financial sector
+
+soundness are expected to improve, aided by reforms supported by the World Bank DPF series, the IMF-ECF, and this
+
+proposed project.
+
+
+
+4.     Against this backdrop, the FIF assessment focuses on institutional arrangements for implementation, pricing,
+
+and subsidies.
+
+
+
+5.        Implementation arrangements. The MoF has designated its FSD as the Secretariat to manage Fund A1. The
+
+Secretariat will be strengthened through a competitive recruitment of a qualified investment advisory firm comprising an
+
+investment specialist, an accounting and administration officer, and E&S specialist(s). The main tasks of the Secretariat
+
+will include (a) developing key operational manuals and processes for Fund A1; (b) verifying banks’/SDIs’ compliance with
+
+eligibility criteria; (c) commissioning independent assessments of banks and SDIs; (d) recommending approval and
+
+subscription of AT1 securities issued by banks and SDIs; and (e) regular monitoring and reporting. A five-member
+
+Investment Committee will oversee Fund A1.
+
+
+
+6.      Pricing. The coupon rate of the AT1 instrument will be linked to the longest-dated exchanged government bond
+
+(consistent with banks’ participation in the DDEP). At the time of completion of the DDEP, the estimated coup on rate
+
+would have been in the range of 13–15 percent.
+
+
+
+7.       Subsidies. Compared to prevailing interest rates at the time of completion of the DDEP (around 30 percent for T-
+
+Bills; bonds are not currently trading), the proposed pricing entails a subsidy, which is needed to incentivize banks to
+
+recapitalize early, encourage shareholders to bring in new capital, and safeguard financial stability in a context where
+
+losses were triggered by the restructuring of public domestic exposures. Given the benefits expected to accrue from
+
+financial stability, including continued availability of core banking services and support to economy recovery through
+
+credit provision, the subsidy can be considered a least cost way of achieving the project development’s objective
+
+compared to the fiscal and output costs of the failure of viable institutions. The fiscal and output costs of previous crisis
+
+
+
+
+
+
+
+
+
+29   Total capital (Core Equity Tier 1, AT1, and Tier 2 after deductions required by regulations) / RWAs (for credit, operational, and market risks).
+
+
+
+
+
+                                                                                                                                              Page 40 of 43
+
+           The World Bank
+
+           Ghana Financial Stability Project (P180719)
+
+
+
+
+
+episodes in Ghana have reached 6 percent and 44 percent of GDP, respectively. As the macroeconomic environment
+
+improves and interest rates decline, the subsidy element is expected to decline considerably.
+
+
+
+8.        In line with the IPF FIF guideline, requirements listed in table 3.1 were considered.
+
+
+
+                                                               Table 3.1
+
+     World Bank FIF Subsidy
+
+                                                                           Project Approach
+
+         Requirement
+
+                              Availability and terms of support under Fund A1 will be communicated to all interested banks and SDIs.
+
+                              The term sheet and other relevant documentation of the Fund will be made available to all interested
+
+ Transparent                  institutions. The list of beneficiary institutions and material events will be disclosed, where appropriate
+
+                              with time lag to avoid adverse market reaction. Subsidies associated with the support will be
+
+                              transparently disclosed.
+
+                              The cost of the government support to financial sector, including this project’s contributions, is already
+
+                              included in the 2023/24 state budgets and has been factored in Ghana’s debt sustainability assessment
+
+ Fiscally accounted           framework. Shareholders of eligible banks and SDIs will need to contribute new capital, demonstrating
+
+ for/sustainable              the value they place on the support to be provided by this project. After the end of the project, many
+
+                              banks and SDIs are expected to operate without public support as they have been operating before
+
+                              the debt exchange.
+
+                              The proposed AT1 instruments are not dated. However, public support to private financial institutions
+
+ Time-bound                   under this project will not be permanent. It will be available only for the duration of the project, solely
+
+                              to address solvency gaps in the banking sector.
+
+ Monitoring                   Subsidies will be monitored and disclosed.
+
+                              Support will be available to all undercapitalized banks and SDIs that meet the project eligibility criteria
+
+                              and choose to access support. The maximum amount of AT1 that a bank can receive from the project
+
+ Competition
+
+                              is currently capped at 1.5 percent of RWA and therefore not material to alter competition dynamics in
+
+                              the banking sector.
+
+
+
+
+
+
+
+
+
+                                                                                                                              Page 41 of 43
+
+        The World Bank
+
+        Ghana Financial Stability Project (P180719)
+
+
+
+
+
+
+
+                            ANNEX 4: Regulatory Relief Measures Granted to Banks by BoG
+
+
+
+BoG granted regulatory reliefs for banks that fully participated in the DDEP. The reliefs became effective on February
+
+21, 2023, until further notice. The measures are as follows:
+
+       •     Reduction of Cash Reserve Ratio (CRR) from 14 percent to 12 percent on domestic currency deposits. The
+
+             ratio was raised back to 14 percent on April 13th, 2023.
+
+       •     Reduction of CRR from 13 percent to 12 percent on foreign currency deposits, which are to be held in foreign
+
+             currency. The ratio was also raised back to 13 percent on April 13th, 2023.
+
+       •     Reduction of Capital Conservation Buffer from 3 percent to zero, effectively reducing the minimum CAR from
+
+             13 percent to 10 percent.
+
+       •     Derecognition losses emanating from the Debt Exchange shall be spread equally over a period of four (4)
+
+             years for the purposes of CAR computation.
+
+       •     Banks have a maximum of four (4) years to restore the minimum paid-up capital as a result of any capital
+
+             shortfall arising solely from the derecognition losses.
+
+       •     Increase in Tier II component of regulatory capital from 2 percent to 3 percent of Total RWAs.
+
+       •     Reduction of minimum CET1 capital from 6.5 percent to 5.5 percent of Total RWAs.
+
+       •     Increase in allowable portion of property revaluation gains for Tier II capital computation, from 50 percent
+
+             to 60 percent.
+
+       •     Risk-weights attached to new bonds to be set at 0 percent for CAR computation, and at 100 percent for Old
+
+             Bonds.
+
+       •     Derecognition losses arising from the Debt Exchange shall be spread equally over a period of four (4) years
+
+             for the purposes of Net Own Funds computation.
+
+       •     New Bonds will be fully deductible in determining the financial exposure of banks to counterparties under
+
+             section 62(8) of the Banks and Specialized Deposit-Taking Institutions Act, 2016 (Act 930), while Old Bonds
+
+             will not be deductible for that purpose.
+
+       •     Existing loan provisioning and classification (staging) rules shall be applied to all other Government exposures
+
+             These exposures shall not be downgraded as a result of the effect of the Debt Exchange unless there is clear
+
+             evidence of significant increase in credit risk.
+
+
+
+
+
+
+
+
+
+                                                                                                                  Page 42 of 43
+
+The World Bank
+
+Ghana Financial Stability Project (P180719)
+
+
+
+
+
+
+
+                       ANNEX 5: Overview of the Ghana Financial Stability Fund
+
+
+
+
+
+
+
+
+
+                                                                                 Page 43 of 43
+
+

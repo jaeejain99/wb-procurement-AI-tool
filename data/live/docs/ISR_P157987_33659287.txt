@@ -1,0 +1,451 @@
+            The World Bank                                                                                    Implementation Status & Results Report
+            National Strategy for Development of Statistics Implementation Support (P157987)
+
+
+
+National Strategy for Development of Statistics Implementation Support (P157987)
+
+
+ SOUTH ASIA | Bangladesh | Poverty and Equity Global Practice |
+ IBRD/IDA | Investment Project Financing | FY 2018 | Seq No: 8 | ARCHIVED on 06-Dec-2021 | ISR49346 |
+
+
+ Implementing Agencies: People's Republic of Bangladesh, Bangladesh Bureau of Statistics
+
+
+
+ Key Dates
+
+
+  Key Project Dates
+
+   Bank Approval Date: 29-Mar-2018                                            Effectiveness Date: 12-Sep-2018
+   Planned Mid Term Review Date: 04-Mar-2021                                  Actual Mid-Term Review Date: 04-Mar-2021
+   Original Closing Date:                                                     Revised Closing Date: 30-Jun-2023
+ pdoTable
+
+ Project Development Objectives
+
+  Project Development Objective (from Project Appraisal Document)
+  The Project aims to improve the capacity of the Bangladesh Bureau of Statistics (BBS) to produce quality core statistics and make them accessible
+  in a timely manner to policy makers and the public.
+
+  Has the Project Development Objective been changed since Board Approval of the Project Objective?
+  No
+
+
+ Components Table
+
+ Name
+ Improving the coordination and management of statistical activities:(Cost $1.00 M)
+ Developing human resources and ICT infrastructure to produce and manage data:(Cost $5.00 M)
+ Improving the coverage and quality of core statistics required for policy making:(Cost $7.00 M)
+ Promoting and strengthening access to and the use of official statistics:(Cost $0.75 M)
+ Project Management:(Cost $1.25 M)
+
+ Overall Ratings
+
+ Name                                                                        Previous Rating                          Current Rating
+
+ Progress towards achievement of PDO                                         Moderately Satisfactory                 Satisfactory
+ Overall Implementation Progress (IP)                                        Moderately Satisfactory                 Satisfactory
+ Overall Risk Rating                                                         Moderate                                Moderate
+
+
+ Implementation Status and Key Decisions
+
+  Mechanisms to enhance coordination: The National Advisory Council on Statistics (NACS) that was set up through the project and approved by
+  Honorable Prime Minister held its first meeting on June 27, 2021. The NACS is to meet at least once a year to provide overall guidance to the
+  National Statistical System (NSS). The vision of the NSS of Bangladesh is to become a world-class provider of authentic, relevant, and timely data
+  in a holistic and user-friendly manner. The NACS Committee is comprised of high-level members from different government agencies producing
+  statistics and coordinated by BBS.
+  Investments in ICT infrastructure to support data collection and management: The project has procured several ICT equipment, including
+  computers, printers, and other equipment’s for office space. Given the delay in preparation of the ICT Plan all the currently procured ICT equipment
+  are based on the immediate need and as per requirements of the various wings of BBS. The Twinning Partner experts, Project IT consultant and
+
+
+12/6/2021                                                                                                                     Page 1 of 7
+            The World Bank                                                                                       Implementation Status & Results Report
+            National Strategy for Development of Statistics Implementation Support (P157987)
+
+
+
+  the staff of BBS Computer Wing are working on developing the draft ICT Plan. Several consultative meetings between the TP and BBS Computer
+  Wing were held in order to make an efficient and effective ICT Plan that will cover the entire statistical process i.e., from data collection to data
+  dissemination with the goal of building an integrated system for the production and dissemination of statistics.
+  Implementation of training policy to develop human resources: The TP has prepared a draft Training Policy in line with the international best
+  practices to cover all BBS staff, prioritizing participation of women and field-based staff (Division, Zila (district) and Upazila (sub-district) level).
+  Based on Training Policy, the TP has also developed a Training Plan and will finalize soon training Inventory document. So far, the team has
+  conducted several key basic and intermediate trainings, including:
+        a. Training on Agriculture Statistics: The first and second rounds of the ‘Training on Agriculture Statistics’ for a total of 1,500 staff of BBS
+             working both at Headquarters and at the Field Offices have been conducted. The training follows a Pretest and a Post-test evaluation.
+        b. Advance Training on Microdata Analysis using STATA and R: BBS through the TP has conducted 3 batches of STATA training. In
+             total 60 participants were trained. The first Batch of the training was held at BBS HQ from 8-19 November 2020, with a total number of 24
+             officials from BBS HQ and Field office participating. The second batch was held between February 28 – March 11, 2021 and the third
+             between March 21 – April 1, 2021. BBS also organized training course on “Data Management and Statistical Analysis Using R” for 20
+             participants between September 5-14, 2021. The objective of this course was to increase the output and analysis of data within the BBS
+             by using R language. Other additional trainings conducted include a 10-day training session for 35 participants at Bogura RDA on
+             Sampling Techniques and Practice from October 4 – 14, 2021[1]: and 2 days Training for 13 participants on Price Statistics organized at
+             BBS HQ from October 23 -24, 2021.
+  Assessments and training for better management systems: The TP has prepared and completed training material on quality management, HR
+  Recruitment, and a manual for HR management in BBS. The report on current practices in HR Recruitment and Manual for HR Management in BBS
+  aims at providing guidelines for improving the recruitment process of staff at the Bangladesh Bureau of Statistics (BBS), specifically, survey
+  enumerators. The focus on this group of employees had been decided during the inception mission of the Key Expert on national statistical
+  coordination (January 2021), in view of the important operations that the BBS is planning (Population Census, Household Income and Expenditure
+  Survey, etc.).
+  Improvement of Core statistics and Surveys: The TP has conducted baseline review for several core statistics. These include baseline reviews
+  for demography and vital statistics, population and housing census, health statistics, gender statistics, labor and industry statistics, price statistics,
+  national account statistics, crop statistics, land use statistics and livestock statistics have been completed. However, BBS has requested that
+  Strength Weaknesses Opportunities and Threats (SWOT) and Gap analysis are conducted to finalize these reviews. It has been agreed with BBS
+  that the SWOT and Gap analysis will be completed as soon as the key experts conduct their planned missions to Bangladesh. So far missions of
+  the key experts responsible for the Price Statistics, National Accounts and Agriculture statistics have been conducted, and SWOT and Gap analysis
+  for these statistical domains developed.
+  Website and microdata anonymization: To support the key project goal of microdata anonymization and making data accessible, BBS has shared
+  core surveys including on Health Statistics (MICS-2019, HMS-2014), Labor Statistics (LFS 2016-17), Industry Statistics (SMI-2019) and
+  Poverty/Welfare Statistics (HIES-2016). The metadata documentation for the core statistical fields of BBS has been produced. It adheres to
+  internationally accepted formats for metadata for the construction of metadata. As specified in the Mid-Tern Review report, metadata will be
+  produced for the Health and Mortality Survey, Labour Force Survey, Survey of Manufacturing Industries, Consumer Price Index, Quarterly National
+  Accounts, Crop Statistics, Fisheries statistics and the Household Income and Expenditure Survey.
+  Support to 2022 HIES and LFS: After prolonged delays both HIES and the LFS surveys are now under process for implementation by January
+  2022. While HIES will be implemented between January – December, 2022, LFS will be a quarterly survey to be implemented every 3 months from
+  January 2022 to December 2023.
+  Twinning Partnership (TP). The progress in implementation of the TP contract is satisfactory having successfully completed almost a half of the
+  deliverables. The TP has shared the 6th quarterly report which describes the activities of the Twinning partnership carried out during the period of 8
+  July 2021 – 7 October 2021. The report is currently under review.
+  Workshop on “Moving Bangladesh Towards a World-Class Statistical Producer”: Twining Partner (TP) together with the PIU organized a half-
+  day workshop hosted at the Pan Pacific Sonargaon hotel on September 23rd, 2021. The objective of the workshop was to bring together
+  participants from different Wings of Bangladesh Bureau of Statistics (BBS), Project Implementation Unit (PIU), and the Twinning Partner to discuss
+  and review the status, progress, and challenges of project implementation of key project activities. The Workshop was also aimed to facilitate the
+  collaboration between counterparts in the project team, BBS Wings and the PIU, and was also an opportunity for the team to present all capacity
+  building activities undertaken by the TP and foster networking within the statistical community in Bangladesh. The focus was to support
+  improvement in BBS staff capabilities to produce and disseminate consistent and timely quality statistics responding to the needs of the various
+  users; mainstreaming sectors and other players into the National Statistics System (NSS); coordinating the entire NSS; responding to data
+  challenges; delivering a country-led data revolution; and building statistical capacity across the “the statistical value chain”.
+
+
+
+
+  Risks
+
+
+ Systematic Operations Risk-rating Tool
+
+
+
+
+12/6/2021                                                                                                                         Page 2 of 7
+            The World Bank                                                                                          Implementation Status & Results Report
+            National Strategy for Development of Statistics Implementation Support (P157987)
+
+
+
+
+  Risk Category                                                  Rating at Approval               Previous Rating                Current Rating
+
+  Political and Governance                                       Substantial                     Moderate                      Moderate
+  Macroeconomic                                                  Low                             Low                           Low
+  Sector Strategies and Policies                                 Moderate                        Moderate                      Moderate
+  Technical Design of Project or Program                         Moderate                        Moderate                      Moderate
+  Institutional Capacity for Implementation and
+                                                                 Substantial                     Substantial                   Substantial
+  Sustainability
+  Fiduciary                                                      Substantial                     Substantial                   Substantial
+  Environment and Social                                         Low                             Low                           Low
+  Stakeholders                                                   Substantial                     Substantial                   Substantial
+  Other                                                          --                               Moderate                      Moderate
+  Overall                                                        Substantial                     Moderate                      Moderate
+
+
+
+  Results
+
+
+ PDO Indicators by Objectives / Outcomes
+
+
+
+   1.         Producing Quality Statistics
+
+    IN01073165
+    ►Core statistics are improved in line with international standards (Percentage, Custom)
+
+                                         Baseline                       Actual (Previous)            Actual (Current)            End Target
+
+    Value                                0.00                           0.00                         10.00                       40.00
+
+    Date                                 02-Apr-2018                    04-Mar-2021                  14-Sep-2021                30-Jun-2023
+                                         Baseline review is conducted by the Twinning partner. During mission- 5th September to 24th September
+                                         2021, Key Experts communicated with respective Wing Directors and Focal Point Officers to complete the
+                                         deliverables. Key surveys or data identified to track include: (i) Health Statistics (Health and Morbidity
+   Comments:                             Survey), (ii) Labor Statistics (LFS), (iii) Industry Statistics (SMI), (iv) Price Statistics (CPI), (v) National
+                                         Accounts (QNA), (vi) Agriculture Statistics (One of the perennial crops), (vii) Agriculture Statistics
+                                         (Fisheries Statistics), and (viii) Poverty/Welfare Statistics (HIES)
+
+
+
+   Making statistics available on time
+
+    IN01073176
+    ►Core statistics are released according to a pre-defined calendar (Text, Custom)
+
+                                         Baseline                       Actual (Previous)            Actual (Current)           End Target
+                                                                                                     Advanced Release           80% of the core
+                                         No formal release              Draft release calendar       Calendar and protocol      statistics disseminated
+    Value
+                                         calendar is in place.          prepared                     for Advance Release        on time as announced
+                                                                                                     Calendar.                  in the release schedule
+    Date                                 02-Apr-2018                    04-Mar-2021                  14-Sep-2021                30-Jun-2023
+
+
+
+
+12/6/2021                                                                                                                           Page 3 of 7
+            The World Bank                                                                                       Implementation Status & Results Report
+            National Strategy for Development of Statistics Implementation Support (P157987)
+
+
+
+                                        To achieve this Indicator, 02 sets of deliverables are defined: Advanced Release Calendar and protocol
+   Comments:                            for Advance Release Calendar. Twinning Partner (TP) has already been submitted draft deliverables.
+
+    IN01073177
+    ►Core surveys' microdata anonymized made accessible (Percentage, Custom)
+
+                                        Baseline                     Actual (Previous)             Actual (Current)           End Target
+
+    Value                               0.00                         0.00                          10.00                      40.00
+
+    Date                                02-Apr-2018                  04-Mar-2021                   14-Sep-2021                30-Jun-2023
+                                        BBS has shared key microdata for anonymization with the Twinning Partner (TP) for achieving this PDO
+                                        level indicator. The datasets include; (i) Health Statistics (MICS-2019), (ii) Health Statistics ((HMS-2014),
+                                        (iii) Labor Statistics (LFS 2016-17), (iv) Industry Statistics (SMI-2019), and (v) Poverty/Welfare Statistics
+   Comments:
+                                        (HIES-2016). The Metadata Documentation, Codes and Syntaxes for various micro data are expected to
+                                        be completed by February 2022.
+
+    IN01073178
+    ►Increased user satisfaction (Text, Custom)
+
+                                        Baseline                     Actual (Previous)             Actual (Current)           End Target
+                                                                                                   Agreement reached on
+                                                                                                   strategy to gather         50% of indicators in
+                                                                     BBS has initiated             users' satisfaction.       the survey show
+                                                                     discussion to set formal      Concept Note,              improvement in user
+                                        No formal strategy to
+    Value                                                            strategy to undertake         methodology, draft         satisfaction compared
+                                        gather users' satisfaction
+                                                                     USS to measure this           questionnaire              to baseline calculated
+                                                                     indicator.                    prepared to be             from first user-
+                                                                                                   implemented by             satisfaction survey.
+                                                                                                   December 2021
+    Date                                02-Apr-2018                  04-Mar-2021                   14-Sep-2021                30-Jun-2023
+                                        Baseline will be conducted by PIU. Concept Note, methodology, draft questionnaire already prepared.
+   Comments:                            Now BBS is translating the questionnaire into Bengali and implement the survey by December 2021
+
+
+ Overall Comments PDO
+
+  While it has been challenging to obtain microdata for anonymization and creating metadata, BBS has shared key datasets with the TP expert
+  who is now processing the data. Baseline review of core socioeconomic statistics have also been completed. There has been considerable
+  delay in the implementation of the User Satisfaction Survey (USS). BBS is planning to undertake the USS by December 2021.
+
+
+
+
+ Intermediate Results Indicators by Components
+
+
+
+   Promoting and strengthening access to and the use of official statistics
+
+    IN01073181
+    ►Introduction of an effective and clear dissemination policy (Text, Custom)
+
+                                        Baseline                     Actual (Previous)             Actual (Current)           End Target
+                                                                     A draft Dissemination
+                                                                                                   Draft dissemination        Approval of
+                                        No formal dissemination      Policy have been
+    Value                                                                                          policy is under            dissemination policy
+                                        policy in place              produced and is under
+                                                                                                   preparation.               for core statistics
+                                                                     review.
+
+12/6/2021                                                                                                                         Page 4 of 7
+            The World Bank                                                                                      Implementation Status & Results Report
+            National Strategy for Development of Statistics Implementation Support (P157987)
+
+
+
+
+    Date                                02-Apr-2018                 03-Mar-2021                   14-Sep-2021                30-Jun-2023
+
+                                        Draft dissemination policy is under preparation.
+   Comments:
+
+
+
+   Developing human resources and ICT infrastructure to produce and manage data
+
+    IN01073180
+    ►Implementation of training policy to develop human resources (Text, Custom)
+
+                                        Baseline                    Actual (Previous)              Actual (Current)           End Target
+                                                                    A draft Training Policy
+                                                                    and a Training Plan
+                                                                                                                             Following training
+                                                                    developed. Based on this
+                                                                                                  Training Policy and        policy, 500 BBS staff
+                                                                    BBS has conducted
+                                                                                                  Training Plan              trained (10% women),
+                                                                    basic agriculture training
+                                        Training done on an ad-                                   developed on the           delivery of 2 training
+    Value                                                           for 500 staff (HQ and
+                                        hoc basis                                                 basis of which several     courses to government
+                                                                    field level office of BBS).
+                                                                                                  key trainings were         officials, delivery of 2
+                                                                    A 1st Batch of STATA
+                                                                                                  conducted                  training courses to
+                                                                    training of 10 days for 24
+                                                                                                                             media
+                                                                    participants was also
+                                                                    completed.
+    Date                                02-Apr-2018                 03-Mar-2021                   14-Sep-2021                30-Jun-2023
+                                        On the basis of Training Policy, Training Plan has been developed. Training Inventory document will be
+                                        finalized soon.
+                                        1. The PIU conducted the first and 2nd round of the ‘Training on Agriculture Statistics’ for a total of 1500
+                                        staff of BBS working both at Headquarters and at the Field Offices. The training was conducted following
+                                        a Pretest and a Post-test evaluation. The following trainings were conducted:
+                                        2. STATA 03 batches completed (60 participants- 8-19 Novemebr,2021,28 Feb- 11 March 2021 and 21
+                                        March- 1 April 2021)
+   Comments:
+                                        3. R – one batch 5-14 Sept., 2021, 20 participants
+                                        4. 10 Days Training at Bogura RDA on Sampling Techniques & Practice- Participant -35 - Date: 4 Oct
+                                        2021- 14 Oct 2021
+                                        5. 2 days Training on Price Statistics-at BBS- Participant - 13- Date - 23.10.2021-24.10.2021 (Mutually
+                                        agreed to reduce the training from 5days to 2 days)
+                                        TP will conduct local training soon as per training plan.
+
+    IN01073183
+    ►Investments in ICT infrastructure to support data collection and management (Text, Custom)
+
+                                        Baseline                    Actual (Previous)             Actual (Current)            End Target
+                                        Inadequate ICT              Inadequate ICT                Drafting of ICT Plan
+    Value                                                                                                                     ICT plan is completed
+                                        infrastructure              infrastructure                under is preparation
+
+    Date                                02-Apr-2018                 03-Mar-2021                   14-Sep-2021                30-Jun-2023
+                                        Preparation of the ICT plan is ongoing. In the meantime, ICT equipment were procured as per
+   Comments:                            requirements of the various wings of BBS.
+
+
+
+   Improving the coordination and management of statistical activities
+
+    IN01073179
+    ►Mechanisms are put in place to enhance coordination (Text, Custom)
+
+                                        Baseline                     Actual (Previous)             Actual (Current)           End Target
+
+
+
+12/6/2021                                                                                                                        Page 5 of 7
+            The World Bank                                                                                            Implementation Status & Results Report
+            National Strategy for Development of Statistics Implementation Support (P157987)
+
+
+
+                                                                       National Advisory                NACS set up and first
+                                                                       Council on Statistics            meeting held on 27       4 MOUs signed and
+                                        Coordination activities        (NACS) approved and              June 2021. Report on     operational; 2
+    Value                               mostly on an ad-hoc            report on existing MoUs          existing MoUs            Meetings held by
+                                        basis                          and Administrative data          suggesting areas         National Statistics
+                                                                       completed. MOUs are yet          improvements             Coordination Council
+                                                                       to be signed.                    produced
+    Date                                02-Apr-2018                    03-Mar-2021                      14-Sep-2021              30-Jun-2023
+                                        Two key reports were produced: (i) report on Existing MoUs with suggestions for improvement and (ii)
+                                        report on the use of Administrative data for official statistics. NACS already approved by the Honorable
+   Comments:
+                                        PM and first meeting of NACS was on held 27 June 2021.
+
+    IN01073182
+    ►Conducting assessments and training for better management systems (Text, Custom)
+
+                                        Baseline                        Actual (Previous)               Actual (Current)         End Target
+                                                                                                                                 Completed functional
+                                                                                                        TP has delivered draft   review of the BBS and
+                                        No functional review
+                                                                                                        training material on     implementation plan
+                                        done, limited
+                                                                       No functional review             quality management,      developed to ensure
+    Value                               procurement and
+                                                                       done                             HR Recruitment and a     fitness of purpose. At
+                                        financial management
+                                                                                                        manual for HR            least 4 staff trained on
+                                        skills
+                                                                                                        management in BBS.       procurement and
+                                                                                                                                 financial management.
+    Date                                02-Apr-2018                    03-Mar-2021                      14-Sep-2021              30-Jun-2023
+                                        In order to achieve this Indicator, TP is working on the 03 sets of deliverables: Functional review, HR
+   Comments:                            Recruitment Manual and Training on TQM.
+
+
+
+ Performance-Based Conditions
+
+
+
+ Data on Financial Performance
+
+
+ Disbursements (by loan)
+
+ Project        Loan/Credit/TF     Status       Currency          Original   Revised        Cancelled      Disbursed       Undisbursed               % Disbursed
+
+
+ P157987        IDA-61930          Effective    USD                 15.00       15.00            0.00            7.41             7.06                      51%
+
+
+ Key Dates (by loan)
+
+ Project         Loan/Credit/TF     Status      Approval Date         Signing Date      Effectiveness Date        Orig. Closing Date      Rev. Closing Date
+
+ P157987         IDA-61930          Effective   22-Mar-2018           28-Jun-2018       12-Sep-2018               28-Feb-2022             30-Jun-2023
+
+
+Cumulative Disbursements
+
+
+
+
+12/6/2021                                                                                                                              Page 6 of 7
+            The World Bank                                                                               Implementation Status & Results Report
+            National Strategy for Development of Statistics Implementation Support (P157987)
+
+
+
+
+ PBC Disbursement
+
+                                                                                        Achievement   Disbursed amount in     Disbursement %
+ PBC ID                     PBC Type     Description           Coc      PBC Amount
+                                                                                        Status        Coc                     for PBC
+
+
+
+
+  Restructuring History
+
+
+  Level 2 Approved on 22-Mar-2020 ,Level 2 Approved on 19-Sep-2021
+
+
+  Related Project(s)
+
+
+ There are no related projects.
+
+
+
+
+12/6/2021                                                                                                               Page 7 of 7
+

@@ -1,0 +1,2921 @@
+                                                                                Report No: ICR00331
+
+                             IMPLEMENTATION COMPLETION AND RESULTS REPORT
+
+                                          (Credit IDA-65430NP)
+
+                                                   ON A
+
+                                                  CREDIT
+
+
+
+                                   IN THE AMOUNT OF SDR36.2 MILLION
+
+                                       (US$50 MILLION EQUIVALENT)
+
+
+
+                                                  TO
+
+                                     THE FEDERAL REPUBLIC OF NEPAL
+
+
+
+                                                   FOR
+
+                              Nepal Development Policy Financing with CAT DDO
+
+                                            November 28, 2025
+
+Urban, Resilience and Land
+
+South Asia
+
+
+
+
+
+
+
+
+
+                                                                                          Official Use Only
+
+The World Bank
+
+Nepal Development Policy Financing with CAT DDO (P166788)                ICR DOCUMENT
+
+
+
+
+
+                                       CURRENCY EQUIVALENTS
+
+
+
+                         (Exchange Rate Effective {November 28, 2025})
+
+
+
+                             Currency Unit =      Nepali Rupee (NPR)
+
+
+
+                                 US$1 =               NPR142.60
+
+
+
+                                 US$1 =                  0.73SDR
+
+
+
+                                   GOVERNMENT FISCAL YEAR
+
+                                       July 16 - July 15
+
+
+
+
+
+
+
+
+
+            Regional Vice President:      Johannes C.M. Zutt
+
+                  Country Director:       David N. Sislen
+
+                  Regional Director:      Pankaj Gupta
+
+                 Practice Manager:        Abedalrazq F. Khalil
+
+              Task Team Leader (s):       Iguniwari Thomas Ekeu-Wei
+
+              ICR Main Contributor:        Basanta Paudel
+
+
+
+
+
+
+
+
+
+                             Official Use Only
+
+        The World Bank
+
+        Nepal Development Policy Financing with CAT DDO (P166788)                               ICR DOCUMENT
+
+
+
+
+
+
+
+ABBREVIATIONS AND ACRONYMS
+
+Cat DDO       Catastrophe Deferred Drawdown Option         MoUD     Ministry of Urban Development
+
+CPF           Country Partnership Framework                NAP      National Adaptation Plan
+
+CPRT          Crisis Preparedness and Response             NDC      Nationally Determined Contribution
+
+              Toolkit
+
+DUDBC         Department of Urban Development and          NDRC     Nepal Development Policy Credit
+
+              Building Construction                                 with Cat DDO
+
+DPF           Development Policy Financing                 NDRF     National Disaster Response
+
+                                                                    Framework
+
+DRM           Disaster Risk Management                     NDRRMA   National Disaster Risk Reduction and
+
+                                                                    Management Authority
+
+EHCS          Essential Health Care Services               NRA      National Reconstruction Authority
+
+EHRP          Earthquake Housing Reconstruction            NBC      National Building Codes
+
+              Project
+
+FY            Fiscal Year                                  NPR      Nepalese Rupee
+
+GESI          Gender Equality and Social Inclusion         NPPRP    National Pandemic Preparedness
+
+                                                                    and Response Plan
+
+GDP           Gross Domestic Product                       PA       Prior Actions
+
+GoN           Government of Nepal                          PC4      Provincial Climate Change
+
+                                                                    Coordination Committee
+
+IDA           International Development Association        PHEPRP   Provincial Level Health Emergency
+
+                                                                    Preparedness and Response Plan
+
+IEG           Independent Evaluation Group                 PLGs     Provincial and Local Governments
+
+ISR           Implementation Status and Results Report     PDO      Program Development Objective
+
+JICA          Japan International Cooperation Agency       RI       Result Indicator
+
+MoF           Ministry of Finance                          SCD      Systematic Country Diagnostic
+
+MoFE          Ministry of Forests and Environment          SDR      Special Drawing Rights
+
+MoHP          Ministry of Health and Population            TA       Technical Assistance
+
+                                                           WB       World Bank
+
+                                                           WHO      World Health Organization
+
+
+
+
+
+
+
+
+
+                                       Official Use Only
+
+            The World Bank
+
+            Nepal Development Policy Financing with CAT DDO (P166788)                                                                      ICR DOCUMENT
+
+
+
+
+
+
+
+
+
+                                                    TABLE OF CONTENTS
+
+
+
+DATA SHEET ................................................................................................................................................. i
+
+      I. PROGRAM CONTEXT AND DEVELOPMENT OBJECTIVES ....................................................................................1
+
+      II. ASSESSMENT OF KEY PROGRAM DESIGN AND OUTCOMES ............................................................................3
+
+      III. OTHER OUTCOMES AND IMPACTS ............................................................................................................. 14
+
+      IV. BANK PERFORMANCE................................................................................................................................ 16
+
+      V.    RISK TO SUSTAINABILITY OF DEVELOPMENT OUTCOMES ............................................................................ 17
+
+      VI. LESSONS AND NEXT PHASE ........................................................................................................................ 18
+
+      ANNEX 1. RESULTS FRAMEWORK ...................................................................................................................... 20
+
+      ANNEX 2. BANK LENDING AND IMPLEMENTATION SUPPORT/SUPERVISION ....................................................... 22
+
+      ANNEX 3. BORROWER, CO-FINANCIERS, AND OTHER DEVELOPMENT PARTNERS’/STAKEHOLDERS’ COMMENTS . 24
+
+      ANNEX 4. SUPPORTING DOCUMENTS ................................................................................................................ 24
+
+
+
+
+
+
+
+
+
+                                                                                                                                               Official Use Only
+
+         The World Bank
+
+         Nepal Development Policy Financing with CAT DDO (P166788)                                 ICR DOCUMENT
+
+
+
+
+
+
+
+
+
+DATA SHEET
+
+
+
+@#&OPS~Doctype~OPS^dynamics@icrdpfstdalonebasicdata#doctemplate
+
+BASIC DATA
+
+
+
+Product Information
+
+
+
+Operation ID                                             Operation Name
+
+P166788                                                  Nepal Development Policy Financing with CAT DDO
+
+
+
+Product                                                  Operation Short Name
+
+
+
+Development Policy Financing (DPF)                       Nepal DPF with Cat DDO
+
+
+
+Operation Status                                         Approval Fiscal Year
+
+Closed                                                   2020
+
+
+
+DPF Options
+
+
+
+Is this operation part of a programmatic series?
+
+No
+
+
+
+Crisis & Post-Conflict                                   Regular Deferred Drawdown Option
+
+No                                                       Yes
+
+
+
+Catastrophe Deferred Drawdown Option                     Sub National Lending
+
+Yes                                                      No
+
+Special Development Policy Lending
+
+No
+
+
+
+
+
+CLIENTS
+
+
+
+
+
+Borrower/Recipient                                       Implementing Agency
+
+                                                         Ministry of Finance (Main), Ministry of Forests and
+
+                                                         Environment, Ministry of Health and Population,
+
+                                                         Ministry of Home Affairs (National Disaster Risk
+
+Nepal
+
+                                                         Reduction and Management Authority), Ministry of
+
+                                                         Urban Development (Department of Urban
+
+                                                         Development and Building Construction)
+
+
+
+
+
+
+
+                                                                                                                  i
+
+
+
+                                                                                                      Official Use Only
+
+       The World Bank
+
+       Nepal Development Policy Financing with CAT DDO (P166788)                                      ICR DOCUMENT
+
+
+
+
+
+
+
+DEVELOPMENT OBJECTIVE
+
+
+
+Program Development Objective (Approved as part of Approval Package on 10-Mar-2020)
+
+To support the government in enhancing its technical and institutional capacity to manage the risk of climate change
+
+and natural disasters including disease outbreaks.
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@icrdpffinancing#doctemplate
+
+FINANCING
+
+
+
+Financing Source              Original Amount (US$)         Revised Amount (US$)       Actual Disbursed (US$)
+
+World Bank Financing                      50,000,000.00               47,640,286.00                  49,342,591.04
+
+IDA-65430                                 50,000,000.00               47,640,286.00                  49,342,591.04
+
+Total                                     50,000,000.00               47,640,286.00                  49,342,591.04
+
+
+
+@#&OPS~Doctype~OPS^dynamics@icrkeydates#doctemplate
+
+KEY DATES
+
+
+
+
+
+                       Key Events                                  Planned Date                     Actual Date
+
+
+
+Concept Review                                                     29-Aug-2018                     07-Sep-2018
+
+
+
+Decision Review                                                    19-Dec-2019                     19-Dec-2019
+
+
+
+Authorize Negotiations                                             03-Feb-2020                     22-Jan-2020
+
+
+
+Approval                                                           10-Mar-2020                     10-Mar-2020
+
+
+
+Effectiveness                                                      17-Apr-2020                     17-Apr-2020
+
+
+
+Operation Closing/Cancellation                                     30-Nov-2024                     30-Nov-2024
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@icrdpfratings#doctemplate
+
+RATINGS SUMMARY
+
+Overall Outcome                       Relevance of Prior Actions             Achievement of Objectives (Efficacy)
+
+Satisfactory                          Satisfactory                           Satisfactory
+
+Bank Performance
+
+Satisfactory
+
+
+
+
+
+ISR RATINGS
+
+
+
+
+
+                                                                                                                    ii
+
+
+
+                                                                                                        Official Use Only
+
+        The World Bank
+
+        Nepal Development Policy Financing with CAT DDO (P166788)                                              ICR DOCUMENT
+
+
+
+
+
+
+
+                                                                                                        Actual Disbursements
+
+ No.       Date ISR Archived                   DO Rating                         IP Rating
+
+                                                                                                               (US$M)
+
+01        30-Jun-2020                Satisfactory                      Satisfactory                                         0.00
+
+02        12-Nov-2020                Satisfactory                      Satisfactory                                       25.52
+
+03        24-Sep-2021                Satisfactory                      Satisfactory                                       25.52
+
+04        25-Mar-2022                Satisfactory                      Satisfactory                                       25.52
+
+05        18-Apr-2023                Satisfactory                      Satisfactory                                       25.52
+
+06        14-Feb-2024                Satisfactory                      Satisfactory                                       25.52
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@icrsectortheme#doctemplate
+
+SECTORS AND THEMES
+
+
+
+
+
+Sectors
+
+                                                                                       Adaptation
+
+                                                                                                            Mitigation
+
+       Major Sector                            Sector                       %         Co-benefits
+
+                                                                                                          Co-benefits (%)
+
+                                                                                      (%)
+
+FY17 - Health                  FY17 - Public Administration - Health            25                50                      0
+
+FY17 - Public
+
+                               FY17 - Other Public Administration               62                40                     20
+
+Administration
+
+FY17 - Social Protection       FY17 - Social Protection                         13                100                     0
+
+
+
+
+
+Themes
+
+       Major Theme                       Theme (Level 2)                        Theme (Level 3)                 %
+
+
+
+                                                                          FY17 - Adaptation                              50
+
+FY17 - Environment and         FY17 - Climate change
+
+Natural Resource                                                          FY17 - Mitigation                              13
+
+Management
+
+                               FY17 - Energy                              FY17 - Energy Efficiency                       25
+
+
+
+FY17 - Human                   FY17 - Gender                                                                             25
+
+Development and                                                           FY17 - Health Service
+
+Gender                         FY17 - Health Systems and Policies                                                        25
+
+                                                                          Delivery
+
+FY17 - Social
+
+                                                                          FY17 - Other Excluded
+
+Development and                FY17 - Social Inclusion                                                                   25
+
+                                                                          Groups
+
+Protection
+
+FY17 - Urban and Rural                                                    FY17 - Disaster
+
+                               FY17 - Disaster Risk Management                                                           50
+
+Development                                                               Preparedness
+
+
+
+                                                                                                                               iii
+
+
+
+                                                                                                                    Official Use Only
+
+        The World Bank
+
+        Nepal Development Policy Financing with CAT DDO (P166788)                                  ICR DOCUMENT
+
+
+
+
+
+                                                                    FY17 - Disaster Risk
+
+                                                                                                            50
+
+                                                                    Reduction
+
+
+
+ADM STAFF
+
+ Role                               At Approval                            At ICR
+
+
+
+ Practice Manager                   Christoph Pusch, E.Gail Richardson     Abedalrazq F. Khalil
+
+ Regional Director                  John Roome                             Pankaj Gupta
+
+
+
+ Global Director                    Sameh Naguib Wahba Tadros              Ming Zhang
+
+
+
+ Practice Group Vice President      -                                      Guangzhe Chen
+
+                                    Idah Z. Pswarayi-Riddihough
+
+ Country Director                                                          David N. Sislen
+
+                                    Faris H. Hadad-Zervos
+
+ Regional Vice President            Hartwig Schafer                        Johannes C.M. Zutt
+
+ ADM Responsible Team Leader        Armando Guzmann                        Iguniwari Thomas Ekeu-Wei
+
+
+
+ Co-Team Leader(s)                  Kamran Akbar, Manav Bhattarai          Mamata Ghimire
+
+ ICR Main Contributor              Basanta Paudel
+
+
+
+
+
+
+
+
+
+                                                                                                                  iv
+
+
+
+                                                                                                       Official Use Only
+
+     The World Bank
+
+     Nepal Development Policy Financing with CAT DDO (P166788)                                         ICR DOCUMENT
+
+
+
+
+
+
+
+I. PROGRAM CONTEXT AND DEVELOPMENT OBJECTIVES
+
+
+
+A. CONTEXT AT APPRAISAL
+
+
+
+
+
+1. At the time of appraisal, the political context in Nepal remained stable, supported by a sound macroeconomic
+
+framework. Despite several shocks in the past (including unstable governments, earthquakes, and trade disruptions,
+
+Nepal’s macroeconomic fundamentals were sound as evidenced by solid revenue growth, a low debt -to-Gross
+
+Domestic Product (GDP) ratio, a stable financial sector and sufficient reserves. Although risks persisted due to high
+
+fiscal challenges from federalism and external deficits, reliance on remittances, global economic uncertainties, and
+
+vulnerability to climate and disaster shocks, the government remained committed to macro-fiscal prudence by
+
+adopting fiscal discipline during the transition to federalism, undertaking reforms on climate and disaster risk
+
+management, and committing to increasing revenues to finance the higher cost of federalism, undertaking a
+
+spending review to contain expenditure and improve their efficiencies through strengthened public financial
+
+management, and continued commitment to maintain the peg with the Indian Rupee.
+
+
+
+2. Nepal faced significant risks from natural disasters and public health threats due to its geographic and climatic
+
+conditions. The country was (and continues to be) highly vulnerable to earthquakes, floods, landslides, droughts, and
+
+disease outbreaks, ranking among the most at-risk nations worldwide. Recent events, including the devastating 2015
+
+earthquakes and severe flooding, had caused extensive loss of life, displacement, and damage to infrastructure,
+
+exposing weaknesses in building practices and emergency preparedness. The 2015 earthquakes alone resulted in
+
+nearly 8,800 deaths, over 22,000 injuries, and approximately US$7 billion in recovery needs, equivalent to one-third
+
+of the nation’s GDP at the time. The 2017 floods killed over 150 people and around 460,000 people were displaced.
+
+Incessant rainfall in July 2019 caused 92 landslides and 83 instances of flooding, killed over 100 people, and
+
+temporarily displaced over 16,520 households (approximately 80,000 people) in Central and Eastern Nepal.
+
+
+
+3. Government resources remained insufficient to address the full scale of post-disaster recovery and health
+
+sector demands despite the annual allocation of contingency funds. Ministries often had to reallocate development
+
+budgets to cover relief and reconstruction efforts during emergencies. This underscored the urgent need for Nepal
+
+to enhance emergency preparedness and financial protection by securing reliable financial instruments—such as the
+
+Catastrophe Deferred Drawdown Option (Cat DDO) operation—to enable timely response and sustainable recovery
+
+following disasters or health crises.
+
+
+
+4. At appraisal, Nepal’s disaster risk management and climate adaptation framework had advanced significantly
+
+through robust legislation, policy reform, and institutional strengthening. The 2017 Disaster Risk Reduction and
+
+Management Act marked a shift from reactive to proactive disaster management, creating national and local
+
+authorities for coordinated action. This Act aligned with the 2009 National Strategy for Disaster Risk Management
+
+and the international Sendai Framework, and integrated climate change adaptation in national planning. Ongoing
+
+efforts included the Nepal National Building Code, National Disaster Response Framework (NDRF), and the
+
+establishment of emergency operations centers. The government institutionalized climate change adaptation
+
+through policies, budget codes, and strategic plans such as the National Adaptation Programme of Action and
+
+Nationally Determined Contributions under the Paris Agreement. Health emergency preparedness was prioritized
+
+through national strategies and the rollout of early warning systems. These comprehensive reforms provided a
+
+foundation for effective disaster and climate resilience programming.
+
+
+
+
+
+
+
+
+
+                                       Official Use Only                                                       Page 1
+
+     The World Bank
+
+     Nepal Development Policy Financing with CAT DDO (P166788)                                          ICR DOCUMENT
+
+
+
+
+
+5. In addition to the Constitution of Nepal 2015, the Local Government Operation Act 2017, and the DRRM Act
+
+2017, key legal and policy documents related to DRRM included the Building Act 1998, Nepal National Building Code
+
+developed in 1994 and enacted in 2004, the National Strategy for Disaster Risk Management 2009, National Disaster
+
+Risk Reduction Strategic Plan of Action 2018-2030, and NDRF 2012. Annual disaster drills initiated in 2009 and further
+
+streamlined through NDRF, as well as the establishment of the National Emergency Operations Center in 2010
+
+enhanced preparedness and coordination. Since 2010, disaster, environment, and climate change have been
+
+systematically integrated into national periodic development plans. The Climate Change Policy 2011 and the
+
+introduction of the Climate Change Budget Code in the Fiscal Year (FY) 2013 strengthened climate-responsive
+
+governance. Health emergency preparedness was also embedded within the Nepal Health Sector Strategy (2015–
+
+2020), with Early Warning and Reporting Systems and Health Emergency Operations Centers further strengthening
+
+surveillance and response capacities for large-scale disease outbreaks.
+
+
+
+6. The operation built on the Bank’s past and ongoing engagement in Nepal focusing on strengthening institutional
+
+capacity. For example, while the Earthquake Housing Reconstruction Project (EHRP) supported the post 2015
+
+earthquake housing reconstruction, the Cat DDO supported the strengthening of regulations such as the Disaster
+
+Risk Reduction and Management Regulation to establish the National Disaster Risk Reduction and Management
+
+Authority (NDRRMA) and update of the National Building Codes (NBCs) to incorporate seismic resilience. The Building
+
+Resilience to Climate Related Hazard Project (US$31 million, 2013 – 2018) aimed to modernize and automate the
+
+hydro-meteorological observation network; the EHRP (IDA US$700 million, 2015 – 2022) contributed to the
+
+reconstruction of disaster resilient houses in earthquake affected areas. In addition, the Regional Climate Adaptation
+
+and Resilience for South Asia Project (P171054) aimed to contribute to an enabling environment for climate resilience
+
+policies and investments in Water, Agriculture and Transport sectors in Nepal, Bangladesh and Pakistan.
+
+
+
+7. The operation was consistent with the WBG Country Partnership Framework (CPF) FY 19–23 for Nepal discussed
+
+by the Board of Executive Directors on August 7, 2018 (Report No. 121029-NP) and extended to FY24 (by the
+
+Performance and Learning Review dated January 17, 2022). The operation contributed to the CPF’s Objective 3.3:
+
+Increased resilience to health shocks, natural disasters, and climate change, with the stated focus of securing
+
+emergency financing in the immediate aftermath of climate-induced extreme events and potential pandemics. The
+
+2018 Systematic Country Diagnostic (SCD) identified several challenges, including exposure to external demand
+
+shocks from natural disasters and limited macroeconomic and fiscal space to deal with an external shock. The SCD
+
+also recognized that improving preparedness for disasters and climate change would have a medium- to long-term
+
+impact on reducing macro fiscal risk.
+
+
+
+8. The Cat DDO provided a line of contingent financing to support the government’s ongoing efforts to increase
+
+its capacity to absorb potential fiscal impacts from adverse events. The Cat DDO allowed the Government of Nepal
+
+(GoN) to secure prompt access to financing in the event of a natural catastrophe, building a bridge of financing while
+
+funds from other sources were being mobilized. It provided advantageous conditions for contingent financing and
+
+was an incentive for implementing critical policy reforms to strengthen long-term climate and disaster resilience and
+
+health emergency preparedness.
+
+
+
+Original Program Development Objective(s) (PDO) (as approved)
+
+
+
+9. The program development objective of the Cat DDO was to support the government in enhancing its technical
+
+and institutional capacity to manage the risk of climate change and natural disasters including disease outbreaks.
+
+
+
+
+
+
+
+
+
+                                       Official Use Only                                                        Page 2
+
+       The World Bank
+
+       Nepal Development Policy Financing with CAT DDO (P166788)                                            ICR DOCUMENT
+
+
+
+
+
+  Original Policy Areas/Pillars Supported by the Program (as approved)
+
+
+
+  10. The operation was structured around three pillars, with four prior actions, that addressed the identified policy
+
+  gaps (as elaborated in Section II A).
+
+
+
+  •   Pillar A: Improving the climate and disaster risk management institutional and regulatory framework. Policy
+
+      reform under this pillar aimed to enhance the GoN’s institutional and technical capacity for disaster risk
+
+      reduction and management through an enabling regulatory environment that specifies operational procedures
+
+      and institutional roles and responsibilities of the NDRRMA.
+
+  •   Pillar B: Integrating climate and disaster resilience in key sectors. Policy reforms under this pillar supported (i)
+
+      integrating climate change adaptation and mitigation in the development plans, policies, programs and budgets
+
+      of the federal, provincial and local governments towards building a climate resilience society, and (ii) enhancing
+
+      the seismic resilience of the buildings.
+
+  •   Pillar C: Enhancing human health crisis preparedness and response. Policy reforms under the third pillar
+
+      supported the government’s efforts to strengthen health systems to better prepare and respond to pandemics
+
+      and epidemics with defined roles for the different tiers of government to manage disease outbreaks.
+
+
+
+  B. SIGNIFICANT CHANGES DURING IMPLEMENTATION
+
+  11. There were no changes in the Program design (PDO, pillars, and indicators) during the four-and-a-half-year
+
+  implementation period. The operation’s closing date was extended by 18 months from May 30, 2023, to November
+
+  30, 2024 (see paragraph 52).
+
+
+
+   II. ASSESSMENT OF KEY PROGRAM DESIGN AND OUTCOMES
+
+  12. The Nepal Development Policy Financing (DPF) with Cat DDO was the country’s first access to disaster risk
+
+  financing instrument strategically designed to provide access to immediate liquidity during crises while supporting
+
+  critical institutional and regulatory reforms for long-term climate, disaster and health risk management. The design
+
+  of the program was innovative as this was among the first operations in South Asia Region (and globally) to integrate
+
+  disaster and health emergency preparedness in the policy matrix. This was the third instance in South Aisa Region and
+
+  globally, following Maldives and Bhutan Cat DDOs, where the alignment of health and disaster response interventions
+
+  was a central part of the program design from the outset, even before the COVID-19 pandemic, and this feature was
+
+  sustained under the Second Cat DDO.
+
+  13. The DPF with Cat DDO was a single-tranche operation with an initial 3-year drawdown period. The operation
+
+  was approved on March 10, 2020, and was disbursed in full by April 2024.
+
+  14. The policy matrix consisted of three pillars with four prior actions and four result indicators, as summarized in
+
+  Table 1.
+
+                                     Table 1: Cat DDO Prior Actions and Results
+
+
+
+                     Prior Actions                                 Results Indicators             Technical assistance
+
+                                                                                                       provided
+
+PILLAR A: Improving the climate and disaster risk management institutional and
+
+regulatory framework
+
+
+
+
+
+
+
+
+
+                                          Official Use Only                                                        Page 3
+
+        The World Bank
+
+        Nepal Development Policy Financing with CAT DDO (P166788)                                            ICR DOCUMENT
+
+
+
+
+
+Prior Action 1: Approval of the Disaster Risk ReductionResult Indicator 1 (RI1):                  Nepal Earthquake
+
+and Management Regulation, which defines DRRM          National Disaster Risk                     Reconstruction Multi-
+
+operational procedures and institutional roles and     Reduction and Management                   donor Trust Fund:
+
+responsibilities in the country, including the NationalAuthority established and                  The technical assistance
+
+DRRM Authority as mandated by the 2017 DRRM Act.       operational                                under this fund was
+
+                                                       Baseline (2020): No                        focused on (i) Resilient
+
+Legal evidence:                                        Target (2024): Yes                         Infrastructure, (ii)
+
+Disaster Risk Reduction and Management Regulation      Result at closing (2024): Yes              Community
+
+was approved by the Council of Ministers and published National Disaster Risk                     Preparedness, Response
+
+in Gazette on May 6, 2019 – Section 69, Number 4.      Reduction and Management                   and Recovery, (iii)
+
+(http://rajpatra.dop.gov.np/welcome/book/?ref=23669). Authority was established and               Disruptive Technology
+
+                                                       operational. It has its own                Application for Disaster
+
+                                                       office within the Government of            Risk Management
+
+                                                       Nepal’s main administrative                (DRM), and (iv)
+
+                                                       complex, Singhadurbar; it is               Development of a Multi-
+
+                                                       staffed with 38 people (based              hazard Risk Assessment
+
+                                                       on the Organization and                    Framework. The TA
+
+                                                       Management Survey) and                     provided critical
+
+                                                       additional 21 staff seconded by            capacity building
+
+                                                       different organizations to the             support through
+
+                                                       NDRRMA for integrated and                  knowledge exchanges
+
+                                                       coordinated execution of its               and support to
+
+                                                       functions.                                 development of a tool
+
+                                                                                                  for detailed damage
+
+                                                            Assessment: Achieved.                 assessment, and
+
+PILLAR B: Integrating climate and disaster resilience in key sectors                              guidelines for Gender,
+
+                                                                                                  Disability and Social
+
+Prior Action 2: Approval of the National Climate Change       Result Indicator 2 (RI2): Climate   Inclusion in Disaster
+
+Policy 2019 that reflects national and international          Change Coordination                 Risk Management.
+
+commitments made by the Government of Nepal, in line          Committees formed under the         Additionally, the TA
+
+with the country’s federal governance structure, and          Ministries of Industry, Tourism     provided support to
+
+guides sectoral plans to build a resilient society by         and Forest and Environment in       preparation of a
+
+reducing the risk of climate change impacts.                  seven provinces.                    retrofitting manual,
+
+Legal evidence:                                               Baseline (2020): 0                  aligning with the NBC
+
+Updated Climate Change Policy 2019 was approved by            Target (2024): 7                    105:2020.
+
+the Council of Ministers on August 21, 2019.                  Result at closing (2024): 7
+
+http://mofe.gov.np/downloadsdetail/8/2018/36366627/           Provincial Climate Change           GFDRR- Advancing
+
+(first link, published date 2019-09-03).                      Coordination Committees             Reforms toward
+
+                                                              (PC4s) have been formed and         Climate and Disaster
+
+                                                              are operational in all seven        Resilience in Nepal:
+
+                                                              provinces. The PC4s were            The TA supported select
+
+                                                              established to facilitate,          aspects of disaster risk
+
+                                                              communicate, monitor, and           reduction and
+
+                                                              provide strategic guidance on       preparedness
+
+                                                              climate change related              (preparation of a
+
+                                                              interventions and coordinate        National Framework on
+
+                                                              both horizontally and vertically
+
+
+
+                                          Official Use Only                                                         Page 4
+
+        The World Bank
+
+        Nepal Development Policy Financing with CAT DDO (P166788)                                           ICR DOCUMENT
+
+
+
+
+
+                                                             between the federal, provincial,   Multi-hazard Risk
+
+                                                             and local governments on           Assessment), hydromet
+
+                                                             climate change. Among other,       services (Hydromet
+
+                                                             PC4 facilitated the consultative   Master Plan) and
+
+                                                             process at the provincial level    resilient infrastructure
+
+                                                             during the formulation of a        (resilient construction
+
+                                                             National Adaptation Plan and       practices). Additionally,
+
+                                                             the Third Nationally               the TA facilitated
+
+                                                             Determined Contribution.           building capacity of the
+
+                                                                                                key government
+
+                                                             Assessment: Achieved               officials in disaster risk
+
+Prior Action 3: Approval of the updated National Building    Result Indicator 3 (RI3): New      management through
+
+Code 105:2019, Seismic Design of Buildings in Nepal,         Government buildings built that facilitating a knowledge
+
+aimed to enhance seismic resilience of the buildings.        comply with the technical          exchange on integrated
+
+                                                             seismic-resistant criteria of the emergency
+
+Legal evidence:                                              updated Nepal National             management and urban
+
+Nepal National Building Code 105 update was endorsed         Building Code 105.                 search and rescue
+
+by the Building Construction Management and                  Baseline (2020): 0%                capacity.
+
+Improvement Committee on January 1, 2020, as                 Target (2024): 75%
+
+required by the Building Act of Nepal 1998.                  Result at closing (2024): 100%
+
+                                                             50 new government Buildings
+
+                                                             designed and supervised by the
+
+                                                             Department of Urban
+
+                                                             Development and Building
+
+                                                             Construction (DUDBC) have
+
+                                                             complied with the technical
+
+                                                             seismic resilience criteria of the
+
+                                                             updated Nepal National
+
+                                                             Building Code 105 (NBC
+
+                                                             105):2020. As part of rolling out
+
+                                                             the NBC 105:2020 and
+
+                                                             strengthening capacity at all
+
+                                                             levels of government, primarily
+
+                                                             the local governments as their
+
+                                                             mandate includes approvals of
+
+                                                             private buildings, DUDBC has
+
+                                                             prepared an NBC 105:2020
+
+                                                             implementation
+
+                                                             plan.
+
+
+
+                                                        Assessment: Exceeded.
+
+PILLAR C: Enhancing human health crisis preparedness and response
+
+
+
+
+
+
+
+
+
+                                         Official Use Only                                                          Page 5
+
+       The World Bank
+
+       Nepal Development Policy Financing with CAT DDO (P166788)                                             ICR DOCUMENT
+
+
+
+
+
+Prior Action 4: Approval of the National Pandemic             Result Indicator 4 (RI4):
+
+Preparedness and Response Plan (NPPRP), which                 Simulation exercises for
+
+enhances government’s preparedness and response               activation and use of the
+
+capacities for pandemic crisis.                               NPPRP are carried out, while
+
+                                                              also ensuring Essential Health
+
+Legal evidence:                                               Care Services (EHCS) meet the
+
+The National Pandemic Preparedness and Response Plan          direct needs of women and
+
+was approved by the Ministry of Health and Population         issues faced by other
+
+through a letter dated November 26, 2019 (2076.08.10).        vulnerable groups.
+
+                                                              Baseline (2020): 0
+
+                                                              Target (2024): 3
+
+                                                              Result at closing (2024): 5
+
+                                                              The Ministry of Health and
+
+                                                              Population (MoHP) carried out
+
+                                                              five simulation exercises
+
+                                                              ensuring EHCS meet the direct
+
+                                                              needs of women and issues
+
+                                                              faced by other vulnerable
+
+                                                              groups.
+
+
+
+                                                              Assessment: Exceeded.
+
+  A. RELEVANCE OF PRIOR ACTIONS
+
+      Rating: Satisfactory
+
+  15. The relevance of prior actions (PAs) is Satisfactory, with all four PAs demonstrating a clear and direct link to the
+
+  achievement of the PDO. The PDO was clearly articulated, emphasizing the enhancement of the institutional and
+
+  regulatory capacity of the GoN to manage climate and disaster risks and health emergencies. It reflected Nepal’s rapid
+
+  development over the previous two decades, its proactive approach towards adverse natural events and climate
+
+  change, and its commitment to a resilient and sustainable development agenda. The PAs further demonstrate GoN’s
+
+  commitment to policy reform in climate and disaster risk management and health emergency preparedness. These
+
+  reforms were designed to help mitigate both physical and fiscal impacts of such risks, while enhancing Nepal’s
+
+  preparedness and response capacity for large-scale disasters. The PAs built on the national and international priorities
+
+  and initiatives on climate, disaster and health risk management. The policy frameworks such as the Fifteenth Five Year
+
+  Development Plan (2019/20-2023/24), the Disaster Risk Reduction and Management Act of 2017, the National
+
+  Disaster Risk Reduction Policy of 2018, the Disaster Risk Reduction National Strategic Plan of Action for 2018 to 2030,
+
+  the first Nationally Determined Contributions (NDC) of 2016, the Climate Change Policy of 2019, the Climate Change
+
+  Budget Coding practice since 2013, the Nepal Health Sector Strategy for 2015 to 2020, and the experience of disease
+
+  surveillance and Early Warning and Reporting System and the operationalization of Health Emergency Operation
+
+  Center informed the formulation of the PAs. In addition, the selection of prior actions and result indicators was
+
+  informed by the progress in the implementation of the Sendai Framework for Disaster Risk Reduction 2015-2030 and
+
+  its priority area on strengthening disaster risk governance, investing in disaster reduction for resilience, and enhancing
+
+  disaster preparedness for effective response.
+
+
+
+
+
+
+
+
+
+                                          Official Use Only                                                         Page 6
+
+            The World Bank
+
+            Nepal Development Policy Financing with CAT DDO (P166788)                                                             ICR DOCUMENT
+
+
+
+
+
+                                                         Figure 1: Theory of Change
+
+
+
+
+
+
+
+
+
+                                        Table 2: Contributions of the Prior Actions to the PDO
+
+    Prior Actions         Key gaps addressed by Contribution to PDO
+
+                          the PAs
+
+    Pillar A: Improving the climate and disaster risk management institutional and regulatory framework
+
+    PA1: Approval of      Lack of operational       The PA facilitated the establishment and operationalization of the
+
+    the Disaster Risk     procedures,               National Disaster Risk Reduction and Management Authority (NDRRMA)1
+
+    Reduction and         institutional roles and   to coordinate and implement DRRM related functions in the country,
+
+    Management            responsibilities i) of    further elaborating the provisions related to roles and responsibilities of
+
+    Regulation, which NDRRMA, provincial,           NDRRMA, district and local disaster management committees.
+
+    defines DRRM          district and local DRM    Moreover, the policy reform ensured operationalizing the Disaster
+
+
+
+
+
+1NDRRMA was established on December 15, 2019, with an appointment of a first Chief Executive with the decision of the cabinet, seven months
+
+after the approval of the DRRM regulation. Establishment of an Authority was a huge leapfrog in the disaster risk reduction and management in
+
+Nepal with its focus on disaster risk reduction, preparedness, response, reconstruction and recovery. Prior to this, disaster management in Nepal
+
+was guided by the Natural Calamity Relief Act of 1984 that focuses only on response and recovery.
+
+
+
+                                                    Official Use Only                                                                      Page 7
+
+            The World Bank
+
+            Nepal Development Policy Financing with CAT DDO (P166788)                                                                ICR DOCUMENT
+
+
+
+
+
+    operational            Committees; ii) for        Management Fund at the Central, District and Local level through
+
+    procedures and         operationalization of      detailing the provisions related to the types of activities that can be
+
+    institutional roles    the DRRM fund at           funded by the various DRRM funds, and ensuring annual reporting
+
+    and                    federal, provincial and    requirements on expenditure, and external audit requirements.
+
+    responsibilities in    local governments; and Aligning with the provisions of the Act, the PA supported expanding the
+
+    the country,           monitoring and             provisions that addresses different risks and hazards with a multi-
+
+    including the          reporting mechanism        sectoral, community-based, multi-scale approach to DRRM through the
+
+    National DRRM          for the physical and       adoption of different structural arrangements such as councils, executive
+
+    Authority as           fiscal progress related    committees and designated authorities.
+
+    mandated by the        to the implementation
+
+    2017 DRRM Act.         of DRRM activities by
+
+                           provincial and local
+
+                           governments (PLGs).
+
+    Pillar B: Integrating climate and disaster resilience in key sectors
+
+    PA2: Approval of       Outdated/obsolete          This PA consolidated implementation experiences and gaps of the
+
+    the National           policy that did not        previous policy and integrated the nuances of the federal governance
+
+    Climate Change         consider the federal       structure and their role in addressing the climate change impacts,
+
+    Policy 2019 that       governance structure,      including outlining strategies and working policies at the thematic level2.
+
+    reflects national      sectoral issues, and the The PA guides national institutions and their sectoral plans towards
+
+    and international      role of PLGs in climate    building a climate resilient society by reducing the risks of climate change
+
+    commitments            action as well as new      impacts. The policy integrated climate change mitigation and adaptation
+
+    made by the            international climate      into policies and programs of federal, provincial and local governments,
+
+    Government of          commitments.               while also reflecting the international obligations under the Paris Climate
+
+    Nepal, in line with                               Agreement (2015), the 2030 Agenda for Sustainable Development, and
+
+    the country’s                                     the Sendai Framework for Disaster Risk Reduction (2015-2030).
+
+    federal                                           Moreover, the policy guided the establishment of (i) a national council
+
+    governance                                        for Environmental Protection and Climate Change Management, chaired
+
+    structure, and                                    by the Prime Minister that is responsible for guiding and coordinating
+
+    guides sectoral                                   national climate and environmental policies and plans, (ii) an
+
+    plans to build a                                  interministerial climate change coordination committee chaired by the
+
+    resilient society by                              minister of forests and environment, and (iii) climate change
+
+    reducing the risk                                 coordination mechanisms at provincial and local levels. The updated
+
+    of climate change                                 policy also outlined the roles and responsibilities of the federal,
+
+    impacts.                                          provincial and local levels in its implementation, which is a major
+
+                                                      improvement in the updated policy.
+
+    PA3: Approval of       Lack of seismic            Since the formulation of a Nepal NBC in 1994 following the Udayapur
+
+    the updated            resilience and             Earthquake3 of 1988, updating of the NBC was not perceived as a priority
+
+    National Building      structural safety design until the country was severely affected again by the 2015 earthquake
+
+    Code 105:2019,         provisions for             that killed nearly 9,000 people and destroyed over a half a million homes
+
+
+
+
+
+2 The Climate Change Policy 2019 includes the following themes: (i) agriculture and food security; (ii) forest, biodiversity and watershed; (iii) water
+
+resources and energy; (iv) rural and urban settlements; (v) industry, transport and physical infrastructure; (vi) tourism and natural and cultural
+
+heritage; (vii) health, drinking water and sanitation; and (viii) disaster risk reduction and management. The two crosscutting areas include: (i)
+
+gender, social inclusion, livelihood and governance; and (ii) public awareness, education and capacity development. Finally, the two strategies
+
+include: (i) study, research and dissemination; and (ii) climate change finance management.
+
+3 The August 1988 Nepal earthquake occurred near the Indian border and affected much of northern Bihar. The earthquake shook the region killing
+
+
+
+at least 709 persons and injuring thousands.
+
+
+
+                                                     Official Use Only                                                                        Page 8
+
+            The World Bank
+
+            Nepal Development Policy Financing with CAT DDO (P166788)                                                            ICR DOCUMENT
+
+
+
+
+
+    Seismic Design of      buildings, thus        with total damages and losses of approximately US$7 billion 4 . With
+
+    Buildings in Nepal,    exposing building      Nepal’s location in a high seismic active zone, this PA mandated
+
+    aimed to enhance       stocks to seismic      earthquake resilient building design and detailing based on the seismic
+
+    seismic resilience     hazard and risk of     hazard assessment and severity of earthquakes in Nepal. The approval
+
+    of the buildings.      collapse during        and implementation of this PA intend to prevent new buildings from
+
+                           earthquake.            suffering significant structural damage during earthquakes of moderate
+
+                                                  intensities, and a total collapse during high intensity seismic events.
+
+    Pillar C: Enhancing human health crisis preparedness and response
+
+    PA4: Approval of     Lack of clarity on roles Considering the country’s vulnerability to emerging infectious diseases5,
+
+    the National         and responsibilities     this PA was designed to enhance Nepal’s institutional and coordination
+
+    Pandemic             among all tiers of       capacity to respond to health emergencies. The PA defined the roles and
+
+    Preparedness and governments, and lack responsibilities of the three tiers of government and their coordinating
+
+    Response Plan        of a command-and-        mechanism to manage disease outbreak emergencies by establishing
+
+    (NPPRP), which       control mechanism in     command and control mechanisms, risk assessments, surveillance,
+
+    enhances             the federal governance responses to different pandemic phases, communication strategies, the
+
+    government’s         structure to respond to rapid deployment of emergency services including treatment and
+
+    preparedness and health emergencies           prevention of diseases while continuing the essential health care
+
+    response             and disease outbreaks. services. The PA covered six groups of viruses, including influenza, unlike
+
+    capacities for                                the previous plan that only covered influenza viruses. Immediately after
+
+    pandemic crisis.                              the approval of the PA, the country was affected by the COVID-19
+
+                                                  pandemic where the NPPRP guided the response, which was further
+
+                                                  enhanced later through simulation exercises.
+
+      B. ACHIEVEMENT OF OBJECTIVES (EFFICACY)
+
+           Rating: Satisfactory
+
+
+
+      16. Overall, the achievement of objectives (efficacy) is rated as Satisfactory . The operation successfully achieved its
+
+      PDO through the supported PAs and Result Indicators (RI) under the three pillars.
+
+
+
+      17. The results indicators were aligned with the context, provided a rationale, were clearly connected to the PAs
+
+      within the available financial and technical capacity of the GoN’s agencies, and supported progress toward achieving
+
+      the PDO. RI1 and RI2 contributed to establishing and sustaining institutional arrangements for disaster risk reduction
+
+      and management while also providing a coordination mechanism for integrating climate resilience into provincial
+
+      policies, plans and programs. RI3 mandated compliance with the NBC 105:2020 and contributed to building technical
+
+      capacity at federal level. RI4 enhanced institutional and technical capacity for pandemic preparedness and response,
+
+      including coordination capacity during health emergencies.
+
+
+
+      18. While the result indicators were developed to represent practical and quantifiable actions anticipated to be
+
+      achieved within the three-year duration of the operation, some RIs could have been strengthened to measure the
+
+      overall impact of the PAs. For instance, RI2 focused on outputs rather than outcomes; an alternative could have
+
+      measured the functionality of coordination committees through the number of decisions to integrate climate change
+
+      adaptation and mitigation into provincial plans—activities already underway, as evidenced by the involvement of PC4s
+
+
+
+4https://www.worldbank.org/content/dam/Worldbank/document/SAR/nepal/PDNA%20Volume%20A%20Final.pdf
+
+5In recent years, Nepal has experienced several infectious disease outbreaks, including influenza, COVID-19, cholera, diarrhea, dengue and
+
+measles. Influenza causes seasonal outbreaks annually, and in 2019, the country reported a human case of Avian Influenza A/H5N1. Various strains
+
+of Influenza A virus continue to affect poultry. Nepal’s rich biodiversity and increased human-animal interactions provide a conducive environment
+
+for the emergence of pathogens with epidemic or pandemic potential. In 2023, the country also detected its first case of Mpox.
+
+
+
+                                                    Official Use Only                                                                     Page 9
+
+             The World Bank
+
+             Nepal Development Policy Financing with CAT DDO (P166788)                                         ICR DOCUMENT
+
+
+
+
+
+       in finalizing the National Adaptation Plan and NDCs. Similarly, RI3 could have been expanded to include monitoring of
+
+       building code compliance in newly constructed private houses, demonstrating broader progress in seismic resilience.
+
+
+
+       19. The results were confirmed through systematic reporting, ongoing consultations, and virtual missions due to
+
+       COVID pandemic, with the World Bank team delivering substantial technical assistance to facilitate the achievement
+
+       of the operation’s targets. All supporting documentation was provided via Aide Memoires and Implementation Status
+
+       and Results Reports (ISRs). Indicator definitions were explicit and comprehensible to stakeholders during the project
+
+       design phase, and the corresponding targets were precisely established.
+
+
+
+       Pillar A: Improving the climate and disaster risk management institutional and regulatory framework
+
+       Result Indicator 1: National Disaster Risk Reduction and Management Authority established and operational
+
+       Baseline (2020): No | Target (2024): Yes | Result at closing: Yes
+
+
+
+       20. The RI target was achieved. NDRRMA was established and operational, with own office space within the
+
+       Government of Nepal’s main administrative complex (Singhadurbar), with 38 approved staff (based on the
+
+       Organization and Management Survey) and additional 21 staff seconded by different organizations at the NDRRMA for
+
+       better coordination and execution of its functions.
+
+
+
+       21. The establishment of the NDRRMA marks a significant milestone in Nepal’s commitment to disaster resilience.
+
+       This was the first time an authority was instituted to coordinate and manage disasters, which were previously managed
+
+       by the Ministry of Home Affairs and focused primarily on response and recovery. Disaster risk reduction, preparedness,
+
+       response, reconstruction and recovery, were all streamlined and integrated into the disaster risk management
+
+       functions of the NDRRMA aligning with the DRRM Act of 2017 and the first regulation (PA3). The establishment and
+
+       operationalization of NDRRMA have significantly enhanced coordination aspect by implementing a unified command
+
+       system, strengthened local capacities through targeted capacity building initiatives, and brought greater clarity to
+
+       national response and recovery planning compared to the approach taken prior to NDRRMA’s establishment.
+
+
+
+       22. Strategic policymaking was a cornerstone of NDRRMA’s success. In rapid succession following its formation, the
+
+       NDRRMA oversaw the development of 25 key policy frameworks, procedures, strategies, and guidelines, most notably
+
+       the Shock Responsive Social Protection and Relief Distribution Standard. This new standard has streamlined disaster
+
+       relief by leveraging existing social protection systems, enhancing both efficiency and transparency in resource
+
+       distribution at critical times. NDRRMA’s capacity was tested immediately after its establishment with the responsibility
+
+       of assuming the responsibility of the National Reconstruction Authority (NRA) that was leading the Nepal’s largest post-
+
+       disaster housing reconstruction project, the EHRP. NDRRMA also effectively assumed the role of the key focal agency
+
+       for the Cat DDO operation, which enabled the quick mobilization of the Cat DDO resources in response to the floods
+
+       and landslides in 2020 and earthquakes in 2023. Though the World Bank does not monitor the specific use of the
+
+       Cat DDO resources, however, based on the information from NDRRMA, these resources helped replenish the Central
+
+       Disaster Management Fund to support disaster response efforts, including transfers to local and district Disaster
+
+       Management Funds.
+
+
+
+       23. NDRRMA’s impact continues to grow as it strengthens its organizational foundation. A recent Organization and
+
+       Management Survey propose expanding the staff to 68 6 , further reinforcing the NDRRMA capacity to fulfill its
+
+       mandate. NDRRMA has institutionalized the Monsoon Preparedness Plan as an annual, nationwide initiative,
+
+       coordinated disaster management efforts across the country, exemplifying its leadership in disaster risk management.
+
+
+
+
+
+6   NDRRMA submitted a new Organization and Management Survey to the Ministry of Home Affairs for approval.
+
+
+
+                                                   Official Use Only                                                  Page 10
+
+          The World Bank
+
+          Nepal Development Policy Financing with CAT DDO (P166788)                                                        ICR DOCUMENT
+
+
+
+
+
+    This was evident during the 2021 Melamchi flood, the 2022 floods and landslides, the 2023 Jajarkot earthquake, and
+
+    the 2024 and 2025 monsoon-related floods and landslides.
+
+
+
+    Pillar B: Integrating climate and disaster resilience in key sectors
+
+    Result Indicator 2: Number of Climate Change Coordination Committees formed under the Ministries of Industry,
+
+    Tourism, and Forest and Environment in seven provinces.
+
+    Baseline (2020): 0 | Target (2024): 7 | Result at closing: 7
+
+
+
+    24. The RI target was achieved. Provincial Climate Change Coordination Committees (PC4s) were formed and are
+
+    operational in all seven provinces. They facilitate, communicate, monitor, and provide strategic guidance on climate
+
+    change related interventions and coordinate on climate change both horizontally and vertically between the
+
+    provincial, federal and local governments. Representatives from all provincial ministries, the provincial planning
+
+    commissions, the private sector in the provinces, the provincial representatives of the Municipal Association of Nepal
+
+    and the National Association of Rural Municipalities in Nepal, the NGO Federation, the Development Partners working
+
+    in the provinces, and Academia are members of the committee that is chaired by the Secretary of the Provincial
+
+    Ministry of Forests and Environment.7
+
+
+
+    25. PC4s in all provinces engaged extensively in the formulation of a National Adaptation Plan (NAP), Nationally
+
+    Determined Contribution (NDC) and other climate change strategies for Nepal. The NAP formulation process led by
+
+    the Climate Change Management Division at the Federal Ministry of Forests and Environment facilitated the
+
+    establishment of PC4s through providing support to the development of Terms of Reference of the PC4s, as well as
+
+    capacity building of PC4 members in each of the provinces in climate change adaptation planning. Each PC4 was
+
+    engaged extensively during the NAP formulation, NDC revision and the development of a third NDC, preparation of
+
+    climate change-related Gender Equality and Social Inclusion (GESI) Strategy and Action Plan, the Biennial Transparency
+
+    Report, and the draft Measurement, Reporting and Verification Framework. At the provincial level, PC4s were also
+
+    engaged in integrating climate change mitigation and adaptation actions in the provincial programs and budget and
+
+    led the preparation of a Provincial Climate Change Strategy and Action Plan in each of the provinces; however, this
+
+    strategy is yet to be approved by the Provincial Council of Ministers. Lately, the frequent changes of staff and the
+
+    rearrangements of the ministries due to frequent changes of the governments in the provinces 8 , have however
+
+    affected the full operationalization of the PC4s.
+
+
+
+    26. The RI target has been achieved; however, it is largely output oriented. An alternative RI could have been
+
+    measured by functionality of coordination committees through a number of decisions to integrate climate change
+
+    adaptation and mitigation into provincial plans. These activities are already underway, as discussed earlier.
+
+
+
+    Result Indicator 3: New Government buildings built that comply with the technical seismic-resistant criteria of the
+
+    updated Nepal National Building Code 105.
+
+    Baseline (2020): 0% | Target (2024): 75% |Result at closing: 100%
+
+
+
+    27. The RI target was exceeded. All fifty newly constructed government buildings, designed and supervised by the
+
+    DUDBC have complied with the technical seismic-resistant criteria of the updated Nepal NBC 105:2020.
+
+
+
+
+
+
+
+7Name of the ministry have changed quite frequently in the past.
+
+8More than 20 governments were formed in the provinces in the last 2.5 years (https://kathmandupost.com/columns/2024/04/16/revisiting-
+
+provincial-structures)
+
+
+
+                                                 Official Use Only                                                                Page 11
+
+     The World Bank
+
+     Nepal Development Policy Financing with CAT DDO (P166788)                                          ICR DOCUMENT
+
+
+
+
+
+28. The DUDBC has the capacity to continue designing and supervising government buildings and ensuring their
+
+compliance with NBC105:2020 codes. However, significant capacity gaps remain at the local level. Although the
+
+approval of private buildings in Nepal is the responsibility of local governments, as outlined in the 2015 Constitution
+
+of Nepal and the 2017 Local Government Operation Act, these local governments continue to face challenges in fully
+
+implementing the building code. In this context, the RI3 could have been expanded to include the monitoring of
+
+building code compliance in newly constructed private houses, which would have enhanced code compliance,
+
+particularly in the high seismic zones of Nepal. This would have been ideal and relevant as DUDBC prepared an NBC
+
+105:2020 implementation plan with the technical assistance of the World Bank to support rolling out the NBC
+
+105:2020 and building capacity at all levels of government, primarily the local government. At present, the plan is
+
+being rolled out with support from the WB and other development partners, including Japan International
+
+Cooperation Agency (JICA). JICA is supporting the Ministry of Urban Development (MoUD) and DUDBC through the
+
+“Project for Promotion of Nepal National Building Code Compliance for Safer Building Construction”. Moreover, the
+
+WB provided technical support to the DUDBC for its ongoing programs, offering comprehensive feedback on the
+
+Instructor’s Workbook on Masonry Design and helping the department to draft the “Procedure for Technical Analysis
+
+and Design of Masonry Structure as per NBC 105:2020.” Additionally, the technical assistance supported the
+
+preparation of a Retrofitting Manual aligned with NBC 105:2020, supporting effective implementation of the code.
+
+
+
+29. Revision and updating of the codes have become routine activity at the DUDBC, indicating the sustained impact
+
+of the reform supported by the Cat DDO operation. A permanent committee was established at the DUDBC to
+
+facilitate periodic revisions and updates of the NBC. The committee reviewed and updated the NBC 205 (Ready to Use
+
+Detailing Guidelines for Low Rise Reinforced Concrete Buildings Without Masonry Infill) and NBC 206 (Architectural
+
+Design Requirements) which were used as a Prior Action under the subsequent Nepal Disaster Resilience
+
+Development Policy Credit with Cat DDO (NDRC) (P181344).
+
+
+
+Pillar C: Enhancing human health crisis preparedness and response
+
+Result Indicator 4: Simulation exercises on the activation and use of the NPPRP are carried out, while also ensuring
+
+Essential Health Care Services to meet the direct needs of women and issues faced by other vulnerable groups.
+
+Baseline (2020): 0 | Target (2024): 3 | Result at closing: 5
+
+
+
+30. The RI target to carry out simulation exercises ensuring EHCS meets direct needs of women, and issues faced
+
+by other vulnerable groups was exceeded. Until FY2024, the MoHP carried out five simulation exercises at points of
+
+entry along the Nepal-India border. Of these, two exercises were held in FY2022/23 at the ports of entry at Dhangadhi
+
+and Nepalgunj, while the remaining three took place at the ports of entry at Bhairahawa, Biratnagar, and Jaleshowr.
+
+The MoHP allocated budget for the simulation exercises in its annual work plan from FY 2021/22 to FY 2024/25,
+
+enabling the organization of the simulations at the three border locations. The World Health Organization (WHO)
+
+supported simulation exercises at the two other sites.
+
+
+
+31. Immediately after the preparation and approval of the NPPRP, the country engaged its response to the COVID-
+
+19 pandemic under the guidance of NPPRP. The MoHP prepared the COVID-19-focused health system preparedness
+
+and response plan, which was largely informed by the strategies outlined in the NPPRP. Moreover, the Ministry
+
+developed a rolling four-monthly rapid action plan for the COVID-19 response, detailing the projected requirements
+
+for test kits, equipment, and Personal Protective Equipment over the next four months.
+
+
+
+32. The COVID-19 pandemic health plans incorporated EHCS, particularly those aimed at women, children and
+
+other vulnerable populations. The Interim Guidance for Reproductive, Maternal, Neo-natal, and Child Health services
+
+during the COVID-19 pandemic was introduced and implemented to ensure the continuity of essential health services,
+
+
+
+
+
+                                       Official Use Only                                                       Page 12
+
+           The World Bank
+
+           Nepal Development Policy Financing with CAT DDO (P166788)                                                             ICR DOCUMENT
+
+
+
+
+
+     especially for women and children, and people with disabilities, during COVID-19 response. In addition, MoHP
+
+     continued to implement risk communication and community engagement strategies targeting vulnerable population,
+
+     e.g., pregnant and lactating women, newborns, children and adolescents, the elderly and people with disabilities, to
+
+     inform and encourage EHCS uptake. As a result, EHCS availability and utilization were less impacted during the third
+
+     wave of the pandemic compared with the two earlier waves.
+
+
+
+     33. Reflecting on the lessons learned from the COVID-19 pandemic and to integrate disease surveillance and extend
+
+     the scope to capture other emerging communicable diseases such as Monkeypox and the Marburg Virus, the MoHP
+
+     is currently reviewing and working towards updating the NPPRP. The revision of NPPRP is expected to be completed
+
+     by December 2025 and is aligned with global frameworks, including the International Health Regulations (2005) and
+
+     the Pandemic Agreement (2025). The updated NPPRP is expected to address emerging health risks, national priorities
+
+     and incorporate approaches such as Preparedness and Resilience to Emerging Threats (PRET) initiative led by World
+
+     Health Organization. In parallel, the MoHP is preparing a Provincial Level Health Emergency Preparedness and
+
+     Response Plan (PHEPRP). Five provinces (Bagmati, Gandaki, Madhesh, Koshi and Sudurpaschim) have already prepared
+
+     the PHEPRP, whereas two provinces (Karnali and Lumbini) are yet to approve the plan. Once the NPPRP is updated,
+
+     MoHP plans to initiate simulation, with dedicated budget allocation in its annual workplan to sustain the reforms
+
+     initiated under the Cat DDO.
+
+
+
+     Drawdown of Cat DDO
+
+     34. The Cat DDO resources were drawn down twice and were mobilized swiftly to respond to the impacts of floods
+
+     and landslides in 2020, and earthquakes in 2023.
+
+
+
+     35. First drawdown of the Cat DDO resources. During the 2020 monsoon (June to September), Nepal experienced
+
+     unprecedented rainfall leading to 494 incidents of flashfloods and landslides, causing over 365 deaths, 100 missing
+
+     persons, and 325 injuries. The preliminary losses and damages were estimated at US$100 million. In response, the
+
+     government declared disaster areas9 in Sindhupalchowk10 and Baglung11 districts for period between September 22
+
+     to October 16, 2020, and requested a US$25 million Cat DDO withdrawal on September 27, 2020. The World Bank
+
+     confirmed that the drawdown condition was met and communicated the acceptance of evidence furnished on
+
+     September 30, 2020. The Ministry of Finance (MoF) submitted a withdrawal application for the approved amount on
+
+     October 2, 2020, and it was processed and disbursed on the same day.
+
+
+
+     36. Following the first drawdown, the country was impacted by various disasters (flash floods and landslides), and
+
+     even a state of disaster emergency 12 was declared for the monsoon-related disasters in Manang and
+
+     Sindhupalchowk district on July 26, 2021. However, a disbursement request was not presented to the Bank, as the
+
+     government preferred to use its own domestic resources to respond to the disaster.
+
+
+
+     37. Second drawdown of the Cat DDO resources. On April 2, 2024, the MoF requested the World Bank to disburse
+
+     the remaining funds from the Cat DDO to support its response to the impacts of the Jajarkot earthquake.13 This request
+
+     was based on the Government of Nepal Council of Ministers’ decision on February 26, 2024, which declared nine local
+
+     levels as disaster-affected by the earthquake, as published in the national gazette on March 18, 2024. Immediately
+
+
+
+9 http://rajpatra.dop.gov.np/welcome/book/?ref=24243
+
+10 https://myrepublica.nagariknetwork.com/news/sindhupalchowk-devastated-by-landslides-and-floods/?categoryId=blog
+
+11 https://kathmandupost.com/gandaki-province/2020/09/03/overnight-flood-landslides-in-baglung-claim-eight-lives-13-still-missing
+
+12 http://rajpatra.dop.gov.np/welcome/book/?ref=24649
+
+13 A devastating earthquake of 5.7 magnitude struck Jajarkot, Karnali Province, Nepal on November 3, 2023, killing 154 people and injuring 364
+
+
+
+people, and damaging large number of private houses and public infrastructure. https://ndrrma.gov.np/np/report/127
+
+
+
+                                                    Official Use Only                                                                    Page 13
+
+          The World Bank
+
+          Nepal Development Policy Financing with CAT DDO (P166788)                                                       ICR DOCUMENT
+
+
+
+
+
+     after the disaster, the government used its domestic resources to respond to the earthquake impacts. However, given
+
+     the scale of devastation—with preliminary damage and needs assessment estimating around US$518 million 14
+
+     required for post-earthquake reconstruction and recovery (excluding the construction of temporary shelters, for
+
+     which the government had allocated approximately US$370 per affected household) the Government requested the
+
+     withdrawal of the Cat DDO balance to address the fiscal gap to address the recovery needs. The withdrawal request
+
+     was assessed and approved by the Bank, and the funds were disbursed on April 12, 2024, within 6 hours of withdrawal
+
+     application.
+
+
+
+     38. In 2020, Nepal and the WB signed a fast-track US$29 million, COVID-19 Emergency Response and Health
+
+     Systems Preparedness Project 15 (Nepal COVID-19 project). The Nepal COVID-19 project was prepared under the
+
+     COVID-19 Strategic Preparedness and Response Program using the Multiphase Programmatic Approach to help Nepal
+
+     prevent, detect, and respond to the COVID-19 pandemic, and to strengthen its public health preparedness. This
+
+     project complemented the Cat DDO by operationalizing a part of the NPPRP, by improving government organizational
+
+     structures, promoting adherence to the International Health Regulations, and rolling out community engagement and
+
+     risk communication.
+
+
+
+     C. OVERALL OUTCOME RATING AND JUSTIFICATION
+
+         Rating: Satisfactory
+
+
+
+     39. The overall outcome of this operation is rated Satisfactory. The PAs had a strong and direct link to the Cat DDO’s
+
+     objectives and were aligned with the Government’s priorities. The targets of the RIs were achieved earlier than the
+
+     target year, with two RIs exceeding their targets. Technical assistance provided by the WB (see Table 2) supported the
+
+     implementation of the policy reforms and subsequently the achievement of the targets of the RIs. The operation
+
+     enabled the implementation of critical policy reforms to enhance the technical and institutional capacity of the Nepal
+
+     government to manage climate and disaster risks, including disease outbreaks. Moreover, the Cat DDO provided an
+
+     efficient and immediate liquidity during the disaster emergency and thus was crucial for Nepal’s capacity to respond
+
+     to disaster emergencies. The Cat DDO provided advantageous conditions for contingent financing and was an
+
+     incentive that pushed forward critical policy reforms for long-term climate and disaster risk management, including
+
+     disease outbreaks, as well as for a subsequent Cat DDO operation.
+
+
+
+     40. The operation provided an avenue to engage in a dialogue with the Government of Nepal to roll out the Bank’s
+
+     Crisis Preparedness and Response Toolkit (CPRT). The continuous policy dialogue with the Government led to
+
+     adoption of the Rapid Response Option (RRO). Nepal was a first country in South Asia to do so.
+
+
+
+     III. OTHER OUTCOMES AND IMPACTS
+
+
+
+     A. POVERTY, GENDER AND SOCIAL IMPACTS
+
+
+
+     41. The operation is expected to have long-term positive impacts on poverty reduction and shared prosperity by
+
+     strengthening resilience to disasters, climate change, and health emergencies that disproportionately affect the poor,
+
+
+
+14 https://www.undp.org/sites/g/files/zskgke326/files/2024-
+
+04/Karnali%20Earthquake%202024_KTM_20240422_d2_EXT.pdf#:~:text=The%20Government%20of%20Nepal%20together%20with%20developm
+
+ent,the%20Bajhang%202023%2C%20the%20Jajarkot%202023%20earthquakes
+
+15 The concept review for this operation was held on March 26, 2020, financing for the operation was negotiated on March 30, 2020, and was
+
+
+
+approved on April 3, 2020. https://opswork.worldbank.org/home/P173760
+
+
+
+                                                 Official Use Only                                                               Page 14
+
+           The World Bank
+
+           Nepal Development Policy Financing with CAT DDO (P166788)                                                              ICR DOCUMENT
+
+
+
+
+
+     women, and other vulnerable groups. The operation enhanced institutional and technical capacity on climate and
+
+     disaster risk management, improved public awareness and relief distribution, promoted climate resilience and safer
+
+     building practices, and guided pandemic preparedness and response through NPPRP. Together, these reforms
+
+     increased the country’s capacity to respond quickly to shocks, safeguard critical services, and protect vulnerable
+
+     households from falling deeper into poverty.
+
+
+
+     42. PA1 enabled the formulation of standard operating procedures for disaster fund management, including
+
+     guidelines such as the Gender Equality, Disasbility and Social Inclusion Strategy and the Action Plan for Disaster Risk
+
+     Management, and the Shock Responsive Social Protection and Relief Distribution Standard, which addressed the
+
+     needs of poor, women, children, the elderly, persons with disabilities, and other vulnerable groups. PA2 supported
+
+     the mainstreaming of GESI in climate change through the formulation of a GESI Strategy and Action Plan, prioritization
+
+     in the National Adaptation Plan, and integration into the Second and Third NDCs. PA3 strengthened seismic resilience
+
+     by mandating code compliance for all building typologies, benefiting the entire population. PA4 enhanced pandemic
+
+     preparedness and response capacity encompassing the Essential Health Care Services (ECHS)16, integrating gender
+
+     and vulnerability considerations through simulation exercises and incorporation into COVID-19 health plans, such as
+
+     guidance on Interim Guidance for Reproductive, Maternal, Neo-natal, and Child Health services to ensure continuity
+
+     of essential health services. The MoHP also advanced risk communication and community engagement targeting
+
+     vulnerable groups, e.g., pregnant and lactating women, newborns, children and adolescents, the elderly and people
+
+     with disabilities, to inform and encourage EHCS uptake. As a result, EHCS availability and utilization were less impacted
+
+     during the third wave of the pandemic compared with the two earlier waves. The activation of the Cat DDO ensured
+
+     rapid financial resources to address urgent needs during disaster emergencies.
+
+
+
+     B. ENVIRONMENTAL, FORESTS, AND NATURAL RESOURCE ASPECTS
+
+
+
+     43. The operation had an indirect positive impact on the environment in Nepal. PA 1 supported the enactment of
+
+     the DRM regulation. This included the establishment of NDRRMA to better mitigate damage to the environment and
+
+     natural resources during all types of disasters. For example, an Expert Committee was established to guide relevant
+
+     agencies at the federal, provincial and local levels in effectively implementing disaster risk reduction, disaster
+
+     preparedness, and recovery and reconstruction activities, while ensuring economic and social development as well as
+
+     environmental protection. PA2 prioritized the conservation of wetland and biodiversity, the development of a climate
+
+     resilient ecosystem, the protection of the environment and natural resources, and building the adaptation capacity of
+
+     local communities to take ownership of their natural resources and to manage them in a sustainable manner.
+
+
+
+     C. INSTITUTIONAL CHANGE/STRENGTHENING
+
+
+
+     44. The operation strengthened technical and institutional capacity by incentivizing critical reforms in climate and
+
+     disaster risk management, as well as health emergency preparedness and response planning. The technical support
+
+     (as highlighted in Table 1) linked with the operation helped build the technical capacity of the NDRRMA through
+
+     knowledge exchange on integrated emergency management and urban search and rescue capacity, and support for
+
+     developing a detailed damage assessment tool, preparing a Multi-hazard Risk Assessment, and formulating Gender,
+
+     Disability and Social Inclusion in Disaster Risk Management guidelines. Additionally, the technical assistance supported
+
+     the preparation of a retrofitting manual aligning with NBC 105:2020 to support implementation of the code. DUDBC
+
+     also established a permanent committee to facilitate NBC revision and periodic updates, which led to updating of NBC
+
+     205 (Ready to Use Detailing Guideline for Low Rise Reinforced Concrete Buildings Without Masonry Infill) and NBC
+
+
+
+16Essential Health Care Services is a package that includes priority reproductive and maternal health (including for cases of gender-based violence)
+
+and child health.
+
+
+
+
+
+                                                    Official Use Only                                                                     Page 15
+
+           The World Bank
+
+           Nepal Development Policy Financing with CAT DDO (P166788)                                                          ICR DOCUMENT
+
+
+
+
+
+     206 (Architectural Design Requirements); these were considered as prior actions under the new Cat DDO. Regular
+
+     discussions and meetings during Bank implementation support missions facilitated the sharing and review of ongoing
+
+     activities and progress towards achievement of the RI targets and the PDO. The stakeholders emphasized that the
+
+     package of technical assistance and capacity building, including through knowledge exchanges, played a key role in
+
+     achieving results and further strengthening long-term disaster resilience.
+
+
+
+     D. OTHER UNINTENDED OUTCOMES AND IMPACTS
+
+
+
+     45. The operation fostered continued dialogue with key stakeholders regarding the improvement and compliance
+
+     of building codes, which resulted in technical assistance being provided to the DUDBC by the development partners.
+
+     In 2021, JICA initiated a project—Promotion of Nepal National Building Code Compliance for Safer Building
+
+     Construction—for the effective roll out of the NBC105:2020 at the local level. Key activities included expanding and
+
+     strengthening the electronic Building Permit System, as well as building the capacity of local engineers in
+
+     implementing the code and the working procedures. Guidelines were also developed to implement the NBC 105 in
+
+     pilot municipalities in Kathmandu valley.
+
+
+
+     46. The Cat DDO contributed to strengthening technical capacities to implement NBCs, including NBC 105. The
+
+     Nepal Engineering Association, together with DUDBC, and the engineering associations rolled out training programs
+
+     in all the provinces for local government officials and engineers. Moreover, metropolitan cities of Kathmandu and
+
+     Lalitpur integrated NBC 105 provisions in the Building Permit System.
+
+     IV. BANK PERFORMANCE
+
+         Rating: Satisfactory
+
+     Design
+
+
+
+     47. The preparation of the operation involved a close collaboration with the GoN, which helped to ensure the
+
+     operation’s alignment with the GoN’s priorities and initiatives. This alignment supported efforts to advance climate
+
+     and disaster risk management, as well as health emergency preparedness. While the operation was led by the
+
+     Climate Change and Disaster Risk Management and Health team of the Bank, the Policy matrix was developed in close
+
+     collaboration with the lead ministries/agencies17 and various other Global Practice at the World Bank. Selection of the
+
+     PAs was complemented by the ongoing and planned DRM interventions including the EHRP, the First Programmatic
+
+     Fiscal and Public Financial Management Development Policy Credit (2018) that considered approval of the 2017
+
+     Disaster Risk Reduction and Management Act as one of its PAs, and the Finance for Growth DPC with a PA on Disaster
+
+     Risk Financing Strategy.
+
+
+
+     48. The PAs were highly relevant and based on analytical underpinnings and lessons learned from Cat DDOs in other
+
+     countries. Moreover, the selection of PAs was pragmatic, reflecting the client’s priorities and long-term commitment
+
+     towards building climate and disaster resilient societies and strengthening the health system, improving access to
+
+     quality care, and achieving better health outcomes.18 PA1 under Pillar A and PA4 under Pillar C were based on the
+
+     United Nations’ Sendai Framework for Disaster Risk Reduction 2015-2030, and the WHO’s Strategic Framework for
+
+     Emergency Preparedness. The design of this operation also built on the conclusion of analytical work, including the
+
+     Independent Evaluation Group (IEG) report ‘Hazards of Nature, Risks to Development: An Evaluation of World Bank
+
+
+
+17 PA 1 was led by the NDRRMA under the Ministry of Home Affairs, PA2 was led by the Ministry of Forests and Environment, PA3 was led by the
+
+DUDBC at the Ministry of Urban Development and PA4 was led by the Epidemiology and Disease Control Division at the Department of Health
+
+Services under the Ministry of Health and Population
+
+18 https://npc.gov.np/content/4550/4550-15th-plan-fy-207677-208081/
+
+
+
+
+
+
+
+                                                  Official Use Only                                                                   Page 16
+
+           The World Bank
+
+           Nepal Development Policy Financing with CAT DDO (P166788)                                                           ICR DOCUMENT
+
+
+
+
+
+     Assistance for Natural Disasters’19, ‘Natural Hazards, UnNatural Disasters – The Economics of Effective Prevention’20,
+
+     the ‘Sendai Report’21, and ‘Financial Protection against Natural Disasters’22.
+
+
+
+     49. At preparation, the Bank team identified the risks appropriately and included adequate mitigation measures in
+
+     the Program Document. The overall risk for the operation was rated as substantial, with political and governance,
+
+     institutional capacity, and fiduciary risks assessed as substantial. However, these risks were mitigated through
+
+     continuous consultations with key stakeholders, and lead ministries/agencies responsible for respective PAs, as well
+
+     as by providing technical assistance to support the implementation of DRM policy reforms. Efforts to strengthen Public
+
+     Finance Management were supported through frequent procurement and financial management clinics, in
+
+     complementing clinics in other ongoing projects in Nepal.
+
+
+
+     50. Minor shortcomings during preparation are noted. While the PAs are highly relevant and based on strong
+
+     analytical underpinnings, some RIs could have been streamlined and designed in a clearer manner to assess outcomes
+
+     as progress toward achieving the PDO. RI2 is output oriented. An alternative indicator could have been designed to
+
+     measure the outcome, i.e., the climate change adaptation and mitigation measures integrated into the provincial
+
+     development plans and programs and budgeted as per the coordination committees’ decisions This could give a better
+
+     indication of the functionality of the committees. For example,23, PC4s were involved in the finalization of the NAP,
+
+     the NDCs, and other climate strategies. Similarly, RI3 could have been expanded to monitor code compliance at the
+
+     newly constructed private houses at the local level, in addition to public buildings.
+
+     Implementation
+
+     51. The Bank conducted six implementation support missions to assess progress on results. The Aide Memoires and
+
+     ISRs captured the progress achieved, the delays faced, and the agreed actions to help streamline efforts toward
+
+     achieving the targets of the RIs and the PDO. Management Letters served as a means of communication with GoN,
+
+     acknowledging notable progress while also highlighting key priorities and agreed actions necessary for achieving
+
+     certain RIs, and the need to expedite progress before Program closure.
+
+     52. The GoN requested a second Cat DDO operation, along with 18-month extension of this initial Cat DDO
+
+     operation, to ensure continued access to the contingent financing before the subsequent operation became
+
+     effective. This allowed the World Bank to review and draw lessons from the ongoing Cat DDO, integrate them into
+
+     the new one, while supporting the implementation. The WB worked closely with the government to develop a new
+
+     Cat DDO operation before the closure of this operation, while also facilitating the final disbursement of contingent
+
+     financing to respond to the disaster emergency following the Jajarkot Earthquake in November 2023.
+
+     53. Based on the above, Bank performance is rated Satisfactory. The Bank maintained an active and supportive role
+
+     throughout the preparation and implementation phases of the program. By collaborating closely with the government
+
+     and providing necessary implementation support, the Bank contributed significantly to the program’s overall success.
+
+
+
+     V.   RISK TO SUSTAINABILITY OF DEVELOPMENT OUTCOMES
+
+     54. The sustainability of development outcomes remains at risk due to persistent institutional capacity and
+
+     coordination challenges, particularly as the country continues its transition to federalism. While the operation
+
+
+
+
+
+19 Hazards of Nature, Risks to Development: An IEG Evaluation of World Bank Assistance for Natural Disasters. 2006. World Bank Independent
+
+Evaluation Group, World Bank, Washington, DC.
+
+20 Natural Hazards, UnNatural Disasters ‐ The Economics of Effective Prevention. 2010 WB and UN.
+
+21 The Sendai Report: Managing Disaster Risks for a Resilient Future. 2012. World Bank.
+
+22 Financial Protection against Natural Disasters: An Operational Framework for Disaster Risk Financing and Insurance. 2014. World Bank.
+
+23 Based on the consultations with the PC4 members in Lumbini Province
+
+
+
+
+
+
+
+                                                   Official Use Only                                                                  Page 17
+
+           The World Bank
+
+           Nepal Development Policy Financing with CAT DDO (P166788)                                                               ICR DOCUMENT
+
+
+
+
+
+     supported the establishment and operationalization of the NDRRMA, this young institution—now led by its second
+
+     Chief Executive, appointed six months ago following the full tenure of the first—requires additional support to
+
+     enhance its technical, operational, and financial capacity, especially given Nepal’s high vulnerability to climate and
+
+     disaster risks. Furthermore, frequent rotations of government staff, including technical personnel, pose a significant
+
+     risk to the effective functioning of the institution. However, the subsequent Cat DDO (NDRC), with PAs on expanding
+
+     early warning generation and dissemination, revising and updating building codes, and enhancing the compliance
+
+     through electronic building permit systems, provides critical support to sustain reforms and ensure the continuity of
+
+     their operation. The changes of staff and reorganization of the ministries due to frequent changes of the governments
+
+     in the provinces may affect the full operationalization of the PC4s.
+
+     55. The NPRRP is being updated in line with lessons learned, global frameworks, and evolving approaches. The
+
+     implementation of the reforms related to the NPPRP was tested immediately after its approval in response to the
+
+     COVID-19 pandemic. With lessons captured during the COVID-19 response, the NPPRP is currently under revision to
+
+     align with global frameworks, including the Pandemic Agreement (2025)24, and incorporates approaches such as the
+
+     Preparedness and Resilience for Emerging Threats (PRET) initiative25.
+
+
+
+     VI. LESSONS AND NEXT PHASE
+
+
+
+     A.    LESSONS LEARNED
+
+
+
+     56. Nepal’s Cat DDO proved its dual value as an immediate liquidity backstop and a reform anchor in a high disaster
+
+     risk environment. It enabled a rapid drawdown of US$25million after severe monsoon-triggered catastrophic floods
+
+     and landslides in 2020, and subsequent drawdown of US$25million after the Jajarkot earthquake in 2023. This ensured
+
+     immediate liquidity to address the post-disaster needs while simultaneously locking in policy and institutional reforms
+
+     through i) operationalizing the National Disaster Risk Reduction and Management Authority, ii) mainstreaming climate
+
+     action through provincial coordination committees, iii) mandating seismic-resilient construction via the updated Nepal
+
+     National Building Code (NBC 105) with full compliance for government buildings and iv) strengthened health
+
+     emergency preparedness that was tested during COVID-19 and through targeted simulations at points of entry. The
+
+     lessons learned from this operation informed the subsequent Cat DDO development.
+
+
+
+     57. Strong government ownership and alignment with national priorities are critical for ensuring the sustainability
+
+     of reforms. The reforms targeted in this operation became embedded in the country’s disaster risk management and
+
+     health agendas, which secured high level political buy-in and facilitated smoother implementation despite capacity and
+
+     resource constraints. For example, implementation of NBC 105 was constrained by a lack of resources and capacity;
+
+     however, the DUDBC was able to enforce seismic provisions in newly built public buildings, indicating the broader
+
+     ownership of the reforms and their importance for long-term disaster resilience.
+
+
+
+     58. Integrating the Cat DDO into a broader DRM program and complementing it with targeted technical assistance
+
+     can significantly enhance its effectiveness. The operation benefitted greatly from WB’s prior engagement in DRM
+
+     specifically the EHRP and Nepal Earthquake Multi-donor Trust Fund supported activities. The success of this Cat DDO
+
+
+
+24 The WHO Pandemic Agreement was adopted by 124 countries at the 78th World Health Assembly in May 2025, establishing a legally binding
+
+framework to enhance global preparedness, prevention, and response to future pandemics to ensure equitable access to resources and information.
+
+25 The PRET initiative by the WHO, is an innovative approach to improving disease pandemic preparedness. It recognizes that the same systems,
+
+
+
+capacities, knowledge, and tools can be leveraged and applied for groups of pathogens based on their mode of transmission (respiratory, vector-
+
+borne, foodborne etc.). PRET incorporates the latest tools and approaches for shared learning and collective action established during the COVID-19
+
+pandemic and other recent public health emergencies. It places the principles of equity, inclusivity, and coherence at the forefront. PRET provides a
+
+platform for national, regional and global stakeholders to collaborate to strengthen preparedness.
+
+
+
+                                                    Official Use Only                                                                      Page 18
+
+     The World Bank
+
+     Nepal Development Policy Financing with CAT DDO (P166788)                                            ICR DOCUMENT
+
+
+
+
+
+was reinforced by technical assistance programs that strengthened the capacity of line ministries and agencies to
+
+implement reforms. For example, technical assistance supported the preparation of an NBC 105 implementation plan
+
+and the development of a Training-of-Trainers curriculum for engineers to facilitate nationwide roll-out. It also
+
+strengthened the operational capacity of NDRRMA, enabling it to manage complex DRM functions, including the
+
+application of a detailed damage assessment developed through the TA. The TA also supported NDRRMA’s capacity in
+
+developing a national framework for multi-hazard risk assessment which will outline a consistent approach to the risk
+
+assessment in Nepal. Collectively, these measures illustrate that complementary technical assistance can deepen client
+
+engagement, build institutional capacity, and enhance the impact of Cat DDO-supported reforms.
+
+
+
+59. Effective inter-agency coordination, led by the Ministry of Finance, the lead agency for DPFs in Nepal, is
+
+imperative for advancing the Cat DDO’s policy reforms and achievement of RI targets. A frequently noted issue that
+
+came through during discussions with the various government agencies responsible for relevant PAs of the Cat DDO
+
+was that the Ministry of Finance needs to exercise its convening and coordination abilities to build a better
+
+understanding of the Development Policy Financing (and Cat DDO) instrument and facilitate a smooth implementation
+
+of policy reforms. Establishing a coordination committee and holding regular meetings would facilitate monitoring of
+
+prior actions and results indicators, while also supporting information sharing and identifying implementation
+
+challenges. Frequent changes in the focal people at the PA lead agencies (and at MoF as well) showed that it is critical
+
+to build an institutional understanding and ownership of the Cat DDO among relevant agencies to sustain momentum
+
+and ensure successful outcomes, for which an operational coordination committee would be of great help.
+
+
+
+60. A programmatic approach to the development of Cat DDO can consolidate gains, deepen sectoral reforms, and
+
+maintain access to contingent financing in high-risk contexts. Sustaining the relatively nascent DRM program in the
+
+country requires continuous access to contingent financing instruments, particularly given the evident and likely
+
+disaster risks facing the country. The subsequent Cat DDO was prepared and approved before the closure of this
+
+operation, which ensured uninterrupted access to critical contingent financing for responding to the September 2024
+
+floods and landslides. This approach enabled Nepal to avoid any gap in access to liquidity in the aftermath of significant
+
+natural disasters.
+
+
+
+B. NEXT PHASE
+
+
+
+61. Recognizing the country’s significant fiscal exposure to disasters, the GoN requested a second Cat DDO
+
+operation along with an eighteen-month extension of the ongoing Cat DDO, to ensure uninterrupted access to
+
+contingent financing until the new operation became effective. The Bank worked collaboratively with the
+
+Government to develop the new operation, while facilitating the final disbursement of contingent financing to
+
+respond to the disaster emergency caused by the Jajarkot Earthquake in November 2023. The subsequent new Cat
+
+DDO built upon the achievements of this operation and continued to fill the policy gaps.
+
+
+
+
+
+
+
+
+
+                                        Official Use Only                                                        Page 19
+
+                                                                                                                                           ICR DOCUMENT
+
+
+
+
+
+
+
+
+
+                                                               ANNEX 1. RESULTS FRAMEWORK
+
+
+
+@#&OPS~Doctype~OPS^dynamics@icrdpfresultframework#doctemplate
+
+A. RESULTS FRAMEWORK
+
+
+
+
+
+Indicators by Pillars
+
+
+
+Pillar A: Improving the climate and disaster risk management institutional and regulatory framework
+
+                                                         Baseline                        Closing Period (Current)         Actual Achieved at Completion
+
+           Indicator Name
+
+                                                 Value              Month/Year           Value               Date              Value           Month/Year
+
+                                        No                             Jan/2020   Yes                      Nov/2024    Yes                      Nov/2024
+
+                                          Comments on achieving targets           The National Disaster Risk Reduction and Management Authority
+
+National Disaster Risk Reduction and                                              established and operational from its own office space within the
+
+Management Authority established                                                  Government of Nepal’s main administrative complex -Singhadurbar with
+
+and operational: (Yes/No)                                                         38 approved staff based on the Organization and Management Survey and
+
+                                                                                  additional 21 staffs seconded by different organizations at the NDRRMA
+
+                                                                                  for seamless execution of its functions.
+
+
+
+Pillar B: Integrating climate and disaster resilience in key sectors
+
+                                                         Baseline                        Closing Period (Current)         Actual Achieved at Completion
+
+           Indicator Name
+
+                                                 Value              Month/Year           Value               Date              Value           Month/Year
+
+
+
+Number of CC Coordination               0.00                           Jan/2020   7.00                     Nov/2024    7.00                     Nov/2024
+
+Committees formed under the               Comments on achieving targets           Provincial Climate Change Coordination Committees (PC4) have been
+
+ministries of: Industry, Tourism, and                                             formed and operational in all seven provinces. PC4 were established to
+
+Forest and Environment in seven                                                   facilitate, communicate, monitor, and provide strategic guidance on
+
+provinces (Number)                                                                climate change related interventions and coordinate both horizontally and
+
+
+
+
+
+                                                                                                                                                       Page 20
+
+
+
+
+
+                                                                                                                                                  Official Use Only
+
+                                                                                                                                             ICR DOCUMENT
+
+
+
+
+
+
+
+                                                                                 vertically between the provincial, federal and local governments on
+
+                                                                                 climate change. Among other, PC4 facilitated the consultative process at
+
+                                                                                 the provincial level during the formulation of a National Adaptation Plan
+
+                                                                                 and the Third Nationally Determined Contribution.
+
+
+
+                                          0.00                       Jan/2020    75.00                     Nov/2024     100.00                     Nov/2024
+
+                                           Comments on achieving targets         50 new government Buildings designed and supervised by the Department
+
+New Government buildings built that
+
+                                                                                 of Urban Development and Building Construction (DUDBC) have complied
+
+comply with the technical seismic-                                               with the technical seismic-resistant criteria of the updated Nepal National
+
+resistant criteria of the updated Nepal                                          Building Code 105 (NBC 105):2020. As part of rolling out the NBC 105:2020
+
+National Building Code 105                                                       and building capacity at all levels of government, primarily the local
+
+(Percentage)                                                                     governments as they are mandated for the approval of the private
+
+                                                                                 buildings, DUDBC has prepared an NBC 105:2020 implementation
+
+                                                                                 plan.
+
+
+
+Pillar C: Enhancing human health crisis preparedness and response
+
+                                                         Baseline                        Closing Period (Current)          Actual Achieved at Completion
+
+           Indicator Name
+
+                                                 Value              Month/Year           Value               Date               Value           Month/Year
+
+
+
+Simulation exercises on activation/use    0.00                       Jan/2020    3.00                      Nov/2024     5.00                       Nov/2024
+
+of NPPRP; ensuring Essential Health        Comments on achieving targets         The Ministry of Health and Population (MoHP) carried out five simulation
+
+Care Services (EHCS) to meet the                                                 exercises ensuring EHCS to meet the direct needs of women and issues
+
+direct needs of women and other                                                  faced by other vulnerable groups.
+
+vulnerable groups (Number)
+
+
+
+
+
+
+
+
+
+                                                                                                                                                         Page 21
+
+
+
+
+
+                                                                                                                                                    Official Use Only
+
+         The World Bank
+
+         Nepal Development Policy Financing with CAT DDO (P166788)                                         ICR DOCUMENT
+
+
+
+
+
+
+
+ANNEX 2. BANK LENDING AND IMPLEMENTATION SUPPORT/SUPERVISION
+
+
+
+
+
+
+
+    A. TASK TEAM MEMBERS
+
+
+
+
+
+  Name                                                      Role
+
+  Iguniwari Thomas Ekeu-Wei                                 Team Leader
+
+  Bishwa Raj Basaula                                        Financial Management Specialist
+
+  Shambhu Prasad Uprety                                     Procurement Specialist
+
+  Annu Rajbhandari                                          Environmental Specialist
+
+  Jaya Sharma                                               Social Specialist
+
+  Raadhika Gupta                                            Counsel
+
+  Carina Fonseca Ferreira                                   Team Member
+
+  Mamata Ghimire                                            Team Member
+
+  Jolanta Kryspin-Watson                                    Team Member
+
+  Rajagopala Raghavan                                       Team Member
+
+  Sujata Bhandari                                           Team Member
+
+  Basanta Paudel                                            Team Member
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@icrannexstafftime#doctemplate
+
+    B. STAFF TIME & COST
+
+
+
+
+
+                                                                           Staff Time & Cost
+
+ Stage of Project Cycle
+
+                                       No. of Staff Weeks                      US$ (including travel and consultant costs)
+
+
+
+ Preparation
+
+ FY19                                                          34.880                                        177,859.98
+
+
+
+ FY20                                                          58.308                                        268,514.29
+
+
+
+ FY24                                                              1.842                                       17,775.87
+
+
+
+ Total                                                             95.03                                     464,150.14
+
+
+
+ Supervision/ICR
+
+
+
+
+
+
+
+                                                                                                                     Page 22
+
+
+
+
+
+                                                                                                              Official Use Only
+
+        The World Bank
+
+        Nepal Development Policy Financing with CAT DDO (P166788)    ICR DOCUMENT
+
+
+
+
+
+FY21                                                       17.539     124,079.72
+
+
+
+FY22                                                       25.788     140,084.00
+
+
+
+FY23                                                       24.576     133,026.17
+
+
+
+FY24                                                       86.278     989,143.36
+
+
+
+FY25                                                       49.616     611,379.42
+
+
+
+FY26                                                         0.476    -154,818.31
+
+
+
+Total                                                       204.27   1,842,894.36
+
+
+
+
+
+
+
+
+
+                                                                              Page 23
+
+
+
+
+
+                                                                       Official Use Only
+
+        The World Bank
+
+        Nepal Development Policy Financing with CAT DDO (P166788)                   ICR DOCUMENT
+
+
+
+
+
+
+
+ANNEX 3. BORROWER, CO-FINANCIERS, AND OTHER DEVELOPMENT PARTNERS’/STAKEHOLDERS’ COMMENTS
+
+The borrower reviewed the ICR and conveyed that they do not have any comments.
+
+
+
+
+
+ANNEX 4. SUPPORTING DOCUMENTS
+
+
+
+
+
+
+
+
+
+                                                                                             Page 24
+
+
+
+
+
+                                                                                      Official Use Only
+
+

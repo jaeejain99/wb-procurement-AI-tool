@@ -1,0 +1,1084 @@
+step_ref,stage_order,stage,stage_label,kind,date,x,project_id,plan_doc_id
+RW-RBC-491290-CW-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2026-02-05,517,P504764,PLAN_P504764_40130427
+RW-RBC-491290-CW-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2026-02-10,559,P504764,PLAN_P504764_40130427
+RW-RBC-491290-CW-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2026-03-24,643,P504764,PLAN_P504764_40130427
+RW-RBC-491290-CW-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2026-05-28,685,P504764,PLAN_P504764_40130427
+RW-RBC-491290-CW-RFB,7,signed,Signed Contract,planned,2026-07-02,727,P504764,PLAN_P504764_40130427
+RW-RBC-491292-CW-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2026-02-02,517,P504764,PLAN_P504764_40130427
+RW-RBC-491292-CW-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2026-02-07,559,P504764,PLAN_P504764_40130427
+RW-RBC-491292-CW-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2026-03-21,643,P504764,PLAN_P504764_40130427
+RW-RBC-491292-CW-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2026-05-16,685,P504764,PLAN_P504764_40130427
+RW-RBC-491292-CW-RFB,7,signed,Signed Contract,planned,2026-06-20,727,P504764,PLAN_P504764_40130427
+RW-RBC-491295-CW-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2025-11-05,517,P504764,PLAN_P504764_40130427
+RW-RBC-491295-CW-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2025-11-10,559,P504764,PLAN_P504764_40130427
+RW-RBC-491295-CW-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2025-12-22,643,P504764,PLAN_P504764_40130427
+RW-RBC-491295-CW-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2026-01-21,685,P504764,PLAN_P504764_40130427
+RW-RBC-491295-CW-RFB,7,signed,Signed Contract,planned,2026-02-25,727,P504764,PLAN_P504764_40130427
+RW-RBC-491296-CW-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2025-10-03,517,P504764,PLAN_P504764_40130427
+RW-RBC-491296-CW-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2025-10-08,559,P504764,PLAN_P504764_40130427
+RW-RBC-491296-CW-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2025-11-19,643,P504764,PLAN_P504764_40130427
+RW-RBC-491296-CW-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2025-12-19,685,P504764,PLAN_P504764_40130427
+RW-RBC-491296-CW-RFB,7,signed,Signed Contract,planned,2026-01-23,727,P504764,PLAN_P504764_40130427
+RW-RBC-491293-CW-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2026-06-26,517,P504764,PLAN_P504764_40130427
+RW-RBC-491293-CW-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2026-07-01,559,P504764,PLAN_P504764_40130427
+RW-RBC-491293-CW-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2026-08-15,643,P504764,PLAN_P504764_40130427
+RW-RBC-491293-CW-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2026-10-28,685,P504764,PLAN_P504764_40130427
+RW-RBC-491293-CW-RFB,7,signed,Signed Contract,planned,2026-12-02,727,P504764,PLAN_P504764_40130427
+RW-RBC-569446-CW-RFQ,3,notice,Specific Procurement Notice / Invitation,planned,2026-09-14,559,P504764,PLAN_P504764_40130427
+RW-RBC-569446-CW-RFQ,7,signed,Signed Contract,planned,2026-11-16,727,P504764,PLAN_P504764_40130427
+RW-RBC-491259-GO-RFQ,3,notice,Specific Procurement Notice / Invitation,planned,2027-03-12,517,P504764,PLAN_P504764_40130427
+RW-RBC-491259-GO-RFQ,7,signed,Signed Contract,planned,2027-05-07,685,P504764,PLAN_P504764_40130427
+RW-RBC-491259-GO-RFQ,8,completion,Contract Completion,planned,2027-11-03,727,P504764,PLAN_P504764_40130427
+RW-RBC-491261-GO-RFQ,3,notice,Specific Procurement Notice / Invitation,planned,2026-05-30,517,P504764,PLAN_P504764_40130427
+RW-RBC-491261-GO-RFQ,7,signed,Signed Contract,planned,2026-07-25,685,P504764,PLAN_P504764_40130427
+RW-RBC-491261-GO-RFQ,8,completion,Contract Completion,planned,2026-11-22,727,P504764,PLAN_P504764_40130427
+RW-RBC-491263-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2027-09-10,475,P504764,PLAN_P504764_40130427
+RW-RBC-491263-GO-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2027-09-15,517,P504764,PLAN_P504764_40130427
+RW-RBC-491263-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2027-10-27,601,P504764,PLAN_P504764_40130427
+RW-RBC-491263-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2027-12-31,643,P504764,PLAN_P504764_40130427
+RW-RBC-491263-GO-RFB,7,signed,Signed Contract,planned,2028-01-28,685,P504764,PLAN_P504764_40130427
+RW-RBC-491263-GO-RFB,8,completion,Contract Completion,planned,2029-01-27,727,P504764,PLAN_P504764_40130427
+RW-RBC-491264-GO-RFQ,3,notice,Specific Procurement Notice / Invitation,planned,2025-06-24,517,P504764,PLAN_P504764_40130427
+RW-RBC-491264-GO-RFQ,7,signed,Signed Contract,planned,2025-07-25,685,P504764,PLAN_P504764_40130427
+RW-RBC-491264-GO-RFQ,8,completion,Contract Completion,planned,2025-11-22,727,P504764,PLAN_P504764_40130427
+RW-RBC-491265-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2025-06-29,475,P504764,PLAN_P504764_40130427
+RW-RBC-491265-GO-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2025-07-04,517,P504764,PLAN_P504764_40130427
+RW-RBC-491265-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2025-08-15,601,P504764,PLAN_P504764_40130427
+RW-RBC-491265-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2025-09-05,643,P504764,PLAN_P504764_40130427
+RW-RBC-491265-GO-RFB,7,signed,Signed Contract,planned,2025-10-10,685,P504764,PLAN_P504764_40130427
+RW-RBC-491265-GO-RFB,8,completion,Contract Completion,planned,2026-02-07,727,P504764,PLAN_P504764_40130427
+RW-RBC-491266-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2025-06-22,475,P504764,PLAN_P504764_40130427
+RW-RBC-491266-GO-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2025-06-27,517,P504764,PLAN_P504764_40130427
+RW-RBC-491266-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2025-08-08,601,P504764,PLAN_P504764_40130427
+RW-RBC-491266-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2025-08-29,643,P504764,PLAN_P504764_40130427
+RW-RBC-491266-GO-RFB,7,signed,Signed Contract,planned,2025-10-03,685,P504764,PLAN_P504764_40130427
+RW-RBC-491266-GO-RFB,8,completion,Contract Completion,planned,2026-01-31,727,P504764,PLAN_P504764_40130427
+RW-RBC-491267-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2025-06-26,475,P504764,PLAN_P504764_40130427
+RW-RBC-491267-GO-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2025-07-01,517,P504764,PLAN_P504764_40130427
+RW-RBC-491267-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2025-08-12,601,P504764,PLAN_P504764_40130427
+RW-RBC-491267-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2025-09-02,643,P504764,PLAN_P504764_40130427
+RW-RBC-491267-GO-RFB,7,signed,Signed Contract,planned,2025-09-30,685,P504764,PLAN_P504764_40130427
+RW-RBC-491267-GO-RFB,8,completion,Contract Completion,planned,2026-01-28,727,P504764,PLAN_P504764_40130427
+RW-RBC-491268-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2025-07-04,475,P504764,PLAN_P504764_40130427
+RW-RBC-491268-GO-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2025-07-09,517,P504764,PLAN_P504764_40130427
+RW-RBC-491268-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2025-08-20,601,P504764,PLAN_P504764_40130427
+RW-RBC-491268-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2025-09-10,643,P504764,PLAN_P504764_40130427
+RW-RBC-491268-GO-RFB,7,signed,Signed Contract,planned,2025-10-08,685,P504764,PLAN_P504764_40130427
+RW-RBC-491268-GO-RFB,8,completion,Contract Completion,planned,2026-03-07,727,P504764,PLAN_P504764_40130427
+RW-RBC-491269-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2025-06-30,475,P504764,PLAN_P504764_40130427
+RW-RBC-491269-GO-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2025-07-05,517,P504764,PLAN_P504764_40130427
+RW-RBC-491269-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2025-08-16,601,P504764,PLAN_P504764_40130427
+RW-RBC-491269-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2025-09-06,643,P504764,PLAN_P504764_40130427
+RW-RBC-491269-GO-RFB,7,signed,Signed Contract,planned,2025-10-04,685,P504764,PLAN_P504764_40130427
+RW-RBC-491269-GO-RFB,8,completion,Contract Completion,planned,2026-03-03,727,P504764,PLAN_P504764_40130427
+RW-RBC-491272-GO-RFQ,3,notice,Specific Procurement Notice / Invitation,planned,2025-08-15,517,P504764,PLAN_P504764_40130427
+RW-RBC-491272-GO-RFQ,7,signed,Signed Contract,planned,2025-09-19,685,P504764,PLAN_P504764_40130427
+RW-RBC-491272-GO-RFQ,8,completion,Contract Completion,planned,2025-12-18,727,P504764,PLAN_P504764_40130427
+RW-RBC-491273-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2025-06-30,475,P504764,PLAN_P504764_40130427
+RW-RBC-491273-GO-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2025-07-05,517,P504764,PLAN_P504764_40130427
+RW-RBC-491273-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2025-08-16,601,P504764,PLAN_P504764_40130427
+RW-RBC-491273-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2025-09-06,643,P504764,PLAN_P504764_40130427
+RW-RBC-491273-GO-RFB,7,signed,Signed Contract,planned,2025-10-04,685,P504764,PLAN_P504764_40130427
+RW-RBC-491273-GO-RFB,8,completion,Contract Completion,planned,2026-03-03,727,P504764,PLAN_P504764_40130427
+RW-RBC-491275-GO-RFQ,3,notice,Specific Procurement Notice / Invitation,planned,2025-07-09,517,P504764,PLAN_P504764_40130427
+RW-RBC-491275-GO-RFQ,7,signed,Signed Contract,planned,2025-08-13,685,P504764,PLAN_P504764_40130427
+RW-RBC-491275-GO-RFQ,8,completion,Contract Completion,planned,2025-12-11,727,P504764,PLAN_P504764_40130427
+RW-RBC-491279-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2025-07-04,475,P504764,PLAN_P504764_40130427
+RW-RBC-491279-GO-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2025-07-09,517,P504764,PLAN_P504764_40130427
+RW-RBC-491279-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2025-08-20,601,P504764,PLAN_P504764_40130427
+RW-RBC-491279-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2025-11-02,643,P504764,PLAN_P504764_40130427
+RW-RBC-491279-GO-RFB,7,signed,Signed Contract,planned,2025-12-07,685,P504764,PLAN_P504764_40130427
+RW-RBC-491279-GO-RFB,8,completion,Contract Completion,planned,2026-05-06,727,P504764,PLAN_P504764_40130427
+RW-RBC-491280-GO-RFB,0,prequal_docs,Draft Pre-qualification Documents,planned,2025-07-06,390,P504764,PLAN_P504764_40130427
+RW-RBC-491280-GO-RFB,1,prequal_eval,Prequalification Evalu ation Report,planned,2025-09-21,432,P504764,PLAN_P504764_40130427
+RW-RBC-491280-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2025-09-21,475,P504764,PLAN_P504764_40130427
+RW-RBC-491280-GO-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2025-07-11,517,P504764,PLAN_P504764_40130427
+RW-RBC-491280-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2025-11-30,601,P504764,PLAN_P504764_40130427
+RW-RBC-491280-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2026-02-03,643,P504764,PLAN_P504764_40130427
+RW-RBC-491280-GO-RFB,7,signed,Signed Contract,planned,2026-03-10,685,P504764,PLAN_P504764_40130427
+RW-RBC-491280-GO-RFB,8,completion,Contract Completion,planned,2026-08-07,727,P504764,PLAN_P504764_40130427
+RW-RBC-491282-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2025-11-04,475,P504764,PLAN_P504764_40130427
+RW-RBC-491282-GO-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2025-11-09,517,P504764,PLAN_P504764_40130427
+RW-RBC-491282-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2025-12-21,601,P504764,PLAN_P504764_40130427
+RW-RBC-491282-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2026-01-11,643,P504764,PLAN_P504764_40130427
+RW-RBC-491282-GO-RFB,7,signed,Signed Contract,planned,2026-02-15,685,P504764,PLAN_P504764_40130427
+RW-RBC-491282-GO-RFB,8,completion,Contract Completion,planned,2026-07-15,727,P504764,PLAN_P504764_40130427
+RW-RBC-491283-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2025-09-04,475,P504764,PLAN_P504764_40130427
+RW-RBC-491283-GO-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2025-09-09,517,P504764,PLAN_P504764_40130427
+RW-RBC-491283-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2025-10-21,601,P504764,PLAN_P504764_40130427
+RW-RBC-491283-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2025-12-06,643,P504764,PLAN_P504764_40130427
+RW-RBC-491283-GO-RFB,7,signed,Signed Contract,planned,2026-01-03,685,P504764,PLAN_P504764_40130427
+RW-RBC-491283-GO-RFB,8,completion,Contract Completion,planned,2026-06-02,727,P504764,PLAN_P504764_40130427
+RW-RBC-491287-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2025-07-28,475,P504764,PLAN_P504764_40130427
+RW-RBC-491287-GO-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2025-08-02,517,P504764,PLAN_P504764_40130427
+RW-RBC-491287-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2025-09-13,601,P504764,PLAN_P504764_40130427
+RW-RBC-491287-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2025-10-04,643,P504764,PLAN_P504764_40130427
+RW-RBC-491287-GO-RFB,7,signed,Signed Contract,planned,2025-11-08,685,P504764,PLAN_P504764_40130427
+RW-RBC-491287-GO-RFB,8,completion,Contract Completion,planned,2026-04-07,727,P504764,PLAN_P504764_40130427
+RW-RBC-491288-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2025-07-25,475,P504764,PLAN_P504764_40130427
+RW-RBC-491288-GO-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2025-07-30,517,P504764,PLAN_P504764_40130427
+RW-RBC-491288-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2025-09-10,601,P504764,PLAN_P504764_40130427
+RW-RBC-491288-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2025-10-01,643,P504764,PLAN_P504764_40130427
+RW-RBC-491288-GO-RFB,7,signed,Signed Contract,planned,2025-10-29,685,P504764,PLAN_P504764_40130427
+RW-RBC-491288-GO-RFB,8,completion,Contract Completion,planned,2026-03-28,727,P504764,PLAN_P504764_40130427
+RW-RBC-491289-GO-RFQ,3,notice,Specific Procurement Notice / Invitation,planned,2025-08-29,517,P504764,PLAN_P504764_40130427
+RW-RBC-491289-GO-RFQ,7,signed,Signed Contract,planned,2025-10-03,685,P504764,PLAN_P504764_40130427
+RW-RBC-491289-GO-RFQ,8,completion,Contract Completion,planned,2026-01-01,727,P504764,PLAN_P504764_40130427
+RW-RBC-491258-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2027-01-03,475,P504764,PLAN_P504764_40130427
+RW-RBC-491258-GO-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2027-01-08,517,P504764,PLAN_P504764_40130427
+RW-RBC-491258-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2027-02-22,601,P504764,PLAN_P504764_40130427
+RW-RBC-491258-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2027-03-15,643,P504764,PLAN_P504764_40130427
+RW-RBC-491258-GO-RFB,7,signed,Signed Contract,planned,2027-04-19,685,P504764,PLAN_P504764_40130427
+RW-RBC-491258-GO-RFB,8,completion,Contract Completion,planned,2027-10-16,727,P504764,PLAN_P504764_40130427
+RW-RBC-490921-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2027-02-01,475,P504764,PLAN_P504764_40130427
+RW-RBC-490921-GO-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2027-02-06,517,P504764,PLAN_P504764_40130427
+RW-RBC-490921-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2027-03-28,601,P504764,PLAN_P504764_40130427
+RW-RBC-490921-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2027-04-18,643,P504764,PLAN_P504764_40130427
+RW-RBC-490921-GO-RFB,7,signed,Signed Contract,planned,2027-05-23,685,P504764,PLAN_P504764_40130427
+RW-RBC-490921-GO-RFB,8,completion,Contract Completion,planned,2028-11-13,727,P504764,PLAN_P504764_40130427
+RW-RBC-549626-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2026-05-08,475,P504764,PLAN_P504764_40130427
+RW-RBC-549626-GO-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2026-05-13,517,P504764,PLAN_P504764_40130427
+RW-RBC-549626-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2026-06-24,601,P504764,PLAN_P504764_40130427
+RW-RBC-549626-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2026-08-28,643,P504764,PLAN_P504764_40130427
+RW-RBC-549626-GO-RFB,7,signed,Signed Contract,planned,2026-10-02,685,P504764,PLAN_P504764_40130427
+RW-RBC-549626-GO-RFB,8,completion,Contract Completion,planned,2027-03-31,727,P504764,PLAN_P504764_40130427
+RW-RBC-491281-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2028-03-15,475,P504764,PLAN_P504764_40130427
+RW-RBC-491281-GO-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2028-03-18,517,P504764,PLAN_P504764_40130427
+RW-RBC-491281-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2028-04-19,601,P504764,PLAN_P504764_40130427
+RW-RBC-491281-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2028-05-10,643,P504764,PLAN_P504764_40130427
+RW-RBC-491281-GO-RFB,7,signed,Signed Contract,planned,2028-06-14,685,P504764,PLAN_P504764_40130427
+RW-RBC-491281-GO-RFB,8,completion,Contract Completion,planned,2028-10-12,727,P504764,PLAN_P504764_40130427
+RW-RBC-549631-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2026-05-14,475,P504764,PLAN_P504764_40130427
+RW-RBC-549631-GO-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2026-05-19,517,P504764,PLAN_P504764_40130427
+RW-RBC-549631-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2026-06-30,601,P504764,PLAN_P504764_40130427
+RW-RBC-549631-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2026-09-12,643,P504764,PLAN_P504764_40130427
+RW-RBC-549631-GO-RFB,7,signed,Signed Contract,planned,2026-10-17,685,P504764,PLAN_P504764_40130427
+RW-RBC-549631-GO-RFB,8,completion,Contract Completion,planned,2027-04-15,727,P504764,PLAN_P504764_40130427
+RW-RBC-549633-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2026-06-12,475,P504764,PLAN_P504764_40130427
+RW-RBC-549633-GO-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2026-06-17,517,P504764,PLAN_P504764_40130427
+RW-RBC-549633-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2026-07-29,601,P504764,PLAN_P504764_40130427
+RW-RBC-549633-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2026-10-11,643,P504764,PLAN_P504764_40130427
+RW-RBC-549633-GO-RFB,7,signed,Signed Contract,planned,2026-11-15,685,P504764,PLAN_P504764_40130427
+RW-RBC-549633-GO-RFB,8,completion,Contract Completion,planned,2027-05-14,727,P504764,PLAN_P504764_40130427
+RW-RBC-491286-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2026-11-12,475,P504764,PLAN_P504764_40130427
+RW-RBC-491286-GO-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2026-11-17,517,P504764,PLAN_P504764_40130427
+RW-RBC-491286-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2026-12-19,601,P504764,PLAN_P504764_40130427
+RW-RBC-491286-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2027-01-09,643,P504764,PLAN_P504764_40130427
+RW-RBC-491286-GO-RFB,7,signed,Signed Contract,planned,2027-02-13,685,P504764,PLAN_P504764_40130427
+RW-RBC-491286-GO-RFB,8,completion,Contract Completion,planned,2027-07-13,727,P504764,PLAN_P504764_40130427
+RW-RBC-491284-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2026-12-11,475,P504764,PLAN_P504764_40130427
+RW-RBC-491284-GO-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2026-12-16,517,P504764,PLAN_P504764_40130427
+RW-RBC-491284-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2027-01-20,601,P504764,PLAN_P504764_40130427
+RW-RBC-491284-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2027-02-10,643,P504764,PLAN_P504764_40130427
+RW-RBC-491284-GO-RFB,7,signed,Signed Contract,planned,2027-03-17,685,P504764,PLAN_P504764_40130427
+RW-RBC-491284-GO-RFB,8,completion,Contract Completion,planned,2027-07-15,727,P504764,PLAN_P504764_40130427
+RW-RBC-569461-GO-RFQ,3,notice,Specific Procurement Notice / Invitation,planned,2026-09-18,517,P504764,PLAN_P504764_40130427
+RW-RBC-569461-GO-RFQ,7,signed,Signed Contract,planned,2026-11-06,685,P504764,PLAN_P504764_40130427
+RW-RBC-569461-GO-RFQ,8,completion,Contract Completion,planned,2027-08-17,727,P504764,PLAN_P504764_40130427
+RW-RBC-569470-GO-RFQ,3,notice,Specific Procurement Notice / Invitation,planned,2026-09-19,517,P504764,PLAN_P504764_40130427
+RW-RBC-569470-GO-RFQ,7,signed,Signed Contract,planned,2026-11-04,685,P504764,PLAN_P504764_40130427
+RW-RBC-569470-GO-RFQ,8,completion,Contract Completion,planned,2027-03-24,727,P504764,PLAN_P504764_40130427
+RW-RBC-569477-GO-RFQ,3,notice,Specific Procurement Notice / Invitation,planned,2026-09-25,517,P504764,PLAN_P504764_40130427
+RW-RBC-569477-GO-RFQ,7,signed,Signed Contract,planned,2026-11-25,685,P504764,PLAN_P504764_40130427
+RW-RBC-569477-GO-RFQ,8,completion,Contract Completion,planned,2027-04-16,727,P504764,PLAN_P504764_40130427
+RW-RBC-566608-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2026-10-02,475,P504764,PLAN_P504764_40130427
+RW-RBC-566608-GO-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2026-10-08,517,P504764,PLAN_P504764_40130427
+RW-RBC-566608-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2026-12-11,601,P504764,PLAN_P504764_40130427
+RW-RBC-566608-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2027-03-10,643,P504764,PLAN_P504764_40130427
+RW-RBC-566608-GO-RFB,7,signed,Signed Contract,planned,2027-05-04,685,P504764,PLAN_P504764_40130427
+RW-RBC-566608-GO-RFB,8,completion,Contract Completion,planned,2027-11-04,727,P504764,PLAN_P504764_40130427
+RW-RBC-566615-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2026-10-04,475,P504764,PLAN_P504764_40130427
+RW-RBC-566615-GO-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2026-10-07,517,P504764,PLAN_P504764_40130427
+RW-RBC-566615-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2026-11-24,601,P504764,PLAN_P504764_40130427
+RW-RBC-566615-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2026-12-30,643,P504764,PLAN_P504764_40130427
+RW-RBC-566615-GO-RFB,7,signed,Signed Contract,planned,2027-02-23,685,P504764,PLAN_P504764_40130427
+RW-RBC-566615-GO-RFB,8,completion,Contract Completion,planned,2027-08-26,727,P504764,PLAN_P504764_40130427
+RW-RBC-566628-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2026-10-04,475,P504764,PLAN_P504764_40130427
+RW-RBC-566628-GO-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2026-10-09,517,P504764,PLAN_P504764_40130427
+RW-RBC-566628-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2026-11-30,601,P504764,PLAN_P504764_40130427
+RW-RBC-566628-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2027-01-05,643,P504764,PLAN_P504764_40130427
+RW-RBC-566628-GO-RFB,7,signed,Signed Contract,planned,2027-02-25,685,P504764,PLAN_P504764_40130427
+RW-RBC-566628-GO-RFB,8,completion,Contract Completion,planned,2027-08-31,727,P504764,PLAN_P504764_40130427
+RW-RBC-566640-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2026-10-09,475,P504764,PLAN_P504764_40130427
+RW-RBC-566640-GO-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2026-10-19,517,P504764,PLAN_P504764_40130427
+RW-RBC-566640-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2026-12-03,601,P504764,PLAN_P504764_40130427
+RW-RBC-566640-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2027-01-08,643,P504764,PLAN_P504764_40130427
+RW-RBC-566640-GO-RFB,7,signed,Signed Contract,planned,2027-03-02,685,P504764,PLAN_P504764_40130427
+RW-RBC-566640-GO-RFB,8,completion,Contract Completion,planned,2027-09-03,727,P504764,PLAN_P504764_40130427
+RW-RBC-566644-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2026-10-09,475,P504764,PLAN_P504764_40130427
+RW-RBC-566644-GO-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2026-10-14,517,P504764,PLAN_P504764_40130427
+RW-RBC-566644-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2026-11-13,601,P504764,PLAN_P504764_40130427
+RW-RBC-566644-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2026-12-04,643,P504764,PLAN_P504764_40130427
+RW-RBC-566644-GO-RFB,7,signed,Signed Contract,planned,2027-01-08,685,P504764,PLAN_P504764_40130427
+RW-RBC-566644-GO-RFB,8,completion,Contract Completion,planned,2027-05-08,727,P504764,PLAN_P504764_40130427
+RW-RBC-571692-GO-RFQ,3,notice,Specific Procurement Notice / Invitation,planned,2026-10-19,517,P504764,PLAN_P504764_40130427
+RW-RBC-571692-GO-RFQ,7,signed,Signed Contract,planned,2027-01-15,685,P504764,PLAN_P504764_40130427
+RW-RBC-571692-GO-RFQ,8,completion,Contract Completion,planned,2027-07-21,727,P504764,PLAN_P504764_40130427
+RW-RBC-574977-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2026-10-11,475,P504764,PLAN_P504764_40130427
+RW-RBC-574977-GO-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2026-10-19,517,P504764,PLAN_P504764_40130427
+RW-RBC-574977-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2026-12-03,601,P504764,PLAN_P504764_40130427
+RW-RBC-574977-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2026-12-07,643,P504764,PLAN_P504764_40130427
+RW-RBC-574977-GO-RFB,7,signed,Signed Contract,planned,2027-02-02,685,P504764,PLAN_P504764_40130427
+RW-RBC-574977-GO-RFB,8,completion,Contract Completion,planned,2027-08-06,727,P504764,PLAN_P504764_40130427
+RW-RBC-574985-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2026-10-18,475,P504764,PLAN_P504764_40130427
+RW-RBC-574985-GO-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2026-10-23,517,P504764,PLAN_P504764_40130427
+RW-RBC-574985-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2026-11-22,601,P504764,PLAN_P504764_40130427
+RW-RBC-574985-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2026-12-13,643,P504764,PLAN_P504764_40130427
+RW-RBC-574985-GO-RFB,7,signed,Signed Contract,planned,2027-01-20,685,P504764,PLAN_P504764_40130427
+RW-RBC-574985-GO-RFB,8,completion,Contract Completion,planned,2027-07-23,727,P504764,PLAN_P504764_40130427
+RW-RBC-574987-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2026-10-18,475,P504764,PLAN_P504764_40130427
+RW-RBC-574987-GO-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2026-10-23,517,P504764,PLAN_P504764_40130427
+RW-RBC-574987-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2026-12-09,601,P504764,PLAN_P504764_40130427
+RW-RBC-574987-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2027-01-14,643,P504764,PLAN_P504764_40130427
+RW-RBC-574987-GO-RFB,7,signed,Signed Contract,planned,2027-02-25,685,P504764,PLAN_P504764_40130427
+RW-RBC-574987-GO-RFB,8,completion,Contract Completion,planned,2027-06-25,727,P504764,PLAN_P504764_40130427
+RW-RBC-574994-GO-RFQ,3,notice,Specific Procurement Notice / Invitation,planned,2026-10-22,517,P504764,PLAN_P504764_40130427
+RW-RBC-574994-GO-RFQ,7,signed,Signed Contract,planned,2026-12-29,685,P504764,PLAN_P504764_40130427
+RW-RBC-574994-GO-RFQ,8,completion,Contract Completion,planned,2027-07-06,727,P504764,PLAN_P504764_40130427
+RW-RBC-574998-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2026-10-20,475,P504764,PLAN_P504764_40130427
+RW-RBC-574998-GO-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2026-10-23,517,P504764,PLAN_P504764_40130427
+RW-RBC-574998-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2026-12-09,601,P504764,PLAN_P504764_40130427
+RW-RBC-574998-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2027-01-14,643,P504764,PLAN_P504764_40130427
+RW-RBC-574998-GO-RFB,7,signed,Signed Contract,planned,2027-02-25,685,P504764,PLAN_P504764_40130427
+RW-RBC-574998-GO-RFB,8,completion,Contract Completion,planned,2027-08-31,727,P504764,PLAN_P504764_40130427
+RW-RBC-575000-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2026-10-20,475,P504764,PLAN_P504764_40130427
+RW-RBC-575000-GO-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2026-10-25,517,P504764,PLAN_P504764_40130427
+RW-RBC-575000-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2026-11-24,601,P504764,PLAN_P504764_40130427
+RW-RBC-575000-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2026-12-15,643,P504764,PLAN_P504764_40130427
+RW-RBC-575000-GO-RFB,7,signed,Signed Contract,planned,2027-01-12,685,P504764,PLAN_P504764_40130427
+RW-RBC-575000-GO-RFB,8,completion,Contract Completion,planned,2027-05-12,727,P504764,PLAN_P504764_40130427
+RW-RBC-491375-CS-QCBS,0,tor,Terms of Reference,planned,2027-06-01,368,P504764,PLAN_P504764_40130427
+RW-RBC-491375-CS-QCBS,1,eoi_notice,Expression of Interest Notice,planned,2027-06-22,411,P504764,PLAN_P504764_40130427
+RW-RBC-491375-CS-QCBS,2,shortlist,Short List and Draft R equest for Proposals,planned,2027-08-05,453,P504764,PLAN_P504764_40130427
+RW-RBC-491375-CS-QCBS,4,tech_opening,Opening of Technical Proposals / Minutes,planned,2027-09-02,538,P504764,PLAN_P504764_40130427
+RW-RBC-491375-CS-QCBS,5,tech_eval,Evaluation of Technic al Proposal,planned,2027-10-02,580,P504764,PLAN_P504764_40130427
+RW-RBC-491375-CS-QCBS,6,combined_eval,Combined Evaluation Report and Draft Neg otiated Contract,planned,2027-11-06,622,P504764,PLAN_P504764_40130427
+RW-RBC-491375-CS-QCBS,7,signed,Signed Contract,planned,2027-12-11,664,P504764,PLAN_P504764_40130427
+RW-RBC-491375-CS-QCBS,8,completion,Contract Completion,planned,2028-12-10,706,P504764,PLAN_P504764_40130427
+RW-RBC-491392-CS-QCBS,0,tor,Terms of Reference,planned,2027-05-09,368,P504764,PLAN_P504764_40130427
+RW-RBC-491392-CS-QCBS,1,eoi_notice,Expression of Interest Notice,planned,2027-05-30,411,P504764,PLAN_P504764_40130427
+RW-RBC-491392-CS-QCBS,2,shortlist,Short List and Draft R equest for Proposals,planned,2027-07-04,453,P504764,PLAN_P504764_40130427
+RW-RBC-491392-CS-QCBS,4,tech_opening,Opening of Technical Proposals / Minutes,planned,2027-08-01,538,P504764,PLAN_P504764_40130427
+RW-RBC-491392-CS-QCBS,5,tech_eval,Evaluation of Technic al Proposal,planned,2027-08-31,580,P504764,PLAN_P504764_40130427
+RW-RBC-491392-CS-QCBS,6,combined_eval,Combined Evaluation Report and Draft Neg otiated Contract,planned,2027-10-05,622,P504764,PLAN_P504764_40130427
+RW-RBC-491392-CS-QCBS,7,signed,Signed Contract,planned,2027-11-09,664,P504764,PLAN_P504764_40130427
+RW-RBC-491392-CS-QCBS,8,completion,Contract Completion,planned,2028-11-08,706,P504764,PLAN_P504764_40130427
+RW-RBC-491394-CS-QCBS,0,tor,Terms of Reference,planned,2025-09-05,368,P504764,PLAN_P504764_40130427
+RW-RBC-491394-CS-QCBS,1,eoi_notice,Expression of Interest Notice,planned,2025-09-26,411,P504764,PLAN_P504764_40130427
+RW-RBC-491394-CS-QCBS,2,shortlist,Short List and Draft R equest for Proposals,planned,2025-10-31,453,P504764,PLAN_P504764_40130427
+RW-RBC-491394-CS-QCBS,4,tech_opening,Opening of Technical Proposals / Minutes,planned,2025-11-28,538,P504764,PLAN_P504764_40130427
+RW-RBC-491394-CS-QCBS,5,tech_eval,Evaluation of Technic al Proposal,planned,2025-12-28,580,P504764,PLAN_P504764_40130427
+RW-RBC-491394-CS-QCBS,6,combined_eval,Combined Evaluation Report and Draft Neg otiated Contract,planned,2026-02-01,622,P504764,PLAN_P504764_40130427
+RW-RBC-491394-CS-QCBS,7,signed,Signed Contract,planned,2026-03-08,664,P504764,PLAN_P504764_40130427
+RW-RBC-491394-CS-QCBS,8,completion,Contract Completion,planned,2026-12-03,706,P504764,PLAN_P504764_40130427
+RW-RBC-491400-CS-QCBS,0,tor,Terms of Reference,planned,2027-02-02,368,P504764,PLAN_P504764_40130427
+RW-RBC-491400-CS-QCBS,1,eoi_notice,Expression of Interest Notice,planned,2027-02-23,411,P504764,PLAN_P504764_40130427
+RW-RBC-491400-CS-QCBS,2,shortlist,Short List and Draft R equest for Proposals,planned,2027-03-23,453,P504764,PLAN_P504764_40130427
+RW-RBC-491400-CS-QCBS,4,tech_opening,Opening of Technical Proposals / Minutes,planned,2027-04-20,538,P504764,PLAN_P504764_40130427
+RW-RBC-491400-CS-QCBS,5,tech_eval,Evaluation of Technic al Proposal,planned,2027-05-11,580,P504764,PLAN_P504764_40130427
+RW-RBC-491400-CS-QCBS,6,combined_eval,Combined Evaluation Report and Draft Neg otiated Contract,planned,2027-06-15,622,P504764,PLAN_P504764_40130427
+RW-RBC-491400-CS-QCBS,7,signed,Signed Contract,planned,2027-07-20,664,P504764,PLAN_P504764_40130427
+RW-RBC-491400-CS-QCBS,8,completion,Contract Completion,planned,2028-01-16,706,P504764,PLAN_P504764_40130427
+RW-RBC-491404-CS-QCBS,0,tor,Terms of Reference,planned,2028-12-01,368,P504764,PLAN_P504764_40130427
+RW-RBC-491404-CS-QCBS,1,eoi_notice,Expression of Interest Notice,planned,2028-12-05,411,P504764,PLAN_P504764_40130427
+RW-RBC-491404-CS-QCBS,2,shortlist,Short List and Draft R equest for Proposals,planned,2029-01-18,453,P504764,PLAN_P504764_40130427
+RW-RBC-491404-CS-QCBS,4,tech_opening,Opening of Technical Proposals / Minutes,planned,2029-03-01,538,P504764,PLAN_P504764_40130427
+RW-RBC-491404-CS-QCBS,5,tech_eval,Evaluation of Technic al Proposal,planned,2029-03-22,580,P504764,PLAN_P504764_40130427
+RW-RBC-491404-CS-QCBS,6,combined_eval,Combined Evaluation Report and Draft Neg otiated Contract,planned,2029-04-19,622,P504764,PLAN_P504764_40130427
+RW-RBC-491404-CS-QCBS,7,signed,Signed Contract,planned,2029-05-24,664,P504764,PLAN_P504764_40130427
+RW-RBC-491404-CS-QCBS,8,completion,Contract Completion,planned,2030-02-18,706,P504764,PLAN_P504764_40130427
+RW-RBC-549648-CS-QCBS,0,tor,Terms of Reference,planned,2026-05-15,368,P504764,PLAN_P504764_40130427
+RW-RBC-549648-CS-QCBS,1,eoi_notice,Expression of Interest Notice,planned,2026-06-05,411,P504764,PLAN_P504764_40130427
+RW-RBC-549648-CS-QCBS,2,shortlist,Short List and Draft R equest for Proposals,planned,2026-07-10,453,P504764,PLAN_P504764_40130427
+RW-RBC-549648-CS-QCBS,4,tech_opening,Opening of Technical Proposals / Minutes,planned,2026-08-07,538,P504764,PLAN_P504764_40130427
+RW-RBC-549648-CS-QCBS,5,tech_eval,Evaluation of Technic al Proposal,planned,2026-08-28,580,P504764,PLAN_P504764_40130427
+RW-RBC-549648-CS-QCBS,6,combined_eval,Combined Evaluation Report and Draft Neg otiated Contract,planned,2026-09-18,622,P504764,PLAN_P504764_40130427
+RW-RBC-549648-CS-QCBS,7,signed,Signed Contract,planned,2026-10-23,664,P504764,PLAN_P504764_40130427
+RW-RBC-549648-CS-QCBS,8,completion,Contract Completion,planned,2027-07-20,706,P504764,PLAN_P504764_40130427
+RW-RBC-549651-CS-QCBS,0,tor,Terms of Reference,planned,2026-04-26,368,P504764,PLAN_P504764_40130427
+RW-RBC-549651-CS-QCBS,1,eoi_notice,Expression of Interest Notice,planned,2026-05-17,411,P504764,PLAN_P504764_40130427
+RW-RBC-549651-CS-QCBS,2,shortlist,Short List and Draft R equest for Proposals,planned,2026-06-21,453,P504764,PLAN_P504764_40130427
+RW-RBC-549651-CS-QCBS,4,tech_opening,Opening of Technical Proposals / Minutes,planned,2026-07-19,538,P504764,PLAN_P504764_40130427
+RW-RBC-549651-CS-QCBS,5,tech_eval,Evaluation of Technic al Proposal,planned,2026-08-09,580,P504764,PLAN_P504764_40130427
+RW-RBC-549651-CS-QCBS,6,combined_eval,Combined Evaluation Report and Draft Neg otiated Contract,planned,2026-09-13,622,P504764,PLAN_P504764_40130427
+RW-RBC-549651-CS-QCBS,7,signed,Signed Contract,planned,2026-10-18,664,P504764,PLAN_P504764_40130427
+RW-RBC-549651-CS-QCBS,8,completion,Contract Completion,planned,2027-01-16,706,P504764,PLAN_P504764_40130427
+RW-RBC-549671-CS-QCBS,0,tor,Terms of Reference,planned,2026-05-15,368,P504764,PLAN_P504764_40130427
+RW-RBC-549671-CS-QCBS,0,tor,Terms of Reference,actual,2026-07-14,390,P504764,PLAN_P504764_40130427
+RW-RBC-549671-CS-QCBS,1,eoi_notice,Expression of Interest Notice,planned,2026-06-05,411,P504764,PLAN_P504764_40130427
+RW-RBC-549671-CS-QCBS,2,shortlist,Short List and Draft R equest for Proposals,planned,2026-07-10,453,P504764,PLAN_P504764_40130427
+RW-RBC-549671-CS-QCBS,4,tech_opening,Opening of Technical Proposals / Minutes,planned,2026-08-07,538,P504764,PLAN_P504764_40130427
+RW-RBC-549671-CS-QCBS,5,tech_eval,Evaluation of Technic al Proposal,planned,2026-08-28,580,P504764,PLAN_P504764_40130427
+RW-RBC-549671-CS-QCBS,6,combined_eval,Combined Evaluation Report and Draft Neg otiated Contract,planned,2026-10-02,622,P504764,PLAN_P504764_40130427
+RW-RBC-549671-CS-QCBS,7,signed,Signed Contract,planned,2026-11-06,664,P504764,PLAN_P504764_40130427
+RW-RBC-549671-CS-QCBS,8,completion,Contract Completion,planned,2027-05-05,706,P504764,PLAN_P504764_40130427
+RW-RBC-549672-CS-QCBS,0,tor,Terms of Reference,planned,2027-05-16,368,P504764,PLAN_P504764_40130427
+RW-RBC-549672-CS-QCBS,1,eoi_notice,Expression of Interest Notice,planned,2027-06-06,411,P504764,PLAN_P504764_40130427
+RW-RBC-549672-CS-QCBS,2,shortlist,Short List and Draft R equest for Proposals,planned,2027-07-11,453,P504764,PLAN_P504764_40130427
+RW-RBC-549672-CS-QCBS,4,tech_opening,Opening of Technical Proposals / Minutes,planned,2027-08-08,538,P504764,PLAN_P504764_40130427
+RW-RBC-549672-CS-QCBS,5,tech_eval,Evaluation of Technic al Proposal,planned,2027-08-29,580,P504764,PLAN_P504764_40130427
+RW-RBC-549672-CS-QCBS,6,combined_eval,Combined Evaluation Report and Draft Neg otiated Contract,planned,2027-10-03,622,P504764,PLAN_P504764_40130427
+RW-RBC-549672-CS-QCBS,7,signed,Signed Contract,planned,2027-11-07,664,P504764,PLAN_P504764_40130427
+RW-RBC-549672-CS-QCBS,8,completion,Contract Completion,planned,2028-05-05,706,P504764,PLAN_P504764_40130427
+RW-RBC-549673-CS-QCBS,0,tor,Terms of Reference,planned,2026-05-15,368,P504764,PLAN_P504764_40130427
+RW-RBC-549673-CS-QCBS,1,eoi_notice,Expression of Interest Notice,planned,2026-06-05,411,P504764,PLAN_P504764_40130427
+RW-RBC-549673-CS-QCBS,2,shortlist,Short List and Draft R equest for Proposals,planned,2026-07-10,453,P504764,PLAN_P504764_40130427
+RW-RBC-549673-CS-QCBS,4,tech_opening,Opening of Technical Proposals / Minutes,planned,2026-08-07,538,P504764,PLAN_P504764_40130427
+RW-RBC-549673-CS-QCBS,5,tech_eval,Evaluation of Technic al Proposal,planned,2026-08-28,580,P504764,PLAN_P504764_40130427
+RW-RBC-549673-CS-QCBS,6,combined_eval,Combined Evaluation Report and Draft Neg otiated Contract,planned,2026-10-02,622,P504764,PLAN_P504764_40130427
+RW-RBC-549673-CS-QCBS,7,signed,Signed Contract,planned,2026-11-06,664,P504764,PLAN_P504764_40130427
+RW-RBC-549673-CS-QCBS,8,completion,Contract Completion,planned,2027-02-04,706,P504764,PLAN_P504764_40130427
+RW-RBC-491382-CS-INDV,0,tor,Terms of Reference,planned,2025-09-11,368,P504764,PLAN_P504764_40130427
+RW-RBC-491382-CS-INDV,1,invitation,Invitation to Identifie d/Selected Consultant,planned,2025-10-30,411,P504764,PLAN_P504764_40130427
+RW-RBC-491382-CS-INDV,2,negotiated,Draft Negotiated Cont ract,planned,2025-11-20,453,P504764,PLAN_P504764_40130427
+RW-RBC-491382-CS-INDV,3,signed,Signed Contract,planned,2025-12-25,496,P504764,PLAN_P504764_40130427
+RW-RBC-491382-CS-INDV,4,completion,Contract Completion,planned,2026-06-23,538,P504764,PLAN_P504764_40130427
+RW-RBC-491383-CS-INDV,0,tor,Terms of Reference,planned,2025-11-07,368,P504764,PLAN_P504764_40130427
+RW-RBC-491383-CS-INDV,1,invitation,Invitation to Identifie d/Selected Consultant,planned,2025-12-17,411,P504764,PLAN_P504764_40130427
+RW-RBC-491383-CS-INDV,2,negotiated,Draft Negotiated Cont ract,planned,2026-01-07,453,P504764,PLAN_P504764_40130427
+RW-RBC-491383-CS-INDV,3,signed,Signed Contract,planned,2026-02-04,496,P504764,PLAN_P504764_40130427
+RW-RBC-491383-CS-INDV,4,completion,Contract Completion,planned,2026-06-04,538,P504764,PLAN_P504764_40130427
+RW-RBC-491386-CS-INDV,0,tor,Terms of Reference,planned,2025-11-02,368,P504764,PLAN_P504764_40130427
+RW-RBC-491386-CS-INDV,1,invitation,Invitation to Identifie d/Selected Consultant,planned,2025-12-12,411,P504764,PLAN_P504764_40130427
+RW-RBC-491386-CS-INDV,2,negotiated,Draft Negotiated Cont ract,planned,2025-12-19,453,P504764,PLAN_P504764_40130427
+RW-RBC-491386-CS-INDV,3,signed,Signed Contract,planned,2026-01-23,496,P504764,PLAN_P504764_40130427
+RW-RBC-491386-CS-INDV,4,completion,Contract Completion,planned,2026-05-23,538,P504764,PLAN_P504764_40130427
+RW-RBC-491390-CS-INDV,0,tor,Terms of Reference,planned,2028-05-08,368,P504764,PLAN_P504764_40130427
+RW-RBC-491390-CS-INDV,1,invitation,Invitation to Identifie d/Selected Consultant,planned,2028-06-17,411,P504764,PLAN_P504764_40130427
+RW-RBC-491390-CS-INDV,2,negotiated,Draft Negotiated Cont ract,planned,2028-06-24,453,P504764,PLAN_P504764_40130427
+RW-RBC-491390-CS-INDV,3,signed,Signed Contract,planned,2028-07-15,496,P504764,PLAN_P504764_40130427
+RW-RBC-491390-CS-INDV,4,completion,Contract Completion,planned,2029-07-15,538,P504764,PLAN_P504764_40130427
+RW-RBC-491395-CS-INDV,0,tor,Terms of Reference,planned,2026-01-02,368,P504764,PLAN_P504764_40130427
+RW-RBC-491395-CS-INDV,1,invitation,Invitation to Identifie d/Selected Consultant,planned,2026-02-11,411,P504764,PLAN_P504764_40130427
+RW-RBC-491395-CS-INDV,2,negotiated,Draft Negotiated Cont ract,planned,2026-03-04,453,P504764,PLAN_P504764_40130427
+RW-RBC-491395-CS-INDV,3,signed,Signed Contract,planned,2026-04-01,496,P504764,PLAN_P504764_40130427
+RW-RBC-491395-CS-INDV,4,completion,Contract Completion,planned,2026-07-30,538,P504764,PLAN_P504764_40130427
+RW-RBC-491396-CS-INDV,0,tor,Terms of Reference,planned,2026-02-11,368,P504764,PLAN_P504764_40130427
+RW-RBC-491396-CS-INDV,1,invitation,Invitation to Identifie d/Selected Consultant,planned,2026-03-23,411,P504764,PLAN_P504764_40130427
+RW-RBC-491396-CS-INDV,2,negotiated,Draft Negotiated Cont ract,planned,2026-03-30,453,P504764,PLAN_P504764_40130427
+RW-RBC-491396-CS-INDV,3,signed,Signed Contract,planned,2026-04-27,496,P504764,PLAN_P504764_40130427
+RW-RBC-491396-CS-INDV,4,completion,Contract Completion,planned,2026-08-25,538,P504764,PLAN_P504764_40130427
+RW-RBC-491399-CS-INDV,0,tor,Terms of Reference,planned,2026-02-03,368,P504764,PLAN_P504764_40130427
+RW-RBC-491399-CS-INDV,1,invitation,Invitation to Identifie d/Selected Consultant,planned,2026-02-24,411,P504764,PLAN_P504764_40130427
+RW-RBC-491399-CS-INDV,2,negotiated,Draft Negotiated Cont ract,planned,2026-03-03,453,P504764,PLAN_P504764_40130427
+RW-RBC-491399-CS-INDV,3,signed,Signed Contract,planned,2026-04-07,496,P504764,PLAN_P504764_40130427
+RW-RBC-491399-CS-INDV,4,completion,Contract Completion,planned,2026-08-05,538,P504764,PLAN_P504764_40130427
+RW-RTDA-431877-CW-DIR,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2024-06-11,517,P504023,PLAN_P504023_40066785
+RW-RTDA-431877-CW-DIR,2,bid_docs_draft,Draft Bidding Docum ent / Justification,actual,2024-07-25,538,P504023,PLAN_P504023_40066785
+RW-RTDA-431877-CW-DIR,3,notice,Specific Procurement Notice / Invitation,planned,2024-07-11,559,P504023,PLAN_P504023_40066785
+RW-RTDA-431877-CW-DIR,3,notice,Specific Procurement Notice / Invitation,actual,2024-12-03,580,P504023,PLAN_P504023_40066785
+RW-RTDA-431877-CW-DIR,7,signed,Signed Contract,planned,2024-08-18,727,P504023,PLAN_P504023_40066785
+RW-RTDA-431877-CW-DIR,7,signed,Signed Contract,actual,2025-05-16,748,P504023,PLAN_P504023_40066785
+RW-RTDA-431882-CW-DIR,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2024-06-11,517,P504023,PLAN_P504023_40066785
+RW-RTDA-431882-CW-DIR,2,bid_docs_draft,Draft Bidding Docum ent / Justification,actual,2024-07-25,538,P504023,PLAN_P504023_40066785
+RW-RTDA-431882-CW-DIR,3,notice,Specific Procurement Notice / Invitation,planned,2024-07-11,559,P504023,PLAN_P504023_40066785
+RW-RTDA-431882-CW-DIR,3,notice,Specific Procurement Notice / Invitation,actual,2025-01-20,580,P504023,PLAN_P504023_40066785
+RW-RTDA-431882-CW-DIR,7,signed,Signed Contract,planned,2024-08-18,727,P504023,PLAN_P504023_40066785
+RW-RTDA-431882-CW-DIR,7,signed,Signed Contract,actual,2025-04-26,748,P504023,PLAN_P504023_40066785
+RW-RTDA-431889-CW-DIR,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2024-06-11,517,P504023,PLAN_P504023_40066785
+RW-RTDA-431889-CW-DIR,2,bid_docs_draft,Draft Bidding Docum ent / Justification,actual,2024-07-25,538,P504023,PLAN_P504023_40066785
+RW-RTDA-431889-CW-DIR,3,notice,Specific Procurement Notice / Invitation,planned,2024-07-11,559,P504023,PLAN_P504023_40066785
+RW-RTDA-431889-CW-DIR,3,notice,Specific Procurement Notice / Invitation,actual,2024-11-20,580,P504023,PLAN_P504023_40066785
+RW-RTDA-431889-CW-DIR,7,signed,Signed Contract,planned,2024-08-18,727,P504023,PLAN_P504023_40066785
+RW-RTDA-431889-CW-DIR,7,signed,Signed Contract,actual,2025-04-14,748,P504023,PLAN_P504023_40066785
+RW-RTDA-431897-CW-DIR,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2024-06-11,517,P504023,PLAN_P504023_40066785
+RW-RTDA-431897-CW-DIR,2,bid_docs_draft,Draft Bidding Docum ent / Justification,actual,2024-07-25,538,P504023,PLAN_P504023_40066785
+RW-RTDA-431897-CW-DIR,3,notice,Specific Procurement Notice / Invitation,planned,2024-07-11,559,P504023,PLAN_P504023_40066785
+RW-RTDA-431897-CW-DIR,3,notice,Specific Procurement Notice / Invitation,actual,2024-11-20,580,P504023,PLAN_P504023_40066785
+RW-RTDA-431897-CW-DIR,7,signed,Signed Contract,planned,2024-08-18,727,P504023,PLAN_P504023_40066785
+RW-RTDA-431897-CW-DIR,7,signed,Signed Contract,actual,2025-05-14,748,P504023,PLAN_P504023_40066785
+RW-RTDA-431902-CW-DIR,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2024-06-11,517,P504023,PLAN_P504023_40066785
+RW-RTDA-431902-CW-DIR,2,bid_docs_draft,Draft Bidding Docum ent / Justification,actual,2024-07-25,538,P504023,PLAN_P504023_40066785
+RW-RTDA-431902-CW-DIR,3,notice,Specific Procurement Notice / Invitation,planned,2024-07-11,559,P504023,PLAN_P504023_40066785
+RW-RTDA-431902-CW-DIR,3,notice,Specific Procurement Notice / Invitation,actual,2024-11-20,580,P504023,PLAN_P504023_40066785
+RW-RTDA-431902-CW-DIR,7,signed,Signed Contract,planned,2024-08-18,727,P504023,PLAN_P504023_40066785
+RW-RTDA-431902-CW-DIR,7,signed,Signed Contract,actual,2025-05-12,748,P504023,PLAN_P504023_40066785
+RW-RTDA-431908-CW-DIR,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2024-06-11,517,P504023,PLAN_P504023_40066785
+RW-RTDA-431908-CW-DIR,2,bid_docs_draft,Draft Bidding Docum ent / Justification,actual,2024-07-25,538,P504023,PLAN_P504023_40066785
+RW-RTDA-431908-CW-DIR,3,notice,Specific Procurement Notice / Invitation,planned,2024-07-11,559,P504023,PLAN_P504023_40066785
+RW-RTDA-431908-CW-DIR,3,notice,Specific Procurement Notice / Invitation,actual,2025-01-20,580,P504023,PLAN_P504023_40066785
+RW-RTDA-431908-CW-DIR,7,signed,Signed Contract,planned,2024-08-18,727,P504023,PLAN_P504023_40066785
+RW-RTDA-431908-CW-DIR,7,signed,Signed Contract,actual,2025-04-11,748,P504023,PLAN_P504023_40066785
+RW-RTDA-431912-CW-DIR,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2024-06-11,517,P504023,PLAN_P504023_40066785
+RW-RTDA-431912-CW-DIR,2,bid_docs_draft,Draft Bidding Docum ent / Justification,actual,2024-07-25,538,P504023,PLAN_P504023_40066785
+RW-RTDA-431912-CW-DIR,3,notice,Specific Procurement Notice / Invitation,planned,2024-07-11,559,P504023,PLAN_P504023_40066785
+RW-RTDA-431912-CW-DIR,3,notice,Specific Procurement Notice / Invitation,actual,2025-05-15,580,P504023,PLAN_P504023_40066785
+RW-RTDA-431912-CW-DIR,7,signed,Signed Contract,planned,2024-08-18,727,P504023,PLAN_P504023_40066785
+RW-RTDA-431915-CW-DIR,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2024-06-11,517,P504023,PLAN_P504023_40066785
+RW-RTDA-431915-CW-DIR,2,bid_docs_draft,Draft Bidding Docum ent / Justification,actual,2024-07-25,538,P504023,PLAN_P504023_40066785
+RW-RTDA-431915-CW-DIR,3,notice,Specific Procurement Notice / Invitation,planned,2024-07-11,559,P504023,PLAN_P504023_40066785
+RW-RTDA-431915-CW-DIR,3,notice,Specific Procurement Notice / Invitation,actual,2024-11-20,580,P504023,PLAN_P504023_40066785
+RW-RTDA-431915-CW-DIR,7,signed,Signed Contract,planned,2024-08-18,727,P504023,PLAN_P504023_40066785
+RW-RTDA-431915-CW-DIR,7,signed,Signed Contract,actual,2025-04-11,748,P504023,PLAN_P504023_40066785
+RW-RTDA-431917-CW-DIR,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2024-06-11,517,P504023,PLAN_P504023_40066785
+RW-RTDA-431917-CW-DIR,2,bid_docs_draft,Draft Bidding Docum ent / Justification,actual,2024-07-25,538,P504023,PLAN_P504023_40066785
+RW-RTDA-431917-CW-DIR,3,notice,Specific Procurement Notice / Invitation,planned,2024-07-11,559,P504023,PLAN_P504023_40066785
+RW-RTDA-431917-CW-DIR,3,notice,Specific Procurement Notice / Invitation,actual,2024-11-20,580,P504023,PLAN_P504023_40066785
+RW-RTDA-431917-CW-DIR,7,signed,Signed Contract,planned,2024-08-18,727,P504023,PLAN_P504023_40066785
+RW-RTDA-431917-CW-DIR,7,signed,Signed Contract,actual,2025-04-11,748,P504023,PLAN_P504023_40066785
+RW-RTDA-431923-CW-DIR,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2024-06-11,517,P504023,PLAN_P504023_40066785
+RW-RTDA-431923-CW-DIR,2,bid_docs_draft,Draft Bidding Docum ent / Justification,actual,2024-07-25,538,P504023,PLAN_P504023_40066785
+RW-RTDA-431923-CW-DIR,3,notice,Specific Procurement Notice / Invitation,planned,2024-07-11,559,P504023,PLAN_P504023_40066785
+RW-RTDA-431923-CW-DIR,3,notice,Specific Procurement Notice / Invitation,actual,2025-06-09,580,P504023,PLAN_P504023_40066785
+RW-RTDA-431923-CW-DIR,7,signed,Signed Contract,planned,2024-08-18,727,P504023,PLAN_P504023_40066785
+RW-RTDA-460194-CW-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2024-11-20,517,P504023,PLAN_P504023_40066785
+RW-RTDA-460194-CW-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2024-11-25,559,P504023,PLAN_P504023_40066785
+RW-RTDA-460194-CW-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2024-12-25,643,P504023,PLAN_P504023_40066785
+RW-RTDA-460194-CW-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2025-01-24,685,P504023,PLAN_P504023_40066785
+RW-RTDA-460194-CW-RFB,7,signed,Signed Contract,planned,2025-02-28,727,P504023,PLAN_P504023_40066785
+RW-RTDA-460220-CW-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2024-11-20,517,P504023,PLAN_P504023_40066785
+RW-RTDA-460220-CW-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,actual,2025-04-08,538,P504023,PLAN_P504023_40066785
+RW-RTDA-460220-CW-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2024-11-25,559,P504023,PLAN_P504023_40066785
+RW-RTDA-460220-CW-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2024-12-25,643,P504023,PLAN_P504023_40066785
+RW-RTDA-460220-CW-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2025-01-24,685,P504023,PLAN_P504023_40066785
+RW-RTDA-460220-CW-RFB,7,signed,Signed Contract,planned,2025-02-28,727,P504023,PLAN_P504023_40066785
+RW-RTDA-460231-CW-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2024-11-20,517,P504023,PLAN_P504023_40066785
+RW-RTDA-460231-CW-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,actual,2025-04-08,538,P504023,PLAN_P504023_40066785
+RW-RTDA-460231-CW-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2024-11-25,559,P504023,PLAN_P504023_40066785
+RW-RTDA-460231-CW-RFB,3,notice,Specific Procurement Notice / Invitation,actual,2025-04-08,580,P504023,PLAN_P504023_40066785
+RW-RTDA-460231-CW-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2024-12-25,643,P504023,PLAN_P504023_40066785
+RW-RTDA-460231-CW-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,actual,2025-06-23,664,P504023,PLAN_P504023_40066785
+RW-RTDA-460231-CW-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2025-01-24,685,P504023,PLAN_P504023_40066785
+RW-RTDA-460231-CW-RFB,7,signed,Signed Contract,planned,2025-02-28,727,P504023,PLAN_P504023_40066785
+RW-RTDA-460237-CW-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2024-11-20,517,P504023,PLAN_P504023_40066785
+RW-RTDA-460237-CW-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2024-11-25,559,P504023,PLAN_P504023_40066785
+RW-RTDA-460237-CW-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2024-12-25,643,P504023,PLAN_P504023_40066785
+RW-RTDA-460237-CW-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2025-01-24,685,P504023,PLAN_P504023_40066785
+RW-RTDA-460237-CW-RFB,7,signed,Signed Contract,planned,2025-02-28,727,P504023,PLAN_P504023_40066785
+RW-RTDA-460240-CW-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2024-11-20,517,P504023,PLAN_P504023_40066785
+RW-RTDA-460240-CW-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,actual,2025-04-08,538,P504023,PLAN_P504023_40066785
+RW-RTDA-460240-CW-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2024-11-25,559,P504023,PLAN_P504023_40066785
+RW-RTDA-460240-CW-RFB,3,notice,Specific Procurement Notice / Invitation,actual,2025-04-08,580,P504023,PLAN_P504023_40066785
+RW-RTDA-460240-CW-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2024-12-25,643,P504023,PLAN_P504023_40066785
+RW-RTDA-460240-CW-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,actual,2025-06-23,664,P504023,PLAN_P504023_40066785
+RW-RTDA-460240-CW-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2025-01-24,685,P504023,PLAN_P504023_40066785
+RW-RTDA-460240-CW-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,actual,2025-08-26,706,P504023,PLAN_P504023_40066785
+RW-RTDA-460240-CW-RFB,7,signed,Signed Contract,planned,2025-02-28,727,P504023,PLAN_P504023_40066785
+RW-RTDA-460243-CW-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2024-11-20,517,P504023,PLAN_P504023_40066785
+RW-RTDA-460243-CW-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,actual,2025-04-08,538,P504023,PLAN_P504023_40066785
+RW-RTDA-460243-CW-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2024-11-25,559,P504023,PLAN_P504023_40066785
+RW-RTDA-460243-CW-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2024-12-25,643,P504023,PLAN_P504023_40066785
+RW-RTDA-460243-CW-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2025-01-24,685,P504023,PLAN_P504023_40066785
+RW-RTDA-460243-CW-RFB,7,signed,Signed Contract,planned,2025-02-28,727,P504023,PLAN_P504023_40066785
+RW-RTDA-460249-CW-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2024-11-20,517,P504023,PLAN_P504023_40066785
+RW-RTDA-460249-CW-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2024-11-25,559,P504023,PLAN_P504023_40066785
+RW-RTDA-460249-CW-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2024-12-25,643,P504023,PLAN_P504023_40066785
+RW-RTDA-460249-CW-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2025-01-24,685,P504023,PLAN_P504023_40066785
+RW-RTDA-460249-CW-RFB,7,signed,Signed Contract,planned,2025-02-28,727,P504023,PLAN_P504023_40066785
+RW-RTDA-460255-CW-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2024-11-20,517,P504023,PLAN_P504023_40066785
+RW-RTDA-460255-CW-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,actual,2025-04-08,538,P504023,PLAN_P504023_40066785
+RW-RTDA-460255-CW-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2024-11-25,559,P504023,PLAN_P504023_40066785
+RW-RTDA-460255-CW-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2024-12-25,643,P504023,PLAN_P504023_40066785
+RW-RTDA-460255-CW-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2025-01-24,685,P504023,PLAN_P504023_40066785
+RW-RTDA-460255-CW-RFB,7,signed,Signed Contract,planned,2025-02-28,727,P504023,PLAN_P504023_40066785
+RW-RTDA-460216-CW-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2024-11-20,517,P504023,PLAN_P504023_40066785
+RW-RTDA-460216-CW-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,actual,2025-04-08,538,P504023,PLAN_P504023_40066785
+RW-RTDA-460216-CW-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2024-11-25,559,P504023,PLAN_P504023_40066785
+RW-RTDA-460216-CW-RFB,3,notice,Specific Procurement Notice / Invitation,actual,2025-04-08,580,P504023,PLAN_P504023_40066785
+RW-RTDA-460216-CW-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2024-12-25,643,P504023,PLAN_P504023_40066785
+RW-RTDA-460216-CW-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,actual,2025-06-23,664,P504023,PLAN_P504023_40066785
+RW-RTDA-460216-CW-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2025-01-24,685,P504023,PLAN_P504023_40066785
+RW-RTDA-460216-CW-RFB,7,signed,Signed Contract,planned,2025-02-28,727,P504023,PLAN_P504023_40066785
+RW-RTDA-481248-CW-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2025-03-13,517,P504023,PLAN_P504023_40066785
+RW-RTDA-481248-CW-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,actual,2025-04-08,538,P504023,PLAN_P504023_40066785
+RW-RTDA-481248-CW-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2025-03-18,559,P504023,PLAN_P504023_40066785
+RW-RTDA-481248-CW-RFB,3,notice,Specific Procurement Notice / Invitation,actual,2025-04-08,580,P504023,PLAN_P504023_40066785
+RW-RTDA-481248-CW-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2025-05-02,643,P504023,PLAN_P504023_40066785
+RW-RTDA-481248-CW-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,actual,2025-06-23,664,P504023,PLAN_P504023_40066785
+RW-RTDA-481248-CW-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2025-06-01,685,P504023,PLAN_P504023_40066785
+RW-RTDA-481248-CW-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,actual,2025-08-26,706,P504023,PLAN_P504023_40066785
+RW-RTDA-481248-CW-RFB,7,signed,Signed Contract,planned,2025-07-06,727,P504023,PLAN_P504023_40066785
+RW-RTDA-481252-CW-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2025-03-13,517,P504023,PLAN_P504023_40066785
+RW-RTDA-481252-CW-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,actual,2025-04-08,538,P504023,PLAN_P504023_40066785
+RW-RTDA-481252-CW-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2025-03-18,559,P504023,PLAN_P504023_40066785
+RW-RTDA-481252-CW-RFB,3,notice,Specific Procurement Notice / Invitation,actual,2025-04-08,580,P504023,PLAN_P504023_40066785
+RW-RTDA-481252-CW-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2025-05-02,643,P504023,PLAN_P504023_40066785
+RW-RTDA-481252-CW-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,actual,2025-06-23,664,P504023,PLAN_P504023_40066785
+RW-RTDA-481252-CW-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2025-06-01,685,P504023,PLAN_P504023_40066785
+RW-RTDA-481252-CW-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,actual,2025-09-03,706,P504023,PLAN_P504023_40066785
+RW-RTDA-481252-CW-RFB,7,signed,Signed Contract,planned,2025-07-06,727,P504023,PLAN_P504023_40066785
+RW-RTDA-485782-CW-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2025-04-11,517,P504023,PLAN_P504023_40066785
+RW-RTDA-485782-CW-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,actual,2025-05-16,538,P504023,PLAN_P504023_40066785
+RW-RTDA-485782-CW-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2025-04-16,559,P504023,PLAN_P504023_40066785
+RW-RTDA-485782-CW-RFB,3,notice,Specific Procurement Notice / Invitation,actual,2025-05-16,580,P504023,PLAN_P504023_40066785
+RW-RTDA-485782-CW-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2025-05-31,643,P504023,PLAN_P504023_40066785
+RW-RTDA-485782-CW-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,actual,2025-07-10,664,P504023,PLAN_P504023_40066785
+RW-RTDA-485782-CW-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2025-06-30,685,P504023,PLAN_P504023_40066785
+RW-RTDA-485782-CW-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,actual,2025-08-26,706,P504023,PLAN_P504023_40066785
+RW-RTDA-485782-CW-RFB,7,signed,Signed Contract,planned,2025-08-04,727,P504023,PLAN_P504023_40066785
+RW-RTDA-485785-CW-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2025-04-11,517,P504023,PLAN_P504023_40066785
+RW-RTDA-485785-CW-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,actual,2025-06-30,538,P504023,PLAN_P504023_40066785
+RW-RTDA-485785-CW-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2025-04-16,559,P504023,PLAN_P504023_40066785
+RW-RTDA-485785-CW-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2025-05-31,643,P504023,PLAN_P504023_40066785
+RW-RTDA-485785-CW-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2025-06-30,685,P504023,PLAN_P504023_40066785
+RW-RTDA-485785-CW-RFB,7,signed,Signed Contract,planned,2025-08-04,727,P504023,PLAN_P504023_40066785
+RW-RTDA-485787-CW-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2025-04-11,517,P504023,PLAN_P504023_40066785
+RW-RTDA-485787-CW-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,actual,2025-06-30,538,P504023,PLAN_P504023_40066785
+RW-RTDA-485787-CW-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2025-04-16,559,P504023,PLAN_P504023_40066785
+RW-RTDA-485787-CW-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2025-05-31,643,P504023,PLAN_P504023_40066785
+RW-RTDA-485787-CW-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2025-06-30,685,P504023,PLAN_P504023_40066785
+RW-RTDA-485787-CW-RFB,7,signed,Signed Contract,planned,2025-08-04,727,P504023,PLAN_P504023_40066785
+RW-RTDA-485788-CW-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2025-04-11,517,P504023,PLAN_P504023_40066785
+RW-RTDA-485788-CW-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,actual,2025-06-30,538,P504023,PLAN_P504023_40066785
+RW-RTDA-485788-CW-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2025-04-16,559,P504023,PLAN_P504023_40066785
+RW-RTDA-485788-CW-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2025-05-31,643,P504023,PLAN_P504023_40066785
+RW-RTDA-485788-CW-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2025-06-30,685,P504023,PLAN_P504023_40066785
+RW-RTDA-485788-CW-RFB,7,signed,Signed Contract,planned,2025-08-04,727,P504023,PLAN_P504023_40066785
+RW-RTDA-520813-CW-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2025-10-24,517,P504023,PLAN_P504023_40066785
+RW-RTDA-520813-CW-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2025-10-29,559,P504023,PLAN_P504023_40066785
+RW-RTDA-520813-CW-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2025-11-28,643,P504023,PLAN_P504023_40066785
+RW-RTDA-520813-CW-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2025-12-28,685,P504023,PLAN_P504023_40066785
+RW-RTDA-520813-CW-RFB,7,signed,Signed Contract,planned,2026-02-01,727,P504023,PLAN_P504023_40066785
+RW-RTDA-520815-CW-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2025-10-24,517,P504023,PLAN_P504023_40066785
+RW-RTDA-520815-CW-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2025-10-29,559,P504023,PLAN_P504023_40066785
+RW-RTDA-520815-CW-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2025-11-28,643,P504023,PLAN_P504023_40066785
+RW-RTDA-520815-CW-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2025-12-28,685,P504023,PLAN_P504023_40066785
+RW-RTDA-520815-CW-RFB,7,signed,Signed Contract,planned,2026-02-01,727,P504023,PLAN_P504023_40066785
+RW-RTDA-520816-CW-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2025-10-24,517,P504023,PLAN_P504023_40066785
+RW-RTDA-520816-CW-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2025-10-29,559,P504023,PLAN_P504023_40066785
+RW-RTDA-520816-CW-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2025-11-28,643,P504023,PLAN_P504023_40066785
+RW-RTDA-520816-CW-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2025-12-28,685,P504023,PLAN_P504023_40066785
+RW-RTDA-520816-CW-RFB,7,signed,Signed Contract,planned,2026-02-01,727,P504023,PLAN_P504023_40066785
+RW-RTDA-520817-CW-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2025-10-24,517,P504023,PLAN_P504023_40066785
+RW-RTDA-520817-CW-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2025-10-29,559,P504023,PLAN_P504023_40066785
+RW-RTDA-520817-CW-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2025-11-28,643,P504023,PLAN_P504023_40066785
+RW-RTDA-520817-CW-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2025-12-28,685,P504023,PLAN_P504023_40066785
+RW-RTDA-520817-CW-RFB,7,signed,Signed Contract,planned,2026-02-01,727,P504023,PLAN_P504023_40066785
+RW-RTDA-460275-CS-QCBS,0,tor,Terms of Reference,planned,2024-11-20,368,P504023,PLAN_P504023_40066785
+RW-RTDA-460275-CS-QCBS,1,eoi_notice,Expression of Interest Notice,planned,2024-11-20,411,P504023,PLAN_P504023_40066785
+RW-RTDA-460275-CS-QCBS,2,shortlist,Short List and Draft R equest for Proposals,planned,2024-12-04,453,P504023,PLAN_P504023_40066785
+RW-RTDA-460275-CS-QCBS,4,tech_opening,Opening of Technical Proposals / Minutes,planned,2025-01-03,538,P504023,PLAN_P504023_40066785
+RW-RTDA-460275-CS-QCBS,5,tech_eval,Evaluation of Technic al Proposal,planned,2025-01-24,580,P504023,PLAN_P504023_40066785
+RW-RTDA-460275-CS-QCBS,6,combined_eval,Combined Evaluation Report and Draft Neg otiated Contract,planned,2025-02-28,622,P504023,PLAN_P504023_40066785
+RW-RTDA-460275-CS-QCBS,7,signed,Signed Contract,planned,2025-03-28,664,P504023,PLAN_P504023_40066785
+RW-RTDA-460275-CS-QCBS,8,completion,Contract Completion,planned,2026-06-26,706,P504023,PLAN_P504023_40066785
+RW-RTDA-460259-CS-QCBS,0,tor,Terms of Reference,planned,2025-04-04,368,P504023,PLAN_P504023_40066785
+RW-RTDA-460259-CS-QCBS,0,tor,Terms of Reference,actual,2025-02-12,390,P504023,PLAN_P504023_40066785
+RW-RTDA-460259-CS-QCBS,1,eoi_notice,Expression of Interest Notice,planned,2025-04-04,411,P504023,PLAN_P504023_40066785
+RW-RTDA-460259-CS-QCBS,2,shortlist,Short List and Draft R equest for Proposals,planned,2025-04-18,453,P504023,PLAN_P504023_40066785
+RW-RTDA-460259-CS-QCBS,4,tech_opening,Opening of Technical Proposals / Minutes,planned,2025-05-18,538,P504023,PLAN_P504023_40066785
+RW-RTDA-460259-CS-QCBS,5,tech_eval,Evaluation of Technic al Proposal,planned,2025-06-08,580,P504023,PLAN_P504023_40066785
+RW-RTDA-460259-CS-QCBS,6,combined_eval,Combined Evaluation Report and Draft Neg otiated Contract,planned,2025-07-13,622,P504023,PLAN_P504023_40066785
+RW-RTDA-460259-CS-QCBS,7,signed,Signed Contract,planned,2025-08-10,664,P504023,PLAN_P504023_40066785
+RW-RTDA-460259-CS-QCBS,8,completion,Contract Completion,planned,2026-11-18,706,P504023,PLAN_P504023_40066785
+RW-RTDA-461443-CS-QCBS,0,tor,Terms of Reference,planned,2025-04-04,368,P504023,PLAN_P504023_40066785
+RW-RTDA-461443-CS-QCBS,0,tor,Terms of Reference,actual,2025-02-12,390,P504023,PLAN_P504023_40066785
+RW-RTDA-461443-CS-QCBS,1,eoi_notice,Expression of Interest Notice,planned,2025-04-04,411,P504023,PLAN_P504023_40066785
+RW-RTDA-461443-CS-QCBS,2,shortlist,Short List and Draft R equest for Proposals,planned,2025-04-18,453,P504023,PLAN_P504023_40066785
+RW-RTDA-461443-CS-QCBS,4,tech_opening,Opening of Technical Proposals / Minutes,planned,2025-05-18,538,P504023,PLAN_P504023_40066785
+RW-RTDA-461443-CS-QCBS,5,tech_eval,Evaluation of Technic al Proposal,planned,2025-06-08,580,P504023,PLAN_P504023_40066785
+RW-RTDA-461443-CS-QCBS,6,combined_eval,Combined Evaluation Report and Draft Neg otiated Contract,planned,2025-07-13,622,P504023,PLAN_P504023_40066785
+RW-RTDA-461443-CS-QCBS,7,signed,Signed Contract,planned,2025-08-10,664,P504023,PLAN_P504023_40066785
+RW-RTDA-461443-CS-QCBS,8,completion,Contract Completion,planned,2026-11-18,706,P504023,PLAN_P504023_40066785
+RW-RTDA-461442-CS-QCBS,0,tor,Terms of Reference,planned,2025-04-04,368,P504023,PLAN_P504023_40066785
+RW-RTDA-461442-CS-QCBS,0,tor,Terms of Reference,actual,2025-02-12,390,P504023,PLAN_P504023_40066785
+RW-RTDA-461442-CS-QCBS,1,eoi_notice,Expression of Interest Notice,planned,2025-04-04,411,P504023,PLAN_P504023_40066785
+RW-RTDA-461442-CS-QCBS,2,shortlist,Short List and Draft R equest for Proposals,planned,2025-04-18,453,P504023,PLAN_P504023_40066785
+RW-RTDA-461442-CS-QCBS,4,tech_opening,Opening of Technical Proposals / Minutes,planned,2025-05-18,538,P504023,PLAN_P504023_40066785
+RW-RTDA-461442-CS-QCBS,5,tech_eval,Evaluation of Technic al Proposal,planned,2025-06-08,580,P504023,PLAN_P504023_40066785
+RW-RTDA-461442-CS-QCBS,6,combined_eval,Combined Evaluation Report and Draft Neg otiated Contract,planned,2025-07-13,622,P504023,PLAN_P504023_40066785
+RW-RTDA-461442-CS-QCBS,7,signed,Signed Contract,planned,2025-08-10,664,P504023,PLAN_P504023_40066785
+RW-RTDA-461442-CS-QCBS,8,completion,Contract Completion,planned,2026-11-18,706,P504023,PLAN_P504023_40066785
+RW-RTDA-485793-CS-QCBS,0,tor,Terms of Reference,planned,2025-04-18,368,P504023,PLAN_P504023_40066785
+RW-RTDA-485793-CS-QCBS,0,tor,Terms of Reference,actual,2025-03-27,390,P504023,PLAN_P504023_40066785
+RW-RTDA-485793-CS-QCBS,1,eoi_notice,Expression of Interest Notice,planned,2025-04-18,411,P504023,PLAN_P504023_40066785
+RW-RTDA-485793-CS-QCBS,2,shortlist,Short List and Draft R equest for Proposals,planned,2025-05-02,453,P504023,PLAN_P504023_40066785
+RW-RTDA-485793-CS-QCBS,4,tech_opening,Opening of Technical Proposals / Minutes,planned,2025-06-01,538,P504023,PLAN_P504023_40066785
+RW-RTDA-485793-CS-QCBS,5,tech_eval,Evaluation of Technic al Proposal,planned,2025-06-22,580,P504023,PLAN_P504023_40066785
+RW-RTDA-485793-CS-QCBS,6,combined_eval,Combined Evaluation Report and Draft Neg otiated Contract,planned,2025-07-27,622,P504023,PLAN_P504023_40066785
+RW-RTDA-485793-CS-QCBS,7,signed,Signed Contract,planned,2025-08-24,664,P504023,PLAN_P504023_40066785
+RW-RTDA-485793-CS-QCBS,8,completion,Contract Completion,planned,2026-09-03,706,P504023,PLAN_P504023_40066785
+RW-RTDA-485796-CS-QCBS,0,tor,Terms of Reference,planned,2025-04-18,368,P504023,PLAN_P504023_40066785
+RW-RTDA-485796-CS-QCBS,0,tor,Terms of Reference,actual,2025-03-27,390,P504023,PLAN_P504023_40066785
+RW-RTDA-485796-CS-QCBS,1,eoi_notice,Expression of Interest Notice,planned,2025-04-18,411,P504023,PLAN_P504023_40066785
+RW-RTDA-485796-CS-QCBS,2,shortlist,Short List and Draft R equest for Proposals,planned,2025-05-02,453,P504023,PLAN_P504023_40066785
+RW-RTDA-485796-CS-QCBS,4,tech_opening,Opening of Technical Proposals / Minutes,planned,2025-06-01,538,P504023,PLAN_P504023_40066785
+RW-RTDA-485796-CS-QCBS,5,tech_eval,Evaluation of Technic al Proposal,planned,2025-06-22,580,P504023,PLAN_P504023_40066785
+RW-RTDA-485796-CS-QCBS,6,combined_eval,Combined Evaluation Report and Draft Neg otiated Contract,planned,2025-07-27,622,P504023,PLAN_P504023_40066785
+RW-RTDA-485796-CS-QCBS,7,signed,Signed Contract,planned,2025-08-24,664,P504023,PLAN_P504023_40066785
+RW-RTDA-485796-CS-QCBS,8,completion,Contract Completion,planned,2026-09-03,706,P504023,PLAN_P504023_40066785
+RW-RTDA-485799-CS-QCBS,0,tor,Terms of Reference,planned,2025-04-18,368,P504023,PLAN_P504023_40066785
+RW-RTDA-485799-CS-QCBS,0,tor,Terms of Reference,actual,2025-03-27,390,P504023,PLAN_P504023_40066785
+RW-RTDA-485799-CS-QCBS,1,eoi_notice,Expression of Interest Notice,planned,2025-04-18,411,P504023,PLAN_P504023_40066785
+RW-RTDA-485799-CS-QCBS,2,shortlist,Short List and Draft R equest for Proposals,planned,2025-05-02,453,P504023,PLAN_P504023_40066785
+RW-RTDA-485799-CS-QCBS,4,tech_opening,Opening of Technical Proposals / Minutes,planned,2025-06-01,538,P504023,PLAN_P504023_40066785
+RW-RTDA-485799-CS-QCBS,5,tech_eval,Evaluation of Technic al Proposal,planned,2025-06-22,580,P504023,PLAN_P504023_40066785
+RW-RTDA-485799-CS-QCBS,6,combined_eval,Combined Evaluation Report and Draft Neg otiated Contract,planned,2025-07-27,622,P504023,PLAN_P504023_40066785
+RW-RTDA-485799-CS-QCBS,7,signed,Signed Contract,planned,2025-08-24,664,P504023,PLAN_P504023_40066785
+RW-RTDA-485799-CS-QCBS,8,completion,Contract Completion,planned,2026-09-03,706,P504023,PLAN_P504023_40066785
+RW-RTDA-488889-CS-CDS,0,tor,Terms of Reference,planned,2025-08-12,368,P504023,PLAN_P504023_40066785
+RW-RTDA-488889-CS-CDS,0,tor,Terms of Reference,actual,2025-07-28,390,P504023,PLAN_P504023_40066785
+RW-RTDA-488889-CS-CDS,1,eoi_notice,Expression of Interest Notice,planned,2025-08-12,411,P504023,PLAN_P504023_40066785
+RW-RTDA-488889-CS-CDS,2,shortlist,Short List and Draft R equest for Proposals,planned,2025-08-17,453,P504023,PLAN_P504023_40066785
+RW-RTDA-488889-CS-CDS,2,shortlist,Short List and Draft R equest for Proposals,actual,2025-08-21,475,P504023,PLAN_P504023_40066785
+RW-RTDA-488889-CS-CDS,4,tech_opening,Opening of Technical Proposals / Minutes,planned,2025-08-29,538,P504023,PLAN_P504023_40066785
+RW-RTDA-488889-CS-CDS,4,tech_opening,Opening of Technical Proposals / Minutes,actual,2025-09-15,559,P504023,PLAN_P504023_40066785
+RW-RTDA-488889-CS-CDS,5,tech_eval,Evaluation of Technic al Proposal,planned,2025-09-20,580,P504023,PLAN_P504023_40066785
+RW-RTDA-488889-CS-CDS,5,tech_eval,Evaluation of Technic al Proposal,actual,2025-10-13,601,P504023,PLAN_P504023_40066785
+RW-RTDA-488889-CS-CDS,6,combined_eval,Combined Evaluation Report and Draft Neg otiated Contract,planned,2025-09-30,622,P504023,PLAN_P504023_40066785
+RW-RTDA-488889-CS-CDS,7,signed,Signed Contract,planned,2025-10-15,664,P504023,PLAN_P504023_40066785
+RW-RTDA-488889-CS-CDS,8,completion,Contract Completion,planned,2027-01-25,706,P504023,PLAN_P504023_40066785
+RW-RTDA-431929-CS-CDS,0,tor,Terms of Reference,planned,2024-06-14,368,P504023,PLAN_P504023_40066785
+RW-RTDA-431929-CS-CDS,0,tor,Terms of Reference,actual,2024-07-29,390,P504023,PLAN_P504023_40066785
+RW-RTDA-431929-CS-CDS,1,invitation,Invitation to Identifie d/Selected Consultant,planned,2024-07-08,411,P504023,PLAN_P504023_40066785
+RW-RTDA-431929-CS-CDS,1,invitation,Invitation to Identifie d/Selected Consultant,actual,2024-11-11,432,P504023,PLAN_P504023_40066785
+RW-RTDA-431929-CS-CDS,3,signed,Signed Contract,planned,2024-08-10,496,P504023,PLAN_P504023_40066785
+RW-RTDA-431929-CS-CDS,4,completion,Contract Completion,planned,2025-12-11,538,P504023,PLAN_P504023_40066785
+RW-RTDA-431931-CS-CDS,0,tor,Terms of Reference,planned,2024-06-14,368,P504023,PLAN_P504023_40066785
+RW-RTDA-431931-CS-CDS,0,tor,Terms of Reference,actual,2024-07-29,390,P504023,PLAN_P504023_40066785
+RW-RTDA-431931-CS-CDS,1,invitation,Invitation to Identifie d/Selected Consultant,planned,2024-07-08,411,P504023,PLAN_P504023_40066785
+RW-RTDA-431931-CS-CDS,1,invitation,Invitation to Identifie d/Selected Consultant,actual,2024-11-12,432,P504023,PLAN_P504023_40066785
+RW-RTDA-431931-CS-CDS,3,signed,Signed Contract,planned,2024-08-10,496,P504023,PLAN_P504023_40066785
+RW-RTDA-431931-CS-CDS,3,signed,Signed Contract,actual,2025-02-24,517,P504023,PLAN_P504023_40066785
+RW-RTDA-431931-CS-CDS,4,completion,Contract Completion,planned,2025-09-12,538,P504023,PLAN_P504023_40066785
+RW-RTDA-431941-CS-CDS,0,tor,Terms of Reference,planned,2024-06-14,368,P504023,PLAN_P504023_40066785
+RW-RTDA-431941-CS-CDS,0,tor,Terms of Reference,actual,2024-07-29,390,P504023,PLAN_P504023_40066785
+RW-RTDA-431941-CS-CDS,1,invitation,Invitation to Identifie d/Selected Consultant,planned,2024-07-08,411,P504023,PLAN_P504023_40066785
+RW-RTDA-431941-CS-CDS,1,invitation,Invitation to Identifie d/Selected Consultant,actual,2024-11-12,432,P504023,PLAN_P504023_40066785
+RW-RTDA-431941-CS-CDS,3,signed,Signed Contract,planned,2024-08-10,496,P504023,PLAN_P504023_40066785
+RW-RTDA-431941-CS-CDS,3,signed,Signed Contract,actual,2025-02-28,517,P504023,PLAN_P504023_40066785
+RW-RTDA-431941-CS-CDS,4,completion,Contract Completion,planned,2025-05-15,538,P504023,PLAN_P504023_40066785
+RW-RTDA-431944-CS-CDS,0,tor,Terms of Reference,planned,2024-06-14,368,P504023,PLAN_P504023_40066785
+RW-RTDA-431944-CS-CDS,0,tor,Terms of Reference,actual,2024-07-29,390,P504023,PLAN_P504023_40066785
+RW-RTDA-431944-CS-CDS,1,invitation,Invitation to Identifie d/Selected Consultant,planned,2024-07-08,411,P504023,PLAN_P504023_40066785
+RW-RTDA-431944-CS-CDS,1,invitation,Invitation to Identifie d/Selected Consultant,actual,2024-11-12,432,P504023,PLAN_P504023_40066785
+RW-RTDA-431944-CS-CDS,3,signed,Signed Contract,planned,2024-08-10,496,P504023,PLAN_P504023_40066785
+RW-RTDA-431944-CS-CDS,3,signed,Signed Contract,actual,2025-02-28,517,P504023,PLAN_P504023_40066785
+RW-RTDA-431944-CS-CDS,4,completion,Contract Completion,planned,2025-05-15,538,P504023,PLAN_P504023_40066785
+RW-RTDA-431945-CS-CDS,0,tor,Terms of Reference,planned,2024-06-14,368,P504023,PLAN_P504023_40066785
+RW-RTDA-431945-CS-CDS,0,tor,Terms of Reference,actual,2024-07-29,390,P504023,PLAN_P504023_40066785
+RW-RTDA-431945-CS-CDS,1,invitation,Invitation to Identifie d/Selected Consultant,planned,2024-07-08,411,P504023,PLAN_P504023_40066785
+RW-RTDA-431945-CS-CDS,1,invitation,Invitation to Identifie d/Selected Consultant,actual,2024-11-12,432,P504023,PLAN_P504023_40066785
+RW-RTDA-431945-CS-CDS,3,signed,Signed Contract,planned,2024-08-10,496,P504023,PLAN_P504023_40066785
+RW-RTDA-431945-CS-CDS,3,signed,Signed Contract,actual,2025-02-28,517,P504023,PLAN_P504023_40066785
+RW-RTDA-431945-CS-CDS,4,completion,Contract Completion,planned,2025-05-15,538,P504023,PLAN_P504023_40066785
+RW-RTDA-431949-CS-CDS,0,tor,Terms of Reference,planned,2024-06-14,368,P504023,PLAN_P504023_40066785
+RW-RTDA-431949-CS-CDS,0,tor,Terms of Reference,actual,2024-07-29,390,P504023,PLAN_P504023_40066785
+RW-RTDA-431949-CS-CDS,1,invitation,Invitation to Identifie d/Selected Consultant,planned,2024-07-08,411,P504023,PLAN_P504023_40066785
+RW-RTDA-431949-CS-CDS,1,invitation,Invitation to Identifie d/Selected Consultant,actual,2024-11-12,432,P504023,PLAN_P504023_40066785
+RW-RTDA-431949-CS-CDS,3,signed,Signed Contract,planned,2024-08-10,496,P504023,PLAN_P504023_40066785
+RW-RTDA-431949-CS-CDS,3,signed,Signed Contract,actual,2025-02-24,517,P504023,PLAN_P504023_40066785
+RW-RTDA-431949-CS-CDS,4,completion,Contract Completion,planned,2025-09-12,538,P504023,PLAN_P504023_40066785
+RW-RTDA-431985-CS-CDS,0,tor,Terms of Reference,planned,2024-06-14,368,P504023,PLAN_P504023_40066785
+RW-RTDA-431985-CS-CDS,0,tor,Terms of Reference,actual,2024-07-29,390,P504023,PLAN_P504023_40066785
+RW-RTDA-431985-CS-CDS,1,invitation,Invitation to Identifie d/Selected Consultant,planned,2024-07-08,411,P504023,PLAN_P504023_40066785
+RW-RTDA-431985-CS-CDS,1,invitation,Invitation to Identifie d/Selected Consultant,actual,2024-12-16,432,P504023,PLAN_P504023_40066785
+RW-RTDA-431985-CS-CDS,3,signed,Signed Contract,planned,2024-08-10,496,P504023,PLAN_P504023_40066785
+RW-RTDA-431985-CS-CDS,3,signed,Signed Contract,actual,2025-03-14,517,P504023,PLAN_P504023_40066785
+RW-RTDA-431985-CS-CDS,4,completion,Contract Completion,planned,2025-05-15,538,P504023,PLAN_P504023_40066785
+RW-RTDA-431987-CS-CDS,0,tor,Terms of Reference,planned,2024-06-14,368,P504023,PLAN_P504023_40066785
+RW-RTDA-431987-CS-CDS,0,tor,Terms of Reference,actual,2024-07-29,390,P504023,PLAN_P504023_40066785
+RW-RTDA-431987-CS-CDS,1,invitation,Invitation to Identifie d/Selected Consultant,planned,2024-07-08,411,P504023,PLAN_P504023_40066785
+RW-RTDA-431987-CS-CDS,1,invitation,Invitation to Identifie d/Selected Consultant,actual,2024-11-12,432,P504023,PLAN_P504023_40066785
+RW-RTDA-431987-CS-CDS,3,signed,Signed Contract,planned,2024-08-10,496,P504023,PLAN_P504023_40066785
+RW-RTDA-431987-CS-CDS,3,signed,Signed Contract,actual,2025-02-24,517,P504023,PLAN_P504023_40066785
+RW-RTDA-431987-CS-CDS,4,completion,Contract Completion,planned,2025-05-15,538,P504023,PLAN_P504023_40066785
+RW-RTDA-431990-CS-CDS,0,tor,Terms of Reference,planned,2024-06-14,368,P504023,PLAN_P504023_40066785
+RW-RTDA-431990-CS-CDS,0,tor,Terms of Reference,actual,2024-07-29,390,P504023,PLAN_P504023_40066785
+RW-RTDA-431990-CS-CDS,1,invitation,Invitation to Identifie d/Selected Consultant,planned,2024-07-08,411,P504023,PLAN_P504023_40066785
+RW-RTDA-431990-CS-CDS,1,invitation,Invitation to Identifie d/Selected Consultant,actual,2024-11-12,432,P504023,PLAN_P504023_40066785
+RW-RTDA-431990-CS-CDS,3,signed,Signed Contract,planned,2024-08-10,496,P504023,PLAN_P504023_40066785
+RW-RTDA-431990-CS-CDS,3,signed,Signed Contract,actual,2025-02-28,517,P504023,PLAN_P504023_40066785
+RW-RTDA-431990-CS-CDS,4,completion,Contract Completion,planned,2025-09-12,538,P504023,PLAN_P504023_40066785
+RW-RTDA-431992-CS-CDS,0,tor,Terms of Reference,planned,2024-06-14,368,P504023,PLAN_P504023_40066785
+RW-RTDA-431992-CS-CDS,0,tor,Terms of Reference,actual,2024-07-29,390,P504023,PLAN_P504023_40066785
+RW-RTDA-431992-CS-CDS,1,invitation,Invitation to Identifie d/Selected Consultant,planned,2024-07-08,411,P504023,PLAN_P504023_40066785
+RW-RTDA-431992-CS-CDS,1,invitation,Invitation to Identifie d/Selected Consultant,actual,2024-12-16,432,P504023,PLAN_P504023_40066785
+RW-RTDA-431992-CS-CDS,3,signed,Signed Contract,planned,2024-08-10,496,P504023,PLAN_P504023_40066785
+RW-RTDA-431992-CS-CDS,3,signed,Signed Contract,actual,2025-03-14,517,P504023,PLAN_P504023_40066785
+RW-RTDA-431992-CS-CDS,4,completion,Contract Completion,planned,2025-12-11,538,P504023,PLAN_P504023_40066785
+RW-RTDA-468484-CS-INDV,0,tor,Terms of Reference,planned,2025-01-10,368,P504023,PLAN_P504023_40066785
+RW-RTDA-468484-CS-INDV,0,tor,Terms of Reference,actual,2025-02-18,390,P504023,PLAN_P504023_40066785
+RW-RTDA-468484-CS-INDV,1,invitation,Invitation to Identifie d/Selected Consultant,planned,2025-04-01,411,P504023,PLAN_P504023_40066785
+RW-RTDA-468484-CS-INDV,1,invitation,Invitation to Identifie d/Selected Consultant,actual,2025-08-18,432,P504023,PLAN_P504023_40066785
+RW-RTDA-468484-CS-INDV,2,negotiated,Draft Negotiated Cont ract,planned,2025-04-22,453,P504023,PLAN_P504023_40066785
+RW-RTDA-468484-CS-INDV,3,signed,Signed Contract,planned,2025-05-27,496,P504023,PLAN_P504023_40066785
+RW-RTDA-468484-CS-INDV,4,completion,Contract Completion,planned,2026-05-27,538,P504023,PLAN_P504023_40066785
+RW-RTDA-431662-CW-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2024-07-12,517,P180228,PLAN_P180228_40117787
+RW-RTDA-431662-CW-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,actual,2024-08-28,538,P180228,PLAN_P180228_40117787
+RW-RTDA-431662-CW-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2024-08-11,559,P180228,PLAN_P180228_40117787
+RW-RTDA-431662-CW-RFB,3,notice,Specific Procurement Notice / Invitation,actual,2024-09-05,580,P180228,PLAN_P180228_40117787
+RW-RTDA-431662-CW-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2024-10-10,643,P180228,PLAN_P180228_40117787
+RW-RTDA-431662-CW-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,actual,2024-12-11,664,P180228,PLAN_P180228_40117787
+RW-RTDA-431662-CW-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2025-01-08,685,P180228,PLAN_P180228_40117787
+RW-RTDA-431662-CW-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,actual,2025-08-08,706,P180228,PLAN_P180228_40117787
+RW-RTDA-431662-CW-RFB,7,signed,Signed Contract,planned,2025-03-08,727,P180228,PLAN_P180228_40117787
+RW-RTDA-431662-CW-RFB,7,signed,Signed Contract,actual,2025-11-28,748,P180228,PLAN_P180228_40117787
+RW-RTDA-431669-CS-QCBS,0,tor,Terms of Reference,planned,2023-11-27,368,P180228,PLAN_P180228_40117787
+RW-RTDA-431669-CS-QCBS,0,tor,Terms of Reference,actual,2024-08-05,390,P180228,PLAN_P180228_40117787
+RW-RTDA-431669-CS-QCBS,1,eoi_notice,Expression of Interest Notice,planned,2024-03-20,411,P180228,PLAN_P180228_40117787
+RW-RTDA-431669-CS-QCBS,1,eoi_notice,Expression of Interest Notice,actual,2024-08-08,432,P180228,PLAN_P180228_40117787
+RW-RTDA-431669-CS-QCBS,2,shortlist,Short List and Draft R equest for Proposals,planned,2024-07-03,453,P180228,PLAN_P180228_40117787
+RW-RTDA-431669-CS-QCBS,2,shortlist,Short List and Draft R equest for Proposals,actual,2024-10-23,475,P180228,PLAN_P180228_40117787
+RW-RTDA-431669-CS-QCBS,4,tech_opening,Opening of Technical Proposals / Minutes,planned,2024-09-01,538,P180228,PLAN_P180228_40117787
+RW-RTDA-431669-CS-QCBS,4,tech_opening,Opening of Technical Proposals / Minutes,actual,2024-12-24,559,P180228,PLAN_P180228_40117787
+RW-RTDA-431669-CS-QCBS,5,tech_eval,Evaluation of Technic al Proposal,planned,2024-10-01,580,P180228,PLAN_P180228_40117787
+RW-RTDA-431669-CS-QCBS,5,tech_eval,Evaluation of Technic al Proposal,actual,2025-04-25,601,P180228,PLAN_P180228_40117787
+RW-RTDA-431669-CS-QCBS,6,combined_eval,Combined Evaluation Report and Draft Neg otiated Contract,planned,2024-10-31,622,P180228,PLAN_P180228_40117787
+RW-RTDA-431669-CS-QCBS,6,combined_eval,Combined Evaluation Report and Draft Neg otiated Contract,actual,2025-11-06,643,P180228,PLAN_P180228_40117787
+RW-RTDA-431669-CS-QCBS,7,signed,Signed Contract,planned,2024-12-06,664,P180228,PLAN_P180228_40117787
+RW-RTDA-431669-CS-QCBS,7,signed,Signed Contract,actual,2025-11-28,685,P180228,PLAN_P180228_40117787
+RW-RTDA-431669-CS-QCBS,8,completion,Contract Completion,planned,2029-12-05,706,P180228,PLAN_P180228_40117787
+RW-RTDA-431679-CS-QCBS,0,tor,Terms of Reference,planned,2025-08-29,368,P180228,PLAN_P180228_40117787
+RW-RTDA-431679-CS-QCBS,0,tor,Terms of Reference,actual,2025-11-11,390,P180228,PLAN_P180228_40117787
+RW-RTDA-431679-CS-QCBS,1,eoi_notice,Expression of Interest Notice,planned,2025-09-28,411,P180228,PLAN_P180228_40117787
+RW-RTDA-431679-CS-QCBS,2,shortlist,Short List and Draft R equest for Proposals,planned,2026-01-11,453,P180228,PLAN_P180228_40117787
+RW-RTDA-431679-CS-QCBS,4,tech_opening,Opening of Technical Proposals / Minutes,planned,2026-02-10,538,P180228,PLAN_P180228_40117787
+RW-RTDA-431679-CS-QCBS,5,tech_eval,Evaluation of Technic al Proposal,planned,2026-03-12,580,P180228,PLAN_P180228_40117787
+RW-RTDA-431679-CS-QCBS,6,combined_eval,Combined Evaluation Report and Draft Neg otiated Contract,planned,2026-05-11,622,P180228,PLAN_P180228_40117787
+RW-RTDA-431679-CS-QCBS,7,signed,Signed Contract,planned,2026-06-10,664,P180228,PLAN_P180228_40117787
+RW-RTDA-431679-CS-QCBS,8,completion,Contract Completion,planned,2028-06-09,706,P180228,PLAN_P180228_40117787
+RW-RTDA-506539-CS-QCBS,0,tor,Terms of Reference,planned,2025-08-29,368,P180228,PLAN_P180228_40117787
+RW-RTDA-506539-CS-QCBS,0,tor,Terms of Reference,actual,2025-08-27,390,P180228,PLAN_P180228_40117787
+RW-RTDA-506539-CS-QCBS,1,eoi_notice,Expression of Interest Notice,planned,2025-09-19,411,P180228,PLAN_P180228_40117787
+RW-RTDA-506539-CS-QCBS,2,shortlist,Short List and Draft R equest for Proposals,planned,2025-11-02,453,P180228,PLAN_P180228_40117787
+RW-RTDA-506539-CS-QCBS,4,tech_opening,Opening of Technical Proposals / Minutes,planned,2025-11-30,538,P180228,PLAN_P180228_40117787
+RW-RTDA-506539-CS-QCBS,5,tech_eval,Evaluation of Technic al Proposal,planned,2025-12-30,580,P180228,PLAN_P180228_40117787
+RW-RTDA-506539-CS-QCBS,6,combined_eval,Combined Evaluation Report and Draft Neg otiated Contract,planned,2026-02-03,622,P180228,PLAN_P180228_40117787
+RW-RTDA-506539-CS-QCBS,7,signed,Signed Contract,planned,2026-03-10,664,P180228,PLAN_P180228_40117787
+RW-RTDA-506539-CS-QCBS,8,completion,Contract Completion,planned,2026-09-06,706,P180228,PLAN_P180228_40117787
+RW-RTDA-541782-CS-QCBS,0,tor,Terms of Reference,planned,2026-03-16,368,P180228,PLAN_P180228_40117787
+RW-RTDA-541782-CS-QCBS,1,eoi_notice,Expression of Interest Notice,planned,2026-04-06,411,P180228,PLAN_P180228_40117787
+RW-RTDA-541782-CS-QCBS,2,shortlist,Short List and Draft R equest for Proposals,planned,2026-05-20,453,P180228,PLAN_P180228_40117787
+RW-RTDA-541782-CS-QCBS,4,tech_opening,Opening of Technical Proposals / Minutes,planned,2026-06-17,538,P180228,PLAN_P180228_40117787
+RW-RTDA-541782-CS-QCBS,5,tech_eval,Evaluation of Technic al Proposal,planned,2026-07-17,580,P180228,PLAN_P180228_40117787
+RW-RTDA-541782-CS-QCBS,6,combined_eval,Combined Evaluation Report and Draft Neg otiated Contract,planned,2026-08-21,622,P180228,PLAN_P180228_40117787
+RW-RTDA-541782-CS-QCBS,7,signed,Signed Contract,planned,2026-09-25,664,P180228,PLAN_P180228_40117787
+RW-RTDA-541782-CS-QCBS,8,completion,Contract Completion,planned,2027-11-24,706,P180228,PLAN_P180228_40117787
+RW-RTDA-561918-CS-QCBS,0,tor,Terms of Reference,planned,2026-07-23,368,P180228,PLAN_P180228_40117787
+RW-RTDA-561918-CS-QCBS,1,eoi_notice,Expression of Interest Notice,planned,2026-08-24,411,P180228,PLAN_P180228_40117787
+RW-RTDA-561918-CS-QCBS,2,shortlist,Short List and Draft R equest for Proposals,planned,2026-10-29,453,P180228,PLAN_P180228_40117787
+RW-RTDA-561918-CS-QCBS,4,tech_opening,Opening of Technical Proposals / Minutes,planned,2027-01-12,538,P180228,PLAN_P180228_40117787
+RW-RTDA-561918-CS-QCBS,5,tech_eval,Evaluation of Technic al Proposal,planned,2027-02-25,580,P180228,PLAN_P180228_40117787
+RW-RTDA-561918-CS-QCBS,6,combined_eval,Combined Evaluation Report and Draft Neg otiated Contract,planned,2027-04-20,622,P180228,PLAN_P180228_40117787
+RW-RTDA-561918-CS-QCBS,7,signed,Signed Contract,planned,2027-06-14,664,P180228,PLAN_P180228_40117787
+RW-RTDA-561918-CS-QCBS,8,completion,Contract Completion,planned,2029-03-04,706,P180228,PLAN_P180228_40117787
+RW-RTDA-431687-CS-INDV,0,tor,Terms of Reference,planned,2024-06-17,368,P180228,PLAN_P180228_40117787
+RW-RTDA-431687-CS-INDV,1,invitation,Invitation to Identifie d/Selected Consultant,planned,2024-09-30,411,P180228,PLAN_P180228_40117787
+RW-RTDA-431687-CS-INDV,2,negotiated,Draft Negotiated Cont ract,planned,2024-10-21,453,P180228,PLAN_P180228_40117787
+RW-RTDA-431687-CS-INDV,3,signed,Signed Contract,planned,2024-11-25,496,P180228,PLAN_P180228_40117787
+RW-RTDA-431687-CS-INDV,4,completion,Contract Completion,planned,2026-11-25,538,P180228,PLAN_P180228_40117787
+RW-RTDA-431690-CS-INDV,0,tor,Terms of Reference,planned,2025-03-03,368,P180228,PLAN_P180228_40117787
+RW-RTDA-431690-CS-INDV,1,invitation,Invitation to Identifie d/Selected Consultant,planned,2025-06-16,411,P180228,PLAN_P180228_40117787
+RW-RTDA-431690-CS-INDV,2,negotiated,Draft Negotiated Cont ract,planned,2025-07-07,453,P180228,PLAN_P180228_40117787
+RW-RTDA-431690-CS-INDV,3,signed,Signed Contract,planned,2025-08-11,496,P180228,PLAN_P180228_40117787
+RW-RTDA-431690-CS-INDV,4,completion,Contract Completion,planned,2027-08-11,538,P180228,PLAN_P180228_40117787
+RW-RTDA-431691-CS-INDV,0,tor,Terms of Reference,planned,2025-01-12,368,P180228,PLAN_P180228_40117787
+RW-RTDA-431691-CS-INDV,0,tor,Terms of Reference,actual,2025-03-13,390,P180228,PLAN_P180228_40117787
+RW-RTDA-431691-CS-INDV,1,invitation,Invitation to Identifie d/Selected Consultant,planned,2025-04-18,411,P180228,PLAN_P180228_40117787
+RW-RTDA-431691-CS-INDV,1,invitation,Invitation to Identifie d/Selected Consultant,actual,2025-09-19,432,P180228,PLAN_P180228_40117787
+RW-RTDA-431691-CS-INDV,2,negotiated,Draft Negotiated Cont ract,planned,2025-05-09,453,P180228,PLAN_P180228_40117787
+RW-RTDA-431691-CS-INDV,2,negotiated,Draft Negotiated Cont ract,actual,2026-05-22,475,P180228,PLAN_P180228_40117787
+RW-RTDA-431691-CS-INDV,3,signed,Signed Contract,planned,2025-06-13,496,P180228,PLAN_P180228_40117787
+RW-RTDA-431691-CS-INDV,3,signed,Signed Contract,actual,2026-05-29,517,P180228,PLAN_P180228_40117787
+RW-RTDA-431691-CS-INDV,4,completion,Contract Completion,planned,2027-06-13,538,P180228,PLAN_P180228_40117787
+RW-RTDA-440755-CS-INDV,0,tor,Terms of Reference,planned,2024-07-25,368,P180228,PLAN_P180228_40117787
+RW-RTDA-440755-CS-INDV,0,tor,Terms of Reference,actual,2024-06-28,390,P180228,PLAN_P180228_40117787
+RW-RTDA-440755-CS-INDV,1,invitation,Invitation to Identifie d/Selected Consultant,planned,2024-09-20,411,P180228,PLAN_P180228_40117787
+RW-RTDA-440755-CS-INDV,1,invitation,Invitation to Identifie d/Selected Consultant,actual,2025-02-28,432,P180228,PLAN_P180228_40117787
+RW-RTDA-440755-CS-INDV,2,negotiated,Draft Negotiated Cont ract,planned,2024-10-11,453,P180228,PLAN_P180228_40117787
+RW-RTDA-440755-CS-INDV,2,negotiated,Draft Negotiated Cont ract,actual,2025-03-04,475,P180228,PLAN_P180228_40117787
+RW-RTDA-440755-CS-INDV,3,signed,Signed Contract,planned,2024-11-08,496,P180228,PLAN_P180228_40117787
+RW-RTDA-440755-CS-INDV,3,signed,Signed Contract,actual,2025-03-29,517,P180228,PLAN_P180228_40117787
+RW-RTDA-440755-CS-INDV,4,completion,Contract Completion,planned,2026-11-06,538,P180228,PLAN_P180228_40117787
+RW-RTDA-451801-CS-INDV,0,tor,Terms of Reference,planned,2024-11-01,368,P180228,PLAN_P180228_40117787
+RW-RTDA-451801-CS-INDV,0,tor,Terms of Reference,actual,2024-10-18,390,P180228,PLAN_P180228_40117787
+RW-RTDA-451801-CS-INDV,1,invitation,Invitation to Identifie d/Selected Consultant,planned,2024-12-13,411,P180228,PLAN_P180228_40117787
+RW-RTDA-451801-CS-INDV,1,invitation,Invitation to Identifie d/Selected Consultant,actual,2025-04-15,432,P180228,PLAN_P180228_40117787
+RW-RTDA-451801-CS-INDV,2,negotiated,Draft Negotiated Cont ract,planned,2025-01-03,453,P180228,PLAN_P180228_40117787
+RW-RTDA-451801-CS-INDV,2,negotiated,Draft Negotiated Cont ract,actual,2025-06-19,475,P180228,PLAN_P180228_40117787
+RW-RTDA-451801-CS-INDV,3,signed,Signed Contract,planned,2025-02-07,496,P180228,PLAN_P180228_40117787
+RW-RTDA-451801-CS-INDV,3,signed,Signed Contract,actual,2025-07-31,517,P180228,PLAN_P180228_40117787
+RW-RTDA-451801-CS-INDV,4,completion,Contract Completion,planned,2027-02-07,538,P180228,PLAN_P180228_40117787
+RW-RTDA-506543-CS-INDV,0,tor,Terms of Reference,planned,2025-08-29,368,P180228,PLAN_P180228_40117787
+RW-RTDA-506543-CS-INDV,0,tor,Terms of Reference,actual,2025-10-08,390,P180228,PLAN_P180228_40117787
+RW-RTDA-506543-CS-INDV,1,invitation,Invitation to Identifie d/Selected Consultant,planned,2025-10-17,411,P180228,PLAN_P180228_40117787
+RW-RTDA-506543-CS-INDV,2,negotiated,Draft Negotiated Cont ract,planned,2025-11-07,453,P180228,PLAN_P180228_40117787
+RW-RTDA-506543-CS-INDV,3,signed,Signed Contract,planned,2025-12-12,496,P180228,PLAN_P180228_40117787
+RW-RTDA-506543-CS-INDV,4,completion,Contract Completion,planned,2027-12-12,538,P180228,PLAN_P180228_40117787
+RW-RTDA-550093-CS-INDV,0,tor,Terms of Reference,planned,2026-04-30,368,P180228,PLAN_P180228_40117787
+RW-RTDA-550093-CS-INDV,0,tor,Terms of Reference,actual,2026-06-16,390,P180228,PLAN_P180228_40117787
+RW-RTDA-550093-CS-INDV,1,invitation,Invitation to Identifie d/Selected Consultant,planned,2026-06-18,411,P180228,PLAN_P180228_40117787
+RW-RTDA-550093-CS-INDV,2,negotiated,Draft Negotiated Cont ract,planned,2026-07-09,453,P180228,PLAN_P180228_40117787
+RW-RTDA-550093-CS-INDV,3,signed,Signed Contract,planned,2026-08-13,496,P180228,PLAN_P180228_40117787
+RW-RTDA-550093-CS-INDV,4,completion,Contract Completion,planned,2028-08-13,538,P180228,PLAN_P180228_40117787
+RW-RTDA-550095-CS-INDV,0,tor,Terms of Reference,planned,2026-04-30,368,P180228,PLAN_P180228_40117787
+RW-RTDA-550095-CS-INDV,0,tor,Terms of Reference,actual,2026-06-16,390,P180228,PLAN_P180228_40117787
+RW-RTDA-550095-CS-INDV,1,invitation,Invitation to Identifie d/Selected Consultant,planned,2026-06-18,411,P180228,PLAN_P180228_40117787
+RW-RTDA-550095-CS-INDV,2,negotiated,Draft Negotiated Cont ract,planned,2026-07-09,453,P180228,PLAN_P180228_40117787
+RW-RTDA-550095-CS-INDV,3,signed,Signed Contract,planned,2026-08-13,496,P180228,PLAN_P180228_40117787
+RW-RTDA-550095-CS-INDV,4,completion,Contract Completion,planned,2028-08-13,538,P180228,PLAN_P180228_40117787
+RW-RTDA-550096-CS-INDV,0,tor,Terms of Reference,planned,2026-04-30,368,P180228,PLAN_P180228_40117787
+RW-RTDA-550096-CS-INDV,0,tor,Terms of Reference,actual,2026-04-16,390,P180228,PLAN_P180228_40117787
+RW-RTDA-550096-CS-INDV,1,invitation,Invitation to Identifie d/Selected Consultant,planned,2026-06-18,411,P180228,PLAN_P180228_40117787
+RW-RTDA-550096-CS-INDV,2,negotiated,Draft Negotiated Cont ract,planned,2026-07-09,453,P180228,PLAN_P180228_40117787
+RW-RTDA-550096-CS-INDV,3,signed,Signed Contract,planned,2026-08-13,496,P180228,PLAN_P180228_40117787
+RW-RTDA-550096-CS-INDV,4,completion,Contract Completion,planned,2028-08-13,538,P180228,PLAN_P180228_40117787
+RW-BRD-468037-NC-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2025-05-05,475,P180575,PLAN_P180575_40127084
+RW-BRD-468037-NC-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,actual,2025-07-28,496,P180575,PLAN_P180575_40127084
+RW-BRD-468037-NC-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2025-05-10,517,P180575,PLAN_P180575_40127084
+RW-BRD-468037-NC-RFB,3,notice,Specific Procurement Notice / Invitation,actual,2025-08-04,538,P180575,PLAN_P180575_40127084
+RW-BRD-468037-NC-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2025-05-31,601,P180575,PLAN_P180575_40127084
+RW-BRD-468037-NC-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,actual,2025-08-12,622,P180575,PLAN_P180575_40127084
+RW-BRD-468037-NC-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2025-06-21,643,P180575,PLAN_P180575_40127084
+RW-BRD-468037-NC-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,actual,2025-10-20,664,P180575,PLAN_P180575_40127084
+RW-BRD-468037-NC-RFB,7,signed,Signed Contract,planned,2025-07-06,685,P180575,PLAN_P180575_40127084
+RW-BRD-468037-NC-RFB,7,signed,Signed Contract,actual,2025-12-02,706,P180575,PLAN_P180575_40127084
+RW-BRD-468037-NC-RFB,8,completion,Contract Completion,planned,2027-07-06,727,P180575,PLAN_P180575_40127084
+RW-BRD-468040-CS-QBS,0,tor,Terms of Reference,planned,2025-05-05,368,P180575,PLAN_P180575_40127084
+RW-BRD-468040-CS-QBS,0,tor,Terms of Reference,actual,2025-06-20,390,P180575,PLAN_P180575_40127084
+RW-BRD-468040-CS-QBS,1,eoi_notice,Expression of Interest Notice,planned,2025-05-26,411,P180575,PLAN_P180575_40127084
+RW-BRD-468040-CS-QBS,1,eoi_notice,Expression of Interest Notice,actual,2025-08-27,432,P180575,PLAN_P180575_40127084
+RW-BRD-468040-CS-QBS,2,shortlist,Short List and Draft R equest for Proposals,planned,2025-06-30,453,P180575,PLAN_P180575_40127084
+RW-BRD-468040-CS-QBS,2,shortlist,Short List and Draft R equest for Proposals,actual,2025-12-02,475,P180575,PLAN_P180575_40127084
+RW-BRD-468040-CS-QBS,4,tech_opening,Opening of Technical Proposals / Minutes,planned,2025-07-30,538,P180575,PLAN_P180575_40127084
+RW-BRD-468040-CS-QBS,4,tech_opening,Opening of Technical Proposals / Minutes,actual,2025-12-22,559,P180575,PLAN_P180575_40127084
+RW-BRD-468040-CS-QBS,5,tech_eval,Evaluation of Technic al Proposal,planned,2025-08-20,580,P180575,PLAN_P180575_40127084
+RW-BRD-468040-CS-QBS,5,tech_eval,Evaluation of Technic al Proposal,actual,2026-01-22,601,P180575,PLAN_P180575_40127084
+RW-BRD-468040-CS-QBS,6,combined_eval,Combined Evaluation Report and Draft Neg otiated Contract,planned,2025-09-10,622,P180575,PLAN_P180575_40127084
+RW-BRD-468040-CS-QBS,6,combined_eval,Combined Evaluation Report and Draft Neg otiated Contract,actual,2026-02-13,643,P180575,PLAN_P180575_40127084
+RW-BRD-468040-CS-QBS,7,signed,Signed Contract,planned,2025-10-08,664,P180575,PLAN_P180575_40127084
+RW-BRD-468040-CS-QBS,7,signed,Signed Contract,actual,2026-03-16,685,P180575,PLAN_P180575_40127084
+RW-BRD-468040-CS-QBS,8,completion,Contract Completion,planned,2027-10-08,706,P180575,PLAN_P180575_40127084
+RW-BRD-467768-CS-CDS,0,tor,Terms of Reference,planned,2024-12-29,368,P180575,PLAN_P180575_40127084
+RW-BRD-467768-CS-CDS,0,tor,Terms of Reference,actual,2025-01-06,390,P180575,PLAN_P180575_40127084
+RW-BRD-467768-CS-CDS,1,invitation,Invitation to Identifie d/Selected Consultant,planned,2025-01-08,411,P180575,PLAN_P180575_40127084
+RW-BRD-467768-CS-CDS,1,invitation,Invitation to Identifie d/Selected Consultant,actual,2025-01-10,432,P180575,PLAN_P180575_40127084
+RW-BRD-467768-CS-CDS,3,signed,Signed Contract,planned,2025-02-26,496,P180575,PLAN_P180575_40127084
+RW-BRD-467768-CS-CDS,3,signed,Signed Contract,actual,2025-01-01,517,P180575,PLAN_P180575_40127084
+RW-BRD-467768-CS-CDS,4,completion,Contract Completion,planned,2027-02-26,538,P180575,PLAN_P180575_40127084
+RW-BRD-518068-CS-CDS,0,tor,Terms of Reference,planned,2025-10-08,368,P180575,PLAN_P180575_40127084
+RW-BRD-518068-CS-CDS,0,tor,Terms of Reference,actual,2025-10-17,390,P180575,PLAN_P180575_40127084
+RW-BRD-518068-CS-CDS,1,invitation,Invitation to Identifie d/Selected Consultant,planned,2025-10-18,411,P180575,PLAN_P180575_40127084
+RW-BRD-518068-CS-CDS,1,invitation,Invitation to Identifie d/Selected Consultant,actual,2025-12-02,432,P180575,PLAN_P180575_40127084
+RW-BRD-518068-CS-CDS,3,signed,Signed Contract,planned,2025-11-15,496,P180575,PLAN_P180575_40127084
+RW-BRD-518068-CS-CDS,4,completion,Contract Completion,planned,2028-11-14,538,P180575,PLAN_P180575_40127084
+RW-BRD-572140-CS-INDV,0,tor,Terms of Reference,planned,2026-09-07,368,P180575,PLAN_P180575_40127084
+RW-BRD-572140-CS-INDV,1,invitation,Invitation to Identifie d/Selected Consultant,planned,2026-09-23,411,P180575,PLAN_P180575_40127084
+RW-BRD-572140-CS-INDV,2,negotiated,Draft Negotiated Cont ract,planned,2026-10-15,453,P180575,PLAN_P180575_40127084
+RW-BRD-572140-CS-INDV,3,signed,Signed Contract,planned,2026-11-04,496,P180575,PLAN_P180575_40127084
+RW-BRD-572140-CS-INDV,4,completion,Contract Completion,planned,2029-08-15,538,P180575,PLAN_P180575_40127084
+RW-BRD-572776-CS-CDS,0,tor,Terms of Reference,planned,2026-09-11,368,P180575,PLAN_P180575_40127084
+RW-BRD-572776-CS-CDS,1,invitation,Invitation to Identifie d/Selected Consultant,planned,2026-09-25,411,P180575,PLAN_P180575_40127084
+RW-BRD-572776-CS-CDS,3,signed,Signed Contract,planned,2026-12-23,496,P180575,PLAN_P180575_40127084
+RW-BRD-572776-CS-CDS,4,completion,Contract Completion,planned,2029-09-16,538,P180575,PLAN_P180575_40127084
+RW-RWB-454350-CW-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2025-03-02,517,P178161,PLAN_P178161_40107575
+RW-RWB-454350-CW-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,actual,2025-03-19,538,P178161,PLAN_P178161_40107575
+RW-RWB-454350-CW-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2025-03-23,559,P178161,PLAN_P178161_40107575
+RW-RWB-454350-CW-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2025-04-13,643,P178161,PLAN_P178161_40107575
+RW-RWB-454350-CW-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2025-05-04,685,P178161,PLAN_P178161_40107575
+RW-RWB-454350-CW-RFB,7,signed,Signed Contract,planned,2025-06-15,727,P178161,PLAN_P178161_40107575
+RW-RWB-508106-CW-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2025-09-30,517,P178161,PLAN_P178161_40107575
+RW-RWB-508106-CW-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2025-10-05,559,P178161,PLAN_P178161_40107575
+RW-RWB-508106-CW-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2025-11-16,643,P178161,PLAN_P178161_40107575
+RW-RWB-508106-CW-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2025-12-16,685,P178161,PLAN_P178161_40107575
+RW-RWB-508106-CW-RFB,7,signed,Signed Contract,planned,2026-01-20,727,P178161,PLAN_P178161_40107575
+RW-RWB-535244-CW-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2026-05-24,517,P178161,PLAN_P178161_40107575
+RW-RWB-535244-CW-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2026-05-29,559,P178161,PLAN_P178161_40107575
+RW-RWB-535244-CW-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2026-07-10,643,P178161,PLAN_P178161_40107575
+RW-RWB-535244-CW-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2026-08-09,685,P178161,PLAN_P178161_40107575
+RW-RWB-535244-CW-RFB,7,signed,Signed Contract,planned,2026-09-13,727,P178161,PLAN_P178161_40107575
+RW-RWB-415492-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2024-05-15,475,P178161,PLAN_P178161_40107575
+RW-RWB-415492-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,actual,2024-06-20,496,P178161,PLAN_P178161_40107575
+RW-RWB-415492-GO-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2024-05-30,517,P178161,PLAN_P178161_40107575
+RW-RWB-415492-GO-RFB,3,notice,Specific Procurement Notice / Invitation,actual,2024-06-20,538,P178161,PLAN_P178161_40107575
+RW-RWB-415492-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2024-06-20,601,P178161,PLAN_P178161_40107575
+RW-RWB-415492-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,actual,2024-06-28,622,P178161,PLAN_P178161_40107575
+RW-RWB-415492-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2024-07-11,643,P178161,PLAN_P178161_40107575
+RW-RWB-415492-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,actual,2024-07-03,664,P178161,PLAN_P178161_40107575
+RW-RWB-415492-GO-RFB,7,signed,Signed Contract,planned,2024-08-15,685,P178161,PLAN_P178161_40107575
+RW-RWB-415492-GO-RFB,7,signed,Signed Contract,actual,2024-08-30,706,P178161,PLAN_P178161_40107575
+RW-RWB-415492-GO-RFB,8,completion,Contract Completion,planned,2024-11-13,727,P178161,PLAN_P178161_40107575
+RW-RWB-417718-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2024-05-10,475,P178161,PLAN_P178161_40107575
+RW-RWB-417718-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,actual,2024-06-06,496,P178161,PLAN_P178161_40107575
+RW-RWB-417718-GO-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2024-06-04,517,P178161,PLAN_P178161_40107575
+RW-RWB-417718-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2024-06-25,601,P178161,PLAN_P178161_40107575
+RW-RWB-417718-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,actual,2024-06-28,622,P178161,PLAN_P178161_40107575
+RW-RWB-417718-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2024-07-16,643,P178161,PLAN_P178161_40107575
+RW-RWB-417718-GO-RFB,7,signed,Signed Contract,planned,2024-08-20,685,P178161,PLAN_P178161_40107575
+RW-RWB-417718-GO-RFB,8,completion,Contract Completion,planned,2024-12-18,727,P178161,PLAN_P178161_40107575
+RW-RWB-417702-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2024-05-10,475,P178161,PLAN_P178161_40107575
+RW-RWB-417702-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,actual,2024-05-31,496,P178161,PLAN_P178161_40107575
+RW-RWB-417702-GO-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2024-06-04,517,P178161,PLAN_P178161_40107575
+RW-RWB-417702-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2024-07-04,601,P178161,PLAN_P178161_40107575
+RW-RWB-417702-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,actual,2024-06-21,622,P178161,PLAN_P178161_40107575
+RW-RWB-417702-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2024-07-25,643,P178161,PLAN_P178161_40107575
+RW-RWB-417702-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,actual,2024-06-28,664,P178161,PLAN_P178161_40107575
+RW-RWB-417702-GO-RFB,7,signed,Signed Contract,planned,2024-09-13,685,P178161,PLAN_P178161_40107575
+RW-RWB-417702-GO-RFB,7,signed,Signed Contract,actual,2024-12-18,706,P178161,PLAN_P178161_40107575
+RW-RWB-417702-GO-RFB,8,completion,Contract Completion,planned,2025-02-10,727,P178161,PLAN_P178161_40107575
+RW-RWB-452298-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2024-10-02,475,P178161,PLAN_P178161_40107575
+RW-RWB-452298-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,actual,2024-06-30,496,P178161,PLAN_P178161_40107575
+RW-RWB-452298-GO-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2024-10-05,517,P178161,PLAN_P178161_40107575
+RW-RWB-452298-GO-RFB,3,notice,Specific Procurement Notice / Invitation,actual,2024-11-14,538,P178161,PLAN_P178161_40107575
+RW-RWB-452298-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2024-10-26,601,P178161,PLAN_P178161_40107575
+RW-RWB-452298-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,actual,2024-07-29,622,P178161,PLAN_P178161_40107575
+RW-RWB-452298-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2024-11-16,643,P178161,PLAN_P178161_40107575
+RW-RWB-452298-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,actual,2024-09-06,664,P178161,PLAN_P178161_40107575
+RW-RWB-452298-GO-RFB,7,signed,Signed Contract,planned,2024-12-07,685,P178161,PLAN_P178161_40107575
+RW-RWB-452298-GO-RFB,7,signed,Signed Contract,actual,2024-10-04,706,P178161,PLAN_P178161_40107575
+RW-RWB-452298-GO-RFB,8,completion,Contract Completion,planned,2025-12-07,727,P178161,PLAN_P178161_40107575
+RW-RWB-483718-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2025-04-15,475,P178161,PLAN_P178161_40107575
+RW-RWB-483718-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,actual,2025-04-06,496,P178161,PLAN_P178161_40107575
+RW-RWB-483718-GO-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2025-05-06,517,P178161,PLAN_P178161_40107575
+RW-RWB-483718-GO-RFB,3,notice,Specific Procurement Notice / Invitation,actual,2025-04-16,538,P178161,PLAN_P178161_40107575
+RW-RWB-483718-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2025-05-27,601,P178161,PLAN_P178161_40107575
+RW-RWB-483718-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,actual,2025-01-08,622,P178161,PLAN_P178161_40107575
+RW-RWB-483718-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2025-06-17,643,P178161,PLAN_P178161_40107575
+RW-RWB-483718-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,actual,2025-05-08,664,P178161,PLAN_P178161_40107575
+RW-RWB-483718-GO-RFB,7,signed,Signed Contract,planned,2025-07-18,685,P178161,PLAN_P178161_40107575
+RW-RWB-483718-GO-RFB,7,signed,Signed Contract,actual,2025-07-05,706,P178161,PLAN_P178161_40107575
+RW-RWB-483718-GO-RFB,8,completion,Contract Completion,planned,2025-11-15,727,P178161,PLAN_P178161_40107575
+RW-RWB-454361-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2025-04-10,475,P178161,PLAN_P178161_40107575
+RW-RWB-454361-GO-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2025-04-15,517,P178161,PLAN_P178161_40107575
+RW-RWB-454361-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2025-05-06,601,P178161,PLAN_P178161_40107575
+RW-RWB-454361-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2025-05-27,643,P178161,PLAN_P178161_40107575
+RW-RWB-454361-GO-RFB,7,signed,Signed Contract,planned,2025-06-17,685,P178161,PLAN_P178161_40107575
+RW-RWB-454361-GO-RFB,8,completion,Contract Completion,planned,2026-06-17,727,P178161,PLAN_P178161_40107575
+RW-RWB-452310-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2025-04-10,475,P178161,PLAN_P178161_40107575
+RW-RWB-452310-GO-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2025-04-13,517,P178161,PLAN_P178161_40107575
+RW-RWB-452310-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2025-05-04,601,P178161,PLAN_P178161_40107575
+RW-RWB-452310-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2025-05-25,643,P178161,PLAN_P178161_40107575
+RW-RWB-452310-GO-RFB,7,signed,Signed Contract,planned,2025-06-15,685,P178161,PLAN_P178161_40107575
+RW-RWB-452310-GO-RFB,8,completion,Contract Completion,planned,2026-06-15,727,P178161,PLAN_P178161_40107575
+RW-RWB-454240-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2025-04-10,475,P178161,PLAN_P178161_40107575
+RW-RWB-454240-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,actual,2024-11-04,496,P178161,PLAN_P178161_40107575
+RW-RWB-454240-GO-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2025-04-13,517,P178161,PLAN_P178161_40107575
+RW-RWB-454240-GO-RFB,3,notice,Specific Procurement Notice / Invitation,actual,2025-06-11,538,P178161,PLAN_P178161_40107575
+RW-RWB-454240-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2025-05-04,601,P178161,PLAN_P178161_40107575
+RW-RWB-454240-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,actual,2024-11-04,622,P178161,PLAN_P178161_40107575
+RW-RWB-454240-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2025-05-25,643,P178161,PLAN_P178161_40107575
+RW-RWB-454240-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,actual,2025-05-01,664,P178161,PLAN_P178161_40107575
+RW-RWB-454240-GO-RFB,7,signed,Signed Contract,planned,2025-06-15,685,P178161,PLAN_P178161_40107575
+RW-RWB-454240-GO-RFB,7,signed,Signed Contract,actual,2024-12-18,706,P178161,PLAN_P178161_40107575
+RW-RWB-454240-GO-RFB,8,completion,Contract Completion,planned,2026-06-15,727,P178161,PLAN_P178161_40107575
+RW-RWB-554036-GO-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2026-05-24,475,P178161,PLAN_P178161_40107575
+RW-RWB-554036-GO-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2026-05-29,517,P178161,PLAN_P178161_40107575
+RW-RWB-554036-GO-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2026-07-10,601,P178161,PLAN_P178161_40107575
+RW-RWB-554036-GO-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2026-08-09,643,P178161,PLAN_P178161_40107575
+RW-RWB-554036-GO-RFB,7,signed,Signed Contract,planned,2026-09-13,685,P178161,PLAN_P178161_40107575
+RW-RWB-554036-GO-RFB,8,completion,Contract Completion,planned,2027-03-12,727,P178161,PLAN_P178161_40107575
+RW-RWB-454262-NC-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2024-10-02,475,P178161,PLAN_P178161_40107575
+RW-RWB-454262-NC-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,actual,2023-07-09,496,P178161,PLAN_P178161_40107575
+RW-RWB-454262-NC-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2024-10-05,517,P178161,PLAN_P178161_40107575
+RW-RWB-454262-NC-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2024-10-26,601,P178161,PLAN_P178161_40107575
+RW-RWB-454262-NC-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,actual,2024-07-24,622,P178161,PLAN_P178161_40107575
+RW-RWB-454262-NC-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2024-11-16,643,P178161,PLAN_P178161_40107575
+RW-RWB-454262-NC-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,actual,2022-04-22,664,P178161,PLAN_P178161_40107575
+RW-RWB-454262-NC-RFB,7,signed,Signed Contract,planned,2024-12-07,685,P178161,PLAN_P178161_40107575
+RW-RWB-454262-NC-RFB,7,signed,Signed Contract,actual,2023-08-31,706,P178161,PLAN_P178161_40107575
+RW-RWB-454262-NC-RFB,8,completion,Contract Completion,planned,2025-12-07,727,P178161,PLAN_P178161_40107575
+RW-RWB-454268-NC-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,planned,2025-03-21,475,P178161,PLAN_P178161_40107575
+RW-RWB-454268-NC-RFB,2,bid_docs_draft,Draft Bidding Docum ent / Justification,actual,2025-02-10,496,P178161,PLAN_P178161_40107575
+RW-RWB-454268-NC-RFB,3,notice,Specific Procurement Notice / Invitation,planned,2025-03-24,517,P178161,PLAN_P178161_40107575
+RW-RWB-454268-NC-RFB,3,notice,Specific Procurement Notice / Invitation,actual,2025-06-02,538,P178161,PLAN_P178161_40107575
+RW-RWB-454268-NC-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,planned,2025-04-14,601,P178161,PLAN_P178161_40107575
+RW-RWB-454268-NC-RFB,5,bid_opening,Proposal Submission / Opening / Minutes,actual,2025-03-05,622,P178161,PLAN_P178161_40107575
+RW-RWB-454268-NC-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,planned,2025-05-05,643,P178161,PLAN_P178161_40107575
+RW-RWB-454268-NC-RFB,6,bid_eval,Bid Evaluation Report and Recommendation for Award,actual,2025-08-01,664,P178161,PLAN_P178161_40107575
+RW-RWB-454268-NC-RFB,7,signed,Signed Contract,planned,2025-05-26,685,P178161,PLAN_P178161_40107575
+RW-RWB-454268-NC-RFB,7,signed,Signed Contract,actual,2025-05-05,706,P178161,PLAN_P178161_40107575
+RW-RWB-454268-NC-RFB,8,completion,Contract Completion,planned,2026-05-26,727,P178161,PLAN_P178161_40107575
+RW-RWB-417836-CS-QCBS,0,tor,Terms of Reference,planned,2024-05-10,368,P178161,PLAN_P178161_40107575
+RW-RWB-417836-CS-QCBS,0,tor,Terms of Reference,actual,2024-04-29,390,P178161,PLAN_P178161_40107575
+RW-RWB-417836-CS-QCBS,1,eoi_notice,Expression of Interest Notice,planned,2024-05-31,411,P178161,PLAN_P178161_40107575
+RW-RWB-417836-CS-QCBS,1,eoi_notice,Expression of Interest Notice,actual,2025-01-21,432,P178161,PLAN_P178161_40107575
+RW-RWB-417836-CS-QCBS,2,shortlist,Short List and Draft R equest for Proposals,planned,2024-07-05,453,P178161,PLAN_P178161_40107575
+RW-RWB-417836-CS-QCBS,2,shortlist,Short List and Draft R equest for Proposals,actual,2024-09-30,475,P178161,PLAN_P178161_40107575
+RW-RWB-417836-CS-QCBS,4,tech_opening,Opening of Technical Proposals / Minutes,planned,2024-08-04,538,P178161,PLAN_P178161_40107575
+RW-RWB-417836-CS-QCBS,4,tech_opening,Opening of Technical Proposals / Minutes,actual,2024-10-21,559,P178161,PLAN_P178161_40107575
+RW-RWB-417836-CS-QCBS,5,tech_eval,Evaluation of Technic al Proposal,planned,2024-08-25,580,P178161,PLAN_P178161_40107575
+RW-RWB-417836-CS-QCBS,5,tech_eval,Evaluation of Technic al Proposal,actual,2024-11-18,601,P178161,PLAN_P178161_40107575
+RW-RWB-417836-CS-QCBS,6,combined_eval,Combined Evaluation Report and Draft Neg otiated Contract,planned,2024-09-29,622,P178161,PLAN_P178161_40107575
+RW-RWB-417836-CS-QCBS,6,combined_eval,Combined Evaluation Report and Draft Neg otiated Contract,actual,2025-01-16,643,P178161,PLAN_P178161_40107575
+RW-RWB-417836-CS-QCBS,7,signed,Signed Contract,planned,2024-11-03,664,P178161,PLAN_P178161_40107575
+RW-RWB-417836-CS-QCBS,7,signed,Signed Contract,actual,2025-06-12,685,P178161,PLAN_P178161_40107575
+RW-RWB-417836-CS-QCBS,8,completion,Contract Completion,planned,2026-11-04,706,P178161,PLAN_P178161_40107575
+RW-RWB-417725-CS-QCBS,0,tor,Terms of Reference,planned,2024-05-10,368,P178161,PLAN_P178161_40107575
+RW-RWB-417725-CS-QCBS,0,tor,Terms of Reference,actual,2024-04-29,390,P178161,PLAN_P178161_40107575
+RW-RWB-417725-CS-QCBS,1,eoi_notice,Expression of Interest Notice,planned,2024-05-31,411,P178161,PLAN_P178161_40107575
+RW-RWB-417725-CS-QCBS,1,eoi_notice,Expression of Interest Notice,actual,2024-06-20,432,P178161,PLAN_P178161_40107575
+RW-RWB-417725-CS-QCBS,2,shortlist,Short List and Draft R equest for Proposals,planned,2024-07-05,453,P178161,PLAN_P178161_40107575
+RW-RWB-417725-CS-QCBS,2,shortlist,Short List and Draft R equest for Proposals,actual,2024-11-07,475,P178161,PLAN_P178161_40107575
+RW-RWB-417725-CS-QCBS,4,tech_opening,Opening of Technical Proposals / Minutes,planned,2024-08-04,538,P178161,PLAN_P178161_40107575
+RW-RWB-417725-CS-QCBS,4,tech_opening,Opening of Technical Proposals / Minutes,actual,2024-12-14,559,P178161,PLAN_P178161_40107575
+RW-RWB-417725-CS-QCBS,5,tech_eval,Evaluation of Technic al Proposal,planned,2024-08-25,580,P178161,PLAN_P178161_40107575
+RW-RWB-417725-CS-QCBS,5,tech_eval,Evaluation of Technic al Proposal,actual,2024-10-14,601,P178161,PLAN_P178161_40107575
+RW-RWB-417725-CS-QCBS,6,combined_eval,Combined Evaluation Report and Draft Neg otiated Contract,planned,2024-09-22,622,P178161,PLAN_P178161_40107575
+RW-RWB-417725-CS-QCBS,6,combined_eval,Combined Evaluation Report and Draft Neg otiated Contract,actual,2025-02-28,643,P178161,PLAN_P178161_40107575
+RW-RWB-417725-CS-QCBS,7,signed,Signed Contract,planned,2024-11-11,664,P178161,PLAN_P178161_40107575
+RW-RWB-417725-CS-QCBS,7,signed,Signed Contract,actual,2025-06-12,685,P178161,PLAN_P178161_40107575
+RW-RWB-417725-CS-QCBS,8,completion,Contract Completion,planned,2025-11-11,706,P178161,PLAN_P178161_40107575
+RW-RWB-417813-CS-QCBS,0,tor,Terms of Reference,planned,2024-05-10,368,P178161,PLAN_P178161_40107575
+RW-RWB-417813-CS-QCBS,0,tor,Terms of Reference,actual,2024-04-29,390,P178161,PLAN_P178161_40107575
+RW-RWB-417813-CS-QCBS,1,eoi_notice,Expression of Interest Notice,planned,2024-05-31,411,P178161,PLAN_P178161_40107575
+RW-RWB-417813-CS-QCBS,1,eoi_notice,Expression of Interest Notice,actual,2024-06-20,432,P178161,PLAN_P178161_40107575
+RW-RWB-417813-CS-QCBS,2,shortlist,Short List and Draft R equest for Proposals,planned,2024-07-05,453,P178161,PLAN_P178161_40107575
+RW-RWB-417813-CS-QCBS,2,shortlist,Short List and Draft R equest for Proposals,actual,2024-09-16,475,P178161,PLAN_P178161_40107575
+RW-RWB-417813-CS-QCBS,4,tech_opening,Opening of Technical Proposals / Minutes,planned,2024-08-04,538,P178161,PLAN_P178161_40107575
+RW-RWB-417813-CS-QCBS,4,tech_opening,Opening of Technical Proposals / Minutes,actual,2024-10-14,559,P178161,PLAN_P178161_40107575
+RW-RWB-417813-CS-QCBS,5,tech_eval,Evaluation of Technic al Proposal,planned,2024-08-25,580,P178161,PLAN_P178161_40107575
+RW-RWB-417813-CS-QCBS,5,tech_eval,Evaluation of Technic al Proposal,actual,2025-05-01,601,P178161,PLAN_P178161_40107575
+RW-RWB-417813-CS-QCBS,6,combined_eval,Combined Evaluation Report and Draft Neg otiated Contract,planned,2024-09-11,622,P178161,PLAN_P178161_40107575
+RW-RWB-417813-CS-QCBS,6,combined_eval,Combined Evaluation Report and Draft Neg otiated Contract,actual,2024-10-14,643,P178161,PLAN_P178161_40107575
+RW-RWB-417813-CS-QCBS,7,signed,Signed Contract,planned,2024-11-01,664,P178161,PLAN_P178161_40107575
+RW-RWB-417813-CS-QCBS,7,signed,Signed Contract,actual,2025-03-12,685,P178161,PLAN_P178161_40107575
+RW-RWB-417813-CS-QCBS,8,completion,Contract Completion,planned,2025-11-01,706,P178161,PLAN_P178161_40107575
+RW-RWB-454291-CS-QCBS,0,tor,Terms of Reference,planned,2025-03-21,368,P178161,PLAN_P178161_40107575
+RW-RWB-454291-CS-QCBS,0,tor,Terms of Reference,actual,2024-06-20,390,P178161,PLAN_P178161_40107575
+RW-RWB-454291-CS-QCBS,1,eoi_notice,Expression of Interest Notice,planned,2025-04-20,411,P178161,PLAN_P178161_40107575
+RW-RWB-454291-CS-QCBS,2,shortlist,Short List and Draft R equest for Proposals,planned,2025-06-01,453,P178161,PLAN_P178161_40107575
+RW-RWB-454291-CS-QCBS,4,tech_opening,Opening of Technical Proposals / Minutes,planned,2025-06-22,538,P178161,PLAN_P178161_40107575
+RW-RWB-454291-CS-QCBS,5,tech_eval,Evaluation of Technic al Proposal,planned,2025-07-13,580,P178161,PLAN_P178161_40107575
+RW-RWB-454291-CS-QCBS,6,combined_eval,Combined Evaluation Report and Draft Neg otiated Contract,planned,2025-08-24,622,P178161,PLAN_P178161_40107575
+RW-RWB-454291-CS-QCBS,7,signed,Signed Contract,planned,2025-09-14,664,P178161,PLAN_P178161_40107575
+RW-RWB-454291-CS-QCBS,8,completion,Contract Completion,planned,2026-09-14,706,P178161,PLAN_P178161_40107575
+RW-RWB-454301-CS-QCBS,0,tor,Terms of Reference,planned,2025-05-30,368,P178161,PLAN_P178161_40107575
+RW-RWB-454301-CS-QCBS,1,eoi_notice,Expression of Interest Notice,planned,2025-06-20,411,P178161,PLAN_P178161_40107575
+RW-RWB-454301-CS-QCBS,2,shortlist,Short List and Draft R equest for Proposals,planned,2025-08-01,453,P178161,PLAN_P178161_40107575
+RW-RWB-454301-CS-QCBS,4,tech_opening,Opening of Technical Proposals / Minutes,planned,2025-08-22,538,P178161,PLAN_P178161_40107575
+RW-RWB-454301-CS-QCBS,5,tech_eval,Evaluation of Technic al Proposal,planned,2025-09-12,580,P178161,PLAN_P178161_40107575
+RW-RWB-454301-CS-QCBS,6,combined_eval,Combined Evaluation Report and Draft Neg otiated Contract,planned,2025-10-17,622,P178161,PLAN_P178161_40107575
+RW-RWB-454301-CS-QCBS,7,signed,Signed Contract,planned,2025-11-07,664,P178161,PLAN_P178161_40107575
+RW-RWB-454301-CS-QCBS,8,completion,Contract Completion,planned,2026-11-07,706,P178161,PLAN_P178161_40107575
+RW-RWB-486231-CS-QCBS,0,tor,Terms of Reference,planned,2025-04-20,368,P178161,PLAN_P178161_40107575
+RW-RWB-486231-CS-QCBS,0,tor,Terms of Reference,actual,2025-06-02,390,P178161,PLAN_P178161_40107575
+RW-RWB-486231-CS-QCBS,1,eoi_notice,Expression of Interest Notice,planned,2025-05-11,411,P178161,PLAN_P178161_40107575
+RW-RWB-486231-CS-QCBS,1,eoi_notice,Expression of Interest Notice,actual,2026-04-01,432,P178161,PLAN_P178161_40107575
+RW-RWB-486231-CS-QCBS,2,shortlist,Short List and Draft R equest for Proposals,planned,2025-06-24,453,P178161,PLAN_P178161_40107575
+RW-RWB-486231-CS-QCBS,2,shortlist,Short List and Draft R equest for Proposals,actual,2026-04-01,475,P178161,PLAN_P178161_40107575
+RW-RWB-486231-CS-QCBS,4,tech_opening,Opening of Technical Proposals / Minutes,planned,2025-07-22,538,P178161,PLAN_P178161_40107575
+RW-RWB-486231-CS-QCBS,4,tech_opening,Opening of Technical Proposals / Minutes,actual,2026-04-01,559,P178161,PLAN_P178161_40107575
+RW-RWB-486231-CS-QCBS,5,tech_eval,Evaluation of Technic al Proposal,planned,2025-08-21,580,P178161,PLAN_P178161_40107575
+RW-RWB-486231-CS-QCBS,5,tech_eval,Evaluation of Technic al Proposal,actual,2026-04-01,601,P178161,PLAN_P178161_40107575
+RW-RWB-486231-CS-QCBS,6,combined_eval,Combined Evaluation Report and Draft Neg otiated Contract,planned,2025-09-25,622,P178161,PLAN_P178161_40107575
+RW-RWB-486231-CS-QCBS,6,combined_eval,Combined Evaluation Report and Draft Neg otiated Contract,actual,2026-04-01,643,P178161,PLAN_P178161_40107575
+RW-RWB-486231-CS-QCBS,7,signed,Signed Contract,planned,2025-10-30,664,P178161,PLAN_P178161_40107575
+RW-RWB-486231-CS-QCBS,7,signed,Signed Contract,actual,2025-11-17,685,P178161,PLAN_P178161_40107575
+RW-RWB-486231-CS-QCBS,8,completion,Contract Completion,planned,2026-10-30,706,P178161,PLAN_P178161_40107575
+RW-RWB-508110-CS-QCBS,0,tor,Terms of Reference,planned,2025-08-31,368,P178161,PLAN_P178161_40107575
+RW-RWB-508110-CS-QCBS,1,eoi_notice,Expression of Interest Notice,planned,2025-09-21,411,P178161,PLAN_P178161_40107575
+RW-RWB-508110-CS-QCBS,2,shortlist,Short List and Draft R equest for Proposals,planned,2025-11-04,453,P178161,PLAN_P178161_40107575
+RW-RWB-508110-CS-QCBS,4,tech_opening,Opening of Technical Proposals / Minutes,planned,2025-12-02,538,P178161,PLAN_P178161_40107575
+RW-RWB-508110-CS-QCBS,5,tech_eval,Evaluation of Technic al Proposal,planned,2026-01-01,580,P178161,PLAN_P178161_40107575
+RW-RWB-508110-CS-QCBS,6,combined_eval,Combined Evaluation Report and Draft Neg otiated Contract,planned,2026-02-05,622,P178161,PLAN_P178161_40107575
+RW-RWB-508110-CS-QCBS,7,signed,Signed Contract,planned,2026-03-12,664,P178161,PLAN_P178161_40107575
+RW-RWB-508110-CS-QCBS,8,completion,Contract Completion,planned,2027-03-12,706,P178161,PLAN_P178161_40107575
+RW-RWB-454347-CS-INDV,0,tor,Terms of Reference,planned,2024-10-20,368,P178161,PLAN_P178161_40107575
+RW-RWB-454347-CS-INDV,0,tor,Terms of Reference,actual,2024-10-29,390,P178161,PLAN_P178161_40107575
+RW-RWB-454347-CS-INDV,1,invitation,Invitation to Identifie d/Selected Consultant,planned,2024-12-22,411,P178161,PLAN_P178161_40107575
+RW-RWB-454347-CS-INDV,1,invitation,Invitation to Identifie d/Selected Consultant,actual,2026-04-02,432,P178161,PLAN_P178161_40107575
+RW-RWB-454347-CS-INDV,2,negotiated,Draft Negotiated Cont ract,planned,2025-01-05,453,P178161,PLAN_P178161_40107575
+RW-RWB-454347-CS-INDV,2,negotiated,Draft Negotiated Cont ract,actual,2026-04-02,475,P178161,PLAN_P178161_40107575
+RW-RWB-454347-CS-INDV,3,signed,Signed Contract,planned,2025-01-26,496,P178161,PLAN_P178161_40107575
+RW-RWB-454347-CS-INDV,3,signed,Signed Contract,actual,2025-02-21,517,P178161,PLAN_P178161_40107575
+RW-RWB-454347-CS-INDV,4,completion,Contract Completion,planned,2026-01-26,538,P178161,PLAN_P178161_40107575
+RW-RWB-454344-CS-INDV,0,tor,Terms of Reference,planned,2024-10-20,368,P178161,PLAN_P178161_40107575
+RW-RWB-454344-CS-INDV,0,tor,Terms of Reference,actual,2024-10-28,390,P178161,PLAN_P178161_40107575
+RW-RWB-454344-CS-INDV,1,invitation,Invitation to Identifie d/Selected Consultant,planned,2024-12-22,411,P178161,PLAN_P178161_40107575
+RW-RWB-454344-CS-INDV,1,invitation,Invitation to Identifie d/Selected Consultant,actual,2026-04-01,432,P178161,PLAN_P178161_40107575
+RW-RWB-454344-CS-INDV,2,negotiated,Draft Negotiated Cont ract,planned,2025-01-05,453,P178161,PLAN_P178161_40107575
+RW-RWB-454344-CS-INDV,2,negotiated,Draft Negotiated Cont ract,actual,2025-08-01,475,P178161,PLAN_P178161_40107575
+RW-RWB-454344-CS-INDV,3,signed,Signed Contract,planned,2025-01-26,496,P178161,PLAN_P178161_40107575
+RW-RWB-454344-CS-INDV,3,signed,Signed Contract,actual,2025-02-21,517,P178161,PLAN_P178161_40107575
+RW-RWB-454344-CS-INDV,4,completion,Contract Completion,planned,2026-01-26,538,P178161,PLAN_P178161_40107575

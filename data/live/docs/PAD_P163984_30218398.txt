@@ -1,0 +1,5663 @@
+                                              Document of
+
+                                          The World Bank
+
+                                       FOR OFFICIAL USE ONLY
+
+                                                                                   Report No: PAD2576
+
+
+
+
+
+
+
+                           INTERNATIONAL DEVELOPMENT ASSOCIATION
+
+
+
+                                  PROJECT APPRAISAL DOCUMENT
+
+
+
+                                                  ON A
+
+
+
+                                          PROPOSED CREDIT
+
+
+
+                               IN THE AMOUNT OF SDR 14.2 MILLION
+
+                                  (US$20.0 MILLION EQUIVALENT)
+
+
+
+                                                 TO THE
+
+
+
+                                         REPUBLIC OF GHANA
+
+
+
+                                                FOR THE
+
+
+
+                 GHANA ENERGY SECTOR TRANSFORMATION INITIATIVE PROJECT
+
+
+
+                                             June 21, 2018
+
+
+
+
+
+
+
+
+
+Energy and Extractives Global Practice
+
+Africa Region
+
+
+
+
+
+
+
+
+
+This document has a restricted distribution and may be used by recipients only in the performance of their
+
+official duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+                           CURRENCY EQUIVALENTS
+
+                     (Exchange Rate Effective May 31, 2017)
+
+                   Currency Unit = New Ghanaian Cedi (GHC)
+
+                       GHC 4.44 = US$1
+
+                        US$1.00 = SDR 0.70589066
+
+                                 FISCAL YEAR
+
+                           January 1 – December 31
+
+
+
+                                  ACRONYMS
+
+
+
+AfDB     African Development Bank
+
+CAGD     Controller and Accountant General’s Department
+
+CPS      Country Partnership Strategy
+
+CWM      Cash Waterfall Mechanism
+
+DA       Designated Account
+
+DPO      Development Policy Operation
+
+EC       Energy Commission
+
+ECG      Electricity Company of Ghana
+
+EPP      Emergency Power Producer
+
+ESMAP    Energy Sector Management Assistance Program
+
+FM       Financial Management
+
+FMC      Financial Management Consultant
+
+GDP      Gross Domestic Product
+
+GEDAP    Ghana Energy Development and Access Project
+
+GHC      New Ghanaian Cedi
+
+GIS      Geographic Information System
+
+GIZ      German Agency for International Cooperation (Deutsche Gesellschaft für
+
+         Internationale Zusammenarbeit)
+
+GNGC     Ghana National Gas Company
+
+GNPC     Ghana National Petroleum Corporation
+
+GRIDCo   Ghana Grid Company Limited
+
+ICB      International Competitive Bidding
+
+IFC      International Finance Corporation
+
+IFR      Interim Financial Report
+
+IMF      International Monetary Fund
+
+IPF      Investment Project Financing
+
+IPP      Independent Power Producer
+
+JICA     Japan International Corporation Agency
+
+KfW      German Government-owned Development Bank (Kreditanstalt für Wiederaufbau)
+
+KOICA    Korea International Cooperation Agency
+
+LNG      Liquefied Natural Gas
+
+MCC      Millennium Challenge Corporation
+
+MDAs     Ministries, Departments, and Agencies
+
+MIGA     Multilateral Investment Guarantee Agency
+
+MoEn         Ministry of Energy
+
+MoF          Ministry of Finance
+
+MoGCSP       Ministry of Gender, Children and Social Protection
+
+MoME         Ministry of Monitoring and Evaluation
+
+MW           Megawatt
+
+NCB          National Competitive Bidding
+
+NEDCo        Northern Electricity Distribution Company
+
+NPV          Net Present Value
+
+PDO          Project Development Objective
+
+PIM          Project Implementation Manual
+
+PIU          Project Implementation Unit
+
+PPA          Power Purchase Agreement
+
+PPSD         Project Procurement Strategy for Development
+
+PURC         Public Utilities Regulatory Commission
+
+SDR          Special Drawing Rights
+
+SECO         State Secretariat of Economic Affairs (Switzerland)
+
+SOE          State-owned Enterprise
+
+SORT         Systematic Operations Risk-Rating Tool
+
+TEN          Tweneboa Enyenra Ntomme
+
+TTL          Task Team Leader
+
+USAID        U.S. Agency for International Development
+
+VRA          Volta River Authority
+
+WAGP         West African Gas Pipeline
+
+WAPP         West African Power Pool
+
+
+
+
+
+
+
+
+
+                Regional Vice President:    Makhtar Diop
+
+                       Country Director:    Henry G. R. Kerali
+
+         Senior Global Practice Director:   Riccardo Puliti
+
+                      Practice Manager:     Wendy E. Hughes
+
+                    Task Team Leaders:      Shinya Nishimura, Paivi Koljonen
+
+     The World Bank
+
+     Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+
+
+BASIC INFORMATION
+
+BASIC_INFO_TABLE
+
+Country(ies)                   Project Name
+
+
+
+Ghana                          Ghana Energy Sector Transformation Initiative Project
+
+
+
+Project ID                     Financing Instrument        Environmental Assessment Category
+
+
+
+                               Investment Project
+
+P163984                                                    C-Not Required
+
+                               Financing
+
+
+
+Financing & Implementation Modalities
+
+
+
+[ ] Multiphase Programmatic Approach (MPA)                     [ ] Contingent Emergency Response Component (CERC)
+
+
+
+[ ] Series of Projects (SOP)                                   [ ] Fragile State(s)
+
+[ ] Disbursement-linked Indicators (DLIs)                      [ ] Small State(s)
+
+
+
+[ ] Financial Intermediaries (FI)                              [ ] Fragile within a non-fragile Country
+
+[ ] Project-Based Guarantee                                    [ ] Conflict
+
+
+
+[ ] Deferred Drawdown                                          [ ] Responding to Natural or Man-made Disaster
+
+
+
+[ ] Alternate Procurement Arrangements (APA)
+
+
+
+
+
+Expected Approval Date                 Expected Closing Date
+
+13-Jul-2018
+
+
+
+Bank/IFC Collaboration
+
+No
+
+
+
+Proposed Development Objective(s)
+
+
+
+The Project development objectives is to: strengthen the capacity of the energy sector to implement sector
+
+reforms, and improve energy sector planning and coordination in Ghana
+
+
+
+Components
+
+
+
+Component Name                                                                                     Cost (US$, millions)
+
+Component 1: Management of energy sector financial flows                                                          5.30
+
+
+
+
+
+                                                                                                               Page 1 of 57
+
+     The World Bank
+
+     Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+Component 2: Sector Planning and coordination                                                 3.50
+
+
+
+Component 3: Energy access                                                                    2.00
+
+
+
+Component 4: Natural gas                                                                      3.20
+
+
+
+Component 5: Project management                                                               2.00
+
+
+
+Follow up activities and Contingencies                                                        4.00
+
+
+
+Organizations
+
+
+
+Borrower:                            The Republic of Ghana
+
+Implementing Agency:                 Ministry of Energy
+
+
+
+
+
+PROJECT FINANCING DATA (US$, Millions)
+
+
+
+SUMMARY                 -NewFin1
+
+
+
+
+
+
+
+
+
+Total Project Cost                                                                              20.00
+
+Total Financing                                                                                 20.00
+
+
+
+                 of which IBRD/IDA                                                              20.00
+
+Financing Gap                                                                                    0.00
+
+
+
+DETAILS   -NewFinEnh1
+
+
+
+
+
+
+
+
+
+World Bank Group Financing
+
+
+
+  International Development Association (IDA)                                                   20.00
+
+        IDA Credit                                                                              20.00
+
+
+
+
+
+IDA Resources (in US$, Millions)
+
+
+
+                                                 Credit Amount           Grant Amount   Total Amount
+
+
+
+National PBA                                              20.00                 0.00           20.00
+
+Total                                                     20.00                 0.00           20.00
+
+
+
+Expected Disbursements (in US$, Millions)
+
+
+
+
+
+                                                                                           Page 2 of 57
+
+      The World Bank
+
+      Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+ WB Fiscal Year                                                          2019      2020      2021        2022         2023
+
+
+
+ Annual                                                                   1.39      1.94        3.57      6.01         7.10
+
+
+
+ Cumulative                                                               1.39      3.33        6.89     12.90        20.00
+
+
+
+
+
+
+
+ INSTITUTIONAL DATA
+
+
+
+ Practice Area (Lead)                                     Contributing Practice Areas
+
+ Energy & Extractives
+
+
+
+ Climate Change and Disaster Screening
+
+ This operation has been screened for short and long-term climate change and disaster risks
+
+
+
+
+
+Gender Tag
+
+
+
+Does the project plan to undertake any of the following?
+
+
+
+a. Analysis to identify Project-relevant gaps between males and females, especially in light of
+
+                                                                                                   Yes
+
+country gaps identified through SCD and CPF
+
+
+
+b. Specific action(s) to address the gender gaps identified in (a) and/or to improve women or
+
+                                                                                                   No
+
+men's empowerment
+
+
+
+c. Include Indicators in results framework to monitor outcomes from actions identified in (b)      No
+
+
+
+
+
+ SYSTEMATIC OPERATIONS RISK-RATING TOOL (SORT)
+
+
+
+
+
+Risk Category                                                                           Rating
+
+
+
+1. Political and Governance                                                              Moderate
+
+
+
+2. Macroeconomic                                                                         Moderate
+
+
+
+3. Sector Strategies and Policies                                                        Substantial
+
+
+
+4. Technical Design of Project or Program                                                Low
+
+
+
+5. Institutional Capacity for Implementation and Sustainability                          Moderate
+
+
+
+6. Fiduciary                                                                             Substantial
+
+
+
+
+
+                                                                                                                 Page 3 of 57
+
+     The World Bank
+
+     Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+7. Environment and Social                                                            Low
+
+
+
+8. Stakeholders                                                                      Moderate
+
+
+
+9. Other
+
+
+
+10. Overall                                                                          Moderate
+
+
+
+
+
+COMPLIANCE
+
+
+
+Policy
+
+Does the project depart from the CPF in content or in other significant respects?
+
+[ ] Yes [✓ ] No
+
+
+
+Does the project require any waivers of Bank policies?
+
+[ ] Yes [✓ ] No
+
+
+
+Safeguard Policies Triggered by the Project                                                 Yes   No
+
+Environmental Assessment OP/BP 4.01                                                               ✔
+
+Performance Standards for Private Sector Activities OP/BP 4.03                                    ✔
+
+Natural Habitats OP/BP 4.04                                                                       ✔
+
+Forests OP/BP 4.36                                                                                ✔
+
+Pest Management OP 4.09                                                                           ✔
+
+Physical Cultural Resources OP/BP 4.11                                                            ✔
+
+Indigenous Peoples OP/BP 4.10                                                                     ✔
+
+Involuntary Resettlement OP/BP 4.12                                                               ✔
+
+Safety of Dams OP/BP 4.37                                                                         ✔
+
+Projects on International Waterways OP/BP 7.50                                                    ✔
+
+Projects in Disputed Areas OP/BP 7.60                                                             ✔
+
+
+
+Legal Covenants
+
+
+
+Sections and Description
+
+Establishment and appointment of members to the Technical Committee by October 31, 2018 or any other date
+
+agreed with the Association
+
+
+
+
+
+
+
+                                                                                                    Page 4 of 57
+
+     The World Bank
+
+     Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+
+
+Sections and Description
+
+Establishment and appointment of members to the Steering Committee by October 31, 2018 or any other date
+
+agreed with the Association
+
+
+
+Sections and Description
+
+The Recipient, through MoEN, shall ensure that: (a) all consultancies related to technical assistance, design and
+
+capacity building under the Project, the application of whose results could have environmental, social and health
+
+and safety implications, shall only be undertaken pursuant to terms of reference reviewed and found satisfactory
+
+by the Association; and (b) such terms of reference shall require the technical assistance, design and capacity
+
+building activities to take into account the requirements of the applicable Association Safeguards Policies and EHS
+
+Guidelines.
+
+
+
+
+
+
+
+Conditions
+
+Type                   Description
+
+Effectiveness          Preparation of Project Implementation Manual in form and substance satisfactory to the
+
+                       Association.
+
+
+
+Type                   Description
+
+Effectiveness          Appointed to the Project Implementation Unit (PIU) a financial management specialist and a
+
+                       procurement specialist with training, experience and under terms of reference satisfactory
+
+                       to the Association.
+
+
+
+
+
+
+
+
+
+                                                                                                           Page 5 of 57
+
+The World Bank
+
+Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+                                                   GHANA
+
+                           GHANA - ENERGY SECTOR TRANSFORMATION INITIATIVE PROJECT
+
+
+
+
+
+                                                   TABLE OF CONTENTS
+
+
+
+ I.    STRATEGIC CONTEXT ...................................................................................................... 8
+
+       A. Country Context .................................................................................................................. 8
+
+       B. Sectoral and Institutional Context ...................................................................................... 9
+
+       C. Higher Level Objectives to which the Project Contributes ............................................... 14
+
+ II.   PROJECT DEVELOPMENT OBJECTIVES ............................................................................ 15
+
+       A. PDO.................................................................................................................................... 15
+
+       B. Project Beneficiaries.......................................................................................................... 15
+
+       C. PDO-Level Results Indicators............................................................................................. 16
+
+ III. PROJECT DESCRIPTION.................................................................................................. 16
+
+       A. Project Components.......................................................................................................... 16
+
+       B. Project Cost and Financing ................................................................................................ 21
+
+       C. Lessons Learned and Reflected in the Project Design ...................................................... 22
+
+ IV. IMPLEMENTATION........................................................................................................ 23
+
+       A. Institutional and Implementation Arrangements ............................................................. 23
+
+       B. Results Monitoring and Evaluation ................................................................................... 24
+
+       C. Sustainability ..................................................................................................................... 25
+
+       D. Role of Partners................................................................................................................. 25
+
+ V. KEY RISKS ..................................................................................................................... 26
+
+       A. Overall Risk Rating and Explanation of Key Risks.............................................................. 26
+
+ VI. APPRAISAL SUMMARY .................................................................................................. 27
+
+       A. Economic and Financial (if applicable) Analysis ................................................................ 27
+
+       B. Technical............................................................................................................................ 29
+
+       C. Financial Management ...................................................................................................... 29
+
+       D. Procurement ..................................................................................................................... 29
+
+       E. Social (including Safeguards) ............................................................................................. 30
+
+       F. Environment (including Safeguards) ................................................................................. 31
+
+       G. Other Safeguard Policies (if applicable) ............................................................................ 32
+
+
+
+
+
+                                                                                                                                            Page 6 of 57
+
+The World Bank
+
+Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+      H. World Bank Grievance Redress ......................................................................................... 32
+
+ VII. RESULTS FRAMEWORK AND MONITORING .................................................................... 33
+
+ ANNEX 1: IMPLEMENTATION ARRANGEMENTS AND SUPPORT PLAN ................................... 44
+
+ ANNEX 2. FINANCIAL MANAGEMENT ................................................................................... 48
+
+ ANNEX 3. PROCUREMENT .................................................................................................... 54
+
+
+
+
+
+
+
+
+
+                                                                                                                           Page 7 of 57
+
+The World Bank
+
+Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+
+
+     I. STRATEGIC CONTEXT
+
+
+
+     A. Country Context
+
+
+
+ 1.      Over the past decade, overall economic growth in Ghana was robust while poverty declined.
+
+ The 2015 World Development Indicators show that the national poverty headcount was reduced from
+
+ 39.1 percent in 2005 to 24.2 percent in 2012. Ghana also transitioned into lower-middle-income country
+
+ status following the start of oil production in 2011, as gross domestic product (GDP) grew 14 percent.
+
+ However, the recent lower commodity prices on international markets has had a negative impact on this
+
+ growth trend. Economic growth slowed from 7.3 percent in 2013 to 3.7 percent in 2016, putting a strain
+
+ on the overall macroeconomic outlook.
+
+
+
+ 2.       The strong growth was followed by external and domestic macroeconomic shocks, which fueled
+
+ inflation and exacerbated fiscal imbalances. The sharply lower prices for Ghana’s key exports—oil and
+
+ gold—coupled with energy rationing due to the shortage of electricity generating capacity in 2014 and
+
+ 2015, weighed heavily on the economy. The industrial sector’s contribution to GDP fell from 26.6 percent
+
+ to 25.1 percent between 2014 and 2015, accompanied by job losses, especially in the mining and
+
+ quarrying subsector, which contracted by 6.1 percent in 2015. In 2016, the mining and quarrying sector
+
+ contracted a further 10.7 percent, much of which was attributed to production problems in the oil sector.
+
+
+
+ 3.        Implementation of a fiscal consolidation program reduced the fiscal deficit initially, but a
+
+ revenue shortfall and overspending reversed the trend. In 2015, the Government adopted a multiyear
+
+ fiscal stabilization plan, with support from the International Monetary Fund (IMF), World Bank, and other
+
+ development partners, bringing the fiscal deficit to 7 percent of GDP in 2015 from 10.7 percent in 2013.
+
+ After achieving a substantial degree of fiscal consolidation, however, Ghana missed its 2016 fiscal target
+
+ by a wide margin. The fiscal deficit rose to 9.3 percent of GDP on cash basis, significantly higher than the
+
+ target of 5.2 percent. The slippage was due to a revenue shortfall and overspending ahead of the
+
+ December 2016 elections, increasing Ghana’s public debt to US$29.6 billion or 73.4 percent of GDP. The
+
+ fiscal slippage experienced in 2016 was reversed as Ghana’s fiscal deficit at the end of December 2017
+
+ went down to 6 percent of GDP against the target of 6.3 percent for the year. Even though revenues
+
+ (including grants) underperformed by 5.4 percent (equivalent to 1.1 percent of GDP), recurrent and capital
+
+ expenditures were reduced to achieve the lower deficit. The primary balance improved from a deficit of
+
+ 1.4 percent of GDP at the end of 2016 to a surplus of 0.8 percent at the end of December 2017—the first
+
+ time since 2013. The debt-to-GDP ratio reduced from 73.4 percent in 2016 to 69.2 percent in December
+
+ 2017.
+
+
+
+ 4.      Ghana’s medium-term economic prospects are expected to improve with increased oil
+
+ production. The GDP growth rate is expected to reach 7 percent in 2018.1 The oil and gas sector is the
+
+ main driver of the medium-term growth with oil production likely to increase by more than 50 percent as
+
+ the Tweneboa Enyenra Ntomme (TEN) oil field started production in July 2017, followed by expected oil
+
+ and gas production at the Sankofa field in 2018. The gas output of Sankofa is expected to bolster domestic
+
+
+
+
+
+ 1   World Bank estimate, Macro Poverty Outlook, April 2018.
+
+
+
+
+
+                                                                                                       Page 8 of 57
+
+The World Bank
+
+Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+ energy supply and reduce fuel costs in the electricity sector. The recovery of the agriculture sector and
+
+ stabilization of electricity supply are also expected to support overall growth.
+
+
+
+ 5.       The macroeconomic outlook is however subject to both domestic and external risks. Ghana is
+
+ likely to face high financing costs in the external market as the U.S. Federal Reserve gradually increases
+
+ its benchmark interest rate. Also, the country’s heavy reliance on primary commodities, including cocoa,
+
+ gold, and oil, as well as the projected weakness and possible volatility in international commodity prices
+
+ create significant uncertainty about its growth, export receipts, and domestic revenue. In addition, the
+
+ substantial legacy debt of the energy state-owned enterprises (SOEs), costly generating capacity, and
+
+ operational losses within the power sector pose substantial fiscal contingent liability risks and risks to the
+
+ financial sector over the medium term. Delays in the resolution of the energy sector’s legacy debt is a
+
+ significant risk for Ghana’s economic outlook.
+
+
+
+     B. Sectoral and Institutional Context
+
+
+
+ Power Sector
+
+
+
+ 6.       Ghana has connected about 84 percent of its population to electricity supply.2 This high access
+
+ rate (2017) is second only to South Africa in Sub-Saharan Africa but there is disparity between rural and
+
+ urban access. Total installed generation capacity is 4,741 megawatt (MW) (42 percent hydro, 57 percent
+
+ thermal, and 1 percent solar), while the peak load was 2,433 MW in 2018.3 Transmission and distribution
+
+ losses were 4.4 percent and 25 percent, respectively.4 The Government’s goal is to achieve universal
+
+ access to electricity and scale up renewable penetration by 10 percent by 2030.5 Ghana is also committed
+
+ to the United Nations’ Sustainable Development Goals, which includes the target of universal access to
+
+ modern energy service by 2030. As part of the access agenda and also as included in the Nationally
+
+ Determined Contribution, the Government committed to scale up access and adoption of 2 million
+
+ efficient cookstoves by 2030. The Government aims to reduce the disparity between urban centers (where
+
+ access is over 85 percent) and rural communities (60 percent) in terms of both affordability and cost of
+
+ grid connection due to differences in the level of income as well as geographical distances. With the
+
+ support of the World Bank and other development partners,6 the Government has been working on off-
+
+ grid solutions (solar panels and biomass) and mini-grid pilot programs to bridge the gap.
+
+
+
+ 7.        Ghana has implemented a wide range of power sector reforms, and private sector participation
+
+ is significant. Ghana was one of the first countries in Sub-Saharan Africa to unbundle its power sector and
+
+ attract private investment through independent power producers (IPPs), though all utilities are state-
+
+ owned. The Volta River Authority (VRA) is the state-owned generation company, which manages both
+
+ hydro and thermal assets. The transmission system is owned and operated by the state-owned Ghana
+
+
+
+ 2 Ministry of Energy, Access Secretariat.
+
+ 3 Ministry of Energy/GRIDCo.
+
+ 4 http://www.energycom.gov.gh/energy-statistics.
+
+ 5 United Nations Framework Convention on Climate Change (UNFCC) Ghana Nationally Determined Contribution (Paris
+
+
+
+ Agreements-COP21).
+
+ 6 Including the Government of Netherlands, State Secretariat of Economic Affairs (Switzerland, SECO), Japan International
+
+
+
+ Corporation Agency (JICA), Korea International Cooperation Agency (KOICA), German Agency for International Cooperation
+
+ (Deutsche Gesellschaft für Internationale Zusammenarbeit, GIZ), and the German Government-owned Development Bank
+
+ Kreditanstalt für Wiederaufbau (KfW).
+
+
+
+
+
+                                                                                                                        Page 9 of 57
+
+The World Bank
+
+Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+ Grid Company Limited (GRIDCo), incorporated in 2006. The distribution of electricity is carried out by the
+
+ Electricity Company of Ghana (ECG), with 3.8 million customers in the south and center of the country,
+
+ accounting for 90 percent of retail power sales, and the Northern Electricity Distribution Company
+
+ (NEDCo), a subsidiary of VRA, which services the remaining 10 percent of the market. Ghana’s high-voltage
+
+ power grid is interconnected with neighboring countries (Côte d’Ivoire, Togo, Benin, and, soon, Burkina
+
+ Faso) and the country is a member of the West African Power Pool (WAPP). The Ministry of Petroleum
+
+ and the Ministry of Power were merged into the Ministry of Energy (MoEn) in 2017, which is responsible
+
+ for energy sector policies. The Energy Commission (EC) and the Public Utilities Regulatory Commission
+
+ (PURC) regulate the industry, as the technical and economic regulators, respectively.
+
+
+
+ 8.      To reduce electricity shortages, the Government fast-tracked private power plants that have
+
+ led to excess generating capacity and high costs. To address supply shortfalls due to low water levels in
+
+ the main dams and erratic gas supply from the West African Gas Pipeline (WAGP) to provide fuel to power
+
+ plants, the Government contracted three emergency power producers (EPPs) without a competitive
+
+ process during 2014–2017. In addition, also through a noncompetitive process, ECG signed 43 power
+
+ purchase agreements (PPAs). However, demand growth has since reduced due to tariff increases and
+
+ slower economic growth; hence, these plants, if built, are projected to result in 1,900 MW of excess
+
+ capacity by 2019 (50 percent increase in current installed capacity). The resulting excess capacity would
+
+ cost the sector up to US$680 million per year in unnecessary capacity payments. To mitigate the financial
+
+ consequences, the new Government that took office in January 2017 conducted a review of the PPAs and
+
+ is moving forward to rationalize the projects that have not yet broken ground.
+
+
+
+ 9.       High costs and operational inefficiencies have created serious financial difficulties in the sector.
+
+ The sector’s financial difficulties mainly stem from (a) high cost of fuel used by thermal power plants ; (b)
+
+ gas supply shortages; (c) high payments for installed capacity to EPPs and IPPs; (d) high distribution losses;
+
+ (e) low revenue collections by ECG; and (f) nonpayment by Government entities. Due to these factors,
+
+ electricity sector revenues from tariff collection do not cover costs, and to continue their operations, the
+
+ sector entities have had to resort to expensive external debt. The VRA has relied on short-term financing
+
+ on the domestic market to cover operating costs including fuel for many years. As of March 2017, the
+
+ sector had accumulated US$2.3 billion of net debt.7 The cost of servicing this debt has become a financial
+
+ burden on the sector.
+
+
+
+ 10.      Although tariffs were increased by 47 percent in December 2015, the increase did not improve
+
+ the sector’s financial position. Growth in electricity demand in 2016 was lower than originally forecast,
+
+ as consumers responded to the higher prices by rationalizing their consumption. The average electricity
+
+ tariff was GHC 0.817 at the end of 2016 (US$0.188). Residential tariffs are progressive with a lifeline rate
+
+ of GHC 0.336 (US$0.076) for consumption up to 50 kWh per month. Commercial tariffs are significantly
+
+ higher than residential tariffs due to the cross subsidy they provide to the residential consumers. There is
+
+ anecdotal evidence that industrial and commercial consumers have begun to use diesel generators,
+
+ which, on a marginal cost basis, may work out to be cheaper than grid power at higher consumption levels.
+
+ This indicates that consumer elasticity of demand for electricity may affect the Government’s ability to
+
+ close the revenue gap through further tariff increases, particularly in the absence of sustained
+
+
+
+
+
+ 7   Debt stock is net of intrasectoral debt stock.
+
+ 8   at exchange rate of GHC 4.4 = US$1 as of October 2017.
+
+
+
+
+
+                                                                                                        Page 10 of 57
+
+The World Bank
+
+Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+ improvement in the quality and reliability of supply. The Millennium Challenge Corporation (MCC) is
+
+ assisting PURC to review the tariff methodology.
+
+
+
+ 11.     In March 2018, PURC announced electricity tariff reductions of 17 percent for residential and
+
+ 30 percent for commercial consumers. The impact of the tariff reduction is yet to be seen, but there is a
+
+ perceived concern that it will lead to a significant revenue reduction for the power sector. Data indicate
+
+ that demand has increased from 2,229 MW in March 2018 to 2,433 MW in April 20189 and may increase
+
+ further due to the tariff decrease.
+
+
+
+ Oil and Gas Sector
+
+
+
+ 12.      Ghana’s domestic gas production has not met expectations but could provide meaningful
+
+ supply for the power sector in the medium term. Ghana has three commercial oil and gas development
+
+ projects: Jubilee, TEN, and Sankofa. Petroleum production from the Jubilee field began in 2010 and
+
+ averaged 84,000 b/d (barrels per day) in the first half of 2017. This production is less than the anticipated
+
+ 100,000 b/d because of curtailments from ongoing work on the Floating Production, Storage, and
+
+ Offloading facilities which may continue into 2019. The TEN field began production in August 2016 and
+
+ has averaged 48,000 b/d in 2017, less than the anticipated 50,000 b/d. Most of the gas from these fields
+
+ is associated gas (130 MMcfd out of 150 MMcfd) so the underproduction of oil has resulted in inconsistent
+
+ supply of gas. The Sankofa integrated oil and gas development began oil production in July 2017, and non-
+
+ associated gas production is expected to start in June 2018. Following a September 2017 ruling by the
+
+ International Tribunal for the Law of the Sea clarifying the boundary line with Côte d’Ivoire, new
+
+ exploration activities are likely, and current concessionaires will submit revised development plans for
+
+ additional wells for TEN.
+
+
+
+ 13.     Pipeline supply of natural gas has been below expectations. WAGP is an offshore pipeline built
+
+ to transport natural gas from Nigeria to Ghana. Historically, both supply shortages in Nigeria and
+
+ nonpayment for gas by Ghana have caused supply interruptions. Deliveries of gas have been far less than
+
+ the contractual 120 MMcfd. In the second half of 2017, deliveries averaged 50 MMcfd on a pay-as-use
+
+ basis.
+
+
+
+ 14.     Gas transport infrastructure needs to be made available to balance gas supply between the
+
+ west and the east. With the commissioning of Sankofa in 2018, gas supply in the west of Ghana is
+
+ expected to be more than the offtake there, while the power plants in the east will continue to experience
+
+ gas supply shortages until an adequate gas pipeline capacity connects the east and the west. This gas
+
+ supply imbalance, if not addressed, would have significant financial consequences including capacity
+
+ charges for idle power plants and a charge for non-utilization of Sankofa gas. Work is ongoing to complete
+
+ the commercial and operational agreements between the West Africa Pipeline Company and Ghana
+
+ National Gas Company (GNGC) and to make the necessary infrastructure upgrades/investments to reverse
+
+ the flow of gas between the west (Takoradi) and the east (Tema). A 450 MW Karpower barge, a potential
+
+ future offtaker for Sankofa gas, has been docked at Tema and could be moved to Takoradi to help mitigate
+
+ the local gas supply imbalance.
+
+
+
+
+
+
+
+ 9   MoEn/ECG.
+
+
+
+
+
+                                                                                                       Page 11 of 57
+
+The World Bank
+
+Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+ 15.      Power and gas sector planning must be coordinated to balance gas supply and demand. The size
+
+ of the power sector’s gas demand is uncertain due to the over commitment to IPPs and the price
+
+ sensitivity of electricity consumers. Similarly, the supply of gas from WAGP and domestic associated-gas
+
+ production is not certain. The Government has signed a Gas Sales Agreement for imported liquefied
+
+ natural gas (LNG) with West Africa Gas Limited (ratified by Parliament in October 2016) for 180 MMcfd,
+
+ while Ghana National Petroleum Corporation (GNPC) announced in September 2017 that they have signed
+
+ an additional LNG Gas Sales Agreement for imports of 250 MMcfd. In this context, it is not clear what
+
+ volume of natural gas will be necessary to balance gas supply and demand or how much gas may be
+
+ available at a competitive price to incentivize a switch to industrial use of gas for thermal energy.
+
+
+
+ 16.      The boundaries of mandates given to the gas sector entities are not well defined. GNPC is the
+
+ state-owned natural gas aggregator. As such, GNPC purchases gas and sells it to consumers in the power
+
+ sector at a blended price. GNGC is a subsidiary of GNPC, which owns, maintains, and operates domestic
+
+ gas transportation infrastructure. The state-owned Bulk Oil Storage and Transportation Company,
+
+ historically responsible for oil storage and transportation, has also been given responsibilities to construct
+
+ and operate the gas transportation infrastructure, causing confusion about the role of the two
+
+ institutions. As the energy sector’s price regulator, PURC is developing a gas pricing policy to guide GNPC
+
+ in setting gas tariffs.
+
+
+
+ Sector Planning and Coordination
+
+
+
+ 17.      Though efforts are ongoing, operational mandates of key power and gas sector operators need
+
+ to be better defined. With the merger of the Ministries of Power and Petroleum in early 2017, the
+
+ Government has taken an important step toward better coordination of sector activities. Effective
+
+ planning and commercial operation in the energy sector requires strong coordination and consensus
+
+ building among the various implementing, supervisory, and regulatory agencies. Previous coordination
+
+ mishaps led to the over contracting of IPPs and lack of planning for gas transportation infrastructure to
+
+ meet the power sector’s needs. With the hydro and domestic gas assets, an integrated approach in
+
+ operations and planning would enable Ghana to transform the current system into a resilient energy
+
+ system that could cope with short-term disruptions in fuel supply and improve absorption capacity of
+
+ variable renewable energy such as solar and wind power. When efficiently operated, such a system would
+
+ potentially enable Ghana to also become one of the key power exporters to the WAPP countries.
+
+ Operationalizing such a system would require (a) coordination within and between the gas and power
+
+ systems; (b) rationalizing the roles and mandates of energy SOEs and agencies and restructuring of the
+
+ institutional set up; (c) strengthening of the regulatory environment; and (d) capacity building to operate
+
+ the system and to allocate resources in the most efficient way. Underpinning all the above is the
+
+ availability of good data and information sharing as a much more transparent approach to economic
+
+ regulation, planning, and investment decisions.
+
+
+
+ Government’s Program to Address Sector Issues
+
+
+
+ 18.     The Government has outlined a turnaround program with four objectives to address the
+
+ problems in the sector: (a) restoring the power sector’s financial viability; (b) improving sector planning
+
+ and investment decisions; (c) improving the regulatory framework; and (d) expanding electricity access to
+
+ remote communities. The program is expected to be elaborated in detail as part of the Energy Sector
+
+
+
+
+
+                                                                                                        Page 12 of 57
+
+The World Bank
+
+Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+ Recovery Plan, in which the Government will outline the comprehensive action plan for the energy sector
+
+ to recover its sustainability.
+
+
+
+ 19.      As part of the turnaround program, the Government has implemented the following actions:10
+
+
+
+               Implementation of a Cash Waterfall Mechanism (CWM) for transparent allocation of
+
+                power sector revenues among the operating entities. The Government has formed a
+
+                Finance Working Group within the MoEn, supported by a consultant, funded by U.S. Agency
+
+                for International Development (USAID), and the World Bank team. The group is responsible
+
+                for the implementation and monitoring of the CWM, the structure of which will be
+
+                developed under this project.
+
+
+
+               Establishment of a sector coordination body within the MoEn with responsibility for (a)
+
+                aggregating and monitoring sector technical and financial data; (b) carrying out holistic,
+
+                least-cost system planning based on the above data; and (c) implementing the competitive
+
+                process for investments for both the oil/gas and power sector.
+
+
+
+ 20.      In addition, the Government has initiated implementation of specific measures to improve
+
+ sector finances. The Government is preparing an Energy Sector Recovery Plan, which would include the
+
+ following actions:
+
+
+
+               Rationalizing PPAs to buy electricity from IPPs. The previous Government made
+
+                commitments to power generation capacity exceeding what was expected to be necessary
+
+                to meet near-term demand. The report on how to rationalize the signed thermal PPAs was
+
+                completed and cleared by the Attorney General in April 2017.
+
+
+
+               Reaching an agreement with WAGP on the implementation of the gas pipeline
+
+                interconnection and the commercial and operational terms for reverse flow. A meeting of
+
+                the ministers of the WAGP member countries in May 2017 agreed to the implementation of
+
+                the pipeline. The Construction Management Agreement was signed in May 2018. The parties
+
+                to this interconnection are now working on finalizing the Interconnection Agreement and
+
+                Gas Transportation Agreement. If domestic gas cannot be transported from west to east,
+
+                there will be significant financial consequences, including (a) low utilization of thermal
+
+                power plants (790 MW) in the east around Tema and (b) non-utilization of Sankofa gas while
+
+                incurring capacity charges annually.
+
+
+
+               As a transitional mechanism, the Ministry of Finance (MoF) will pay the electricity bills of
+
+                ministries, departments, and agencies (MDAs) from their budgetary allocations directly to
+
+                distribution utilities. All consumers, including MDAs, will be transitioning from credit meters
+
+                to prepaid meters. In addition, the Government intends to install solar panels on the roofs
+
+                of Government buildings to decrease their consumption of grid power.
+
+
+
+
+
+
+
+ 10These measures were agreed as prior actions under the US$200 million Macroeconomic Stability for Competitiveness and
+
+ Growth II DPO (P157343), which was approved by the World Bank Board in December 2017.
+
+
+
+
+
+                                                                                                                   Page 13 of 57
+
+The World Bank
+
+Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+                Selecting a concessionaire for ECG. Under the Compact Program signed with the MCC, the
+
+                 Government has agreed to bring in a private sector concessionaire to operate and invest in
+
+                 ECG, whose poor performance is at the core of the financial difficulties of the sector. The
+
+                 bidding process is ongoing and a preferred bidder was selected in April 2018.
+
+
+
+                Restructuring the debt stock of the power sector to longer tenor with the objective of
+
+                 lowering its financial burden and to help introduce market discipline into the sector and its
+
+                 payment practices. In October 2017, the Government auctioned an ‘Energy Bond’, aiming to
+
+                 raise GHC 6 billion (US$1.4 billion) to refinance part of the estimated US$2.5 billion sector
+
+                 debt. The bond raised GHC 4.7 billion (approximately US$1 billion), and an additional US$130
+
+                 million was raised in January 2018.
+
+
+
+  C. Higher Level Objectives to which the Project Contributes
+
+
+
+ 21.     The project is fully aligned with the World Bank’s Country Partnership Strategy (CPS) for Ghana
+
+ 2013–2017 (Report 76369-GH), as adjusted during the Performance and Learning Review (Report 105306-
+
+ GH), which extended its period until 2018. The CPS focuses on three strategic pillars of support to the
+
+ Government: (a) improved economic institutions; (b) improved competitiveness and job creation; and (c)
+
+ protection of the poor and vulnerable. The proposed project supports the first pillar by focusing on
+
+ strengthening the capacity of the power sector to implement sector reforms and the second pillar through
+
+ improved energy sector planning and coordination, which will help improve the quality of electricity
+
+ service. Given the limited access in remote areas and high cost of electricity supply, the project will
+
+ contribute to activities aimed at increasing the availability of electricity and diversifying the energy mix,
+
+ as emphasized in the CPS.
+
+
+
+ 22.      The project is also aligned with the priorities in the Government’s Coordinated Program of
+
+ Economic and Social Development Policies.11 By improving the financial viability, functioning, and
+
+ coordination of the energy sector, the project will contribute to ensuring and sustaining macroeconomic
+
+ stability and enhancing the competitiveness of Ghana’s private sector.
+
+
+
+ 23.     The project is part of a package of dialogue and support to the energy sector and not a stand-
+
+ alone operation. The project links to the Second Macroeconomic Stability for Competitiveness and
+
+ Growth (P157343) DPO and prepares the ground for potential private sector involvement in the energy
+
+ sector by leveraging public/concessional funding, as outlined by the Maximizing Finance for Development
+
+ approach. The sector reform agenda to be defined under this project would be supported under future
+
+ DPO series, which is expected to have a strong energy sector focus.
+
+
+
+ 24.      The project has close synergies with other World Bank-financed operations. It is closely linked
+
+ with the Sankofa Gas Project (P152670), which supported the Government’s strategy to leverage domestic
+
+ gas and oil resources, reducing the use of petroleum in electricity generation, and thereby removing the
+
+ main bottlenecks to economic growth—including inadequate and unreliable electricity supply. Moreover,
+
+ the project is complementary to the Ghana Energy Development and Access Project (GEDAP - P074191)
+
+ as it intends to investigate further how to reduce imbalances in access to electricity between urban and
+
+
+
+ 11 https://s3-us-west-2.amazonaws.com/new-ndpc-static/CACHES/PUBLICATIONS/2018/04/11/Coordinate+Programme-
+
+ Final+(November+11,+2017)+cover.pdf.
+
+
+
+
+
+                                                                                                              Page 14 of 57
+
+The World Bank
+
+Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+ rural areas and how to improve the commercial performance of ECG and the financial viability of the
+
+ power sector, thereby reducing the sector’s fiscal burden and creating space for social investments.
+
+ Finally, the project builds on and provides continuation to the recently closed Gas and Oil Capacity Building
+
+ Project (P120005) as it will support GNPC in building its capacity in areas that were not included in the
+
+ Gas and Oil Capacity Building Project, including to undertake the gas aggregator role in the sector and
+
+ improve coordination with SOEs in the electricity sector. In parallel, an ongoing project financed by the
+
+ Energy Sector Management Assistance Program (ESMAP) will help the Government to develop a
+
+ transparent process for procuring IPPs.
+
+
+
+ 25.      The World Bank Group has about US$2 billion of exposure in Ghana’s energy sector, including
+
+ over US$1.2 billion in World Bank and Multilateral Investment Guarantee Agency (MIGA) Guarantees
+
+ and International Finance Corporation (IFC) Loan in WAGP and Sankofa. IDA also has two ongoing
+
+ operations: (a) the GEDAP for US$220 million; (b) the Ghana-Burkina Transmission Interconnection
+
+ (P094919, WAPP 3) approved in 2011 with commissioning expected by end of Q3 2018. IFC has provided
+
+ loans to develop the Jubilee oil field and to convert a VRA-owned single cycle power plant to a combined
+
+ cycle power plant. Finally, MIGA has issued a guarantee for the Takoradi 3 power plant for up to US$88.4
+
+ million.
+
+
+
+                             Table 1. World Bank Group Investments and Projects
+
+                                                                                                 Amount
+
+     World Bank
+
+                                                    Operations                                    (US$,
+
+    Group Agency
+
+                                                                                                 millions)
+
+  IDA                Partial Risk Guarantee for the West Africa Gas Pipeline                        50
+
+                     Partial Risk Guarantee for the Sankofa Gas Project                            500
+
+                     GEDAP                                                                         220
+
+                     Ghana-Burkina Transmission Interconnection (WAPP 3)                            26
+
+  IBRD               Loan guarantee for Sankofa Gas Project                                        200
+
+  IFC                Credit to Vitol                                                               300
+
+                     Jubilee oil field                                                             265
+
+                     Takoradi International Company (TICO) combined cycle conversion               105
+
+  MIGA               Guarantee for breach of contract for the West Africa Gas Pipeline             217
+
+                     Takoradi 3 power plant                                                         88
+
+                                                                                         Total    1,971
+
+
+
+
+
+  II. PROJECT DEVELOPMENT OBJECTIVES
+
+
+
+  A. PDO
+
+
+
+ 26.     The Project Development Objectives (PDOs) are to strengthen the capacity of the energy sector
+
+ to implement sector reforms and improve energy sector planning and coordination in Ghana.
+
+
+
+  B. Project Beneficiaries
+
+
+
+ 27.   Direct beneficiaries of the project are the energy sector operators, regulatory institutions, and
+
+ Government entities who will receive advice, analyses, and training in designing and implementing energy
+
+
+
+
+
+                                                                                                       Page 15 of 57
+
+The World Bank
+
+Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+ sector reforms and operations. Indirect beneficiaries are the current and future electricity consumers who
+
+ will benefit from enhanced sector governance and improved energy services and access.
+
+
+
+  C. PDO-Level Results Indicators
+
+
+
+ 28.     The project’s outcomes will contribute to achieving the Government’s sector reform objectives,
+
+ including (a) stabilizing sector finances; (b) establishing transparent investment planning and regulatory
+
+ frameworks; (c) increasing electricity access in remote areas and access to modern biomass cooking
+
+ solutions; (d) effectively utilizing domestic gas for power generation to reduce the cost of electricity; and
+
+ (e) optimizing planning and operation of the sector to maximize domestic resources—natural gas, hydro
+
+ and renewable energy—to improve financial and environmental sustainability of the sector. Some of
+
+ these higher-level objectives would be achieved during the project’s implementation and some only after
+
+ the closing date, depending on the Government’s actions and resources.
+
+
+
+ 29.     The implementation of the strategies and sector reform platforms to be defined under the project
+
+ would be supported by the future DPO series, which is expected to focus on an enabling environment to
+
+ allow Ghana to access and leverage private sector investments for sustainable development of the energy
+
+ sector.
+
+
+
+ 30.     The achievement of the PDOs will be measured through the following key indicators:
+
+
+
+             Power sector revenue allocated to sector entities through the Cash Waterfall Mechanism
+
+
+
+             E-billing/e-payment system is communicated to stakeholders and rolled out by NEDCo
+
+
+
+             Electrification strategy and investment plan for remote areas is adopted and communicated
+
+              to stakeholders
+
+
+
+             Clean cooking strategy is adopted and communicated to stakeholders
+
+
+
+             Sector coordination body has endorsed a least-cost power expansion plan
+
+
+
+             Strategy for competitive tendering of gas/LNG volumes for balancing gas supply and demand
+
+              for power plants is adopted and communicated to stakeholders
+
+
+
+ 31.     Because this is a technical assistance project, the Corporate Core Sector Indicators are not
+
+ applicable. Citizen engagement and gender aspects will be monitored through the intermediate
+
+ indicators.
+
+
+
+  III. PROJECT DESCRIPTION
+
+
+
+  A. Project Components
+
+
+
+ 32.     Ghana has a pathway to recover from the power shortages of a few years ago and the high fuel
+
+ costs that created a substantial debt burden and excess emergency power contracts. This pathway would
+
+
+
+
+
+                                                                                                       Page 16 of 57
+
+The World Bank
+
+Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+ be outlined in the Energy Sector Recovery Plan under preparation, as indicated earlier. As Ghana looks
+
+ forward to building a sustainable sector based on its hydropower assets, a strong solar resource, and
+
+ domestic natural gas resources, success will depend on commitment to fundamentals in the energy
+
+ sector, coordination between actors in the sector, and a vision of the sector’s future. The project supports
+
+ a comprehensive package of regulatory, policy, and operational measures and platforms for stakeholder
+
+ engagement throughout implementation that will help the Government address near-term challenges
+
+ and lay the ground work for transformation.
+
+
+
+ 33.     The project has five components: (a) Management of energy sector financial flows; (b) Sector
+
+ planning and coordination; (c) Energy access; (d) Natural gas; and (e) Project management. In addition to
+
+ advisory and analytical work, the components also include training and capacity building to the staff of
+
+ the energy sector entities and some software and small equipment for business operations.
+
+
+
+ 34.      Component 1: Management of energy sector financial flows (US$5.3 million equivalent). The
+
+ activities under this component will assist in addressing the financial viability of the energy sector by
+
+ improving revenue management at sector level, improving revenue collection at the utilities’ level,
+
+ improving organizational structures, and strengthening the power companies’ operational and financial
+
+ management (FM) functions. The activities included are described in the following paragraphs.
+
+
+
+ 35.      Cash Waterfall Mechanism. This activity will help the Government finalize the structuring of the
+
+ CWM and its implementation arrangements, establish a trustee for the CWM, and provide training to key
+
+ stakeholders (MoEn, MoF, PURC, EC, ECG, NEDCo, and VRA) in financial modeling and FM. Implementation
+
+ of the CWM is expected to ensure that all stakeholders in the power supply chain benefit proportionately
+
+ from the total revenue collected by ECG, NEDCo, and VRA in a transparent manner. A major benefit from
+
+ the implementation of the CWM is the high level of predictability of the revenue streams in the energy
+
+ sector. The Cabinet approved the concept of the CWM on July 20, 2017.
+
+
+
+ 36.     Electronic billing and collection of electricity payments from customers. This activity will help
+
+ design the implementation arrangements for an e-billing/e-payment mechanism for NEDCo and finance
+
+ the required software to roll it out. Implementation of the mechanism will improve collections, be more
+
+ convenient for customers, and improve the commercial performance of the utility. Kenya’s well-
+
+ performing e-billing/e-payment system will be used as an example. A training/study tour will be organized
+
+ in Kenya. ECG has already started the implementation of an electronic billing and collection system for its
+
+ customers and Kenya’s experience will help enrich the system.
+
+
+
+ 37.     VRA restructuring. This activity will inform the design and implementation of the Government-
+
+ approved new structure for VRA. The new structure would break up VRA into several companies, one each
+
+ for hydro, thermal, and other assets. The operations of these companies would be overseen by a holding
+
+ company. The Government intends to engage a private operator for the thermal asset company and has
+
+ issued a Request for Proposal for a transaction adviser to advise it on the appropriate structure and to
+
+ help select the operator. The adviser was selected in November 2017. The project will coordinate with
+
+ the adviser.
+
+
+
+ 38.     Component 2: Sector planning and coordination (US$3.5 million equivalent). To enhance
+
+ planning and coordination across the energy sector, this component will assist the Government to design
+
+ effective institutional arrangements with clear mandates for the regulatory institutions in the energy
+
+
+
+                                                                                                      Page 17 of 57
+
+The World Bank
+
+Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+ sector, conduct technical studies on the sector including electricity sector assessment and a gas sector
+
+ assessment. This component will provide analyses, advisory services and a range of training programs to
+
+ build capacity of key institutions, including (a) load forecasting and least-cost investment planning; (b)
+
+ implementing Wholesale Electricity Market operations and regulation;12 and (c) cross-border trading
+
+ under the WAPP. To improve regulatory transparency, the component will finance equipment for remote
+
+ monitoring of dispatch and outages to enable independent validation of data provided by the sector
+
+ operators. This component envisages also (a) a grid resilience and reinforcement study on GRIDCo; and
+
+ (b) an institutional, regulatory and technical aspect’s study to determine the factors which affect GRIDCo’s
+
+ operations in the region. The work may identify additional needs for analysis that may lead to changes to
+
+ the scope of the other activities.
+
+
+
+ 39.      Electricity sector assessment and support for implementing recommendations. This activity will
+
+ assist the Government in clarifying the roles and mandates of the regulatory institutions. It will provide
+
+ recommendations on optimal set-up to enhance the coordinated planning and management capacity of
+
+ the energy utilities and other relevant agencies, such as the regulators, EC and PURC. A consultation
+
+ workshop with various stakeholders will build consensus on the best options to implement and
+
+ recommendations will address the regulatory framework, institutional set-up, and institutional capacity
+
+ to support coordination and effective operation of planning, generation, transmission, and distribution.
+
+ Capacity building will be directed to support implementation of the recommendations.
+
+
+
+ 40.      Gas sector assessment and support for implementing recommendations. The gas sector
+
+ assessment will review the regulatory framework, institutional setup, and the commercial arrangements
+
+ to support coordination and sustainable development of the gas sector value chain through to gas-fired
+
+ power generation. Particularly in the midstream, there is a need to clarify conflicting roles among
+
+ institutions, close gaps in regulatory oversight, and develop policies to communicate tariff changes
+
+ between the gas and power sectors. The activity will explore the policy and operational requirements to
+
+ take advantage of the hydro and gas assets and renewable energy potential in Ghana to allow the country
+
+ to operate its energy system in a flexible and resilient manner. Capacity building will be directed to
+
+ support implementation of the recommendations.
+
+
+
+ 41.     Regional power trading. As the cooperation deepens among countries in the WAPP, policy and
+
+ regulatory reforms will be required of all countries in the region to strengthen contractual and operational
+
+ mechanisms for trading and securing payment. A gap analysis will identify any policies and regulations
+
+ that are not in line with the evolving regional standards and outline the steps necessary for GRIDCo’s full
+
+ participation in regional trade. The activity will also include regional market analysis on cost and demand
+
+ projections in the region for power export from Ghana. Capacity building will be directed to support
+
+ implementation of the recommendations.
+
+
+
+ 42.      Grid resilience and reinforcement study for GRIDCo. This study, supported by capacity building,
+
+ will help (a) identify the investments that will be needed to expand electricity from renewable energy and
+
+ assess the impact of integration of renewable energy in the grid; and (b) review the institutional,
+
+ regulatory, and technical aspects affecting GRIDCo’s operations to enable it to function as a fully
+
+ interconnected and synchronized regional power system, while insulating Ghana from external
+
+
+
+ 12The Government established the wholesale electricity market through Electricity Regulation, 2008, L.I 1937. Design of its
+
+ structure is being developed by consultants engaged by GRIDCo.
+
+
+
+
+
+                                                                                                                          Page 18 of 57
+
+The World Bank
+
+Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+ disturbances to its system. The capacity building would include training for GRIDCo, EC, and PURC staff to
+
+ evaluate new renewable energy project proposals for impact on security of supply and the financial
+
+ viability of the sector.
+
+
+
+ 43.     Component 3: Energy access (US$2.0 million equivalent). This component has three activities:
+
+ (a) conducting feasibility and investment planning studies for grid extension and off-grid electrification to
+
+ reach the Government’s goal for universal electrification by 2030; (b) preparing a strategy for increasing
+
+ access to safe clean cooking as committed under SDG 7; and (c) conducting studies to upgrade NEDCo’s
+
+ sub-transmission, distribution and operational systems to improve its operational efficiency.
+
+
+
+ 44.      Investment plan for 100 percent electrification. This activity will develop a bankable investment
+
+ plan by collecting the necessary information and lessons learned from previous electrification projects,
+
+ utilize geospatial mapping to determine the limits of extending the grid, and determine the cost of stand-
+
+ alone off-grid and mini-grid solutions where grid extension will not be feasible, in particular for the north
+
+ of Ghana. Capacity building to provide technical skills in the maintenance of renewable energy systems
+
+ will be included and expected to also increase employment opportunities for local people. The strategy
+
+ will be developed in consultation with representatives of affected communities, and the final product will
+
+ be reviewed with these representatives (refer to the Gender section below).
+
+
+
+ 45.     Strategy for increasing access to safe, clean cooking. The strategy will outline how the
+
+ Government will support the increase in access to clean cooking as committed. It will be looking at
+
+ regulatory and incentive structures that can be utilized to increase access.
+
+
+
+ 46.      NEDCo’s operating systems upgrade. This activity will assist NEDCo to improve its operational
+
+ efficiency. This activity will update NEDCo’s distribution system master plan, update distribution
+
+ standards and produce documented design and construction standards that will guide future expansion
+
+ and network improvements, and develop the geographic information system (GIS) for NEDCo’s Techiman
+
+ operational area. The project will also finance the purchase of small tools and equipment for NEDCo’s
+
+ business operations and provide training to NEDCo staff across functional areas (that is, commercial,
+
+ management, engineering, operations, finance, and services). The activities comprise the following:
+
+
+
+             Update of NEDCo’s distribution system master plan. The existing master plan, which was
+
+              developed with the support of JICA in 2008 is 10 years old. There is an urgent need to update
+
+              the plan to address system inadequacies by the optimal introduction of elements such as
+
+              loops or rings in the distribution system for contingency planning and update the location of
+
+              switches, lines, and substations to ensure minimum disturbance to customers during system
+
+              faults. The updated plan will also facilitate the adoption of new metering technology to
+
+              improve NEDCo's commercial performance, increase supervisory control and data
+
+              acquisition applications, and other best practice emerging technologies that are currently
+
+              deployed by utilities. The updated master plan is thus expected to improve the operational
+
+              efficiency of NEDCo.
+
+
+
+             Update of NEDCo’s distribution specifications and construction standards. NEDCo currently
+
+              uses outdated engineering and construction standards. The standards need to be updated
+
+              to meet today’s engineering practice (for example, moving from bare conductors to
+
+              insulated cables to make it harder for people to steal electricity). NEDCo therefore requires
+
+
+
+                                                                                                       Page 19 of 57
+
+The World Bank
+
+Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+              documented design and construction standards that will guide future expansion and
+
+              network improvements.
+
+
+
+             Development of a GIS in NEDCo’s Techiman operational area. The GIS will complete the
+
+              capture of NEDCo’s assets in its five operational areas. The digitization of the company’s
+
+              assets in a geospatial format will provide opportunities for efficiency improvements and
+
+              greater effectiveness in engineering analysis, technical operations, and commercial
+
+              operations.
+
+
+
+ 47.      Component 4: Natural gas (US$3.2 million equivalent). The fourth component includes three
+
+ activities: (a) development of a strategy for balancing natural gas demand and supply; (b) review of WAGP
+
+ treaties and operation; and (c) support for GNPC in their role as gas aggregator, as well as GNGC and other
+
+ gas sector agencies and institutions. Each of these activities will be associated with training to build
+
+ capacity, including key technical staff from GNPC and the MoEn, on gas aggregation.
+
+
+
+             Strategy for balancing gas demand and supply. This activity will review the functioning of
+
+              the gas sector and develop a strategy to aggregate and allocate natural gas flows, including
+
+              an options paper on models for gas pricing, pipeline capacity nomination, allocation of gas
+
+              to power plants. A starting point is an assessment of whether past and future investment
+
+              decisions will result in a near-term gas deficit or surplus and to lay out the role gas imports
+
+              should play in the midterm.
+
+
+
+             Review of WAGP treaties. This study will review the WAGP treaties and operation to identify
+
+              what is required to further utilize WAGP for the benefit of the region. An options paper will
+
+              contrast different operational, commercial, and ownership paradigms that could be
+
+              explored, including third-party access to the pipeline, procedures of nominating capacity,
+
+              and reverse flow beyond Ghana (Tema). If Ghana can use WAGP on commercial terms, there
+
+              may be additional opportunities for investment in the energy sector in the coming years.
+
+              The study would articulate near-term options to address urgent issues and then develop
+
+              longer-term options.
+
+
+
+             Support for capacity building and vocational training. As the national aggregator of gas,
+
+              GNPC has an important role to play in purchasing gas, setting and communicating gas prices,
+
+              and coordinating available volumes with power generators and the grid operator to ensure
+
+              security of supply. The project will provide technical support to GNPC, as well as GNGC and
+
+              other gas sector agencies and institutions, to reinforce their capacity to price and allocate
+
+              gas transparently to facilitate the reintegration of natural gas in the power sector. In
+
+              addition, the project will also continue to support the capacity building that was initiated
+
+              with the Gas and Oil Capacity Building Project and support activities such as development of
+
+              training curriculum, support for international certification, and other training activities to
+
+              support increased employment of Ghanaians in the oil and gas sector.
+
+
+
+ 48.    Component 5: Project management (US$2.0 million equivalent). This component will cover
+
+ support to the Project Implementation Unit (PIU) to manage the activities described in Components 1
+
+ through 4. The component will finance the engagement of consultants to handle the required fiduciary,
+
+
+
+
+
+                                                                                                      Page 20 of 57
+
+The World Bank
+
+Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+ monitoring, reporting, and coordinating responsibilities. It will also finance the operating costs of the PIU,
+
+ required project management, consultations and coordination workshops, and the development and
+
+ implementation of a communications strategy for the energy sector.
+
+
+
+ 49.     The communication strategy would include (a) opinion research to assess public attitudes about
+
+ reforms; (b) messaging workshops to design key campaign messages; (c) training sessions for journalists;
+
+ and (d) media monitoring to enhance press coverage of reforms and development of an advertising
+
+ campaign suitable for different media such as newspaper, radio, Internet, and television. This activity
+
+ would be accompanied by training to build the capacity of the MoEn and the sector regulators to
+
+ proactively communicate with the public as the sector continues to evolve.
+
+
+
+  B. Project Cost and Financing
+
+
+
+                                                                              IBRD or IDA
+
+                                                           Project Cost                        Counterpart
+
+                   Project Components                                          Financing
+
+                                                          (US$, millions)                        Funding
+
+                                                                             (US$, millions)
+
+
+
+  1. Management of energy sector financial flows               5.3                5.3                0
+
+
+
+  2. Sector planning and coordination                          3.5                3.5                0
+
+
+
+  3. Energy access                                             2.0                2.0                0
+
+
+
+  4. Natural gas                                               3.2                3.2                0
+
+
+
+  5. Project management                                        2.0                2.0                0
+
+
+
+    Follow-up activities and contingencies                     4.0                4.0                0
+
+
+
+  Total Costs
+
+
+
+                                    Total Project Costs        20.0               20.0
+
+
+
+                                             Of which:
+
+                                              Training                 2.2
+
+
+
+                       Software and small equipment:                   1.5
+
+
+
+      Follow-up activities to support implementation of                2.0
+
+                                      recommendations:
+
+                                        Contingencies:                 2.0
+
+
+
+                             Total Financing Required           —                 20.0              —
+
+
+
+
+
+ 50.     Retroactive financing. Up to US$4 million, or 20 percent of the IDA credit, will be available to
+
+ finance eligible expenditures incurred from January 1, 2018, to credit signing.
+
+
+
+
+
+
+
+
+
+                                                                                                         Page 21 of 57
+
+The World Bank
+
+Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+  C. Lessons Learned and Reflected in the Project Design
+
+
+
+ 51.     The project design has reflected the following lessons learned from similar projects.
+
+
+
+ 52.      Technical assistance loans provide a platform for consultation which can generate stronger
+
+ ownership by the different stakeholders involved in implementing reforms. The earlier Poverty
+
+ Reduction Support Credit series in Ghana highlights the importance of Government ownership over the
+
+ agreed reforms, which can be achieved only when there is broad consensus among the different
+
+ stakeholders engaged in the process. This engagement with Government stakeholders should be not only
+
+ gradual but also sustained over a long period, with the need to be pragmatic and with an incremental
+
+ approach rather than a large and complex reform that might not generate the needed consensus. As a
+
+ result of the technical assistance loan, it is expected that a broad political consensus on sector reform will
+
+ be achieved, minimizing the risks posed by shifting political priorities and bureaucratic inertia.
+
+
+
+ 53.      Transparency—both in the availability of market information and in the interactions among
+
+ market players—is an important underpinning of a competitive market. An effective energy sector that
+
+ attracts investment while delivering good quality and cost-effective services requires a high degree of
+
+ transparency and rule-based, technical—rather than political—decision making. Efficient investment in
+
+ power generation by the private sector will depend on transparent and predictable gas and electricity
+
+ pricing, dispatch, and gas allocation. In line with lessons from the Vietnam Power Sector Reform
+
+ Development Policy Operation (DPO) (P115874), the project supports platforms and processes for making
+
+ market-relevant information available.
+
+
+
+ 54.     Streamlining project implementation in a single entity reduces the transaction cost for the
+
+ Government. The implementation arrangement with a PIU and a steering committee follows the practice
+
+ of other technical assistance projects, such as the Ghana Public Financial Management Reform Project
+
+ (GIFMIS, P151447), the Ghana Economic Management Strengthening Project (GEMS, P152171), and the
+
+ Ghana Economic Management Capacity Building Project (P092986). These projects had the common
+
+ characteristic that their activities interacted with many entities in the Government under the purview of
+
+ a line ministry, with a steering committee to coordinate the overall engagement with the different
+
+ agencies. The implementation arrangements for the project also requires the preparation of a Project
+
+ Implementation Manual (PIM) that provides a framework for the needed coordination within the
+
+ Government and facilitates the creation of collective awareness during consultation efforts.
+
+
+
+ 55.     Capacity building should be designed as a means to trigger actions from analytical work
+
+ generated from the project. Experience suggests that traditional formal training courses and providing
+
+ technical advisers seldom results in sustainable capacity increase. The capacity building offered by the
+
+ project goes beyond this traditional type. The capacity-building activities will be designed to build a
+
+ connector between the diagnostic work and action plans expected to be rolled out, through the exchange
+
+ with practitioners, which might include both overseas visits or bringing practitioners to Ghana. Therefore,
+
+ the project seeks to promote customized training plans, closely linked to the analytical and policy activities
+
+ to strengthen the implementation capacity of the necessary changes that may take place after the project
+
+ closes.
+
+
+
+ 56.    Successful implementation of analytical and policy studies requires good Government capacity,
+
+ adequate resources, and intensive supervision by World Bank staff. The project design has considered
+
+
+
+                                                                                                        Page 22 of 57
+
+The World Bank
+
+Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+ these lessons from the Ghana Gas and Oil Capacity Building Project (P120005) by establishing a strong
+
+ execution mechanism comprising an experienced and effective project coordinator, high-level steering
+
+ committee, and early involvement of the various sector entities in the design of the project. The project
+
+ provides adequate resources for strengthening the arrangements as required during implementation. In
+
+ addition, the World Bank has a highly qualified project team, including an experienced task team leader
+
+ (TTL) based in the country, to provide implementation support throughout the project period and is
+
+ prepared to step up these resources as required.
+
+
+
+ 57.     Technical assistance should be targeted and flexible. The project has considered this lesson from
+
+ technical assistance projects in Tanzania by supporting implementation of the Government’s reform
+
+ program, yet providing flexibility to accommodate evolving circumstances.
+
+
+
+  IV. IMPLEMENTATION
+
+
+
+  A. Institutional and Implementation Arrangements
+
+
+
+ 58.   The implementation arrangements mirror those successfully used for the ongoing GEDAP. The
+
+ MoEn will have the overall responsibility for the project’s implementation.
+
+
+
+ 59.      Project steering committee. This committee will oversee implementation and ensure effective
+
+ coordination and cooperation between the energy sector entities involved in the project. It will be chaired
+
+ by one of the deputy ministers for energy, who will be supported by the PIU and appointed staff from the
+
+ MoEn. Committee members will consist of representatives from the MoF; the Ministry of Gender,
+
+ Children, and Social Protection (MoGCSP); the Ministry of Monitoring and Evaluation (MoME); other
+
+ relevant government agencies; and the chief executives of the energy entities involved in the project:
+
+ ECG, NEDCo, GRIDCo, GNPC, GNGC, EC, NPA, and PURC. In addition, the MoEn Directors for Accounts and
+
+ Procurement as well as any other relevant staff of the ministry will attend selected meetings as required.
+
+ It will meet at least twice a year or more frequently, if required, and report to the Minister for Energy. The
+
+ Steering Committee would be set up by October 31, 2018.
+
+
+
+ 60.      Technical committee. For quality control, the Government will establish a technical committee,
+
+ chaired by the Project Manager or his designate, and will consist of senior-level technical specialists of the
+
+ sector entities. The technical committee will be responsible for providing quality assurance on the
+
+ technical aspects of the project including (a) providing input for terms of reference for relevant work; (b)
+
+ providing relevant data and information required for the implementation of activities under Components
+
+ 1 through 4; (c) reviewing consultants’ reports; and (d) supporting the implementation of the project. It
+
+ will be set up by October 31, 2018, with clear responsibilities and reporting arrangements.
+
+
+
+ 61.       PIU. The PIU will manage the day-to-day operations of the project under the purview of the MoEn.
+
+ It will report to the steering committee. Its responsibilities include (a) managing procurement and FM of
+
+ project funds; (b) engaging and supervising consultants under Components 1 through 4, including
+
+ ensuring that arrangements for quality control of outputs are in place; (c) serving as a single point for
+
+ tracking of the progress of implementation and monitoring and evaluation of project outcomes; (d)
+
+ monitoring costs and financing; (e) preparing quarterly reports; and (f) organizing workshops and
+
+ consultations and developing a communications strategy for the sector.
+
+
+
+
+
+                                                                                                        Page 23 of 57
+
+The World Bank
+
+Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+ 62.      The PIU will be led by a project manager. The staff includes a procurement and an FM specialist,
+
+ two accounting officers, a monitoring and evaluation officer, a communications officer, a power sector
+
+ specialist, a gas sector specialist, and a social and gender specialist.13 In addition, the electricity and gas
+
+ entities will assign technical specialists to the PIU on need basis to assist with specific issues. Staff with
+
+ expertise in FM and procurement will be assigned to the unit from the MoEn to be trained. Their
+
+ assignment will be completed before project effectiveness.
+
+
+
+ 63.      Initially, the project will be managed by the existing PIU for the GEDAP as its current workload is
+
+ significantly reduced given the planned closure of the GEDAP in January 2019. The key staff who have
+
+ already gained experience in managing IDA-financed projects will be reappointed to the project PIU but
+
+ will be training the ministry staff in parallel with the aim to move gradually toward using Ghana’s country
+
+ systems. The PIU will transition to a fully budgeted unit within the MoEn, and its transition progress will
+
+ be assessed at midterm review to see if the project can transition to the country systems. The team will
+
+ be strengthened with relevant staff, as found necessary during implementation.
+
+
+
+                                          Figure 1. Project Implementation Arrangements
+
+
+
+
+
+
+
+
+
+  B. Results Monitoring and Evaluation
+
+
+
+ 64.     The Results Monitoring Framework to document and monitor the project’s development impact
+
+ has been finalized. The PIU will have the monitoring and evaluation responsibility. It will prepare quarterly
+
+ progress reports for the World Bank and the steering committee based on an outline to be agreed per the
+
+ results monitoring plan, as described in Section VII. The PIU will consolidate the information it obtains
+
+ from the different project stakeholders, such as ECG, NEDCo, GRIDCo, GNPC, GNGC, EC, PURC, and VRA.
+
+
+
+
+
+ 13   Social and Gender Specialist will also be responsible for clean cooking activities.
+
+
+
+
+
+                                                                                                         Page 24 of 57
+
+The World Bank
+
+Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+ 65.     The progress reports will include the status of the results indicators and action plans, listing any
+
+ corrective actions to be implemented with deadlines and persons responsible clearly identified. The
+
+ reports will be sent to the World Bank for information, and the evaluation of the results indicators will be
+
+ a part of the supervision missions.
+
+
+
+  C. Sustainability
+
+
+
+ 66.      The Government has demonstrated commitment to sector reforms. The Government has
+
+ demonstrated strong commitment to the energy sector by outlining several measures to recover financial
+
+ sustainability in the power sector including (a) Completing the ECG concession; (b) issuance of an energy
+
+ bond; and (c) establishment of the CWM. Yet, there are several key challenges related to the long-term
+
+ sustainability and growth of the energy sector. Primary issues related to the sustainability of sector
+
+ development include (a) maintaining and improving the financial viability of the power sector; (b)
+
+ improving sector planning and investment decisions; (c) improving the regulatory framework; and (d)
+
+ expanding electricity access to remote communities. The project will support the Government and the
+
+ sector institutions to address these issues and develop skills to implement improvements during project
+
+ implementation and after the project closes.
+
+
+
+ 67.    While the IDA financing under the project will address several of the issues critical to the long-
+
+ term sustainability of the sector, the project’s sustainability depends on the Government’s willingness to
+
+ implement the recommendations coming out of the project activities.
+
+
+
+  D. Role of Partners
+
+
+
+ 68.      Apart from the World Bank, many other development partners support Ghana’s energy sector.
+
+ The largest of these is the MCC. Under the ‘Compact Program’, the MCC is providing about US$500 million
+
+ for the concession of ECG’s management and operation of the distribution system, tariff review and
+
+ regulation, and energy efficiency, among others. The program reached an important milestone on August
+
+ 30, 2016, when the Request for Proposal for the concession was sent to the short-listed firms. With the
+
+ conditions fulfilled, the Compact Program has become effective and about US$280 million of grant funds
+
+ have been made available for efficiency improvement investments in ECG. A preferred bidder was
+
+ selected in April 2018 and the concessionaire is expected to take operational control of ECG’s assets from
+
+ early 2019. The project activities will be closely coordinated with the MCC Compact Program through
+
+ regular information exchanges.
+
+
+
+ 69.     Several other donors support the energy sector through studies, capacity building, and
+
+ investment. The African Development Bank (AfDB) has been focusing on renewables. The United Nations
+
+ Development Programme has supported renewables and the Sustainable Energy for All (SEE4ALL)
+
+ program, which is a joint initiative of the United Nations and the World Bank. USAID has supported
+
+ generation, gas transmission infrastructure, electricity tariffs, and renewable energy. Other partners
+
+ active in the sector include the Government of Netherlands, SECO, JICA, KOICA, GIZ, and KfW. Their
+
+ support has focused on mini-grids and renewable energy technologies. An effective donor coordination
+
+ group, chaired by the MCC, meets regularly to ensure that efforts are harmonized.
+
+
+
+
+
+
+
+
+
+                                                                                                      Page 25 of 57
+
+The World Bank
+
+Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+ 70.    The ESMAP has generously supported the preparation of the project, by providing additional
+
+ resources for activities that complement those included in Component 1. The ESMAP will finance the
+
+ development of a competitive process for procurement of future IPPs. The objective is to develop a
+
+ procurement strategy that will result in the lowest-cost generation offers and maximizes the value for
+
+ Ghana. The activity will assess international experience in competitive selection models and outline
+
+ improvements to enhance the regulatory framework for IPP contracting and oversight.
+
+
+
+  V. KEY RISKS
+
+
+
+  A. Overall Risk Rating and Explanation of Key Risks
+
+
+
+ 71.      The overall risk to achieving the project’s objectives is Moderate. The table below summarizes the
+
+ ratings by risk category following the Systematic Operations Risk-Rating Tool (SORT).14
+
+
+
+                                      Table 2. Systematic Operations Risk-Rating Tool
+
+                                 Risk Category                                                        Rating
+
+  1. Political and governance                                                       Moderate
+
+  2. Macroeconomic                                                                  Moderate
+
+  3. Sector strategies and policies                                                 Substantial
+
+  4. Technical design of project or program                                         Low
+
+  5. Institutional capacity for implementation and sustainability                   Moderate
+
+  6. Fiduciary                                                                      Substantial
+
+  7. Environment and social                                                         Low
+
+  8. Stakeholders                                                                   Moderate
+
+  9. Other                                                                          —
+
+  Overall                                                                           Moderate
+
+
+
+ 72.     Political and Governance risks are Moderate. Ghana has made significant progress on
+
+ governance indicators, transparency of regulatory frameworks, and in the control of corruption, yet, the
+
+ perception of corruption could be significant. To mitigate these risks, the project includes several
+
+ opportunities for consultations and citizen engagement as well as publication of results from the Results
+
+ Framework.
+
+
+
+ 73.      Macroeconomic risks are Moderate. The country is already addressing the fiscal and monetary
+
+ policie, supported by a DPO. The risk for this project relates to the failure to address macroeconomic
+
+ challenges on time, which could worsen the financial health of the sector entities and jeopardize the
+
+ achievement of the project’s objectives. The coordinated implementation of the project with the
+
+ proposed DPO will provide some mitigation.
+
+
+
+ 74.      Sector Strategy and Policy risks are Substantial. The specific risk factors include (a) reluctance of
+
+ the Government to effectively coordinate the activities with the relevant entities; (b) application of
+
+ policies and strategies during implementation that negate the outputs of the project activities; (c) failure
+
+
+
+ 14SORT rating corresponds to the four rating levels: High, Substantial, Moderate, and Low. For example, a Substantial rating for
+
+ the sector strategies and policies indicates that these factors can create challenges for the policy reform which can affect the
+
+ achievement of the PDO of the project.
+
+
+
+
+
+                                                                                                                          Page 26 of 57
+
+The World Bank
+
+Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+ to implement the financial recovery plan or back-tracking on the commitments; and (d) the dynamic
+
+ nature of the sector’s development that could render some of the planned activities irrelevant. The
+
+ project will address these risks to the extent possible through agreements on a firm implementation and
+
+ coordination plan before negotiations. Furthermore, the project has a flexible design that allows
+
+ adjustment to the activities in response to changed circumstances.
+
+
+
+ 75.     Fiduciary risks are Substantial. These risks relate to the MoEn’s limited capacity to apply the
+
+ World Bank’s new Procurement Framework and FM procedures. These risks are mitigated by (a) engaging
+
+ experienced procurement and financial management consultants (FMCs) to the PIU; (b) training the
+
+ MoEn’s procurement staff and accountants in procurement and FM by the PIU’s experienced consultants
+
+ and World Bank staff; (c) preparing a project budget for the first year before effectiveness; and (d)
+
+ preparing a PIM before effectiveness.
+
+
+
+ 76.     Institutional Capacity for Implementation and Sustainability has a Moderate risk rating. The
+
+ Government and the MoEn have a good track record in implementing the GEDAP. However, there is a risk
+
+ of delays because of the large number of activities under the project and there is also a risk that the quality
+
+ of the outputs will not meet expectations for all the activities. These risks will be addressed by staffing the
+
+ PIU with experienced specialists in adequate numbers and the presence of the high-powered steering
+
+ committee. In addition, the World Bank team will include qualified electricity and gas specialists to provide
+
+ advice on the terms of reference and the study outputs. Finally, there is a risk that the PIU will not be able
+
+ to transition to the country system if it does not receive the necessary budget or personnel allocation.
+
+ The World Bank will intensify its implementation support during the project period to mitigate such risk.
+
+
+
+ 77.      Technical Design and Environmental and Social Aspects have a Low risk rating. The project
+
+ activities are similar to activities in other power sector technical assistance projects and have no negative
+
+ social or environmental impacts. The activities have been discussed and agreed with the MoEn and the
+
+ relevant entities.
+
+
+
+  VI. APPRAISAL SUMMARY
+
+
+
+  A. Economic and Financial (if applicable) Analysis
+
+
+
+ 78.      The economic benefits of the project, though difficult to measure, are expected to be much
+
+ higher than the proposed financing. The project is a technical assistance project that does not finance
+
+ investments, which would generate cash flows, and therefore, it does not lend itself to traditional
+
+ calculation of net present value (NPV) or economic or financial rate of return. However, if the Government
+
+ implements the reforms resulting from the project’s recommendations, the potential benefits would be
+
+ substantial.
+
+
+
+ 79.     Public sector financing of project activities will help lower barriers to future commercial
+
+ financing. Public financing is justified given the many challenges that create barriers for attracting
+
+ commercial financing for Ghana’s energy sector development. The poor financial situation of the power
+
+ sector companies severely constrains their ability to access commercial financing. Thus, companies across
+
+ the value chain are deprived of the much-needed financing required to fund investments, but, more
+
+ importantly, to meet their operating and maintenance expenses. Through a comprehensive package of
+
+
+
+
+
+                                                                                                         Page 27 of 57
+
+The World Bank
+
+Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+ regulatory, policy, and governance measures and platforms for stakeholder engagement throughout
+
+ implementation, the operation is expected to create an enabling environment for future commercial
+
+ financing for the sector and further involvement of the private sector.
+
+
+
+ 80.     Because the power sector does not cover its cost, it had a revenue deficit of US$794 million in
+
+ 2016. Over the years, the recurring revenue deficit has led to an accumulation of US$2.3 billion in net
+
+ external debt stock (March 2017).15 Poor collections, high system losses, high cost of liquid fuels, and
+
+ unpaid bills by the Government institutions (US$1 billion) are major sources of the revenue shortfall.
+
+
+
+ 81.      The project supports the development of both short-term and medium-term sector reforms to
+
+ address this issue, in close coordination with other activities by the Government, the World Bank Group,
+
+ the IMF, and development partners. In the short term, the project supports the Government’s
+
+ implementation of a financial turnaround plan to stabilize the sector’s finances. To sustain financial
+
+ viability, improve supply reliability, and encourage private sector investment, the project supports the
+
+ development of a strategy to improve the sector’s operational, institutional, and regulatory environment.
+
+
+
+ 82.      Methodology. Even though it is not possible to quantify the project’s overall benefits and costs in
+
+ monetary terms, the World Bank carried out a rough analysis of Component 1 (management of power
+
+ sector financial flows) to illustrate the potential financial benefits. This component will provide analytical
+
+ and advisory assistance to improve the transparency and management of the financial flows in the energy
+
+ sector by improving revenue collection through the implementation of electronic billing and collections,
+
+ allocation of the collected revenue among the sector entities through a CWM, and improvement of the
+
+ operational efficiency of the distribution entities. The analysis includes only financial considerations
+
+ because the benefits and costs to society are hard to quantify.
+
+
+
+ 83.         Assumptions. The financial analysis of Component 1 rests on the following assumptions:
+
+
+
+                   Current annual revenue gap in the power sector is approximately US$500 million before
+
+                    debt service.
+
+
+
+                   A new local financing with seven-year tenor and 17 percent interest rate will fill the revenue
+
+                    gap annually.16 Amortization of the debt is assumed to equal payment for the full tenor.
+
+
+
+                   If the Government implements the improvements that will be developed under Component
+
+                    1, the revenue gap is assumed to decrease by 50 percent annually.
+
+
+
+                   Lifetime of the analysis is 10 years.
+
+
+
+                   Discount rate is 10 percent.
+
+
+
+
+
+
+
+
+
+ 15   Revenue Monitoring Unit, MoEn.
+
+ 16   This tenor and interest rate are based on the latest auction for Ghana’s Energy Bond.
+
+
+
+
+
+                                                                                                           Page 28 of 57
+
+The World Bank
+
+Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+ 84.      Results. The analysis illustrates that the financial benefit from the decrease in interest payments
+
+ is about US$2,465 million over the assumed 10-year period. The financial real NPV at 10 percent discount
+
+ rate is US$1,184 million.
+
+
+
+  B. Technical
+
+
+
+ 85.     The project design was informed by sustained World Bank engagement with the Government in
+
+ the energy sector over the past several years. In meetings with the World Bank’s senior management
+
+ between November 2016 and April 2017, the Government requested the World Bank’s assistance in
+
+ defining the specific actions that would be needed to turn around the performance of the energy sector.
+
+ The project has been prepared in response to the Government’s request and the components have been
+
+ developed in collaboration with the Government and the sector entities.
+
+
+
+  C. Financial Management
+
+
+
+ 86.     The World Bank has conducted an FM assessment of the implementing entity, MoEn. The
+
+ assessment concluded that the MoEn’s accounts department has limited understanding of IDA
+
+ disbursement and FM procedures. Despite the MoEn having implemented previous IDA-funded projects
+
+ and currently implementing the GEDAP, FM activities were undertaken by a dedicated PIU.
+
+
+
+ 87.     As it is important to strengthen Ghana’s country systems, the project will use those aspects of the
+
+ country’s FM systems which can be relied upon while building capacity in the weaker areas. It has
+
+ therefore been agreed that the project will use a hybrid arrangement where the Director of Accounts of
+
+ MoEn has the overall FM responsibility but is supported by experienced consultants in the PIU.
+
+
+
+ 88.    Under the oversight of the Director of Accounts, the FM responsibility will initially be handled by
+
+ the FM consultant currently supporting the GEDAP who in turn will be supported by a dedicated project
+
+ accountant from the MoEn who is imbedded as part of the PIU.
+
+
+
+ 89.    Following the closure of the GEDAP in January 2019, the project will reconstitute the PIU and
+
+ reappoint the key consultants, including the FMC who is already familiar with IDA’s disbursement and FM
+
+ procedures.
+
+
+
+ 90.      The agreed arrangements, after the implementation of the agreed action plan to address
+
+ identified weaknesses, satisfy the World Bank’s minimum requirements under World Bank Policy and
+
+ Directive for Investment Project Financing (IPF) and the residual risk is Moderate. Details of the FM
+
+ arrangements and the actions that are needed to reduce the residual risk are documented in Annex 1.
+
+
+
+  D. Procurement
+
+
+
+ 91.    The World Bank has carried out an assessment of the procurement unit of the MoEn. The
+
+ assessment established that the procurement unit did not have adequate experience in IDA procurement
+
+ procedures. It has therefore recruited a Director of Procurement who has some experience in IDA
+
+ procurement procedures. None of the current staff in MoEn’s procurement unit is familiar with the World
+
+ Bank’s new Procurement Framework and this poses a major risk to project implementation. The
+
+ procurement risk rating is therefore Substantial and the project has put in place adequate mitigation
+
+
+
+                                                                                                      Page 29 of 57
+
+The World Bank
+
+Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+ measures (Annex 2). The appointed procurement staff from MoEn would be trained by the PIU
+
+ procurement specialist until the implementation function is mainstreamed to the MoEn.
+
+
+
+ 92.      Procurement will be carried out in accordance with (a) World Bank Procurement Regulations for
+
+ IPF Borrowers: Procurement in IPF for Goods, Works, Non-Consulting and Consulting Services, dated July
+
+ 2016; (b) the Guidelines on Preventing and Combating Fraud and Corruption in Projects financed by IBRD
+
+ Loans and IDA Credits and Grants, dated October 15, 2006, revised in January 2011; and (c) the provisions
+
+ that will be stipulated in the Legal Agreement.
+
+
+
+ 93.      Project Procurement Strategy for Development (PPSD). The MoEn has prepared a PPSD, which
+
+ was reviewed and approved by the World Bank. Assessment conducted in the document indicates that
+
+ MoEn, through GEDAP, have been implementing other on-going projects funded by the World Bank since
+
+ the year 2000. They have been involved in World Bank and other donor-financed projects including those
+
+ from the AfDB and the Embassy of Switzerland and hence have gained extensive experience in project
+
+ procurement and FM as well as institutional project management. The established PIU is implementing
+
+ various donor funded projects and have demonstrated that their procurement capacity to be adequate.
+
+ adequate internal technical and administrative controls and anti-corruption procedures including
+
+ satisfactory appeals mechanisms for bidders.
+
+
+
+ 94.      The PPSD has been accompanied by a corresponding 18-month Procurement Plan. As
+
+ procurement strategy, services will be procured mainly through international quality and cost-based
+
+ selection. Given the nature of the services, it is expected that many firms are interested in submitting
+
+ their proposals. Procurement of goods, which is limited, will be through international competitive bidding
+
+ (ICB) or national competitive bidding (NCB) and price quotations and will not require the application of
+
+ domestic preference.
+
+
+
+  E. Social (including Safeguards)
+
+
+
+ 95.      The project’s anticipated social safeguards impacts are negligible because the project provides
+
+ technical assistance that does not involve land acquisition, relocation, or displacement. The project does
+
+ not trigger any safeguards policies and no instruments are needed.
+
+
+
+ 96.     Citizen engagement. The Government and the World Bank have agreed that once the findings of
+
+ the various studies have been drafted, consultations will be arranged with a wide variety of stakeholders,
+
+ including civil society organizations, nongovernmental organizations, local organizations, and women’s
+
+ groups. The World Bank team will agree with the Government on the preparation of a communication
+
+ strategy and the arrangements for consultations with stakeholders to expand the scope of citizens’
+
+ engagement. The project will seek to monitor and report on the number of citizen engagement meetings
+
+ held and the percentage of participants who consider their views have been taken into account.
+
+
+
+ 97.      Gender. Based on the technical assistance nature of the project, the World Bank determined that
+
+ it did not meet the requirements for a ‘Gender Tag’. None of the activities to be carried out during the
+
+ implementation will have a direct effect on individuals and they will not result in outcomes that would
+
+ close gender gaps. However, there are meaningful opportunities for integrating gender elements into
+
+ some activities within Components 1 and 3 of the project to make it gender-informed. Also, the capacity-
+
+
+
+
+
+                                                                                                    Page 30 of 57
+
+The World Bank
+
+Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+ building activities included in all the components will be gender sensitive, by ensuring that the beneficiary
+
+ institutions include women in these opportunities.
+
+
+
+ 98.     Within Component 1, implementation of e-billing/e-payments may have different implications for
+
+ men and women. There may be gender-specific risks or underlying barriers that would affect customer
+
+ benefit or the overall effectiveness of the project to improve collections. Therefore, the activity will
+
+ develop a gender-responsive implementation plan recommending targeted policies where necessary. The
+
+ implementation plan would be based on gender-differentiated analysis including collecting sex-
+
+ disaggregated data where necessary, such as data on women’s access and usage of mobile phones, to
+
+ inform project design and create a baseline to understand the efficacy of an information and
+
+ communication technology intervention. The activity would develop indicators to drive data collection
+
+ throughout the implementation process. Consultations during the development of the implementation
+
+ plan will aim to increase women’s participation in the program design. Recommendations would identify
+
+ solutions to address gender inequalities related to e-billing/e-payments and identify opportunities for
+
+ women to be active agents of change.
+
+
+
+ 99.      Within Component 3, the assessment of off-grid electrification will outline impacts in gender,
+
+ poverty reduction, and improved women entrepreneurship within the off-grid market and clean cooking.
+
+ The assessment will consider the different energy needs and uses of men and women in the household
+
+ and in income-generating activities based on gender-disaggregated data. The options paper for successful
+
+ off-grid models that can be replicated and scaled up will include gender-specific recommendations
+
+ informed by women’s and men’s different decision-making powers over energy. Consultations to develop
+
+ the implementation strategy will incorporate women’s participation in decision-making processes. The
+
+ implementation strategy for off-grid electrification and clean cooking would identify solutions to address
+
+ gender inequalities related to access to energy services, opportunities for women to be active agents of
+
+ change, and specific actions to enable women to engage in entrepreneurial activities within the energy
+
+ sector and supported by greater access to electricity.
+
+
+
+  F. Environment (including Safeguards)
+
+
+
+ 100. The World Bank conducted an environmental safeguards assessment, which determined that
+
+ because the project activities do not involve any physical works there are no environmental impacts and
+
+ hence no safeguards instruments are needed for the project. The World Bank’s environmental safeguards
+
+ team will continue its engagement with the project to ensure that activities remain within the project
+
+ categorization and provide further guidance should changes occur before appraisal.
+
+
+
+ 101. Climate change mitigation co-benefits. Consistent with the World Bank’s Climate Change Action
+
+ Plan, the total climate co-benefits in this project amount to US$4.0 million (20 percent).17
+
+
+
+                  Strategic assessment of off-grid solar solutions in Component 3 is eligible for mitigation co-
+
+                   benefits under Article 9.1: Support to national, regional, or local policy, through technical
+
+
+
+
+
+
+
+ 17   According to the GCC Climate Co-Benefits Assessment team.
+
+
+
+
+
+
+
+                                                                                                          Page 31 of 57
+
+    The World Bank
+
+    Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+                       assistance or policy lending of the Multilateral Development Banks’ List of Eligible Mitigation
+
+                       Activities.18
+
+
+
+                       Studies to promote use of renewable energy in Component 4 are eligible for mitigation co-
+
+                        benefits also under Article 9.1: Support to national, regional, or local policy, through
+
+                        technical assistance or policy lending of the Multilateral Development Banks’ List of Eligible
+
+                        Mitigation Activities.
+
+
+
+      G. Other Safeguard Policies (if applicable)
+
+
+
+     102.        Not applicable.
+
+
+
+      H. World Bank Grievance Redress
+
+
+
+     103. Communities and individuals who believe that they are adversely affected by a World Bank (WB)
+
+     supported project may submit complaints to existing project-level grievance redress mechanisms or the
+
+     WB’s Grievance Redress Service (GRS). The GRS ensures that complaints received are promptly reviewed
+
+     in order to address project-related concerns. Project affected communities and individuals may submit
+
+     their complaint to the WB’s independent Inspection Panel which determines whether harm occurred, or
+
+     could occur, as a result of WB non-compliance with its policies and procedures. Complaints may be
+
+     submitted at any time after concerns have been brought directly to the World Bank's attention, and Bank
+
+     Management has been given an opportunity to respond. For information on how to submit complaints to
+
+     the     World     Bank’s     corporate    Grievance      Redress    Service   (GRS),     please     visit
+
+     http://www.worldbank.org/en/projects-operations/products-and-services/grievance-redress-service.
+
+     For information on how to submit complaints to the World Bank Inspection Panel, please visit
+
+     www.inspectionpanel.org.
+
+.
+
+
+
+
+
+
+
+
+
+     18   2016 Joint report on Multilateral Development Banks’ Climate Finance.
+
+
+
+
+
+
+
+                                                                                                               Page 32 of 57
+
+                          The World Bank
+
+                          Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+                                                                        VII. RESULTS FRAMEWORK AND MONITORING
+
+
+
+
+
+                                                                                        Results Framework
+
+
+
+Project Development Objective(s)
+
+
+
+The Project development objectives is to: strengthen the capacity of the energy sector to implement sector reforms, and improve energy sector planning and
+
+coordination in Ghana
+
+RESULT_FRAME_T BL_ PD O
+
+
+
+
+
+
+
+
+
+                                                                                     Unit of
+
+ PDO Indicators by Objectives / Outcomes                                  DLI CRI            Baseline            Intermediate Targets          End Target
+
+                                                                                     Measure
+
+                                                                                                             1     2       3       4       5
+
+Strenghten the capacity of the energy sector to implement sector reforms
+
+
+
+Power sector revenue allocated to sector entities                                                                                      100.0
+
+                                                                                    Percentage 0.00         0.00 0.00 25.00 50.00              100.00
+
+through the Cash Waterfall Mechanism.                                                                                                  0
+
+
+
+E-billing/e-payment system is communicated to
+
+                                                                                    Yes/No    N             N    N     Y       Y       Y       Y
+
+stakeholders and rolled out by NEDCo
+
+
+
+Electrification strategy and investment plan for remote
+
+                                                                                    Yes/No    N             N    N     N       Y       Y       Y
+
+areas is adopted and communicated to stakeholders
+
+
+
+Clean Cooking strategy is adopted and communicated to
+
+                                                                                    Yes/No    N                                                Y
+
+stakeholders
+
+
+
+Improve energy sector planning and coordination in Ghana
+
+
+
+Sector coordination body has endorsed a least-cost
+
+                                                                                    Yes/No    N             N    N     N       Y       Y       Y
+
+power expansion plan
+
+
+
+Strategy for competitive tendering of gas/LNG volumes
+
+                                                                                    Yes/No    N             N    N     Y       Y       Y       Y
+
+for balancing gas supply and demand for power plants is
+
+
+
+
+
+                                                                                                                                                        Page 33 of 57
+
+                          The World Bank
+
+                          Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+RESULT_FRAME_T BL_ PD O
+
+
+
+
+
+
+
+
+
+                                                                                      Unit of
+
+PDO Indicators by Objectives / Outcomes                                   DLI CRI             Baseline        Intermediate Targets          End Target
+
+                                                                                      Measure
+
+                                                                                                          1     2       3       4       5
+
+adopted and communicated to stakeholders
+
+
+
+
+
+RESULT_FRAME_T BL_ IO
+
+
+
+
+
+
+
+
+
+                                                                                      Unit of
+
+Intermediate Results Indicators by Components                            DLI   CRI            Baseline        Intermediate Targets          End Target
+
+                                                                                      Measure
+
+                                                                                                          1     2       3       4       5
+
+Management of power sector financial sector flows
+
+
+
+No. of sector staff trained (male and female).                                       Number     0.00     0.00 10.00 25.00 40.00 50.00       50.00
+
+
+
+of which female.                                                                     Number     0.00     0.00 2.00 4.00 8.00 10.00          10.00
+
+
+
+Citizen engagement: Number of citizen engagement
+
+                                                                                     Number     0.00     0.00 0.00 2.00 2.00 1.00           5.00
+
+meetings held
+
+
+
+Percentage of participants in citizen engagement
+
+meetings who consider their views have been taken into                               Percentage 0.00                                        50.00
+
+account.
+
+
+
+Sector planning and coordination
+
+
+
+Electricity sector assessment concluded and report
+
+                                                                                     Yes/No     N        N     N    Y       Y       Y       Y
+
+adopted.
+
+
+
+Gas sector assessment concluded and report adopted.                                  Yes/No     N        N     N    N       Y       Y       Y
+
+
+
+Energy access
+
+
+
+NEDCo's distribution system plan updated.                                            Yes/No     N        N     N    Y       Y       Y       Y
+
+
+
+NEDCo's distribution specifications and construction                                 Yes/No     N        N     N    N       Y       Y       Y
+
+
+
+
+
+                                                                                                                                                     Page 34 of 57
+
+     The World Bank
+
+     Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+standards approved.
+
+
+
+GRIDCo's grid recilience and reinforcement study
+
+                                                                        Yes/No     N                          N     N      Y     Y    Y      Y
+
+concluded.
+
+
+
+Gender. The strategic assessment of electrification
+
+options outlines the impacts of different electrification
+
+                                                                        Yes/No     N                          N     N      Y     Y    Y      Y
+
+strategies on women and women’s
+
+entrepreneurship\income generation.
+
+
+
+Natural gas
+
+
+
+Gas supply and demand study completed.                                  Yes/No     N                          N     N      N     Y    Y      Y
+
+
+
+
+
+
+
+
+
+                                                                  Monitoring & Evaluation Plan: PDO Indicators
+
+
+
+Indicator Name                                              Power sector revenue allocated to sector entities through the Cash Waterfall Mechanism.
+
+                                                            The indicator measures the proportion of the power sector revenue collected annually that is allocated
+
+                                                            to ECG, VRA, NEDCo, IPPs, fuel suppliers through the Cash Waterfall Mechanism. The power sector
+
+Definition/Description
+
+                                                            revenue in 2018 would be all revenues from ECG and VRA, but after ECG concession the revenue would
+
+                                                            be defined as Concessionaire Payment (Lease + Electricity Payment) and VRA revenues.
+
+                                                            Quarterly
+
+Frequency
+
+
+
+                                                            Escrow Trustee's documentation.
+
+Data Source
+
+
+
+                                                            Data collected by PIU from Escrow Trustee
+
+Methodology for Data Collection
+
+
+
+                                                            Ministry of Energy will provide the information to the World Bank.
+
+Responsibility for Data Collection
+
+
+
+
+
+
+
+
+
+                                                                                                                                                       Page 35 of 57
+
+    The World Bank
+
+    Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+Indicator Name                                  E-billing/e-payment system is communicated to stakeholders and rolled out by NEDCo
+
+                                                E-billing/E-payment system is structured rolled out by NEDco. The roll out would be communicated to
+
+Definition/Description
+
+                                                the stakeholders.
+
+                                                Quarterly
+
+Frequency
+
+
+
+                                                NEDCo Board resolutions.
+
+Data Source
+
+
+
+                                                NEDco to submit the Board resolution to PIU
+
+Methodology for Data Collection
+
+
+
+                                                PIU at the Ministry of Energy
+
+Responsibility for Data Collection
+
+
+
+                                                Electrification strategy and investment plan for remote areas is adopted and communicated to
+
+Indicator Name
+
+                                                stakeholders
+
+                                                An adoption of the strategy and investment plan would be confirmed by Minister of Energy, and the
+
+Definition/Description
+
+                                                strategy/investment plan would be disseminated to the public.
+
+                                                Quarterly
+
+Frequency
+
+
+
+                                                Ministry of Energy
+
+Data Source
+
+
+
+                                                Letter confirming the adoption of the strategy and investment plan will be sent by the Minister of
+
+Methodology for Data Collection                 Energy.
+
+
+
+
+
+                                                PIU at the Ministry of Energy
+
+Responsibility for Data Collection
+
+
+
+
+
+
+
+
+
+                                                                                                                                             Page 36 of 57
+
+    The World Bank
+
+    Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+Indicator Name                                  Clean Cooking strategy is adopted and communicated to stakeholders
+
+                                                Adoption of strategy for clean cooking will be confirmed by the Minister of Energy, and will be
+
+Definition/Description
+
+                                                disseminated publicly
+
+                                                Quarterly
+
+Frequency
+
+
+
+                                                Ministry of Energy
+
+Data Source
+
+
+
+                                                Letter confirming the adoption of the Clean Cooking strategy will be sent by Minister of Energy
+
+Methodology for Data Collection
+
+
+
+                                                Ministry of Energy PIU
+
+Responsibility for Data Collection
+
+
+
+Indicator Name                                  Sector coordination body has endorsed a least-cost power expansion plan
+
+Definition/Description                          Ministry of Energy adopts the Least Cost Generation Plan.
+
+                                                Quarterly
+
+Frequency
+
+
+
+                                                Ministry of Energy
+
+Data Source
+
+
+
+                                                Letter confirming the adoption of the Plan to be sent to the PIU.
+
+Methodology for Data Collection
+
+
+
+                                                PIU at the Ministry of Energy
+
+Responsibility for Data Collection
+
+
+
+
+
+
+
+
+
+                                                                                                                                             Page 37 of 57
+
+    The World Bank
+
+    Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+                                                Strategy for competitive tendering of gas/LNG volumes for balancing gas supply and demand for power
+
+Indicator Name
+
+                                                plants is adopted and communicated to stakeholders
+
+Definition/Description                          Strategy will be adopted by the Ministry of Energy
+
+                                                Quarterly
+
+Frequency
+
+
+
+                                                Ministry of Energy
+
+Data Source
+
+
+
+                                                Letter confirming the adoption of the Strategy will be sent to PIU
+
+Methodology for Data Collection
+
+
+
+                                                PIU at the Ministry of Energy
+
+Responsibility for Data Collection
+
+
+
+
+
+
+
+                                               Monitoring & Evaluation Plan: Intermediate Results Indicators
+
+
+
+Indicator Name                                  No. of sector staff trained (male and female).
+
+Definition/Description                          Number of personnel in the Energy Sector that received training through this project
+
+                                                Quarterly
+
+Frequency
+
+
+
+                                                Project progress reports
+
+Data Source
+
+
+
+                                                Data to be collected through entry forms and exit surveys at training
+
+Methodology for Data Collection
+
+
+
+                                                PIU at the Ministry of Energy
+
+Responsibility for Data Collection
+
+
+
+
+
+
+
+                                                                                                                                        Page 38 of 57
+
+    The World Bank
+
+    Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+Indicator Name                                  of which female.
+
+
+
+Definition/Description                          Female personnel that received training through the project
+
+                                                Quarterly
+
+Frequency
+
+
+
+                                                Project progress reports
+
+Data Source
+
+
+
+                                                Data to be collected through entry forms and exit surveys at training
+
+Methodology for Data Collection
+
+
+
+                                                PIU at the Ministry of Energy
+
+Responsibility for Data Collection
+
+
+
+Indicator Name                                  Citizen engagement: Number of citizen engagement meetings held
+
+                                                Meetings will be held to inform and obtain feedback from the public about the policy reform agenda of
+
+Definition/Description
+
+                                                the energy sector to be supported under the project
+
+                                                Quarterly
+
+Frequency
+
+
+
+                                                Minutes of consultations.
+
+Data Source
+
+
+
+                                                Minutes and surveys from the meetings.
+
+Methodology for Data Collection
+
+
+
+                                                PIU at the Ministry of Energy
+
+Responsibility for Data Collection
+
+
+
+
+
+
+
+
+
+                                                                                                                                          Page 39 of 57
+
+    The World Bank
+
+    Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+                                                Percentage of participants in citizen engagement meetings who consider their views have been taken
+
+Indicator Name
+
+                                                into account.
+
+                                                Measurement of how much of the participants to the meetings on policy reform agenda felt that their
+
+Definition/Description
+
+                                                inputs were taken into account
+
+                                                Quarterly
+
+Frequency
+
+
+
+                                                Participants at the meetings
+
+Data Source
+
+
+
+                                                Minutes and surveys taken at the meetings held.
+
+Methodology for Data Collection
+
+
+
+                                                PIU at Ministry of Energy
+
+Responsibility for Data Collection
+
+
+
+Indicator Name                                  Electricity sector assessment concluded and report adopted.
+
+
+
+Definition/Description                          Electricity Sector Assessment Report to be completed and adopted by the Ministry of Energy
+
+                                                Quarterly.
+
+Frequency
+
+
+
+                                                Project progress report.
+
+Data Source
+
+
+
+                                                Letter from Ministry of Energy informing the completion of the assessment and its adoption
+
+Methodology for Data Collection
+
+
+
+                                                PIU at the Ministry of Energy
+
+Responsibility for Data Collection
+
+
+
+
+
+
+
+
+
+                                                                                                                                             Page 40 of 57
+
+    The World Bank
+
+    Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+Indicator Name                                  Gas sector assessment concluded and report adopted.
+
+
+
+Definition/Description
+
+                                                Quarterly
+
+Frequency
+
+
+
+                                                Ministry of Energy
+
+Data Source
+
+
+
+                                                Letter from Ministry of Energy informing the completion of the assessment and its adoption
+
+Methodology for Data Collection
+
+
+
+                                                PIU at the Ministry of Energy
+
+Responsibility for Data Collection
+
+
+
+Indicator Name                                  NEDCo's distribution system plan updated.
+
+Definition/Description                          NEDco's distribution plan is updated
+
+                                                Quarterly
+
+Frequency
+
+
+
+                                                NEDCo
+
+Data Source
+
+
+
+                                                Letter from NEDco board that indicates the completion and adoption of the NEDco distribution plan
+
+Methodology for Data Collection
+
+
+
+                                                PIU of the Ministry of Energy
+
+Responsibility for Data Collection
+
+
+
+
+
+
+
+
+
+                                                                                                                                             Page 41 of 57
+
+    The World Bank
+
+    Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+Indicator Name                                  NEDCo's distribution specifications and construction standards approved.
+
+                                                NEDco's technical specifications on distribution system and construction standards and protocol has
+
+Definition/Description
+
+                                                been updated
+
+                                                Quarterly
+
+Frequency
+
+
+
+                                                NEDCo
+
+Data Source
+
+
+
+                                                Letter from NEDco board informing the completion of the report and its adoption
+
+Methodology for Data Collection
+
+
+
+                                                PIU at the Ministry of Energy
+
+Responsibility for Data Collection
+
+
+
+Indicator Name                                  GRIDCo's grid recilience and reinforcement study concluded.
+
+Definition/Description                          GRIDco's study on grid resilience and identification of required additional investments are completed
+
+                                                Quarterly
+
+Frequency
+
+
+
+                                                Project progress reports.
+
+Data Source
+
+
+
+                                                Letter from GRIDco board informing the completion of the assessment and its adoption
+
+Methodology for Data Collection
+
+
+
+                                                PIU at the Ministry of Energy
+
+Responsibility for Data Collection
+
+
+
+
+
+
+
+
+
+                                                                                                                                            Page 42 of 57
+
+    The World Bank
+
+    Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+                                                Gender. The strategic assessment of electrification options outlines the impacts of different
+
+Indicator Name
+
+                                                electrification strategies on women and women’s entrepreneurship\income generation.
+
+                                                Input provided by female population and groups to the impact of the electrification and clean cooking
+
+Definition/Description
+
+                                                strategies to inform it.
+
+                                                Quarterly
+
+Frequency
+
+
+
+                                                Project progress reports
+
+Data Source
+
+
+
+                                                Minutes and Surveys taken at the public consultation meetings
+
+Methodology for Data Collection
+
+
+
+                                                PIU at the Ministry of Energy
+
+Responsibility for Data Collection
+
+
+
+Indicator Name                                  Gas supply and demand study completed.
+
+
+
+Definition/Description                          Study on the projected gas demand study completed
+
+                                                Quarterly
+
+Frequency
+
+
+
+                                                Project progress reports.
+
+Data Source
+
+
+
+                                                Letter from Ministry of Energy informing of the completion of the study.
+
+Methodology for Data Collection
+
+
+
+                                                PIU at the Ministry of Energy
+
+Responsibility for Data Collection
+
+
+
+
+
+
+
+
+
+                                                                                                                                                Page 43 of 57
+
+The World Bank
+
+Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+                                   ANNEX 1: Implementation Arrangements and Support Plan
+
+
+
+                                                                     Ghana
+
+
+
+                                      Ghana Energy Sector Transformation Initiative Project
+
+
+
+    Implementation Arrangements
+
+
+
+
+
+    1.    The implementation arrangements mirror those successfully used for the ongoing GEDAP. The
+
+    MoEn will have the overall responsibility for the project’s implementation.
+
+
+
+    2.       Project steering committee. This committee will oversee implementation and ensure effective
+
+    coordination and cooperation between the energy sector entities involved in the project. It will be chaired
+
+    by one of the deputy ministers for energy, who will be supported by the PIU and appointed staff from the
+
+    MoEn. Committee members will consist of representatives from the MoF; the Ministry of Gender,
+
+    Children, and Social Protection (MoGCSP); the Ministry of Monitoring and Evaluation (MoME); other
+
+    relevant government agencies; and the chief executives of the energy entities involved in the project:
+
+    ECG, NEDCo, GRIDCo, GNPC, GNGC, EC, NPA, and PURC. In addition, the MoEn Directors for Accounts and
+
+    Procurement as well as any other relevant staff of the ministry will attend selected meetings as required.
+
+    It will meet at least twice a year or more frequently, if required, and report to the Minister for Energy. The
+
+    Steering Committee would be set up by October 31, 2018.
+
+
+
+    3.       Technical committee. For quality control, the Government will establish a technical committee,
+
+    chaired by the Project Manager or his designate, and will consist of senior-level technical specialists of the
+
+    sector entities. The technical committee will be responsible for providing quality assurance on the
+
+    technical aspects of the project including (a) providing input for terms of reference for relevant work; (b)
+
+    providing relevant data and information required for the implementation of activities under Components
+
+    1 through 4; (c) reviewing consultants’ reports; and (d) supporting the implementation of the project. It
+
+    will be set up by October 31, 2018, with clear responsibilities and reporting arrangements.
+
+
+
+    4.        PIU. The PIU will manage the day-to-day operations of the project under the purview of the MoEn.
+
+    It will report to the steering committee. Its responsibilities include (a) managing procurement and FM of
+
+    project funds; (b) engaging and supervising consultants under Components 1 through 4, including
+
+    ensuring that arrangements for quality control of outputs are in place; (c) serving as a single point for
+
+    tracking of the progress of implementation and monitoring and evaluation of project outcomes; (d)
+
+    monitoring costs and financing; (e) preparing quarterly reports; and (f) organizing workshops and
+
+    consultations and developing a communications strategy for the sector.
+
+
+
+    5.       The PIU will be led by a project manager. The staff includes a procurement and an FM specialist,
+
+    two accounting officers, a monitoring and evaluation officer, a communications officer, a power sector
+
+    specialist, a gas sector specialist, and a social and gender specialist.19 In addition, the electricity and gas
+
+    entities will assign technical specialists to the PIU on need basis to assist with specific issues. Staff with
+
+
+
+
+
+
+
+    19   Social and Gender Specialist will also be responsible for clean cooking activities.
+
+
+
+                                                                                                                 Page 44 of 57
+
+The World Bank
+
+Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+    expertise in FM and procurement will be assigned to the unit from the MoEn to be trained. Their
+
+    assignment will be completed before project effectiveness.
+
+
+
+    6.       Initially, the project will be managed by the existing PIU for the GEDAP as its current workload is
+
+    significantly reduced given the planned closure of the GEDAP in January 2019. The key staff who have
+
+    already gained experience in managing IDA-financed projects will be reappointed to the project PIU but
+
+    will be training the ministry staff in parallel with the aim to move gradually toward using Ghana’s country
+
+    systems. The PIU will transition to a fully budgeted unit within the MoEn, and its transition progress will
+
+    be assessed at midterm review to see if the project can transition to the country systems. The team will
+
+    be strengthened with relevant staff, as found necessary during implementation.
+
+
+
+                                  Figure 1.2. Project Implementation Arrangements
+
+
+
+
+
+
+
+
+
+    7.      The strategy for implementation support (IS) has been developed based on the nature of the
+
+    project and its risk profile. It aims to make IS to the client more flexible, efficient and focused on
+
+    preventing risks and efficiently addressing implementation challenges. The strategy will combine technical
+
+    advice with supervision of implementation progress, and evaluation of results on the ground.
+
+
+
+    Implementation Support Plan
+
+
+
+    8.      The World Bank team members will be based at headquarters and in the Accra office to ensure
+
+    timely, efficient and effective implementation support to the client. Formal implementation support
+
+    missions and field visits will be carried out at least twice a year.
+
+
+
+    9.       Technical. The World Bank’s team, which will include relevant specialist in power and gas sectors,
+
+    will provide the required assistance, advice and guidance to the terms of references and reviewing outputs
+
+
+
+
+
+
+
+                                                                                                              Page 45 of 57
+
+The World Bank
+
+Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+    by the consultants. The World Bank’s team will conduct periodic visits to Accra to provide the necessary
+
+    review and guidance.
+
+
+
+    10.     Procurement. The procurement team will provide timely support to the PIU to enhance their
+
+    capacity and contract management efficiency. Implementation support for procurement will follow a risk-
+
+    based approach and will include: (i) support in selection of consultants; and (ii) implementation support
+
+    to strengthen the procurement mechanisms in both PIU and MoEn.
+
+
+
+    11.     Financial Management. As part of its project implementation support missions, the World Bank
+
+    will conduct risk-based FM implementation support and monitoring at appropriate intervals. During the
+
+    project implementation, the World Bank will monitor the project’s FM arrangements in the following
+
+    ways: (a) review the project’s semi-annual interim financial reports (IFRs) as well as the entity’s and the
+
+    project’s annual audited financial statements and auditor’s management letters and remedial actions
+
+    recommended in the auditor’s management letters; and (b) during the World Bank’s on-site missions,
+
+    review the following key areas, (i) project accounting and internal control systems; (ii) budgeting and
+
+    financial planning arrangements; (iii) disbursement arrangements and financial flows, including
+
+    counterpart funds, as applicable; and (iv) any incidences of corrupt practices involving project resources.
+
+    As required, a World Bank-accredited FM specialist will participate in the implementation support
+
+    process.
+
+                                      Table 1.3. Implementation Support Plan
+
+           Time                         Focus                               Skills Needed               Resource
+
+                                                                                                        Estimate
+
+                                                                                                      (staff weeks
+
+                                                                                                          (SW))
+
+      First twelve      Task management                           Senior Energy Economist / Energy   10 SWs
+
+      months                                                      specialists (2)
+
+                        Technical review of the technical         Power/Gas sector experts           6 SWs
+
+                        aspects of setting up and implementing
+
+                        the RSM; Support FI in the selection
+
+                        process of sub-projects
+
+                        Procurement review of Consultants         Procurement specialist             6 SWs
+
+                        Quality and Cost-based Selection (QCBS)
+
+                        Packages and other procurement
+
+                        activities and review
+
+                        FM                                        Senior Financial management        6 SWs
+
+                                                                  specialist
+
+      12-54 months      Task management                           Senior Energy Economist / Energy   16 SWs
+
+                                                                  specialist
+
+                        Guidance and implementation support       Power/Gas sector experts           10 SWs
+
+                        on technical issues
+
+                        Review of procurement documents, and      Procurement specialist             10 SWs
+
+                        procurement guidance
+
+                        Financial management and                  Financial management specialist    10 SWs
+
+                        disbursements
+
+
+
+
+
+
+
+
+
+                                                                                                               Page 46 of 57
+
+The World Bank
+
+Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+    12.    The staff skills mix and focus in terms of implementation support is summarized in the tables
+
+    below.
+
+                                         Table 1.2. Skills Mix Required
+
+           Skills Needed            Number of Staff           Number of Trips            Comments
+
+                                        Weeks
+
+      Task management            26                        Field trips as required Headquarters and
+
+                                                                                   Country based
+
+      Power/Gas sector           16                        2-3                     Headquarters based
+
+      experts
+
+      Procurement specialist     16                        Field trips as required Country office based
+
+      Senior Financial           16                        Field trips as required County office based
+
+      management specialist
+
+
+
+
+
+
+
+
+
+                                                                                                      Page 47 of 57
+
+The World Bank
+
+Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+                                         Annex 2. Financial Management
+
+
+
+                                                      Ghana
+
+
+
+                             Ghana Energy Sector Transformation Initiative Project
+
+
+
+    Introduction
+
+
+
+    1.       In line with the Financial Management Practices Manual issued by the World Bank’s Financial
+
+    Management Sector Board on March 1, 2010, a World Bank team conducted an FM assessment on the
+
+    MoEn’s Financing and Accounting Unit on the proposed FM arrangements to be used to support the
+
+    implementation of the project. The objective of the assessment was to determine whether the (a) agency
+
+    has adequate FM arrangements in place to ensure project funds will be used for purposes intended in an
+
+    efficient and economical way; (b) project’s financial reports will be prepared accurately, reliably, and on
+
+    time; and (c) entities’ assets will be safeguarded.
+
+
+
+    2.      The assessment indicated that MoEn’s accounts department has limited understanding of IDA
+
+    disbursement and FM procedures. Even though the MoEn has implemented previous IDA-funded projects
+
+    and is currently implementing the GEDAP, fiduciary arrangement was undertaken through a PIU.
+
+
+
+    3.      In line with the World Bank’s default position of using country systems, this project will use those
+
+    aspects of the country systems which can be adequately relied upon. It has therefore been agreed that
+
+    the Director of Accounts of the MoEn will have overall FM responsibility for the project.
+
+
+
+    4.      Under the oversight of the MoEn’s Director of Accounts, the FM responsibility will initially be
+
+    handled by the FM consultant currently supporting the GEDAP who in turn will be supported by a
+
+    dedicated accountant assigned by the Director of Accounts and embedded as part of the PIU. The
+
+    responsibility of the project accountant is to ensure that throughout implementation there are adequate
+
+    FM systems in place which can report adequately on the use of project funds. In addition, with the
+
+    supervisory role of the Director of Accounts, the project accountant will be tasked with maintaining
+
+    oversight responsibilities with regard to ensuring compliance with financial covenants such as submitting
+
+    unaudited IFRs, maintaining internal controls over project expenditure, and engaging external auditors.
+
+    The project accountant will also be responsible for maintaining and operating the project’s Designated
+
+    Account (DA) and supporting the processing of payments to contractors and service providers and
+
+    verifying and authorizing payments for all contracts and activities under this project. The World Bank will
+
+    periodically assess the capacity and adequacy of the project accountant and should there be the need to
+
+    strengthen the FM systems, the project will be advised to competitively recruit a FM consultant to support
+
+    implementation.
+
+
+
+    Strengths and Weaknesses of MoEn’s FM System
+
+
+
+    5.       The MoEn’s accounts department has a fully functioning Accounting Unit, which is staffed with a
+
+    mix of qualified and unqualified accountants with varying levels of experience in public sector accounting.
+
+    However, the World Bank’s assessment indicates that the Controller and Accountant General’s
+
+    Department (CAGD) staff have not been adequately trained in the management of donor-funded projects
+
+    and this creates an inherent risk. To address this risk, it is proposed that the Director of Finance will
+
+    identify a Government of Ghana/CAGD staff who will be embedded in the PIU and fully dedicated to the
+
+
+
+                                                                                                              Page 48 of 57
+
+The World Bank
+
+Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+    project. The rationale is to allow for a mentoring and coaching training program by the FMC currently
+
+    managing the GEDAP PIU. The presence of an already existing Accounting Unit that is familiar with the
+
+    established processes and procedures as complemented by adequate staffing is the key advantage of
+
+    relying on the GEDAP Finance and Accounting Unit for implementation. The unit has over the years
+
+    successfully supported the implementation of the IDA-funded project with a Moderate risk rating while
+
+    its FM performance is rated Satisfactory.
+
+
+
+    Action Plan to Address Identified Weaknesses
+
+
+
+    6.       The action plan in Table 2.1. indicates the actions that are needed to address the weaknesses
+
+    identified in the FM arrangements. Some of these actions are to be completed before credit effectiveness.
+
+    Compliance will be monitored during implementation.
+
+
+
+                                                   Table 2.1. FM Action Plan
+
+                                          Action                                  Date Due By      Responsibility
+
+          i.    Prepare a PIM                                                  Before           Project coordinator
+
+                                                                               effectiveness
+
+         ii.    World Bank fiduciary team to organize training                 After            World Bank FM
+
+                                                                               effectiveness    specialist
+
+         iii.   Prepare a comprehensive budget on the use of funds—at          After            Project
+
+                least indicating the annual work plan and Procurement Plan     effectiveness    coordinator/Project
+
+                for the first year of implementation together with a six-                       FMC
+
+                month cash forecast
+
+
+
+    Summary of FM Assessment
+
+
+
+    7.          The key findings of the FM arrangement are presented in the following paragraphs.
+
+
+
+    8.       Budgeting arrangements. The MoEn follows the budget preparation guidelines as per the Public
+
+    Financial Management Act, 2016 (Act 921), and the annual budget guidelines issued by the MoF. In
+
+    addition, the processes for budgeting will be complemented by the World Bank-approved PIM. For this
+
+    project, the budget will be derived from the IDA allocations which will serve as the basis for preparing the
+
+    Annual Work Plans and Procurement Plans. The project coordinator is responsible for initiating the
+
+    budgeting process for the project and obtains inputs (activities, schedules, timelines, and cost) from the
+
+    beneficiary agencies. Once the budget is completed it will be approved by the members of the steering
+
+    committee for onward submission to the World Bank for adoption. The current budgetary control
+
+    processes used mostly for the Government’s discretionary budget are capable of monitoring
+
+    commitments and outstanding balances and this helps reduce risk of multiple payments. The assessment
+
+    indicates that budgeting processes are satisfactory and can be relied upon to reflect the various
+
+    components to be implemented.
+
+
+
+    9.      Accounting arrangements. The assessment noted that though there are accountants within the
+
+    MoEn with some technical skills in accounting, these staff do not have experience in the FM of IDA-funded
+
+    projects. To mitigate this risk, for an initial period, the Director of Accounts will assign a staff to work
+
+    under the supervision of the existing FMC of the GEDAP PIU until the closure of the GEDAP by January
+
+    2019.
+
+
+
+
+
+                                                                                                                      Page 49 of 57
+
+The World Bank
+
+Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+    10.      Under the oversight and supervision of the Director of Accounts of the MoEn, the FMC, working
+
+    in close collaboration with the dedicated project accountant at the MoEn, will be responsible for overall
+
+    fiduciary aspects of the project. Specific accounting issues such as recording and processing of payment
+
+    vouchers will be handled by the Accounting Unit of MoEn working together with staff of the current
+
+    GEDAP PIU. The Accounting Unit is staffed with an adequate number of staff with various levels of skills
+
+    and competences. For this project, the daily transactional issues will be handled by a dedicated project
+
+    accountant, with the requisite skills and experience. In terms of accounting systems, the Government is
+
+    in the process of rolling out an automated integrated FM system (under GIFMIS) using Oracle Financials
+
+    and is currently transitioning from a manual system to an automated accounting system. Until such time
+
+    that the rollout is fully completed, accounting for use of the project funds will be cash based. It is expected
+
+    to be carried out by the MoEn through using a combination of spreadsheets and the existing AccPac
+
+    application.
+
+
+
+    11.     Internal control and internal auditing. The assessment indicated that the internal audit and
+
+    control environment is adequate for project implementation. The role of the internal audit will be
+
+    regularly assessed during supervision missions by reviewing their reports and management
+
+    responsiveness to their findings. This is to ensure that the role is not limited to transactional reviews (pre-
+
+    auditing) but adds value to the overall control environment through risk assessment.
+
+
+
+    12.     Consistent with the decision to adopt some aspect of the use of country systems for
+
+    implementation, the project’s internal controls will rely on the Government-established accounting and
+
+    internal control guidelines as documented in the Public Financial Management Act, 2016 (Act 921), and
+
+    any subsequent regulations or amendments including aspects of the Financial Administration Regulation
+
+    2004, and informed by the Internal Audit Agency Act, 2003 (Act 658).
+
+
+
+    13.     In addition, the expenditure initiation and related controls will follow the authorization and
+
+    approval processes pertaining to the MoEn and complemented by additional guidelines in the PIM and
+
+    the revised Accounting Procedures Manual. The MoEn has a functioning Internal Audit Unit headed by a
+
+    qualified and experienced Chief Internal Auditor who helps ensure a sound control environment
+
+    throughout implementation. Adequacy of internal controls in the Government has never been questioned
+
+    except that the internal auditors have traditionally been focusing on preaudits and compliance rather than
+
+    on systemic issues. Currently, the internal control features within the Government provides for
+
+    preauditing of Government expenditure transactions. This form of expenditure validation, as part of the
+
+    payment processing arrangements, will continue and will cover all expenditures, before their approval,
+
+    including those under the project. Lack of adequate focus of internal auditors on risk is an area that the
+
+    Government seeks to manage to ensure that the role is not limited to transactional reviews (preauditing)
+
+    but adds value to the overall control environment.
+
+
+
+    Funds Flow and Disbursement Arrangements for the Project
+
+
+
+    14.     This operation is an IDA credit of US$20 million. The proceeds will be used by the MoEn and other
+
+    beneficiary agencies for payment for eligible expenditures as defined in the Financing Agreement and
+
+    further detailed in the respective Annual Work Plans and Budget and Procurement Plans. The proposed
+
+    arrangement is to use a single DA (denominated in U.S. dollars) and specifically opened at the Central
+
+    Bank (Bank of Ghana), under the direct responsibility of the Chief Director but managed and operated by
+
+    the Director of Accounts in collaboration with the project coordinator. Disbursement arrangements have
+
+
+
+                                                                                                                 Page 50 of 57
+
+The World Bank
+
+Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+    been designed in consultation with the MoEn after considering the assessments of the implementing
+
+    agency’s FM capacities and anticipated cash flow needs of the operation.
+
+
+
+    15.      Disbursement arrangements and use of funds. Proceeds of the financing will follow the standard
+
+    World Bank procedures for IPF, for use by the Borrower for eligible expenditures as defined in the
+
+    Financing Agreement. Funds flow and disbursement will be implemented under the principles of
+
+    traditional IPF arrangements using report-based disbursement arrangements. Under this approach, the
+
+    allocated resources will be advanced to the MoEn’s DA based on an approved six-monthly forecast of
+
+    expenditures and replenished quarterly for further periods of six months using IFRs prepared by the
+
+    MoEn. The processing of expenditures will be undertaken with AccPac and manual processing. The IFRs
+
+    (including the ‘procurements subject to prior reviews’ and ‘DA reconciliation statement’) will serve as the
+
+    basis for requesting advances and for documentation. Upon effectiveness, the initial request for advance
+
+    will be based on the consolidated expenditure forecast for six months, subject to the World Bank’s
+
+    approval, that is, TTL, and FM systems, of the estimates and cash flows. Subsequent replenishments of
+
+    the DA will be done quarterly based on the forecast of the net expenditures for the subsequent half-year
+
+    period.
+
+
+
+                                          Table 2.2. Disbursement Categories
+
+
+
+                                                           Amount of the Credit   Percentage of Expenditure to be
+
+                           Category
+
+                                                             Allocated (SDR)        Financed (inclusive of taxes)
+
+
+
+     1.   Goods, works, non-consulting service, consulting SDR 14.2 million                    100
+
+          services, training, and operating cost of the
+
+          project
+
+
+
+     Total                                                 SDR 14.2 million
+
+
+
+    16.     Retroactive financing. Up to US$4 million, or 20 percent of the IDA credit, will be available to
+
+    finance eligible expenditures incurred from January 1, 2018, to credit signing. Additional instructions for
+
+    disbursements will be provided in a Disbursement Letter to be issued for this project.
+
+
+
+    Financial Reporting Arrangements
+
+
+
+    17.     The project will prepare and submit quarterly unaudited IFRs to account for activities funded
+
+    under the credit. The project accountant is responsible for preparing and submitting the IFRs. Financial
+
+    reporting will be report based, and it is expected that the PIU will maintain adequate filing and archival
+
+    system of all relevant supporting documents for review by the World Bank’s FM team during supervision
+
+    missions and for audit purposes. The IFRs are expected to be submitted not later than 45 days after the
+
+    end of each quarter. The financial reports will be designed to provide relevant and timely information to
+
+    the project management, transfers to beneficiaries’ agencies, and to various stakeholders monitoring the
+
+    project’s performance. The formats, content, and frequency of reporting have been agreed. These reports
+
+    should, at a minimum, include the following:
+
+
+
+             (a)   A statement of sources and uses of funds showing the use of funds by components as per
+
+                   the Project Appraisal Document (useful in monitoring implementation of the components);
+
+
+
+
+
+
+
+                                                                                                                Page 51 of 57
+
+The World Bank
+
+Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+            (b)   A statement of sources and uses of funds showing the expenditure by category as per the
+
+                  Financing Agreement (for allocating expenditure as per the Financing Agreement);
+
+
+
+            (c)   A budget variance report comparing the utilization of approved budget against expenditure
+
+                  (useful to the TTL to monitor implementation and fund utilization);
+
+
+
+            (d)   A DA reconciliation statement;
+
+
+
+            (e)   A list of payments (made in that quarter) made against contracts subject to the World Bank’s
+
+                  prior review, that is, signed and ongoing contracts;
+
+
+
+            (f)   A cash forecast for six months (to be the basis of requesting for additional disbursement);
+
+                  and
+
+
+
+            (g)   Any other report that shall be required to provide additional information on project
+
+                  expenditure.
+
+
+
+    Auditing
+
+
+
+    18.     In line with its mandate as per the Audit Service Act, 2000 (Act 584), the Auditor General is solely
+
+    responsible for the auditing of all funds under the Consolidated Fund and all public funds as received by
+
+    Government ministries, agencies, and departments. The capacity of the Audit Service is satisfactory. In
+
+    this regard, and consistent with the use of country FM systems, the Audit Service will conduct the audit
+
+    of the project’s financial statements as part of the MoEn’s agencies, and departments annual audit and
+
+    included by way of notes, the activities financed under the project. The independent audit of public
+
+    accounts, conducted by the Auditor General, continued to achieve good progress, and the audit processes
+
+    have been strengthened, with greater compliance with standards. While the focus is on regulatory and
+
+    transaction basis, some performance audits and systems audits may be undertaken if the World Bank
+
+    determines that there is the need for value-for-money considerations.
+
+
+
+    Conclusion
+
+
+
+    19.      A description of the project’s FM arrangements as documented in the preceding paragraphs
+
+    indicates that they satisfy the World Bank’s minimum requirements under World Bank Policy and Directive
+
+    for IPF. Overall the FM residual risk is initially rated Substantial and this is due to the limited capacity of
+
+    the Government’s accounts staff in managing IDA-funded projects; however, this risk is mitigated through
+
+    the reliance on the technical capacity of the existing staff of the GEDAP PIU who will be collaborating and
+
+    working with the Government staff. Thus, the overall residual risk is Moderate.
+
+
+
+    Supervision Plan
+
+
+
+    20.     Based on the risk rating and the gradual move to country systems, it is expected that in the first
+
+    year of implementation there will be four quarterly on-site visits, supplemented by desk reviews of IFR
+
+    and audit reports, to ascertain adequacy of the systems. The FM supervision missions’ objectives will
+
+    include ensuring that the project maintains strong FM systems throughout implementation. In adopting
+
+    a risk-based approach to FM supervision, the key risk areas of focus will include assessing the accuracy
+
+
+
+
+
+                                                                                                                 Page 52 of 57
+
+The World Bank
+
+Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+    and reasonableness of budgets, their predictability and budget execution, compliance with payment and
+
+    fund disbursement arrangements, and the ability of the systems to generate reliable financial reports.
+
+
+
+
+
+
+
+
+
+                                                                                                        Page 53 of 57
+
+The World Bank
+
+Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+                                               Annex 3. Procurement
+
+
+
+                                                       Ghana
+
+
+
+                              Ghana Energy Sector Transformation Initiative Project
+
+
+
+    1.      Even though the MoEn has implemented IDA-funded projects using GEDAP’s PIU, implementation
+
+    of the project will rely on the MoEn’s Procurement Unit for sustainability. It has therefore been agreed
+
+    that the Director of Procurement, who joined the ministry in October 2017, will have overall procurement
+
+    management responsibility for the project. Based on this, the MoEn Procurement Unit was assessed to
+
+    establish whether it has the capacity to implement the project using IDA’s procurement procedures.
+
+
+
+    2.       Using the Procurement Risk Assessment and Management System, an assessment was conducted.
+
+    The organogram of the ministry was discussed and the necessary questionnaire was administered. The
+
+    key risk factors that were assessed are the following:
+
+
+
+            (a)   Accountability for procurement decisions in the implementing agency;
+
+
+
+            (b)   Internal manuals and clarity of the procurement process;
+
+
+
+            (c)   Records keeping and document management system;
+
+
+
+            (d)   Staffing;
+
+
+
+            (e)   Procurement planning;
+
+
+
+            (f)   Procurement documents (bidding and proposals documents, short-list report, evaluation);
+
+
+
+            (g)   Advertisement, proposal submissions, and so on;
+
+
+
+            (h)   Evaluation and award of contracts;
+
+
+
+            (i)   Review of procurement decisions and resolution of complaints;
+
+
+
+            (j)   Contract management and administration; and
+
+
+
+            (k)   Procurement oversight.
+
+
+
+                                          Table 3.1. Summary of Key Findings
+
+     Sl.
+
+                    Risk Factor                             Observation                        Comments
+
+     No.
+
+      a    Accountability for             The MoEn’s organogram has a structure that has   Satisfactory
+
+           procurement decisions in the   adequate accountability mechanism for
+
+           implementing agency            procurement and other governance decision.
+
+      b    Internal manuals and clarity   The ministry currently uses the Procurement      Inadequate
+
+           of the procurement process     Manual of the Public Procurement Authority and
+
+                                          will have to develop a PIM.
+
+
+
+
+
+
+
+                                                                                                          Page 54 of 57
+
+The World Bank
+
+Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+     Sl.
+
+                      Risk Factor                           Observation                           Comments
+
+     No.
+
+      c    Records keeping and            The Procurement Unit keeps records of               Inadequate
+
+           document management            procurement activities but records do not include
+
+           system                         payment information. Overall, records keeping
+
+                                          need to be improved by ensuring that records of
+
+                                          all the key procurement transactions are
+
+                                          documented and paged.
+
+      d    Staffing                       The existing procurement officers in the ministry   Major risk
+
+                                          do not have enough experience in IDA
+
+                                          procurement procedures. The ministry has
+
+                                          therefore recruited a Procurement Director in the
+
+                                          last quarter of 2017. He has some experience in
+
+                                          IDA procurement procedures and is to be
+
+                                          supported by two procurement officers. None of
+
+                                          the team has had exposure or training in the New
+
+                                          Procurement Framework.
+
+      e    Procurement planning           Satisfactory                                        Satisfactory
+
+      f    Procurement documents          Available                                           —
+
+           (bidding and proposals
+
+           documents, shortlist report,
+
+           evaluation)
+
+      g    Advertisement, proposal        Satisfactory                                        Satisfactory
+
+           submissions, and so on
+
+      h    Evaluation and award of        Satisfactory. However, approvals by the entity      The ministry should
+
+           contracts                      head for post-review procurement which require      ensure smooth
+
+                                          clearance from the entity head could be delayed     approval of
+
+                                          considerably due to potential bureaucratic          contract awards.
+
+                                          practices within the ministry.
+
+      i    Review of procurement          No such issue has arisen.                           The project shall
+
+           decisions and resolution of                                                        institute a
+
+           complaints                                                                         mechanism to deal
+
+                                                                                              with the situation
+
+                                                                                              should it arise.
+
+      j    Contract management and        Satisfactory
+
+           administration
+
+      k    Procurement oversight          The Director of Procurement is required to
+
+                                          supervise the operations of the Procurement Unit.
+
+
+
+    3.       Conclusion on the procurement risk assessment. Based on the above findings, the procurement
+
+    risk rating is Substantial.
+
+
+
+    4.      Thresholds for prior review and procurement methods. The World Bank reviewed its prior review
+
+    and method thresholds in January 2017. Based on the risk assessment, the threshold in Table 3.2 applies
+
+    to the project.
+
+
+
+
+
+
+
+
+
+                                                                                                                   Page 55 of 57
+
+The World Bank
+
+Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+
+
+                                                      Table 3.2. Thresholds Effective January 1, 2017
+
+                 Prior Review Threshold in US$, thousands                           Procurement Methods Thresholds in US$, thousands
+
+                                  Consultants        Single     Works                            Goods, IT and non-consulting     Short List of National
+
+                                                     Source                                      services                         Consultants
+
+  Risk Rating Works Goods, IT, Firms Individuals and            Open          Open     Request   Open          Open     Request Consulti Engineering
+
+                       Systems                       Direct     International National for       International National for       ng         and
+
+                       and Non-                      Contract   or ICB        or NCB Quotation/ or ICB         or NCB Quotation Services Construction
+
+                       consulting                                                      National                         /National            Supervision
+
+                       services                                                        Shopping                         Shopping
+
+  Substantial ≥10,000 ≥2,000 ≥1,000          ≥300      ≥100        ≥15,000    <15,000      ≤200     ≥3,000      <3,000      ≤100    <300         ≤500
+
+
+
+
+
+
+
+
+
+                                                                                                                                                 Page 56 of 57
+
+The World Bank
+
+Ghana - Energy Sector Transformation Initiative Project (P163984)
+
+
+
+
+
+
+
+    5.     Applicable guidelines. Procurement will be carried out, per the New Procurement Framework, in
+
+    accordance with the (a) World Bank Procurement Regulations for IPF Borrowers: Procurement In IPF for
+
+    Goods, Works, Non-Consulting and Consulting Services, dated July 2016; (b) the Guidelines on Preventing
+
+    and Combating Fraud and Corruption in Projects financed by IBRD Loans and IDA Credits and Grants, dated
+
+    October 15, 2006, revised in January 2011; and (c) the provisions that will be stipulated in the Legal
+
+    Agreement. The bid documents will be based on the Standard Procurement Documents, recently
+
+    enhanced with the Environment, Social, Health, and Safety.
+
+
+
+    6.      Preparation of PPSD. The PPSD is finalized and accompanied by a corresponding 18-month
+
+    Procurement Plan. The assessment conducted in the document indicates that MoEn, through GEDAP,
+
+    have been implementing other on-going projects funded by the World Bank since the year 2000. They
+
+    have been involved in World Bank and other donor-financed projects including those from the AfDB and
+
+    the Embassy of Switzerland and hence have gained extensive experience in project procurement and FM
+
+    as well as institutional project management. The established PIU is implementing various donor funded
+
+    projects and have demonstrated that their procurement capacity to be adequate. adequate internal
+
+    technical and administrative controls and anti-corruption procedures including satisfactory appeals
+
+    mechanisms for bidders.
+
+
+
+    7.      As for the procurement strategy, the services will be procured mainly through international
+
+    quality and cost-based selection. Given the nature of the services, it is expected that many firms are
+
+    interested in submitting their proposals. Procurement of goods, which is limited, will be through ICB or
+
+    NCB and price quotations and will not require the application of domestic preference.
+
+
+
+
+
+
+
+
+
+                                                                                                          Page 57 of 57
+
+

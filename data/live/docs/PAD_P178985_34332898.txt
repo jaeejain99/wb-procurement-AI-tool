@@ -1,0 +1,4075 @@
+                                             FOR OFFICIAL USE ONLY
+
+                                                                                                 Report No: PAD5276
+
+
+
+                                   INTERNATIONAL DEVELOPMENT ASSOCIATION
+
+
+
+                                          PROJECT APPRAISAL DOCUMENT
+
+
+
+                                                        ON A
+
+
+
+PROPOSED SHORTER MATURITY LOAN CREDIT IN THE AMOUNT OF SDR 72.11 MILLION (US$95 MILLION EQUIVQLENT)
+
+
+
+                                                       AND A
+
+
+
+PROPOSED SCALE-UP WINDOW SHORTER MATURITY LOAN CREDIT IN THE AMOUNT OF SDR155.60 MILLION (US$205
+
+                                    MILLION EQUIVALENT)
+
+
+
+                                                       AND A
+
+
+
+                    PROPOSED SCALE UP WINDOW LOAN IN THE AMOUNT OF US$100 MILLION
+
+
+
+                                                       TO THE
+
+
+
+                                        PEOPLE’S REPUBLIC OF BANGLADESH
+
+
+
+                                                       FOR A
+
+
+
+                    BANGLADESH RESILIENT URBAN AND TERRITORIAL DEVELOPMENT PROJECT
+
+
+
+                                                    May 31, 2024
+
+
+
+   Urban, Resilience and Land
+
+   South Asia
+
+
+
+
+
+
+
+
+
+ This document has a restricted distribution and may be used by recipients only in the performance of their official
+
+ duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+                      CURRENCY EQUIVALENTS
+
+
+
+              (Exchange Rate Effective {April 30, 2024})
+
+
+
+                 Currency Unit = Bangladeshi Taka (BDT)
+
+                      BDT 110 = US$1
+
+                  US$1.31793 = SDR 1
+
+
+
+                             FISCAL YEAR
+
+                            July 1 – June 30
+
+
+
+
+
+
+
+
+
+Regional Vice President: Martin Raiser
+
+     Regional Director: Dina Umali-Deininger
+
+      Country Director: Abdoulaye Seck
+
+     Practice Manager: Abedalrazq F. Khalil
+
+  Task Team Leader(s): Kwabena Amankwah-Ayeh, Zhiyu Chen, Amadou Ba
+
+                 ABBREVIATIONS AND ACRONYMS
+
+
+
+AM         Accountability Mechanism
+
+BAU        Business as usual
+
+BDP        Bangladesh Delta Plan
+
+CCB        Climate Co-Benefits
+
+CDP        Cluster Development Plan
+
+CERC       Contingent Emergency Response Component
+
+CPF        Country Partnership Framework
+
+DA         Designated Account
+
+DSM        Design, Supervision and Management
+
+EMCF       Ethnic Minority Community Framework
+
+ES         Environmental and Social
+
+ESCP       Environmental and Social Commitment Plan
+
+ESIA       Environment and Social Impact Assessment
+
+ESMF       Environmental and Social Management Framework
+
+FAPAD      Foreign Aided Project Audit Directorate
+
+FM         Financial Management
+
+FMS        Financial Management Specialist
+
+GBV        Gender Based Violence
+
+GDP        Gross Domestic Product
+
+GHG        Greenhouse Gas
+
+GoB        Government of Bangladesh
+
+GRS        Grievance Redress Service
+
+IA         Implementing Agency
+
+IDA        International Development Assistance
+
+IMF        International Monetary Fund
+
+IUFR       Interim Unaudited Financial Report
+
+LGD        Local Government Division
+
+LGED       Local Government Engineering Department
+
+LMP        Labor Management Procedure
+
+M&E        Monitoring and Evaluation
+
+MGSP       Municipal Governance and Services Project
+
+MoLGRD&C   Ministry of Local Government, Rural Development & Co-operatives
+
+MSP        Municipal Services Project
+
+MSU        Municipal Support Unit
+
+MTR        Mid-term Review
+
+NAP        National Adaptation Plan
+
+NDC        Nationally Determined Contributions
+
+O&M        Operation and Maintenance
+
+OSR        Own Source Resource
+
+PAM        Performance assessment monitoring
+
+PAP        Project affected person
+
+PBC        Performance-Based Condition
+
+PDO        Project Development Objective
+
+PDP        Pourashava Development Plan
+
+PIC        Project Implementation Committee
+
+PIM      Project Implementation Manual
+
+PIUs     Project Implementation Units
+
+PMU      Project Management Unit
+
+PPSD     Project Procurement Strategy for Development
+
+PSC      Project Steering Committee
+
+RPF      Resettlement Policy Framework
+
+RUTDP    Resilient Urban and Territorial Development Project
+
+SEA/SH   Sexual exploitation and abuse/sexual harassment
+
+SEP      Stakeholder Engagement Plan
+
+SOP      Series of Projects
+
+STEP     Systematic Tracking of Exchanges in Procurement
+
+SUW      Scale Up Window
+
+TLCC     Town-level Coordinating Committee
+
+TPM      Third-Party Monitoring
+
+UP       Union Parishad
+
+The World Bank
+
+Bangladesh Resilient Urban and Territorial Development Project (P178985)
+
+
+
+
+
+
+
+                                                            TABLE OF CONTENTS
+
+
+
+DATASHEET ........................................................................................................................... i
+
+I.    STRATEGIC CONTEXT ..................................................................................................... 1
+
+      A. Country Context ...............................................................................................................................1
+
+      B. Sectoral and Institutional Context ...................................................................................................2
+
+      C. Relevance to Higher Level Objectives ..............................................................................................3
+
+      D. Series of Projects .............................................................................................................................4
+
+II.   PROJECT DESCRIPTION .................................................................................................. 5
+
+      A. Project Development Objective .......................................................................................................5
+
+      B. Project Components ........................................................................................................................6
+
+      C. Project Beneficiaries ........................................................................................................................9
+
+      D. Results Chain....................................................................................................................................9
+
+      E. Rationale for Bank Involvement and Role of Partners ...................................................................10
+
+      F. Lessons Learned and Reflected in the Project Design....................................................................11
+
+III. IMPLEMENTATION ARRANGEMENTS ........................................................................... 11
+
+      A. Institutional and Implementation Arrangements ..........................................................................11
+
+      B. Results Monitoring and Evaluation Arrangements ........................................................................12
+
+      C. Sustainability ..................................................................................................................................12
+
+IV. PROJECT APPRAISAL SUMMARY .................................................................................. 12
+
+      A. Technical, Economic and Financial Analysis (if applicable)............................................................12
+
+      B. Fiduciary .........................................................................................................................................14
+
+      C. Legal Operational Policies ..............................................................................................................16
+
+      D. Environmental and Social ..............................................................................................................16
+
+V.    GRIEVANCE REDRESS SERVICES .................................................................................... 18
+
+VI. KEY RISKS .................................................................................................................... 18
+
+VII. RESULTS FRAMEWORK AND MONITORING .................................................................. 20
+
+ANNEX 1: Implementation Arrangements and Support Plan ................................................ 29
+
+@#&OPS~Doctype~OPS^dynamics@padbasicinformation#doctemplate
+
+DATASHEET
+
+
+
+
+
+BASIC INFORMATION
+
+
+
+
+
+Project
+
+                         Operation Name
+
+Beneficiary(ies)
+
+Bangladesh               Bangladesh Resilient Urban and Territorial Development Project
+
+                                                     Environmental and Social Risk
+
+Operation ID             Financing Instrument
+
+                                                     Classification
+
+                         Investment Project
+
+P178985                                              Substantial
+
+                         Financing (IPF)
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padprocessing#doctemplate
+
+Financing & Implementation Modalities
+
+
+
+[ ] Multiphase Programmatic Approach (MPA)                     [✓] Contingent Emergency Response Component (CERC)
+
+[✓] Series of Projects (SOP)                                   [ ] Fragile State(s)
+
+
+
+[✓] Performance-Based Conditions (PBCs)                        [ ] Small State(s)
+
+[ ] Financial Intermediaries (FI)                              [ ] Fragile within a non-fragile Country
+
+[ ] Project-Based Guarantee                                    [ ] Conflict
+
+[ ] Deferred Drawdown                                          [ ] Responding to Natural or Man-made Disaster
+
+[ ] Alternative Procurement Arrangements (APA)                 [ ] Hands-on Expanded Implementation Support (HEIS)
+
+
+
+
+
+Expected Approval Date                 Expected Closing Date
+
+28-Jun-2024                            31-Oct-2030
+
+Bank/IFC Collaboration
+
+No
+
+
+
+
+
+Proposed Development Objective(s)
+
+The project development objectives (PDO) are to: (i) enhance access to climate resilient urban infrastructure and
+
+services in selected clusters, and (ii) strengthen urban management capacity in selected urban centers.
+
+
+
+Components
+
+ Component Name                                                                                               Cost (US$)
+
+ Component 1: Climate Resilient Urban Services and Infrastructure
+
+                                                                                                          425,930,000.00
+
+ Investments
+
+
+
+
+
+                                                                                                                           i
+
+ Component 2: Institutional Strengthening, TA ,Project Management and
+
+                                                                                                   134,070,000.00
+
+ Operational Support
+
+ Component 3: Contingent Emergency Response                                                                     0.00
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padborrower#doctemplate
+
+Organizations
+
+Borrower:                        People’s Republic of Bangladesh
+
+                                 Local Government Engineering Department, Ministry of Local Government, Rural
+
+Implementing Agency:
+
+                                 Development and Cooperatives
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padfinancingsummary#doctemplate
+
+PROJECT FINANCING DATA (US$, Millions)
+
+
+
+
+
+Maximizing Finance for Development
+
+
+
+Is this an MFD-Enabling Project (MFD-EP)?                  No
+
+
+
+Is this project Private Capital Enabling (PCE)?            No
+
+
+
+SUMMARY
+
+
+
+  Total Operation Cost                                                                                     560.00
+
+
+
+  Total Financing                                                                                          560.00
+
+             of which IBRD/IDA                                                                             400.00
+
+
+
+  Financing Gap                                                                                                 0.00
+
+
+
+DETAILS
+
+
+
+ World Bank Group Financing
+
+   International Development Association (IDA)                                                             400.00
+
+
+
+      IDA Credit                                                                                           100.00
+
+
+
+      IDA Shorter Maturity Loan (SML)                                                                      300.00
+
+
+
+ Non-World Bank Group Financing
+
+   Counterpart Funding                                                                                     160.00
+
+
+
+      Borrower/Recipient                                                                                   160.00
+
+
+
+
+
+IDA Resources (US$, Millions)
+
+
+
+
+
+
+
+
+
+                                                                                                                       ii
+
+                                                                                             Guarantee
+
+                           Credit Amount     Grant Amount            SML Amount                            Total Amount
+
+                                                                                               Amount
+
+
+
+National
+
+Performance-Based                     0.00               0.00                95.00                0.00            95.00
+
+Allocations (PBA)
+
+
+
+Scale-Up Window
+
+                                    100.00               0.00               205.00                0.00           305.00
+
+(SUW)
+
+
+
+Total                               100.00               0.00               300.00                0.00           400.00
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@paddisbursementprojection#doctemplate
+
+Expected Disbursements (US$, Millions)
+
+WB Fiscal
+
+Year                2025            2026        2027                2028             2029         2030          2031
+
+
+
+Annual             45.00            50.00       70.00              75.00             85.00        60.00        15.00
+
+Cumulative         45.00            95.00       165.00             240.00         325.00          385.00       400.00
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padclimatechange#doctemplate
+
+PRACTICE AREA(S)
+
+
+
+
+
+Practice Area (Lead)                                            Contributing Practice Areas
+
+Urban, Resilience and Land                                      Agriculture and Food; Climate Change
+
+
+
+CLIMATE
+
+
+
+
+
+Climate Change and Disaster Screening
+
+Yes, it has been screened and the results are discussed in the Operation Document
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padrisk#doctemplate
+
+SYSTEMATIC OPERATIONS RISK- RATING TOOL (SORT)
+
+
+
+
+
+Risk Category                                                                 Rating
+
+1. Political and Governance                                                   ⚫ Moderate
+
+2. Macroeconomic                                                              ⚫ Moderate
+
+3. Sector Strategies and Policies                                             ⚫ Moderate
+
+4. Technical Design of Project or Program                                     ⚫ Moderate
+
+
+
+                                                                                                                        iii
+
+5. Institutional Capacity for Implementation and Sustainability             ⚫ Substantial
+
+6. Fiduciary                                                                ⚫ Substantial
+
+7. Environment and Social                                                   ⚫ Substantial
+
+8. Stakeholders                                                             ⚫ Substantial
+
+9. Overall                                                                  ⚫ Substantial
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padcompliance#doctemplate
+
+POLICY COMPLIANCE
+
+
+
+
+
+Policy
+
+Does the project depart from the CPF in content or in other significant respects?
+
+[ ] Yes      [✓] No
+
+
+
+Does the project require any waivers of Bank policies?
+
+[ ] Yes [✓] No
+
+
+
+
+
+
+
+ENVIRONMENTAL AND SOCIAL
+
+
+
+
+
+Environmental and Social Standards Relevance Given its Context at the Time of Appraisal
+
+E & S Standards                                                                     Relevance
+
+ESS 1: Assessment and Management of Environmental and Social Risks and
+
+                                                                                    Relevant
+
+Impacts
+
+ESS 10: Stakeholder Engagement and Information Disclosure                           Relevant
+
+ESS 2: Labor and Working Conditions                                                 Relevant
+
+ESS 3: Resource Efficiency and Pollution Prevention and Management                  Relevant
+
+ESS 4: Community Health and Safety                                                  Relevant
+
+ESS 5: Land Acquisition, Restrictions on Land Use and Involuntary Resettlement      Relevant
+
+ESS 6: Biodiversity Conservation and Sustainable Management of Living Natural
+
+                                                                                    Relevant
+
+Resources
+
+ESS 7: Indigenous Peoples/Sub-Saharan African Historically Underserved
+
+                                                                                    Relevant
+
+Traditional Local Communities
+
+ESS 8: Cultural Heritage                                                            Relevant
+
+ESS 9: Financial Intermediaries                                                     Not Currently Relevant
+
+NOTE: For further information regarding the World Bank’s due diligence assessment of the Project’s potential
+
+environmental and social risks and impacts, please refer to the Project’s Appraisal Environmental and Social Review
+
+Summary (ESRS).
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padlegalcovenants#doctemplate
+
+                                                                                                                      iv
+
+LEGAL
+
+Legal Covenants
+
+Sections and Description
+
+Section I.A.1. of Schedule 2 to the Financing Agreement The Recipient shall establish within one (1) month of the
+
+Effective Date and maintain throughout the period of implementation of the Project, the PMU at the at the Local
+
+Government Engineering Department (“LGED”) of the LGD under the MoLGRD&C, with the composition, mandate,
+
+functions, staffing and resources satisfactory to the Association, Without limitation on the foregoing, the Recipient shall
+
+recruit or designate within three (3) months of the Effective Date: (a) a project director (at a superintending engineer
+
+level) and a financial management specialist; (b) DSM consultants responsible for detailed technical and engineering
+
+designs, procurement, economic analysis, social (including gender) and environmental management and monitoring
+
+and evaluation; (c) PAM consultants responsible for verifying the achievement of PBCs under Part 2.1 of the Project; as
+
+well as (d) any other competent, experienced and qualified staff in adequate number, including two (2) deputy project
+
+directors (at senior engineer level), three (3) senior assistant engineers, and an accounting officer, all with terms of
+
+reference, qualifications, and experience satisfactory to the Association.
+
+Section I.A.2 of Schedule 2 to the Financing Agreement The Recipient shall establish within one (1) month of the
+
+Effective Date and maintain throughout the period of implementation of the respective Sub-Projects, the PIU in each
+
+Nodal Cities, Pourashavas, and City Corporations, with the composition, mandate, functions, staffing and resources
+
+satisfactory to the Association.
+
+Section I.A.3 of Schedule 2 to the Financing Agreement The Recipient shall establish within three (3) months of the
+
+Effective Date and maintain throughout the period of implementation of the Project a MSU within LGED to support the
+
+institutional strengthening and capacity building of the Selected Pourashavas and City Corporations.
+
+Section I.A.4 of Schedule 2 to the Financing Agreement The Recipient shall establish within three (3) months of the
+
+Effective Date and maintain throughout the period of implementation of the respective Sub-Projects, the TLCC and a
+
+City Development Coordination Committee (“CDCC”) in each Nodal Cities, Pourashavas, and/or City Corporations,
+
+respectively, with the composition, mandate, functions, staffing and resources satisfactory to the Association.
+
+Section I.A.5 of Schedule 2 to the Financing Agreement The Recipient shall establish within six (6) months of the
+
+Effective Date and maintain throughout the period of implementation of the Project, the Project Steering Committee
+
+(“PSC”) within the LGD, with the composition, mandate, functions, staffing and resources satisfactory to the
+
+Association.
+
+Section I.A.6 of Schedule 2 to the Financing Agreement The Recipient shall establish within six (6) months of the
+
+Effective Date and maintain throughout the period of implementation of the Project, the Project Implementation
+
+Committee (“PIC”), with the composition, mandate, functions, staffing and resources satisfactory to the Association.
+
+Section I.B of Schedule 2 to the Financing Agreement The Recipient shall prepare and adopt a Project Implementation
+
+Manual (“PIM”) for the Project, in form and substance satisfactory to the Association within one (1) month of the
+
+Effective Date. The Recipient shall ensure that the Project is carried out in accordance with the arrangements and
+
+procedures set out in the PIM.
+
+Section I.C of Schedule 2 to the Financing Agreement For purposes of Parts 1.1 and 1.2 of the Project, the Recipient
+
+shall make the Sub-Grant to the Nodal Cities, Pourashavas, and City Corporations in accordance with eligibility criteria
+
+and procedures set forth in the PIM and acceptable to the Association for the respective Sub-Projects. The Recipient,
+
+through LGED, shall enter into an agreement with each Nodal City, Pourashava, and City Corporation (an
+
+“Implementation Partnership Agreement”) on terms and conditions satisfactory to the Association.
+
+Section I.E of Schedule 2 to the Financing Agreement In order to ensure the proper implementation of contingent
+
+emergency response activities under Part 3 of the Project (“Contingent Emergency Response Part”), the Recipient shall
+
+ensure that a manual (“CERC Manual”) is prepared and adopted in form and substance acceptable to the Association,
+
+which shall set forth detailed implementation arrangements for the Contingent Emergency Response Part.
+
+
+
+                                                                                                                         v
+
+Section I.F of Schedule 2 to the Financing Agreement The Recipient shall provide, promptly as needed, the resources
+
+needed for this purpose: (i) all costs associated with land and land use rights required for the purposes of the Project;
+
+(ii) procurement of vehicles, recurrent expenditures for the purpose of attending meetings, conferences, seminars,
+
+workshops and study visits (sitting allowances/cash per diems/honoraria, notwithstanding eligible expenditures under
+
+Incremental Operating Costs and Training), and recurrent expenditures for fuel, administrative cost, and physical and
+
+price contingencies, under the Project and salaries of the Recipient’s civil servants; and (iii) taxes exceeding fifteen (15)
+
+percent of the total amount of Financing, and the customs duty.
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padconditions#doctemplate
+
+Conditions
+
+Type                            Citation                        Description                     Financing Source
+
+                                                                Notwithstanding the
+
+                                                                provisions of Part A of this
+
+                                                                Section, no withdrawal
+
+                                                                shall be made: (a) for
+
+                                                                payments made from the
+
+                                                                Non-Concessional Credit
+
+                                                                and the Concessional Credit
+
+                                                                prior to the Signature Date,
+
+                                Section III.B of Schedule 2     except that withdrawals up
+
+Disbursement                                                                                    IBRD/IDA
+
+                                to the Financing Agreement      to an aggregate amount
+
+                                                                not to exceed SDR 310,000
+
+                                                                from the Concessional
+
+                                                                Credit may be made for
+
+                                                                payments made prior to
+
+                                                                this date but on or after
+
+                                                                July 31, 2023, for Eligible
+
+                                                                Expenditures under
+
+                                                                Category (1)(a).
+
+                                                                No withdrawal shall be
+
+                                                                made for Emergency
+
+                                                                Expenditures under
+
+                                                                Category (6), unless and
+
+                                                                until all of the following
+
+                                                                conditions have been met
+
+                                                                in respect of said
+
+                                                                expenditures: (i) (A) the
+
+                                Section III.B of Schedule 2     Recipient has determined
+
+Disbursement                                                                                    IBRD/IDA
+
+                                to the Financing Agreement      that an Eligible Crisis or
+
+                                                                Emergency has occurred,
+
+                                                                and has furnished to the
+
+                                                                Association a request to
+
+                                                                withdraw Financing
+
+                                                                amounts under Category
+
+                                                                (6); and (B) the Association
+
+                                                                has agreed with such
+
+                                                                determination, accepted
+
+                                                                                                                           vi
+
+said request and notified
+
+the Recipient thereof; and
+
+(ii) the Recipient has
+
+adopted the CERC Manual
+
+and Emergency Action
+
+Plan, in form and substance
+
+acceptable to the
+
+Association.
+
+
+
+
+
+
+
+
+
+                              vii
+
+    I. STRATEGIC CONTEXT
+
+
+
+
+
+    A. Country Context
+
+1. Bangladesh experienced rapid social and economic progress in recent decades, reaching lower middle-income status
+
+in 2015. Stable macroeconomic conditions drove 6.4 percent average annual real gross domestic product (GDP) growth
+
+between 2010 and 2022. Over the same period, poverty and extreme poverty declined by 19.6 and 6.8 percentage points
+
+to 30 percent and 5 percent, respectively.1 However, the pace of poverty reduction slowed, and urban inequality has
+
+widened.
+
+2. Bangladesh navigated the COVID-19 pandemic shock with prudent macroeconomic policies, but now faces a
+
+persistent balance of payments deficit and rising inflationary pressure. Import suppression measures narrowed the trade
+
+deficit in the first half of FY24, moving the current account into surplus. However, the financial account deficit has
+
+widened, driven by a contraction in net trade credit and medium and long-term loans. Domestic policies exacerbated the
+
+impacts of external pressure, including the continued use of multiple exchange rates. As of April 2024, gross international
+
+reserves declined to US$ 19.9 billion (3.3 months of prospective imports). Authorities requested support to restore
+
+external balance, including an International Monetary Fund (IMF) program approved in January 2023. Inflation remained
+
+elevated at 9.8 percent in March 2024, driven in part by increased administered fuel and electricity prices and depreciation
+
+of the taka.
+
+3. The fiscal deficit stood at 4.4 percent of GDP in FY23. Tax revenues remained among the lowest in the world at an
+
+estimated 7.3 percent of GDP in FY23. Expenditure growth accelerated with higher subsidy spending as a result of elevated
+
+commodity prices, while revenues declined with lower imports. Capital expenditure was led by infrastructure
+
+megaprojects, with the rationalization of other projects in FY23 to slow the growth of the budget deficit.
+
+4. Real GDP growth is expected to decelerate to 5.6 percent in FY24 before returning gradually to its long-term trend.
+
+Inflation is projected to remain elevated in the near term and gradually subside with monetary policy tightening and
+
+import price stabilization over the medium term. External sector pressure will ease gradually, supported by resilient export
+
+growth and ongoing import restrictions. The fiscal deficit is expected to remain within 5.0 percent of GDP, with a moderate
+
+increase in revenues. However, downside risks are rising. Import restrictions may result in disruptive gas and power
+
+shortages that dampen growth. The pace of monetary and exchange rate reforms may be insufficient, leading to persistent
+
+inflation and further depletion of foreign exchange reserves. Financial sector vulnerabilities may widen if enhanced asset
+
+measurement, supervision, and enforcement measures are delayed.
+
+5. Structural reforms are needed to support a faster pace of growth over the medium term. Country priorities to reach
+
+upper middle-income status by 2031 include building a competitive business environment, diversifying exports, increasing
+
+human capital, building efficient infrastructure, deepening the financial sector, and attracting private investment. These
+
+reforms will support international competitiveness as Bangladesh prepares for graduation from the Least Developed
+
+Country status in 2026, which will gradually lead to reduced concessional financing and preferential market access for its
+
+exports.
+
+6. Bangladesh is at low risk of overall and external debt distress in the January 2023 joint IMF-World Bank Debt
+
+Sustainability Assessment. Bangladesh is not currently subject to Debt Limits Conditionality under the Sustainable
+
+Development Finance Policy. In its most recent Staff Report, the IMF stressed the need for Bangladesh to accelerate its
+
+ambitious reform agenda to achieve a more resilient, inclusive, and sustainable growth, requiring substantial investments
+
+in human capital and infrastructure.
+
+7. Bangladesh is highly vulnerable to the effects of climate change. The Global Climate Risk Index ranks it as the seventh
+
+most affected country in 2000-2019,2 with high susceptibility to extreme weather events such as cyclones, floods, storm
+
+
+
+1 Based on the international poverty line of US$ 3.65 and US$ 2.15 per day (using 2017 purchasing power parity) for poverty and extreme poverty,
+
+respectively.
+
+2 Germanwatch (2021) Global Climate Risk Index 2021.
+
+
+
+
+
+                                                                                                                                          Page 1
+
+surges, heat waves, droughts, and sea-level rise. Recurring flooding in Bangladesh affects a greater population than any
+
+other natural disasters, impacting more than 1 million people annually. On average, every three to five years, up to two-
+
+thirds of the country is inundated by floods. Exposure to climate-related disasters has also been increasing due to the
+
+current development patterns that do not adequately support climate resilience measures in infrastructure, land use
+
+strategies and urban planning in cities. Addressing these climate risks will support sustainable economic development
+
+and prevent vulnerable populations from being left behind.
+
+
+
+    B. Sectoral and Institutional Context
+
+8. Bangladesh is expected to face a major surge in urbanization, as it strives to become an upper middle-income country
+
+by 2031. Around 38 percent of Bangladesh’s population of 166 million lived in urban areas in 2021. This figure is expected
+
+to rise to about 60 percent by 2050. The urbanization process has been an integral part of the country’s success story
+
+which has benefitted from structural transformation and the adoption of a pro-poor employment creation strategy.
+
+Urbanization has largely been driven by the rapid growth of manufacturing sector jobs in the Dhaka metro region. This
+
+trend has created a “double dividend” with labor shifting from agriculture to manufacturing, while spurring migration
+
+from rural areas with low productivity to urban areas with higher productivity in the Dhaka metro region—a trend which
+
+continues to grow steadily.
+
+9. Urbanization has been accompanied by increasing climate change impacts and rapid environmental deterioration.
+
+Rapid urban expansion, high population density, wetland reclamations and deforestation have made urban areas highly
+
+susceptible to climate events, especially pronounced in Bangladesh deltaic environment. Urban areas will need to adapt
+
+to: (i) extreme heating and heat island impacts; (ii) urban flooding; (iii) sea level rise3; and (iv) migration caused by climate
+
+change. Additionally, rapid and at times unplanned development of urban settlements in disaster prone areas has been
+
+exposing more population to climate and disaster impacts. Pressures from climate-induced migration, combined with
+
+projected population growth, could lead to urbanization without productivity growth. Infrastructure in cities needs to be
+
+climate resilient – that is, planned, designed, built, and operated in a way that anticipates, prepares for, and adapts to
+
+changing climate conditions.
+
+10. City Corporations and Pourashavas in Bangladesh are responsible for providing climate resilient urban amenities
+
+and services.4 A fragmented legal framework governing the administration of urban local governments has created a
+
+complex and uncoordinated institutional setting for urban management and service delivery. Most local governments
+
+experience three fundamental urban governance deficits5: a resource deficit, an empowerment deficit, and an
+
+accountability deficit – that create dependency on the central government. In addition, most have limited capacity for
+
+better identifying climate and disaster risks, planning for resilience, and implementing climate actions. The Bank is
+
+engaged through policy dialogue informed by strong analytics, with urban local governments to support climate resilient
+
+urban service delivery and sustainable economic development.
+
+11. Developing the full potential of the country’s various subregions by investing in secondary cities in key clusters along
+
+high priority economic corridors is a long-term vision for climate resilient territorial development. Supporting climate
+
+resilient development in secondary cities that can host climate migrants while helping to support decongesting Dhaka, is
+
+crucial for long term climate adaptation in the country. Identifying secondary cities along key economic corridors and
+
+ensuring that they can follow climate resilient pathway can drive structural transformation and spatially differentiated
+
+development by coordinating the planning, and management of strategic urban infrastructure along the corridors. This
+
+requires a shift in focus from uncoordinated individual city investments to systematically developing city clusters along
+
+key economic growth corridors and watersheds to improve climate resilience, and by better coordinating the planning,
+
+
+
+
+
+3 Sea-level rise of 27 cm by 2050 is expected in Bangladesh coastal cities where close to 8.6 million people reside.
+
+4 City Corporations are larger urban agglomeration which include primary cities with an average population of 1.8 million. Pourashavas are smaller
+
+municipalities with an average population of 89,000. Pourashavas are secondary cities categorized into three types based on their size, population,
+
+type of economic activities, land use and earnings from own source revenues.
+
+5 Ahmed, N. et al. The Local Government System in Bangladesh: A Comparative Analysis of Perspectives and Practices. EU, DANIDA, SDC, UNDP and
+
+
+
+UNCDF, 2014
+
+
+
+                                                                                                                                            Page 2
+
+and management of strategic urban infrastructure along the corridors. City clusters can act as economic growth hubs and
+
+boost regional competitiveness.
+
+12. Synergizing secondary city development with national-level key infrastructure development, particularly along
+
+strategic economic corridors, will facilitate the urbanization process. Bangladesh’s overall sub-regional connectivity
+
+landscape has changed dramatically since the completion of large transportation infrastructure, such as the Padma and
+
+Jamuna Bridges. The Government of Bangladesh (GoB) has identified an initial list of high priority economic growth
+
+corridors in the country. Development along these corridors is expected to create more jobs, enhance rural-urban linkages,
+
+and support the rural-urban transition, strengthen the vital food supply chains, integrate domestic markets, and link
+
+production centers with global value chains. Investments to support the development of strategically important city
+
+clusters along these corridors can be leveraged with the GoB’s major capital infrastructure investments, such as the Padma
+
+and Jamuna Bridges, to foster mini-agglomeration economies and productive advantages.
+
+13. Increasing urbanization and climate change is putting pressure on the country's food systems. Secondary cities play
+
+a pivotal role by serving as hubs for agri-food processing, packaging, and distribution, creating employment opportunities
+
+and adding value to raw agricultural products. With over 60 percent of the population residing in rural areas, secondary
+
+cities act as vital intermediaries, connecting rural agricultural producers to urban consumers. However, the urban food
+
+systems in Bangladesh's secondary cities are challenged by inadequate infrastructure in wholesale and kitchen markets,
+
+with issues such as poor drainage, insufficient climate proofing, and lack of clean water. Wholesale markets, crucial for
+
+the food supply chain, struggle with flooding during monsoons and lack of access, while kitchen markets, essential for
+
+fresh food provision, grapple with sanitation and food safety concerns. Food safety enforcement is inconsistent, leading
+
+to health risks from informal distribution channels.
+
+14. Gender is a key consideration in urban development. Most urban areas in Bangladesh can benefit from improvement
+
+in design of public spaces and urban infrastructure that considers women’s specific needs for safety, access, and usability.
+
+This will enhance their mobility and opportunities to benefit from social and economic activities that urban areas offer.
+
+Two key underlying issues causing the gender gap in access to urban services are: (i) under-representation of women in
+
+urban planning, design, and decision-making,6 and (ii) inadequate design of urban infrastructure and public spaces which
+
+leads to reduced accessibility for women7 and a higher risk of gender-based violence (GBV).
+
+
+
+    C. Relevance to Higher Level Objectives
+
+15. The Resilient Urban and Territorial Development Project (RUTDP) is aligned with the GoB’s Eighth Five-Year Plan
+
+(2020-2025) and the Long-Term Perspective Plan (2021-2041) for a better and more sustainable future. It is also well
+
+aligned with the Bangladesh Delta Plan (BDP 2100) which identifies urban areas as one of the six hotspots experiencing
+
+water challenges and prioritizes improvements in flood protection and drainage in urban areas.9 With the overarching
+
+vision of transforming Bangladesh into a high-income country by 2041, these plans acknowledge the role urbanization can
+
+play as an engine of sustained and inclusive economic growth, the increasing need for spatially targeted urbanization, and
+
+the importance of environment and climate change considerations in growth.
+
+16. The Project is informed by the Bangladesh Systematic Country Diagnostic Update (2021) and consistent with the
+
+World Bank Country Partnership Framework (CPF) FY23–27 discussed by the World Bank Board of Executive Directors
+
+on April 27, 2023 (Report No. 181003-BD). The project contributes to the CPF objectives through a resilient, spatially
+
+targeted and differentiated approach to urbanization, regional coordination and national urban development, that
+
+supports: (i) Objective 3 by improving the effectiveness of local government institutions to deliver better urban services
+
+by implementing green and climate resilience projects; (ii) Objective 4 by increasing access to quality urban services
+
+especially for women and vulnerable groups; (iii) Objective 5 by enhancing economic opportunities for women and
+
+
+
+6 For example, in UPs, there are only 12 women chairpersons out of 1,251 UPs in the 2016 election (Bangladesh Country Gender Assessment 2021,
+
+World Bank).
+
+7 A 2017 report by Action Aid on “Gender Responsive City Structure” stated that in a survey of Dhaka city, 42% of women mentioned the lack of
+
+
+
+security in parks and open spaces as preventing them from fully accessing these places. Some 96% of those interviewed mentioned lack of security
+
+96%, inadequate number 95%, 54% unhygienic and 91.5% unusable.
+
+
+
+                                                                                                                                          Page 3
+
+vulnerable groups in selected Clusters and Nodal cities along the economic corridor; and (iv) Objective 6 by strengthening
+
+spatial connectivity for inclusive growth through a deliberate spatial and territorial approach to urban transformation. The
+
+project also contributes to the country’s broader smart cities agenda by improving infrastructure support that could
+
+strengthen connectivity and digital platforms for improved urban governance.
+
+17. The Project is critical for ensuring compliance with the country’s climate commitments, as outlined in the most
+
+recent National Adaptation Plan for Bangladesh (NAP 2023-2050) and Nationally Determined Contributions (NDCs).8
+
+The project supports the NDC adaptation priorities through multi-sectoral investments in climate resilience and disaster
+
+risk mitigation. GoB has committed to reduce greenhouse gas (GHG) emissions in the power, industry and transport
+
+sectors by 6.7 percent below the “business as usual” (BAU) scenario by 2030 using only domestic sources, or by 15.1
+
+percent below BAU GHG emissions by 2030 conditional on international financing support.9 Investments will contribute
+
+to the reduction of GHG emissions by supporting the NDC’s actions to “increase use of less emission-based transport
+
+systems” and by adopting energy-efficient investments. The project supports the integration of climate actions outlined
+
+in the National Adaptation Programme of Action (2005), Bangladesh Climate Change Strategy and Action Plan (2009),
+
+Mujib Climate Prosperity Plan (2022-2041), National Environment Policy (2018), and the NAP (2023-2050). It is aligned
+
+with the BDP 2100 and the Bangladesh Country Climate Development Report (2022) which prioritizes climate smart urban
+
+development to mitigate internal climate migration and address adaptation challenges more effectively.
+
+
+
+    D. Series of Projects
+
+18. RUTDP is the first in a transformative Series of Projects (SOP) with the vision to transform the country’s socio-
+
+economic landscape, build system resilience to climate change, and boost overall economic growth and jobs through
+
+spatially targeted investments and institutional reforms at the cluster level.10 The SOP’s development objectives are to:
+
+(i) boost economic growth and job creation in city clusters along key economic corridors by increasing economic
+
+integration between urban and rural areas, and (ii) strengthen the functioning and reform of urban institutions to ensure
+
+that adaptation to climate change is an integral part of the new infrastructure investments that support resilient,
+
+productive, livable, and sustainable cities.
+
+19. Recognizing the time required to achieve substantial improvement in urban governance and corridor development,
+
+the SOP approach signifies a strategic, long-term commitment and is envisaged as a three-phase series spanning 12
+
+years. The SOP approach allows for progressive increases in ambition towards a climate resilient and economically
+
+productive urban transition in Bangladesh. RUTDP, as Phase 1 of the SOP, targets secondary cities in seven city clusters
+
+along a “backbone” economic corridor, while subsequent overlapping phases will respond dynamically to the rapid pace
+
+of urbanization by deepening reforms and expanding investments in key nodal cities within these clusters. SOP1 will
+
+include technical assistance to prepare future SOPs, particularly in urban management (with a focus on cross-boundary
+
+planning, climate and disaster resilience and local revenue generation). This technical assistance will lay out the analytical
+
+groundwork for subsequent phases, including for: (i) spatial targeting for a more selective and consolidated coverage of
+
+clusters, to include either newly identified or successful Pourashavas from SOP1; (ii) initiating new forms of inter-
+
+jurisdiction collaboration to create regional synergies and underpin future institutional reform; and (iii) identifying
+
+interventions for growth-centric activities, revenue mobilization and public-private partnerships to enhance the
+
+competitiveness and financial sustainability of city clusters. This approach supports spatially integrated urbanization while
+
+demonstrating a strong commitment to reform. The duration of the SOP will allow for continuous program enhancements,
+
+long term planning to mitigate the climate crisis, and sustained institutional strengthening that can leverage access to
+
+different sources of financing, including from the private sector. Figure 1 demonstrates the indicative interventions across
+
+various phases of the SOP.
+
+
+
+
+
+8   NDC updated August 2021.
+
+9 If both conditional and unconditional targets are met, emissions would be reduced to 319 MtCO2e 2030. Source: Bangladesh Nationally Determined
+
+
+
+Contributions (NDCs), GoB Ministry of Environment, Forest, and Climate Change, updated 26 August 2021.
+
+10 The Project introduces the concept of development along strategic "city clusters". This concept, central to the design of the SOP, is further
+
+
+
+elaborated in paragraph 23.
+
+
+
+                                                                                                                                                   Page 4
+
+Figure 1: Series of Projects and RUTDP Program Development Objectives
+
+
+
+
+
+
+
+
+
+ II. PROJECT DESCRIPTION
+
+ A. Project Development Objective
+
+
+
+      PDO Statement
+
+
+
+20. The project development objectives (PDO) of RUTDP are to: (i) enhance access to climate resilient urban
+
+infrastructure and services in selected clusters, and (ii) strengthen urban management capacity in selected urban centers.
+
+
+
+      PDO Level Indicators
+
+
+
+21. The outcomes of the project will be measured by the following indicators:
+
+      ▪ Project Outcome 1: Enhance access to climate resilient urban infrastructure and services in selected Clusters.
+
+        PDO Level Indicators (i) People with enhanced resilience to climate risks (disaggregated for female beneficiaries)
+
+        (number); (ii) Users satisfied with enhanced climate resilient infrastructure and services provided by the project
+
+        (disaggregated for female users’ satisfaction) (percentage).
+
+      ▪ Project outcome 2: Strengthen urban management capacity in selected urban centers. PDO Level Indicators (i)
+
+        Pourashava Development Plans (PDP), adopted by Nodal Cities, each of which incorporates a Cluster
+
+        Development Plan (CDP) and a climate resilience action plan (number); (ii) Nodal cities and Pourashavas have
+
+        increased their own source revenues by 20 percent from the baseline (number): and (iii) Operation and
+
+        maintenance plans approved and implemented by the Pourashavas (number).
+
+
+
+22. RUTDP will support targeted economic and social interventions in seven Clusters along a high priority economic
+
+development corridor. The selected corridor is along 950 kilometers of highway from Cox Bazaar in the southeast to
+
+Panchagarh in the northwest region of the country. It traverses the recently completed Padma Multi-Purpose Bridge and
+
+
+
+                                                                                                                    Page 5
+
+the important urban centers of Panchagarh, Dinajpur, Bogura, Kushtia, Jashore, Dhaka, Feni, Mirsharai, Chattogram and
+
+Cox’s Bazaar. The corridor was selected based on its potential for: (i) increased climate resilience of economic production
+
+hubs; (ii) strengthened urban-rural linkages; (iii) regional economic growth, investment opportunities and job creation;
+
+and (iv) poverty reduction.
+
+23. Clusters and Nodal Cities. Based on their strategic location along the selected corridor, the project focuses on clusters
+
+incorporating selected Pourashavas and City Corporations, together with their adjoining Union Parishads (UPs). The seven
+
+clusters were identified based on stakeholder input, poverty assessment, and key selection criteria including: (i)
+
+contribution to all the criteria used for identifying the Corridor and vulnerability to climate and disaster risks, such as urban
+
+drainage and river protection systems11; (ii) potential to boost natural aggregation of socio-economic factors, supporting
+
+each other for a more coherent subregional collaboration; and (iii) opportunity to crowd in private capital through better
+
+institutional strengthening and facilitating the flow of food from the rural areas to urban markets and supporting farmers
+
+to increase their incomes while reducing food waste loss in the chain. Within the seven clusters, fourteen Pourashavas
+
+have been identified as Nodal Cities.12 These will serve as points of convergence from which development impacts can
+
+spread out, driving the socio-economic transformation of the clusters and other parts of the sub-regions along the
+
+corridors. Climate resilient infrastructure investments in these nodal cities is expected to help raise revenues and attract
+
+private funding for green industries and jobs.
+
+24. Cluster Development Plans (CDP) developed under the project will address integrated economic, spatial, social, and
+
+environmental challenges at the cluster level. The CDP will prioritize strategic and transformative climate-resilient
+
+infrastructure investments with socio-economic and climate benefits for the cluster and economic growth corridor. The
+
+CDP also requires a balanced approach that leverages agglomeration benefits while also supporting non-nodal cities in
+
+the interest of reduced spatial inequality. Cluster-based investments identified in the CDP will encourage agglomeration
+
+and economic corridor development as most value chains and economic activities transcend municipal boundaries. Risk
+
+assessment including disaster and climate risks, vulnerabilities and coping capabilities, considering systemic interlinkages
+
+and dependences at the cluster level will be conducted as part of each CDP. The CDP will be incorporated in the Pourashava
+
+Development Plan (PDP) which will be prepared and adopted by the 14 Nodal Cities. This planning innovation will
+
+significantly strengthen nodal cities’ capacity to deal with climate change impact and their local adaptation efforts.
+
+
+
+ B. Project Components
+
+Component 1: Climate Resilient Urban Services and Infrastructure Investments (Total US$425.93 million, of which IDA
+
+US$309.68 million equivalent and GoB US$116.25 million)
+
+
+
+25. Sub-component 1.1: Climate Resilient Urban Services and Infrastructure Investments in the Selected Clusters (Total
+
+US$296.60 million, of which IDA US$213.68 million equivalent and GoB US$82.92 million). This sub-component supports
+
+the provision of Sub-Grants to the Selected Nodal Cities to carry out the Eligible Territorial and Regional Infrastructure
+
+Investments that support climate resilient, job creating, and gender responsive urban infrastructure and services.13 These
+
+investments will incorporate appropriate heat reduction, carbon sequestration, storm water management, universal
+
+accessibility, and green building design features, such as cool roofs, rainwater harvesting, reflective surfaces which will
+
+reduce the energy consumption and GHG emission (examples are elaborated in the climate change technical note). Three
+
+categories of infrastructure will be eligible for investments as described below:
+
+
+
+11 An urban climate risk analysis covering the seven clusters was conducted during preparation and summarized in a Climate Change Technical
+
+Note.
+
+12 “Nodal cities” are the principal centers of urban agglomeration identified area. These are: Panchagarh, Dinajpur, Saidpur, Bogura, Natore,
+
+
+
+Kushtia, Jashore, Benapole, Madaripur, Shariatpur, Madhabdi, Feni, Mirsharai, and Cox’s Bazar.
+
+13 Pourashava Town-Level Coordinating Committees (TLCCs) and City Development Coordinating Committees will identify sub-projects with the
+
+
+
+assistance of implementing agency’s Project Management Unit, the design, supervision and management consultants and representatives from
+
+professional associations. The TLCCs, mandated by the Pourashava act of 2009, will be composed of a minimum of one-third female membership,
+
+and will have the female panel mayor designated as co-chair.13 The sub-projects will be identified based on an assessment of local climate risks and
+
+vulnerability. They will incorporate both climate-resilient and gender-responsive design features identified with female participants.
+
+
+
+                                                                                                                                            Page 6
+
+  (i) Climate resilient road systems that integrates carriageway, drains with footpaths, bicycle lanes, roads protective
+
+        works, bridges/culverts, street furniture, streetlight, plantation, traffic management, and road safety measures and
+
+        be designed as part of integrated urban flood risk management systems, while energy efficient streetlighting will
+
+        help improve safety for women.
+
+  (ii) Public buildings and open spaces, including climate-resilient revenue-generating assets (municipal and wholesale
+
+        markets, community centers, municipal buildings, bus terminals, public toilets with separate toilets for females in
+
+        public buildings and designated spaces for women in parks and open spaces where appropriate).
+
+  (iii) Infrastructure for the Nodal city and surrounding Union Parishads by increasing connectivity (e.g., strategic roads
+
+        for improving mobility between Nodal city and adjoining Union Parishads, regional bus terminals, etc.) and
+
+        promoting new economic opportunities (e.g., facilities for tourism, urban regeneration, waterfront development).
+
+26. Sub-component 1.2: Cluster-Wide Investments for Climate Resilient Basic Service Improvements (Total US$129.33
+
+million, of which IDA US$96.00 million equivalent and GoB US$33.33 million). This subcomponent supports the provision
+
+of Sub-Grants to the Selected Pourashavas and City Corporations to carry out the Eligible Infrastructure Investments that
+
+support climate resilient and gender responsive urban infrastructure and services. The two categories of infrastructure
+
+will be eligible for investment under this sub-component are described in (i) and (ii) above. The selected Pourashavas will
+
+be prioritized based on their potential to reduce climate vulnerability at the cluster level, connect major and minor cities,
+
+enhance accessibility, and stimulate economic connectivity across the cluster. Eligible investments will ensure minimal net
+
+contributions GHG emissions. Where possible, efforts will be made to use sustainable materials in construction to reduce
+
+the project’s carbon footprint by improving thermal performance, durability, and reusability.
+
+27. The project will implement cluster level improvement packages for the first 18 months, while preparing for the
+
+integrated CDPs and PDPs which would help identify more sizable and strategic investments for the Nodal Cities.
+
+Preliminary engineering designs and estimates for the first 18-months’ proposed investments for all participating
+
+Pourashavas and City Corporations are currently underway along with Environmental and Social (ES) screening of these
+
+sub-projects and preparation of site-specific ES Assessment, Environmental and Social Management Plans (ESMPs) and
+
+Environmental and Social Impact Assessments (ESIA).
+
+
+
+Component 2: Institutional Strengthening, Technical Assistance, Project Management and Operational Support (Total
+
+US$134.07 million, of which IDA US$90.32 million equivalent, and GoB US$43.75 million)
+
+28. Sub-component 2.1. Institutional Strengthening (Total US$73.42 million, of which IDA US$60.92 million equivalent
+
+and GoB US$12.50 million). Support for strengthening institutional capacities and fostering collaboration to enhance
+
+resilience to climate change and mainstream climate adaptation and mitigation by financing preventative maintenance
+
+and operation of select infrastructure in the Selected Nodal Cities and Pourashavas upon achievement of Performance
+
+Based Conditions (PBCs). The use of PBCs will help incentivize institutional strengthening and reforms critical for the SOPs
+
+to address binding institutional constraints. This component will also support training activities on emergency response
+
+services to prepare for natural disasters, sustainable operation, and maintenance (O&M) models, and climate-sensitive
+
+planning.
+
+29. The Local Government Engineering Department (LGED) as the implementing agency will support the Nodal Cities
+
+and Pourashavas in meeting the PBCs, evaluate their performance, and allocate funds as outlined in the Project
+
+Implementation Manual (PIM). Under this sub-component, financing of the Eligible Expenditures for PBCs will be made
+
+upon the achievement of said PBCs by the selected Nodal Cities and Pourashavas. Disbursements will be made based on
+
+the achievement of PBC targets and expenditures, whichever is lesser. The total cost of component 2.1 includes an
+
+additional cost of goods and equipment for operations and maintenance works by participating Pourashavas and City
+
+Corporations.
+
+
+
+
+
+
+
+
+
+                                                                                                                      Page 7
+
+         List of Performance-Based Conditions
+
+     (i) PBC1: (US$13.75 million) Pourashava Development Plans, adopted by Nodal Cities, each of which incorporates a
+
+         Cluster Development Plan and a Climate Resilience Action Plan.14
+
+         PBC1 will support the introduction of cluster level planning to provide a regional framework for climate adaptation
+
+         and urban development planning. A CDP for each of the seven clusters will be prepared by LGED and its consultants.
+
+         Pourashavas will prepare and adopt PDPs aligned with the CDPs. The PDP will include a climate resilience action
+
+         plan and will follow standardized guidelines.15 Nodal cities will sign a Memorandum of Understanding with their
+
+         adjoining UPs for cross-boundary sub-projects (e.g., wholesale markets, kitchen markets, flood control drainage,
+
+         etc.).
+
+
+
+     (ii) PBC2: (US$15 million) The Nodal Cities and Pourashavas have increased their own source revenues by 20 percent
+
+          from the baseline (scalable)
+
+        PCB2 will incentivize participating Nodal Cities and Pourashava to improve their fiscal autonomy by increasing their
+
+        own source revenues (OSR) by 20 percent. Increased OSR is critical to meeting recurring expenditures, adopting
+
+        climate resilient measures, and reducing dependence on fiscal transfers.
+
+
+
+     (iii) PBC3: (US$8.5 million) The Nodal Cities and Pourashavas have established Town-Level Coordinating Committees
+
+           (TLCCs) with at least one-third female membership and female panel mayor as a co-chair.
+
+         PBC3 aims to increase women’s access to urban services and spaces by incentivizing participating Nodal Cities and
+
+         Pourashava to include women in TLCCs, which play a critical role in the selection, planning and implementation of
+
+         sub-projects. 16
+
+
+
+30. Sub-component 2.2: Capacity Building (Total US$3.20 million, of which IDA US$3.20 million equivalent). Provision of
+
+capacity building and Training to the Selected Nodal Cities, Pourashavas, and City Corporations, focused on key areas of
+
+urban management such as, inter alia: cross-boundary planning, climate and disaster resilience, local revenue
+
+mobilization, improved operational and financial performance (including increasing own-source revenues), financial
+
+management systems procurement, environmental and social management, gender-responsive planning and design,
+
+incorporation of climate and disaster risk mitigation measures, and disability/universal accessibility, as well as capacity
+
+building and leadership training to female members of TLCC.
+
+
+
+31. Sub-component 2.3: Technical Assistance (Total US$2.00 million, of which IDA US$2.00 million equivalent). Provision
+
+of technical assistance for: (a) urban management and cluster-level planning for the Selected Nodal Cities, Pourashavas
+
+and City Corporations, including the preparation of PDPs for the 14 Selected Nodal Cities (including the preparation and
+
+adoption of cluster development plans and climate resilience action plans that need to be incorporated into the PDPs),
+
+revenue enhancement action plans for the 81 Selected Nodal Cities and Pourashavas, and operation and maintenance
+
+plans for the 81 Selected Nodal Cities and Pourashavas; (b) operation and management of food markets related to, inter
+
+alia, food safety practices; governance and enforcement of hygienic conditions and food safety regulations; climate smart
+
+
+
+14 PBC 1 is only accessible for 14 nodal cities.
+
+15 The standardized guidelines will be prepared and adopted by LGED, in substance and form satisfactory to the World Bank. The plans will need to
+
+be prepared in consultation with the adjoining Union Parishads for sub-projects that are cross-boundary in nature (e.g., drainage, regional markets,
+
+etc.). The climate resilience action plan will be based on a comprehensive climate risk assessment, GHG inventory and identification of adaptation
+
+and mitigation measures covering different sectors such as urban transport, drainage, water supply and sanitation, energy/building, and green space,
+
+rehabilitation works of urban infrastructures.
+
+16 Most climate vulnerable women include those involved in jobs exposed to climate change (e.g., whose shops are in low lying areas exposed to
+
+
+
+flooding or day labor exposed to heat wave) and from low-income households.
+
+
+
+
+
+                                                                                                                                            Page 8
+
+technology adoption; and awareness raising; (c) long-term multi-sectoral, integrated climate resilience planning at the
+
+sub-regional level; and (d) preparation of feasibility studies, other preparatory studies, and a solid waste management
+
+strategy for the subsequent series of projects. A regional planning framework will allow the CDPs to prioritize strategic
+
+and transformative infrastructure investments within the cluster which will contribute to socio-economic outcomes and
+
+climate resilience for the cluster and economic growth corridor. The CDPs will guide the preparation and implementation
+
+of the PDPs whose achievement will trigger release of funds for use on routine preventative O&M of select infrastructure
+
+in Pourashavas (PBC 1).
+
+32. Additionally, Pourashavas and City Corporations will be assisted in mainstreaming food safety and reducing food
+
+loss and waste in markets to be built under RUTDP and in existing kitchen markets. This will include: (i) better food safety
+
+practices; (ii) governance and enforcement of hygienic conditions and food safety regulations; (iii) climate smart
+
+technology adoption, including the use of digital platforms for inventory management, real-time monitoring of food
+
+safety, and efficient waste management practices that reduce methane emissions; and (iv) awareness raising among urban
+
+consumers on food safety and the role of kitchen markets in maintaining standards.
+
+33. Finally, technical assistance will finance preparatory and feasibility studies for subsequent stages of the SOP and
+
+preparation of a strategy plan for improved service delivery with emphasis on solid waste management and water
+
+supply and sanitation. Continuous analytical outputs under RUTDP as well as other ongoing studies (e.g., rigorous analysis
+
+of the local/sub-regional economy and existing and potential for economic growth and agglomeration economies,
+
+demographics, climate risk assessment, connectivity/logistics issues, policy/regulatory dimensions, etc.) will help to better
+
+inform and target future interventions under the Project. Technical assistance will also be provided to conduct the
+
+analytics to design interventions that can support private sector inclusive growth and economic integration along the
+
+supported corridors.
+
+34. Sub-component 2.4: Project Management and Operational Support (Total US$55.45 million, of which IDA US$24.20
+
+million equivalent and GoB US$31.25 million). This component will provide support for day-to-day administration,
+
+management, monitoring and coordination of project activities by the Project Management Unit (PMU) and the Project
+
+Implementation Units (PIUs), including financial management, environmental and social risk management, procurement,
+
+audits, monitoring, evaluation and reporting, and managing services by consultants including Design, Supervision and
+
+Management (DSM) consultants, municipal support unit (MSU) consultants, performance assessment monitoring (PAM)
+
+consultants, and Sub-Project readiness consultants, as well as third-party monitors.
+
+Component 3: Contingent Emergency Response (US$0 million)
+
+35. This component will help provide immediate response to an Eligible Crisis or Emergency, as needed.
+
+
+
+ C. Project Beneficiaries
+
+36. Project Beneficiaries. An estimated seventeen million people living in seven clusters of selected Pourashavas and City
+
+Corporations are expected to directly benefit from the project through improved access to climate resilient urban
+
+infrastructure services. In addition, an estimated 4.6 million people living between urban/rural areas along the selected
+
+economic corridor will indirectly benefit from the project interventions. Staff from implementing agencies and local
+
+governments will benefit from the capacity building and technical training activities. The GoB will benefit from the
+
+institutionalization of a new urbanization approach that will support the country’s economic and social transformation.
+
+
+
+ D. Results Chain
+
+37. The project’s theory of change, which reflects the project interventions, outputs, and outcomes, is presented in Figure
+
+2.
+
+
+
+
+
+
+
+
+
+                                                                                                                      Page 9
+
+Figure 2: Theory of Change
+
+
+
+
+
+
+
+
+
+ E. Rationale for Bank Involvement and Role of Partners
+
+38. The World Bank brings global and local experiences in urban development and service delivery, spatial and
+
+territorial planning, and positioning targeted urban investments for transformative development. The Bank has deep
+
+expertise and broad experience in the urban sector in Bangladesh since 1999 through long engagement in supporting basic
+
+urban services development, institutional strengthening, and capacity building. This includes a series of municipal
+
+development projects.17 RUTDP’s design follows from recent country-wide policy and sector work, as well as urban policy
+
+dialogue with the GoB, calling for the need of a spatially targeted and differentiated urban intervention that will help
+
+Bangladesh to embark on a growth pathway that puts efficiency and resilience at its core. It is one of the first attempts by
+
+the GoB to move from specific city-based interventions to a cluster-based development through a multi-phased,
+
+integrated multi-sectoral investment program. The approach will establish linkages and promote economic networks
+
+thereby unlocking the growth potential of secondary cities for spatially differentiated, climate resilient and inclusive urban
+
+growth.
+
+39. Role of Partners. The World Bank coordinates extensively with development partners engaged in urban development
+
+in Bangladesh. These include the Asian Development Bank, the Asian Infrastructure Investment Bank, and the Japan
+
+International Cooperation Agency, among others. Each of them was consulted during project preparation to ensure the
+
+convergence of the proposed Project with other interventions by Development Partners, the GoB, and World Bank
+
+projects along the same corridor. The World Bank is also collaborating with the Global Center for Adaptation to provide
+
+technical assistance support for priority formulation and a conceptual approach to mainstreaming climate resilience in
+
+several selected Pourashavas. This will include: (i) support for institutional arrangements for climate resilience planning
+
+at the sub-regional level; and (ii) assessment of local climate risks and vulnerability areas to help to prioritize and design
+
+tailored local solutions to climate-resilient infrastructure.
+
+
+
+17Recent projects include: (i) Municipal Governance and Services Project (MGSP, P133653), a $410 million IPF to improve municipal governance and
+
+basic urban services (closed in May 2022); (ii) support to Dhaka North and South City Corporations is being provided through an ongoing $100 million
+
+Dhaka City Neighborhood Upgrading Project (P165477); (iii) Local Governance Support Project 3 (P159683) is $300 million IPF to institutionalize the
+
+Union Parishad (UP) fiscal transfer system; and (iv) Local Government COVID-19 Response and Recovery Project (P174937), a $300 million IPF to
+
+support urban local governments’ in responding to and recovering from COVID-19.
+
+
+
+
+
+                                                                                                                                           Page 10
+
+ F. Lessons Learned and Reflected in the Project Design
+
+40. The Project builds on the lessons learned from global and previous urban projects in Bangladesh, notably the
+
+Municipal Support Project (MSP, P41887) and Municipal Governance and Services Project (MGSP, P133653). These
+
+include:
+
+    •   The use of the SOP and the economic corridor approach allows RUTDP to scale up and accelerate the benefits of
+
+        integrated urban planning and development. The development of clusters along key growth corridors will enhance
+
+        the ability of Pourashavas and City Corporations to promote regional economic growth, taking advantage of
+
+        economies of scale and increasing the intensity of economic activity. However, transitioning to this new territorial
+
+        model will take sustained support over a long period.
+
+    •   Delays in the procurement of large service contracts are a systemic challenge. Past urban operations have
+
+        experienced major delays in recruiting large DSM firms due to poor capacity in Pourashavas. The number of small
+
+        sub-projects will be reduced by strategically consolidating interventions. The first 18 months of sub-projects have
+
+        been identified and in advanced state of readiness.
+
+    •   Planning, budgeting, and implementation of climate-resilient infrastructure and services is challenging for
+
+        Pourashavas due to their institutional and resource constraints. RUTDP builds on the experience of similar projects
+
+        to use an SOP approach to incrementally improve the financial and operational performance of the targeted
+
+        Pourashavas based on inter alia, stakeholder inputs in capital investment planning.
+
+
+
+ III. IMPLEMENTATION ARRANGEMENTS
+
+
+
+
+
+ A. Institutional and Implementation Arrangements
+
+41. LGED, under the Ministry of Local Government, Rural Development & Co-operatives (MoLGRD&C), is the project
+
+implementing agency. The LGED has extensive presence throughout the country through their divisional, regional, district
+
+and Upazila offices led by its engineers. LGED will support Pourashavas and City Corporations during the design and
+
+implementation of the project. The monitoring and evaluation (M&E) wing of Local Government Division (LGD) will
+
+supervise the third-party monitoring consultants (with ToRs satisfactory to the Bank) of the project.
+
+42. A PMU will be established by LGED for overall project management and coordination, including supervising the
+
+DSM, MSU, PMU, operational audit, asset inventory and other consultants; providing support for ES compliance; and
+
+implementing the Environmental and Social Commitment Plan (ESCP) through consultant services. The PMU will
+
+evaluate Nodal cities and Pourashavas using monitoring criteria (set forth in the PIM) to determine and allocate the PBC
+
+funds under Subcomponent 2.1. The MSU will support the project’s institutional strengthening and capacity building
+
+activities.
+
+43. A Project Steering Committee (PSC), chaired by the LGD Secretary of MoLGRD&C will provide oversight and monitor
+
+overall implementation. Additionally, a Project Implementation Committee (PIC), chaired by the LGED Chief Engineer and
+
+including officials from relevant ministries and agencies, will provide the PSC with technical and operational inputs and
+
+help address operational issues related to coordination, implementation, and monitoring.
+
+44. Each participating Pourashava and City Corporation will establish a PIU to coordinate program activities within the
+
+city in tandem with other cities in the cluster and with MSU. They will be responsible for coordinating with the TLCCs in
+
+identifying and proposing sub-projects, procurement, construction supervision, safeguards management, implementation
+
+monitoring, and maintenance. The PIM will provide more detail on institutional arrangements for project implementation.
+
+
+
+
+
+
+
+
+
+                                                                                                                    Page 11
+
+ B. Results Monitoring and Evaluation Arrangements
+
+45. Project monitoring and evaluation will be based on the agreed results framework and arrangements described in
+
+Section IV. The PMU will regularly update the indicators and will produce progress reports every six months. A mid-term
+
+review (MTR) of the project will be conducted jointly by the GoB and the World Bank to assess overall implementation
+
+progress and identify necessary corrective measures. Prior to the MTR, the PMU will prepare a mid-term progress report
+
+that will assess overall implementation progress and progress towards achieving the PDO and propose remedial measures
+
+to address implementation challenges.
+
+
+
+ C. Sustainability
+
+46. Sustainability will be ensured through the use of the SOP instrument as subsequent phases will incorporate the
+
+lessons learned in SOP1. RUTDP is also designed to support enhanced sustainability by supporting improved asset
+
+management and maintenance as well as increased own source revenue and cost recovery in participating Pourashavas
+
+and City Corporations. This will ensure that participating municipalities are strengthened for longer term planning and are
+
+able to financially support O&M systems over the long-term. Training and TA will also be provided for O&M and local
+
+revenue enhancement for asset management and maintenance.
+
+47. In addition, all investments financed under the project are expected to be climate resilient and inclusive. Sub-
+
+projects will be identified through a multisectoral, integrated planning process taking climate and disaster considerations
+
+into account. Component 2 will finance capacity building activities related to environmental and social performance and
+
+support preparation of PDPs including climate resilience plans for all 14 Nodal Cities. All proposed sub-projects will require
+
+environmental and social screening. Sub-projects with adverse impacts will require further impact assessment and
+
+mitigation plans. Social sustainability will be assured by building stakeholder ownership through the enhanced
+
+participation of project affected persons (PAPs) and users in project design, implementation, monitoring and evaluation.
+
+
+
+
+
+ IV. PROJECT APPRAISAL SUMMARY
+
+ A. Technical, Economic and Financial Analysis
+
+Technical Analysis
+
+48. The project design draws on extensive experience from MSP, MGSP and other World Bank-supported urban
+
+infrastructure projects in the country. Infrastructure investments will follow national and LGED standards and operating
+
+procedures. Site/area specific climate resilience measures in infrastructure will be informed by climate and disaster risk
+
+screening. DSM consultants will be responsible for design and supervision to ensure appropriateness and technical
+
+soundness. Detailed Engineering Designs are under completion the proposed investments for the first 18 months of the
+
+operation. Technical due diligence for large sub-projects will be provided through national experts and third-party audits.
+
+Competitively selected contractors will implement civil works.
+
+49. There will be two types of investments. First, cluster wide investments in non-nodal cities, a significant share of which
+
+will be implemented in the first 18 months after project effectiveness, under sub-components 1.1 and 1.2 and selected
+
+Pourashavas/City Corporations will benefit from these investments. Second, the longer-term ‘catalytic interventions’ that
+
+aim to boost economic growth and jobs creation in the interest of strengthening territorial development and linkages
+
+between Pourashavas/rural hinterlands. Investments that enhance climate adaptation capacity will be prioritized and all
+
+investments will undergo climate and risk screening to ensure maximum effectiveness.
+
+Alignment with the Goals of the Paris Agreement
+
+50. The proposed operation is aligned with the goals of the Paris Agreement on both mitigation and adaptation. It aims
+
+to increase access to climate resilient urban services in Pourashavas and City Corporations through a range of investments
+
+in urban infrastructure. The operation also aims to improve understanding of climate and disaster risks, urban
+
+management capacity and planning, which will enable the Pourashavas and City Corporations to plan, regulate,
+
+
+
+
+
+                                                                                                                      Page 12
+
+implement, and monitor climate resilient urban infrastructure assets and services in economic corridors. The project
+
+activities will not intensify GHG emissions, reduce carbon sinks, or negatively impact high biodiversity areas.
+
+51. Assessment and reduction of GHG emissions risks. All proposed investments for climate resilient urban services and
+
+infrastructure under Component 1 meet the conditions to be universally aligned, specifically: (i) connectivity and
+
+accessibility infrastructure between nodal cities and the extended urban region, which will avoid capacity expansion for
+
+private motor vehicles and not require a significant conversion of natural habitats or involve land use change that is likely
+
+to reduce carbon stocks; (ii) expansion of urban green areas along roads and drains as well as within parks and public open
+
+spaces that exclude energy-consuming installations; (iii) energy-efficient public buildings with renewable energy and other
+
+energy-efficient technologies, as appropriate, to achieve at least Level 1 EDGE Certification or other global certification
+
+with equivalent energy performance requirements; (iv) flood management and protection infrastructure, which will
+
+exclude energy-consuming equipment; and (v) integration of flood risk management systems across municipal
+
+jurisdictions. LED lighting will be utilized during the construction and operation of all project investments to minimize
+
+energy consumption. Given the project’s programmatic approach, only the first 18 months’ climate resilient investments
+
+were identified by the time of appraisal and as such, the project was exempted from GHG accounting for projects
+
+scheduled for Board Approval in the fourth quarter of FY24.
+
+52. Assessment and reduction of climate risks. The selected Pourashavas and City Corporations are exposed to increasing
+
+temperature, tropical cyclones, storm surges, monsoon floods, flash floods, and sea-level rise. Roads are particularly
+
+vulnerable to the effects of flooding in Bangladesh leading to erosion, damage and higher maintenance cost of vehicles,
+
+equipment, and roads. Floods can strain road networks through transportation delays, damage to other critical
+
+infrastructure networks (e.g., energy, communication, fiber optic relays, etc.) and potentially dampen the local/regional
+
+economy. Under Component 1, the focus will be on road improvements and measures to increase their climate resilience,
+
+such and drains, embankments, berms and dikes, small bridges/culverts, vegetation/afforestation to protect roads and
+
+facilitate drainage, and permeable pavements will strengthen the adaptation of Pourashavas and City Corporations to
+
+increasing seasonal floods exacerbated by climate change.18 Street greening measures will be integrated in the designs to
+
+help with adaptation. Enhancing the resilience of connective infrastructure (e.g., roads and drains) will help Nodal cities
+
+and adjoining UPs, to address regional and cross-boundary climate-induced flood risks.
+
+53. The feasibility studies and technical designs will build on recommendations from the World Bank’s Climate and
+
+Disaster Risk Screening Tool by incorporating climate risk management measures as well as cluster and local-level
+
+climate and disaster risk screening. Several factors linked to climate change are increasing the country’s flood risks,
+
+including frequency of extreme precipitation events and more erratic rainfall, as well as the scale of flood-impacted areas.
+
+54. Component 1 will also reduce the impacts of urban heat with the incorporation of cool roofs and reflective surfaces
+
+on public buildings, urban greenery, public open green areas with nature-based solutions, where appropriate and
+
+rainwater harvesting. Component 2 will strengthen the capacities of Pourashavas and City Corporations to understand
+
+and incorporate climate adaptation and mitigation measures, and to develop climate resilient plans and develop
+
+integrated flood management systems for the extended urban region, comprising of Pourashavas and their
+
+adjoining/contingent hinterland, that will help them address the challenges of climate change throughout key economic
+
+corridors. Fourteen Nodal cities and Selected Pourashavas will be able to access funds from sub-component 2.1 for routine
+
+O&M activities to increase their adaptive capacities.
+
+55. Regarding food safety, the project considers that climate-induced flooding can adversely impact transport to/from
+
+and operation of municipal, wholesale, and wet markets leading to food safety concerns. Similarly, severe heat can pose
+
+food safety risks if not properly stored. This component will build capacity and raise awareness on the importance of food
+
+
+
+18 To make roads more resilient to climate-induced flooding, the following measures will be adopted, as appropriate: (i) drainage structures; (ii)
+
+strategically placed embankments/berms/dykes to protect road sections prone to flooding; (iii) use of geotechnical materials to insulate the road
+
+base/sub-base from water ingress; (iv) raising road level sections on higher embankments; (v) adoption of appropriate materials to make the sub-
+
+base more water resistant; (vi) in major flood plains, provision of small bridges/culverts to allow water to freely flow under roads that traverse a
+
+flood plain; (vii) use of strategically placed vegetation/afforestation to protect roads and facilitate drainage; and (viii) permeable pavements, when
+
+and as appropriate. This will be part of an integrated urban flood risk management system to help cities.
+
+
+
+                                                                                                                                             Page 13
+
+safety, and measures to address food safety risks, such as the use of digital platforms for inventory management, real-
+
+time monitoring for food safety (climate-responsive technology) and efficient waste management practices that reduce
+
+methane emissions (e.g., waste prevention/source reduction, reuse, recycling, organic waste diversion, etc.).
+
+Economic Analysis
+
+56. The project has used demand driven approaches to identify typologies of sub-projects that could benefit from
+
+investments at the cluster level to enhance regional cohesiveness and integrity. An economic analysis was undertaken
+
+with a conservative approach. 19 It considered only benefits that could be quantified at project appraisal, and as such the
+
+calculated rate of return is underestimated. Accordingly, the benefits of roads and bridges include savings in terms of
+
+reduced travel time, vehicle operating costs, reduction in accidents and reduced GHG emissions; reductions in economic
+
+losses due to property damages are linked to drains; changes in market and travel revenues are associated with productive
+
+investments such as urban markets, bus terminals and connectivity. The benchmarks for benefits across segments were
+
+based on published research in Bangladesh with population and vehicle population as predominant drivers. In the absence
+
+of benchmarks, the benefits across components and the impact due to clustering of projects are assumed conservatively.
+
+The Project is expected to create substantial additional economic, environmental, and social benefits that have not been
+
+included in the analysis due to lack of data at the time of project appraisal. These include savings in terms of reduced road
+
+accidents, economic benefits from savings in medical expenses and gain from labor income with improved livelihood
+
+opportunities, unhindered access to essentials reduction in flood related damages due to drainage improvement. Road
+
+system and streetscape improvements are likely to reduce GHG emissions with reduced traffic congestion while open
+
+green space will add to improving environmental quality. Parks and community centers are expected to improve both
+
+mental and physical well-being of the citizens. The analysis considered both “with” and “without” project scenarios. An
+
+ex-ante estimation of a possible distribution of the different types of sub-projects20 at cluster levels suggests an economic
+
+rate of return of 32.04 percent.21 The economic rate of return continues to be above 30 percent even with a 10 percent
+
+reduction in quantifiable benefits.
+
+
+
+ B. Fiduciary
+
+57. The Project satisfies the IDA Scale Up Window (SUW) eligibility criteria. The proposed Project total financing of
+
+US$400 million equivalent will consist of concessional Shorter Maturity Loan (PBA-SML) credit in the amount of US$95
+
+million, and a Scale-Up Window Shorter Maturity Loan (SUW-SML) credit in the amount of US$205 million; and non-
+
+concessional regular Scale-Up Window Loan (SUW) in the amount of US$100 million. The Project was endorsed for regular
+
+SUW financing, given its (a) expected robust development impact and growth dividend, (b) alignment with IDA priorities,
+
+particularly Jobs and Economic Transformation, and for climate change, and cross-cutting topics such as Governance and
+
+Institutions. The use of regular SUW will not lead to the deterioration of the country’s risk of debt distress. The project
+
+was also endorsed for SUW SML, given its alignment with IDA priorities above. It also offers the country the opportunity
+
+to prioritize the completion of the implementation of the several revenue generating activities it has earmarked for most
+
+of the participating Pourashavas to enhance their independence from Government subvention as their own source
+
+revenues grow. Bangladesh is eligible to receive SUW-SML financing and remained at low risk of debt distress in the latest
+
+Joint Bank-Fund DSA completed in October 2023.
+
+Financial Management (FM)
+
+58. FM will be carried out by the PMU with support from a Financial Management Specialist (FMS) who will report to
+
+the Project Director. FM risks include: (i) delayed recruitment of qualified FM personnel; (ii) lack of FM capacity in the
+
+
+
+
+
+19The government assessed a portfolio of subprojects that contained 44 road and drain projects, and another 5 so-called productive investments.
+
+20The ex-ante estimation assumes that most of the subprojects estimated to fall in the category of so-called non-revenue investments (that includes
+
+transport and drainage infrastructure) is expected to make up the bulk of the investments at Pourashava level. These investments will be
+
+complemented by so-called productive investments that are referring to different types of urban markets, transport terminals, parks, and community
+
+centers (the economic viability of only a very small sample of subprojects had been assessed at the time of appraisal).
+
+21 Under current Bank guidelines, a project is marked economically feasible when the economic rate of return (ERR) exceeds the hurdle rate of 6
+
+
+
+percent.
+
+
+
+                                                                                                                                          Page 14
+
+Pourashava and City Corporations, and a poor internal control environment; (iii) inordinate delays in resolving external
+
+audit observations and implementation of the recommendation of the internal auditor; and (iv) lack of efficient inventory
+
+and asset management, especially at the Pourashava and City Corporation levels. Mitigation measures include: (i)
+
+conducting advance procurement to have the FMS in place when the credit becomes effective; (ii) carrying out periodic
+
+internal audits to assess operational efficiency and to strengthen the internal control environment through
+
+implementation of an agreed action plan; (iii) strengthening inventory management procedures; (iv) introducing an
+
+effective asset management system; (v) arranging periodic bipartite/tripartite meetings involving project representatives,
+
+the ministry, Pourashavas/City Corporations and external auditors (Foreign Aided Project Audit Directorate, FAPAD); and
+
+(vii) establishing audit committees to follow up on the implementation of audit recommendations and to provide
+
+appropriate clarifications on external audit reports.
+
+59. Certain parts/expenditures which would be financed on a joint financing basis using counterpart funds and a specific
+
+financing percentage outlined in the Financing Agreement. There are expenditures which will be financed only with
+
+counterpart funds including items that cannot be financed as per Country Financing Parameters (e.g., vehicles, fuel, etc.).
+
+60. Funds Flow, Disbursement, and Monitoring: The applicable disbursement method would be based on Interim
+
+Unaudited Financial Reports (IUFRs) and disbursement may be sought as “advance reimbursement” and “direct payment”.
+
+Two Designated Accounts (DAs) (one for PBC and the other for non-PBC) will be established in a nationalized commercial
+
+bank acceptable to IDA, in the form of Convertible Taka Special Account, managed by LGED. Expenditures incurred against
+
+the advances deposited in the DAs will be documented based on the payments reported in quarterly IUFRs.
+
+Procurement
+
+61. Procurement will be carried out in accordance with the World Bank Procurement Regulations for IPF Borrowers,
+
+Fifth Edition, September 2023 (“Procurement Regulations”) and the provisions stipulated in the Project Procurement
+
+Strategy for Development (PPSD) and the procurement plan. The project will also be subject to the World Bank’s
+
+Anticorruption Guidelines, dated October 15, 2006, and revised in January 2011 and July 2016. The project will use the
+
+World Bank’s Systematic Tracking of Exchanges in Procurement (STEP) to plan, record, and track procurement
+
+transactions. Procurement will be done at the LGED and Pourashava and City Corporation levels. All procurements, in
+
+applicable cases, shall be carried out by all project implementing agencies in the Bangladesh e-GP system.
+
+62. Procurement will involve goods, works, consulting and non-consulting services. LGED will be responsible for the
+
+procurement of goods, consulting, and non-consulting services, while the selected Pourashavas and City Corporations will
+
+be responsible for procurement of works for their respective sub-projects. LGED has been involved in other Bank-funded
+
+projects and has substantial experience in handling procurement under World Bank and other development partners
+
+financed projects. Some of the proposed Pourashavas also have familiarity with the overall World Bank procedures. The
+
+Pourashavas and City Corporations will implement their procurement activities with comprehensive support of LGED.
+
+Pourashavas with less familiarity with World Bank Procurement Regulations will be provided with training.
+
+63. LGED has prepared a draft Project Procurement Strategy for Development (PPSD) with assistance from the Bank.
+
+Residual procurement risk after mitigation measures is assessed as ‘Substantial’. The key risks are (i) involvement of a
+
+large number of local bodies with varying capacity; (ii) weak technical and procurement capacity of Pourashava staff; (iii)
+
+slow decision making and government approval processes and (iv) weak internal control functions and limited
+
+accountability. These are mitigated through close monitoring with the support of the DSM, hiring experienced
+
+procurement consultants, regular fiduciary trainings, reviews monitoring of procurement activities by LGED and a robust
+
+complaint management system. The Use of Rated Criteria will be mandatory for all international procurements of goods,
+
+works and non-consulting services. The PPSD includes the procurement cycle timeline which will be used to measure
+
+performance. The World Bank’s procurement supervision will be ensured through implementation support in the form of
+
+prior review for major contracts and post review for other contracts on an annual basis based on need.
+
+
+
+
+
+
+
+
+
+                                                                                                                   Page 15
+
+ C. Legal Operational Policies
+
+64. The OP 7.50 directive on International Waterways is applicable to this Project as it will finance activities that may
+
+use or risk polluting waters of the Padma, Brahmaputra, Meghna, Feni, Karnaphuli rivers and/or their tributaries, which
+
+are considered international waterways. The exception to the riparian notification requirement according to paragraph
+
+7(a) of the Policy applies because activities are limited to upgrading and modernization of localized drainage improvement
+
+work which will not adversely change the quantity and quality of water flows to another riparian. The exception to the
+
+notification requirement has been approved by World Bank management on December 6, 2023.
+
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@padlegalpolicy#doctemplate
+
+ Legal Operational Policies                                                           Triggered?
+
+ Projects on International Waterways OP 7.50                                          Yes
+
+ Projects in Disputed Area OP 7.60                                                    No
+
+
+
+
+
+ D. Environmental and Social
+
+65. Environmental and social impacts of sub-projects in some of the Nodal cities for infrastructure for adapting to
+
+climate change and natural disasters with possible implications for the cluster. These will include regional bus terminals,
+
+community centers, and markets may have pronounced impacts. Environmental concerns encompass potential water
+
+pollution from construction runoff, inadequate drainage systems leading to climate change impacts, and air pollution
+
+during construction. However, these impacts are generally temporary and limited to the construction phases and will be
+
+mitigated per the provisions of the Environmental and Social Management Framework (ESMF) and ESIA. Solid and liquid
+
+waste management from the infrastructure such as kitchen markets and bus terminals will require proper collection and
+
+disposal during operation phase. Environmental risk has been assessed as Substantial. Social risks are also substantial due
+
+to the location and scale of civil works for these small and medium size infrastructure. A few of these may involve land
+
+acquisition (using counterpart funds) of varied scales and involuntary resettlement of project affected people (PAPs)
+
+largely with economic displacement, especially in the Nodal cities. Even though construction workers will be plentiful at
+
+the Pourashavas, the social risks also account for unavoidable influx of non-local laborers and the associated risk of GBV
+
+including sexual exploitation and abuse (SEA) and sexual harassments (SH) at works sites and in the neighboring
+
+communities. Based on the Bank's SEA/SH Risk Assessment Tool for civil works investments and the project's SEA/SH risks
+
+are assessed as "Moderate." In realizing the potential risk and impacts, the project has developed measures for the
+
+GBV/SEA/SH action plan accordingly to respond to the related risks and ways to best manage those risks. A SEA/SH Action
+
+plan will be developed to support the implementation of SEA/SH mitigation measures. Some of the mitigation measures
+
+will include sensitizing of the implementing agencies, contractors, and workers, raising community awareness, mapping
+
+of GBV service providers, and signing of code of conduct by project workers. Overall E&S risks are rated substantial.
+
+66. Investments for revenue generation and improvement of cost recovery approaches may affect citizens of all
+
+economic classes, if not inclusive. Presence of ethnic minority communities with distinct characteristics of indigenous
+
+peoples is not likely in urban areas and their lands will be avoided for any civil works at any other locations in adjacent
+
+rural areas. Efforts will be made to minimize land acquisition and physical displacement by using available land, where
+
+possible.
+
+67. A framework approach for managing environmental and social (E&S) risks has been adopted given that the exact
+
+locations of the sub-projects will be finalized during the implementation; once finalized a detailed and precise
+
+assessment of potential risks will be conducted. The LGED has prepared necessary E&S documents, including an ESMF,
+
+Labor Management Procedure (LMP), Stakeholder Engagement Plan (SEP), Resettlement Policy Framework (RPF), and
+
+Ethnic Minority Community Framework (EMCF) to guide E&S risk management. The ESMF outlines principles and
+
+guidelines for addressing E&S risks, including procedures for risk screening and the use of appropriate E&S tools. Site-
+
+specific E&S assessments will be conducted, proportionate to the E&S risk level of the sub-projects as revealed through
+
+
+
+                                                                                                                   Page 16
+
+the screening process and ESMPs) and where required, RAP and EMCP will be prepared, budgeted, and implemented to
+
+address site-specific E&S concerns. In addition, LGED has prepared an ESCP in agreement with the World Bank to outline
+
+actionable steps, timelines, responsibilities, and capacity development efforts for E&S risks management. The ESMF will
+
+be updated, if the Contingency Emergency Response Component (CERC) is activated, contingent on the nature and scope
+
+of any emergencies that may arise. All these documents have been reviewed and cleared by the World Bank for public
+
+disclosure.
+
+68. The ESS8 on Cultural Heritage is also relevant as some of the nodal cities are historically old with listed or recognized
+
+heritage sites in and around the cities. Although the activities under the project are not likely to influence any of the
+
+known heritage sites, the ESMF will include a Chance Finds Procedure to illustrate the course of action to be taken in case
+
+any culturally significant objects/practices are discovered during implementation.
+
+Citizen engagement
+
+69. Citizen engagement is to ensure the contribution of citizens to the successful implementation of the project. This is
+
+described in the SEP and in the LMP. The project will ensure that beneficiaries participate in consultations for project
+
+planning, implementation, and evaluation, and will monitor this in the Results Framework. Strategies and detailed plans
+
+for consultations as well as their associated costs are budgeted, and the grievance mechanism will include the actions for
+
+the identification and processing of complaints. The project will aim to minimize potential impacts, conflicts, and
+
+dissatisfaction of stakeholders on the project or any of its interventions. The preparation and disclosure of SEP will also
+
+be included in the ESCP. Project-affected parties will have access, as appropriate, to project grievance mechanisms, local
+
+grievance mechanisms, the World Bank's corporate Grievance Redress Service and the World Bank Inspection Panel. The
+
+share of grievances reported through the project grievance redress mechanisms that are responded to and addressed will
+
+be monitored in the project Results Framework.
+
+Gender
+
+70. Most urban areas in Bangladesh lack systemic and prioritized consideration for women’s safety, access, and usability
+
+– restricting opportunities to benefit from social and economic activities that urban areas offer.22 Key underlying issues
+
+causing gender gaps in access to urban services include (i) under-representation of women in urban planning, design, and
+
+decision-making23 which translates into a lack of prioritization and funding for investments that respond to women’s needs
+
+and (ii) infrastructure design and public spaces which do not take into consideration women’s needs24 and risks of GBV.25
+
+The project will support: (i) increasing women’s leadership and representation in urban planning, design, and decision-
+
+making by requiring TLCCs to appoint women as co-chairs and as members. With the chair, the co-chair will have a
+
+substantive decision-making role in the selection and design of sub-projects; (ii) training and capacity building for women
+
+in leadership and as members in TLCCs; and (iii) integrating gender-sensitive features (e.g., adequate pavements,
+
+sidewalks, lighting, public toilets, dedicated open spaces, etc.) in infrastructure design as identified by the community.
+
+Universal accessibility
+
+71. Sub-projects under Component 1 will be designed to increase accessibility for all urban residents, including persons
+
+with disabilities. The project will invite community members to participate in the planning, designing, and
+
+implementation processes, including the poor, women, the elderly, and persons with disabilities . This will be
+
+complemented by capacity building activities under Component 2, including introductory sessions and technical training
+
+on disability inclusion and universal accessibility, to raise the awareness of participating Pourashavas/City Corporations
+
+and LGED officials on the benefits of implementing considerations of universal accessibility, as well as to identify the
+
+
+
+22 With regards to urban transport services, access is limited for women in terms of mobility and walkability due to a mixture of poorly designed
+
+and planned infrastructure and services (such as lack of adequate pavements, sidewalks, lighting, public toilets, and dedicated spaces).
+
+23 In the 2016 local elections, only 12 women were elected as chairpersons out of 1,251 Union Parishads.
+
+24 2017 report by Action Aid on “Gender Responsive City Structure” stated that in a survey of Dhaka city, 42% of women mentioned the lack of
+
+
+
+security in parks and open spaces as preventing them from fully accessing these places. The situation of public toilets is also very critical. Some
+
+96% of those interviewed mentioned lack of security 96%, inadequate number 95%, 54% unhygienic, and 91.5% unusable.
+
+25 According to the 2015 Violence Against Women Survey in Bangladesh, the third most likely location for sexual violence after their place of work
+
+
+
+and their husbands’ home was vehicles/roads/streets (Bangladesh Bureau of Statistics, 2016)
+
+
+
+                                                                                                                                            Page 17
+
+challenges and opportunities. Technical training, tailored to the type of infrastructure and services selected by the
+
+different Pourashavas/City Corporations, will support subproject preparation under Component 1.
+
+Climate Co-Benefits
+
+72. The Project will support participating cities to identify climate risks, and mainstream climate adaptation and
+
+mitigation planning in their planning and investments. Through eligible expenditures, they can improve climate resilience
+
+and low carbon development. Additional climate change considerations are mainstreamed throughout the project’s
+
+design, including urban planning and infrastructure features that take into consideration the identified disaster and
+
+climate risks of the city and specific sites, as well as the use of materials and technologies that contribute to lower
+
+emissions. All interventions will incorporate measures to mitigate heat stress (e.g., increase green spaces, restore water
+
+bodies). Finally, the project itself is intended to be an initiative through which targeted cities, clusters and the urban
+
+communities can engage in practical solutions to address climate and disaster risks. As part of the preparation for the
+
+project, an urban climate risk assessment was conducted which details the level and distribution of various types of climate
+
+and disaster risks for the 14 nodal cities and seven clusters under present and future contexts.26 The analysis has helped
+
+with investment planning for local urban level actions and the incorporation of climate and disaster risk resilience
+
+measures in project activities. More details are provided in a separate Technical Note on the project’s expected climate
+
+Co-Benefits (CCB). The CCB team evaluated the climate commitment of the project at decision review and concluded that
+
+total climate co-benefit is US$209 million and 52.4 percent (more can be achieved with close targeting).
+
+
+
+ V. GRIEVANCE REDRESS SERVICES
+
+73. Grievance Redress. Communities and individuals who believe that they are adversely affected by a project supported
+
+by the World Bank may submit complaints to existing project-level grievance mechanisms or the Bank’s Grievance
+
+Redress Service (GRS). The GRS ensures that complaints received are promptly reviewed in order to address project-
+
+related concerns. Project affected communities and individuals may submit their complaint to the Bank’s independent
+
+Accountability Mechanism (AM). The AM houses the Inspection Panel, which determines whether harm occurred, or
+
+could occur, as a result of Bank non-compliance with its policies and procedures, and the Dispute Resolution Service,
+
+which provides communities and borrowers with the opportunity to address complaints through dispute resolution.
+
+Complaints may be submitted to the AM at any time after concerns have been brought directly to the attention of Bank
+
+Management and after Management has been given an opportunity to respond. For information on how to submit
+
+complaints to the Bank’s Grievance Redress Service (GRS), visit http://www.worldbank.org/GRS. For information on how
+
+to submit complaints to the Bank’s Accountability Mechanism, visit https://accountability.worldbank.org.
+
+
+
+
+
+ VI. KEY RISKS
+
+
+
+The overall risk to achieving the PDO is Substantial.
+
+74. Institutional capacity for implementation and sustainability risk - Substantial. Institutional capacity risk is rated
+
+substantial due to weak Pourashava and City Corporation capacity for implementation, and the lack of Pourashava/Union
+
+Parishad cooperation arrangements. This risk is mitigated by the role of the LGED as implementing agency due to its
+
+extensive experience in urban infrastructure projects funded by the World Bank and its country-wide presence. RUTDP
+
+preparation has introduced the use of Memorandum of Understanding (drafted by LGED, cleared by the Bank to be
+
+administered by PMU), a Legally binding instrument, to be signed between the Pourashavas and the Union Parishads to
+
+allow cross-boundary investments such as basin-wide drainage systems that benefit both entities, but which is prohibited
+
+by the Local Government Act 2009. This institutional risk will be mitigated by the innovative development of an alternative
+
+arrangement for Pourashavas/Union Parishad boundary coordination and cooperation that is being piloted under the
+
+project. Further, institutional risk would also be mitigated by the recruitment of DSM consultants with budget to monitor
+
+
+
+
+
+26   Urban Climate Risk Analysis, Global Facility for Disaster Reduction and Recovery’s (GFDRR) City Resilience Program (CRP), September 2023.
+
+
+
+                                                                                                                                            Page 18
+
+progress and provide institutional strengthening support to the PIUs. PMU will report on progress through quarterly
+
+implementation reports and will be verified by Bank missions.
+
+75. Fiduciary risk - Substantial. Fiduciary risks are substantial due to weak technical capacity of the procurement and FM
+
+staff at the Pourashava /PIUs, and the lack of familiarity of some of Pourashavas/ City Corporations with the World Bank’s
+
+Procurement Regulations. Other risks include possible delays in procurement due to weak technical preparation, slow
+
+decision making and government approval processes, the risk of fraud and corruption primarily due to weak internal
+
+control functions and asset management practices in the Pourashavas. These risks will be mitigated through capacity
+
+building and technical assistance, and by: (i) assigning qualified staff in LGED; (ii) hiring of qualified Procurement
+
+consultants on a need-based approach with Terms of References acceptable to the World Bank; (iii) hiring a DSM
+
+consultant for the technical preparation of procurement documents and supervision of contract implementation; (iv)
+
+reviewing and monitoring of procurement activities of Pourashavas by LGED; (v) using the government’s electronic
+
+procurement (e-GP) system for applicable cases; and (vi) providing fiduciary training to relevant officials.
+
+76. Environment and Social Risk - Substantial. While the environmental and social impacts in Pourashavas and city
+
+corporations are expected to be limited, activities in Nodal cities, particularly the construction of larger infrastructure such
+
+as regional bus terminals, community centers, and wholesale/Pourashava markets, could have more pronounced impacts.
+
+These risks will be mitigated through comprehensive considerations of various environmental and social issues throughout
+
+the project's lifecycle, including robust screening and impact assessment processes, use of eligible and negative scheme
+
+lists, and preparation and implementation of requisite E&S planning documents including ESMPs, RAPs and EMCP
+
+following the Project (ESMF, LMP, SEP, RPF, EMCF). LGED has allocated a budget for the implementation of the ESMF,
+
+which will include training for Pourashavas and City Corporations for the management of E&S and oversight by the PMU
+
+and DSM.
+
+77. Stakeholder risk – Substantial. Project design will require intensive engagement with a broad range of stakeholders
+
+at the city-, cluster-, and national levels, however, Pourashavas have weak outreach and limited capacity to engage with
+
+stakeholders, including those that might hold opposing views. To mitigate this risk, the Project will utilize extensive
+
+information, education, and communication campaigns, followed by a participatory capital investment planning process
+
+to identify, and prioritize investments with inputs from all key stakeholders. This will include inputs from professional
+
+planning and municipal engineering groups with experience in participatory planning.
+
+
+
+
+
+
+
+
+
+                                                                                                                        Page 19
+
+        The World Bank
+
+        Bangladesh Resilient Urban and Territorial Development Project(P178985)
+
+
+
+
+
+
+
+                                                               VII. RESULTS FRAMEWORK AND MONITORING
+
+
+
+
+
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@padannexresultframework#doctemplate
+
+PDO Indicators by PDO Outcomes
+
+
+
+   Baseline                                                                                  Closing Period
+
+                                                 Enhance access to climate resilient urban infrastructure and services in selected clusters
+
+   People with enhanced resilience to climate risks (Number (Thousand))
+
+   Jul/2024                                                                                  Oct/2030
+
+   0                                                                                         17000
+
+     ➢Of which female beneficiaries (Number (Thousand))
+
+   Jun/2024                                                                                  Oct/2030
+
+   0                                                                                         9500
+
+   Users satisfied with enhanced climate resilient infrastructure and services provided by the project (Percentage)
+
+   Jun/2024                                                                                  Oct/2030
+
+   0                                                                                         80
+
+     ➢Of which female users satisfaction (Percentage)
+
+   Jun/2024                                                                                  Sept/2030
+
+   0                                                                                         45
+
+                                                            Strengthen urban management capacity in selected urban clusters.
+
+   Pourashava Development Plans, adopted by Nodal Cities, each of which incorporates a Cluster Development Plan and a Climate Resilience Action Plan. (Number) PBC
+
+   Jul/2024                                                                                  Oct/2030
+
+   0                                                                                         14
+
+   Nodal Cities and Pourashavas have increased their own source revenues by 20 percent from the baseline. (Number) PBC
+
+   Jul/2024                                                                                  Oct/2030
+
+   0                                                                                         81
+
+   Operation and maintenance plans approved and implemented by the Pourashavas (Number)
+
+   Jun/2024                                                                                  Sept/2030
+
+   0                                                                                         81
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                     Page 20
+
+        The World Bank
+
+        Bangladesh Resilient Urban and Territorial Development Project(P178985)
+
+
+
+
+
+Intermediate Indicators by Components
+
+
+
+   Baseline                                                                                 Closing Period
+
+                                                       Component 1: Climate Resilient Urban Services and Infrastructure Investments
+
+   Length of improved access to sustainable transport infrastructure (urban and rural roads) and services. (Kilometers)
+
+   Jul/2024                                                                                 Oct/2030
+
+   0                                                                                        780
+
+   Length of drains constructed or improved. (Kilometers)
+
+   Jul/2024                                                                                 Oct/2030
+
+   0                                                                                        413
+
+   Length of new or upgraded pedestrian walkways and footpaths constructed or improved. (Kilometers)
+
+   Jul/2024                                                                                 Oct/2030
+
+   0                                                                                        350
+
+   Area of new or improved walkable public spaces built. (Hectare(Ha))
+
+   Jul/2024                                                                                 Oct/2030
+
+   0                                                                                        50
+
+   Municipal (Poura) and wholesale markets constructed or improved. (Number)
+
+   Jul/2024                                                                                 Oct/2030
+
+   0                                                                                        10
+
+                                               Component 2: Institutional Strengthening, TA ,Project Management and Operational Support
+
+   Beneficiaries involved in consultations for project planning/ implementation/evaluation. (Number (Thousand))
+
+   Jul/2024                                                                                 Oct/2030
+
+   0                                                                                        15
+
+     ➢Of which female beneficiaries. (Number (Thousand))
+
+   Jul/2024                                                                                 Oct/2030
+
+   0                                                                                        8
+
+   Share of grievances received that are addressed. (Percentage)
+
+   Jul/2024                                                                                 Oct/2030
+
+   0                                                                                        100
+
+   Training modules developed and updated by LGED. (Number)
+
+   Jul/2024                                                                                 Oct/2030
+
+   0                                                                                        10
+
+
+
+
+
+
+
+
+
+                                                                                                                                          Page 21
+
+        The World Bank
+
+        Bangladesh Resilient Urban and Territorial Development Project(P178985)
+
+
+
+
+
+   Nodal Cities and Pourashavas have established a Town-Level Coordinating Committees (TLCCs) with at least one-third female membership and female panel mayor as a co-chair.
+
+   (Number) PBC
+
+   Jul/2024                                                                               Jun/2026
+
+   0                                                                                      81
+
+   Urban market stakeholders trained on risks related to hygiene and food safety. (Number)
+
+   Jul/2024                                                                               Oct/2030
+
+   0                                                                                      1000
+
+   Women accessing urban infrastructure services and public spaces. (Percentage)
+
+   Jun/2024                                                                               Sept/2030
+
+   0                                                                                      20
+
+                                                                   Component 3: Contingent Emergency Response
+
+
+
+
+
+Performance-based Conditions (PBC)
+
+
+
+   Period                                                                                 Period Definition
+
+   Period 0                                                                               July 1, 2024 to June 30, 2025
+
+   Period 1                                                                               July 1, 2025 to June 30, 2026
+
+   Period 2                                                                               July 1, 2026 to June 30, 2027
+
+   Period 3                                                                               July 1, 2027 to June 30, 2028
+
+   Period 4                                                                               July 1, 2028 to June 30, 2029
+
+
+
+   Baseline                    Period 1                      Period 2                    Period 3                       Period 4                   Period 5
+
+   1:Pourashava Development Plans, adopted by Nodal Cities, each of which incorporates a Cluster Development Plan and a Climate Resilience Action Plan. (Number )
+
+   0                                                         14
+
+   13,750,000.00               0.00                          0.00                        0.00                           0.00                       0.00
+
+   PBC allocation                                            13,750,000.00               As a % of Total PBC Allocation                            36.91%
+
+   2:Nodal Cities and Pourashavas have increased their own source revenues by 20 percent from the baseline. (Number )
+
+   0                                                                                                                                               81
+
+   15,000,000.00               0.00                          0.00                        0.00                           0.00                       0.00
+
+   PBC allocation                                            15,000,000.00               As a % of Total PBC Allocation                            40.27%
+
+   3:Nodal Cities and Pourashavas have established a Town-Level Coordinating Committees (TLCCs) with at least one-third female membership and female panel mayor as a co-chair.
+
+   (Number )
+
+   0                                                         81                          0
+
+
+
+
+
+
+
+                                                                                                                                                                           Page 22
+
+     The World Bank
+
+     Bangladesh Resilient Urban and Territorial Development Project(P178985)
+
+
+
+
+
+8,500,000.00            0.00                   0.00                    0.00                           0.00   0.00
+
+PBC allocation                                 8,500,000.00            As a % of Total PBC Allocation        22.82%
+
+
+
+
+
+
+
+
+
+                                                                                                                      Page 23
+
+        The World Bank
+
+        Bangladesh Resilient Urban and Territorial Development Project (P178985)
+
+
+
+
+
+
+
+Monitoring & Evaluation Plan: PDO Indicators by PDO Outcomes
+
+
+
+Enhance access to climate resilient urban infrastructure and services in selected clusters
+
+People with enhanced resilience to climate risks (Number (Thousand))
+
+                            People provided with access to at least one type of enhanced urban infrastructure under the project that incorporate
+
+                            climate risk management measures and are based on analysis of past patterns and trends, as well as future projections of
+
+                            use. The types of urban infrastructure services include the following:
+
+                            •     people within one kilometer range of the new or enhanced roads with street furniture, plantation, traffic
+
+                                  management and road safety features, and gender-inclusive design features (e.g., adequate pavements, footpaths,
+
+                                  streetlights/lighting, etc.);
+
+                            •     people within 1000 meter range of new or enhanced drainage systems;
+
+Description                 •     people in the within 1000 meter range of the new or enhanced walkways and footpaths with gender-inclusive design
+
+                                  features (e.g., adequate pavements, footpaths, streetlights/lighting, etc.);
+
+                            •     people, including disabled, aged, and children, within a 1000 meter range of new or enhanced walkable public spaces
+
+                                  (such as parks, green spaces, water-side developments) with gender-inclusive design features (e.g., adequate
+
+                                  pavements, footpaths, streetlights/lighting, public toilets and dedicated open spaces); and
+
+                            •     people within 1000-meter range of new or enhanced wet markets and wholesale markets that have provisions for
+
+                                  drainage systems, access to clean water, and waste disposal; and integrate gender-inclusive design features (e.g.,
+
+                                  lighting, dedicated open spaces, and public toilets).
+
+Frequency                    Annually
+
+Data source                  PMU / Consultant Reports
+
+Methodology for Data Collection            This indicator will be measured based on MGSP WB Guidelines
+
+Responsibility for Data Collection         PMU / PIUs / Consultants
+
+Of which female beneficiaries (Number (Thousand))
+
+                             Description, frequency, data source, methodology for data collection and Responsibility for data collection same as for
+
+Description
+
+                            men
+
+Users satisfied with enhanced climate resilient infrastructure and services provided by the project (Percentage)
+
+                            Percentage of users expressing satisfaction with improved urban infrastructure under the project that incorporates
+
+                            climate risk management measures and are based on analysis of past patterns and trends, as well as future projections of
+
+                            use. The types of urban infrastructure services include the following:
+
+                            •     new or improved roads with street furniture, plantation, traffic management and road safety features, and gender-
+
+                                  inclusive design features (e.g., adequate pavements, footpaths, streetlights/lighting, etc.).
+
+                            •     new or improved drains.
+
+Description                 •     new or improved walkways and footpaths with gender-inclusive design features (e.g., adequate pavements,
+
+                                  footpaths, streetlights/lighting, etc.).
+
+                            •     new or improved walkable public spaces (such as parks, green spaces, water-side developments) with gender-
+
+                                  inclusive design features (e.g., adequate pavements, footpaths, streetlights/lighting, public toilets and dedicated
+
+                                  open spaces); and
+
+                            of new or improved wet markets and wholesale markets that have provisions for drainage systems, access to clean
+
+                            water, and waste disposal; and integrate gender-inclusive design features (e.g., lighting, dedicated open spaces, and
+
+                            public toilets).
+
+Frequency                    Two times [6 months before mid term review; 6 months before closing of RUTDP SOP1]
+
+Data source                  PMU / Consultant Reports
+
+                             This indicator will be measured based on surveys to be conducted on an annual basis after the urban infrastructure sub-
+
+Methodology for Data
+
+                            projects enter service. The surveys will disaggregate the gender of the respondents. User satisfaction could be measured
+
+Collection
+
+                            using a 5-point scale (1: unsatisfied; 2: moderately satisfied; 3: neutral; 4: moderately satisfied; 5: satisfied).
+
+Responsibility for Data Collection       PMU / DSM / PIUs / Consultants
+
+Of which female users satisfaction (Percentage)
+
+                             Description, frequency, data source, methodology for data collection and Responsibility for data collection same as for
+
+Description
+
+                            men
+
+Strengthen urban management capacity in selected urban clusters.
+
+
+
+
+
+                                                                                                                                           Page 24
+
+        The World Bank
+
+        Bangladesh Resilient Urban and Territorial Development Project (P178985)
+
+
+
+
+
+Pourashava Development Plans, adopted by Nodal Cities, each of which incorporates a Cluster Development Plan and a Climate Resilience Action
+
+Plan. (Number) PBC
+
+                            Number of PDPs incorporating Cluster Development Plans and climate resilience action plans that are approved and
+
+                            implemented by the selected Nodal cities following technical assistance under the project. Implementation of the plans
+
+Description
+
+                            requires that annual budget resources are allocated in the city budgets and the relevant departments execute the plans.
+
+                            Detailed requirements for the plans are included in the Project Implmentation Manual.
+
+Frequency                    Annually
+
+Data source                  PMU / Consultant Reports
+
+                                       This indicator will be collected from PMU progress reports and measured based on the monitoring of the PMU
+
+Methodology for Data Collection
+
+                                      and consultants. It will be assessed once each participating Nodal city approves and implements the plans.
+
+Responsibility for Data Collection     PMU / DSM / PIUs / Consultants
+
+Nodal Cities and Pourashavas have increased their own source revenues by 20 percent from the baseline. (Number) PBC
+
+                            The Selected Nodal Cities and Pourashavas have increased own source revenue (OSR) by 20% from the baseline. This
+
+                            PBC is progressively scalable and calculated at USD 246,913 /Selected Nodal City or Pourashava that achieves PBC2, and
+
+Description                 the achievement of this PBC by the Selected Nodal City or Pourashavas will be verified at the end of each Fiscal
+
+                            Year. Each Selected Nodal City or Pourashava that achieves this PBC will only be eligible to receive the PBC allocation
+
+                            once during the Project implementation period.
+
+Frequency                   Annually
+
+Data source                 PMU, PAM, Consultant Reports
+
+Methodology for Data Collection          PMU, MSU and PAM progress reports verified during missions by Bank’s FM Specialist
+
+Responsibility for Data Collection       PMU/MSU/PAM
+
+Operation and maintenance plans approved and implemented by the Pourashavas (Number)
+
+                             Number of operation and maintenance plans that are approved and implemented by the participating Pourashavas
+
+                            following capacity building under the project. Implementation of the plans requires that that required annual budget
+
+Description
+
+                            resources are allocated in the Pourashava budgets and the relevant departments execute the plans. Detailed
+
+                            requirements for the plans are included in the Project Implementation Manual.
+
+Frequency                    Annually
+
+Data source                  PMU / Consultant Reports
+
+                                        This indicator will be collected from PMU progress reports and measured based on the monitoring of the
+
+Methodology for Data Collection
+
+                                        PMU and consultants. It will be assessed once each participating Pourashavas approves the plans.
+
+Responsibility for Data Collection      PMU / DSM / PIUs / Consultants
+
+
+
+
+
+Monitoring & Evaluation Plan: Intermediate Results Indicators by Components
+
+
+
+Component 1: Climate Resilient Urban Services and Infrastructure Investments
+
+Length of improved access to sustainable transport infrastructure (urban and rural roads) and services. (Kilometers)
+
+                            Kilometers completed and put into service through project investments. Roads will integrate street furniture, plantation,
+
+Description                 traffic management and road safety features, and gender-inclusive design features (e.g., adequate pavements, footpaths,
+
+                            streetlights/lighting, etc.).
+
+Frequency                    Annually
+
+Data source                  PMU / Consultant Reports
+
+                                         This indicator will be collected from PMU progress reports and reports produced by the contractor and
+
+Methodology for Data Collection
+
+                                        verified by the supervisor.
+
+Responsibility for Data Collection       PMU / DSM / PIUs / Consultants
+
+Length of drains constructed or improved. (Kilometers)
+
+Description                  Kilometers completed and put into service through project investments
+
+Frequency                    Annually
+
+Data source                  PMU / Consultant Reports
+
+Methodology for Data         This indicator will be collected from PMU progress reports and reports produced by the contractor and verified by the
+
+
+
+
+
+                                                                                                                                            Page 25
+
+        The World Bank
+
+        Bangladesh Resilient Urban and Territorial Development Project (P178985)
+
+
+
+
+
+Collection                  supervisor.
+
+Responsibility for Data
+
+                             PMU / PIUs / Consultants
+
+Collection
+
+Length of new or upgraded pedestrian walkways and footpaths constructed or improved. (Kilometers)
+
+                             Kilometers completed and put into service through project investments. Pedestrian walkways and footpaths will
+
+Description
+
+                            integrate gender-inclusive design features (e.g., adequate pavements, footpaths, streetlights/lighting, etc.).
+
+Frequency                    Annually
+
+Data source                  PMU / Consultant Reports
+
+                                              This indicator will be collected from PMU progress reports and reports produced by the contractor and
+
+Methodology for Data Collection
+
+                                             verified by the supervisor.
+
+Responsibility for Data Collection            PMU / DSM / PIUs / Consultants
+
+Area of new or improved walkable public spaces built. (Hectare(Ha))
+
+                            Hectares of of new or improved public spaces constructed by project investments (including parks, green spaces, water-
+
+                            side developments) that are accessible to disabled people, aged people, and children. Public spaces will integrate gender-
+
+Description
+
+                            inclusive design features (e.g., adequate pavements, footpaths, streetlights/lighting, public toilets and dedicated open
+
+                            spaces).
+
+Frequency                    Annually
+
+Data source                  PMU / Consultant Reports
+
+                                            This indicator will be collected from PMU progress reports and reports produced by the contractor and
+
+Methodology for Data Collection
+
+                                           verified by the supervisor.
+
+Responsibility for Data Collection          PMU / PIUs / Consultants
+
+Municipal (Poura) and wholesale markets constructed or improved. (Number)
+
+                            Number of wet markets and wholesale markets that are constucted or improved that have provisions for drainage
+
+Description                 systems, access to clean water, and waste disposal; and integrate gender-inclusive design features (e.g., lighting,
+
+                            dedicated open spaces, and public toilets).
+
+Frequency                    Annually
+
+Data source                  PMU / Consultant Reports
+
+                                                This indicator will be collected from PMU progress reports and reports produced by the contractor and
+
+Methodology for Data Collection
+
+                                               verified by the supervisor.
+
+Responsibility for Data Collection              PMU / PIUs / Consultants
+
+Component 2: Institutional Strengthening, TA ,Project Management and Operational Support
+
+Beneficiaries involved in consultations for project planning/ implementation/evaluation. (Number (Thousand))
+
+                             Number of beneficiaries participating in consultation activities conducted in the planning, implementation, or evaluation
+
+Description
+
+                            of project investments.
+
+Frequency                    Annually
+
+Data source                  PMU / Consultant Reports
+
+Methodology for Data         This indicator will be collected from PMU progress reports and minutes of consultation meetings. The number of female
+
+Collection                  beneficiaries will be disaggregated.
+
+Responsibility for Data
+
+                             PMU / PIUs / Consultants
+
+Collection
+
+Of which female beneficiaries. (Number (Thousand))
+
+                             Description, frequency, data source, methodology for data collection and Responsibility for data collection same as for
+
+Description
+
+                            men
+
+Frequency                    Annually
+
+Data source                  PMU / Consultant Reports
+
+Methodology for Data         This indicator will be collected from PMU progress reports and minutes of consultation meetings. The number of female
+
+Collection                  beneficiaries will be disaggregated.
+
+Responsibility for Data
+
+                             PMU / PIUs / Consultants
+
+Collection
+
+Share of grievances received that are addressed. (Percentage)
+
+
+
+
+
+                                                                                                                                             Page 26
+
+        The World Bank
+
+        Bangladesh Resilient Urban and Territorial Development Project (P178985)
+
+
+
+
+
+                             Percentage of grievances reported through the project grievance redress mechanism that were responded to and
+
+Description
+
+                            addressed in a timely and satisfactory manner in accordance with the Project Implementation Plan
+
+Frequency                    Annually
+
+Data source                  PMU / Consultant Reports
+
+Methodology for Data Collection             To be collected from PMU progress reports and minutes of consultation meetings
+
+Responsibility for Data Collection          PMU / PIUs / Consultants
+
+Training modules developed and updated by LGED. (Number)
+
+                             Number of capacity building modules developed for on the topics of improvement of operational and financial
+
+                            performance, including increasing own-source revenue mobilization, municipal financial management systems,
+
+Description
+
+                            safeguards management, gender-responsive planning and design, and O&M of urban municipal (Poura) and wholesale
+
+                            markets.
+
+Frequency                    Annually
+
+Data source                  PMU / Consultant Reports
+
+                                       This indicator will be collected from PMU progress reports and measured based on the monitoring of the PMU
+
+Methodology for Data Collection
+
+                                       and consultants. It will be assessed once each participating Pourashava completes the preparation of the plans.
+
+Responsibility for Data Collection     PMU / PIUs / Consultants
+
+Nodal Cities and Pourashavas have established a Town-Level Coordinating Committees (TLCCs) with at least one-third female membership and
+
+female panel mayor as a co-chair. (Number) PBC
+
+                            Percentage of Town-Level Coordinating Committees of participating Nodal cities and Pourashavas with at least one third
+
+Description
+
+                            female members and a female panel mayor appointed as co-chair.
+
+Frequency                    Annually
+
+Data source                  PMU / Consultant Reports
+
+                                         This indicator will be collected from PMU progress reports and minutes of the Town-Level Coordinating
+
+Methodology for Data Collection         Committee meetings of participating Nodal cities and Pourashavas. These can be complemented by
+
+                                        perception surveys conducted at intermediate periods.
+
+Responsibility for Data Collection       PMU / Consultants
+
+Urban market stakeholders trained on risks related to hygiene and food safety. (Number)
+
+                            Number of vendors, municipal agents and inspectors who have received training on topics related to food safety, food
+
+Description
+
+                            waste management and risks related to hygiene
+
+Frequency                   Annually
+
+Data source                 PMU and consultants reports
+
+Methodology for Data        This indicator will be collected from PMU progress reports and measured based on the monitoring of the PMU and
+
+Collection                  consultants
+
+Responsibility for Data
+
+                            PMU
+
+Collection
+
+Women accessing urban infrastructure services and public spaces. (Percentage)
+
+Description                 Percentage increase in the number of women accessing improved urban infrastructure services and public spaces.
+
+Frequency                   Beginning (baseline), mid-term, and end-of-project
+
+Data source                 PMU/ Consultant reports
+
+                                          This indicator will be measured based on surveys of female beneficiaries. The methodology will be
+
+Methodology for Data Collection
+
+                                          elaborated in the PIM.
+
+Responsibility for Data Collection        PMU/ TPM/ COnsultant
+
+Component 3: Contingent Emergency Response
+
+
+
+
+
+
+
+
+
+                                                                                                                                             Page 27
+
+        The World Bank
+
+        Bangladesh Resilient Urban and Territorial Development Project (P178985)
+
+
+
+
+
+
+
+Verification Protocol: Performance Based Conditions
+
+
+
+ Pourashava Development Plans, adopted by Nodal Cities, each of which incorporates a Cluster Development Plan and a Climate Resilience
+
+Action Plan. (Number)
+
+                           A cluster development plan (CDP) for each of the seven (7) clusters has been prepared and approved by LGED, and a
+
+                          climate resilience action plan prepared for each Pourashavas. A Pourashava development plan (PDP) has been
+
+Formula
+
+                          prepared, incorporating the CDP and the climate resilience action plan following standardized guidelines issued by LGED,
+
+                          and with technical support from LGED and its consultants, and has been adopted by each of the 14 Nodal Cities
+
+                           CDP prepared and approved by LGED, climate resilience action plan prepared for each Pourashavas and both plans
+
+Description               incorporated into the PDP, and the PDP approved by their respective Pourasahva Councils, and recorded in the Minutes
+
+                          of the Pourashava Coordination Meetings
+
+                           Achievements of the PBC targets will be verified by an independent Performance Assessment Monitoring (PAM)
+
+                          consultants to be hired by LGED as per the Terms of Reference (ToRs) agreed with the World Bank. LGED will prepare
+
+Data source/ Agency       technical reports to document the status of achievement of PBC targets to the PAM. The PAM will verify based on the
+
+                          signed copy of the PDPs approved by the respective Pourashava Councils and recorded in the Pourashava Coordination
+
+                          Meeting Minutes.
+
+Verification Entity        Outlined in the M&E table.
+
+                           A cluster development plan (CDP) for each of the seven (7) clusters has been prepared and approved by LGED, and a
+
+                          climate resilience action plan prepared for each Pourashavas. A Pourashava development plan (PDP) has been
+
+Procedure
+
+                          prepared, incorporating the CDP and the climate resilience action plan following standardized guidelines issued by LGED,
+
+                          and with technical support from LGED and its consultants, and has been adopted by each of the 14 Nodal Cities
+
+ Nodal Cities and Pourashavas have increased their own source revenues by 20 percent from the baseline. (Number)
+
+                           The Selected Nodal Cities and Pourashavas have increased own source revenue (OSR) by 20% from the baseline. This
+
+                          PBC is progressively scalable and calculated at USD 246,913 /Selected Nodal City or Pourashava that achieves PBC2, and
+
+Formula                   the achievement of this PBC by the Selected Nodal City or Pourashavas will be verified at the end of each Fiscal
+
+                          Year. Each Selected Nodal City or Pourashava that achieves this PBC will only be eligible to receive the PBC allocation
+
+                          once during the Project implementation period.
+
+Description                Audited financial statements of the Selected Nodal City or Pourashavas
+
+                           Achievements of the PBC targets will be verified by independent PAM consultants to be appointed by LGED as per the
+
+Data source/ Agency
+
+                          TORs agreed with the World Bank
+
+Verification Entity        Outlined in the M&E table.
+
+                           The Selected Nodal Cities and Pourashavas have increased own source revenue (OSR) by 20% from the baseline. This
+
+                          PBC is progressively scalable and calculated at USD 246,913 /Selected Nodal City or Pourashava that achieves PBC2, and
+
+Procedure                 the achievement of this PBC by the Selected Nodal City or Pourashavas will be verified at the end of each Fiscal
+
+                          Year. Each Selected Nodal City or Pourashava that achieves this PBC will only be eligible to receive the PBC allocation
+
+                          once during the Project implementation period.
+
+ Nodal Cities and Pourashavas have established a Town-Level Coordinating Committees (TLCCs) with at least one-third female membership and
+
+female panel mayor as a co-chair. (Number)
+
+                           The target is for all the Selected Nodal Cities and Pourashavas to have TLCCs (with at least one-third female members
+
+Formula
+
+                          (already mandated by law) and co-chaired by a female panel mayor.
+
+Description               Data source/ Agency
+
+                           PBC will be verified by independent PAM consultant to be appointed by LGED as per the TORs agreed with the World
+
+Data source/ Agency       Bank, based on the approved TLCC membership as recorded in the TLCC meeting resolutions, and the notification issued
+
+                          by LGD designating the female panel mayor as a co-chair.
+
+Verification Entity        utlined in the M&E table.
+
+                           The target is for all the Selected Nodal Cities and Pourashavas to have TLCCs (with at least one-third female members
+
+Procedure
+
+                          (already mandated by law) and co-chaired by a female panel mayor.
+
+
+
+
+
+
+
+
+
+                                                                                                                                          Page 28
+
+        The World Bank
+
+        Bangladesh Resilient Urban and Territorial Development Project (P178985)
+
+
+
+
+
+
+
+                               ANNEX 1: Implementation Arrangements and Support Plan
+
+
+
+                                     COUNTRY: People's Republic of Bangladesh
+
+                            Bangladesh Resilient Urban and Territorial Development Project
+
+
+
+1. LGED will function under the overall guidance and supervision of the LGED Chief Engineer (CE). The Additional Chief
+
+Engineer (Urban Management) will assist the CE and provide support and guidance to the Project Director (PD). It will
+
+provide technical support to the Pourashavas and City Corporations to develop high quality sub-projects, not only through
+
+a quality assurance function, but also by promoting cross-fertilization of experiences and knowledge sharing across the
+
+participating Pourashavas and City Corporations. Project Implementation Units (PIUs) at the Pourashavas and City
+
+Corporations will implement subprojects under the supervision and monitoring of LGED. The PIM will detail the roles,
+
+responsibilities, and actions assigned to each of the implementing actors.
+
+2. The PSC will meet every six months or as needed. The PSC will include a Deputy Secretary, Joint Secretary (Planning
+
+wing) and Joint Secretary (Development) from LGD, representatives of Finance Division, Economic Relations Division, and
+
+Implementation Monitoring and Evaluation Division (IMED) of Ministry of Planning, representatives of concerned
+
+Sector/Division and Programming Division of Planning Commission, representative of General Economic Division, NEC-
+
+ECNEC & Coordination Wing of the Planning Division, representative from the Planning Unit of LGED, and RUTDP Project
+
+Director, LGED. Senior Assistant Secretary/Deputy Secretary (Planning) of concerned branch of LGD will serve as member-
+
+secretary of the PSC. The PMU will provide technical and administrative support to the PSC.
+
+3. The PIC will meet every six months and on a need basis and, where necessary, provide the PSC with technical and
+
+operational suggestions and recommendations. The PIC will include representatives from the Finance Division, Economic
+
+Relations Division, the Implementation Monitoring and Evaluation Division, the concerned Sector and Programming
+
+Division of Planning Commission, General Economic Division, NEC-ECNEC and Coordination Wing of the Planning
+
+Commission, representatives of the Planning wing and Development wing of LGD, representative of the Planning Unit and
+
+PD of LGED. A representative from the Planning Unit of LGED will serve as a member Secretary.
+
+4. The PMU will be headed by an appointed Project Director (PD). A senior engineer at the level of LGED Superintending
+
+Engineer, experienced in World Bank projects, will be appointed as the PD. The PD will be supported by two Deputy Project
+
+Directors (DPDs), three Senior Assistant Engineers (Sr. AEs), and other technical staff with qualifications and experience
+
+acceptable to the World Bank. The PD, DPDs, Sr. AEs, and other supporting staff will be deputed from existing LGED officials
+
+and seconded to the project. The PMU’s responsibilities will include: (i) preparation and execution of the Partne rship
+
+Agreements with the Nodal Cities, City Corporations and Pourashavas; (ii) preparation and execution of Memorandum of
+
+Understanding (MoU) between Pourashavas and the adjoining Union parishads, if necessary, included for investments;
+
+(iii) preparation of the first 18-months’ sub-projects; (iv) selection and management of consultants to assist PIUs and LGED
+
+for subproject preparation, design, supervision, and management (DSM), Third-Party Monitoring (TPM), Operational
+
+Audit, PAM, PMU and MSU Consultants and other consultants; (v) review and approve design and bid documents and bid
+
+evaluation reports prepared by the PIUs to ensure compliance with World Bank procurement guidelines; (vi) will supervise
+
+the PIUs in implementing subprojects in accordance with the Financing Agreement; (vii) approve payment certificates
+
+issued by the PIUs for works and O&M contracts and authorize payment; (viii) assist and evaluate eligibility of Nodal cities
+
+and Pourashavas to meet the PBCs in consultation with the Bank; and (ix) management of funds.
+
+5. The PMU will be supported by individual consultants for financial management, ES management, M&E, and Design,
+
+Supervision, and Management (DSM) consultants. The DSM consultants will be responsible for the: (i) preparation of
+
+detailed technical and engineering designs and estimates; (ii) supporting procurement, economic analysis, and
+
+
+
+
+
+
+
+                                                                                                                      Page 29
+
+         The World Bank
+
+         Bangladesh Resilient Urban and Territorial Development Project (P178985)
+
+
+
+
+
+management of environmental and social aspects compliances; and (iii) M&E and (iv) preparation of PDP including climate
+
+resilient plans, five-year capital investment plans.
+
+6. The MSU made up of hired individual consultants with ToRs acceptable to The Bank, will support the PMU. The MSU
+
+will be responsible for: (i) designing and providing necessary training for capacity-building; and (ii) managing training
+
+consultants. It will draw on the training materials developed under MGSP and MSP.
+
+7. Project Implementation Units (PIUs). A Project Implementation Unit (PIU) at the City Corporation/ Pourashava will be
+
+established with regular Pourashava and City corporation staff deputed on a part-time basis.27 The PIU will be responsible
+
+for the overall implementation of sub-projects under the supervision of LGED. Their responsibilities include: (i) identifying
+
+and proposing sub-projects for review and clearance by PMU; (ii) procurement of the sub-projects under the supervision
+
+of PMU, (iii) assessment and management of E&S risks of subprojects with the assistance of DSM, (iv) signing of contracts
+
+with the contractors, (v) take necessary actions to handover the site to the contractors, (vi) technical supervision for
+
+implementation, (vii) preparing reports on subproject implementation performance, (viii) contributing to mid-term review
+
+report/data generation, and (ix) hosting field level implementation and supervision support missions.
+
+8. TLCCs in Pourashavas. The TLCCs are headed by the mayor as Chair and composed of local citizens, public officials
+
+including representatives of District Administration, LGED, Department of Public Health Engineering, Roads and Highways
+
+Department, Public Works Department, Directorate of Social Welfare, Department of Cooperatives, etc. They are also
+
+required by law to have one-third female members. The TLCCs will prioritize sub-projects from the PDP and multi-year
+
+capital investment plan using a participatory process. The PIU will finalize the prioritized subprojects identified by TLCCs
+
+for approval by the Municipal Councils (MCs). Under the project, TLCCs will be required to appoint a female panel mayor
+
+as co-Chair who, together with the chair, will have a substantive decision-making role in the selection and design of the
+
+sub-projects to ensure they incorporate gender-responsive features.
+
+Project Implementation Manual
+
+9. LGED-PMU has prepared a draft PIM which will be finalized with concurrence from the Bank prior to Board approval.
+
+The PIM will provide details of the arrangements and procedures for the implementation related to: (i) administrative,
+
+accounting, auditing, financial management, disbursement and procurement procedures, as agreed for the Project; (ii)
+
+institutional arrangements for the oversight, coordination, management and day-to-day implementation of the
+
+Project; (iii) arrangements for preventing, detecting, reporting, investigation, remediation and otherwise addressing fraud
+
+and corruption, including compliance with the Anti-Corruption Guidelines, for the Project; (iv) environmental and social
+
+management arrangements, including on grievance redressal mechanism, sexual exploitation and abuse and sexual
+
+harassment (SEA/SH) for the Project; (v) monitoring and evaluation, reporting and communication for the Project; (vi)
+
+PBCs, Verification Protocols, and verification arrangements for the PBCs; (vii) detailed eligibility criteria, negative list,
+
+appraisal, approval, expenditures and administration arrangements and procedures for the sub-projects; and (viii) such
+
+other administrative, financial, technical, and organizational arrangements and procedures as shall be required for the
+
+Project. The PIM will also include cross-boundary planning guidelines for Pourashavas, City Corporations.
+
+
+
+Partnership Agreement
+
+
+
+10. Prior to receiving project funds, each participating Nodal City, Pourashavas and City Corporations will sign a
+
+Partnership Agreement with LGED. Under this agreement, each Nodal city, Pourashava, City Corporation will: (i) carry out
+
+subproject(s) with due diligence and efficiency and in accordance with sound technical, economic, environmental, social,
+
+
+
+27PIUs will be headed by the mayor who will be supported by: (i) the Chief Engineer/Superintending Engineer/Executive Engineer/Assistant
+
+Engineer/ Chief Executive Officer in City Corporations, and (ii) Executive Engineer/Assistant Engineer/Poura Nirbahi Kormokorta (PNO) in
+
+Pourashavas.
+
+
+
+
+
+                                                                                                                                           Page 30
+
+        The World Bank
+
+        Bangladesh Resilient Urban and Territorial Development Project (P178985)
+
+
+
+
+
+financial, and managerial standards and practices satisfactory to the World Bank, and in accordance with the PIM, the
+
+environmental and social documents (including the ESCP), the requirements of the grievance redress mechanism, the
+
+provisions of the Anti-Corruption Guidelines, and the Procurement Regulations; (ii) enable the LGED-PMU and the Bank
+
+to inspect the subproject(s), their operation and any relevant records and documents related to the subproject(s); and (iii)
+
+prepare and furnish such relevant information as per the request of the LGED-PMU and the Bank.
+
+Financial Management (FM)
+
+11. The FMS will be responsible for the following actions: (i) managing the overall FM and disbursement functions to
+
+support the implementation of project activities at the PMU level; (ii) assessing the FM capacity of the Pourashavas and
+
+City Corporations; (iii) arranging necessary customized training for the Pourashavas; and (v) assessing the requirements
+
+of funds for infrastructure activities under approved subprojects and O&M activities of the Pourashavas. The FMS will be
+
+assisted by a Junior Financial Management Specialist (Jr. FMS) and an Accounts Officer, two Accountants and an Account
+
+Assistant, deputed from the existing LGED staff, preferably with experience in World Bank financed projects.
+
+12. Funds Flow and Disbursement. Separate books of accounts will be maintained for PBC, non-PBC, and government
+
+financing. Two Designated Accounts will be opened with a nationalized commercial bank, one will be for PBC and the other
+
+for non-PBC expenditures. Disbursement would be based on IUFR, Disbursement mechanism will include “advance
+
+reimbursement” and “direct payment”. For both
+
+13. the PBC and non-PBC, World Bank funds may be advanced to the DAs based on six months’ forecast o f project fund
+
+requirements, which will be included in the IUFRs and submitted to the Bank within 45 days from the end of each quarter.
+
+Under non-PBC, expenditures incurred against the advances deposited to the designated account (DA) will be documented
+
+based on the expenses reported in the quarterly IUFRs. For PBC, documentation of the advances will be based on
+
+achievement of each PBC target and payment Eligible Expenditure Programs EEP28 expenditure, at least equivalent to the
+
+value of the condition met, reported in the quarterly IUFR. Counterpart contribution would be in the form of joint
+
+financing and parallel financing.
+
+14. Fund transfer to City corporation and Pourashavas. The World Bank portion of the Project allocations will not be
+
+passed directly to Pourashavas/City Corporations. The fund will be transferred to the contractors’ bank accounts through
+
+electronic bank transfer from the DA based on invoices certified by PIUs and approved by the PD. Upon actual payment,
+
+the Pourashava will send Bank Statement and relevant proof of payment (money receipts etc.) for the PIU to account for
+
+the expenditures in the books of accounts and claim in IUFR. The project will explore payment through mobile banking
+
+channel replacing use of Force account, wherever it is feasible.
+
+15. Retroactive Financing up to SDR 310, 000 from the concessional credit (only for consultant services for the preparation
+
+of the first 18 months’ implementation readiness subprojects – technical designs, safeguards reports and disclosure, costs
+
+estimate, preparation of bid documents, and others) may be allowed for eligible expenditures paid by the Government on
+
+or after July 1, 2023. LGED will need to agree with the World Bank on the specific budgeted expenditures before the
+
+provision for Retroactive Financing is approved.
+
+16. Budgeting. A budget will be prepared and maintained for the entire term of the project, and detailed budgets for each
+
+fiscal year will also be produced based on the Procurement Plan and other relevant work plans to provide a framework
+
+for FM purposes.
+
+
+
+
+
+
+
+
+
+28“Eligible Expenditure for PBCs” or EEPBCs means the cost of routine preventative operation and maintenance for eligible
+
+infrastructure to be supported by achieving PBCs in accordance with agreed procedures acceptable to the Association and as
+
+ascertained in the interim unaudited financial report submitted for disbursement.
+
+
+
+                                                                                                                             Page 31
+
+        The World Bank
+
+        Bangladesh Resilient Urban and Territorial Development Project (P178985)
+
+
+
+
+
+17. Application of Country Financial Parameters (CFP). As per the CFP, World Bank financing will not apply to specified
+
+categories of recurrent expenditures such as workshop allowances, sitting allowances, cash per diems, fuel, and honoraria.
+
+The list of excluded categories may be updated, from time to time, based on implementation experience. World Bank
+
+financing will also not cover expenditures related to vehicles, and taxes will be allowable up to 15 percent of the total
+
+World Bank credit.
+
+18. Counterpart contribution would be in the nature of joint financing for withdrawal categories 2(a), 2(b) and 3 and the
+
+financing percentage is included in the withdrawal table in the Financing Agreement. Counterpart contribution in form of
+
+parallel financing would also finance physical contingency, Land acquisition, Resettlement/Retrofitting, and Livelihood,
+
+vehicles, customs duty and salaries and allowances of Government civil servants/staff. In case of sub-component 2.3,
+
+disbursements would be first made under the Concessional Credit to the extent of USD 500,000 before disbursement
+
+under the Non-Concessional Credit.
+
+19. External Audit. The Foreign Aided Project Audit Directorate (FAPAD) will express an opinion on the project financial
+
+statements in accordance with international standards of auditing and submit the report within six months of the end of
+
+each FY. In addition, the auditor will be required to provide a detailed management letter containing the auditor’s
+
+observations on the internal controls. There is no outstanding audit report.
+
+20. Internal Audit. The project will engage a private auditor to conduct at least two rounds of internal audit over the life
+
+of the project to evaluate the project’s internal control functions and operational effectiveness. Based on the
+
+recommendations of the internal auditor, the project will prepare an Action Plan and monitor its implementation. The
+
+ToR for the internal audit function will be shared with the World Bank for endorsement prior to the engagement of the
+
+auditor.
+
+
+
+21. Audit Committee. An Audit committee will be formed under the PMU, with representation from the department and
+
+the line ministry to oversee the actions taken on the audit observations raised in the external and internal audit reports.
+
+The ToR for the Audit Committee will be shared with the World Bank.
+
+
+
+Procurement
+
+22. All Procurement related to the project will be conducted in accordance with the World Bank Procurement Regulations
+
+as agreed in the Financing Agreements. The following table shows the potential risks and associated mitigation measures:
+
+
+
+23. Additional mitigation measures include:
+
+    • Identify procurement focal point (PFP). LGED shall nominate a procurement focal point for the Project familiar
+
+       with Bangladesh PPR 2008 and World Bank Procurement Regulations September 2023. The PFP will help the
+
+       respective agencies in day-to-day procurement follow-up and in the preparation of periodic procurement
+
+       reporting.
+
+    • e-Government Procurement (e-GP). All works and national goods procurement will be conducted using the e-
+
+       Government Procurement (e-GP) system. Pourashava and city corporations’ staff and related bidders will receive
+
+       training on e-GP by the Project. Any procurement following national market approach carried out outside the e-
+
+       GP (manual procurement) shall not be eligible for Bank financing. The implementing agencies shall not use Limited
+
+       Tendering Method (LTM) as per Bangladesh PPR 2008.
+
+    • Procurement under PBC (O&M Contracts and others) shall follow the Bank Procurement Regulations
+
+    • A system for handling complaints will be established, along with a database for recording, monitoring, and
+
+       following up on all the procurement activities under the project. All the complaints will be properly and timely
+
+       recorded in STEP.
+
+
+
+
+
+
+
+                                                                                                                      Page 32
+
+        The World Bank
+
+        Bangladesh Resilient Urban and Territorial Development Project (P178985)
+
+
+
+
+
+24. A Project Procurement Strategy for Development (PPSD) has been prepared by LGED with assistance from the Bank.
+
+The PPSD spells out the detailed procurement arrangements for the project including the detailed risk mitigation
+
+measures. The procurement of works by the Pourashavas and City Corporations will be reviewed and monitored by LGED
+
+and the detailed review and monitoring mechanism has been incorporated in the PPSD. LGED has initiated the advance
+
+contracting for selection of consultants for Design, Supervision and Management (DSM). Residual procurement risk after
+
+mitigation measures is assessed as ‘Substantial’ due to procurement responsibilities decentralized to the Pourashavas and
+
+City Corporations.
+
+
+
+25. For each contract to be financed by the World Bank, the procurement/selection methods, the need for pre-
+
+qualification/initial selection, estimated costs, prior review requirements, evaluation options, and time frame will be
+
+reflected in the Procurement Plan which will be uploaded in STEP and updated as and when necessary, with the approval
+
+of the World Bank.
+
+
+
+Implementation Support Plan
+
+26. The World Bank’s implementation support plan consists of scheduled full implementation support missions every six
+
+to twelve (6-12) months (covering technical issues, fiduciary, environmental, social, and governance aspects), and short
+
+review missions for problem solving and timely follow-up. Between missions, close follow-up will be maintained on
+
+implementation through virtual methods. A Mid-Term Review will be conducted jointly by the GoB and the World Bank to
+
+assess the overall status of project implementation vis-à-vis the appraised project and agree on changes, if needed. Such
+
+changes will thereafter be formalized with the agreement of the GoB and the World Bank.
+
+
+
+
+
+
+
+
+
+                                                                                                                   Page 33
+
+
