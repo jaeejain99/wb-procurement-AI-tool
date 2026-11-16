@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "procintel"
+version = "0.2.0"
+requires-python = ">=3.10"
+dependencies = ["numpy", "pandas", "scikit-learn>=1.4", "scipy", "networkx", "pypdf", "xgboost>=2.1", "certifi", "fastapi>=0.110", "uvicorn>=0.30"]
+[project.optional-dependencies]
+databricks = ["databricks-vectorsearch", "mlflow>=2.12"]
+[tool.setuptools]
+packages = ["procintel"]

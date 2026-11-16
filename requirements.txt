@@ -1,0 +1,16 @@
+# numpy/pandas/scikit-learn pinned to the SAME versions the Databricks notebooks %pip: the App unpickles models they trained
+numpy==2.1.3
+pandas==2.2.3
+scikit-learn==1.5.2
+xgboost==3.0.3
+scipy
+networkx
+pypdf
+certifi
+databricks-sdk
+fastapi==0.115.0
+uvicorn==0.32.1
+pydantic>=2
+pytest
+# optional: anthropic  (only for --llm composer)
+# Databricks notebooks %pip: databricks-vectorsearch (and mlflow, preinstalled there)

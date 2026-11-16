@@ -1,0 +1,133 @@
+# Databricks Asset Bundle (serverless; works on Free Edition):
+#   databricks bundle validate && databricks bundle deploy
+#   databricks fs cp -r data/live dbfs:/Volumes/<catalog>/<schema>/landing/base   (or set fetch_live=true if the workspace has egress)
+#   databricks bundle run procintel_pipeline && databricks bundle run procintel_ui
+# Notebooks import the `procintel` package straight from the synced bundle files (no wheel), and %pip the few extras.
+bundle:
+  name: procintel
+
+variables:
+  catalog:     { default: workspace }        # Free Edition's default catalog; use `main` on most paid workspaces
+  schema:      { default: procintel }
+  vs_endpoint: { default: procintel_vs }
+  agent_model: { default: databricks-gpt-oss-120b }                    # plans + calls tools (only served model that cites reliably)
+  judge_model: { default: databricks-meta-llama-3-3-70b-instruct }     # L4 judge: a different model family from the agent
+  # what a live fetch pulls (fetch_live=true or the refresh job); must equal procintel/live_wb.py DEFAULT_COUNTRIES / MAX_* (tested)
+  countries:    { default: "KE,GH,NP,BD,VN" }
+  max_projects: { default: "100" }
+  max_docs:     { default: "300" }
+
+sync:
+  exclude: ["data/**", "**/__pycache__/**", ".pytest_cache/**", "tests/**", "web/node_modules/**", "web/src/**"]   # the App serves web/dist
+
+targets:
+  dev:
+    mode: development
+    default: true
+    variables:
+      vs_endpoint: pip_vector_search         # this workspace's existing endpoint (Free Edition allows one); index is procintel-specific
+
+resources:
+  schemas:
+    procintel:
+      catalog_name: ${var.catalog}
+      name: ${var.schema}
+      comment: "Procurement intelligence lakehouse (bronze/silver/gold)"
+  volumes:
+    landing:
+      catalog_name: ${var.catalog}
+      schema_name: ${resources.schemas.procintel.name}
+      name: landing
+      comment: "Raw World Bank feeds + ICR/ISR/PAD text land in base/ and incoming/; serving snapshot in snapshot/"
+
+  jobs:
+    procintel_pipeline:                      # full build: ingest -> medallion -> train -> index -> alerts + serving snapshot
+      name: procintel-pipeline
+      parameters:
+        - { name: catalog,     default: "${var.catalog}" }
+        - { name: schema,      default: "${resources.schemas.procintel.name}" }
+        - { name: vs_endpoint, default: "${var.vs_endpoint}" }
+        - { name: countries,    default: "${var.countries}" }
+        - { name: max_projects, default: "${var.max_projects}" }
+        - { name: max_docs,     default: "${var.max_docs}" }
+        - { name: fetch_live,   default: "false" }      # true: fetch straight into the Volume (needs outbound internet)
+      tasks:
+        - task_key: bronze
+          notebook_task: { notebook_path: ./databricks/notebooks/01_bronze_ingest.py }
+        - task_key: silver_gold
+          depends_on: [ { task_key: bronze } ]
+          notebook_task: { notebook_path: ./databricks/notebooks/02_silver_gold.py }
+        - task_key: train
+          depends_on: [ { task_key: silver_gold } ]
+          notebook_task: { notebook_path: ./databricks/notebooks/03_train_register.py }
+        - task_key: vector_index
+          depends_on: [ { task_key: silver_gold } ]
+          notebook_task: { notebook_path: ./databricks/notebooks/04_vector_index.py }
+        - task_key: alerts_and_serve
+          depends_on: [ { task_key: train }, { task_key: vector_index } ]
+          notebook_task: { notebook_path: ./databricks/notebooks/05_alerts_and_serve.py }
+        - task_key: benchmark                # agent + guardrails on the benchmark questions -> MLflow + gold_benchmark
+          depends_on: [ { task_key: alerts_and_serve } ]
+          notebook_task: { notebook_path: ./databricks/notebooks/07_benchmark.py }
+
+    procintel_continuous_learning:           # closed loop: new files in landing/incoming -> ingest -> drift check -> challenger -> promote
+      name: procintel-continuous-learning
+      trigger:
+        pause_status: UNPAUSED               # development mode pauses triggers unless the job says otherwise
+        file_arrival:
+          url: "/Volumes/${var.catalog}/${resources.schemas.procintel.name}/landing/incoming/"
+          wait_after_last_change_seconds: 300  # a batch is ~460 files copied over minutes: fire once, after the copy ends
+      max_concurrent_runs: 1                 # learning runs MERGE into the same tables: never two at once
+      queue: { enabled: true }               # a trigger during a run waits for it instead of being dropped
+      parameters:
+        - { name: catalog,     default: "${var.catalog}" }
+        - { name: schema,      default: "${resources.schemas.procintel.name}" }
+        - { name: vs_endpoint, default: "${var.vs_endpoint}" }
+      tasks:
+        - task_key: learn
+          notebook_task: { notebook_path: ./databricks/notebooks/06_continuous_learning.py }
+        - task_key: alerts_and_serve         # new snapshot -> the running App loads it within ~15 min (no restart)
+          depends_on: [ { task_key: learn } ]
+          notebook_task: { notebook_path: ./databricks/notebooks/05_alerts_and_serve.py }
+
+    procintel_refresh:                       # weekly pull straight into the Volume: staging -> incoming/<date>/ (trigger learns)
+      name: procintel-refresh
+      schedule:
+        quartz_cron_expression: "0 0 3 ? * MON"
+        timezone_id: UTC
+        pause_status: UNPAUSED               # verified 9 Nov 2026: the job compute reaches the World Bank APIs
+      max_concurrent_runs: 1
+      parameters:
+        - { name: catalog,      default: "${var.catalog}" }
+        - { name: schema,       default: "${resources.schemas.procintel.name}" }
+        - { name: vs_endpoint,  default: "${var.vs_endpoint}" }
+        - { name: countries,    default: "${var.countries}" }
+        - { name: max_projects, default: "${var.max_projects}" }
+        - { name: max_docs,     default: "${var.max_docs}" }
+      tasks:                                 # fetch + publish only: the batch landing in incoming/<date>/ fires the file-arrival
+        - task_key: fetch                    # trigger of procintel-continuous-learning (learn -> alerts_and_serve -> new snapshot);
+          notebook_task: { notebook_path: ./databricks/notebooks/00_fetch_live.py }    # learning here too ran twice at once
+
+  apps:
+    procintel_ui:                            # the web UI (app.py) as a Databricks App, reading the snapshot notebook 05 exports
+      name: procintel-ui
+      description: "Procurement intelligence copilot on World Bank open data"
+      source_code_path: .
+      config:
+        command: ["python", "app.py"]
+        env:
+          - { name: PROCINTEL_SNAPSHOT_VOLUME, value: "/Volumes/${var.catalog}/${resources.schemas.procintel.name}/landing/snapshot" }
+          - { name: PROCINTEL_AGENT_MODEL, value: "${var.agent_model}" }
+          - { name: PROCINTEL_JUDGE_MODEL, value: "${var.judge_model}" }
+          - { name: PROCINTEL_VS_INDEX, value: "${var.catalog}.${resources.schemas.procintel.name}.chunks_index" }
+          - { name: PROCINTEL_EVENTS_VOLUME, value: "/Volumes/${var.catalog}/${resources.schemas.procintel.name}/landing/events" }
+      resources:
+        - name: landing-volume
+          uc_securable:
+            securable_full_name: ${resources.volumes.landing.catalog_name}.${resources.volumes.landing.schema_name}.${resources.volumes.landing.name}
+            securable_type: VOLUME
+            permission: WRITE_VOLUME           # reads the snapshot, writes usage/feedback events
+        - name: agent-model                  # the app's service principal may query the two Foundation Model endpoints
+          serving_endpoint: { name: "${var.agent_model}", permission: CAN_QUERY }
+        - name: judge-model
+          serving_endpoint: { name: "${var.judge_model}", permission: CAN_QUERY }
