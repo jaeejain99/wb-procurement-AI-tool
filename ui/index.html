@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>ProcureIntel PoC</title>
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--ink:#16202a;--mut:#5b6773;--line:#dde2e8;--acc:#0b5cab;--accbg:#e6f0fa;--ok:#18794e;--okbg:#e3f4ea;--warn:#a15c00;--warnbg:#fdf0d8;--bad:#b42318;--badbg:#fde7e4}
+@media(prefers-color-scheme:dark){:root{--bg:#10151a;--card:#182027;--ink:#e6ebf0;--mut:#98a4b0;--line:#2b3641;--acc:#6db0f2;--accbg:#1b2f44;--ok:#5fcf94;--okbg:#14301f;--warn:#f0b35a;--warnbg:#3a2d12;--bad:#ff8f84;--badbg:#3b1c19}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 system-ui,-apple-system,Segoe UI,sans-serif}
+header{padding:14px 20px;border-bottom:1px solid var(--line);background:var(--card);display:flex;gap:14px;align-items:center;flex-wrap:wrap}
+header h1{font-size:18px;margin:0}.badge{font-size:12px;padding:2px 8px;border-radius:99px;background:var(--accbg);color:var(--acc)}
+nav{display:flex;gap:4px;padding:10px 20px 0;flex-wrap:wrap}nav button{border:0;background:none;padding:8px 14px;color:var(--mut);font:inherit;cursor:pointer;border-bottom:2px solid transparent}
+nav button.on{color:var(--acc);border-color:var(--acc);font-weight:600}
+main{padding:16px 20px 40px;max-width:1200px;margin:auto}section{display:none}section.on{display:block}
+.grid{display:grid;grid-template-columns:320px 1fr;gap:18px}@media(max-width:850px){.grid{grid-template-columns:1fr}}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px 16px;margin-bottom:14px}
+label{display:block;font-size:12px;color:var(--mut);margin:10px 0 3px}input,select,textarea,button.go{width:100%;padding:8px 10px;border:1px solid var(--line);border-radius:7px;background:var(--bg);color:var(--ink);font:inherit}
+button.go{background:var(--acc);color:#fff;border:0;margin-top:14px;cursor:pointer;font-weight:600}button.go:disabled{opacity:.6}
+.row{display:flex;gap:10px}.row>*{flex:1}h2{font-size:15px;margin:0 0 8px}.mut{color:var(--mut)}.small{font-size:12px}
+.kpis{display:flex;gap:12px;flex-wrap:wrap}.kpi{flex:1;min-width:130px;background:var(--bg);border-radius:8px;padding:10px 12px}.kpi b{display:block;font-size:22px}
+.bar{position:relative;height:10px;background:var(--line);border-radius:6px;margin:14px 6px 22px}.bar i{position:absolute;top:0;height:10px;background:var(--acc);opacity:.35;border-radius:6px}.bar u{position:absolute;top:-4px;width:3px;height:18px;background:var(--acc);text-decoration:none}
+.bar span{position:absolute;top:16px;font-size:11px;color:var(--mut);transform:translateX(-50%);white-space:nowrap}
+.tag{display:inline-block;font-size:11px;padding:1px 7px;border-radius:99px;margin-right:6px;background:var(--accbg);color:var(--acc)}.tag.ok{background:var(--okbg);color:var(--ok)}.tag.warn{background:var(--warnbg);color:var(--warn)}.tag.bad{background:var(--badbg);color:var(--bad)}
+blockquote{margin:6px 0;padding:6px 10px;border-left:3px solid var(--acc);background:var(--bg);font-size:13px}
+.finding{border-top:1px solid var(--line);padding:12px 0}.finding:first-child{border:0}.rec{color:var(--ok);margin:4px 0}
+table{width:100%;border-collapse:collapse;font-size:13px}th,td{text-align:left;padding:7px 8px;border-bottom:1px solid var(--line);vertical-align:top}
+.fb button{border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:6px;cursor:pointer;padding:2px 8px;margin-right:4px}
+.err{color:var(--bad)}.qbubble{margin:16px 0 6px;font-weight:600}details summary{cursor:pointer;color:var(--mut);font-size:13px}
+</style></head><body>
+<header><h1>ProcureIntel PoC</h1><span class="badge" id="src">loading…</span><span class="mut small" id="hdrm"></span></header>
+<nav id="nav"></nav>
+<main>
+<section id="t-agent" class="on"><div class="card"><h2>Ask a question</h2>
+ <p class="mut small">An agent on Databricks Model Serving chooses which tools to call (document search, the survival-model forecast, project records, early warnings). Every sentence of its answer is then checked: it must cite a source a tool returned, its numbers must be in that source, the country must match, and a separate judge model must agree the source supports it. Sentences that fail are removed and shown below with the reason.</p>
+ <textarea id="aq" rows="2" placeholder="e.g. We are about to tender USD 20m of rural road works in Kenya. What should we plan for? Then: What about Ghana?"></textarea>
+ <div class="small" id="aex" style="margin-top:6px"></div>
+ <div class="row" style="max-width:460px"><button class="go" id="ago2">Ask</button><button class="go" id="anew" style="background:var(--mut)">New conversation</button></div>
+ <div id="aqerr" class="err small"></div><p class="small mut" id="aconv">Follow-up questions use the earlier answers in this conversation.</p></div><div id="aqres"></div></section>
+<section id="t-analyze"><div class="grid">
+ <div><div class="card"><h2>Procurement package</h2>
+  <label>Description</label><textarea id="description" rows="2">Rehabilitation of 80 km of rural roads</textarea>
+  <div class="row"><div><label>Category</label><select id="category"></select></div><div><label>Sector</label><select id="sector"></select></div></div>
+  <div class="row"><div><label>Country</label><select id="country_code"></select></div><div><label>Value (USD m)</label><input id="value_usd_m" type="number" step="0.1" min="0" value="24"></div></div>
+  <label>Procurement method</label><select id="method"></select>
+  <div class="row"><div><label>Review</label><select id="review_type"></select></div><div><label>E&amp;S risk</label><select id="es_risk"></select></div></div>
+  <label>Planned notice date</label><input id="notice_date" type="date" value="2026-03-01">
+  <button class="go" id="run">Analyse package</button><div id="aerr" class="err small"></div></div></div>
+ <div id="result"><div class="card mut">Fill in the package and press <b>Analyse</b>. Every statement in the result is either computed from data or quoted from a source document, and is checked before it is shown.</div></div>
+</div></section>
+<section id="t-ask"><div class="card"><h2>Search the report corpus</h2><p class="mut small">Free-text search over ICR/ISR/PPAR passages. Returns quotes with source and page; no text is generated.</p>
+ <div class="row"><input id="q" placeholder="e.g. tender prices above estimate led to re-tendering" style="flex:3"><select id="qdoc"><option value="">all doc types</option></select><select id="qsec"><option value="">any sector</option></select><button class="go" id="qgo" style="margin:0;flex:.6">Search</button></div></div><div id="qres"></div></section>
+<section id="t-alerts"><div class="card"><h2>Early warnings on active projects</h2><div class="row" style="max-width:420px"><input id="asof" type="date"><button class="go" id="ago" style="margin:0">Refresh</button></div><p class="mut small">ISR trend (bias-adjusted), disbursement vs historical P25, and tenders open past their predicted P90.</p><div id="ares"></div></div></section>
+<section id="t-conf"><div class="card"><h2>ISR vs ICR rating conflicts</h2><p class="mut small" id="cbias"></p><div id="cres"></div></div></section>
+<section id="t-sys"><div class="card"><h2>System</h2><div id="sys"></div></div></section>
+</main>
+<script>
+const $=id=>document.getElementById(id);
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const api=async(u,o)=>{const r=await fetch(u,o);const j=await r.json();if(!r.ok)throw new Error(j.error||r.status);return j};
+const TABS=[["agent","Ask (agent)"],["analyze","Analyse package"],["ask","Search corpus"],["alerts","Early warnings"],["conf","Evidence conflicts"],["sys","System"]];
+$("nav").innerHTML=TABS.map(([k,l],i)=>`<button data-k="${k}" class="${i?"":"on"}">${l}</button>`).join("");
+$("nav").onclick=e=>{const k=e.target.dataset.k;if(!k)return;document.querySelectorAll("nav button").forEach(b=>b.classList.toggle("on",b===e.target));document.querySelectorAll("main>section").forEach(s=>s.classList.toggle("on",s.id==="t-"+k));
+ if(k==="alerts"&&!$("ares").dataset.l)loadAlerts();if(k==="conf"&&!$("cres").dataset.l)loadConf();};
+const opts=(id,arr,sel)=>$(id).innerHTML=arr.map(x=>{const v=x.code??x,l=x.name??x;return `<option value="${esc(v)}" ${v===sel?"selected":""}>${esc(l)}</option>`}).join("");
+let META;
+(async()=>{META=await api("/api/meta");$("src").textContent=META.source;
+ $("hdrm").textContent=`${META.chunks} chunks · duration MAE ${META.metrics.mae_days??"–"} d vs baseline ${META.metrics.mae_baseline_category_median??"–"} d`;
+ opts("category",META.categories,"Civil Works");opts("sector",META.sectors,"Transport");opts("country_code",META.countries,"MOZ");
+ opts("method",META.methods,"ICB");opts("review_type",META.review_types,"Prior");opts("es_risk",META.es_risks,"Substantial");
+ $("qdoc").innerHTML+=META.doc_types.map(d=>`<option>${esc(d)}</option>`).join("");$("qsec").innerHTML+=META.sectors.map(d=>`<option>${esc(d)}</option>`).join("");
+ $("asof").value=META.max_isr_date||"";
+ const m=META.metrics,q=META.quality;
+ $("sys").innerHTML=`<table><tr><th>Model holdout metric</th><th></th></tr>${Object.entries(m).map(([k,v])=>`<tr><td>${esc(k)}</td><td>${esc(v)}</td></tr>`).join("")}</table>
+  <h2 style="margin-top:14px">Data quality</h2><pre class="small">${esc(JSON.stringify(q,null,1))}</pre><h2>Knowledge graph</h2><pre class="small">${esc(JSON.stringify(META.graph,null,1))}</pre>
+  <h2>ISR optimism bias</h2><pre class="small">${esc(JSON.stringify(META.bias,null,1))}</pre>
+  <h2>Retrieval</h2><p class="small">${esc(META.retrieval)}</p><h2>Usage on this instance</h2><pre class="small" id="kpis">loading…</pre>`;
+ api("/api/kpis").then(k=>$("kpis").textContent=JSON.stringify(k,null,1)).catch(e=>$("kpis").textContent=e.message);
+})().catch(e=>$("src").textContent="failed to load: "+e.message);
+
+const rangeBar=(p10,p50,p90)=>{const hi=p90*1.15,pc=x=>(x/hi*100).toFixed(1);return `<div class="bar"><i style="left:${pc(p10)}%;width:${pc(p90)-pc(p10)}%"></i><u style="left:${pc(p50)}%"></u><span style="left:${pc(p10)}%">P10 ${p10}d</span><span style="left:${pc(p50)}%;top:-22px;color:var(--acc)">median ${p50}d</span><span style="left:${pc(p90)}%">P90 ${p90}d</span></div>`};
+const ev=e=>`<blockquote>“${esc(e.quote)}”<div class="small mut">${esc(e.doc_id)} · p.${esc(e.page)} · ${esc(e.section)} ${e.contract?"· contract "+esc(e.contract):""} <span class="tag ${e.scope&&e.scope.startsWith("analogue")?"warn":"ok"}">${esc(e.scope)}</span></div></blockquote>`;
+async function fb(ids,useful,btn,surface,question){try{await api("/api/feedback",{method:"POST",body:JSON.stringify({chunk_ids:ids,useful,surface:surface||"form",question:question||""})});btn.parentNode.innerHTML='<span class="small mut">thanks – retrieval prior updated</span>'}catch(e){btn.parentNode.textContent=e.message}}
+window.fb=fb;
+function renderReport(r){const f=r.facts,s=r.schedule;const risks=r.findings.filter(x=>x.kind==="risk"),other=r.findings.filter(x=>x.kind!=="risk");
+ let h=`<div class="card"><h2>Schedule recommendation</h2>${rangeBar(f.model_p10_days,f.model_p50_days,f.model_p90_days)}
+ <div class="kpis"><div class="kpi"><span class="mut small">Plan to award</span><b>${s.plan_days} d</b></div><div class="kpi"><span class="mut small">Contingency to</span><b>${s.contingency_days} d</b></div>
+ <div class="kpi"><span class="mut small">Re-bid probability</span><b>${f.model_rebid_pct}%</b></div><div class="kpi"><span class="mut small">Amendment probability</span><b>${f.model_amend_pct}%</b></div></div>
+ <p class="small mut">Benchmark: ${f.n_comparable} comparable contracts, median ${f.bench_median_days} d (P80 ${f.bench_p80_days}), ${f.bench_rebid_pct}% re-bid. ${s.add_rebid_buffer?'<span class="tag warn">add a re-bid buffer</span>':""} ${f.n_comparable<8?'<span class="tag warn">small sample</span>':""}</p>
+ <p class="small"><b>Top drivers</b> (ablation vs reference): ${r.explanation.map(e=>`${esc(e.feature)}=${esc(typeof e.value==="number"?+e.value.toFixed(2):e.value)} <span class="mut">(${e.d_days>=0?"+":""}${Math.round(e.d_days)} d)</span>`).join(" · ")}</p></div>`;
+ h+=`<div class="card"><h2>Risks from precedent (${risks.length})</h2>`+(risks.length?risks.map(x=>`<div class="finding"><span class="tag">${esc(x.theme)}</span><span class="tag ok">${x.support_check==="llm judge"?"judge: supported":"support "+x.support}</span><div>${esc(x.claim)}</div><div class="rec">→ ${esc(x.recommendation)}</div>${x.evidence.map(ev).join("")}
+  ${x.caution?`<div class="small"><span class="tag warn">caution</span>${esc(x.caution)}</div>`:""}<div class="fb small">Useful? <button onclick='fb(${JSON.stringify(x.evidence.map(e=>e.chunk_id))},true,this)'>👍</button><button onclick='fb(${JSON.stringify(x.evidence.map(e=>e.chunk_id))},false,this)'>👎</button></div></div>`).join(""):`<p class="mut">No grounded historical evidence found – the system abstains instead of guessing.</p>`)+`</div>`;
+ if(r.conflicts.length)h+=`<div class="card"><h2>Evidence conflicts</h2><table><tr><th>Project</th><th>ISR (last)</th><th>ICR</th><th>Adopted</th><th>Why</th></tr>${r.conflicts.map(c=>`<tr><td>${esc(c.project_id)}</td><td>${esc(c.isr_last.rating)}<div class="small mut">${esc(c.isr_last.date)}</div></td><td>${esc(c.icr.rating)}</td><td>${esc(c.adopted_source)} (${esc(c.rule_applied)}, conf ${c.confidence}) ${c.needs_human_review?'<span class="tag bad">human review</span>':""}</td><td class="small">${esc(c.note)}</td></tr>`).join("")}</table></div>`;
+ h+=`<div class="card"><h2>Guardrails</h2><span class="tag ok">${r.findings.length} accepted</span><span class="tag ${r.rejected.length?"bad":""}">${r.rejected.length} rejected</span>
+  ${r.rejected.map(x=>`<div class="small err">${esc(x.claim)} — ${esc(x.rejected_because.join("; "))}</div>`).join("")}
+  <details><summary>Pipeline trace</summary><ol class="small">${r.trace.map(t=>`<li>${esc(t)}</li>`).join("")}</ol></details></div>`;
+ $("result").innerHTML=h}
+$("run").onclick=async()=>{$("aerr").textContent="";$("run").disabled=true;$("run").textContent="Analysing…";
+ try{const b={};["description","category","sector","country_code","value_usd_m","method","review_type","es_risk","notice_date"].forEach(k=>b[k]=$(k).value);
+  renderReport(await api("/api/analyze",{method:"POST",body:JSON.stringify(b)}))}catch(e){$("aerr").textContent=e.message}
+ $("run").disabled=false;$("run").textContent="Analyse package"};
+$("qgo").onclick=async()=>{const q=$("q").value.trim();if(q.length<3)return;$("qres").innerHTML='<p class="mut">Searching…</p>';
+ try{const r=await api(`/api/search?q=${encodeURIComponent(q)}&doc_type=${encodeURIComponent($("qdoc").value)}&sector=${encodeURIComponent($("qsec").value)}`);
+  $("qres").innerHTML=r.map(c=>`<div class="card"><span class="tag">${esc(c.doc_type)}</span><span class="tag">${esc(c.sector)}</span><span class="small mut">${esc(c.doc_id)} · p.${esc(c.page)} · ${esc(c.section)} · score ${c.score}</span><blockquote>${esc(c.text)}</blockquote></div>`).join("")||'<p class="mut">No results.</p>'}catch(e){$("qres").innerHTML=`<p class="err">${esc(e.message)}</p>`}};
+$("q").onkeydown=e=>{if(e.key==="Enter")$("qgo").click()};
+async function loadAlerts(){$("ares").dataset.l=1;$("ares").innerHTML='<p class="mut">Computing…</p>';
+ try{const r=await api("/api/alerts?top=12&as_of="+$("asof").value);$("ares").innerHTML=`<table><tr><th>Project</th><th>Risk</th><th>Flags</th></tr>${r.map(a=>`<tr><td>${esc(a.project_id)}<div class="small mut">${esc(a.name)}</div></td><td><span class="tag ${a.risk_score>=.6?"bad":a.risk_score>=.3?"warn":"ok"}">${a.risk_score}</span></td><td class="small">${a.flags.map(esc).join("<br>")||"–"}</td></tr>`).join("")}</table>`}catch(e){$("ares").innerHTML=`<p class="err">${esc(e.message)}</p>`}}
+$("ago").onclick=loadAlerts;
+const EXAMPLES=["We are about to tender USD 20m of rural road rehabilitation works in Kenya. What should we plan for?",
+ "What do completion reports say about procurement capacity of implementing agencies?",
+ "How long do consultant selections take in Ghana, and what slows them down?",
+ "Which active projects show early-warning signs, and why?"];
+$("aex").innerHTML="Try: "+EXAMPLES.map((q,i)=>`<a href="#" data-i="${i}" class="tag">${esc(q.slice(0,48))}…</a>`).join(" ");
+$("aex").onclick=e=>{const i=e.target.dataset.i;if(i===undefined)return;e.preventDefault();$("aq").value=EXAMPLES[i];$("ago2").click()};
+$("aq").onkeydown=e=>{if(e.key==="Enter"&&!e.shiftKey){e.preventDefault();$("ago2").click()}};
+let CONV=null,TURN=0;
+function renderAnswer(r,tn){
+ if(r.refused)return `<div class="card"><span class="tag warn">declined</span> ${esc(r.answer[0].text)}<p class="small mut">${r.refusal_reason==="model"?"The agent declined.":"A policy check declined this before any model was called."}</p></div>`;
+ if(r.mode==="fallback")return `<div class="card"><span class="tag warn">model unavailable</span> Showing the most relevant passages instead; no text was generated.</div>`+(r.passages||[]).map(c=>`<div class="card"><span class="small mut">${esc(c.doc_type)} ${esc(c.project_id)} · p.${esc(c.page)} · ${esc(c.section)}</span><blockquote>${esc(c.text)}</blockquote></div>`).join("");
+ const ids=[...new Set(r.answer.flatMap(a=>a.ids))],n=id=>ids.indexOf(id)+1,a_=id=>`t${tn}-src-${n(id)}`;
+ let h=`<div class="card">`+(r.held_back?`<p class="mut">No sentence survived verification, so the agent's draft is held back.</p>`:r.answer.map(a=>`<p style="margin:6px 0">${esc(a.text)} ${a.ids.map(i=>`<a href="#${a_(i)}" class="tag">${n(i)}</a>`).join("")}</p>`).join(""))+
+  `<p class="small mut">${r.answer.filter(a=>!a.meta).length} sentence(s) verified · ${r.removed.length} removed · ${esc(r.model||"")} · ${r.seconds}s</p>`+
+  (ids.length?`<div class="fb small">Was this answer useful? <button onclick='fb(${JSON.stringify(ids)},true,this,"agent",${JSON.stringify(r.question)})'>👍</button><button onclick='fb(${JSON.stringify(ids)},false,this,"agent",${JSON.stringify(r.question)})'>👎</button></div>`:"");
+ if(ids.length)h+=`<details><summary>Sources (${ids.length})</summary>${ids.map(i=>{const s=r.sources[i]||{};return `<div id="${a_(i)}" class="finding"><span class="tag">${n(i)}</span><b class="small">${esc(s.label||i)}</b> <span class="small mut">${esc(i)}${s.country?" · "+esc(s.country):""}</span>${s.kind==="passage"?`<blockquote>${esc(s.text)}</blockquote>`:`<pre class="small" style="white-space:pre-wrap">${esc(s.text)}</pre>`}</div>`}).join("")}</details>`;
+ if(r.removed.length)h+=`<details><summary>Removed by the verifier (${r.removed.length})</summary>${r.removed.map(x=>`<div class="finding small"><s>${esc(x.text)}</s><div class="err">${esc(x.reasons.join("; "))}</div></div>`).join("")}</details>`;
+ h+=`<details><summary>Agent trace (tools it chose)</summary><ol class="small">${r.trace.map(t=>`<li>${esc(t)}</li>`).join("")}</ol></details></div>`;
+ return h}
+function newConversation(){CONV=null;TURN=0;$("aqres").innerHTML="";$("aconv").textContent="New conversation: follow-up questions will use the earlier answers."}
+$("anew").onclick=newConversation;
+$("ago2").onclick=async()=>{const q=$("aq").value.trim();if(q.length<5)return;$("aqerr").textContent="";$("ago2").disabled=true;$("ago2").textContent="Working… (tools + verification)";
+ const turn=document.createElement("div");turn.innerHTML=`<div class="qbubble"><span class="tag">You</span> ${esc(q)}</div><div class="card mut small">Working…</div>`;$("aqres").appendChild(turn);turn.scrollIntoView({behavior:"smooth"});
+ try{const r=await api("/api/ask",{method:"POST",body:JSON.stringify({question:q,conversation_id:CONV})});CONV=r.conversation_id;TURN=r.turn;
+  turn.lastChild.outerHTML=renderAnswer(r,turn.parentNode.children.length);$("aq").value="";
+  $("aconv").textContent=`Conversation: ${TURN} turn(s) in memory (the last 4 verified answers are used for follow-ups).`}
+ catch(e){turn.lastChild.outerHTML=`<div class="card err small">${esc(e.message)}</div>`}
+ $("ago2").disabled=false;$("ago2").textContent="Ask"};
+async function loadConf(){$("cres").dataset.l=1;try{const r=await api("/api/conflicts");$("cbias").textContent=`Portfolio ISR optimism: mean ISR−ICR gap ${META.bias.mean_gap.toFixed(2)} notches over ${META.bias.n} closed projects; ${(META.bias.share_isr_higher*100).toFixed(0)}% had ISR higher than ICR. Showing every disagreement; 1 notch is minor (R4), 2+ is major.`;
+ $("cres").innerHTML=`<table><tr><th>Project</th><th>ISR (last)</th><th>ICR</th><th>Gap</th><th>Adopted</th><th>Note</th></tr>${r.slice(0,40).map(c=>`<tr><td>${esc(c.project_id)}</td><td>${esc(c.isr_last.rating)}</td><td>${esc(c.icr.rating)}</td><td>${c.gap_notches} <span class="tag ${c.severity==="major"?"bad":"warn"}">${esc(c.severity||"")}</span></td><td>${esc(c.adopted_source)} ${c.needs_human_review?'<span class="tag bad">review</span>':""}</td><td class="small">${esc(c.note)}</td></tr>`).join("")}</table>`}catch(e){$("cres").innerHTML=`<p class="err">${esc(e.message)}</p>`}}
+</script></body></html>

@@ -1,0 +1,2165 @@
+{
+ "about": "Relevance grades, key 'query_id|chunk_id'. 2 relevant, 1 partial, 0 not relevant. 'by' is the judge model or 'human' for a hand-checked grade.",
+ "labels": {
+  "p01|ICR_P156777_34345426#0003": {
+   "grade": 2,
+   "reason": "Directly discusses Kenya Urban Support Program, the project in question",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p01|ICR_P156777_34345426#0014": {
+   "grade": 2,
+   "reason": "Directly mentions Kenya Urban Support Program, relevant to the question",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p01|ICR_P156777_34345426#0021": {
+   "grade": 2,
+   "reason": "Directly discusses Kenya Urban Support Program and its infrastructure investment context",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p01|ICR_P156777_34345426#0023": {
+   "grade": 1,
+   "reason": "Discusses Kenya Urban Support Program's goals, not directly addressing delays",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p01|ICR_P156777_34345426#0025": {
+   "grade": 2,
+   "reason": "Directly discusses Kenya Urban Support Program and its institutional challenges",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p01|ICR_P156777_34345426#0028": {
+   "grade": 1,
+   "reason": "Mentions Kenya Urban Support Program but doesn't discuss delays in infrastructure investments",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p01|ICR_P156777_34345426#0032": {
+   "grade": 1,
+   "reason": "Passage discusses project objectives, not directly addressing delays in investments",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p01|ICR_P156777_34345426#0033": {
+   "grade": 1,
+   "reason": "Mentions Kenya Urban Support Program but doesn't directly address delays",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p01|ICR_P156777_34345426#0035": {
+   "grade": 2,
+   "reason": "Directly discusses Kenya Urban Support Program and its implementation details",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p01|ICR_P156777_34345426#0062": {
+   "grade": 2,
+   "reason": "Directly discusses Kenya Urban Support Program and its delays in investments",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p01|ICR_P156777_34345426#0095": {
+   "grade": 2,
+   "reason": "Directly discusses delays in Kenya Urban Support Program infrastructure investments",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p01|ICR_P156777_34345426#0097": {
+   "grade": 2,
+   "reason": "Directly addresses delays in Kenya Urban Support Program procurement process",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p01|ICR_P156777_34345426#0110": {
+   "grade": 2,
+   "reason": "Directly mentions Kenya Urban Support Program, relevant to the question",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p01|ICR_P156777_34345426#0119": {
+   "grade": 2,
+   "reason": "Directly discusses delays in Kenya Urban Support Program infrastructure investments",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p01|ICR_P156777_34345426#0122": {
+   "grade": 2,
+   "reason": "Directly discusses delays in Kenya Urban Support Program infrastructure investments",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p01|ICR_P156777_34345426#0127": {
+   "grade": 2,
+   "reason": "Directly mentions Kenya Urban Support Program, relevant to the question",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p01|ICR_P156777_34345426#0170": {
+   "grade": 2,
+   "reason": "Directly mentions Kenya Urban Support Program, relevant to the question",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p01|ICR_P156777_34345426#0179": {
+   "grade": 2,
+   "reason": "Directly mentions Kenya Urban Support Program, relevant to the question",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p01|ICR_P156777_34345426#0191": {
+   "grade": 2,
+   "reason": "Directly mentions Kenya Urban Support Program, relevant to the question",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p01|ICR_P156777_34345426#0193": {
+   "grade": 1,
+   "reason": "Mentions the project but doesn't discuss delays in urban infrastructure investments",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p01|ICR_P156777_34345426#0199": {
+   "grade": 1,
+   "reason": "Passage is about KUSP but doesn't mention delays in urban infrastructure investments",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p01|ISR_P177048_40046166#0022": {
+   "grade": 1,
+   "reason": "Passage discusses project risks, but doesn't directly address delays in investments",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p02|ICR_P152670_32209930#0027": {
+   "grade": 1,
+   "reason": "Mentions project impact, but not directly on payment arrears or gas offtake",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p02|ICR_P152670_32209930#0029": {
+   "grade": 1,
+   "reason": "Discusses Ghana's gas issues, but not directly about payment arrears or offtake",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p02|ICR_P152670_32209930#0036": {
+   "grade": 1,
+   "reason": "Mentions payment guarantee, but doesn't directly address payment arrears or gas offtake",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p02|ICR_P152670_32209930#0041": {
+   "grade": 1,
+   "reason": "Mentions gas offtake issues, but not directly about payment arrears",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p02|ICR_P152670_32209930#0042": {
+   "grade": 0,
+   "reason": "Passage does not mention payment arrears or gas offtake.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p02|ICR_P152670_32209930#0062": {
+   "grade": 2,
+   "reason": "Directly discusses Ghana Sankofa Gas project payment and gas offtake",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p02|ICR_P152670_32209930#0085": {
+   "grade": 1,
+   "reason": "Mentions Ghana Sankofa Gas Project, but doesn't directly address payment arrears",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p02|ICR_P152670_32209930#0094": {
+   "grade": 0,
+   "reason": "Passage is unrelated to payment arrears and gas offtake",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p02|ICR_P152670_32209930#0155": {
+   "grade": 2,
+   "reason": "Directly addresses Ghana Sankofa Gas project payment arrears and gas offtake issues",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p02|ICR_P152670_32209930#0163": {
+   "grade": 1,
+   "reason": "Mentions related energy sector recovery plan, but not directly about payment arrears",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p02|ICR_P152670_32209930#0170": {
+   "grade": 1,
+   "reason": "Mentions Ghana Sankofa Gas Project, but doesn't address payment arrears or gas offtake",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p02|ICR_P152670_32209930#0214": {
+   "grade": 1,
+   "reason": "Mentions the project but doesn't directly address payment arrears or gas offtake",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p02|ICR_P152670_32209930#0218": {
+   "grade": 1,
+   "reason": "Mentions gas offtake, but doesn't directly address payment arrears.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p02|ICR_P152670_32209930#0235": {
+   "grade": 2,
+   "reason": "Directly discusses payment arrears and gas offtake for Ghana Sankofa Gas project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p02|ICR_P152670_32209930#0239": {
+   "grade": 2,
+   "reason": "Directly discusses payment mechanism and GNPC's role in Ghana Sankofa Gas project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p02|ICR_P152670_32209930#0242": {
+   "grade": 2,
+   "reason": "Directly discusses payment arrears and gas offtake for Ghana Sankofa Gas project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p02|ICR_P152670_32209930#0245": {
+   "grade": 1,
+   "reason": "Mentions the project but doesn't directly address payment arrears or gas offtake",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p02|ICR_P163984_34456887#0025": {
+   "grade": 2,
+   "reason": "Directly mentions Ghana Sankofa Gas project and related payment issues",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p02|PAD_P152670_24777111#0011": {
+   "grade": 1,
+   "reason": "Mentions Sankofa Gas Project, but lacks specific info on payment arrears",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p02|PAD_P152670_24777111#0155": {
+   "grade": 2,
+   "reason": "Directly mentions Ghana Sankofa Gas project payment arrears and gas offtake",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p02|PAD_P152670_24777111#0423": {
+   "grade": 2,
+   "reason": "Directly related to Ghana Sankofa Gas Project as per the passage title",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p02|PAD_P163984_30218398#0044": {
+   "grade": 2,
+   "reason": "Directly discusses Ghana Sankofa Gas project and gas offtake imbalance issues",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p02|PAD_P163984_30218398#0045": {
+   "grade": 1,
+   "reason": "Mentions related gas infrastructure and offtaker, but not directly about payment arrears",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p03|ICR_P159238_40042022#0002": {
+   "grade": 2,
+   "reason": "Passage is from ICR report for the specific project in Vietnam",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p03|ICR_P159238_40042022#0016": {
+   "grade": 1,
+   "reason": "Mentions the project but doesn't discuss civil works delays",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p03|ICR_P159238_40042022#0026": {
+   "grade": 1,
+   "reason": "Discusses road infrastructure in Vietnam, related to the project's context",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p03|ICR_P159238_40042022#0044": {
+   "grade": 2,
+   "reason": "Passage is from ICR report for the specific project in Vietnam mentioned",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p03|ICR_P159238_40042022#0064": {
+   "grade": 2,
+   "reason": "Passage is from ICR report for the specific project in Vietnam mentioned",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p03|ICR_P159238_40042022#0087": {
+   "grade": 2,
+   "reason": "Passage is from ICR report for the specific project in Vietnam mentioned",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p03|ICR_P159238_40042022#0096": {
+   "grade": 2,
+   "reason": "Passage is from ICR report for the specific project in Vietnam",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p03|ICR_P159238_40042022#0133": {
+   "grade": 2,
+   "reason": "Directly mentions civil works issues in the specified project and country",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p03|ICR_P159238_40042022#0140": {
+   "grade": 0,
+   "reason": "Passage does not mention civil works delays in the project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p03|ICR_P159238_40042022#0147": {
+   "grade": 1,
+   "reason": "Mentions project progress improvement, but not specifically about civil works delays",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p03|ICR_P159238_40042022#0153": {
+   "grade": 2,
+   "reason": "Passage is from ICR report for the specific project in Vietnam",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p03|ICR_P159238_40042022#0160": {
+   "grade": 1,
+   "reason": "Mentions project but doesn't directly address civil works delays in Vietnam",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p03|ICR_P159238_40042022#0161": {
+   "grade": 2,
+   "reason": "Directly discusses civil works and delays in the specified project in Vietnam",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p03|ICR_P159238_40042022#0168": {
+   "grade": 2,
+   "reason": "Passage is from ICR report for the specific project in Vietnam",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p03|ICR_P159238_40042022#0174": {
+   "grade": 2,
+   "reason": "Passage is from ICR report for the specific project in Vietnam",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p03|ICR_P159238_40042022#0189": {
+   "grade": 2,
+   "reason": "Passage is from ICR report for the specific project in Vietnam",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p03|ISR_P159238_40005856#0005": {
+   "grade": 1,
+   "reason": "Mentions project but doesn't directly address civil works delays",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p03|PAD_P159238_27565207#0019": {
+   "grade": 2,
+   "reason": "Passage is about the specific project in Vietnam mentioned in the question.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p03|PAD_P159238_27565207#0039": {
+   "grade": 1,
+   "reason": "Passage is about the project but doesn't mention civil works delays",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p03|PAD_P159238_27565207#0046": {
+   "grade": 2,
+   "reason": "Passage is about the specific project in Vietnam mentioned in the question.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p04|ICR_P161929_34444744#0003": {
+   "grade": 2,
+   "reason": "Directly related to Nepal bridges improvement program contractor performance",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p04|ICR_P161929_34444744#0013": {
+   "grade": 2,
+   "reason": "Directly related to Nepal bridges improvement program contractor performance",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p04|ICR_P161929_34444744#0024": {
+   "grade": 1,
+   "reason": "Mentions project and country, but doesn't directly assess contractor performance",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p04|ICR_P161929_34444744#0026": {
+   "grade": 1,
+   "reason": "Mentions BIMP program in Nepal, but doesn't discuss contractor performance",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p04|ICR_P161929_34444744#0030": {
+   "grade": 1,
+   "reason": "Passage is about the project but doesn't directly discuss contractor performance.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p04|ICR_P161929_34444744#0033": {
+   "grade": 2,
+   "reason": "Directly discusses contractor performance through BSMS quality monitoring and GRM response",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p04|ICR_P161929_34444744#0037": {
+   "grade": 1,
+   "reason": "Passage is about the project but doesn't directly discuss contractor performance.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p04|ICR_P161929_34444744#0042": {
+   "grade": 1,
+   "reason": "Passage is about the project but doesn't directly discuss contractor performance.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p04|ICR_P161929_34444744#0097": {
+   "grade": 2,
+   "reason": "Directly related to Nepal bridges improvement program contractor performance",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p04|ICR_P161929_34444744#0118": {
+   "grade": 1,
+   "reason": "Passage is about the project but doesn't directly address contractor performance.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p04|ICR_P161929_34444744#0138": {
+   "grade": 2,
+   "reason": "Directly discusses contractor performance in Nepal bridges improvement program",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p04|ICR_P161929_34444744#0144": {
+   "grade": 1,
+   "reason": "Mentions contract documentation, related to contractor performance, but not directly",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p04|ICR_P161929_34444744#0148": {
+   "grade": 2,
+   "reason": "Directly related to Nepal bridges improvement program contractor performance",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p04|ICR_P161929_34444744#0176": {
+   "grade": 1,
+   "reason": "Mentions the project but lacks specific info on contractor performance",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p04|ICR_P161929_34444744#0191": {
+   "grade": 2,
+   "reason": "Directly related to Nepal bridges improvement program contractor performance",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p04|ICR_P161929_34444744#0196": {
+   "grade": 2,
+   "reason": "Directly related to Nepal bridges improvement program contractor performance",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p04|PAD_P161929_30413036#0008": {
+   "grade": 2,
+   "reason": "Directly related to Nepal bridges improvement program, mentions contractor performance context.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p04|PAD_P161929_30413036#0013": {
+   "grade": 2,
+   "reason": "Directly mentions the project 'Second Bridges Improvement and Maintenance Program' in Nepal",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p04|PAD_P161929_30413036#0036": {
+   "grade": 1,
+   "reason": "Mentions Nepal bridges program, but doesn't discuss contractor performance.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p04|PAD_P161929_30413036#0098": {
+   "grade": 2,
+   "reason": "Directly discusses contractor performance in Nepal bridges improvement program",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p04|PAD_P171836_34256154#0074": {
+   "grade": 1,
+   "reason": "Mentions Nepal road improvement program, but not contractor performance specifically",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p05|ISR_P176429_40004773#0002": {
+   "grade": 2,
+   "reason": "Directly mentions the implementing agency for the Chattogram Water Supply Improvement Project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p05|ISR_P176429_40004773#0006": {
+   "grade": 1,
+   "reason": "Mentions related project but doesn't discuss water treatment plant procurement",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p05|ISR_P176429_40004773#0009": {
+   "grade": 1,
+   "reason": "Mentions related project but doesn't directly discuss water treatment plant procurement",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p05|ISR_P176429_40064494#0010": {
+   "grade": 1,
+   "reason": "Mentions related project but doesn't directly discuss water treatment plant procurement",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p05|ISR_P176429_40104270#0002": {
+   "grade": 2,
+   "reason": "Directly mentions the implementing agency for the Chattogram Water Supply Improvement Project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p05|ISR_P176429_40104270#0009": {
+   "grade": 1,
+   "reason": "Mentions related project, but doesn't directly discuss water treatment plant procurement",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p05|ISR_P176429_40121670#0006": {
+   "grade": 1,
+   "reason": "Mentions related project, but not specific to water treatment plant procurement",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p05|PAD_P176429_34431501#0027": {
+   "grade": 2,
+   "reason": "Directly mentions the Chattogram Water Supply Improvement Project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p05|PAD_P176429_34431501#0042": {
+   "grade": 1,
+   "reason": "Mentions related project but doesn't discuss water treatment plant procurement",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p05|PAD_P176429_34431501#0050": {
+   "grade": 0,
+   "reason": "Passage does not mention procurement of water treatment plant.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p05|PAD_P176429_34431501#0057": {
+   "grade": 1,
+   "reason": "Mentions related project, but doesn't directly discuss water treatment plant procurement",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p05|PAD_P176429_34431501#0073": {
+   "grade": 1,
+   "reason": "Mentions related project but doesn't discuss water treatment plant procurement",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p05|PAD_P176429_34431501#0081": {
+   "grade": 1,
+   "reason": "Mentions related project but doesn't directly address water treatment plant procurement",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p05|PAD_P176429_34431501#0082": {
+   "grade": 0,
+   "reason": "Passage is about a different project in Dhaka, not Chattogram water supply",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p05|PAD_P176429_34431501#0090": {
+   "grade": 0,
+   "reason": "Passage does not mention procurement of water treatment plant.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p05|PAD_P176429_34431501#0091": {
+   "grade": 0,
+   "reason": "No mention of water treatment plant procurement in the passage",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p05|PAD_P176429_34431501#0098": {
+   "grade": 1,
+   "reason": "Discusses CWASA and water supply, but not procurement of water treatment plant",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p05|PAD_P176429_34431501#0116": {
+   "grade": 0,
+   "reason": "Passage does not mention procurement of water treatment plant",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p05|PAD_P176429_34431501#0204": {
+   "grade": 2,
+   "reason": "Directly mentions the Chattogram Water Supply Improvement Project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p05|PAD_P176429_34431501#0208": {
+   "grade": 1,
+   "reason": "Mentions related project, but doesn't discuss water treatment plant procurement",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p05|PAD_P176429_34431501#0233": {
+   "grade": 1,
+   "reason": "Mentions related project, but doesn't discuss water treatment plant procurement",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p05|PAD_P176429_34431501#0245": {
+   "grade": 1,
+   "reason": "Mentions project but doesn't directly discuss water treatment plant procurement",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p06|ICR_P163984_34456887#0039": {
+   "grade": 1,
+   "reason": "Off-grid mentioned, but about Ghana, not Rwanda",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p06|ICR_P169040_33841582#0033": {
+   "grade": 1,
+   "reason": "Mentions off-grid access in Rwanda, but lacks procurement details.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p06|ICR_P169040_33841582#0034": {
+   "grade": 1,
+   "reason": "Mentions off-grid households, but lacks procurement details",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p06|ICR_P169040_33841582#0042": {
+   "grade": 1,
+   "reason": "Mentions off-grid energy in Rwanda, but not specifically solar procurement",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p06|ICR_P169040_33841582#0253": {
+   "grade": 2,
+   "reason": "Directly mentions Rwanda's off-grid solar targets and strategy adjustments",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p06|ICR_P169040_33841582#0259": {
+   "grade": 2,
+   "reason": "Directly discusses off-grid connections in Rwanda, relevant to the question.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p06|PAD_P180575_34205401#0025": {
+   "grade": 1,
+   "reason": "Mentions related World Bank energy program, but not the specific Rwanda project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p06|PAD_P180575_34205401#0041": {
+   "grade": 1,
+   "reason": "Mentions clean energy access, but not specific to Rwanda's off-grid solar procurement",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p06|PAD_P180575_34205401#0043": {
+   "grade": 2,
+   "reason": "Directly discusses Rwanda's clean energy access through off-grid solar technologies",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p06|PAD_P180575_34205401#0048": {
+   "grade": 2,
+   "reason": "Directly mentions Rwanda and off-grid electrification, relevant to clean energy access.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p06|PAD_P180575_34205401#0050": {
+   "grade": 2,
+   "reason": "Directly discusses clean energy access and off-grid opportunities in Rwanda",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p06|PAD_P180575_34205401#0055": {
+   "grade": 2,
+   "reason": "Directly mentions Rwanda clean energy access project with off-grid solar component",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p06|PAD_P180575_34205401#0127": {
+   "grade": 2,
+   "reason": "Directly mentions Rwanda clean energy access project, relevant to off-grid solar procurement",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p06|PAD_P180575_34205401#0148": {
+   "grade": 1,
+   "reason": "Mentions clean energy access in Rwanda, but lacks procurement details",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p06|PAD_P180575_34205401#0165": {
+   "grade": 2,
+   "reason": "Directly mentions off-grid systems in Rwanda's clean energy access project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p06|PAD_P180575_34205401#0304": {
+   "grade": 2,
+   "reason": "Directly mentions Rwanda clean energy access project with specific details",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p06|PAD_P180575_34205401#0309": {
+   "grade": 2,
+   "reason": "Directly mentions off-grid solar procurement in Rwanda's clean energy project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p06|PAD_P180575_34205401#0417": {
+   "grade": 0,
+   "reason": "Passage is about Somalia, not Rwanda, and a different project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p09|ICR_P168869_33660544#0151": {
+   "grade": 1,
+   "reason": "Mentions Digital Nepal initiative, but not specific to IT systems procurement",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p09|PAD_P176543_33835349#0013": {
+   "grade": 1,
+   "reason": "Mentions project name, but lacks specific procurement details",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p09|PAD_P176543_33835349#0021": {
+   "grade": 2,
+   "reason": "Directly mentions the Digital Nepal Acceleration project with its project ID",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p09|PAD_P176543_33835349#0028": {
+   "grade": 0,
+   "reason": "Passage discusses economic impact, not IT system procurement",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p09|PAD_P176543_33835349#0032": {
+   "grade": 2,
+   "reason": "Directly discusses the Digital Nepal Acceleration project and its related framework",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p09|PAD_P176543_33835349#0034": {
+   "grade": 2,
+   "reason": "Passage directly mentions Digital Nepal Acceleration project and its procurement context",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p09|PAD_P176543_33835349#0041": {
+   "grade": 1,
+   "reason": "Mentions the project but doesn't discuss procurement of IT systems",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p09|PAD_P176543_33835349#0048": {
+   "grade": 1,
+   "reason": "Mentions Digital Nepal Acceleration project, but not about IT systems procurement",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p09|PAD_P176543_33835349#0049": {
+   "grade": 1,
+   "reason": "Passage mentions Digital Nepal Acceleration project but doesn't discuss procurement of IT systems",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p09|PAD_P176543_33835349#0057": {
+   "grade": 2,
+   "reason": "Directly mentions Digital Nepal Acceleration project and its procurement of IT systems",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p09|PAD_P176543_33835349#0059": {
+   "grade": 1,
+   "reason": "Mentions need for IT systems protection, related to Digital Nepal project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p09|PAD_P176543_33835349#0064": {
+   "grade": 1,
+   "reason": "Mentions Digital Nepal Acceleration project, but doesn't discuss IT procurement",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p09|PAD_P176543_33835349#0071": {
+   "grade": 2,
+   "reason": "Passage is about Digital Nepal Acceleration project, mentioning IT systems indirectly",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p09|PAD_P176543_33835349#0072": {
+   "grade": 1,
+   "reason": "Mentions project but doesn't directly discuss IT systems procurement",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p09|PAD_P176543_33835349#0097": {
+   "grade": 1,
+   "reason": "Mentions project but doesn't discuss procurement of IT systems",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p09|PAD_P176543_33835349#0139": {
+   "grade": 2,
+   "reason": "Passage directly mentions the Digital Nepal Acceleration project (P176543)",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p09|PAD_P176543_33835349#0173": {
+   "grade": 2,
+   "reason": "Directly mentions the Digital Nepal Acceleration project and its World Bank ID",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p09|PAD_P176543_33835349#0185": {
+   "grade": 2,
+   "reason": "Directly mentions the Digital Nepal Acceleration project and its World Bank ID",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p09|PAD_P176543_33835349#0186": {
+   "grade": 2,
+   "reason": "Passage is directly related to Digital Nepal Acceleration project procurement",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p09|PAD_P176543_33835349#0187": {
+   "grade": 1,
+   "reason": "Mentions Digital Nepal Acceleration project, but lacks procurement details",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p09|PAD_P176543_33835349#0192": {
+   "grade": 2,
+   "reason": "Directly mentions Digital Nepal Acceleration project and procurement of IT systems",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p09|PAD_P176543_33835349#0206": {
+   "grade": 2,
+   "reason": "Directly mentions procurement arrangements for Digital Nepal Acceleration project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p11|PAD_P500727_34316274#0035": {
+   "grade": 2,
+   "reason": "Directly discusses challenges in Rohingya camps in Cox's Bazar",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p11|PAD_P500727_34316274#0043": {
+   "grade": 2,
+   "reason": "Directly discusses implementation challenges in Cox's Bazar Rohingya camps",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p11|PAD_P500727_34316274#0053": {
+   "grade": 2,
+   "reason": "Directly discusses activities and services in Cox's Bazar Rohingya camps",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p11|PAD_P500727_34316274#0058": {
+   "grade": 2,
+   "reason": "Directly addresses implementation challenges in Rohingya camps in Cox's Bazar",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p11|PAD_P500727_34316274#0063": {
+   "grade": 2,
+   "reason": "Directly discusses challenges in Rohingya camps in Cox's Bazar",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p11|PAD_P500727_34316274#0095": {
+   "grade": 1,
+   "reason": "Mentions DRP camps in Cox's Bazar, but doesn't discuss implementation challenges",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p11|PAD_P501274_34316279#0028": {
+   "grade": 2,
+   "reason": "Directly discusses challenges in Rohingya camps in Cox's Bazar",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p11|PAD_P501274_34316279#0037": {
+   "grade": 2,
+   "reason": "Directly addresses implementation challenges in Rohingya camps in Cox's Bazar",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p11|PAD_P501274_34316279#0038": {
+   "grade": 2,
+   "reason": "Directly mentions waste management challenges in Cox's Bazar Rohingya camps",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p11|PAD_P501274_34316279#0039": {
+   "grade": 2,
+   "reason": "Directly discusses implementation challenges in Rohingya camps in Cox's Bazar",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p11|PAD_P501274_34316279#0043": {
+   "grade": 1,
+   "reason": "Discusses Bhasan Char, not Cox's Bazar Rohingya camps implementation challenges",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p11|PAD_P501274_34316279#0046": {
+   "grade": 2,
+   "reason": "Directly discusses implementation challenges in Rohingya camps in Cox's Bazar",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p11|PAD_P501274_34316279#0049": {
+   "grade": 2,
+   "reason": "Directly discusses infrastructure challenges in Rohingya camps in Cox's Bazar",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p11|PAD_P501274_34316279#0057": {
+   "grade": 1,
+   "reason": "Mentions Cox's Bazar, but doesn't directly address implementation challenges",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p11|PAD_P501274_34316279#0064": {
+   "grade": 2,
+   "reason": "Directly discusses challenges in Rohingya camps in Cox's Bazar",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p11|PAD_P501274_34316279#0072": {
+   "grade": 1,
+   "reason": "Mentions project in Cox's Bazar, but doesn't discuss implementation challenges",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p13|ISR_P176812_40005778#0006": {
+   "grade": 2,
+   "reason": "Directly mentions Bay Terminal Marine Infrastructure Development Project in Chattogram, Bangladesh",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p13|ISR_P176812_40081405#0004": {
+   "grade": 2,
+   "reason": "Directly mentions Bay Terminal Marine Infrastructure Development Project in Chattogram, Bangladesh",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p13|ISR_P176812_40081405#0006": {
+   "grade": 2,
+   "reason": "Directly related to Bay Terminal project in Chattogram, Bangladesh",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p13|ISR_P176812_40081405#0016": {
+   "grade": 2,
+   "reason": "Passage is directly related to Bay Terminal Marine Infrastructure Development Project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p13|PAD_P176812_34338801#0015": {
+   "grade": 2,
+   "reason": "Directly mentions Bay Terminal Marine Infrastructure Development Project in Chattogram, Bangladesh",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p13|PAD_P176812_34338801#0027": {
+   "grade": 2,
+   "reason": "Directly mentions Bay Terminal Marine Infrastructure Development Project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p13|PAD_P176812_34338801#0036": {
+   "grade": 2,
+   "reason": "Directly mentions Bay Terminal Marine Infrastructure Development Project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p13|PAD_P176812_34338801#0042": {
+   "grade": 1,
+   "reason": "Mentions related project, but doesn't directly discuss the contract",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p13|PAD_P176812_34338801#0050": {
+   "grade": 2,
+   "reason": "Directly mentions Bay Terminal Marine Infrastructure Development Project in Chattogram, Bangladesh",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p13|PAD_P176812_34338801#0053": {
+   "grade": 2,
+   "reason": "Directly describes Bay Terminal project in Chattogram, Bangladesh",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p13|PAD_P176812_34338801#0054": {
+   "grade": 2,
+   "reason": "Directly mentions Bay Terminal project in Chattogram, Bangladesh",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p13|PAD_P176812_34338801#0056": {
+   "grade": 2,
+   "reason": "Directly mentions Bay Terminal breakwater and related infrastructure in Chattogram",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p13|PAD_P176812_34338801#0058": {
+   "grade": 2,
+   "reason": "Directly mentions Bay Terminal marine infrastructure project in Chattogram, Bangladesh",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p13|PAD_P176812_34338801#0062": {
+   "grade": 2,
+   "reason": "Passage directly mentions Bay Terminal Marine Infrastructure Development Project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p13|PAD_P176812_34338801#0064": {
+   "grade": 2,
+   "reason": "Directly mentions Bay Terminal breakwater and marine infrastructure project in Chattogram",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p13|PAD_P176812_34338801#0069": {
+   "grade": 2,
+   "reason": "Directly mentions Bay Terminal Marine Infrastructure Development Project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p13|PAD_P176812_34338801#0097": {
+   "grade": 2,
+   "reason": "Directly mentions Bay Terminal Marine Infrastructure Development Project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p13|PAD_P176812_34338801#0154": {
+   "grade": 2,
+   "reason": "Directly mentions Bay Terminal project in Chattogram, Bangladesh",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p13|PAD_P176812_34338801#0170": {
+   "grade": 2,
+   "reason": "Directly mentions Bay Terminal Marine Infrastructure Development Project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p13|PAD_P176812_34338801#0180": {
+   "grade": 2,
+   "reason": "Directly mentions Bay Terminal Marine Infrastructure Development Project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p19|PAD_P178161_34161578#0038": {
+   "grade": 2,
+   "reason": "Directly mentions floods, landslides, and damage in Rwanda, relevant to the question.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p19|PAD_P178161_34161578#0039": {
+   "grade": 1,
+   "reason": "Discusses flood impact in Rwanda, but not specifically on connectivity restoration",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p19|PAD_P178161_34161578#0043": {
+   "grade": 1,
+   "reason": "Mentions floods and landslides in Rwanda, but not about connectivity restoration",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p19|PAD_P180228_34279685#0025": {
+   "grade": 1,
+   "reason": "Mentions Rwanda's vulnerability to floods and landslides, but not emergency connectivity",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p19|PAD_P180228_34279685#0026": {
+   "grade": 2,
+   "reason": "Directly mentions Rwanda's recent flooding and landslides, matching the question's context.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p19|PAD_P180228_34279685#0060": {
+   "grade": 1,
+   "reason": "Mentions Rwanda Emergency Connectivity Restoration Project, but doesn't provide details.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p19|PAD_P180228_34279685#0061": {
+   "grade": 1,
+   "reason": "Mentions Rwanda Emergency Connectivity Restoration Project, but doesn't provide details",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p19|PAD_P504023_34302716#0014": {
+   "grade": 2,
+   "reason": "Directly mentions Rwanda-Emergency Connectivity Restoration Project, matching the question.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p19|PAD_P504023_34302716#0024": {
+   "grade": 2,
+   "reason": "Directly discusses Rwanda's vulnerability to floods and landslides, relevant to the question.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p19|PAD_P504023_34302716#0027": {
+   "grade": 2,
+   "reason": "Directly describes the damage caused by floods and landslides in Rwanda.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p19|PAD_P504023_34302716#0035": {
+   "grade": 2,
+   "reason": "Directly discusses Rwanda emergency connectivity restoration project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p19|PAD_P504023_34302716#0039": {
+   "grade": 2,
+   "reason": "Directly addresses Rwanda's emergency connectivity restoration after floods and landslides",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p19|PAD_P504023_34302716#0042": {
+   "grade": 0,
+   "reason": "Passage discusses gender gaps in transport sector, not emergency connectivity restoration",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p19|PAD_P504023_34302716#0046": {
+   "grade": 1,
+   "reason": "Passage discusses Rwanda project but focuses on gender representation, not connectivity restoration.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p19|PAD_P504023_34302716#0053": {
+   "grade": 2,
+   "reason": "Directly related to Rwanda emergency connectivity restoration project P504023",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p19|PAD_P504023_34302716#0077": {
+   "grade": 2,
+   "reason": "Directly discusses Rwanda's emergency connectivity restoration project after floods",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p19|PAD_P504023_34302716#0084": {
+   "grade": 2,
+   "reason": "Directly mentions the Rwanda-Emergency Connectivity Restoration Project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p19|PAD_P504023_34302716#0100": {
+   "grade": 2,
+   "reason": "Directly addresses Rwanda's emergency connectivity restoration after floods and landslides",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p19|PAD_P504023_34302716#0101": {
+   "grade": 2,
+   "reason": "Directly discusses Rwanda-Emergency Connectivity Restoration Project after floods and landslides",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p19|PAD_P504023_34302716#0130": {
+   "grade": 2,
+   "reason": "Directly mentions Rwanda emergency connectivity restoration project and its activities",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p19|PAD_P504023_34302716#0176": {
+   "grade": 2,
+   "reason": "Directly mentions Rwanda emergency connectivity restoration project and its implementation details",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p19|PAD_P504023_34302716#0223": {
+   "grade": 2,
+   "reason": "Directly discusses Rwanda's emergency connectivity restoration project after floods",
+   "by": "databricks-llama-4-maverick"
+  },
+  "p19|PAD_P504023_34302716#0229": {
+   "grade": 2,
+   "reason": "Directly mentions Rwanda-Emergency Connectivity Restoration Project, relevant to the question.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t01|ICR_P159238_40042022#0146": {
+   "grade": 0,
+   "reason": "Passage does not mention re-tendering or re-advertising of bids or contracts.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t01|ICR_P164603_34169342#0193": {
+   "grade": 2,
+   "reason": "Directly explains why contracts were re-initiated due to unforeseen circumstances.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t01|ICR_P164665_34457765#0123": {
+   "grade": 1,
+   "reason": "Mentions procurement challenges, but doesn't directly address re-tendering or re-advertising.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t01|PAD_P152670_24777111#0192": {
+   "grade": 2,
+   "reason": "Directly mentions re-submitting prices for the Ghana Sankofa Gas Project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t01|PAD_P154784_27118142#0416": {
+   "grade": 0,
+   "reason": "Passage does not mention re-tendering or re-advertising of bids or contracts.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t01|PAD_P154784_27118142#0417": {
+   "grade": 0,
+   "reason": "Passage does not mention re-tendering or re-advertising of bids or contracts.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t01|PAD_P154784_27118142#0418": {
+   "grade": 0,
+   "reason": "Passage does not mention re-tendering or re-advertising of bids or contracts.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t01|PAD_P160758_27746276#0043": {
+   "grade": 0,
+   "reason": "Passage does not mention re-tendering or re-advertising contracts or bids.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t01|PAD_P161929_30413036#0094": {
+   "grade": 0,
+   "reason": "Passage does not mention re-tendering or re-advertising of bids or contracts.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t01|PAD_P176429_34431501#0173": {
+   "grade": 0,
+   "reason": "Passage does not mention re-tendering or re-advertising contracts or bids.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t01|PAD_P176429_34431501#0298": {
+   "grade": 0,
+   "reason": "Passage discusses procurement regulations, not reasons for re-tendering or re-advertising contracts.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t01|PAD_P176429_34431501#0302": {
+   "grade": 0,
+   "reason": "Passage does not mention re-tendering or re-advertising contracts.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t01|PAD_P177902_33840182#0189": {
+   "grade": 0,
+   "reason": "Passage does not mention re-tendering or re-advertising bids or contracts.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t01|PAD_P180228_34279685#0269": {
+   "grade": 0,
+   "reason": "Passage discusses record keeping, not re-tendering or re-advertising contracts.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t01|PAD_P180228_34279685#0270": {
+   "grade": 0,
+   "reason": "Passage discusses procurement information disclosure, not re-tendering or re-advertising contracts.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t01|PAD_P180228_34279685#0271": {
+   "grade": 0,
+   "reason": "Passage does not mention re-tendering or re-advertising of bids or contracts.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t01|PAD_P180228_34279685#0272": {
+   "grade": 0,
+   "reason": "Passage does not mention re-tendering or re-advertising of bids or contracts.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t01|PAD_P504023_34302716#0219": {
+   "grade": 0,
+   "reason": "Passage discusses procurement information disclosure, not bid re-tendering or contract re-advertisement.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t02|ICR_P157127_34365948#0192": {
+   "grade": 0,
+   "reason": "Passage discusses cost-benefit analysis, not bid prices or cost estimates.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t02|ICR_P160162_34360386#0149": {
+   "grade": 2,
+   "reason": "Directly discusses underestimating costs, relevant to bid prices being above estimate",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t02|ICR_P160162_34360386#0150": {
+   "grade": 1,
+   "reason": "Mentions cost estimates, but not directly related to bid prices being high",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t02|ICR_P172321_33904241#0053": {
+   "grade": 0,
+   "reason": "Passage does not mention bid prices or cost estimates for project P172321.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t02|ISR_P171836_40120727#0002": {
+   "grade": 0,
+   "reason": "Passage provides project costs, not bid prices or comparison to estimate",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t02|PAD_P152171_26689756#0028": {
+   "grade": 0,
+   "reason": "Passage discusses fiscal deficit, not bid prices or cost estimate.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t02|PAD_P152670_24777111#0173": {
+   "grade": 0,
+   "reason": "Passage discusses project returns and not bid prices or cost estimates",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t02|PAD_P152670_24777111#0192": {
+   "grade": 2,
+   "reason": "Directly addresses bid prices in relation to cost estimate for Ghana Sankofa Gas Project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t02|PAD_P154784_27118142#0418": {
+   "grade": 0,
+   "reason": "Passage does not mention bid prices or cost estimates.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t02|PAD_P154784_27118142#0558": {
+   "grade": 0,
+   "reason": "Passage discusses project cost analysis, not bid prices or cost estimate.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t02|PAD_P160162_29972273#0106": {
+   "grade": 0,
+   "reason": "Passage discusses economic vs financial prices, not bid prices or cost estimates.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t02|PAD_P160162_29972273#0227": {
+   "grade": 0,
+   "reason": "Passage discusses economic cost conversion, not bid prices or cost estimates.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t02|PAD_P160758_27746276#0043": {
+   "grade": 0,
+   "reason": "Passage does not mention bid prices or cost estimates.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t02|PAD_P160758_27746276#0044": {
+   "grade": 0,
+   "reason": "Passage does not discuss bid prices or cost estimates.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t02|PAD_P168290_31118347#0137": {
+   "grade": 0,
+   "reason": "Passage discusses economic cost conversion, not bid prices or cost estimates.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t02|PAD_P168290_31118347#0245": {
+   "grade": 0,
+   "reason": "Passage discusses economic cost conversion, not bid prices or cost estimates.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t02|PAD_P170215_32482795#0171": {
+   "grade": 1,
+   "reason": "Mentions bid price and cost estimate, but not directly related to the question",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t02|PAD_P170215_32482795#0214": {
+   "grade": 0,
+   "reason": "Passage discusses GHG emissions, not bid prices or cost estimates.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t02|PAD_P171700_32126612#0354": {
+   "grade": 0,
+   "reason": "Passage discusses economic prices, not bid prices or cost estimates.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t02|PAD_P171836_34256154#0316": {
+   "grade": 1,
+   "reason": "Mentions cost estimate, but not directly related to bid prices being above it",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t02|PAD_P171836_34256154#0317": {
+   "grade": 0,
+   "reason": "Passage does not mention bid prices or cost estimate comparison",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t02|PAD_P174157_34113326#0249": {
+   "grade": 0,
+   "reason": "Passage discusses cost calculation methodology, not bid prices or cost estimates.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t02|PAD_P176429_34431501#0298": {
+   "grade": 1,
+   "reason": "Mentions estimated cost, but doesn't directly address bid prices being above it",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t02|PAD_P176429_34431501#0301": {
+   "grade": 1,
+   "reason": "Discusses procurement evaluation criteria, related to bid prices and cost estimates",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t02|PAD_P180228_34279685#0269": {
+   "grade": 0,
+   "reason": "Passage discusses record keeping, not bid prices or cost estimates.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t02|PAD_P180719_34317010#0051": {
+   "grade": 0,
+   "reason": "Passage discusses financial sector support, not bid prices or cost estimates.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t02|PAD_P180719_34317010#0238": {
+   "grade": 1,
+   "reason": "Discusses procurement risks and mitigation, related to pricing and inflation",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t03|ICR_P145765_33121052#0138": {
+   "grade": 2,
+   "reason": "Directly addresses delays in procurement approvals for the specified project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t03|ICR_P156777_34345426#0098": {
+   "grade": 2,
+   "reason": "Directly mentions delays in procurement approvals by the implementing agency",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t03|ICR_P159238_40042022#0146": {
+   "grade": 2,
+   "reason": "Directly mentions delays in procurement approvals for project P159238 in Viet Nam",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t03|ICR_P161787_34455054#0053": {
+   "grade": 2,
+   "reason": "Directly mentions delays in procurement approvals by the implementing agency",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t03|ICR_P161787_34455054#0091": {
+   "grade": 2,
+   "reason": "Directly mentions delayed procurement approvals by CTRC, relevant to the question.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t03|ICR_P163984_34456887#0139": {
+   "grade": 2,
+   "reason": "Directly addresses procurement delays by the implementing agency in Ghana project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t03|ICR_P164603_34169342#0196": {
+   "grade": 2,
+   "reason": "Directly addresses delays in procurement approvals for the specified project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t03|ICR_P164665_34457765#0123": {
+   "grade": 2,
+   "reason": "Directly mentions delays in launching and finalizing procurements for project P164665",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t03|PAD_P156849_27412481#0263": {
+   "grade": 2,
+   "reason": "Directly mentions delays in procurement review and decision-making process",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t03|PAD_P156849_27412481#0264": {
+   "grade": 2,
+   "reason": "Directly mentions delays in procurement review and decision-making process",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t03|PAD_P160758_27746276#0047": {
+   "grade": 2,
+   "reason": "Directly mentions delays in procurement approvals by implementing agency CPTU.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t03|PAD_P161387_27917640#0131": {
+   "grade": 2,
+   "reason": "Directly mentions delays in procurement approvals in the implementing agency",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t03|PAD_P176429_34431501#0290": {
+   "grade": 2,
+   "reason": "Directly mentions delays in procurement approvals within the government agency",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t03|PAD_P176429_34431501#0291": {
+   "grade": 2,
+   "reason": "Directly mentions delays in procurement approvals for the specified project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t03|PAD_P176543_33835349#0207": {
+   "grade": 1,
+   "reason": "Passage is on topic but doesn't directly address procurement approval delays",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t03|PAD_P179414_34071149#0333": {
+   "grade": 2,
+   "reason": "Directly mentions delays in procurement approvals by implementing agency in Kenya project.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t03|PAD_P180228_34279685#0256": {
+   "grade": 1,
+   "reason": "Mentions procurement systems, but doesn't directly address approval delays",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t03|PAD_P180228_34279685#0260": {
+   "grade": 1,
+   "reason": "Mentions procurement staff, related to procurement approvals, but doesn't directly address delays.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t03|PAD_P180228_34279685#0273": {
+   "grade": 1,
+   "reason": "Mentions implementing agency but doesn't directly address procurement approval delays",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t03|PAD_P180575_34205401#0319": {
+   "grade": 1,
+   "reason": "Mentions procurement process, but doesn't directly address approval delays",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t03|PAD_P180719_34317010#0240": {
+   "grade": 1,
+   "reason": "Mentions procurement implementation arrangement, but doesn't directly address delays",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t03|PAD_P180719_34317010#0242": {
+   "grade": 2,
+   "reason": "Directly mentions delays in procurement approvals for the specified project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t04|ICR_P156849_34219489#0153": {
+   "grade": 2,
+   "reason": "Directly discusses poor contractor performance and slow civil works progress in SAHEP project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t04|ICR_P156849_34219489#0179": {
+   "grade": 2,
+   "reason": "Directly discusses procurement issues and delays in civil works for SAHEP project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t04|ICR_P157127_34365948#0148": {
+   "grade": 1,
+   "reason": "Mentions procurement issues, but not directly about contractor performance or progress.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t04|ICR_P159238_40042022#0111": {
+   "grade": 2,
+   "reason": "Directly explains slow progress of civil works due to material price rise",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t04|ICR_P159238_40042022#0118": {
+   "grade": 2,
+   "reason": "Directly addresses poor contractor performance and slow progress in specified project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t04|ICR_P159238_40042022#0128": {
+   "grade": 2,
+   "reason": "Directly mentions poor contractor performance and slow progress of civil works",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t04|ICR_P159238_40042022#0141": {
+   "grade": 0,
+   "reason": "Passage discusses Grievance Redress Mechanism, not contractor performance or civil works progress.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t04|ICR_P159238_40042022#0145": {
+   "grade": 0,
+   "reason": "Passage discusses procurement process, not contractor performance or progress of civil works.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t04|ICR_P159238_40042022#0146": {
+   "grade": 2,
+   "reason": "Directly mentions poor contractor performance and slow progress of civil works",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t04|ICR_P159238_40042022#0161": {
+   "grade": 2,
+   "reason": "Directly addresses contractor performance and progress in the specified project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t04|ICR_P159397_40006871#0159": {
+   "grade": 2,
+   "reason": "Directly discusses poor contractor performance and slow progress in Vietnam project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t04|ICR_P160162_34360386#0133": {
+   "grade": 1,
+   "reason": "Mentions procurement challenges, but not directly about contractor performance",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t04|ICR_P161929_34444744#0122": {
+   "grade": 1,
+   "reason": "Mentions slow decision-making process, related to contractor performance indirectly",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t04|ICR_P164665_34457765#0125": {
+   "grade": 0,
+   "reason": "Passage discusses financial management, not contractor performance or civil works progress.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t04|ISR_P159238_34401064#0004": {
+   "grade": 2,
+   "reason": "Directly addresses poor contractor performance and slow progress in specified project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t04|ISR_P159238_34401064#0005": {
+   "grade": 2,
+   "reason": "Directly addresses delay in civil works for the specified project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t04|ISR_P161929_33763398#0001": {
+   "grade": 1,
+   "reason": "Mentions progress but doesn't directly address poor contractor performance",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t04|ISR_P161929_34033027#0003": {
+   "grade": 2,
+   "reason": "Directly discusses contractor performance and progress of civil works in Nepal project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t04|ISR_P177902_40011503#0005": {
+   "grade": 2,
+   "reason": "Directly discusses contractor performance and progress of civil works in specified project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t04|ISR_P177902_40011503#0008": {
+   "grade": 1,
+   "reason": "Mentions implementation performance, but not directly about contractor performance",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t04|ISR_P178985_40104397#0021": {
+   "grade": 2,
+   "reason": "Directly mentions slow implementation of civil works in Bangladesh project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t04|PAD_P154784_27118142#0418": {
+   "grade": 1,
+   "reason": "Mentions civil works and contractor's name, but doesn't discuss performance or progress",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t04|PAD_P164665_30484941#0044": {
+   "grade": 1,
+   "reason": "Discusses poor public sector performance, related to contractor performance indirectly",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t04|PAD_P169954_34332757#0227": {
+   "grade": 2,
+   "reason": "Directly mentions poor contractor performance for the specified project P169954",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t04|PAD_P171700_32126612#0335": {
+   "grade": 1,
+   "reason": "Discusses procurement approaches for civil works, related to contractor performance",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t04|PAD_P180228_34279685#0107": {
+   "grade": 2,
+   "reason": "Directly addresses contractor performance and progress in Kigali Logistics Platform project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t05|ICR_P156849_34219489#0175": {
+   "grade": 2,
+   "reason": "Directly mentions land acquisition and resettlement impacts for the SAHEP project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t05|ICR_P156849_34219489#0176": {
+   "grade": 2,
+   "reason": "Directly mentions land acquisition delays affecting civil works in SAHEP project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t05|ICR_P156849_34219489#0179": {
+   "grade": 2,
+   "reason": "Directly mentions land acquisition delaying civil works in SAHEP project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t05|ICR_P156849_34219489#0195": {
+   "grade": 2,
+   "reason": "Directly addresses land acquisition delaying project activities and civil works",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t05|ICR_P159238_40042022#0134": {
+   "grade": 2,
+   "reason": "Directly addresses land acquisition and resettlement for the specified project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t05|ICR_P159238_40042022#0141": {
+   "grade": 2,
+   "reason": "Directly discusses land acquisition and resettlement issues for project P159238",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t05|ICR_P159238_40042022#0163": {
+   "grade": 2,
+   "reason": "Directly discusses land acquisition and resettlement delaying civil works in Vietnam project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t05|ICR_P159397_40006871#0128": {
+   "grade": 1,
+   "reason": "Mentions land acquisition, but doesn't directly address delaying civil works",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t05|ICR_P159397_40006871#0130": {
+   "grade": 2,
+   "reason": "Directly mentions land acquisition and resettlement challenges for project P159397",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t05|ICR_P159397_40006871#0131": {
+   "grade": 2,
+   "reason": "Directly discusses LAR challenges delaying civil works in Vietnam project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t05|ICR_P159397_40006871#0162": {
+   "grade": 2,
+   "reason": "Directly addresses LAR delaying civil works in Vietnam SUUP project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t05|ICR_P159397_40006871#0163": {
+   "grade": 1,
+   "reason": "Related to land acquisition and resettlement, but not directly about project P159397",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t05|ICR_P160162_34360386#0129": {
+   "grade": 2,
+   "reason": "Directly mentions land acquisition and resettlement for project P160162",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t05|PAD_P152670_24777111#0195": {
+   "grade": 2,
+   "reason": "Directly discusses land acquisition and resettlement for the Ghana Sankofa Gas Project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t05|PAD_P156849_27412481#0141": {
+   "grade": 2,
+   "reason": "Directly mentions land acquisition and resettlement for the specified project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t05|PAD_P161929_30413036#0113": {
+   "grade": 1,
+   "reason": "Mentions land acquisition and resettlement, but doesn't directly address delays.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t05|PAD_P161929_30413036#0267": {
+   "grade": 2,
+   "reason": "Directly mentions land acquisition and resettlement for the specified project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t05|PAD_P161929_30413036#0268": {
+   "grade": 2,
+   "reason": "Directly discusses land acquisition and resettlement for bridge construction project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t05|PAD_P161929_30413036#0286": {
+   "grade": 1,
+   "reason": "Discusses land acquisition issues, but doesn't directly address delays in civil works",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t05|PAD_P171700_32126612#0235": {
+   "grade": 2,
+   "reason": "Directly mentions land acquisition and resettlement risks for the specified project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t05|PAD_P172499_34152795#0108": {
+   "grade": 1,
+   "reason": "Mentions land acquisition and resettlement, but not specifically delaying civil works",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t05|PAD_P172499_34152795#0109": {
+   "grade": 2,
+   "reason": "Directly mentions land acquisition and resettlement delaying civil works is not stated",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t05|PAD_P174157_34113326#0158": {
+   "grade": 1,
+   "reason": "Mentions land acquisition and resettlement, but doesn't directly link to delaying civil works",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t05|PAD_P174157_34113326#0163": {
+   "grade": 2,
+   "reason": "Directly mentions land acquisition and resettlement risks for the specified project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t05|PAD_P174157_34113326#0164": {
+   "grade": 2,
+   "reason": "Directly mentions land acquisition and resettlement risks for the specified project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t06|ICR_P145765_33121052#0138": {
+   "grade": 2,
+   "reason": "Directly addresses weak procurement capacity of the implementing agency in Ghana.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t06|ICR_P161787_34455054#0141": {
+   "grade": 2,
+   "reason": "Directly addresses weak procurement capacity of the implementing agency in Ghana project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t06|ICR_P164665_34457765#0122": {
+   "grade": 2,
+   "reason": "Directly addresses weak procurement capacity of the PMU in the specified project.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t06|ICR_P178531_40106165#0169": {
+   "grade": 2,
+   "reason": "Directly discusses capacity constraints of implementing agencies in Nepal's context.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t06|PAD_P154784_27118142#0135": {
+   "grade": 2,
+   "reason": "Directly addresses weak procurement capacity of the main implementing agency, MoALF.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t06|PAD_P160758_27746276#0047": {
+   "grade": 2,
+   "reason": "Directly mentions inadequate capacity of the nodal agency, CPTU, in Bangladesh.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t06|PAD_P161387_27917640#0131": {
+   "grade": 2,
+   "reason": "Directly discusses procurement capacity issues in the specified project, P161387.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t06|PAD_P161787_30396863#0318": {
+   "grade": 2,
+   "reason": "Directly mentions low procurement capacity of existing staff in Ghana project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t06|PAD_P176543_33835349#0207": {
+   "grade": 1,
+   "reason": "Passage mentions implementing agency, but lacks specific procurement capacity details",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t06|PAD_P176589_33819084#0179": {
+   "grade": 2,
+   "reason": "Directly mentions weak procurement capacity of implementing agencies in Project P176589",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t06|PAD_P178133_34180600#0107": {
+   "grade": 2,
+   "reason": "Directly mentions weak technical capacity of the implementing agency in Bangladesh.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t06|PAD_P179414_34071149#0222": {
+   "grade": 2,
+   "reason": "Directly addresses weak procurement capacity and mitigation measures for project P179414",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t06|PAD_P179414_34071149#0328": {
+   "grade": 2,
+   "reason": "Directly mentions assessment of implementing agency procurement capacity for project P179414",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t06|PAD_P180228_34279685#0258": {
+   "grade": 2,
+   "reason": "Directly mentions procurement capacity assessment of implementing agencies for project P180228",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t06|PAD_P180228_34279685#0273": {
+   "grade": 2,
+   "reason": "Directly addresses contract management and capacity of implementing agency for project P180228",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t06|PAD_P180575_34205401#0319": {
+   "grade": 1,
+   "reason": "Mentions procurement risk rated Moderate, implies some capacity issues.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t06|PAD_P180719_34317010#0240": {
+   "grade": 2,
+   "reason": "Directly addresses procurement capacity for the specified project P180719 in Ghana",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t06|PAD_P180719_34317010#0241": {
+   "grade": 2,
+   "reason": "Directly assesses procurement capacity of MoF for Ghana Financial Stability Project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t06|PAD_P500727_34316274#0214": {
+   "grade": 2,
+   "reason": "Directly addresses procurement capacity of implementing agency for project P500727",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t07|ICR_P156777_34345426#0098": {
+   "grade": 2,
+   "reason": "Directly discusses procurement lessons from a completed World Bank project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t07|ICR_P157127_34365948#0149": {
+   "grade": 2,
+   "reason": "Directly provides lessons learned about procurement from a completed World Bank project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t07|ICR_P160758_34360544#0134": {
+   "grade": 2,
+   "reason": "Directly discusses lessons learned about procurement from a completed project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t07|ICR_P160758_34360544#0147": {
+   "grade": 1,
+   "reason": "Mentions lessons learned but doesn't provide specific details or context.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t07|ICR_P160758_34360544#0159": {
+   "grade": 2,
+   "reason": "Directly discusses lessons learned from a specific project, P160758.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t07|ICR_P161787_34455054#0141": {
+   "grade": 2,
+   "reason": "Directly discusses procurement lessons from a completed World Bank project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t07|ICR_P163984_34456887#0140": {
+   "grade": 2,
+   "reason": "Directly mentions procurement experience from a completed World Bank project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t07|ICR_P164211_34446777#0105": {
+   "grade": 2,
+   "reason": "Directly answers the question with specific project procurement lessons learned",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t07|ICR_P168204_33904241#0150": {
+   "grade": 2,
+   "reason": "Directly discusses lessons learned from a specific World Bank project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t07|ICR_P168869_33660544#0138": {
+   "grade": 2,
+   "reason": "Directly mentions lessons learned from a specific project series",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t07|ICR_P169040_33841582#0249": {
+   "grade": 2,
+   "reason": "Directly addresses lessons learned from a specific World Bank project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t07|ICR_P169040_33841582#0262": {
+   "grade": 2,
+   "reason": "Directly discusses lessons learned from a completed World Bank project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t07|ICR_P172321_33904241#0150": {
+   "grade": 2,
+   "reason": "Directly discusses lessons learned from a specific project in Kenya",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t07|PAD_P166656_32132529#0050": {
+   "grade": 1,
+   "reason": "Mentions lessons learned but doesn't provide specific procurement lessons or details.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t07|PAD_P169954_34332757#0093": {
+   "grade": 2,
+   "reason": "Directly discusses lessons learned from previous projects in Viet Nam",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t07|PAD_P179414_34071149#0222": {
+   "grade": 1,
+   "reason": "Mentions lessons learned, but doesn't provide specific procurement lessons or details.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t07|PAD_P179414_34071149#0328": {
+   "grade": 0,
+   "reason": "Passage discusses procurement strategy, not lessons learned from completed projects.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t07|PAD_P180228_34279685#0267": {
+   "grade": 1,
+   "reason": "Generic information on procurement methods, not specific lessons learned",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t07|PAD_P180465_34294532#0181": {
+   "grade": 1,
+   "reason": "Generic procurement information, not lessons learned from completed projects",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t07|PAD_P501274_34316279#0060": {
+   "grade": 1,
+   "reason": "Mentions 'lessons learned' but doesn't specify procurement-related lessons.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t07|PAD_P504023_34302716#0089": {
+   "grade": 1,
+   "reason": "Mentions procurement process, but doesn't discuss lessons learned from completed projects.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t07|PAD_P504764_34314972#0081": {
+   "grade": 0,
+   "reason": "Passage explicitly states that no lessons learned have been drawn from the project.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t08|ICR_P159238_40042022#0145": {
+   "grade": 0,
+   "reason": "Passage does not mention cost overruns on civil works contracts",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t08|ICR_P159238_40042022#0146": {
+   "grade": 1,
+   "reason": "Mentions implementation delays, but not directly about cost overruns",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t08|ICR_P159238_40042022#0161": {
+   "grade": 1,
+   "reason": "Discusses project management approach, not directly addressing cost overruns",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t08|ICR_P159397_40006871#0159": {
+   "grade": 1,
+   "reason": "Mentions civil works and project issues, but doesn't directly address cost overruns",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t08|ICR_P160162_34360386#0134": {
+   "grade": 2,
+   "reason": "Directly mentions 'no cost overruns' for the specified project P160162",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t08|ICR_P164211_34446777#0123": {
+   "grade": 2,
+   "reason": "Directly discusses cost overruns on civil works contracts in a specific project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t08|ICR_P164603_34169342#0193": {
+   "grade": 2,
+   "reason": "Directly addresses cost overruns due to unforeseen circumstances and macro-economic factors.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t08|PAD_P154784_27118142#0417": {
+   "grade": 0,
+   "reason": "Passage discusses procurement transparency, not cost overruns on civil works contracts.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t08|PAD_P154784_27118142#0418": {
+   "grade": 1,
+   "reason": "Mentions civil works contracts, but doesn't discuss cost overruns directly",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t08|PAD_P159238_27565207#0114": {
+   "grade": 1,
+   "reason": "Mentions civil works contracts but doesn't discuss cost overruns directly",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t08|PAD_P159238_27565207#0115": {
+   "grade": 0,
+   "reason": "Passage discusses procurement strategy, not cost overruns on civil works contracts.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t08|PAD_P159238_27565207#0117": {
+   "grade": 1,
+   "reason": "Mentions inflation leading to increased investment cost, related to cost overruns",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t08|PAD_P160162_29972273#0130": {
+   "grade": 1,
+   "reason": "Discusses civil works contracts, but doesn't address cost overruns directly",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t08|PAD_P160162_29972273#0134": {
+   "grade": 0,
+   "reason": "Passage does not mention cost overruns on civil works contracts.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t08|PAD_P161929_30413036#0060": {
+   "grade": 0,
+   "reason": "Passage does not mention cost overruns on civil works contracts.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t08|PAD_P161929_30413036#0252": {
+   "grade": 1,
+   "reason": "Mentions project cost overruns, but not specifically 'cost overruns on civil works contracts'",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t08|PAD_P161929_30413036#0253": {
+   "grade": 1,
+   "reason": "Mentions project cost overruns, but not specific to civil works contracts",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t08|PAD_P168290_31118347#0164": {
+   "grade": 0,
+   "reason": "Passage does not discuss cost overruns on civil works contracts.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t08|PAD_P168290_31118347#0168": {
+   "grade": 0,
+   "reason": "Passage does not mention cost overruns on civil works contracts.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t08|PAD_P171700_32126612#0334": {
+   "grade": 1,
+   "reason": "Discusses procurement approaches, related to cost overruns, but not directly addressing it",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t08|PAD_P171700_32126612#0335": {
+   "grade": 1,
+   "reason": "Discusses procurement approaches for civil works contracts, related to cost overruns",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t08|PAD_P180228_34279685#0270": {
+   "grade": 1,
+   "reason": "Mentions contract progress reports, related to cost overruns, but not directly",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t08|PAD_P504023_34302716#0082": {
+   "grade": 2,
+   "reason": "Directly addresses cost overruns for a specific project in Rwanda",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t09|ICR_P156777_34345426#0123": {
+   "grade": 2,
+   "reason": "Directly addresses delays in releasing counterpart funds in Kenya Urban Support Program",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t09|ICR_P156849_34219489#0055": {
+   "grade": 0,
+   "reason": "Passage does not mention delays in releasing counterpart funds",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t09|ICR_P156849_34219489#0153": {
+   "grade": 2,
+   "reason": "Directly mentions delays in releasing counterpart funds for SAHEP project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t09|ICR_P156849_34219489#0192": {
+   "grade": 1,
+   "reason": "Mentions delays in financing arrangements, related to counterpart funds concept",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t09|ICR_P159238_40042022#0047": {
+   "grade": 2,
+   "reason": "Passage directly discusses counterpart funds for the specified project in Viet Nam",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t09|ICR_P159238_40042022#0143": {
+   "grade": 2,
+   "reason": "Directly mentions delays in releasing counterpart funds, related to Government's budget allocation",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t09|ICR_P159397_40006871#0132": {
+   "grade": 2,
+   "reason": "Directly mentions delays in releasing counterpart funds for project P159397",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t09|ICR_P160162_34360386#0039": {
+   "grade": 2,
+   "reason": "Directly mentions counterpart funds spent for the specified project P160162",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t09|ICR_P160162_34360386#0111": {
+   "grade": 2,
+   "reason": "Directly discusses delays in releasing counterpart funds for the specified project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t09|ICR_P161929_34444744#0040": {
+   "grade": 1,
+   "reason": "Mentions counterpart funds, but doesn't discuss delays in releasing them",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t09|ICR_P163984_34456887#0135": {
+   "grade": 0,
+   "reason": "Passage does not mention counterpart funds or related delays.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t09|ICR_P164603_34169342#0191": {
+   "grade": 2,
+   "reason": "Directly addresses delays in releasing counterpart funds for Ghana project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t09|PAD_P157127_27565228#0313": {
+   "grade": 1,
+   "reason": "Mentions counterpart funds, but doesn't discuss delays in releasing them",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t09|PAD_P159397_27466992#0421": {
+   "grade": 2,
+   "reason": "Directly discusses counterpart funds for the specified Vietnam project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t09|PAD_P160162_29972273#0167": {
+   "grade": 2,
+   "reason": "Directly mentions delays due to lack of counterpart funds in Vietnam project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t09|PAD_P166656_32132529#0044": {
+   "grade": 2,
+   "reason": "Directly mentions delays in releasing counterpart funds for the specified project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t09|PAD_P166656_32132529#0245": {
+   "grade": 2,
+   "reason": "Directly mentions delays in release of counterpart funds for project P166656",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t09|PAD_P169954_34332757#0097": {
+   "grade": 2,
+   "reason": "Directly addresses delays in releasing counterpart funds for a specific project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t09|PAD_P174157_34113326#0089": {
+   "grade": 2,
+   "reason": "Directly mentions delays in counterpart funding for the specified project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t09|PAD_P174157_34113326#0237": {
+   "grade": 2,
+   "reason": "Directly mentions counterpart funds for specific project P174157 in Viet Nam",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t09|PAD_P176812_34338801#0059": {
+   "grade": 1,
+   "reason": "Mentions counterpart funding, but doesn't discuss delays in releasing funds",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t09|PAD_P180228_34279685#0106": {
+   "grade": 2,
+   "reason": "Directly addresses delays in releasing counterpart funds for a specific project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t09|PAD_P504023_34302716#0079": {
+   "grade": 2,
+   "reason": "Directly addresses delays in releasing counterpart funds for Rwanda project",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t13|ICR_P152171_34018915#0020": {
+   "grade": 2,
+   "reason": "Directly mentions restructuring to extend closing date for project P152171",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t13|ICR_P152171_34018915#0021": {
+   "grade": 2,
+   "reason": "Directly mentions restructuring to extend closing date for project P152171",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t13|ICR_P159397_40006871#0086": {
+   "grade": 2,
+   "reason": "Directly discusses restructuring and its impact on project disbursements and outcome rating.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t13|ICR_P159397_40006871#0087": {
+   "grade": 2,
+   "reason": "Directly mentions restructuring to extend the closing date for project P159397",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t13|ICR_P159397_40006871#0157": {
+   "grade": 2,
+   "reason": "Directly discusses restructuring and extending the closing date for project P159397",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t13|ICR_P159397_40006871#0158": {
+   "grade": 2,
+   "reason": "Directly discusses the impact of time extension on project completion",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t13|ICR_P159397_40006871#0159": {
+   "grade": 2,
+   "reason": "Directly discusses restructuring to extend closing date for project P159397",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t13|ICR_P161787_34455054#0028": {
+   "grade": 2,
+   "reason": "Directly mentions a 9-month extension of the project closing date",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t13|ICR_P161787_34455054#0098": {
+   "grade": 1,
+   "reason": "Mentions restructuring but doesn't directly discuss extending the closing date",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t13|ICR_P163984_34456887#0140": {
+   "grade": 0,
+   "reason": "Passage does not mention restructuring to extend the closing date.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t13|ISR_P154784_33468641#0014": {
+   "grade": 2,
+   "reason": "Passage directly mentions restructuring and new closing date for project P154784",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t13|ISR_P157987_34402640#0048": {
+   "grade": 2,
+   "reason": "Directly mentions two restructurings to extend the project's closing date",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t13|ISR_P160162_34226316#0042": {
+   "grade": 2,
+   "reason": "Passage directly mentions restructuring and new closing date for project P160162",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t13|ISR_P160758_32579091#0007": {
+   "grade": 0,
+   "reason": "States 'no restructuring to date', contradicting the question's premise.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t13|ISR_P161562_30551964#0003": {
+   "grade": 2,
+   "reason": "Directly states that there has been no restructuring to date for project P161562.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t13|ISR_P163250_33722792#0013": {
+   "grade": 0,
+   "reason": "States 'no restructuring to date', contradicting the question's premise.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t13|ISR_P164211_34118558#0010": {
+   "grade": 2,
+   "reason": "Passage directly mentions restructuring and new closing date for project P164211.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t13|ISR_P166788_32201487#0005": {
+   "grade": 2,
+   "reason": "Directly states there has been no restructuring to extend the closing date",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t13|ISR_P167190_31666000#0007": {
+   "grade": 0,
+   "reason": "States 'no restructuring to date', contradicting the question's premise.",
+   "by": "databricks-llama-4-maverick"
+  },
+  "t13|ISR_P179381_34282879#0018": {
+   "grade": 2,
+   "reason": "Directly answers the question about restructuring for the specified project",
+   "by": "databricks-llama-4-maverick"
+  }
+ }
+}
