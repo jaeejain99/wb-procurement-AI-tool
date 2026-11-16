@@ -1,6 +1,6 @@
 # Procurement Intelligence Platform: working PoC
 
-Runs offline on synthetic data shaped like the World Bank sources, on real data pulled from the World Bank APIs, and on Databricks.
+Runs on real data pulled from the World Bank APIs on Databricks.
 `pip install -r requirements.txt && pytest -q`
 Proposal and phased rollout plan with KPI targets: [docs/PROPOSAL.md](docs/PROPOSAL.md). Agent benchmark: `python -m procintel.benchmark --data data/live` (needs a Databricks login for the models).
 
